@@ -1,0 +1,22 @@
+a medicine bottle, which is a small cylindrical bottle with a wide mouth, made of __bottle_medicine_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a soda bottle, which is a clear plastic bottle with a ribbed base, made of __bottle_soda_bottle_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_container__. __comp_condition__
+a jug, which is a large bottle with a handle at the neck, made of __bottle_jug_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a squeeze bottle, which is a soft bottle with a narrow nozzle, made of __bottle_squeeze_bottle_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_container__. __comp_condition__
+a spray bottle, which is a bottle with a trigger sprayer, made of __bottle_spray_bottle_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_container__. __comp_condition__
+a pump bottle, which is a tall bottle with a pump on top, made of __bottle_pump_bottle_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_container__. __comp_condition__
+a round glass bottle, which is a bottle with a round body, a narrow neck and a flat base, made of __bottle_round_glass_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a square bottle, which is a bottle with four flat sides and a short neck, made of __bottle_square_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a flask, which is a flat bottle with a rounded shape that fits a pocket, made of __bottle_flask_material__, its surface is __comp_fin_metal__, and it has __comp_feat_container__. __comp_condition__
+a carafe, which is a wide-bellied jug with a flared lip, made of __bottle_carafe_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+an amphora, which is a tall two-handled bottle with a pointed base, made of __bottle_amphora_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a hip flask, which is a flat curved metal bottle with a hinged cap, made of __bottle_hip_flask_material__, its surface is __comp_fin_metal__, and it has __comp_feat_container__. __comp_condition__
+a wine bottle, which is a tall bottle with sloping shoulders, a long neck and a punt in the base, made of __bottle_wine_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a beer bottle, which is a bottle with narrow neck, a short body and a lip for a cap, made of __bottle_beer_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a spirit bottle, which is a heavy square-shouldered bottle with a thick base, made of __bottle_spirit_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a growler, which is a wide-mouthed bottle with a handle, made of __bottle_growler_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a dropper bottle, which is a small bottle with a rubber squeeze dropper, made of __bottle_dropper_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a swing-top bottle, which is a thick bottle with a wire swing-top stopper, made of __bottle_swing_top_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a milk bottle, which is a short wide-mouthed bottle with a narrow base, made of __bottle_milk_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a novelty skull bottle, which is a bottle moulded as a skull, made of __bottle_novelty_skull_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a novelty fish bottle, which is a bottle moulded as a fish, made of __bottle_novelty_fish_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a tall pilsner bottle, which is a tall slim bottle, made of __bottle_tall_pilsner_bottle_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
