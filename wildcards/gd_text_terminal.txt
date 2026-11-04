@@ -1,0 +1,8 @@
+a green screen with the lines "LOAD GAME" and "READY."
+an amber screen with the lines "LOGIN:" and "PASSWORD:"
+a black screen with the line "C:\> DIR" and a blinking cursor
+the lines "10 PRINT HELLO" and "RUN"
+the line "SYNTAX ERROR" in capitals
+the lines "READY" and a block cursor
+the lines "WELCOME OPERATOR" and "ENTER COMMAND"
+a table of numbers and the heading "PAYROLL"

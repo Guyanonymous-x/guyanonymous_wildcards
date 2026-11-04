@@ -1,0 +1,10 @@
+Guyanonymous' Wildcards v81 - index of new files
+================================================
+ROBOTS (rb_): 25 types. Per type: rb_<type>_body, _head, _eyes, _arms, _hands, _move, _feature, _look, _prompt, _short, _group_prompt. Mixes: rb_prompt, rb_group_prompt, rb_short, rb_types.
+Types: tin, human, android, butler, arm, lab, dog, spider, rover, tread, drone, mech, snake, orb, cleaner, pet, clock, war, sub, space, micro, exo, face, warehouse, alien.
+Shared: rb_colour_<toy|modern|rugged|antique|strange>, rb_wear_<style>, rb_place_<indoor|toy|work|factory|lab|outdoor|rugged|sky|battlefield|water|space|antique|strange>, rb_marks, rb_text_unit, rb_text_warn, rb_light, rb_shot, rb_shot_face, rb_shot_any, rb_scale, rb_scale_gentle.
+GADGETS (gd_): 42 types. Per type: gd_<type>_era, _body, _screen, _controls, _material, _colour, _feature, _look, _prompt, _short, _group_prompt. Mixes: gd_prompt, gd_group_prompt, gd_short, gd_types.
+Types: brick, candybar, clamshell, slider, qwerty, slab, fold, rugged, watch, band, ring, glasses, vr, earbuds, headphones, ereader, tablet, pda, console, music, camera, pager, radio, calculator, gps, speaker, power, mainframe, homecomp, tower, allinone, laptop, luggable, gamingpc, minipc, terminal, rack, keyboard, monitor, printer, router, mouse.
+Shared: gd_wear, gd_light, gd_shot, gd_place_<home|desk|street|retro|travel|tech|outdoor>, gd_text_<watch|console|music|camera|calc|gps|speaker|terminal|desktop> (screen text, one quoted line each). Phone and e-reader screen text reuses phone_screen, phone_screen_old, phone_screen_future and ereader_screen.
+REFERENCE (maker_): maker_robot_real_models, maker_robot_fiction_models, maker_gadget_models, maker_computer_models (names with full descriptions; names never appear in prompts).
+Research notes: robots_real.txt, robots_fiction.txt, gadgets_handheld.txt, gadgets_computers.txt (copied into docs/).

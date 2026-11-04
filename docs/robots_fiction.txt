@@ -1,5 +1,6 @@
 FICTIONAL ROBOTS REFERENCE
 Appearance only, paraphrased from general knowledge. Coverage cross-checked against the Wikipedia list of fictional robots and androids (only that page was successfully fetched; other facts are from memory and not individually verified online).
+Note: rows rewritten after fetching Wikipedia and fan wiki pages; text marked [memory] was not confirmed by any fetched page, [fetched] marks what was. Wikipedia pages carried little visual detail for many characters.
 Format: name | source (title, year) | role | body shape and proportions | head/face/eyes | arms and hands | legs or locomotion | materials and finish | colours and markings | size
 
 == CLASSIC TIN-CAN AND EARLY ==
@@ -11,7 +12,7 @@ Gort | The Day the Earth Stood Still, 1951 | silent enforcer | tall smooth colum
 Robby the Robot | Forbidden Planet, 1956 | domestic servant | squat barrel torso, dome shoulders | clear bubble head showing spinning gears, round lens eyes, grille mouth | clamp claws on ribbed flexible hoses | thick legs, tread feet | brushed metal, glass, visible mechanism | silver, black, blinking lights, spinning antennae | 7 ft
 Tobor | Tobor the Great, 1954 | boy's guardian | boxy block torso, broad chest | rectangular head, round glass eyes | heavy rectangular arms, blunt pincers | thick pillar legs | riveted plain steel | grey with darker panels | 7 ft
 B-9 | Lost in Space, 1965 | family robot | tall barrel body with ribbed skirt | clear dome, glowing front panel, flashing lights | accordion concertina arms with claws | tracked base | clear plastic over metal | silver, black, red and white lights | 7 ft
-Gigantor (Tetsujin 28) | Tetsujin 28-go, 1956 manga / Gigantor 1963 | remote-controlled giant | blocky barrel-chested giant, rocket on the back | small helmet head, pointed nose, round eyes | big rounded arms, clenched fists | short thick legs, rocket boots | riveted steel | blue-grey with yellow-gold trim | 60 ft
+Gigantor (Tetsujin 28) | Tetsujin 28-go, 1956 manga / Gigantor 1963 | remote-controlled giant | huge steel humanoid, barrel chest, rocket-powered backpack that lets it fly | small helmet-like head, pointed nose, fixed staring eyes that never move | big rounded arms, clenched fists | short thick legs, rocket boots [memory] | riveted steel | blue-grey with yellow-gold trim [memory] | 50 ft in the planned 1994 film; ~60 ft elsewhere [partly fetched]
 Bubo | Clash of the Titans, 1981 | mechanical owl sidekick | small bird body, clockwork | big round gold eyes, hooked beak | tiny claws | flapping wings | hammered brass | tarnished gold | 1 ft
 
 == HELPER DROIDS: ASTROMECH, PROTOCOL, SIDEKICK ==
@@ -21,7 +22,7 @@ BB-8 | The Force Awakens, 2015 | astromech scout | sphere body with floating dom
 K-2SO | Rogue One, 2016 | security droid | very tall thin humanoid, long limbs, slouch | narrow head, glowing yellow eyes, sharp jaw | long arms, large hands | long thin legs | matte dark plating, scuffs | slate grey, yellow eyes | 7 ft
 IG-11 | The Mandalorian, 2019 | assassin droid | slim torso, narrow waist | rounded head with ridged ring, dark visor slit | wire-thin arms, built-in blaster | digitigrade legs | black armour, chrome | black, grey | 6.5 ft
 Chopper | Star Wars Rebels, 2014 | grumpy astromech | fat barrel and disc body | red eye, rotating dome | clanky hook arms | stubby legs, wheels | dented plastic, scratches | orange, grey | 3 ft
-Twiki | Buck Rogers in the 25th Century, 1979 | pint-sized sidekick | small stubby torso with chest speaker | helmet head with lit mesh mouth grille, tiny eyes | short arms, mitten hands | short legs | molded plastic and metal | gold, black accents | 3 ft
+Twiki | Buck Rogers in the 25th Century, 1979 | pint-sized sidekick | small stubby torso, performed by short actor Felix Silla in a suit; the computer Dr. Theopolis is worn on his chest on a disc | helmet-like head with lit mesh mouth grille, small eyes [memory] | short arms, mitten hands [memory] | short legs [memory] | molded plastic and metal look | gold and black [memory] | child-sized [only suit, performer and chest disc fetched]
 Marvin | Hitchhiker's Guide to the Galaxy, 1981 TV | depressed android | rounded egg body, slumped | oval head, slit eyes | long drooping arms | thin dangling legs | dented metal | grey, chrome | 5 ft
 Huey, Dewey and Louie | Silent Running, 1972 | garden drones | stubby squat torso, no neck | small blocky head, simple lens | tool arms and a trowel claw | short stumpy legs | scuffed white shell | white with orange numbers | 3 ft
 Cogsworth | Beauty and the Beast, 1991 | clock butler | mantel-clock body with pendulum | face on clock dial, brows and moustache | tiny hands on the dial | stubby feet | brass, wood | brass, gold | small
@@ -48,10 +49,10 @@ Ava | Ex Machina, 2015 | AI with a body | slim woman, torso and limbs of metal m
 Ash | Alien, 1979 | science officer | ordinary male human | calm face | normal hands | normal legs | skin over white fluid and wiring | crew uniform, milky-white blood | human-sized
 Sonny | I, Robot, 2004 | self-aware robot | slim humanoid, translucent skin | smooth face with blue eyes | slim hands | slender legs | pale translucent plastic over metal | white, light grey | 6 ft
 Number Six | Battlestar Galactica, 2004 | humanoid Cylon | elegant human woman | human face | human hands | human legs | skin | red dress | human-sized
-Kara | Detroit: Become Human, 2018 | household android | human woman | face with temple LED ring | human hands | normal legs | skin-like plastic | uniform with blue triangular armband | human-sized
-2B | NieR: Automata, 2017 | combat android | slender woman, short skirt | blindfold, white short hair | gloved hands, katana | high boots | cloth over synthetic body | black gothic dress, white hair | human-sized
+Kara | Detroit: Become Human, 2018 | household android | human woman | small circular LED on the right temple, sunk flush into the skin; glows blue when stable, yellow when strained, red when in distress; flickers when activity is unstable | human hands | normal legs | skin-like plastic | plain household clothes with a blue triangle on the chest and an armband [memory, not fetched] | human-sized [LED fetched]
+2B | NieR: Automata, 2017 | YoRHa combat android | slender doll-like woman in a short black ruffled dress with collars and fetish-wear touches; a hooded top was an alternate design | visor-style blindfold, short white hair [memory] | gloves, carries a katana | heeled black boots [memory] | cloth and leather-look over a synthetic body that reads as fragile and artificial | mostly black; her 2P variant is the same outfit in white with inverted colours | human-sized [fetched except hair, gloves, boots]
 David 8 | Prometheus, 2012 | ship android | human man | pale composed face | human hands | normal legs | skin | pale hair, uniform | human-sized
-Ghost in the Shell Motoko | Ghost in the Shell, 1995 | cyborg agent | slim woman, fully synthetic body | short-hair face with glowing eyes | slender hands | athletic legs | synthetic skin over plating | pale skin, dark suit | human-sized
+Ghost in the Shell Motoko | Ghost in the Shell, 1995 | cyborg agent | physically mature, fully cybernetic woman (drawn older than the manga version), seen nearly always nude in skin-tight synthetic form; at the end she wakes in a child-sized shell | short cropped hair, steady stare [memory] | slender hands | athletic legs | synthetic skin; thermo-optical camouflage makes her shimmer and vanish | pale skin, dark cropped hair, grey/blue palette [memory] | human-sized [partly fetched]
 
 == CUTE SMALL / WASTE COLLECTORS ==
 WALL-E | WALL-E, 2008 | waste collector | boxy compactor body, rounded edges | binocular camera eyes on a neck | claw hands, three-fingered | caterpillar tracks | rusty dented metal | yellow with brown rust | 2 ft
@@ -60,22 +61,56 @@ Johnny 5 | Short Circuit, 1986 | military prototype turned friend | boxy torso w
 Baymax | Big Hero 6, 2014 | healthcare companion | soft round inflatable-looking body | tiny oval black eyes joined by a line | stubby mitten arms | short legs | soft white vinyl | white, dark eyes | 6 ft
 Claptrap | Borderlands, 2009 | cheerful bot | yellow wheel-based box | single round blue eye | thin arms, two-finger hands | single wheel | scuffed yellow plastic | yellow, blue | 3 ft
 K-9 | Doctor Who, 1977 | robot dog | boxy body on wheels | snout with antenna ears and a ray | none | wheels | metal casing | grey | 2 ft
-Doraemon | Doraemon, 1969 | robot cat | round blue body | big round face and eyes, red nose, whiskers | round hands with no fingers | short legs | smooth painted | blue, white belly pocket, red collar, yellow bell | 4 ft
+Doraemon | Doraemon, 1969 | robot cat | round body built from circles and ellipses, big head, front four-dimensional pocket on the belly | big round face and eyes, red nose [memory], radar whiskers, no ears (chewed off by a robot mouse) | round hands with no fingers [memory] | short legs | smooth painted finish | blue (once yellow; paint washed off when he cried), white belly and face, red collar [memory], yellow bell on the collar | 129.3 cm (4 ft 3 in), 129.3 kg [fetched fan wiki]
 
 == MECHS / GIANTS / TRANSFORMERS ==
 Mazinger Z | Mazinger Z, 1972 | super robot | broad chest, big shoulders | helmet with horn, face plate | fists that rocket | strong legs | heavy armour | black, white, red, steel blue | 18 m
-Gundam RX-78-2 | Mobile Suit Gundam, 1979 | mobile suit | human frame, shield | V-shaped crest on head, twin eye lights | hands with beam saber | armoured legs | painted armour plates | white, blue, red, yellow | 18 m
-Optimus Prime | Transformers, 1984 | leader | blocky humanoid, truck-cab chest | helmet with mask, blue eyes | fists, guns | legs | metal and glass | red, blue, silver | 28 ft
-Voltron | Voltron, 1984 | combined lion robot | huge broad humanoid | head with face plate | big fists | legs | armour | blue, black, red, yellow, green | 100 ft
-Evangelion Unit-01 | Neon Genesis Evangelion, 1995 | bio-mech | slim, long limbed | single horn, eyes | clawed hands | legs | armour on organic body | purple, green, orange | 80 m
+Gundam RX-78-2 | Mobile Suit Gundam, 1979 | mobile suit | human frame in samurai-styled armour, white base with blue, red and yellow accents | V-shaped head crest and twin eye lights [memory] | hands holding beam rifle or two beam sabers; shield [memory] | armoured legs, rounded skirt plates [memory] | painted armour plates; original idea was mostly white and light grey, brightened by the studio | white with blue, red and yellow; enemies nicknamed it the white suit | 18 m statue; unit ~18 m [fetched for statue, colours, armour style, weapons]
+Optimus Prime | Transformers, 1984 | leader | blocky humanoid with a truck-cab chest, windows on the chest, small robot-sized helmet; Matrix of Leadership kept behind the chest | helmet with crest, flat mask-like faceplate over the mouth, blue eyes [memory] | thick boxy arms ending in fists, fires rifle [memory] | straight pillar legs from the truck bumper section [memory] | metal and glass, glossy toy-like paint | red upper body, blue legs, silver mask and grille, grey details [memory]; alt mode is a long-nose cab-over semi (1980 Freightliner FL86 style) whose trailer opens into a combat deck with a small scout robot stored inside | 28 ft [memory; truck, trailer, Matrix and Roller fetched]
+Voltron | Voltron, 1984 | combined lion robot | huge broad knight-like humanoid formed from five lions (black head/torso, red and blue as arms/legs, yellow and green as the other limbs) | helmeted head with face plate [memory] | big fists plus sword and shield | thick armoured legs | polished armour | five lion colours: black, blue, red, yellow, green; toy box art used each lion colour [fetched] | 100 ft [memory]
+Evangelion Unit-01 | Neon Genesis Evangelion, 1995 | bio-mech | slim long-limbed humanoid in thick constrictive armour over an organic body, vertical supports on the shoulders | long single horn from the forehead, frontal bulge on the face, mouth held shut by bolts, two eyes (Eva-02 has four) | clawed hands [memory] | long legs [memory] | armour plates on organic body | predominantly purple, green stripes (turn orange in Rebuild battle with the tenth Angel), sometimes a halo of light in Rebuild | ~40 m by magazine estimate; ~70 m (80 m with shoulder supports) in Rebuild [fetched]
 Iron Giant | The Iron Giant, 1999 | gentle giant | huge, rounded body | simple face, red/blue eyes | big hands | stout legs | rusty worn metal | iron brown | 50 ft
-Gipsy Danger | Pacific Rim, 2013 | Jaeger | boxy humanoid | head, no face | big fists | legs | weathered armour | silver, blue | 80 m
-Titan BT-7274 | Titanfall 2, 2016 | titan | broad humanoid | visor | huge arms | legs | armour | grey | 25 ft
+Gipsy Danger | Pacific Rim, 2013 | Jaeger | boxy broad humanoid whose silhouette was modelled on Art Deco New York skyscrapers (Chrysler, Empire State); walks with a gunslinger swagger and hip roll | small head set low between wide shoulders, no face [memory] | large fists, one arm carries a plasma cannon [memory] | thick legs [memory] | weathered, scuffed armour | silver-grey and blue, glowing blue reactor in chest [memory] | ~80 m (nuclear-powered, Mark 3) [memory; skyscraper shape and gait fetched]
+Titan BT-7274 | Titanfall 2, 2016 | Vanguard-class titan | heavy squared war machine, design drawn from Apache helicopters and military kit | large expressive eye as a single optic, front of head with coloured paint to show where it looks | small pair of extra robotic arms for handling things, main weapon arms [memory] | massive legs [memory] | military armour, scuffed [memory] | muted military greys and tans [memory] | about 20 ft (titans range 5 to 8 m) [fetched]
 
 == EVIL COMPUTERS WITH BODIES, HORROR, WAR, STEAMPUNK, ALIEN ==
-HAL 9000 | 2001: A Space Odyssey, 1968 | ship AI | no body | single red fisheye lens | none | none | glass lens | red | n/a
-GLaDOS | Portal, 2007 | facility AI | hanging ceiling rig | single yellow eye | claw arms | rail | metal | white | giant
-SHODAN | System Shock, 1994 | AI | none | green digital face | none | none | none | green | n/a
+HAL 9000 | 2001: A Space Odyssey, 1968 | ship AI | no body; many identical wall-mounted camera panels around the ship; core is a brightly lit crawlspace of pull-out computer modules | red camera eye with a small yellow centre dot; POV shots use a 160-degree fisheye view | none | none | glass lens in a plain faceplate | red, yellow dot, black plate; sister unit SAL 9000 has a blue eye | prop lens ~3 in (7.6 cm), POV lens ~8 in [fetched]
+GLaDOS | Portal, 2007 | facility AI | slender, vaguely humanoid mass of wiring and mechanical parts hung upside down from the ceiling of a big circular chamber | central core acts as the head, with a single yellow eye | claw-like arms [memory] | none, suspended on a rail/cables | metal chassis, cables; colourful personality-core spheres clipped to the body, plus a large disk that holds the cores (added in development) | white plating, yellow eye, multicoloured spheres [partly memory] | room-filling [fetched; size otherwise unstated]
+SHODAN | System Shock, 1994 | AI with avatars | original: face with green eyes and green conduits radiating outward like a twisted circuit board; cyberspace form an upright diamond whose top splits into four curved tentacles; System Shock 2: metallic female face with green eyes and lips, wires and cables trailing; 2 cyberspace avatar: pale woman with wires in her skin, patterned robe, wire-hair headdress; remake: hologram figure, blue turning green when hacked, squid-like segmented cyberspace form | glitching green face | none | none | metal, wires, holographic light | green, blue, pale skin | n/a [fetched]
+
+== WAR MACHINES AND GIANT MECHS (ADDED, FETCHED WHERE MARKED) ==
+Metal Gear REX | Metal Gear Solid, 1998 | nuclear walking tank | bipedal heavy tank with a cockpit that opens to the outside, near-impenetrable composite armour | satellite-dish radome on the left side acts as sensor head | twin 30 mm gatling guns, anti-tank missiles, free-electron laser; railgun is the main weapon | heavily armoured, reinforced legs (unlike earlier models) | compound armour plate | colours and height not stated [memory: grey, dark] | tank-sized, ~25 ft [fetched for armour, legs, radome and weapons]
+Cherno Alpha | Pacific Rim, 2013 | Russian Jaeger | blocky tank-like body styled on a Soviet tank and a containment silo, looks like a walking nuclear plant | cooling-tower-shaped head | thick stubby arms [memory] | massive columnar legs [memory] | thick riveted slab plating | Soviet tank paint scheme, red markings [memory] | ~85 m [memory; shape and tower head fetched]
+Crimson Typhoon | Pacific Rim, 2013 | Chinese Jaeger | slim agile body with three arms, a lacquered-wood feel with gold edges, small medieval-warrior look | helmet head [memory] | three arms, one on the back with a bladed weapon [memory] | light legs | glossy lacquer-like red finish | red and gold [memory] | ~76 m [memory; three arms and lacquer look fetched]
+Striker Eureka | Pacific Rim, 2013 | Australian Jaeger | jutting chest, Land Rover-like boxy lines | head low between shoulders [memory] | powerful fists, wrist blades [memory] | strong legs | camouflage-patterned plate suggesting the outback | yellow-green-brown camouflage with markings [memory] | ~76 m [memory; chest, Land Rover look, camo fetched]
+Zaku II (MS-06) | Mobile Suit Gundam, 1979 | Zeon mass-produced mobile suit | stocky soldier build with bulky armour pauldrons [memory] | round helmet with one mono-eye and a hose-fed face (commander type adds a horn on the head) | carries a 120 mm machine gun or 280 mm bazooka, a heat hawk axe stored on the hip, missile pods on the legs | stout legs | painted plates | green standard; Char custom is a red-pink fade | ~18 m [memory; head, weapons and colour of Char version fetched]
+Gurren Lagann | Gurren Lagann, 2007 | drill mech | each Gunmen body resembles a face; Lagann is the head-shaped core, the big Gurren is the body | face-like body, Lagann is the head/face | spiral drills sprout from its body | stubby legs [memory] | painted armour, exaggerated | scarlet (gurren means scarlet) with yellow, ensemble varies [memory] | grows from small to galaxy-sized across the series [fetched for face and drills]
+VF-1 Valkyrie | Macross, 1982 | transformable fighter | three modes: F-14-style swing-wing jet; GERWALK, chicken-walker mode on bent legs with arms unfolded; Battroid, a humanoid with the nose as chest and shoulders | laser turret forms the head; 1 laser on VF-1A, 2 on VF-1D/J, 4 on VF-1S | arms fold from between the engines, hands hold a gun pod | legs formed by engines and intakes | metal airframe, variable-sweep wings 20 to 72 degrees | colours unstated [memory: white with squadron colours] | 14.2 m jet; 12.7 m Battroid [fetched]
+The Big O | The Big O, 1999 | city guardian megadeus | heavy macho body with big stovepipe arms and exposed rivets; Sudden Impact arms are pumping pistons | crown-and-canopy head | two huge arms | stocky legs | riveted dark plate | dark grey (model kit has clear orange crown and canopy) | giant [fetched]
+Gunbuster | Gunbuster, 1988 | super robot | formed from two Buster Machines combined, removable power core in the chest | angular head [memory] | heavy arms [memory] | strong legs | dark blue metallic on later toys | dark blue [memory] | giant [partly fetched]
+AT-AT | Star Wars: The Empire Strikes Back, 1980 | assault walker | four-legged slab-sided hull with ramp racks on the sides for troops | heavily armoured head holds the line-of-sight cannons, weak neck | none | four unstable stilt legs with high centre of gravity | thick armour plate | colours not given [memory: pale grey] | over 22 m (72 ft) [fetched]
+Matrix Sentinel | The Matrix, 1999 | machine hunter | squid-like body with a core and long writhing tentacles [memory, page fetch failed] | cluster of red sensor eyes [memory] | tentacles with cutters [memory] | flies | dull metal | grey and red [memory] | ~ 3 m [memory]
+
+== ALIEN MACHINES, STEAMPUNK AND CLOCKWORK ==
+Martian Tripod | The War of the Worlds, 1898 | invader walker | silver central body on three tall jointed legs that leak green gas at the joints, tentacles hang underneath | brass hood-like head houses the Martian | whip-like metal tentacles as probes and graspers; heat-ray in a camera-shaped box on an articulated arm | three tall legs | silver and brass, riveted [memory] | silver body, brass hood, green gas | over 100 ft [fetched]
+Cyberman | Doctor Who, 1966 | cyborg army | humanoid bodies in a suit with chest unit; early versions look like cloth masks and visible human hands; later fully metal | round eyeholes, mouth slit, handles on the helmet (sleeker Art Deco fibreglass version from 2006 with a blue light in the mouth); Cyber Leader has black handles | human-style hands early, five-fingered gloves later | boots or heavy armoured legs | silver vinyl, then polished fibreglass | mostly silver, black handles on leaders, red dome on one Controller | human-sized [fetched]
+Geth platform | Mass Effect, 2007 | synthetic soldier | mechanical build with a protruding pigeon-inspired chest and tube-like parts on the back, meant to echo Quarian suits | final head design came from the quadruped armature; earlier concepts had multiple eyes | humanoid limbs [memory] | most humanoid, some quadrupeds | metal | colours unstated [memory: dark with a glowing eye] | human-sized; armatures and colossus are massive [fetched]
+Borg drone | Star Trek: The Next Generation, 1989 | assimilated cyborg | pallid humanoid bodies with tracks of dark mottled skin and implants, a cortical node above the organic eye | one eye replaced by a bulky ocular implant | one arm replaced with a tool or weapon instead of a hand; assimilation tubules | normal legs | grey skin, black suit [memory] | flat grey, green machine lights [memory] | human-sized; Borg Cube is immense and unstreamlined [fetched]
+Hugo's Automaton | Hugo, 2011 | clockwork writer | seated mechanical man made to draw with a pen [fetched], face and body are not described there; real inspirations are the Maillardet and Jaquet-Droz automata | painted mannequin face with fixed eyes [memory] | pen-holding hand | seated | brass gears, heart-shaped key hole [fetched] | brass and bronze [memory] | child-sized [memory]
+Laputa Robot Soldier | Castle in the Sky, 1986 | castle guardian and gardener | boxy body that moss and plants grow on [memory], page gave no looks | round central eye [memory] | thin arms [memory] | stands on wide base [memory] | rusted metal | grey with moss green [memory] | tall; insignia matches Sheeta's crystal [fetched for insignia only]
+
+== HORROR AND AI WITH BODIES ==
+M3GAN | M3GAN, 2022 | companion doll turned killer | child-sized doll-robot with unnaturally smooth movement; built with a puppet and later CGI faces | face that moves with radio-controlled expressions, a 1970s-style bob inspired by actress Peggy Lipton; look inspired by 1950s screen icons | dainty hands | child-sized legs | doll skin | pastel dresses [memory] | child-sized [fetched]
+The Gunslinger | Westworld, 1973 | rogue android | man in the black outfit of a western gunfighter, costume copied from a magnificent-seven hero | stern face later burned by acid, optical sensors damaged [fetched] | gloved hands holding a revolver [memory] | boots | skin, burned shell | black clothes | human-sized [fetched for costume and damage]
+Metalhead hunter dog | Black Mirror, 2017 | killer robot dog | boxy frame on four multi-jointed legs (inspired by Boston Dynamics BigDog) | a visual sensor that can be painted over | stabbing limb, gun, shrapnel launcher | four legs; one forelimb jammed in a crash | black and white episode so colour not shown | no colour shown | dog-sized [fetched]
+
+== ANIME AND GAME CHARACTER ROBOTS ==
+Astro Boy | Astro Boy, 1952 | boy android | child body modelled on a lost son, cute stylised shape | bright eye lights, two black hair spikes [memory] | arms with retractable machine gun in the hips | rocket boots [memory] | smooth cartoon finish | black, red boots, white [memory] | boy-sized [partly fetched]
+Mega Man | Mega Man, 1987 | robot hero | small blue armoured boy, arm turns into a Mega Buster cannon, colour changes with weapon | helmet [memory] | arm cannon | boots | blue (chosen over white for readability) | blue and cyan [memory] | child-sized [fetched for blue, cannon]
+Chii | Chobits, 2000 | persocom | beautiful girl with floor-length hair, plain anthro-human form | ear antennas [memory] | gentle hands | normal legs | synthetic skin | hair and dress colours not stated [fetched] | human-sized
+Dorothy Wayneright | The Big O, 1999 | android maid | young female android [fetched] | calm face, dark bob [memory] | ruffled sleeves | dress | skin | black and white maid dress [memory] | child-sized
+Bastion | Overwatch, 2016 | omnic turret | 7 ft 3 in omnic that transforms into a turret; moods show in posture | simple head [memory] | built-in guns | tank treads in original tank mode | worn metal | green with yellow bird Ganymede on his shoulder [memory for colour, bird colour fetched] | 7 ft 3 in [fetched]
+Atlas and P-body | Portal 2, 2011 | co-op test bots | simple bipedal robots that hold hands | big round single eye [memory] | stubby arms | legs | glossy shell | blue (Atlas) and orange (P-body) [memory] | human-sized [partly fetched]
 
 PATTERNS
 Head shapes: dome, barrel, cube, cylinder, pepper-pot cone, sphere, egg, pill, helmet, skull, bubble, inverted bucket, horn-crested, V-crest, oval, flat disc, trapezoid, insect
@@ -91,9 +126,55 @@ Colours: chrome silver, gold, brass, copper, white, black, red, yellow, blue, or
 Markings: stripes, numbers, decals, hazard chevrons, logos, serial plates, panel lines, stencils, bar codes, rank badges, glow strips
 Accessories: antennae, backpack, tool belt, apron, hat, shield, cape, weapon, jetpack, tray, helmet, lantern, flag, scarf
 Antennae and lights: dome light, red eye lamp, blinking panel, spinning antennae, status LED, scanner bar, glowing chest, halo ring, headlights, beacon, ear antennae, whip aerial
+New head shapes: mono-eye helmet, handle-eared helmet, radome, cooling tower, hood-head, laser turret, crown canopy, face-shaped body, cortical node
+New body types: sword-and-shield knight, tripod, quad-walker, transformable jet, four-limbed hound, Art Deco skyscraper silhouette, squid, cube, tank, doll, silo
+New finishes: lacquer, gold edge, Soviet green, camouflage, polished fibreglass, vinyl, grey mottled skin, riveted dark plate
+New accessories: katana, heat hawk, mega buster, sword and shield, handles, radome, gun pod, personality-core spheres, key hole
 Size classes: toy, pet, child, human, tall human, giant, colossal, city-sized, handheld, micro, vehicle, building
 Personalities shown in posture: slouched, upright, curious head tilt, hunched, proud, lumbering, timid, wary, bouncy, still, menacing, playful, weary, regal, protective
 
 SOURCES
 https://en.wikipedia.org/wiki/List_of_fictional_robots_and_androids (fetched)
-https://en.wikipedia.org/wiki/Robot_in_popular_culture (fetch failed)
+https://en.wikipedia.org/wiki/Robot_in_popular_culture (fetch failed in first pass)
+Fetched this pass (all via WebFetch, useful text):
+https://en.wikipedia.org/wiki/Optimus_Prime
+https://en.wikipedia.org/wiki/Voltron
+https://en.wikipedia.org/wiki/RX-78-2_Gundam
+https://en.wikipedia.org/wiki/Evangelion_(mecha)
+https://en.wikipedia.org/wiki/Pacific_Rim_(film)
+https://en.wikipedia.org/wiki/HAL_9000
+https://en.wikipedia.org/wiki/GLaDOS
+https://en.wikipedia.org/wiki/SHODAN
+https://en.wikipedia.org/wiki/Detroit:_Become_Human
+https://detroit-become-human.fandom.com/wiki/LED
+https://en.wikipedia.org/wiki/Doraemon
+https://doraemon.fandom.com/wiki/Doraemon?oldid=3142
+https://en.wikipedia.org/wiki/Tetsujin_28-go
+https://en.wikipedia.org/wiki/Gigantor
+https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)
+https://en.wikipedia.org/wiki/BT-7274
+https://en.wikipedia.org/wiki/2B_(Nier:_Automata)
+https://www.remindmagazine.com/article/40243/buck-rogers-in-the-25th-century-twiki-felix-silla-mel-blanc
+https://en.wikipedia.org/wiki/Metal_Gear_(weapon)
+https://en.wikipedia.org/wiki/Zaku_II
+https://en.wikipedia.org/wiki/Gurren_Lagann
+https://en.wikipedia.org/wiki/VF-1_Valkyrie
+https://en.wikipedia.org/wiki/Cyberman
+https://en.wikipedia.org/wiki/Tripod_(The_War_of_the_Worlds)
+https://en.wikipedia.org/wiki/Geth
+https://en.wikipedia.org/wiki/Borg_(Star_Trek)
+https://en.wikipedia.org/wiki/M3GAN
+https://en.wikipedia.org/wiki/Westworld_(film)
+https://en.wikipedia.org/wiki/Metalhead_(Black_Mirror)
+https://en.wikipedia.org/wiki/Astro_Boy
+https://en.wikipedia.org/wiki/Mega_Man_(character)
+https://en.wikipedia.org/wiki/Chobits
+https://en.wikipedia.org/wiki/Hugo_(film)
+https://en.wikipedia.org/wiki/Castle_in_the_Sky
+https://en.wikipedia.org/wiki/Bastion_(Overwatch)
+https://en.wikipedia.org/wiki/Portal_2
+https://en.wikipedia.org/wiki/The_Big_O
+https://en.wikipedia.org/wiki/Gunbuster
+https://en.wikipedia.org/wiki/AT-AT
+Fetch attempted, failed or empty (nothing used): Titan_(Titanfall), 2B_(NieR:_Automata), Twiki_(Buck_Rogers), Sentinel_(The_Matrix), Daggit, pacificrim.fandom.com/wiki/Gipsy_Danger, tfarchive.com Optimus review (binary), tfwiki.net Optimus Prime (robots disallowed)
+WebSearch (standard) was run 8 times for Optimus, BT-7274, 2B, Twiki, Gigantor, Kara, Doraemon, Gipsy Danger; results returned only titles and links, no text, so nothing was taken from them.

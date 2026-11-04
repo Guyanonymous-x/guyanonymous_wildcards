@@ -1,0 +1,8 @@
+reading "3.14159"
+reading "1,024"
+reading "0.5"
+reading "42"
+reading "99999999"
+reading "12 x 12 = 144"
+the word "ERROR"
+reading "7.25"

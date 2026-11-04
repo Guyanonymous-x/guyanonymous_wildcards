@@ -1,0 +1,3 @@
+Its body is __rb_orb_body__. It has __rb_orb_head__. Its sensors and face show __rb_orb_eyes__. It has __rb_orb_arms__, ending in __rb_orb_hands__. For movement it has __rb_orb_move__. A notable detail is __rb_orb_feature__.
+It has __rb_orb_head__, with __rb_orb_eyes__. Its body is __rb_orb_body__, with __rb_orb_arms__, ending in __rb_orb_hands__. It moves on __rb_orb_move__. It also has __rb_orb_feature__.
+Built with __rb_orb_body__, it has __rb_orb_head__, which shows __rb_orb_eyes__. It has __rb_orb_arms__, ending in __rb_orb_hands__. For movement it has __rb_orb_move__. Look for __rb_orb_feature__.

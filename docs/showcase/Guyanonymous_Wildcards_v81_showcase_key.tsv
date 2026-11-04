@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+S01	tin toy robot	4:5	912x1152	1264x1568	631	8100	ok 
+S02	humanoid robot	4:5	912x1152	1264x1568	719	8111	ok 
+S03	android	4:5	912x1152	1264x1568	679	8122	ok 
+S04	helper robot	3:2	1248x848	1728x1152	638	8133	ok 
+S05	industrial arm	3:2	1248x848	1728x1152	735	8144	ok 
+S06	four-legged robot	3:2	1248x848	1728x1152	604	8155	ok 
+S07	wheeled rover	3:2	1248x848	1728x1152	635	8166	ok 
+S08	giant mech	4:5	912x1152	1264x1568	582	8177	ok 
+S09	clockwork automaton	4:5	912x1152	1264x1568	669	8188	ok 
+S10	pet robot	1:1	1024x1024	1408x1408	543	8199	ok 
+S11	floating orb robot	1:1	1024x1024	1408x1408	552	8210	ok 
+S12	alien machine	3:2	1248x848	1728x1152	570	8221	ok 
+S13	early mobile phone	4:5	912x1152	1264x1568	628	8232	ok check phone screen text
+S14	flip phone	1:1	1024x1024	1408x1408	542	8243	ok 
+S15	modern phone	4:5	912x1152	1264x1568	584	8254	ok 
+S16	smartwatch	1:1	1024x1024	1408x1408	531	8265	ok 
+S17	e-book reader	4:5	912x1152	1264x1568	580	8276	ok check e-reader text lines render
+S18	tablet	3:2	1248x848	1728x1152	502	8287	ok 
+S19	handheld game console	3:2	1248x848	1728x1152	555	8298	ok 
+S20	digital camera	3:2	1248x848	1728x1152	469	8309	ok 
+S21	home computer	3:2	1248x848	1728x1152	478	8320	ok 
+S22	laptop	3:2	1248x848	1728x1152	526	8331	ok 
+S23	computer terminal	3:2	1248x848	1728x1152	527	8342	ok check terminal text lines render
+S24	gaming computer	4:5	912x1152	1264x1568	552	8353	ok 
+S25	mainframe	3:2	1248x848	1728x1152	566	8364	ok 
+G01	tin robots grid	1:1	1024x1024	1408x1408	2312	8375	ok 
+G02	humanoid robots grid	1:1	1024x1024	1408x1408	1131	8386	ok 
+G03	rovers and tracked robots grid	1:1	1024x1024	1408x1408	1029	8397	ok 
+G04	pet robots grid	1:1	1024x1024	1408x1408	2038	8408	ok 
+G05	drones grid	1:1	1024x1024	1408x1408	1005	8419	ok 
+G06	clockwork robots grid	1:1	1024x1024	1408x1408	1128	8430	ok 
+G07	early phones grid	1:1	1024x1024	1408x1408	1392	8441	ok 
+G08	smartphones grid	1:1	1024x1024	1408x1408	692	8452	ok 
+G09	wearables grid	1:1	1024x1024	1408x1408	630	8463	ok 
+G10	e-readers grid	1:1	1024x1024	1408x1408	619	8474	ok 
+G11	tablets and organisers grid	1:1	1024x1024	1408x1408	612	8485	ok 
+G12	handheld devices grid	1:1	1024x1024	1408x1408	1274	8496	ok 
+G13	home computers grid	1:1	1024x1024	1408x1408	629	8507	ok 
+G14	laptops grid	1:1	1024x1024	1408x1408	652	8518	ok 
+G15	keyboards and mice grid	1:1	1024x1024	1408x1408	1145	8529	ok 

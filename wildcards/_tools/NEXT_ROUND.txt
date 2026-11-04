@@ -439,3 +439,7 @@ V79 RELEASED (2026-11-04): nr_/pt_/sy_ genres, mo_ money, mt_ metalware, full de
 USER REQUEST 2026-11-04: after v80, expand random robot designs: research the top ~100 best-known robots plus invented robots from fiction, movies and TV; review images/descriptions; design a robot wildcard structure with huge part/component variety (as with shoes). PLAN: v81 = robots (brand-free looks in robot_ files; real/fiction names only in maker_robot_ reference files and docs). Moves adult update to v82 and non-illustrative art styles to v83.
 
 ROADMAP REORDER (user): v81 = robots, v82 = non-illustrative / non-photographic art styles, v83 = combined adult update (adult_ prefix per edition) - adult moved to the end.
+
+USER ADDITION: v81 also includes gadgets and tech devices (phones, wearables, ebook readers, tablets, portable computers, computers) researched and structured like robots (full parts-based descriptions, no brand names in wildcards, names only in maker_ files). Research notes: docs/gadgets_handheld.txt, gadgets_computers.txt, robots_real.txt, robots_fiction.txt.
+
+V80 RELEASED: 7 collection families (treasure, cards, minerals, sound, screens, art, nature); library 35,201; main + release/v80 pushed (28226efc).

@@ -1,0 +1,3 @@
+Its body is __rb_mech_body__. It has __rb_mech_head__. Its sensors and face show __rb_mech_eyes__. It has __rb_mech_arms__, ending in __rb_mech_hands__. For movement it has __rb_mech_move__. A notable detail is __rb_mech_feature__.
+It has __rb_mech_head__, with __rb_mech_eyes__. Its body is __rb_mech_body__, with __rb_mech_arms__, ending in __rb_mech_hands__. It moves on __rb_mech_move__. It also has __rb_mech_feature__.
+Built with __rb_mech_body__, it has __rb_mech_head__, which shows __rb_mech_eyes__. It has __rb_mech_arms__, ending in __rb_mech_hands__. For movement it has __rb_mech_move__. Look for __rb_mech_feature__.

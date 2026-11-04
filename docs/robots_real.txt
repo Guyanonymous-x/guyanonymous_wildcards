@@ -1,103 +1,184 @@
 REAL-WORLD ROBOTS APPEARANCE REFERENCE
 Format: name | year | role | body shape and proportions | head/face/sensors | arms and hands | legs or locomotion | materials and finish | colours and markings | approximate size
-(Facts checked on Wikipedia pages listed at end are marked [src]; the rest is general visual knowledge, paraphrased.)
+Tags: [src] = checked on a page fetched this session (URLs listed at end). [mem] = general visual knowledge, NOT verified online. [colour-mem] = size/materials verified but colour not stated by any fetched page, so colour is from memory or photo-caption wording only.
+Verification note: Wikipedia pages almost never state colours; colours were taken from robotsguide.com, manufacturer-adjacent pages and press descriptions where available.
 
 EARLY AUTOMATA AND 1920s-60s
-Jaquet-Droz Writer automaton | 1770s | writing automaton | seated child figure at a small desk, doll proportions | painted doll face, eyes follow the pen | small jointed arm and fingers holding a quill | seated, no locomotion | brass clockwork under cloth clothes, painted wood and porcelain face | period blue coat, pale skin tones | about 70 cm seated
-Eric (Capt. Richards) | 1928 | exhibition humanoid | tall knight-like metal man, boxy chest | rigid mask-like metal face, slit mouth, lamp-eyes | stiff hinged arms with simple hands | standing on a plinth, torso swivels | riveted steel armour plates, polished | silver steel with dark rivets | about 1.8 m
-Elektro | 1937 | World's Fair showpiece humanoid | tall barrel-chested standing man [src] | round metal face, photoelectric eyes that tell red from green [src] | jointed arms with gloved-style hands | stiff walking on roller base | steel frame inside aluminium skin [src] | silver aluminium, dark joints | about 2.1 m, 120 kg [src]
-Sparko | 1939 | robot dog companion to Elektro | small barking dog shape, stubby body | simple dog head with ears | none | four stiff legs, sits and begs | metal shell | silver | about 40 cm
-Elsie / Elmer tortoise | 1948 | early autonomous turtle robot | low dome shell on three wheels | single light sensor and a bump contact on the front | none | three wheels | metal and Bakelite shell, glass | cream and grey shell | about 30 cm
-Gort-era Robby the Robot (film prop, real build) | 1956 | cinema robot | rounded squat torso, glass dome head with moving spinning parts | transparent dome with rotating antennas and coils | tube arms with claw hands | tank-like treads | moulded plastic and metal, clear dome | silver grey with visible works | about 2.1 m
-Unimate | 1961 | first industrial arm, car factory | big boxy base plus a single hydraulic arm [src] | none | five-axis hydraulic arm, simple gripper on a steel armature [src] | fixed to floor | heavy painted steel [src, weight about 1800 kg] | factory green or grey, dark hydraulic lines | arm reach about 2 m
-Shakey | 1966 | research mobile robot | tall slim box on wheeled base | TV camera and rangefinder on a tilting head, antenna | none | two drive wheels | aluminium, exposed wiring | silver and grey, tape labels | about 1.5 m
-WABOT-1 | 1973 | early full humanoid | boxy adult-like frame with cable trunk | camera eyes, mouth speaker | two arms with simple hands | two legs on a frame | steel frame with exposed wires | grey metal | about 1.7 m
+Jaquet-Droz Writer automaton | 1770s | writing automaton | seated child figure at a small desk, doll proportions | painted doll face, eyes follow the pen | small jointed arm and fingers holding a quill | seated, no locomotion | brass clockwork under cloth clothes, painted wood and porcelain face [mem] | period blue coat, pale skin tones [mem] | about 70 cm seated
+Eric (Capt. Richards) | 1928 | exhibition humanoid | tall knight-like metal man, boxy chest | rigid mask-like metal face, slit mouth, lamp-eyes | stiff hinged arms with simple hands | standing on a plinth, torso swivels | riveted steel armour plates, polished [mem] | silver steel with dark rivets [mem] | about 1.8 m
+Elektro | 1937 | World's Fair showpiece humanoid | tall barrel-chested standing man [src earlier] | round metal face, photoelectric eyes that tell red from green | jointed arms with gloved-style hands | stiff walking on roller base | steel frame inside aluminium skin | silver aluminium, dark joints | about 2.1 m, 120 kg
+Sparko | 1939 | robot dog companion to Elektro | small barking dog shape, stubby body | simple dog head with ears | none | four stiff legs, sits and begs | metal shell [mem] | silver [mem] | about 40 cm
+Elsie / Elmer tortoise | 1948 | early autonomous turtle robot | low dome shell on three wheels | single light sensor and a bump contact on the front | none | three wheels | metal and Bakelite shell, glass [mem] | cream and grey shell [mem] | about 30 cm
+Robby the Robot (film prop, real build) | 1956 | cinema robot | rounded squat torso, glass dome head with moving spinning parts | transparent dome with rotating antennas and coils | tube arms with claw hands | tank-like treads | moulded plastic and metal, clear dome [mem] | silver grey with visible works [mem] | about 2.1 m
+Unimate | 1961 | first industrial arm, car factory | big boxy base plus a single hydraulic arm [src earlier] | none | five-axis hydraulic arm, simple gripper on a steel armature | fixed to floor | heavy painted steel, about 1800 kg | factory green or grey, dark hydraulic lines [mem] | arm reach about 2 m
+Shakey | 1966 | research mobile robot | tall slim box on wheeled base | TV camera and rangefinder on a tilting head, antenna | none | two drive wheels | aluminium, exposed wiring [mem] | silver and grey, tape labels [mem] | about 1.5 m
+WABOT-1 | 1973 | early full humanoid | boxy adult-like frame with cable trunk | camera eyes, mouth speaker | two arms with simple hands | two legs on a frame | steel frame with exposed wires [mem] | grey metal [mem] | about 1.7 m
 
 INDUSTRIAL
-Articulated six-axis arm (FANUC / KUKA type) | 1970s-today | factory welding and handling | segmented arm on a round base, cylinder links | none | six jointed segments, tool flange with gripper or welding torch | bolted to floor | cast aluminium, smooth glossy paint | bright yellow (FANUC) or orange (KUKA) with black joints | reach 1-3 m
-SCARA arm (Epson / Yamaha type) | 1981 | fast pick and place | compact column with two horizontal links | none | horizontal two-link arm with a vertical quill and small gripper | fixed on bench | white or grey plastic and aluminium covers | white with blue or grey stripes | reach 0.4-0.8 m
-Delta / parallel robot (ABB FlexPicker type) | 1990s | packaging pick and place | spider-like three arms hanging from a top plate | none | three light carbon arms with ball joints to a small platform | mounted overhead | carbon-fibre rods, aluminium plate | silver and stainless | about 1 m span
-Cobot (Universal Robots UR5 type) | 2008 | collaborative arm | slim tubular arm with rounded joint caps | none | six rotary joints, small two-finger gripper | bench or cart mounted | light aluminium and plastic | silver-grey with blue joint caps | reach about 85 cm
-Baxter | 2012 | collaborative factory robot | torso on a pedestal with two arms and a screen head [src] | tablet face display with animated eyes, cameras on wrists | two orange-red 7-joint arms with parallel grippers | fixed pedestal | moulded plastic skin | red and black with white face screen | about 1.8 m tall
-Gantry / Cartesian robot | 1970s-today | CNC and 3D printing | rectangular frame with moving rails | none | tool head on linear rails | fixed | extruded aluminium profiles | silver with black cable chains | 1-5 m frame
-Boston Dynamics Stretch | 2021 | warehouse box mover | square wheeled base, tall perception mast [src] | camera mast on top | seven-joint arm with suction pad array [src] | omnidirectional wheels | grey and black panels | white and grey with black | about 1.5 m tall
+Articulated six-axis arm (FANUC / KUKA type) | 1970s-today | factory welding and handling | segmented arm on a round base, cylinder links | none | six jointed segments, tool flange with gripper or welding torch | bolted to floor | cast aluminium, smooth glossy paint [mem] | bright yellow (FANUC) or orange (KUKA) with black joints [mem] | reach 1-3 m
+SCARA arm (Epson / Yamaha type) | 1981 | fast pick and place | compact single pedestal with two horizontal links on parallel vertical axes, rigid in Z, slightly compliant in XY [src Wikipedia SCARA] | none | horizontal two-link arm with a vertical quill and small gripper; folds up out of the way [src] | fixed on bench | white or grey plastic and aluminium covers [mem] | white with blue or grey stripes, Epson-style [colour-mem] | reach 0.4-0.8 m
+Delta / parallel robot (ABB FlexPicker type) | 1990s | packaging pick and place | spider-like three jointed arms hanging from a top base with all motors in the base, arms joined by parallelograms to a small triangular platform [src Wikipedia Delta robot] | none | light composite arm rods with ball joints to the platform; Clavel version has a fourth central leg for rotation [src] | mounted overhead above the workspace | carbon-fibre / light composite rods, aluminium plate, stainless wash-down versions [src for composite] | silver and stainless, sometimes white or grey paint [colour-mem] | about 1 m span
+Cobot (Universal Robots UR5 type) | 2008 | collaborative arm | slim tubular six-jointed arm with rounded joint caps [src Wikipedia Universal Robots: six-jointed] | none | six rotary joints, small two-finger gripper | bench or cart mounted | light aluminium and plastic [mem] | silver-grey with blue joint caps [colour-mem] | UR3 reach 500 mm 11 kg; UR5e 850 mm about 20.6 kg; UR10e 1300 mm about 33.5 kg [src]
+Baxter | 2012 | collaborative factory robot | torso on a pedestal with two arms and a screen head, 94 cm waist-to-head, 75 kg without pedestal [src robotsguide] | LCD face display with animated eyes, two head cameras, sonar ring, camera in each forearm and cameras in the chest [src] | two 7-joint series-elastic arms with two-finger grippers [src] | fixed pedestal | cast aluminium, thermoplastics, powdered-metal parts [src] | red and black with a screen face [src] | about 1.8 m on pedestal [mem]
+Sawyer | 2015 | single-arm collaborative robot | one slim arm on a pedestal with a tablet-like head screen | screen showing expressive eyes and eyebrows [src robotsguide] | single 7-DOF series-elastic arm, interchangeable end tools such as a two-finger gripper or four-cup suction mount [src] | fixed pedestal | aluminium [src] | red body [src] with black trim [mem] | arm length about 1 m, 19 kg [src]
+Gantry / Cartesian robot | 1970s-today | CNC and 3D printing | rectangular frame with moving rails | none | tool head on linear rails | fixed | extruded aluminium profiles [mem] | silver with black cable chains [mem] | 1-5 m frame
+Boston Dynamics Stretch | 2021 | warehouse box mover | square wheeled mobile base, tall perception mast, can move boxes up to 23 kg [src Wikipedia Boston Dynamics] | camera perception mast | seven-DOF arm ending in a suction pad array [src] | omnidirectional wheeled base | grey and black panels [colour-mem] | white and grey with black [colour-mem] | about 1.5 m tall [mem]
+Hello Robot Stretch (home assistant) | 2020 | mobile home manipulator | slim vertical pole on a compact three-wheel base, telescoping arm sliding up and down the pole [src robotsguide] | rectangular head unit at the top of the mast with cameras and sensors [src] | telescoping carbon-fibre arm, 3-DOF wrist, one two-finger / suction gripper [src] | compact omnidirectional three-wheel base | steel and ABS base with white polyurethane covers, aluminium lift, arm and head structure, polycarbonate and ABS wrist parts [src] | white base, black pole and arm [src] | 49 x 43 cm base, 160 cm tall, 46 kg [src]
 
 HUMANOIDS
-ASIMO | 2000 | Honda showcase humanoid | child-sized astronaut, backpack on back [src] | smooth helmet with dark visor and two cameras [src] | five-fingered hands, later 13-DOF [src] | two legs, light walking and running | glossy white plastic | white with black visor, blue accents | 1.3 m, 54 kg [src]
-HRP-2 / HRP-4 | 2002-2010 | Japanese research humanoids | slender grey-blue adult frame | boxy head with camera eyes | multi-joint arms with hands | biped | painted shells over metal | white, blue and silver | about 1.5-1.6 m
-Atlas hydraulic | 2013 | disaster and parkour research | lean broad-shouldered torso, large hydraulic limbs [src] | head with lidar and stereo sensors [src] | long arms with hands | biped, flips and jumps | exposed hoses and plates, 3D-printed metal | grey and dark blue, blue LEDs [src] | about 1.5 m, 85 kg [src]
-Atlas electric | 2024 | work humanoid | upright slim body, joints that over-rotate [src] | round head with ring light on face [src] | grippers of different types [src] | biped with reversed-style knees | smooth white and black shells | white and black with light ring | about 1.9 m
-Optimus-type humanoid (Tesla) | 2022 | general labour humanoid | slim adult with torso box | black glossy face screen | five-finger hands with tendons | biped | black and white plastic with metal | white body, black face visor | about 1.7 m
-Digit (Agility) | 2019 | delivery and tote humanoid | torso with backpack-like battery, backward-bent birdlike legs | lidar sensor head block, no face | paddle-like arms with hook or clamp hands | biped with ostrich knees | black and grey panels | dark grey with blue light | about 1.75 m
-Pepper | 2014 | reception humanoid | child-sized rounded body, skirt-like wheeled base | large round head, big dark eyes, chest tablet | stubby arms with five soft fingers | wheeled base | smooth plastic | white with grey and a blue light | about 1.2 m
-NAO | 2008 | small educational humanoid | toy-sized body, big head | round head, glowing LED eyes, camera in forehead | small three-finger hands | biped | glossy plastic | white with grey or blue | about 58 cm
-Sophia-type social humanoid | 2016 | social humanoid | female bust with open skull back | realistic skin face, cameras in eyes | arms with slim hands (some versions) | mounted on a stand or wheels | silicone skin, visible head wiring | skin tones, silver hardware | life size
-Ameca | 2021 | expressive humanoid | grey torso with bare mannequin look | neutral grey face, expressive eyes and brows | grey hands with fingers | mounted on a base | rubber grey skin, exposed cables on back | uniform grey | life size, about 1.8 m
-Kengoro | 2016 | musculoskeletal humanoid | bony slim frame, muscle-like actuators | simple head with cameras | muscular arms with fingers | biped | aluminium bones, cable muscles | metal grey with wires | about 1.7 m
-Valkyrie (NASA R5) | 2013 | space humanoid | armoured trunk with space-suit look | camera head with lights | strong arms, five-finger hands | biped | fabric and plate covers | white with NASA blue and red marks | about 1.9 m
-Figure 02 / Unitree H1 type | 2023-2025 | commercial humanoid | slender athletic frame | smooth visor head | hands with fingers | biped | black matte shells with silver | black, silver, white | about 1.7 m
-Robonaut 2 | 2011 | space station helper | torso and head on a pole, no legs | gold visor, camera head | dexterous hands | fixed or climbs on legs | white shell with gold visor | white and gold | torso about 1 m
+ASIMO | 2000 | Honda showcase humanoid | child-sized astronaut with backpack | smooth helmet with dark faceplate/visor, two cameras behind visor [src] | hands with tactile sensors; 13 DOF per hand on 2011 model [src] | two legs, walking and running | magnesium-alloy frame covered in plastic resin [src robotsguide] | mainly white with a dark faceplate [src] | 130 cm; 54 kg (2000-02), 48 kg (2011), 45 cm wide [src]
+HRP-2 / HRP-4 | 2002-2010 | Japanese research humanoids | slender adult frame | boxy head with camera eyes | multi-joint arms with hands | biped | painted shells over metal [mem] | white, blue and silver (HRP-4 white with a lilac/blue-grey tint) [mem, fetch failed] | about 1.5-1.6 m
+Atlas hydraulic | 2013 | disaster and parkour research | lean broad-shouldered torso, large hydraulic limbs | head with laser rangefinder/lidar and stereo sensors [src Wikipedia] | long arms; 2013 hands made by Sandia and iRobot [src] | biped, flips and jumps | exposed hoses, 3D-printed metal [mem] | grey and dark blue with blue LEDs [src for LEDs; body colour mem] | 1.5 m, 80 kg (2016) or 85 kg [src]
+Atlas electric | 2024 | work humanoid | upright body, joints that rotate beyond human range | circular articulated head with a ring light [src], light glows yellow in most photos [src robotsguide] | long arms, swappable grippers [src] | biped, full rotation joints, IP67, -20 to 40 C [src] | smooth shells | black and silver / grey [src robotsguide], earlier note of white no longer supported | about 190 cm, 90 kg [src robotsguide]
+Optimus Gen 1 (Tesla) | 2022-2023 | general labour humanoid | slim adult with torso box, chest plate with Tesla name | simple head, two-DOF neck | hands with 6 DOF each [src robotsguide] | biped | metal | silver and black [src] | 173 cm, 57 kg [src]
+Optimus Gen 2 (Tesla) | 2023 | general labour humanoid | more streamlined humanoid silhouette | head on two-DOF neck | redesigned hands with 11 DOF, tactile sensors on every fingertip [src newatlas] | biped with human-shaped feet and articulated toe sections [src] | not specified | white bodywork, compared with a Model S, unlike the bare-metal Gen 1 [src newatlas] | about 10 kg lighter than Gen 1
+Digit (Agility) | 2019 | delivery and tote humanoid | torso with sensors and computers, birdlike backward-bent legs | spherical head with glowing eyes (v1 had a lidar unit), four RealSense depth cameras and a lidar in the torso [src robotsguide] | long 3-DOF arms with built-in sensors | biped, 5-DOF legs like Cassie's, "ostrich legs" [src] | aluminium, thermoformed polycarbonate, carbon fibre composite [src] | mainly teal with silver and black; earlier version blue-green; logo on chest [src] | 175 cm, 65 kg [src]
+Cassie (Agility) | 2017 | bipedal research platform | no head or arms: a black pelvis box on two long cassowary-like legs | none | none | biped with five DOF per leg [src robotsguide] | aluminium, polycarbonate variants, carbon fibre [src] | black middle section with silver legs; shells in several colours, orange, red, blue legs [src] | 115 cm tall, 55 cm wide, 40 cm long, 31 kg [src]
+Pepper | 2014 | reception humanoid | child-sized rounded body, wheeled base | head with 4 microphones, 2 HD cameras (forehead and mouth), 3D sensor behind eyes, glowing blue eye lights [src] | hands with five fingers and touch sensors, one DOF per hand [src] | omnidirectional wheeled base with sonars, six lasers, three bumpers, gyro [src] | smooth plastic | white, with 10.1-inch chest tablet; glowing blue eye ring [src] | 120 cm, 28 kg, 48.5 x 42.5 cm [src]
+NAO | 2008 | small educational humanoid | toy-sized body, big head | head with two eyes and a small mouth opening, two 5 MP cameras [src] | small hands, one DOF each | biped | polycarbonate-ABS plastic, polyamide, carbon-fibre-reinforced thermoplastic [src robotsguide] | white and silver in photos; spec sheet says dark grey [src, inconsistent] | 58 cm, 5.5 kg [src]
+Sophia (Hanson Robotics) | 2016 | social humanoid | female bust and torso, later with legs (2018) | face of Frubber actuated skin with 60+ expressions, cameras in eyes, translucent top of head showing electronics [src] | arms with slim hands (some versions) | mounted on stand, later walking legs [src] | Frubber face, torso of carbon fibre, CNC aluminium, steel and 3D-printed parts [src robotsguide] | peachy skin, green eyes, pink lips, white blazer, black plate with cameras on torso [src robotsguide] | 167 cm, 20 kg, 41 cm wide [src robotsguide]
+Ameca | 2021 | expressive humanoid | bare mannequin look: grey torso, face and hands | grey rubber face, movable features, binocular cameras in eyes [src] | grey rubber-skinned hands with motorised jointed fingers [src] | upper body on a mount | grey rubber skin on face and hands, exposed mechanics elsewhere [src] | uniform grey [src] | life size, about 1.8 m [mem]
+Kengoro | 2016 | musculoskeletal humanoid | bony slim frame, muscle-like actuators | simple head with cameras | muscular arms with fingers | biped | aluminium bones, cable muscles [mem] | metal grey with wires [mem] | about 1.7 m
+Valkyrie (NASA R5) | 2013 | space humanoid | armoured trunk, NASA logo chest plate [src robotsguide] | white helmeted head with a sensor panel across the forehead, Multisense SL camera [src] | hands with 4 DOF, six actuators for fingers and thumb [src] | biped, 6-DOF legs, cameras in shins, lidars in knees [src] | fabric-wrapped foam padding [src] | mainly white with gold accents on helmet and a black-and-gold battery backpack [src] | 190 cm, 125 kg [src]
+Figure 02 | 2024 | commercial humanoid | slim adult frame with cabling routed through limbs | six RGB cameras [src humanoid.guide] | 16-DOF hands, 25 kg load [src] | biped | sleek matte black exterior with integrated cabling [src] | matte black (departs from its predecessor's chrome finish) [src] | 168 cm, 70 kg [src]
+Unitree H1 | 2023 | commercial humanoid | tall slim biped, no detailed face | RealSense depth camera and Livox lidar [src robotsguide] | hands not described | biped | carbon fibre and aluminium [src] | grey, with branded shirt in photos [src] | about 180 cm, 47 kg [src]
+Robonaut 2 | 2011 | space station helper | torso and head on a pole, legs added to ISS in 2014 [src Wikipedia] | stereo cameras and a 3D time-of-flight imager [src], gold visor [mem] | dexterous hands, 12 DOF plus 2 wrist, about 2.3 kg grip per finger [src] | fixed or climbs on legs | skin replaced to meet station fire-safety rules [src] | white shell with gold visor [colour-mem] | torso about 1 m [mem]
 
 QUADRUPEDS AND ANIMALS
-Spot | 2016-today | inspection quadruped | box body with four thin legs, about 25 kg [src] | camera pods front; optional thermal and lidar [src] | optional arm with claw gripper [src] | four legs with elbow joints | painted plastic, exposed joints | yellow and black | about 1.1 m long
-BigDog | 2005 | military pack mule | blocky body, rigid legs, no head | none or few sensors | none | four hydraulic legs, carry load [src] | steel frame, noisy hydraulics | dark grey | about 1 m, 110 kg
-Cheetah (MIT / BD) | 2012 | fast runner | slim lean body | none | none | four fast legs with long tail-like spine | open metal frame | black and silver | about 1 m
-AIBO | 1999 | pet dog | small plastic puppy | pointed head with ears, glowing eyes | none | four short legs | glossy plastic | silver or white; ERS-1000 white with dark eyes | about 25-30 cm
-Petoi Bittle / Nybble | 2018 | hobby cat and dog | tiny skeleton frame | small head with sensors | none | four tiny legs | laser-cut wood or plastic | wood tone or white with blue | about 15 cm
-LS3 / AlphaDog | 2010 | military pack robot | bigger BigDog with quieter engine [src] | lidar and cameras [src] | none | four legs | grey frame | dark green-grey | about 1.1 m
-Furby (toy robot) | 1998 | toy companion | furry round ball with feet | big eyes and beak | small mitten hands | tiny feet | fur and plastic | multi-colour fur | about 15 cm
-Robotic fish and snake (modular) | 2000s | soft robots | long segmented tube | camera tip | none | wave-like body motion | silicone and metal links | yellow, orange | 20 cm-1 m
+Spot | 2016-today | inspection quadruped | box body with four thin legs; 1.1 m long, 50 cm wide, 61 cm default walking height, 191 mm sitting [src Wikipedia Boston Dynamics] | yellow square head block full of sensors, stereo cameras, 360-degree perception, optional thermal and lidar [src robotsguide] | optional articulated black arm with black gripper, payload up to 14 kg [src] | four legs with elbow joints | painted plastic, exposed joints [mem] | black and yellow; arm black [src] | 84 cm tall per robotsguide, 25 kg (30 kg with arm), 33.8 kg net per Wikipedia [src, sources disagree]
+Handle | 2017 | box-moving wheeled-leg robot | tall slim body, about 2 m [src Wikipedia Boston Dynamics] | sensors on body | two hands for manipulating objects | two flexible legs ending in wheels, roughly 10 actuated joints [src] | exposed mechanics [mem] | black and white [colour-mem] | about 2 m
+BigDog | 2005 | military pack mule | blocky body, rigid legs, no head | gyroscope, lidar, stereo vision [src robotsguide] | none | four hydraulic legs, 20 DOF (16 powered) [src] | steel frame, noisy hydraulics | dark grey, military [colour-mem] | 125 cm high, 100 cm long, 113.4 kg [src]; carries about 150 kg alongside a soldier [src Wikipedia]
+Cheetah (MIT / BD) | 2012 | fast runner | slim lean body | none | none | four fast legs with spine | open metal frame [mem] | black and silver [mem] | about 1 m
+AIBO | 1999 | pet dog | small plastic puppy | pointed head with ears, ERS-7 24-LED "Illume Face", ERS-1000 two OLED eyes [src Wikipedia] | none | four legs with 3 DOF each [src robotsguide] | glossy plastic [mem] | ERS-110 silver with golden-brown hue; ERS-7 white, black or champagne brown; ERS-210 black, silver, gold; ERS-220 chrome; ERS-31x Latte cream, Macaron black and cream, Pug light brown; ERS-1000 white with blue eyes and brown ears per photo captions [src] | ERS-7 about 32 x 18 x 28 cm, 1.65 kg; ERS-1000 2.2 kg [src]
+Petoi Bittle / Nybble | 2018 | hobby cat and dog | tiny skeleton frame | small head with sensors | none | four tiny legs | laser-cut wood or plastic [mem] | wood tone or white with blue [mem] | about 15 cm
+LS3 / AlphaDog | 2010 | military pack robot | ruggedised BigDog with quieter engine | lidar, infrared and GPS navigation [src Wikipedia Boston Dynamics] | none | four legs | grey frame [mem] | dark green-grey [colour-mem] | about 1.1 m
+ANYmal (ANYbotics) | 2016 | industrial inspection quadruped | compact boxy body with four legs, 12 DOF via series-elastic actuators [src robotsguide] | 20x optical zoom camera, six depth cameras, 360-degree lidar to 100 m, pan-tilt thermal/acoustic unit [src] | none | four legs for stairs and narrow gaps | dust- and waterproof IP67 body [src] | mainly red and grey, some silver finishes (ANYmal D grey and silver) [src] | ANYmal D 53 x 93 x 89 cm, 55.7 kg [src]
+Unitree Go2 | 2023 | consumer quadruped | small dog-like body with a camera head | front lidar dome and camera [mem] | none | four legs | plastic and aluminium [mem] | mostly white and dark grey with blue-ish accent lights [mem, fetch failed] | about 70 cm long, 15 kg [mem]
+Furby (toy robot) | 1998 | toy companion | furry owl-like round ball with feet [src Wikipedia] | big eyes (later LCD or LED-backlit) and beak, motor-raised ears [src] | small mitten hands | tiny feet | fur and plastic | many colours: 2012 line came in 16 colours including teal, white, black, purple, pink and two-tone; 2023 line purple and coral plus special editions [src] | about 15-20 cm [mem]
+Robotic fish and snake (modular) | 2000s | soft robots | long segmented tube | camera tip | none | wave-like body motion | silicone and metal links [mem] | yellow, orange [mem] | 20 cm-1 m
+SmartBird (Festo) | 2011 | bionic flying gull | slim lightweight fuselage with long wings modelled on a herring gull | no real head sensors | none | beating and twisting wings | polyurethane foam and carbon fibre [src wikiwand] | white and grey like a gull [colour-mem] | wingspan 1.96 m, 450 g [src]
+BionicOpter (Festo) | 2013 | bionic dragonfly | slender thin body with four very thin transparent wings | none | none | four independently driven flapping wings | ultralight plastic, thin film wings [mem] | transparent wings, dark body with some light-green/white parts [colour-mem] | about 63 cm wingspan, 175 g [mem]
 
 SPACE
-Sojourner | 1997 | first Mars rover | small box with solar panel lid | cameras and lasers on front | none | six-wheel rocker bogie | aluminium with solar cells | silver, gold foil, dark panel | about 65 cm
-Curiosity | 2012 | Mars rover | box chassis, tall mast, long arm [src] | mast with ChemCam and cameras [src] | 2.1 m arm with cross turret of tools [src] | six cleated wheels with rocker-bogie [src] | aluminium wheels, dusty, worn and punctured [src] | beige dust-coated metal, white and black | about 2.9 m, 899 kg [src]
-Perseverance | 2021 | Mars rover | like Curiosity, with a sample tube cache | mast with SuperCam and cameras | arm with turret, sample drill | six machined wheels | aluminium, dusty | metal with white marks and name tags | about 3 m, 1025 kg
-Ingenuity | 2021 | Mars helicopter | small cube body with two stacked rotors on a mast | camera on belly | none | four spindly landing legs | carbon-fibre blades, foil | black blades, gold-foil box, silver legs | rotor span about 1.2 m
-Canadarm2 | 2001 | space station arm | long thin boom with seven joints [src] | cameras at joints | grapple end effectors at both ends [src] | inchworm, fixed ends | white thermal wrap and metal | white with black bands | about 17.6 m [src]
-Dextre | 2008 | station maintenance twin-arm | torso on a pole with two arms | cameras and lights | two arms with tool changers | fixed or on the arm tip | white shell, gold foil | white and gold | about 3.7 m tall
+Sojourner | 1997 | first Mars rover | small box with solar panel lid, 65 cm long, 48 cm wide, 30 cm high [src Wikipedia] | cameras with sapphire windows and zinc selenide lenses [src] | none | six aluminium wheels about 13 cm with stainless steel tread [src] | warm electronics box of fibreglass facesheets on aluminium spars, aerogel insulation; GaAs/Ge solar cells 0.22 m2 [src] | silver, gold foil, dark solar panel [colour-mem] | 10.6-11.5 kg [src]
+Spirit and Opportunity (MER) | 2003 | Mars rovers | low box on six wheels with a tall camera mast and flat solar deck | Pancam, Navcam, Hazcams [src] | small arm with instrument turret | six wheels on rocker-bogie, steered front and rear [src] | aluminium wheels, solar arrays about 140 W [src] | tan-grey body with dark solar panels, dusty orange-red from Mars dust [colour-mem] | Opportunity 1.5 m high, 2.3 m wide, 1.6 m long, about 180 kg [src]
+Curiosity | 2012 | Mars rover | box chassis, mast, long arm | mast with ChemCam and cameras, 3-DOF mast | 2.1 m arm, 5 DOF, cross turret of tools | six aluminium wheels with rocker-bogie, 4 corner wheels steer [src] | aluminium and titanium, worn and punctured wheels [src] | beige dust-coated metal [colour-mem; press photos] | 2.8 m wide, 2.1 m high, 3 m long, 899 kg [src robotsguide]
+Perseverance | 2021 | Mars rover | warm electronics box body about 3 m long, 2.7 m wide, 2.2 m tall, equipment deck on top [src NASA] | mast head with SuperCam, two Mastcam-Z imagers, two navigation cameras, 19 cameras in total [src] | 2.1 m, 5-joint arm with turret, drill and a hidden sample-handling arm [src] | six aluminium wheels, 52.5 cm, with 48 cleats and curved titanium spokes, titanium rocker-bogie legs [src] | aluminium, titanium, anodised plates with names, polycarbonate calibration disk [src] | metal with white-painted deck and dust; no colour stated by sources [colour-mem] | 1,025 kg [src]
+Ingenuity | 2021 | Mars helicopter | rectangular fuselage 136 x 195 x 163 mm hanging below rotors with solar panel above [src] | camera on belly, navigation camera [src] | none | four landing legs 384 mm long [src] | carbon blades and foil [mem] | black blades, gold-foil box, silver legs [colour-mem] | two coaxial counter-rotating rotors 1.21 m, 49 cm tall, 1.8 kg [src]
+Philae lander | 2014 | comet lander | boxy 1 x 1 x 0.8 m body with landing legs, thruster on top [src Wikipedia] | seven CIVA cameras around at 60-degree intervals [src] | drill of steel and titanium [src] | landing gear absorbing impact, anchoring harpoons [src] | carbon-fibre plate and hexagonal sandwich structure, exterior covered in solar cells [src] | dark solar-cell skin with silver/gold foil [colour-mem] | about 100 kg [src]
+Hayabusa MINERVA hopper | 2005 | asteroid hopper | tiny cylinder, 12 cm diameter, 10 cm tall [src Wikipedia] | cameras | none | internal flywheel hops [src] | solar powered [src] | not stated [colour-mem] | 591 g [src]
+MINERVA-II rovers (Hayabusa2) | 2018 | asteroid hopping rovers | 16-sided prism with solar cells on every side [src Wikipedia MINERVA] | cameras | none | 16 small pins and hopping by flywheel [src] | solar cells all around, rover-1A in multi-layer insulation, rover-1B with radiators [src] | dark solar cells with silver/gold insulation [colour-mem] | about 18 cm diameter [mem]
+Canadarm2 | 2001 | space station arm | long thin boom with seven joints | cameras at joints | grapple end effectors at both ends | inchworm, fixed ends | white thermal wrap and metal [mem] | white with black bands [mem] | about 17.6 m
+Dextre | 2008 | station maintenance twin-arm | torso that pivots at a waist, a "gigantic torso" with two arms [src Wikipedia] | pair of colour TV cameras with lights [src] | two 7-joint arms each about 3.5 m with tool changers (ORU/Tool Changeout Mechanism) and a tool holster [src] | fixed, grappled by Canadarm2 or Mobile Base System | thermal blankets and metal [mem] | white and gold foil [colour-mem] | 3.5 m, 1,662 kg [src]
 
 HOME AND SOCIAL
-Roomba | 2002 | vacuum | flat round puck | top button, bump front, small sensors | none | two drive wheels, side brush | plastic, matte | dark grey or black with a coloured ring | about 34 cm wide, 9 cm tall
-Jibo | 2017 | home social robot | torso with round swivel head | single round screen eye | none | stationary, rotates | glossy white shell | white with a blue ring | about 28 cm
-Kismet | 1998 | research face | head only, on a stand [src] | big ears, eyebrows, eyelids and lips that move [src] | none | none | plastic and wire | pink and blue face | about 50 cm
-Paro | 2003 | therapy seal | plump seal pup shape | black eyes, whiskers [src] | flippers | none | soft white fur [src] | white, also gold, pink, grey [src] | about 55 cm
-Aethon TUG / Kiva-type drive unit | 2003 | warehouse shelf carrier | flat orange low block | front sensor | none | wheels under shelves | painted metal | bright orange with logos | about 40 cm tall
+Roomba | 2002 | vacuum | flat round puck, 34-35 cm wide and 9 cm tall [src Wikipedia and robotsguide] | CLEAN button, front bumper, IR sensors; later models have an upward camera [src] | none | two drive wheels, side brush, counter-rotating rollers [src] | plastic body with rubber rollers and wheels [src] | original 2002 silver, Roomba Pro blue, Pro Elite maroon, 500 series swappable faceplates; some models grey [src] | about 35 cm wide, 9 cm tall, 3.9 kg [src]
+Lawn mower robot (Husqvarna Automower type) | 1995-today | garden mowing | low wheeled shell with a wide front, like a squashed shell | bump sensors, lift sensor, small display [mem] | none | two rear drive wheels and small front wheels | plastic shell [mem] | orange and grey/white (Husqvarna), other brands in green or black [mem, not fetched] | about 60 cm long, 10-13 kg [mem]
+Window-cleaning robot (Ecovacs Winbot type) | 2010 | window cleaning | flat square or round pad with a cleaning cloth | edge sensors | none | suction cup with small tracks or wheels | plastic [mem] | white, grey with black, dark glass-like top [mem, not fetched] | about 20-25 cm
+Swimming-pool robot (Dolphin / Polaris type) | 1990s | pool cleaner | low boxy body on tracks or wheels with a floating cable | none | none | rubber tracks or wheels, internal pump | plastic shell [mem] | blue and grey or white and blue [mem, not fetched] | about 45 cm
+Jibo | 2017 | home social robot | bowling-pin shaped base with round swivel head | single round black LCD touchscreen eye [src robotsguide] | none | stationary, three DC motor swivel axes | aluminium, ABS plastic and glass [src] | white and silver body, black display [src] | 15.2 x 15.2 x 28 cm, 2.7 kg [src]
+Moxie (Embodied) | 2020 | child companion | soft round body with round head, bends at neck, stomach and base | helmet-like round head, large friendly eyes, forehead camera, chest coloured battery bar [src Dezeen] | simplified hands with pointed rounded index finger and thumb [src] | turns 360 degrees on its base | smooth soft body | teal "gender-neutral" body [src] | just under 40 cm [src]
+Anki Cozmo | 2016 | toy robot | tiny tractor-like body on treads [src Wikipedia] | black cube-shaped OLED face with eyes [src] | single excavator-like lift arm that picks up cubes [src] | two treads | plastic [mem] | base white and grey with red accents; later red and white, grey and black, blue; Interstellar Blue 2018 [src] | palm-sized [src robotsguide for Vector: 6 x 7 x 10 cm]
+Anki Vector | 2018 | home robot | small tread/wheel body | expressive LCD face with green eyes [src robotsguide] | small lift | tracks | plastic [mem] | black body with green eyes [src] | 6 x 7 x 10 cm, 160 g [src]
+Kismet | 1998 | research face | head only, on a stand | big ears, eyebrows, eyelids and lips that move | none | none | plastic and wire | pink and blue face [mem] | about 50 cm
+Paro | 2003 | therapy seal | plump seal pup shape, 57 x 35 x 16 cm, 2.7 kg [src robotsguide] | moving eyelids, black eyes, whiskers; seven motors | flippers | none | soft white antibacterial fur over a plastic frame [src] | white (also gold, pink, grey), pink pacifier charger in mouth [src] | about 57 cm long
+Kiva / Amazon drive unit | 2003 | warehouse shelf carrier | flat low boxy block with a protruding circular lift on top, lifts about 450 kg [src robotsguide] | front sensor | none | wheels, drives under shelving | painted metal [mem] | orange [src] | 146.5 kg [src]
+Starship delivery robot | 2015 | sidewalk delivery | boxy six-wheel cooler-like body | ten stereo and time-of-flight cameras, ultrasonic sensors, radar [src Wikipedia] | none | six wheels | plastic shell [mem] | white body, narrow antenna with orange flag, top lid opens [src robotsguide] | 55.9 x 68.6 x 55.9 cm, about 20-25 kg, 9.1 kg payload [src]
+Moley Robotics kitchen | 2020 | robotic cooking kitchen | cooking counter with ceiling-hung rails and enclosure | none | two robotic arms with five-finger tactile hands built with Universal Robots and SCHUNK [src Wikipedia] | rail-mounted arms | not stated | colours not stated [mem for stainless and white cabinets] | kitchen scale
 
 DRONES, UNDERWATER, SURGICAL, MILITARY, OTHER
-DJI quadcopter | 2013-today | camera drone | small body with four folding arms | gimbal camera under the nose | none | four rotors | matte plastic | white or grey | about 30 cm
-MQ-9 Reaper | 2007 | military drone [src] | long thin fuselage, V-tail | bulb nose with sensors | none | propeller at rear | composite skin | light grey | 20 m wingspan
-ROV Jason / Hercules | 1980s | deep sea ROV | open frame with thrusters | lights and cameras on top | one or two hydraulic manipulators | thrusters | steel frame with floats | yellow float on top, red frame | 2-3 m
-da Vinci Surgical System | 2000 | surgery | big cart plus several arms hanging over a bed | camera arm | multiple thin arms with wristed tools | wheeled base | white plastic with blue trims | white and teal | arms about 2 m
-PackBot | 1998 | bomb disposal [src] | low tracked chassis with tall arm | camera head on mast | arm with gripper | tank tracks, flipper arms | rugged plastic and metal | olive green or desert tan | about 70 cm
-TALON | 2000 | EOD robot | small low tracked body | camera mast | arm with claw | tracks | metal housing | tan or green | about 1 m
-Exoskeleton (HAL / ReWalk / Sarcos) | 2000s | assistance | frame worn around the legs and back | none | rigid supports along the arms | strapped legs with joints | carbon and metal, straps | white with black or yellow frame | human sized
-Soft gripper and octobot | 2016 | soft robot | tentacle-like shape | none | silicone fingers | inflates to move | translucent silicone | red, blue, clear | 5-20 cm
-Insect micro robot (RoboBee) | 2013 | micro flyer | tiny body, two wing pairs | none | none | flapping wings | carbon fibre and film | black, transparent wings | about 3 cm
+DJI quadcopter | 2013-today | camera drone | small body with four folding arms | gimbal camera under the nose | none | four rotors | matte plastic [mem] | white or grey [mem] | about 30 cm
+MQ-9 Reaper | 2007 | military drone | long thin fuselage, V-tail | bulb nose with sensors | none | propeller at rear | composite skin [mem] | light grey [mem] | 20 m wingspan
+Aeolus Robot | 2018 | home helper prototype | boxy, large wheeled domestic robot with a head [mem] | camera head [mem] | two arms with hands | wheeled base | plastic | white and grey [mem, not fetched] | about 1.5 m
+ROV Jason / Hercules | 1980s | deep sea ROV | open frame with thrusters | lights and cameras on top | one or two hydraulic manipulators | thrusters | steel frame with floats [mem] | yellow float on top, red frame [mem] | 2-3 m
+da Vinci Surgical System | 2000 | surgery | patient-side cart carrying three to four interactive arms plus a separate surgeon console [src Wikipedia] | one arm carries the 3D camera [src] | thin arms with wristed instruments for cutting, cauterising, grasping [src] | wheeled cart | plastic and metal [mem] | white/grey cart with blue console [colour-mem] | cart about 2 m tall
+PackBot | 1998 | bomb disposal | low tracked chassis with a tall multi-jointed arm | camera head with 2 DOF at the arm end, four cameras on the 510 [src] | 4-DOF arm lifting 20 kg with 2-DOF gripper [src robotsguide] | tank tracks with flippers [mem] | rugged plastic and metal [mem] | olive green or desert tan [mem] | 88.9 x 52.1 x 17.8 cm, 23.9 kg (robotsguide) or 14.3 kg for 510 (Wikipedia)
+TALON | 2000 | EOD robot | small low tracked body | day/night colour cameras in payload, camera mast [mem] | EOD version has an arm with claw; Special Ops version has no arm [src Wikipedia] | tracks | metal housing | tan or green [mem] | standard under 45 kg, recon version 27 kg [src]
+Dragon Runner | 2004 | small recon throwbot | tiny low body with two tracks, flip over | cameras at both ends [mem] | none | wheels with tracks | rugged plastic [mem] | olive or black [mem, not fetched] | about 40 cm, 7 kg
+Exoskeleton (HAL / ReWalk / Sarcos) | 2000s | assistance | frame worn around the legs and back | none | rigid supports along the arms | strapped legs with joints | carbon and metal, straps [mem] | HAL white and black; ReWalk black frame; Sarcos grey/silver [mem; Wikipedia exoskeleton page gave no appearance] | human sized
+Soft gripper and octobot | 2016 | soft robot | tentacle-like shape | none | silicone fingers | inflates to move | translucent silicone [mem] | red, blue, clear [mem] | 5-20 cm
+Insect micro robot (RoboBee) | 2013 | micro flyer | tiny body, two wing pairs | none | none | flapping wings | carbon fibre and film [mem] | black, transparent wings [mem] | about 3 cm
 
 PATTERNS
-Head types: dome visor, bare mannequin face, screen face, box sensor block, no head, lamp eyes, bust only, rotating dome, animal head, bubble cockpit, mast camera, helmet with antenna, cylinder with ring
-Eye/sensor types: two round cameras, LED eyes, visor slit, single big eye, lidar cylinder, stereo pair, photoelectric lenses, thermal camera, tiny glass cameras, glowing ring, compound lens cluster, laser rangefinder
-Torso types: barrel, box, backpack, pole mount, chest screen, ribbed trunk, armoured plate, skeleton frame, tapered cone, puck disc, pedestal, bubble capsule
-Arm types: hydraulic piston, thin tubular, cable-driven, wristed instrument, telescoping, segmented industrial, double arms, boom, vestigial stub, tentacle, parallel linkage, rails
-Hand/gripper types: five-finger hand, claw, two-finger parallel, suction pads, hook, paddle, wrist tool changer, snare latch, soft silicone fingers, magnetic tip, scoop, mitten
-Locomotion types: biped, quadruped, wheels, tank tracks, rocker-bogie, treads with flippers, rotors, thrusters, flapping wings, rail gantry, inchworm, wave slither, fixed base
-Joint/cable styles: exposed hoses, bellows, tendons, ball joints, slewing rings, braided cable, cable chains, spring legs, rubber boots, rotary caps, planetary screws, brass gears
-Surfaces: glossy white plastic, matte black, brushed aluminium, painted steel, carbon fibre, silicone skin, soft fur, gold foil, riveted plates, 3D printed lattice, fabric cover, glass dome
-Colours: white and blue, yellow and black, orange, olive green, desert tan, silver grey, black with silver, red and white, gold and white, teal, mint, matte grey
-Power/vent/antenna details: whip antenna, grilles, battery backpack, solar panel, fans, cooling fins, tether cable, LED strips, status lights, charging dock, exhaust, nuclear generator
-Wear/condition: pristine, dusty, scratched, dented wheels, worn paint, oil-stained, patched, rusted joints, sun-bleached, mud-splashed, taped labels, repaired
-Size classes: palm-sized, toy-sized, child-sized, human-sized, giant, car-sized, room-sized, truck-sized, arm-length boom, micro, drone-scale
-Mounting/bases: bolted floor plate, pedestal, rails, cart, ceiling gantry, wheeled dock, tripod, tether, vehicle roof, space-station mount, desk stand, shelf
+Head types: dome visor, bare mannequin face, screen face, box sensor block, no head, lamp eyes, bust only, rotating dome, animal head, bubble cockpit, mast camera, helmet with antenna, cylinder with ring, spherical head with glowing eyes, round head with light ring, bowling-pin top with single screen eye, tablet face, helmet with forehead sensor strip, bird or insect head, translucent skull cap, cube OLED face
+Eye/sensor types: two round cameras, LED eyes, visor slit, single big eye, lidar cylinder, stereo pair, photoelectric lenses, thermal camera, tiny glass cameras, glowing ring, compound lens cluster, laser rangefinder, black circular screen, green or blue glowing eyes, depth camera bar, 360-degree lidar dome, zoom camera pod, ring of cameras
+Torso types: barrel, box, backpack, pole mount, chest screen, ribbed trunk, armoured plate, skeleton frame, tapered cone, puck disc, pedestal, bubble capsule, bowling pin, pelvis box on legs only, sleek matte shell, padded fabric trunk, bust and shoulders, boxy cooler with lid, flat lifting pad
+Arm types: hydraulic piston, thin tubular, cable-driven, wristed instrument, telescoping, segmented industrial, double arms, boom, vestigial stub, tentacle, parallel linkage, rails, series-elastic arm, excavator lift, tablet-head arm, ceiling-rail twin arm
+Hand/gripper types: five-finger hand, claw, two-finger parallel, suction pads, hook, paddle, wrist tool changer, snare latch, soft silicone fingers, magnetic tip, scoop, mitten, tactile fingertips, swappable grippers, no hand
+Locomotion types: biped, quadruped, wheels, tank tracks, rocker-bogie, treads with flippers, rotors, thrusters, flapping wings, rail gantry, inchworm, wave slither, fixed base, wheeled legs, six-wheel sidewalk, omnidirectional three-wheel, hopping flywheel, suction-cup crawler, ostrich-style reversed knees
+Joint/cable styles: exposed hoses, bellows, tendons, ball joints, slewing rings, braided cable, cable chains, spring legs, rubber boots, rotary caps, planetary screws, brass gears, integrated hidden cabling, series-elastic actuators, hydraulic actuators, joint caps
+Surfaces: glossy white plastic, matte black, brushed aluminium, painted steel, carbon fibre, silicone skin, soft fur, gold foil, riveted plates, 3D printed lattice, fabric cover, glass dome, grey rubber skin, polycarbonate shell, soft fabric-wrapped foam, anodised plate, solar cell skin, polyurethane covers, chrome finish
+Colours: white and blue, yellow and black, orange, olive green, desert tan, silver grey, black with silver, red and white, gold and white, teal, mint, matte grey, red and black, white and silver, teal with silver and black, peach skin tones, black and green, white with orange flag, red and grey, pink and white, champagne brown, cream and black
+Power/vent/antenna details: whip antenna, grilles, battery backpack, solar panel, fans, cooling fins, tether cable, LED strips, status lights, charging dock, exhaust, nuclear generator, flag on antenna, pacifier charger, coloured battery bar, lidar dome, camera mast, ring light
+Wear/condition: pristine, dusty, scratched, dented wheels, worn paint, oil-stained, patched, rusted joints, sun-bleached, mud-splashed, taped labels, repaired, punctured wheels, sand-covered
+Size classes: palm-sized, toy-sized, child-sized, human-sized, giant, car-sized, room-sized, truck-sized, arm-length boom, micro, drone-scale, knee-high, waist-high, cooler-sized, bird-sized
+Mounting/bases: bolted floor plate, pedestal, rails, cart, ceiling gantry, wheeled dock, tripod, tether, vehicle roof, space-station mount, desk stand, shelf, top-of-mast head, overhead delta mount, counter-top enclosure
 
-SOURCES
-https://en.wikipedia.org/wiki/List_of_robots
+SOURCES (all fetched this session; Wikipedia rarely states colours)
+https://en.wikipedia.org/wiki/Spot_(robot) (resolved to Boston Dynamics content)
 https://en.wikipedia.org/wiki/Atlas_(robot)
-https://en.wikipedia.org/wiki/Elektro
-https://en.wikipedia.org/wiki/Spot_(robot)
-https://en.wikipedia.org/wiki/Unimate
 https://en.wikipedia.org/wiki/ASIMO
-https://en.wikipedia.org/wiki/Curiosity_(rover)
-https://en.wikipedia.org/wiki/Paro_(robot)
-https://en.wikipedia.org/wiki/Canadarm2
-https://en.wikipedia.org/wiki/Kismet_(robot)
-Entries without [src] rely on general knowledge, not on fetched pages.
+https://en.wikipedia.org/wiki/Pepper_(robot)
+https://en.wikipedia.org/wiki/Nao_(robot)
+https://en.wikipedia.org/wiki/AIBO
+https://en.wikipedia.org/wiki/Perseverance_(rover)
+https://en.wikipedia.org/wiki/Ingenuity_(helicopter)
+https://en.wikipedia.org/wiki/Ameca_(robot)
+https://en.wikipedia.org/wiki/Sophia_(robot)
+https://en.wikipedia.org/wiki/Roomba
+https://en.wikipedia.org/wiki/Da_Vinci_Surgical_System
+https://en.wikipedia.org/wiki/PackBot
+https://en.wikipedia.org/wiki/Robonaut
+https://en.wikipedia.org/wiki/Dextre
+https://en.wikipedia.org/wiki/Valkyrie_(robot)
+https://en.wikipedia.org/wiki/Anki_(company) (no useful content)
+https://en.wikipedia.org/wiki/Sojourner_(rover)
+https://en.wikipedia.org/wiki/Philae_(spacecraft)
+https://en.wikipedia.org/wiki/Opportunity_(rover)
+https://en.wikipedia.org/wiki/Hayabusa
+https://en.wikipedia.org/wiki/Starship_Technologies
+https://en.wikipedia.org/wiki/Furby
+https://en.wikipedia.org/wiki/Festo (no appearance detail)
+https://en.wikipedia.org/wiki/Moley_Robotics
+https://en.wikipedia.org/wiki/SCARA
+https://en.wikipedia.org/wiki/Delta_robot
+https://en.wikipedia.org/wiki/Universal_Robots
+https://en.wikipedia.org/wiki/Powered_exoskeleton (no appearance detail)
+https://en.wikipedia.org/wiki/Foster-Miller_TALON
+https://en.wikipedia.org/wiki/Cozmo
+https://en.wikipedia.org/wiki/MINERVA_(spacecraft)
+https://bostondynamics.com/products/spot/
+https://bostondynamics.com/products/stretch/ (no useful specs)
+https://science.nasa.gov/mission/mars-2020-perseverance/rover-components/
+https://newatlas.com/robotics/tesla-optimus-gen-2-robot/
+https://www.dezeen.com/?p=1565343
+https://humanoid.guide/product/figure-02/
+https://wikiwand.com/en/SmartBird
+https://robotsguide.com/robots/digit
+https://robotsguide.com/robots/spot
+https://robotsguide.com/robots/atlas
+https://robotsguide.com/robots/asimo
+https://robotsguide.com/robots/pepper
+https://robotsguide.com/robots/nao
+https://robotsguide.com/robots/optimus
+https://robotsguide.com/robots/sophia
+https://robotsguide.com/robots/unitree-h1
+https://robotsguide.com/robots/aibo
+https://robotsguide.com/robots/baxter
+https://robotsguide.com/robots/sawyer
+https://robotsguide.com/robots/stretch
+https://robotsguide.com/robots/valkyrie
+https://robotsguide.com/robots/vector
+https://robotsguide.com/robots/anymal
+https://robotsguide.com/robots/cassie
+https://robotsguide.com/robots/jibo
+https://robotsguide.com/robots/paro
+https://robotsguide.com/robots/curiosity
+https://robotsguide.com/robots/packbot
+https://robotsguide.com/robots/bigdog
+https://robotsguide.com/robots/starship
+https://robotsguide.com/robots/kiva
+https://robotsguide.com/robots/roomba
+https://robotsguide.com/robots/perseverance
+Fetch attempts that failed (not used): Wikipedia Jibo, Spirit_and_Opportunity_(rovers), ANYmal_(robot); nasa.gov/mission_pages/mars-perseverance; robotsguide ameca, figure-02, cozmo, moxie, talon, da-vinci, robonaut-2, unitree-go2, hrp-4.
+Entries tagged [mem] or [colour-mem] rely on memory, not on fetched pages. Earlier [src earlier] marks (Elektro, Unimate, Kismet) were from the previous pass and not re-fetched this time.

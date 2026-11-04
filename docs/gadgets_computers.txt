@@ -1,0 +1,187 @@
+# GADGETS & COMPUTERS WILDCARD REFERENCE (look-only, brand-free descriptions)
+# LINE FORMAT (11 pipe-separated fields: maker_ref is a lookup-only first field, followed by the 10 requested fields):
+# maker_ref | generic description name | year | category | overall shape and proportions | size in cm | screen (type, size, bezel, glow) | keys, buttons, ports, drives | materials and finish | colours | distinctive features and typical wear
+# Never put maker_ref into an image prompt. Sizes are approximate, width x depth x height unless stated. Details confirmed by fetched pages where available; the rest is general knowledge.
+
+## EARLY ROOM-SIZE, MAINFRAME, MINI, SUPER
+ENIAC | hall-filling wall of tall grey vacuum-tube panels with cable looms | 1945 | early computer | forty narrow upright panels lining three walls of a hall, three wheeled switch tables in front, thick cable bundles looping between panels | 3000 long x 100 deep x 300 high | no screen; small round neon lamps on panel faces | thousands of ten-way rotary switches, patch sockets, card reader and card punch at one end | painted sheet steel, rubber-sheathed cables, glass tubes | drab grey-green steel, black cables, orange neon dots | hand-lettered labels, glowing tube racks seen through louvres, scuffed paint, trays of punched cards
+UNIVAC I | row of beige man-high cabinets with a long operator desk and electric typewriter | 1951 | mainframe | central block of rectangular cabinets, console desk in front, a separate row of tape drives, rounded-corner panels | 430 x 240 x 260 central block | small round oscilloscope tube on the console, tiny green trace | three columns of decimal switches, push buttons, electric typewriter, up to ten tape drives using spring-and-string tape loops | enamelled steel, vinyl desk top, glass | pale green-grey and cream, chrome trim | hundreds of small lamps, mercury tanks on cabinet backs, glossy paint, floor cable ducts
+ranked mainframe suite | row of matching pale blue cabinets with lamp-covered console desk and glass-fronted tape drives | 1964 | mainframe | low wide cabinets in a long row, console desk with sloped lamp panel, tall tape cabinets | each cabinet 75 deep x 150 wide x 150 high | none; hundreds of tiny coloured lamps behind the console panel | rocker switches, round push buttons, typewriter console, card reader hoppers, two reels per tape cabinet | painted steel, brushed trim, glass doors | pale blue and white with red, orange and grey switch caps | blinking light bank, spinning reels behind glass, raised floor, scuffed toe-kicks
+tall tape reel cabinet | white cabinet with two vertical reels behind a window | 1962 | storage | upright cabinet with glass door, two big reels side by side, vacuum column slots | 70 x 70 x 180 | none | two reels, a few control buttons, indicator lamps | enamelled steel, acrylic window | white or light grey with a blue or red door trim | brown tape loops, worn rubber seals, scratched window
+fridge-sized switch-panel minicomputer | cream cabinet with front panel of toggle switches and red lamps | 1965 | minicomputer | upright cabinet about fridge size with sloping lower panel crowded with switches | 50 x 60 x 70 | none; row of small red lamps | long rows of flip switches in groups of three, key switch, rotary knobs, paper tape reader | enamelled steel, anodised aluminium panel | cream beige, turquoise or orange accents, white and black switch tips | tiny red lamps, rack handles, smudged panel
+rack minicomputer with paddle switches | 19 inch rack box with sloping panel of coloured paddle switches and LEDs, tape drive below | 1970 | minicomputer | rack-mounted box with sloping front panel stacked above a dual tape drive | 48 x 50 x 25 | none; rows of red and magenta LEDs | rows of paddle switches, key lock, tape drive below | aluminium panel, painted steel | dark purple and cream, white legends | colour-coded paddles, chrome handles, fingerprint grime
+hobbyist kit blue box | plain blue steel box with a front panel of switches and red LEDs | 1975 | hobby computer | rectangular box with a C-shaped lid wrapping top and sides, front panel full of switches | 44 x 46 x 18 | none; rows of red LEDs | sixteen or more toggle switches, no keyboard, expansion slots visible at back | bent sheet metal, painted | royal blue lid, silver panel, white labels | switches and lights only, scratched blue paint, ribbon cables inside
+C-shaped bench-ringed supercomputer | tall round column bent into a C with a padded bench ring around the base | 1976 | supercomputer | cylinder of columns open on one side, upholstered seating ring over the power supplies | 263 diameter base x 196 high | none | tiny panel; cables hidden inside the opening | painted steel columns, vinyl cushion | metallic red or orange columns, dark seat pad | seating that doubles as cooling cabinets, wires visible in the C opening
+fluid-immersed compact supercomputer | squat column holding stacked boards in a clear tank of pale liquid | 1985 | supercomputer | low round cabinet with transparent acrylic tank on top | 115 diameter x 115 high | none | none visible | clear acrylic, steel base | pale yellow-green fluid, black panels | bubbling coolant, circuit boards stacked like slices
+modern black supercomputer aisle | long aisles of identical black cabinets with coloured doors and overhead cable trays | 2020 | supercomputer | rows of floor-to-ceiling racks, doors in graphite with an accent stripe | each rack 60 x 120 x 220 | none; status LEDs | blinking LEDs, blue and orange cables, door handles | steel, perforated mesh doors | black, graphite, accent stripes | cold-aisle floor tiles, hanging cables, water pipes, tidy cable looms
+
+## 1970s-80s HOME AND PERSONAL COMPUTERS
+Apple II | cream wedge keyboard computer with hinged lid | 1977 | home computer | wide low wedge with hinged lid, keyboard built into the front, appliance look | 39 x 47 x 12 | none; plugs into a TV | 52 typewriter keys, eight expansion slots under lid, cassette ports | moulded plastic case | warm beige case, off-white keys, rainbow-striped badge | yellowed plastic, slots under lid, clean rounded corners
+Commodore PET | boxy metal all-in-one with tiny keyboard and built-in cassette | 1977 | home computer | sheet-metal cabinet with built-in monitor, short keyboard strip and cassette deck beside it | 46 x 42 x 33 | 9 inch monochrome CRT, white then green phosphor, thick bezel | tiny calculator-style keys, cassette deck slot | sheet steel and plastic | black and cream | angular case, cramped keys, heavy, worn key tops
+TRS-80 Model I | grey keyboard unit with black-and-silver monitor on a box base | 1977 | home computer | keyboard-and-board unit, separate heavy monitor, expansion box beneath the monitor | 40 x 20 x 8 keyboard unit | 12 inch monochrome CRT, faint blue-white text, wide bezel | full-stroke keyboard, ribbon cable to expansion box | moulded plastic keyboard, steel monitor cabinet | pale grey keyboard, black and silver monitor | cheap look, ribbed edges, yellowing, trailing cables
+dark wedge cartridge computer | slim dark sloping keyboard console with cartridge slots | 1979 | home computer | trapezoid keyboard console with sloped front and big keys | 38 x 33 x 10 | none | two joystick ports, cartridge slots under hatch | plastic with metal shielding | dark brown or black and silver | fat key rows, cartridge door, big power brick
+beige first-colour starter computer | cream brick-shaped keyboard with brown keys | 1981 | home computer | long wedge keyboard unit | 40 x 20 x 8 | none; TV | 66 keys, serial and cassette ports | ABS plastic | cream-beige, brown keys | rainbow badge, yellowing
+Commodore 64 | beige bread-bin keyboard computer with brown keys | 1982 | home computer | long wedge-shaped bread-bin keyboard unit | 40 x 21 x 8 | none; TV or monitor | 66 keys with graphic symbols on key fronts, two joystick ports, cartridge slot, cassette port, serial DIN | ABS plastic | beige case, brown and light-grey keys | browning plastic, silver logo, chunky power LED
+ZX Spectrum | tiny black wedge with rubber keys and rainbow stripe | 1982 | home computer | small flat black wedge with raised back and rubber keys | 23 x 14 x 3 | none | 40 grey rubber keys with BASIC words, rear edge connector, EAR and MIC jacks | moulded plastic, rubber keyboard | black case, rainbow stripe at corner, grey keys | tiny, coloured stripe, mushy keys, worn legends
+ZX81 | tiny flat black doorstop with membrane keyboard | 1981 | home computer | very flat black plastic slab | 17 x 17 x 3 | none | flat membrane keys, rear ports | moulded plastic | black with white legends | ultra small, flat, trailing cables
+BBC Micro | cream wide keyboard computer with red function keys | 1981 | home computer | wide cream keyboard case with vent slots, red function key row and side cut-out | 41 x 33 x 8 | none | red-orange function keys, many rear ports (RGB DIN, parallel, user port, tape DIN, joystick) | moulded plastic | cream beige, red keys | red keys, vents in top, big cables
+Amstrad CPC 464 | black-grey keyboard computer with built-in cassette and coloured keys | 1984 | home computer | wavy-front keyboard unit with tape deck, bundled with matching monitor | 49 x 26 x 8 | 14 inch colour or green monochrome monitor, thick bezel | red, blue and yellow cursor keys, internal cassette deck | plastic | black-grey case with red, yellow and blue keys | tape deck, monitor doubles as power supply
+Atari ST | grey wedge keyboard computer with rear grilles | 1985 | home computer | wide low wedge, keyboard integrated, rear air grilles, rhomboid function keys | 47 x 24 x 6 | external monitor | numeric keypad, two MIDI DIN ports, floppy slot on side, two controller ports | plastic | light grey case, dark keys | MIDI ports, dense port row, yellowing
+Amiga 500 | cream keyboard computer with built-in floppy | 1987 | home computer | long flat beige slab with side floppy slot | 47 x 33 x 6 | external | 94 keys, two controller ports, built-in floppy, plastic cover for side expansion | ABS plastic | beige with grey keys and coloured function keys | yellowed plastic, two-button mouse, side expansion cover
+Macintosh 128K | boxy beige all-in-one with tiny screen and handle | 1984 | all-in-one | small tall beige box with recessed carry handle on top, floppy slot below the screen | 24 x 28 x 35 | 9 inch monochrome CRT, thick bezel, black and white glow | one 3.5 inch floppy slot, mouse and keyboard ports | ABS plastic | beige | smiling-face look, vent grille on top, yellowed
+IBM PC 5150 | tan flat desktop box with two floppy slots, green monitor on top | 1981 | desktop | wide flat desktop box with monitor on top | 51 x 42 x 14 | separate green monochrome monitor | up to 2 full-height floppy slots, heavy buckling-spring keyboard | steel chassis, plastic front | beige and tan | heavy, boxy, thick cable
+beige PC clone tower | tall beige case with 5.25 inch bays and turbo button | 1992 | tower PC | tall box with stacked bays | 45 x 20 x 43 | CRT | floppy bays, turbo button, key lock, red LED digits | steel and plastic | beige | yellowed, LED digits
+Osborne 1 | suitcase-style luggable with fold-down keyboard lid | 1981 | luggable | box with carry handle, keyboard folds down as the lid | 52 x 33 x 23 | 5 inch monochrome CRT, tiny, thick bezel | detachable 69-key keyboard, twin floppy slots | rugged ABS | tan or blue | handle, sewing-machine size, heavy
+Compaq Portable | sewing-machine-sized luggable with green screen | 1983 | luggable | tall box with detachable keyboard front | 51 x 20 x 20 | 9 inch green CRT, ghosting | foam-and-foil keyboard, two floppy drives | steel and plastic | beige with gold or silver badge | heavy 13 kg, wearing keyboard
+Sinclair QL | black wedge keyboard computer with two tiny tape cartridge slots | 1984 | home computer | long low black wedge with a ridged strip above the keys and a row of recesses on the right | 47 x 14 x 5 | none; TV or monitor | 65 small moulded plastic keys, two microdrive cartridge slots, rear sockets | matte moulded plastic | black with a red key or two and a thin coloured stripe | rubber-feel keys that clack, flat case, cartridge slots, dust in ridges
+Sharp X68000 | twin dark-grey tower with pop-out handle and floppy slots | 1987 | tower | two slim towers joined as one, each with a pop-out carry handle on top and vents | 55 x 40 x 15 | separate square-ish CRT on top, thick bezel | two 5 inch floppy slots, mushroom-style power switch, side-mounted keyboard storage | glossy moulded plastic | charcoal black or dark grey | twin-tower silhouette, fingerprints on gloss, drive door flaps
+Atari 2600-style console | black wood-grain-faced game console with six switches | 1977 | game console | wide low box with brown fake-wood front strip and ridged black top | 32 x 20 x 9 | none; to TV | six chunky switches along the top, cartridge slot, two joystick ports | moulded plastic, woodgrain vinyl | black with brown woodgrain | slanted ribbed top, fraying vinyl, thick joystick cables
+MSX-style home computer | slim grey keyboard computer with two cartridge slots | 1983 | home computer | thin wide keyboard case with sloping top and slots on the right | 45 x 25 x 6 | none; TV | typewriter keys with a cursor cluster, two cartridge slots, printer port | moulded plastic | grey or off-white with dark keys | cartridge slots, slim profile, yellowing
+Tandy 1000-style beige PC | wide beige desktop with built-in floppy slots and coloured legend keys | 1984 | desktop | wide flat beige box with front floppy slots | 50 x 40 x 15 | external CRT | 5.25 inch floppy slot pair, joystick ports on front | steel and plastic | beige with dark keycaps | wide box, sticker plate, yellowing
+Amstrad PCW-style word processor | cream all-in-one with green screen and floppy slot | 1985 | word processor | tall cream monitor box with a built-in floppy slot and separate keyboard | 40 x 40 x 40 | 12 inch green monochrome CRT, wide bezel | disk slot on the side, separate keyboard with cursor cluster, wide dot-matrix printer | moulded plastic | cream and grey | green glow, lines of green text, printer on the side
+Amiga 1000-style pizza box | wide beige pizza box with keyboard that slides underneath | 1985 | home computer | wide flat beige case with a recess under the front edge for the keyboard | 45 x 34 x 8 | external | floppy slot on the right, separate keyboard, mouse | moulded plastic | beige with dark grey keys | stylish raised back, plain face, yellowing
+Macintosh II-style pizza box | wide low platinum desktop | 1987 | desktop | wide low desktop with ribbed front vent | 47 x 36 x 14 | separate monitor on top | one or two floppy slots, rear expansion slots with coloured stripe | moulded plastic | platinum grey | stripe vents, aged to beige
+Raspberry Pi | credit-card-sized green board with a row of ports and a 40-pin header | 2012 | board computer | flat rectangular green PCB with rounded corners | 8.5 x 5.6 x 2 | none; micro-HDMI outputs | two or four stacked USB ports, one Ethernet jack, microSD slot underneath, 40-pin black header along one edge | green fibreglass board, metal port shells, black chips with metal lid | green board with silver connectors and black header | tiny holes at corners, gold labels, bare board
+Raspberry Pi in case | tiny red and white plastic case for a board computer | 2019 | board computer | small box with a removable white lid and red base, cut-outs for ports | 9.5 x 6.5 x 3 | none | ports exposed on sides, cooling slot | moulded plastic | red and white | snap-on lid, loose cable stubs, tiny
+Arduino | blue board with rows of black socket headers | 2005 | board computer | rectangular blue PCB with two long socket rows and a silver USB-B port | 7 x 5 x 1.5 | none | USB-B port, power barrel jack, headers, small reset button | fibreglass board | teal-blue board, black sockets, silver ports | tiny LED, row of pin sockets
+Raspberry Pi Pico | tiny green sliver board with castellated edges | 2021 | board computer | long thin board | 5.1 x 2.1 x 0.4 | none | one micro USB port, 40 edge pins | fibreglass | green with silver | tiny, white labels
+
+## ALL-IN-ONES AND DESKTOPS
+iMac G3 | translucent blue egg-shaped all-in-one computer | 1998 | all-in-one | rounded teardrop plastic egg, wide at the bottom, tinted see-through shell with a white inner frame and a recessed carry handle at the top back | 38 x 44 x 44 | 15 inch CRT, flat-ish glass, black bezel, soft blue-white glow | slot or tray CD drive at the right front, ports behind a small door on the side, round hockey-puck mouse, matching see-through keyboard | translucent polycarbonate with glossy finish | sea-blue-green, also strawberry, grape, lime, tangerine | visible internal parts through the shell, round mouse, short cable, scratches and yellowing on pale shells
+iMac G4 | white hemisphere base with flat screen on a chrome neck | 2002 | all-in-one | dome base like half a ball, a thin steel arm rising from the base and a flat panel on its end | 38 x 38 x 41 | 15 to 20 inch LCD, white plastic frame, thin glass lip | slot DVD drive at front of the dome, ports at the rear, speakers underneath | white polycarbonate, stainless-steel arm | white with silver arm | sunflower or desk-lamp look, panel tilts freely, dome scuffs
+iMac G5 | white flat slab all-in-one on a thin foot | 2004 | all-in-one | single flat white slab, thick chin, narrow stand foot | 51 x 17 x 44 | 17 or 20 inch LCD, wide white bezel | slot drive on side, camera dot at top, ports at back | white polycarbonate | white with silver foot | no separate tower, speaker grille in the chin, fingerprint marks
+iMac 2007 aluminium | silver aluminium all-in-one with black glass front | 2007 | all-in-one | thin tapered slab, aluminium back, glass front, short bent-foot stand | 49 x 16 x 45 | 20 inch glossy LCD, black bezel with chin, bright mirror reflections | slot DVD drive on the right edge, rear ports, thin aluminium keyboard with flat low keys | aluminium and glass | silver and black | tapered back, fingerprint-prone glass, wired white mouse
+iMac Retina slim | razor-thin edge desktop slab with a bulge at the back | 2012 | all-in-one | screen with very thin edge that swells behind the centre | 65 x 20 x 52 | 27 inch IPS, thin black bezel with chin | SD slot, USB and Thunderbolt at back, wireless keyboard and mouse | aluminium and glass | silver | edge tapers to 5 mm, small camera dot
+iMac M1 pastel | flat pastel slab with white chin | 2021 | all-in-one | flat slim panel, white frame and chin, single flat arm foot | 55 x 15 x 46 | 24 inch 4.5K, thin white border and chin | USB-C ports at back, matching coloured wireless keyboard and mouse | aluminium, glass | pastel blue, green, pink, yellow, silver | colour-matched keyboard, flat back
+HP-style Windows all-in-one | white flat screen on a simple leg | 2015 | all-in-one | flat screen on a plain curved foot | 55 x 18 x 45 | 23 inch glossy, black bezel | USB, DVD side slot, webcam on top | plastic | white or black | cheap plastic look, cables at back
+Power Mac G4 Cube | clear acrylic cube on a black base | 2000 | desktop | 20 cm cube floating inside a clear acrylic case, black base | 20 x 20 x 25 | none | slot drive on top, ports underneath | acrylic, aluminium | clear and silver | seam lines on acrylic, no fan, cracks
+Power Mac G3 | translucent blue-and-white tower with side door | 1999 | tower | tall tower in translucent plastic, handle hole at the top, hinged side door | 21 x 44 x 43 | none | front optical drive, side door latch, front buttons | polycarbonate | blue and white | handles, side door, scratched windows
+beige PC tower | tall beige box with 5.25 inch bays and a turbo button | 1992 | tower PC | tall beige box with stacked bays | 20 x 43 x 45 | external CRT | floppy bays, turbo button, key lock, red LED display | steel and plastic | beige | yellowing, stickers, dust
+spotted tower | beige tower with black cow patches | 1995 | tower PC | beige tower | 20 x 43 x 45 | external CRT | floppy, CD | plastic and steel | white with black patches | patches painted, yellowing
+black office tower | black mid tower with silver strip | 2005 | tower PC | tall narrow tower | 18 x 43 x 42 | none | DVD, front USB | steel | black and silver | dust
+gaming tower with glass panel and RGB fans | black mid tower with tempered glass side and rainbow fans | 2022 | gaming PC | mid tower | 22 x 47 x 48 | none | glass side, mesh front, power button | steel, tempered glass | black or white with RGB | strips
+open-frame showcase PC | open-air frame with visible parts | 2021 | gaming PC | open frame | 30 x 40 x 45 | none | graphics card on riser | aluminium, glass | black | exposed cables
+water-cooled custom PC | tower with clear tubes and coloured coolant | 2020 | gaming PC | tower | 25 x 50 x 50 | none | coolant reservoir | glass, acrylic | black with coloured liquid | bent tubing
+mini cube PC | small black box | 2019 | mini PC | cube | 12 x 12 x 4 | none | USB, HDMI | aluminium | black | tiny
+slim aluminium mini PC | slim square aluminium | 2022 | mini PC | slab | 20 x 20 x 4 | none | front ports | aluminium | silver | flat
+stick PC | thumb-sized stick | 2016 | mini PC | stick | 11 x 4 x 1.5 | none | HDMI plug | plastic | black | stick
+Mac Pro cheese-grater | tall silver aluminium tower with perforated front and handles | 2008 | tower PC | tall slab tower with lattice-perforated front and back, carry handles at top | 20 x 47 x 51 | none | front USB and FireWire, two optical drive slots, locking latch on the back | anodised aluminium | silver | lattice holes, side panel latch, scratched corners
+Mac Pro cylinder | black glossy cylinder on a rubber foot | 2013 | desktop | polished black cylinder with a ring-shaped top vent | 17 diameter x 25 high | none | ring of ports around the back | black anodised aluminium | black | glossy, fingerprints, round
+Mac mini | flat aluminium square mini computer with round base | 2010 | mini PC | very flat square box with a rounded-edge top and recessed base | 19.7 x 19.7 x 3.6 | none | ports along the rear, optional slot drive | aluminium | silver | tiny, round vent ring on bottom
+Intel NUC | small black square mini PC with an LED front button | 2018 | mini PC | squat black square with vented top | 11.7 x 11.2 x 5 | none | front USB and headphone jack, rear HDMI and Ethernet | plastic, aluminium | black or silver | side vents, small blue power glow
+HDMI stick computer | thumb-sized stick with an HDMI plug on one end | 2016 | stick PC | slim bar | 11 x 4 x 1.5 | none | HDMI plug, micro USB, tiny LED | plastic | black | plugs behind a TV, small vent slits
+fanless mini PC | heavy black finned aluminium box | 2019 | mini PC | finned slab | 22 x 16 x 5 | none | many ports on front and back | extruded aluminium | black | heat-sink fins, rubber feet
+
+## LAPTOPS
+Toshiba T1100-style brick laptop | grey slab with a small flat grey screen and thick palm area | 1985 | laptop | thick slab laptop, deep front lip, tiny hinge | 31 x 30 x 6.5 | 9 inch monochrome LCD, grey-blue background, thick bezel | full keyboard, floppy slot, serial and parallel ports on back | plastic | grey beige | thick, heavy, dim screen
+ThinkPad 700C | black matte boxy laptop with red pointing nub in the keyboard | 1992 | laptop | black rectangular clamshell with a flat lid, bento-box shape | 30 x 22 x 5 | 10.4 inch colour LCD, thick black bezel | red nub between G, H and B, two buttons under the space bar, floppy drive, ports on back | matte black plastic and magnesium | black with a red nub | boxy, red nub, sticker residue
+PowerBook 100 | dark granite-grey notebook with a trackball in front of the keyboard | 1991 | laptop | slim slab with a palm rest, grey with raised ridges | 28 x 22 x 4.6 | 10 inch monochrome LCD, grey-green blue background, thick bezel | 63-key keyboard pushed back, central trackball, external floppy, SCSI port | plastic | dark grey | trackball, grip ridges, scratches
+PowerBook G4 titanium | wide silver titanium laptop with slot drive | 2001 | laptop | wide thin slab, titanium shell | 34 x 24 x 2.6 | 15.2 inch widescreen TFT, black bezel | slot DVD on front edge, backlit keys, FireWire and USB ports on the side | titanium | silver-grey | paint flaking at the edges, wide trackpad
+aluminium unibody laptop | single-block silver aluminium laptop with glass trackpad | 2008 | laptop | thin slab from one piece of aluminium | 33 x 23 x 2.4 | 13 inch glossy TFT, thick black glass bezel | black flat keys, glass trackpad, ports on the left side, magnetic charger | aluminium | silver | lit logo on the lid, light bar
+slim silver ultrabook | very thin silver wedge laptop | 2012 | laptop | wedge-shaped slab thinner at the front | 32 x 21 x 1.7 | 13 inch IPS, thin bezel | chiclet keyboard, few ports, USB 3.0 | aluminium | silver | very thin, weight 1.2 kg
+black RGB gaming laptop | thick black laptop with multicolour keyboard backlight | 2019 | laptop | thick black slab with angular panels and rear vents | 36 x 26 x 2.5 | 15.6 inch 144 Hz IPS, thin bezel | RGB per-key lighting, many ports, large vents at the back | plastic, aluminium | black with RGB, red or green trim | vents, bright edges, large power brick
+rugged laptop | thick laptop with rubber bumpers and port covers | 2015 | laptop | thick slab with bumpers and a carry handle | 33 x 28 x 5 | 14 inch matte, sunlight-readable, thick bezel | sealed rubber keys, port covers, latch | magnesium, rubber | grey or orange | handle, covers, scuffs
+Chromebook | thin grey plastic laptop with a simple keyboard | 2016 | laptop | thin slab | 29 x 20 x 2 | 11.6 inch, wide bezel | chiclet keys with search key, few USB-C ports | plastic or aluminium | grey, white, blue | simple, sticker-plated
+netbook | small glossy laptop with small keys | 2008 | laptop | small slab | 23 x 17 x 3 | 7 to 10 inch glossy, thick bezel | small keys, SD slot, three USB ports | glossy plastic | white, black, pink | weighs 1 kg, cheap look
+360 hinge 2-in-1 | laptop with a hinge that folds flat | 2018 | laptop | slab with 360 degree hinges | 30 x 21 x 1.5 | 13 inch touch IPS, glossy | stylus slot, fingerprint reader | aluminium | silver | fingerprints
+detachable tablet with kickstand | tablet with kickstand and magnetic cover keyboard | 2014 | tablet | slab with rear kickstand | 29 x 21 x 1 | 12 inch, thin bezel | magnetic keyboard cover, pen | magnesium | silver | kickstand
+foldable screen laptop | single folding display with a magnetic keyboard | 2022 | laptop | slab | 30 x 20 x 2 | 17 inch folds, visible crease | on-screen | plastic | grey | crease
+
+## TERMINALS, WORKSTATIONS, SERVERS
+VT100 terminal | boxy beige terminal with green or amber screen | 1978 | terminal | cream box, small CRT, detachable keyboard | 40 x 40 x 35 | 12 inch green phosphor CRT, curved bezel | keyboard, serial connector | plastic | cream and brown | green glow, burn marks
+SGI Indy | purple-grey pizza box workstation with big CRT | 1993 | workstation | thin pizza box with a bulge | 40 x 30 x 8 | 19 inch CRT | SCSI | plastic | purple/grey | big monitor
+tower server | tall grey server | 2000 | server | tower | 25 x 50 x 60 | none | drive bays | steel | beige | locks
+rack server | flat rack | 2010 | server | flat | 48 x 70 x 4.4 | none | drive bays, LEDs | steel | black | fan
+filled server rack | 42U rack | 2015 | server rack | rack | 60 x 100 x 200 | none | switch ports | steel | black | cables
+blade chassis | wide | 2012 | server | wide | 45 x 70 x 30 | none | blades | steel | black | modular
+network switch | 1U | 2010 | network | 1U | 44 x 25 x 4.4 | none | ports | steel | grey | green LEDs
+
+## PERIPHERALS
+Cherry MX full board | chunky black full-size mechanical keyboard with exposed key stems | 2018 | keyboard | wide flat slab with tall individual keycaps and a raised back edge | 44 x 14 x 4 | none | 104 keys, numeric pad, flip-out feet, braided USB cable | ABS keycaps, plastic or aluminium plate | black with white legends, RGB glow under keys | rainbow glow, shine on worn keys
+Model M buckling spring | heavy beige slab keyboard with square-edged keys and coiled cable | 1985 | keyboard | thick wide beige case with sculpted front, steel backplate | 47 x 18 x 5 | none | 101 keys, flip-up feet, coiled detachable cable | beige plastic and steel plate | beige case with grey keys | loud clack, heavy 2 kg, yellowing
+Kinesis-style split keyboard | black split ergonomic keyboard with a central scoop | 2015 | keyboard | two curved key wells separated by a centre pad | 45 x 22 x 6 | none | thumb clusters, tented halves, cable | plastic | black or grey | curved wells, sculpted
+60 percent compact board | small keyboard with no number pad or arrow cluster | 2020 | keyboard | very small rectangle | 29 x 10 x 4 | none | 61 keys, USB-C | aluminium case | pastel blue, cream or white | colourful keycaps, tiny
+retro round-key keyboard | typewriter-style round keys on a metal plate | 2019 | keyboard | rectangle with round keycaps | 40 x 15 x 4 | none | circular keycaps, braided cable | metal | cream, brass | round caps
+ball mouse | beige or grey two-button mouse with a rolling ball underneath | 1995 | mouse | low rectangular puck | 11 x 6 x 4 | none | two buttons, thin grey cable to the serial plug | plastic | beige or grey | dirt rollers, ball underneath
+optical wheel mouse | sculpted black mouse with scroll wheel | 2005 | mouse | ergonomic hump | 11 x 6 x 4 | none | two buttons, scroll wheel, red glow underneath | plastic | black | rubber grips, thin cable
+gaming mouse | angular black mouse with side buttons and RGB | 2020 | mouse | angular shell, honeycomb holes | 12 x 7 x 4 | none | side buttons, wheel, braided cable | plastic | black RGB | holes, glow
+trackball | desk pointer with a large ball | 2000 | pointer | ball nestled in a shell | 14 x 12 x 5 | none | two or four buttons, scroll ring | plastic | grey or black | ball colour
+CRT monitor | deep box monitor with curved glass | 1998 | monitor | deep box | 40 x 40 x 40 | 17 inch CRT, curved, thick bezel | knobs below | plastic | beige or grey | deep
+flat LCD monitor | thin flat screen | 2010 | monitor | thin | 55 x 18 x 40 | 22 inch | buttons | plastic | black | stand
+ultrawide monitor | wide screen | 2018 | monitor | wide | 82 x 25 x 45 | 34 inch | ports | plastic | black | wide
+curved monitor | curved screen | 2020 | monitor | curved | 120 x 30 x 55 | 49 inch | ports | plastic | black | curved
+inkjet printer | box printer | 2005 | printer | box | 45 x 35 x 15 | small | trays | plastic | white | paper
+laser printer | big box printer | 2000 | printer | box | 40 x 40 x 30 | none | trays | plastic | grey | toner
+dot-matrix printer | wide printer with tractor feed | 1985 | printer | box | 40 x 30 x 15 | none | paper | plastic | beige | paper
+flatbed scanner | flat scanner | 2005 | scanner | flat | 25 x 36 x 5 | none | lid | plastic | grey | glass
+external hard drive | slim box | 2015 | storage | box | 12 x 8 x 2 | none | USB | plastic | black | small
+floppy drive | slim | 1990 | storage | slim | 14 x 10 x 3 | none | slot | plastic | beige | slot
+CD drive | thin | 2000 | storage | thin | 14 x 17 x 4 | none | tray | plastic | silver | tray
+Wi-Fi router | box with antennas | 2015 | network | box | 25 x 20 x 5 | none | LEDs | plastic | black | antennas
+cable modem | box | 2010 | network | box | 15 x 15 x 5 | none | LEDs | plastic | white | LEDs
+webcam | small | 2015 | camera | small | 9 x 3 x 3 | none | clip | plastic | black | lens
+gaming headset | over-ear | 2018 | audio | over-ear | 20 x 18 x 9 | none | mic | plastic | black | RGB
+docking station | flat | 2018 | hub | flat | 20 x 8 x 2 | none | ports | aluminium | grey | cable
+IBM Q System One | gold tiered chandelier of tubes and plates hanging in a cylinder | 2019 | quantum computer | stacked disc plates descending in a cone, shrouded cylinder | 60 x 60 x 150 | none | coaxial cables, pipes | gold plated copper | gold and copper | wires
+dilution refrigerator | cylinder | 2020 | quantum | cylinder | 100 x 100 x 250 | none | tubes | steel | silver | tubes
+
+# PATTERNS
+case shapes: breadbin wedge, pizza-box desktop, mid-tower, full tower, cube, flat slab, hemisphere dome, teardrop egg, suitcase luggable, clamshell, door-wedge, C-shaped column, 19 inch rack unit, cylinder, thin tablet slab, twin tower
+screen types: green phosphor CRT, amber CRT, white-on-black CRT, colour shadow-mask CRT, monochrome LCD, TFT LCD, IPS LCD, glossy LCD, matte LCD, OLED, curved ultrawide, e-ink, plasma, oscilloscope trace tube
+keyboard types: rubber keys, membrane, chiclet, mechanical, scissor, buckling-spring, split ergonomic, toggle switches, round typewriter keys, touch-screen, foam-and-foil, sculpted-row, low-profile, 60 percent compact
+key legends and colours: black on beige, white on black, BASIC words on keys, rainbow legends, red function keys, two-tone keycaps, blank keycaps, RGB backlit, grey modifiers, orange escape, shiny worn caps, graphic symbols on key fronts
+port arrays: DB25 serial, DB9, PS/2 pair, parallel Centronics, VGA, DVI, HDMI, USB-A row, USB-C, Ethernet, audio jacks, SCSI, DIN sockets, edge connector, joystick ports, MIDI pair
+vents: slotted grille, louvres, honeycomb mesh, grooves, side fan holes, top vent slats, front mesh, perforated metal, rear fan grille, handle cut-outs, ring vent, lattice front
+drive bays: 5.25 floppy slot, 3.5 floppy slot, 5.25 optical bay, tray CD, slot DVD, hot-swap trays, tape reel, cassette door, cartridge hatch, microdrive, 8 inch floppy door, blank bay cover
+stands and hinges: swivel tilt foot, tilt tabs, central leg, VESA arm, rubber feet, flip-up legs, torque hinge, 360 hinge, kickstand, plinth, spring arm, bent steel foot
+cable types: curly keyboard cable, coiled cord, thick ribbon, flat ribbon, braided, RJ45, power brick, rubber insulated, coaxial, optical fibre, translucent coloured, SCART lead
+lights/LEDs: red power LED, green HDD LED, amber standby, RGB strips, rainbow fans, blinking status lamps, neon indicator tubes, backlight, blue ring, seven-segment display, green link light, white pulse
+finishes: matte plastic, glossy plastic, brushed aluminium, anodised, textured ABS, rubberised, glass, wood-grain vinyl, titanium, magnesium, painted steel, translucent, soft-touch, powder coat
+colours: beige, cream, grey, black, silver, white, sea blue, orange, purple, red, green, lime, gold, pastel pink
+ageing like yellowing plastic: yellowed plastic, brown stains, scuffed corners, key shine, faded labels, peeling rubber, sticker residue, dust, cracked case, worn legends, flaking paint, sun-bleached lid
+stickers: manufacturer logo, rainbow stripe, serial plate, warranty label, energy label, holographic seal, hand-drawn stickers, barcodes, spec-badge, rubber-stamped date, cracked decal, band stickers
+
+# SOURCES (fetched or searched)
+https://en.wikipedia.org/wiki/Commodore_64
+https://en.wikipedia.org/wiki/ZX_Spectrum
+https://en.wikipedia.org/wiki/Osborne_1
+https://en.wikipedia.org/wiki/IBM_Personal_Computer
+https://en.wikipedia.org/wiki/IMac_G3
+https://en.wikipedia.org/wiki/ENIAC
+https://en.wikipedia.org/wiki/ThinkPad
+https://en.wikipedia.org/wiki/Cray-1
+https://en.wikipedia.org/wiki/Raspberry_Pi
+https://en.wikipedia.org/wiki/UNIVAC_I
+https://en.wikipedia.org/wiki/PDP-8
+https://en.wikipedia.org/wiki/Altair_8800
+https://en.wikipedia.org/wiki/Apple_II
+https://en.wikipedia.org/wiki/TRS-80
+https://en.wikipedia.org/wiki/BBC_Micro
+https://en.wikipedia.org/wiki/Atari_ST
+https://en.wikipedia.org/wiki/Amiga_500
+https://en.wikipedia.org/wiki/Macintosh_128K
+https://en.wikipedia.org/wiki/Commodore_PET
+https://en.wikipedia.org/wiki/Amstrad_CPC
+https://en.wikipedia.org/wiki/PDP-11
+https://en.wikipedia.org/wiki/IMac_G4
+https://en.wikipedia.org/wiki/Compaq_Portable
+https://en.wikipedia.org/wiki/PowerBook_100
+https://en.wikipedia.org/wiki/Chromebook
+https://en.wikipedia.org/wiki/Netbook
+https://en.wikipedia.org/wiki/Ultrabook
+https://en.wikipedia.org/wiki/Gaming_computer
+https://en.wikipedia.org/wiki/Rugged_computer
+https://en.wikipedia.org/wiki/Model_M_keyboard
+https://en.wikipedia.org/wiki/Trackball
+https://en.wikipedia.org/wiki/Computer_mouse
+https://en.wikipedia.org/wiki/Cathode-ray_tube
+https://en.wikipedia.org/wiki/Ultrawide_monitor
+https://en.wikipedia.org/wiki/Dot_matrix_printer
+https://en.wikipedia.org/wiki/Floppy_disk
+https://www.popsci.com/technology/in-photos-journey-to-the-center-of-a-quantum-computer/
+https://en.wikipedia.org/wiki/19-inch_rack
+https://en.wikipedia.org/wiki/Raspberry_Pi_Zero
+https://en.wikipedia.org/wiki/Docking_station
+https://en.wikipedia.org/wiki/Wireless_router
+https://en.wikipedia.org/wiki/Webcam
+https://en.wikipedia.org/wiki/Quantum_computing

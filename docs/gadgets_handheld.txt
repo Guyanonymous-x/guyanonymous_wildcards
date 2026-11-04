@@ -1,0 +1,195 @@
+GADGETS_HANDHELD REFERENCE (look-only wildcard source) - second pass
+FORMAT (11 fields, pipe-separated, one line per device): maker_ref | generic description name | year | category | shape and proportions | size in cm (H x W x D) | screen | buttons, keys, ports | materials and finish | colours | distinctive features
+RULES: maker_ref (field 1) is bookkeeping only and must be kept OUT of image prompts. Field 2 is brand-free. Sizes were converted from fetched mm/inch specs where marked (v); entries marked (~) are approximate from general knowledge and not confirmed by a fetched page.
+
+== MOBILE PHONES ==
+Motorola DynaTAC 8000X | cream-beige brick handset with stubby rubber aerial and red digit strip | 1983 | mobile phone | tall tapered rectangular brick, squared edges, short flexible whip on top, earpiece grille at top | 25 x 4.5 x 9 (v: ~25 tall, 790 g) | narrow strip of red LED digits above the keys, no graphics | 12-key phone grid plus 9 chunky function keys (Rcl Clr Snd Sto Fcn End Pwr Lock Vol), mic slot at bottom | hard plastic body, rubber aerial, optional zip leather case with clear plastic front and steel belt clip (v) | beige/cream body, black or grey keys, red digits | handset-sized slab like a walkie-talkie
+Nokia 1011-style | early digital slab with stub antenna | 1992 | mobile phone | tall narrow slab, rounded corners, short stub aerial (~) | 19.5 x 5.4 x 4 (~) | small monochrome dot-matrix LCD, two lines | 12 rubbery number keys, soft keys, round arrow keys (~) | matte plastic | grey (~) | thick old-style handset
+Motorola StarTAC | tiny clamshell with cover folding up from above the display | 1996 | mobile phone | small rectangle, hinged cover flips up from mouthpiece end, short stub aerial | 9.8 x 5.7 x 2.3 closed (v: 98x57x23 mm; later 94x55x19) | small one or two line LED or LCD, later dot-matrix | slim keypad on lower half, side keys, belt-clip loop | silk-finish plastic, some with gold or platinum accents (v) | silver or black, rainbow edition (v) | wearable clip or neck cord
+Nokia 8110-style curved slider | banana phone with downward sliding cover | 1996 | mobile phone | long narrow strongly curved body, cover slides down to expose keys | 14.1 x 4.8 x 2.5 (v: 141x48x25 mm) | small monochrome partial-graphic LCD | numeric keypad hidden under sliding cover, nav keys | glossy plastic | black, dark green | looks like a bent banana when open
+Nokia Communicator 9000-style | clamshell with hidden QWERTY | 1996 | smart phone | thick wide clamshell, opens like a small laptop, stub aerial | 17.3 x 6.4 x 3.8 closed (v: 173x64x38 mm, 397 g) | wide monochrome 640x200 inside, small keypad on outer lid | full QWERTY inside, number keypad on outside | grey plastic | dark grey | opens to a wide small keyboard
+Nokia 9110-style | slimmer clamshell communicator | 1998 | smart phone | clamshell | 15.8 x 5.6 x 2.7 (v) | 640x200 mono | QWERTY inside | plastic | dark grey | lighter, 253 g (v)
+Nokia 3310-style | rounded rugged candybar | 2000 | feature phone | slightly rounded rectangle designed for the palm, thumb-friendly | 11.3 x 4.8 x 2.2 (v: 113x48x22 mm, 133 g) | 1.5-inch monochrome 84x48 LCD, green backlight, five text lines (v) | blue select key, C key, up/down keys, stiff black power key on top (v) | tough matte plastic with swappable snap-on fascia | blue (example), many fascia colours | tiny screen, big bezel, nearly indestructible look
+Nokia 7110-style | slider with roller wheel | 1999 | feature phone | rectangular slab with sliding cover (~) | 12.3 x 5 x 2 (~) | monochrome LCD | roller wheel on side, keypad under slider (~) | plastic (~) | grey (~) | first with scroll wheel and sliding cover
+Motorola Razr V3 | thin aluminium clamshell with etched keypad | 2004 | mobile phone | very thin angular clamshell with chamfered edges | 9.9 x 5.3 x 1.4 closed (~) | small outer colour window, inner colour display | flat etched-metal keypad, chrome 5-way pad (~) | anodised aluminium, glass-like keypad | silver, hot pink, blue, black (~) | razor-thin lid
+Sony Ericsson-style music candybar | orange keyed music phone | 2005 | feature phone | slim rounded candybar (~) | 10.4 x 4.6 x 1.7 (~) | 2-inch colour screen | dedicated music transport keys, joystick (~) | plastic | orange, white (~) | key row for music
+Chocolate-style slab | black glossy slab with red-lit touch pad | 2006 | feature phone | slim rectangle, glossy black | 10 x 5.1 x 1.5 (~) | colour screen with thick top and bottom bezel | touch-sensitive illuminated keypad strip | glossy black | black with red light (~) | front touch controls
+BlackBerry trackwheel wide pager | wide email handheld with tiny QWERTY | 2002 | smart phone | wide landscape bar, rounded ends | 11.5 x 7.5 x 2 (~) | small landscape screen above keys | tiny QWERTY, scroll wheel on right edge (v: trackwheel pre-8700) | plastic | dark grey (~) | thumb wheel
+BlackBerry Pearl | slim reduced-key phone with trackball | 2006 | smart phone | narrow candybar with compact keys | 10.7 x 5.1 x 1.5 (~) | small colour LCD | pearl trackball, two keys per press (v: trackball on Pearl) | glossy plastic | silver, black (~) | glowing ball
+BlackBerry Bold | wide QWERTY with chrome rim and trackball or trackpad | 2008 | smart phone | candybar, rounded rectangle, chrome-look edge | 11.4 x 6.6 x 1.5 (v: 114x66x15 mm; later 9900 only 10.5 mm) | 2.6-inch landscape colour LCD (480x320) (v) | wide physical QWERTY, trackball or optical trackpad, call/end keys (v) | leather-look or soft-touch back, metal edge (v) | black, silver, white | ridged key rows, 2.8-inch touch version later
+BlackBerry Passport | almost-square QWERTY phone | 2014 | smart phone | wide near-square slab | 12.8 x 9 x 0.9 (~) | 4.5-inch square touch display | three-row physical keyboard that is touch sensitive (~) | metal frame, textured back | black, white | square footprint
+BlackBerry KeyOne | touch display above ridged physical keyboard | 2017 | smart phone | tall slab with keyboard on bottom third | 15 x 7.2 x 0.9 (~) | 4.5-inch touch LCD | metal-ridged keys with thumbprint space key | textured soft-touch back, metal edge | black, silver | keyboard doubles as touchpad
+Apple iPhone first generation | silver and black glass slab with metal back | 2007 | smartphone | rounded rectangle slab, rounded edges | 11.5 x 6.1 x 1.2 (v: 115x61x11.6 mm, 135 g) | 3.5-inch 3:2 glass LCD, thick black top and bottom bezel (v) | single round home button at bottom centre, power key, volume keys, ring/silent switch (v) | aluminium back with black plastic strip at base, glass front | silver, black | no keypad, single button
+Apple iPhone 4-style | flat glass front and back with steel band | 2010 | smartphone | flat slab with sharp edges and metal band | 11.5 x 5.9 x 0.94 (~) | 3.5-inch retina with home button bezel | home button, volume, sleep, 30-pin dock | glass and steel | black, white | band split into aerial sections
+Apple iPhone X-style | notch full-screen glass phone | 2017 | smartphone | glass slab, rounded corners | 14.4 x 7.1 x 0.8 (~) | 5.8-inch OLED edge-to-edge with top notch | side key, volume keys, Lightning port | glass back, steel frame | silver, space grey | vertical dual camera pill
+Apple iPhone Pro-style | square triple camera bump | 2019 | smartphone | slab with square rounded camera plate | 14.7 x 7.1 x 0.8 (~) | OLED with notch or pill island | side key, volume, USB-C | frosted glass back, steel or titanium frame | graphite, gold, blue (~) | three lenses in square bump
+Galaxy S-style | glass flagship with punch-hole | 2020 | smartphone | slim slab, curved edges | 15 x 7 x 0.8 (~) | 6.2-inch AMOLED punch-hole | power and volume on right, USB-C | glass, aluminium frame | black, white, violet (~) | vertical lens column
+Pixel-style visor phone | horizontal camera bar across back | 2021 | smartphone | slab with raised bar across rear | 15.8 x 7.6 x 0.9 (~) | OLED with punch-hole | side keys, USB-C | glass back, metal bar | black, cream, mint (~) | camera visor
+Galaxy Fold-style book foldable | book-fold with tall narrow cover screen | 2019 | foldable | folds like a book, narrow tall outer screen, large inner tablet screen | open 16.1 x 11.8 x 0.7; closed 16.1 x 6.3 x 1.6 (v) | 4.6-inch cover display, 7.3-inch inner flexible OLED with corner notch and visible crease (v) | side fingerprint power key, volume rocker (v) | glass, metal frame, plastic inner bezel, laminate screen (v) | silver, cosmos black (v) | crease at hinge
+Galaxy Flip-style vertical foldable | square clamshell | 2020 | foldable | folds to a square, tall when open | 8.7 x 7.3 x 1.5 closed (~) | small cover screen, tall inner OLED | side key | glass, metal | purple, mint (~) | compact square
+Razr-style foldable | retro clamshell foldable | 2020-2026 | foldable | tall clamshell, rounded; chin on first model | 17 x 7.2 x 0.7 open (~) | outer 2.7 to 4.0 inch AMOLED, inner foldable OLED (v) | side keys | glass, aluminium, synthetic leather, microfibre, wood (v) | varied | colour-matched finishes
+Ruggedised phone | thick boxy phone with rubber corners | 2015 | rugged phone | thick slab with reinforced corners | 14 x 7 x 1.9 (~) | small display, thick bezel | oversized keys, exposed screws, port flaps, PTT button | rubber overmold | black, orange | screws visible
+Gaming phone | slab with vents and shoulder triggers | 2018 | gaming phone | thick slab with large bezels | 17 x 7.7 x 0.9 (~) | AMOLED with speaker bezels | side air triggers, USB-C | glass, aluminium | black with RGB logo | RGB glow
+Game phone taco | wide sideways game phone | 2003 | gaming phone | wide taco-shaped body | 13.4 x 6.9 x 2 (~) | portrait screen | D-pad left, keypad right | plastic | grey | held sideways
+Swivel messenger phone | screen swivels to show QWERTY | 2002 | smart phone | chunky bar | 13 x 7 x 2 (~) | colour screen | swivelling screen, QWERTY | plastic | blue | rotating screen
+Large-key senior phone | simple flip with big keys | 2007 | feature phone | simple flip | 9 x 5 x 2 (~) | large text screen | big keys | plastic | red | oversized keys
+E-ink minimalist phone | thin slab with paper screen | 2022 | feature phone | thin slab | 12 x 6 x 1 (~) | e-ink | few buttons | plastic | white | monochrome paper look
+
+== SMARTWATCHES & BANDS ==
+Apple Watch | rounded-square smartwatch with crown | 2015 | smartwatch | squircle case with curved glass | 4.2 to 4.9 case, 1 thick (v sizes 42,46,49 mm) | rectangular OLED, minimal bezel | digital crown, side button, Action button on Ultra (v) | aluminium, steel, titanium, ceramic (v) | black, silver, gold, space grey (v) | tool-free swappable bands
+Samsung Galaxy Watch | round smartwatch | 2018 | smartwatch | round case | 4.57 x 4.19 x 1.27 for 42 mm; 4.9 x 4.6 x 1.3 for 46 mm (v) | round 1.2 or 1.3 inch AMOLED 360x360 (v) | two side buttons | steel or aluminium (~) | black, silver, rose gold (v) | rotating bezel on some
+Pebble | e-paper watch with four buttons | 2013 | smartwatch | squared plastic case | 5.2 x 3.6 x 1.15 (v: 52x36x11.5 mm, 38 g) | 1.26-inch 144x168 black-white transflective LCD (v) | four buttons (v) | plastic, later steel (v) | black, red, silver, gold (v) | magnetic charge port
+Fitbit Charge-style band | slim bracelet tracker | 2018 | fitness band | slim rectangular tracker | 3.6 pod (~) | small OLED, about 40 percent bigger on Charge 3 (v) | one side touch | aluminium case, silicone band small 14-18 cm, large 18-22 cm (v) | rose gold with blue-grey, graphite with black (v) | long strap
+Xiaomi-style band | capsule tracker in silicone strap | 2014 | fitness band | slim capsule snapping into strap | capsule 3.6 long, 0.9 thick (v) | 1.56-inch AMOLED later (v) | touch | silicone wristband (v) | black | capsule
+Garmin Forerunner-style | round sports watch | 2016 | sports watch | round chunky | 4.5 case (~; 39 to 42 mm cases) | round colour display, some touch, solar ring (v) | five side buttons (~) | polymer case, strap 18-26 mm (v) | black, orange | buttons
+G-Shock-style | thick square rugged watch | 1983 | watch | squarish thick case with bumper | 4.8 case, 1.4 thick (~) | LCD digital, analog or both (v) | side buttons on oblong shafts (v) | resin case or stainless; urethane bumper (v) | black | shock bumpers
+Digital sports band watch | thin wrist computer | 1980 | watch | thin rectangular | 4 x 3 (~) | LCD | tiny keys | stainless | silver | calculator watch
+Oura Ring | smooth thick finger ring | 2018 | smart ring | thick band, flat inner | 0.8 wide, 0.3 thick (~) | none | none | titanium (~) | silver, black, gold (~) | sensors inside, no bumps (v)
+Galaxy Ring | slim ring | 2024 | smart ring | band | 0.7 wide (~) | none | none | titanium (~) | gold, black | flat
+
+== SMART GLASSES & HEADSETS ==
+Ray-Ban Meta | camera glasses with LED | 2021 | smart glasses | classic wayfarer or round frames | frame width 14.5 (~) | none | touchpad on temple (v) | acetate | black (v up to six colours) | recording LED beside lens
+Google Glass | one-eyed prism glasses | 2013 | smart glasses | titanium bar frame, no lenses | ~14 wide (~), 36 g (v) | small prism display above right eye (v) | side touchpad (v) | titanium | white | prism cube
+Spectacles-style | round camera glasses | 2016 | smart glasses | round frame | 14 (~) | none | button | plastic | yellow | circular camera
+Meta Quest 3 | pancake VR visor | 2023 | VR headset | boxy visor, 40 percent thinner (v) | 19 wide (~) | pancake lenses (v) | controller buttons | plastic | white | three front pills (v)
+Quest 2-style | VR headset | 2020 | VR headset | boxy | 19 (~) | lenses | strap | plastic | white | cloth strap
+Apple Vision Pro | glass-front spatial goggles | 2024 | spatial headset | curved glass front, metal frame, cushion face seal (v) | 19 (~) | micro-OLED, front eye screen (v) | digital crown (v) | glass, aluminium, knit band (v) | silver (~) | external battery
+HTC Vive-style | tethered VR | 2016 | VR headset | black box with dimples | 19 (~) | lenses | strap | plastic | black | sensor dimples
+Hololens-style | AR visor | 2016 | AR headset | wraparound visor | 20 (~) | clear visor | ring | plastic | grey | transparent visor
+Dev-kit VR | black foam VR | 2013 | VR headset | black block | 19 (~) | lenses | none | plastic | black | cable
+
+== AUDIO ==
+AirPods | white stem earbuds and floss case | 2016 | earbuds | short stem earbuds, pill case | each 1.65 x 1.8 x 4.05; case 4.4 x 2.1 x 5.4 (v) | none | stem pressure (v) | plastic | white | stem
+AirPods Max-style | steel ear cups | 2020 | headphones | over-ear, mesh canopy | 19 (~) | none | crown | aluminium, mesh | silver, grey | knit canopy
+ANC headphones | over-ear folding | 2016 | headphones | over-ear | 20 (~) | none | buttons | plastic | black | swivel
+Beats-style | glossy red headphones | 2008 | headphones | over-ear | 20 (~) | none | buttons | plastic | red | glossy
+Bean earbuds | small wireless | 2019 | earbuds | bean | 2 (~) | none | touch | plastic | black | bean
+Bluetooth pebble earbuds | oval case | 2019 | earbuds | bean plus pebble case | 6 (~) | none | touch | plastic | white | pebble
+White wired earphones | pod and cable | 2001 | earphones | pod | 1.5 (~) | none | none | plastic | white | white cable
+Neckband bone conduction | U band | 2015 | headphones | U band | 15 (~) | none | buttons | titanium | black | behind neck
+
+== E-READERS & TABLETS ==
+Kindle original | tall slab with sloped keyboard and wheel | 2007 | e-reader | wedge-like slab, curved back, slanted keyboard at lower half | 20.3 x 13.5 x 2 (v: 8.0x5.3x0.8 in, 289 g) | 6-inch e-ink, grey (v) | keyboard, scroll wheel (v) | plastic | white | big page-turn bar
+Kindle Keyboard | e-reader with keyboard under screen | 2010 | e-reader | slim slab with keyboard under screen | 19.1 x 12.2 x 0.9 (v: 7.5x4.8x0.34 in) | 6-inch e-ink | QWERTY, 5-way (v) | plastic | graphite, white | keyboard
+Kindle DX-style | big keyboard reader | 2009 | e-reader | tall large slab | 26.4 x 18.3 x 1 (v) | 9.7-inch e-ink | keys | plastic | white | big
+Kindle 4/5 | compact bezel reader | 2011 | e-reader | compact slab with D-pad | 16.5 x 11.4 x 0.9 (v: 6.5x4.5x0.34 in) | 6-inch e-ink | D-pad (v) | plastic | black | small
+Kindle Touch/Paperwhite | touchscreen reader | 2012 | e-reader | slab, bezel flush | 17 x 11.7 x 0.9 (v: 6.7x4.6x0.36 in) | 6-inch e-ink front lit (v) | touch | plastic | black | thick bezel
+Kindle Voyage-style | thin metallic reader | 2014 | e-reader | slim slab | 16.3 x 11.4 x 0.76 (v) | 6-inch | pressure page sensors | magnesium | black | thin
+Kindle Oasis-style | asymmetric reader | 2016 | e-reader | wedge: thick side for grip, thin side | 14.2 x 12.2 x 0.33 to 0.8 (v: 5.6x4.8x0.13 in) | 7-inch | page buttons | aluminium | graphite | thick grip
+Kindle Paperwhite 5 | flush front lit reader | 2021 | e-reader | slab flush screen | 17.5 x 12.5 x 0.8 (v: 6.9x4.9x0.32 in) | 6.8-inch | none | plastic | black | flush
+Kindle Scribe | big writing tablet | 2022 | e-reader | big flat slab, thick grip side | 22.9 x 19.6 x 0.55 (v: 9x7.7x0.22 in) | 10.2-inch e-ink | pen | plastic | grey | pen
+Kobo-style | dimpled back reader | 2012 | e-reader | slab | 16 x 11.4 x 0.9 (v) | 6-inch e-ink front lit (v) | touch, page buttons on Forma (v) | plastic | black, white, lilac (v) | quilted back
+Kobo Forma-style | asymmetrical reader | 2018 | e-reader | slab with thick grip side | 17.8 x 16 x 0.85 (v: 160x177.7x8.5 mm) | 8-inch | page buttons | plastic | black | grip
+Sony reader PRS-505 | metal reader | 2007 | e-reader | slab with brushed metal | 17.5 x 12.2 x 0.8 (v) | 6-inch 8-level e-ink | 10 side buttons (v) | aluminium | blue, silver, red (v) | brushed
+Sony reader PRS-600 | touch reader | 2009 | e-reader | slab | 17.5 x 12.2 x 1 (v) | 6-inch touch | touch | plastic | black, silver, red (v) | reflective
+Paper tablet | very thin writing tablet | 2020 | e-paper tablet | very thin flat | 24.6 x 17.4 x 0.5 (~) | 10.3-inch | none | aluminium | grey | marker
+iPad | glass tablet | 2010 | tablet | rounded rectangle with thick bezels | 24 x 19 x 1.3 (~) | 9.7-inch | home button, volume | aluminium | silver | bezels
+iPad Pro | thin bezels | 2018 | tablet | flat edges | 28 x 21 x 0.6 (v: 5.1 to 5.3 mm on 2024) | 11 or 13-inch | top button | aluminium | space grey | pencil
+Galaxy Tab | android tablet | 2010 | tablet | slab | 19 x 12 x 1.2 (~) | 7-inch | keys | plastic | black | S Pen
+Surface-style | kickstand tablet | 2012 | tablet | slab with kickstand | 17.2 x 27.5 x 0.93 (v) | 10.6-inch 16:9 (v) | pogo pins | magnesium dark titanium (v) | black | kickstand
+Fire-style | cheap tablet | 2011 | tablet | thick slab | 19 x 12 x 1.1 (v: 7.48x4.72x0.45 in) | 7-inch 600x1024 IPS (v) | power | plastic | black | rubbery
+Newton-style PDA | stylus tablet | 1993 | PDA | slab | 19 x 11 | mono touch | buttons | plastic | grey | stylus
+Palm Pilot-style | handheld PDA | 1996 | PDA | small slab | 12 x 8 | mono | shortcut buttons | plastic | grey | stylus
+Psion Series 3 | clamshell PDA | 1993 | PDA | small clamshell | 16.5 x 8.5 x 2.2 (v) | 240x80 mono (v) | QWERTY (v) | plastic | dark grey, silver (v) | keys
+Wacom-style tablet | flat pad with pen | 2000 | drawing tablet | rectangular pad | 33 x 22 | none | express keys | plastic | black | pen
+Pen display | slab | 2005 | pen display | slab | 40 x 25 | display | buttons | plastic | black | stand
+
+== GAMING ==
+Game Boy original | grey brick | 1989 | handheld console | vertical rounded rectangle | 14.8 x 9 x 3.2 (v) | 2.5-inch reflective grey-green (v) | D-pad, A B, select start, power slider, volume dial (v) | ABS plastic (v) | grey (v) | thick bezel
+Game Boy Pocket | slimmer | 1996 | handheld | smaller | 12.8 x 7.8 x 2.5 (v) | mono | same | plastic | silver (v) | small
+Game Boy Advance | landscape console | 2001 | handheld | wide | 8.2 x 14.5 x 2.5 (v: 82x144.5x24.5 mm) | 2.9-inch TFT 240x160 (v) | 8-way D-pad, shoulder buttons (v) | plastic | indigo, arctic, black (v) | landscape
+Nintendo DS | clamshell | 2004 | handheld | two-screen clamshell | 14.9 x 8.5 x 2.9 (v) | two 3-inch (v) | stylus, D-pad, ABXY (v) | plastic | silver, blue, red (v) | touch
+PSP | wide slab | 2004 | handheld | wide black | 17 x 7.4 x 2.3 (v) | 4.3-inch (v) | analog nub, UMD (v) | plastic | black, white (v) | glossy
+PS Vita-style | oled | 2011 | handheld | wide | 18 x 8.4 | 5-inch | sticks | plastic | black | rear touch
+Switch | tablet with Joy-Con | 2017 | hybrid | tablet with controllers | 17.3 x 10.2 x 1.4 (v) | 6.2-inch (v) | Joy-Con | plastic | grey, neon (v) | kickstand
+Switch Lite | integrated | 2019 | handheld | one piece | 20.8 x 9.1 x 1.4 (v) | 5.5-inch (v) | D-pad | plastic | yellow, grey (v) | one piece
+Steam Deck | large handheld PC | 2022 | handheld | wide with grips | 29.8 x 11.7 x 4.9 (v) | 7-inch (v) | sticks, trackpads (v) | plastic | black (v) | trackpads
+Lynx-style | wide chunky | 1989 | handheld | wide | 27 x 11 | colour | d-pad | plastic | black | big
+Tamagotchi | egg toy | 1996 | toy | egg | 4.2 | tiny LCD | three buttons | plastic | pink | keychain
+
+== OTHER ==
+Pager | beeper | 1980 | pager | small bar | 6 x 4 x 1.5 | LCD | buttons | plastic | black | belt clip
+Walkie-talkie | handheld radio | 1940 | radio | tall box with antenna | 20 x 6 | none | PTT | plastic | black | antenna
+Walkman | cassette player | 1979 | music | small box | 11 x 9 | none | keys | metal | blue silver (v) | headphones
+Discman | CD player | 1984 | music | disc | 14 x 14 | LCD | keys | plastic | silver | lid
+iPod classic | click wheel player | 2001 | music | slab | 10 x 6 | 2.5-inch (v) | click wheel (v) | steel back (v) | white, black (v) | wheel
+iPod Nano | thin | 2005 | music | slim | 9 x 4 | small | wheel | aluminium | colours | thin
+iPod Shuffle | clip | 2005 | music | tiny | 3 x 3 | none | button | aluminium | colours | clip
+iPod Touch | touch player | 2007 | music | slim | 11 x 6 | 3.5-inch | home | metal | black | touch
+MiniDisc player | MD | 1992 | music | square | 8 x 7 | LCD | keys | plastic | silver | disc
+Compact camera | pocket | 2005 | camera | slim | 9 x 6 x 2 | 2.5 rear | shutter, zoom | metal | silver | lens
+Mirrorless camera | retro | 2012 | camera | boxy | 12 x 8 x 4 | tilting | dials | metal | black silver | dials
+Instant camera | boxy | 1977 | camera | boxy | 15 | none | button | plastic | white | print slot
+Action camera | small cube | 2004 | camera | small cube | 7.2 x 5 x 3.4 (v: HERO13 71.8x50.8x33.6 mm) | 1.4 front, 2.27 rear (v) | buttons | plastic | black, blue (v) | mount
+Gimbal pocket camera | handle | 2018 | camera | handle | 12 | small | button | plastic | black | gimbal
+Handheld GPS | tall | 2000 | GPS | tall | 10.6 x 5.4 x 3.3 | 2.2 inch | five-way | rubber | yellow | rugged
+Scientific calculator | slab | 1990 | calculator | slab | 15 x 8 | LCD | keys | plastic | black | solar
+Graphing calculator | big | 1995 | calculator | big | 19 x 8.5 | big | keys | plastic | grey | cover
+Smart speaker | cylinder | 2014 | speaker | cylinder | 23 x 8 | LED ring | mute | fabric | white | light ring
+Power bank | brick | 2015 | charger | cuboid | 10 x 6 x 2 | LED | button, USB | aluminium | black | LED dots
+Charger puck | disc | 2016 | charger | disc | 8 | LED | cable | plastic | white | pad
+Tracker tag | coin | 2021 | tracker | disc | 3.2 | none | none | plastic | white | hole
+
+== PATTERNS ==
+screen types: monochrome dot-matrix LCD, segment LCD, red LED digit strip, vacuum fluorescent, STN reflective greenish, TFT colour LCD, IPS LCD, AMOLED, OLED edge-to-edge, e-ink greyscale, e-paper with front light, resistive touch, capacitive touch, foldable inner OLED, micro-OLED, round AMOLED, transflective MIP, cover window
+bezel styles: thick black bezel, thin uniform bezel, chin and forehead, notch, punch-hole, pill island, edge curve, flush glass, raised bezel lip, grey plastic frame, chrome bezel ring, rotating bezel ring, asymmetric grip bezel
+button types: round home button, side power key, volume rocker, mute switch, action button, shoulder trigger, D-pad cross, face button diamond, click wheel, trackball, trackpad, roller wheel, slider switch, soft keys, capacitive touch strip, crown
+key types: rubber keypad, individually raised QWERTY, ridged QWERTY row, compact SureType, flat etched metal keys, chiclet keys, membrane keys, numeric grid, calculator keys, touch strip
+camera arrangements: single centre lens, vertical pair, horizontal pair, triangle trio, square bump 2x2, horizontal visor bar, circular island, front punch-hole, dual front lenses, pill housings on headset front, side-mounted lens on glasses
+hinge types: clamshell, vertical flip, book fold, horizontal slider, swivel, banana curved slider, kickstand hinge, flexible crease hinge, clip hinge, lid hinge on cradle, telescoping case
+strap/band types: silicone sport band, woven nylon loop, metal link bracelet, leather loop, milanese mesh, buckle band, hook-and-loop strap, elastic headband, fabric head strap, halo strap, lanyard cord, belt clip
+case materials: ABS plastic, polycarbonate, anodised aluminium, stainless steel, titanium, ceramic, glass, magnesium alloy, rubber overmold, synthetic leather, microfibre, wood
+finishes: gloss black, matte soft-touch, brushed metal, polished chrome, frosted glass, translucent plastic, textured pebble, quilted back, piano black, bead-blasted, sparkle lacquer, rubberised grip
+colours: cream beige, putty grey, graphite, black, white, silver, space grey, gold, rose gold, hot pink, orange, translucent purple, teal, yellow, red, blue, olive
+port types: coaxial power, 30-pin dock, Lightning, USB-C, mini USB, micro USB, 3.5 mm jack, link port, memory card slot, cartridge slot, UMD drive, HDMI, SIM tray, pogo pins, magnetic charging dock, wireless pad
+antenna types: stubby rubber whip, telescopic whip, pull-up stub, internal hidden, metal band splits, flip-out blade, helical stub, none visible
+wear: scuffed corners, yellowed plastic, worn key legends, scratched screen, cracked bezel, fingerprint smudges, peeling rubber, dusty seams, faded colours, dented edges, worn-off paint, tape residue
+
+== SOURCES ==
+https://en.wikipedia.org/wiki/Motorola_DynaTAC
+https://en.wikipedia.org/wiki/Game_Boy
+https://en.wikipedia.org/wiki/Steam_Deck
+https://en.wikipedia.org/wiki/IPod
+https://en.wikipedia.org/wiki/Kindle
+https://en.wikipedia.org/wiki/Apple_Watch
+https://en.wikipedia.org/wiki/Nintendo_Switch
+https://en.wikipedia.org/wiki/PlayStation_Portable
+https://en.wikipedia.org/wiki/BlackBerry
+https://en.wikipedia.org/wiki/Motorola_Razr
+https://en.wikipedia.org/wiki/Walkman
+https://en.wikipedia.org/wiki/Meta_Quest_3
+https://en.wikipedia.org/wiki/AirPods
+https://en.wikipedia.org/wiki/Palm_Pilot
+https://en.wikipedia.org/wiki/Oura_Ring
+https://en.wikipedia.org/wiki/Ray-Ban_Meta
+https://en.wikipedia.org/wiki/GoPro
+https://en.wikipedia.org/wiki/Pager
+https://en.wikipedia.org/wiki/Samsung_Galaxy_Z_Fold
+https://en.wikipedia.org/wiki/Newton_(platform)
+https://en.wikipedia.org/wiki/Amazon_Kindle
+https://en.wikipedia.org/wiki/Nokia_3310
+https://en.wikipedia.org/wiki/IPhone_(1st_generation)
+https://en.wikipedia.org/wiki/BlackBerry_Bold
+https://en.wikipedia.org/wiki/Motorola_StarTAC
+https://en.wikipedia.org/wiki/Nokia_8110
+https://en.wikipedia.org/wiki/Nokia_9000_Communicator
+https://en.wikipedia.org/wiki/Pebble_(watch)
+https://en.wikipedia.org/wiki/Fitbit
+https://en.wikipedia.org/wiki/Samsung_Galaxy_Watch
+https://en.wikipedia.org/wiki/Xiaomi_Mi_Band
+https://en.wikipedia.org/wiki/Kobo_eReader
+https://en.wikipedia.org/wiki/Sony_Reader
+https://en.wikipedia.org/wiki/IPad
+https://en.wikipedia.org/wiki/Microsoft_Surface
+https://en.wikipedia.org/wiki/Samsung_Galaxy_Tab_series
+https://en.wikipedia.org/wiki/Amazon_Fire_tablet
+https://en.wikipedia.org/wiki/Personal_digital_assistant
+https://en.wikipedia.org/wiki/Psion_Series_3
+https://en.wikipedia.org/wiki/Game_Boy_Advance
+https://en.wikipedia.org/wiki/Nintendo_DS
+https://en.wikipedia.org/wiki/Garmin_Forerunner
+https://en.wikipedia.org/wiki/Google_Glass
+https://en.wikipedia.org/wiki/Apple_Vision_Pro
+https://en.wikipedia.org/wiki/G-Shock
+(searches, no pages fetched: DynaTAC, Game Boy, reMarkable 2, Garmin eTrex, Kindle Paperwhite)
+(fetch failed: Casio_FX-7000G, Nook_(device), ReMarkable_(company))

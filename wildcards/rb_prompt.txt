@@ -1,1 +1,25 @@
-A collectable piece, __rb_kind__, titled __book_novel_title__ by __book_author__. It has __rb_provenance__. It is __rb_condition__, __rb_display__.
+__rb_tin_prompt__
+__rb_human_prompt__
+__rb_android_prompt__
+__rb_butler_prompt__
+__rb_arm_prompt__
+__rb_lab_prompt__
+__rb_dog_prompt__
+__rb_spider_prompt__
+__rb_rover_prompt__
+__rb_tread_prompt__
+__rb_drone_prompt__
+__rb_mech_prompt__
+__rb_snake_prompt__
+__rb_orb_prompt__
+__rb_cleaner_prompt__
+__rb_pet_prompt__
+__rb_clock_prompt__
+__rb_war_prompt__
+__rb_sub_prompt__
+__rb_space_prompt__
+__rb_micro_prompt__
+__rb_exo_prompt__
+__rb_face_prompt__
+__rb_warehouse_prompt__
+__rb_alien_prompt__

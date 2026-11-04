@@ -1,0 +1,3 @@
+Its body is __rb_lab_body__. It has __rb_lab_head__. Its sensors and face show __rb_lab_eyes__. It has __rb_lab_arms__, ending in __rb_lab_hands__. For movement it has __rb_lab_move__. A notable detail is __rb_lab_feature__.
+It has __rb_lab_head__, with __rb_lab_eyes__. Its body is __rb_lab_body__, with __rb_lab_arms__, ending in __rb_lab_hands__. It moves on __rb_lab_move__. It also has __rb_lab_feature__.
+Built with __rb_lab_body__, it has __rb_lab_head__, which shows __rb_lab_eyes__. It has __rb_lab_arms__, ending in __rb_lab_hands__. For movement it has __rb_lab_move__. Look for __rb_lab_feature__.

@@ -1,0 +1,2 @@
+Its body is __gd_mouse_body__. Its lights and display are __gd_mouse_screen__. For controls it has __gd_mouse_controls__. Its material is __gd_mouse_material__. A notable detail is __gd_mouse_feature__.
+Built as __gd_mouse_body__, it shows lights and display details that are __gd_mouse_screen__. Its controls are __gd_mouse_controls__, and its material is __gd_mouse_material__. Look for __gd_mouse_feature__.
