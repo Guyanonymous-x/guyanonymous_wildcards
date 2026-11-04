@@ -1,0 +1,5 @@
+the lines "RANGE 20" and "CONTACT 3"
+the lines "HEART RATE 72" and "NORMAL"
+the lines "DEPTH 40" and "ALL CLEAR"
+the lines "SPEED 120" and "FUEL 60%"
+the lines "SIGNAL 3.2" and "STABLE"

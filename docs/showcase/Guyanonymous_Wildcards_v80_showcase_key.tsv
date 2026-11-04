@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+S01	crown	3:2	1248x848	1728x1152	280	8000	ok check crown shape
+S02	treasure chest	3:2	1248x848	1728x1152	287	8011	ok 
+S03	relic	4:5	912x1152	1264x1568	270	8022	ok 
+S04	tarot cards	3:2	1248x848	1728x1152	338	8033	ok check card captions render
+S05	playing cards	3:2	1248x848	1728x1152	280	8044	ok 
+S06	trading cards	4:5	912x1152	1264x1568	276	8055	ok 
+S07	postcard	3:2	1248x848	1728x1152	297	8066	ok 
+S08	crystal cluster	1:1	1024x1024	1408x1408	337	8077	ok 
+S09	geode	3:2	1248x848	1728x1152	330	8088	ok 
+S10	fossil	4:5	912x1152	1264x1568	311	8099	ok 
+S11	amber	1:1	1024x1024	1408x1408	281	8110	ok 
+S12	record player	3:2	1248x848	1728x1152	330	8121	ok 
+S13	radio	4:5	912x1152	1264x1568	350	8132	ok 
+S14	tape player	3:2	1248x848	1728x1152	255	8143	ok 
+S15	jukebox	4:5	912x1152	1264x1568	292	8154	ok 
+S16	television	3:2	1248x848	1728x1152	332	8165	ok check TV text lines render
+S17	computer monitor	3:2	1248x848	1728x1152	325	8176	ok check monitor text lines render
+S18	handheld game	4:5	912x1152	1264x1568	317	8187	ok 
+S19	arcade cabinet	4:5	912x1152	1264x1568	329	8198	ok 
+S20	projector	3:2	1248x848	1728x1152	349	8209	ok 
+S21	paint brush	3:2	1248x848	1728x1152	296	8220	ok 
+S22	easel and canvas	4:5	912x1152	1264x1568	280	8231	ok 
+S23	framed artwork	3:2	1248x848	1728x1152	279	8242	ok 
+S24	shell	1:1	1024x1024	1408x1408	296	8253	ok 
+S25	nest and egg	3:2	1248x848	1728x1152	246	8264	ok 
+G01	treasure jewellery grid	1:1	1024x1024	1408x1408	1010	8275	ok 
+G02	goblets and vessels grid	1:1	1024x1024	1408x1408	548	8286	ok 
+G03	tarot cards grid	1:1	1024x1024	1408x1408	547	8297	ok four tarot cards, captions in capitals
+G04	trading cards grid	1:1	1024x1024	1408x1408	536	8308	ok 
+G05	polished stones grid	1:1	1024x1024	1408x1408	1111	8319	ok 
+G06	cut gemstones grid	1:1	1024x1024	1408x1408	536	8330	ok 
+G07	fossils grid	1:1	1024x1024	1408x1408	530	8341	ok 
+G08	radios grid	1:1	1024x1024	1408x1408	1148	8352	ok 
+G09	microphones and headphones grid	1:1	1024x1024	1408x1408	579	8363	ok 
+G10	televisions grid	1:1	1024x1024	1408x1408	540	8374	ok 
+G11	monitors and laptops grid	1:1	1024x1024	1408x1408	591	8385	ok 
+G12	handheld games grid	1:1	1024x1024	1408x1408	621	8396	ok 
+G13	brushes and paints grid	1:1	1024x1024	1408x1408	995	8407	ok 
+G14	shells grid	1:1	1024x1024	1408x1408	1061	8418	ok 
+G15	feathers and leaves grid	1:1	1024x1024	1408x1408	512	8429	ok 

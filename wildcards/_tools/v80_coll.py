@@ -88,7 +88,7 @@ def build(final=None):
         G['%s_condition' % pre] = COND; G['%s_display' % pre] = DISPLAY; G['%s_service' % pre] = SERVICE
         allp = []
         for k, row in C.items():
-            noun, types, mats, feats, eras, mk = row[:6]; shows = row[6] if len(row) > 6 else ''
+            noun, types, mats, feats, eras, mk = row[:6]; shows = row[6] if len(row) > 6 and isinstance(row[6], list) else ''
             ms = MARKS['collector'] if mset == 'collector' else MARKS['std']
             G['%s_%s_type' % (pre, k)] = P(types); G['%s_%s_material' % (pre, k)] = P(mats); G['%s_%s_feature' % (pre, k)] = P(feats); G['%s_%s_era' % (pre, k)] = P(eras)
             G['%s_%s_marks' % (pre, k)] = [m % mk if '%s' in m else m for m in ms]

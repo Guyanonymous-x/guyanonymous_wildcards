@@ -1,0 +1,8 @@
+__sd_record_group_prompt__
+__sd_radio_group_prompt__
+__sd_tape_group_prompt__
+__sd_speaker_group_prompt__
+__sd_mic_group_prompt__
+__sd_phones_group_prompt__
+__sd_mixer_group_prompt__
+__sd_jukebox_group_prompt__

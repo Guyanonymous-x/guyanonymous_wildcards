@@ -1,0 +1,10 @@
+Guyanonymous' Wildcards v80 - index of new files
+================================================
+Seven collections, each with kinds: mo-style pools (<pre>_condition, _display, _service) and per kind <pre>_<kind>_type / _material / _feature / _era / _marks / _look / _prompt / _short / _group_prompt; mixes <pre>_prompt, <pre>_group_prompt, <pre>_short.
+TREASURE (tr_): crown, jewel, cup, idol, chest, relic, gem, map.
+CARDS (cd_): deck, tarot, trading, post (postcard), index (business card and labels), game, flash, booster.
+MINERALS (mn_): cluster, polished, geode, ore, fossil, meteor, gemcut, amber. Found-item labels in quotes.
+SOUND (sd_): record, radio, tape, speaker, mic, phones, mixer, jukebox.
+SCREENS (sc_): tv, monitor, laptop, game, arcade, sign, scope, projector. Each has <pre>_<kind>_text with the exact screen lines in quotes.
+ART (ar_): brush, paint, easel, palette, sketch, sculpt, frame, printing.
+NATURE (nt_): shell, feather, leaf, nest, cone, driftwood, insect, plant.
