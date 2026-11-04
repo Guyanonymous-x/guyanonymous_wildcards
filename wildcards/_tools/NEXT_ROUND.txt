@@ -419,3 +419,5 @@ V74 RELEASED (2026-11-04): 1,812 new files (library about 25,190). Books, signs 
 Showcase v74 (40 prompts): Guyanonymous_Wildcards_v74_showcase_1024.txt and _1408.txt, key TSV. Built from wildcard entry points plus joining words (v74_showcase.py, v74_showcase_out.py).
 Showcase rule: every version ships one. Review each prompt; quote all visible text.
 Known weak spots for v75: pw_person_who needs person files not in AOO (skipped there); steam locomotive/old classes have own eras, other interior classes have none; grid cells with long text (G04, G05) may truncate; hybrid habitat "in a frozen lake" reads oddly with seated poses; ephemera wording is now generic.
+
+GIT (from 2026-11-04): repo https://github.com/Guyanonymous-x/guyanonymous_wildcards, clone at /home/claude/guyanonymous_wildcards. After each finish.py N run: _tools/gitsync.sh N "summary". Tags/releases are blocked from the session, so each version gets a branch release/vN. Local folder on user's PC: D:\!!!!!!!Dave's Apps - Wildcards\Guyanonymous' Wildcards. Bulk first push must be chunked (done in v74 import).

@@ -1,0 +1,19 @@
+Guyanonymous' Wildcards v75 - index of new files
+=================================================
+LEGENDARY CREATURES (leg_, about 1,000 files)
+  121 creatures from European, Mediterranean, Middle Eastern, South Asian, East Asian, Southeast Asian, African and American folklore, described by looks only.
+  Per creature <key> (e.g. leg_griffin_*): _look (name and appearance), _habitat, _prompt, _scene (with time and weather), _encounter (a small witness in the foreground), _art (as a painting, relief, tapestry and so on), _short.
+  Mix files: leg_prompt, leg_scene, leg_encounter, leg_art, leg_short, leg_look, leg_pair_prompt (two beings facing each other).
+  By region: leg_<region>_prompt / _scene / _encounter / _art / _short / _look with region = europe, mediterranean, middle_east, south_asia, east_asia, southeast_asia, africa, americas, oceania, worldwide.
+  Sacred and divine archetypes (18, no named deities): leg_sacred_look, leg_sacred_prompt, leg_sacred_art, leg_sacred_<key>_*.
+  Shared pools: leg_view, leg_pose, leg_light (treatment), leg_depiction, leg_detail, leg_witness, leg_sacred_pose, leg_offering.
+LOCATIONS (loc_, about 3,800 files) - pilot conversion of the Location Inventory
+  325 locations: home interiors (80), home exteriors (50), workplaces (85), circulation spaces (20), bathrooms (20), food and hospitality (50), unusual places (20).
+  Per location loc_<category>_<name>_* : _items, _furniture, _installed, _signature, _materials, _palette, _light, _traces, _condition, _clean (the place only), _scene (everything), _scene_plus (adds items from the anywhere pools).
+  Entry points: loc_scene, loc_scene_plus, loc_clean, loc_<category>_scene, loc_<category>_scene_plus, loc_<category>_clean (category = home, ext, work, circ, bath, food, odd).
+  Tag indexes: loc_tag_<tag>_<value> (e.g. loc_tag_era_contemporary, loc_tag_light_daylight_diffuse) list scenes by tag for the records that carry tags.
+  Anywhere pools (phrases shared by two or more locations): loc_anywhere_items, _furniture, _installed, _traces, _light.
+OBJECT BUILDERS (ob_, about 560 files)
+  66 common objects found in the locations with no earlier builder (ticket, locker, napkin, radiator, fridge, jar, trolley, microphone, projector ...).
+  Per object ob_<name>_type, _material, _wear, _detail, _era, _short, _phrase, _full. Mix files: ob_any_short, ob_any_phrase, ob_any_full.
+  Shared pools: ob_colour, ob_era, ob_<class>_mat / _wear / _detail (metal, wood, plastic, paper, textile, glass, appliance, fabricated).

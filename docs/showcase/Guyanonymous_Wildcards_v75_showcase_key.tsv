@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+S01	European dragon encounter	3:2	1248x848	1728x1152	389	7400	ok 
+S02	Chinese-style dragon picture	2:3	832x1264	1152x1728	282	7411	ok 
+S03	griffin	4:5	912x1152	1264x1568	428	7422	ok 
+S04	kraken	16:9	1360x768	1872x1056	272	7433	ok 
+S05	kitsune	4:5	912x1152	1264x1568	336	7444	ok 
+S06	mountain troll	3:2	1248x848	1728x1152	406	7455	ok 
+S07	selkie	3:2	1248x848	1728x1152	264	7466	ok 
+S08	phoenix	2:3	832x1264	1152x1728	428	7477	ok 
+S09	djinn	3:2	1248x848	1728x1152	381	7488	ok 
+S10	thunderbird	16:9	1360x768	1872x1056	465	7499	ok 
+S11	feathered serpent	4:5	912x1152	1264x1568	290	7510	ok 
+S12	sun-lord	2:3	832x1264	1152x1728	325	7521	ok 
+S13	sea-mother	3:2	1248x848	1728x1152	209	7532	ok 
+S14	underworld queen	4:5	912x1152	1264x1568	333	7543	ok 
+S15	two legendary beings	16:9	1360x768	1872x1056	461	7554	ok 
+S16	random legendary scene	3:2	1248x848	1728x1152	235	7565	ok 
+S17	empty shopping mall	3:2	1248x848	1728x1152	609	7576	ok empty mall; text is plain, no legible writing expected
+S18	linen closet	4:5	912x1152	1264x1568	537	7587	ok 
+S19	garden shed	1:1	1024x1024	1408x1408	784	7598	ok square shed scene; verify the odd-item mix reads as a shed
+S20	public restroom	3:2	1248x848	1728x1152	672	7609	ok 
+S21	home scene	3:2	1248x848	1728x1152	642	7620	ok 
+S22	workplace scene	16:9	1360x768	1872x1056	594	7631	ok 
+S23	circulation scene	2:3	832x1264	1152x1728	597	7642	ok 
+S24	unusual scene	4:5	912x1152	1264x1568	586	7653	ok 
+S25	exterior scene	3:2	1248x848	1728x1152	684	7664	ok 
+G01	European legends grid	1:1	1024x1024	1408x1408	1358	7675	ok 
+G02	East Asian legends grid	1:1	1024x1024	1408x1408	1376	7686	ok 
+G03	Mediterranean legends grid	1:1	1024x1024	1408x1408	649	7697	ok 
+G04	Middle Eastern legends grid	1:1	1024x1024	1408x1408	717	7708	ok 
+G05	American legends grid	1:1	1024x1024	1408x1408	1424	7719	ok nine creatures; long cells
+G06	African legends grid	1:1	1024x1024	1408x1408	704	7730	ok 
+G07	South Asian legends grid	1:1	1024x1024	1408x1408	689	7741	ok 
+G08	sacred figures grid	1:1	1024x1024	1408x1408	1346	7752	ok archetypal figures, no named deities
+G09	tickets grid	1:1	1024x1024	1408x1408	1355	7763	ok 
+G10	lockers grid	1:1	1024x1024	1408x1408	735	7774	ok 
+G11	radiators grid	1:1	1024x1024	1408x1408	1398	7785	ok nine radiators; object details are generic and cell text is long
+G12	fridges grid	1:1	1024x1024	1408x1408	898	7796	ok 
+G13	jars grid	1:1	1024x1024	1408x1408	1270	7807	ok 
+G14	trolleys grid	1:1	1024x1024	1408x1408	728	7818	ok 
+G15	room clean-scene grid	1:1	1024x1024	1408x1408	1206	7829	ok 
