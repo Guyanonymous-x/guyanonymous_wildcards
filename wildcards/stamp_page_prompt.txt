@@ -1,0 +1,1 @@
+An album page of stamps, each from __text_country__ and each showing a different subject. The first shows __stamp_subject__, the second shows __stamp_subject__ and the third shows __stamp_subject__, each with a value like __text_stamp_value__. The page is __stamp_presentation__.

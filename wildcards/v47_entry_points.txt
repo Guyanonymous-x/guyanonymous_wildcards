@@ -1,0 +1,11 @@
+__furn_prompt__
+__furn_all_prompt__
+__home_prompt__
+__home_all_prompt__
+__office_supplies_prompt__
+__bottle_prompt__
+__closure_prompt__
+__perfume_prompt__
+__liquid_prompt__
+__liquid_in_bottle__
+__liquid_in_perfume_bottle__

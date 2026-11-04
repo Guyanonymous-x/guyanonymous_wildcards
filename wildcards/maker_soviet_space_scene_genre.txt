@@ -1,0 +1,5 @@
+__vx_rocket_base_scene_prompt__
+__vx_capsule_base_scene_prompt__
+__vx_probe_base_scene_prompt__
+__vx_satellite_base_scene_prompt__
+__vx_rover_base_scene_prompt__

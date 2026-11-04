@@ -1,0 +1,6 @@
+__scene_arch__.
+__scene_room__.
+__scene_landscape__.
+A person __pose_activity__ in __scene_room_type__.
+A person __pose_activity__ in __scene_landscape__.
+__pose_interact__ in __scene_room_type__.

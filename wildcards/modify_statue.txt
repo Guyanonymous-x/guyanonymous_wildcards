@@ -1,0 +1,11 @@
+__cond_statue_damage__
+__cond_statue_missing__
+__cond_statue_wear__
+__cond_statue_dirt__
+__cond_statue_graffiti__
+__cond_statue_faded__
+__cond_statue_burnt__
+__cond_statue_decay__
+__cond_statue_repair__
+__cond_statue_fine__
+__cond_statue_cheap__

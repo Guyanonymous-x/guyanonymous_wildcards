@@ -1,0 +1,11 @@
+__cond_furniture_damage__
+__cond_furniture_missing__
+__cond_furniture_wear__
+__cond_furniture_dirt__
+__cond_furniture_graffiti__
+__cond_furniture_faded__
+__cond_furniture_burnt__
+__cond_furniture_decay__
+__cond_furniture_repair__
+__cond_furniture_fine__
+__cond_furniture_cheap__

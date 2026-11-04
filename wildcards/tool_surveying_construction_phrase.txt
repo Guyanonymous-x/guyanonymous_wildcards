@@ -1,0 +1,10 @@
+a theodolite, which is a telescope on a tripod that measures horizontal and vertical angles, made of __tool_surveying_construction_theodolite_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a dumpy level, which is a telescope on a tripod that shows a level line of sight, made of __tool_surveying_construction_dumpy_level_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a surveyor's chain, which is a long chain of metal links used to measure distances, made of __tool_surveying_construction_surveyor_s_chain_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a measuring wheel, which is a wheel on a handle that counts distance as it is rolled, made of __tool_surveying_construction_measuring_wheel_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_tool__
+a hard hat, which is a rigid helmet with a brim, made of __tool_surveying_construction_hard_hat_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_tool__
+a high-visibility vest, which is a bright orange or yellow vest with reflective bands, made of __tool_surveying_construction_high_visibility_vest_material__, its surface is __comp_fin_soft__, and it has __comp_feat_tool__
+a pair of steel-toe boots, which is sturdy lace-up boots with a steel toe cap, made of __tool_surveying_construction_steel_toe_boots_material__, its surface is __comp_fin_soft__, and it has __comp_feat_tool__
+a jackhammer, which is a heavy power tool that pounds up and down, made of __tool_surveying_construction_jackhammer_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a concrete vibrator, which is a long vibrating rod placed into wet concrete, made of __tool_surveying_construction_concrete_vibrator_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a power trowel, which is a spinning set of blades that smooths concrete, made of __tool_surveying_construction_power_trowel_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__

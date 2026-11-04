@@ -1,0 +1,1 @@
+__vx_lander_base_prompt__ The vehicle is __vx_lander_state__, seen from __vs_space_camera__.

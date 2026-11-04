@@ -1,0 +1,1 @@
+__vx_helicopter_base_prompt__ The vehicle is __vx_helicopter_state__, seen from __vs_air_camera__.

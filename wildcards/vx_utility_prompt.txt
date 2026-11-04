@@ -1,0 +1,16 @@
+__vx_tractor_farm_prompt__
+__vx_combine_prompt__
+__vx_forklift_prompt__
+__vx_golf_cart_prompt__
+__vx_tuk_tuk_prompt__
+__vx_rickshaw_prompt__
+__vx_horse_carriage_prompt__
+__vx_wagon_prompt__
+__vx_sleigh_prompt__
+__vx_camper_prompt__
+__vx_caravan_prompt__
+__vx_rv_prompt__
+__vx_bus_city_prompt__
+__vx_bus_coach_prompt__
+__vx_school_bus_prompt__
+__vx_jeepney_prompt__

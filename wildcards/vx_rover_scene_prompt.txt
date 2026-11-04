@@ -1,0 +1,1 @@
+__vx_rover_prompt__ The vehicle is __vx_rover_state__, seen from __vs_space_camera__.

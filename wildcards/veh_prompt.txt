@@ -1,0 +1,12 @@
+__veh_bicycle_prompt__
+__veh_car_prompt__
+__veh_bus_prompt__
+__veh_train_prompt__
+__veh_boat_prompt__
+__veh_aeroplane_prompt__
+__veh_tractor_prompt__
+__veh_excavator_prompt__
+__veh_crane_prompt__
+__veh_motorbike_prompt__
+__veh_cart_prompt__
+__veh_sled_prompt__

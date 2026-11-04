@@ -1,0 +1,11 @@
+__cond_sign_damage__
+__cond_sign_missing__
+__cond_sign_wear__
+__cond_sign_dirt__
+__cond_sign_graffiti__
+__cond_sign_faded__
+__cond_sign_burnt__
+__cond_sign_decay__
+__cond_sign_repair__
+__cond_sign_fine__
+__cond_sign_cheap__

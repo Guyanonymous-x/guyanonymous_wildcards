@@ -1,0 +1,9 @@
+__weapon__
+__obj_weapon_sword__
+__obj_weapon_knife__
+__obj_weapon_axe__
+__obj_weapon_spear__
+__obj_weapon_club__
+__obj_weapon_bow__
+__obj_weapon_other__
+Two weapons side by side, __weapon__ and __weapon__

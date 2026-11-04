@@ -1,0 +1,6 @@
+__vint2_saloon_car_prompt__
+__vint2_sports_car_prompt__
+__vint2_truck_cab_prompt__
+__vint2_bus_prompt__
+__vint2_motorcycle_cockpit_prompt__
+__vint2_tractor_or_construction_cab_prompt__

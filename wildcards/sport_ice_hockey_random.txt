@@ -1,0 +1,4 @@
+a pair of hockey skates, which is stiff boots with a long steel blade under the sole, made of __sport_ice_hockey_hockey_skates_material__, its surface is __comp_fin_soft__, and it has __comp_feat_sport__. __comp_condition__
+a hockey helmet, which is a hard shell helmet with a cage over the face, made of __sport_ice_hockey_hockey_helmet_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_sport__. __comp_condition__
+a chest and shoulder protector, which is a padded vest with large plates over the shoulders, made of __sport_ice_hockey_chest_and_shoulder_protector_material__, its surface is __comp_fin_soft__, and it has __comp_feat_sport__. __comp_condition__
+a hockey stick, which is a long thin stick with a flat curved blade at the bottom, made of __sport_ice_hockey_hockey_stick_material__, its surface is __comp_fin_wood__, and it has __comp_feat_sport__. __comp_condition__

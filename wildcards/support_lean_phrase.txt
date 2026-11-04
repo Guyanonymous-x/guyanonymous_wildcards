@@ -1,0 +1,14 @@
+a brick wall, which is a tall wall of red bricks with pale mortar lines, made of __support_lean_brick_wall_material__, its surface is __comp_fin_hard__, and it has __comp_feat_structure__
+a painted plaster wall, which is a smooth wall painted in a flat colour, made of __support_lean_painted_plaster_wall_material__, its surface is __comp_fin_hard__, and it has __comp_feat_structure__
+a wooden railing, which is a waist-high railing with a flat top bar and vertical posts, made of __support_lean_wooden_railing_material__, its surface is __comp_fin_wood__, and it has __comp_feat_structure__
+a metal railing, which is a thin round metal rail on short posts, made of __support_lean_metal_railing_material__, its surface is __comp_fin_metal__, and it has __comp_feat_structure__
+a tree trunk, which is a thick rough-barked tree trunk, made of __support_lean_tree_trunk_material__, its surface is __comp_fin_wood__, and it has __comp_feat_structure__
+a door frame, which is the wooden frame of an open doorway, made of __support_lean_door_frame_material__, its surface is __comp_fin_wood__, and it has __comp_feat_structure__
+a wooden fence, which is a fence of tall upright boards, made of __support_lean_wooden_fence_material__, its surface is __comp_fin_wood__, and it has __comp_feat_structure__
+a rock face, which is a tall rough natural stone face, made of __support_lean_rock_face_material__, its surface is __comp_fin_hard__, and it has __comp_feat_structure__
+a kitchen counter edge, which is the rounded edge of a waist-height counter, made of __support_lean_kitchen_counter_edge_material__, its surface is __comp_fin_hard__, and it has __comp_feat_structure__
+a stone pillar, which is a thick round pillar, floor to ceiling, made of __support_lean_stone_pillar_material__, its surface is __comp_fin_hard__, and it has __comp_feat_structure__
+a ship's rail, which is a metal rail along the edge of a deck, made of __support_lean_ship_s_rail_material__, its surface is __comp_fin_metal__, and it has __comp_feat_structure__
+a window sill, which is the wide ledge of a window with a view, made of __support_lean_window_sill_material__, its surface is __comp_fin_wood__, and it has __comp_feat_structure__
+a lamp post, which is a tall metal pole with a lamp at the top, made of __support_lean_lamp_post_material__, its surface is __comp_fin_metal__, and it has __comp_feat_structure__
+a bar counter, which is a long polished counter, chest height, made of __support_lean_bar_counter_material__, its surface is __comp_fin_wood__, and it has __comp_feat_structure__

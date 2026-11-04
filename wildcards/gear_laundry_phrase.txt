@@ -1,0 +1,3 @@
+a washing machine, which is a front-loading drum with a round glass door, made of __gear_laundry_washing_machine_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a tumble dryer, which is a front-loading drum dryer, made of __gear_laundry_tumble_dryer_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a folding table, which is a counter for folding, made of __gear_laundry_folding_table_material__, its surface is __comp_fin_hard__, and it has __comp_feat_equipment__

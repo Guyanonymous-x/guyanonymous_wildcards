@@ -1,0 +1,6 @@
+a dumbbell, which is a short bar with a fixed weight on each end, made of __sport_gym_dumbbell_material__, its surface is __comp_fin_metal__, and it has __comp_feat_sport__. __comp_condition__
+a weightlifting belt, which is a wide leather belt with a thick back, made of __sport_gym_weightlifting_belt_material__, its surface is __comp_fin_soft__, and it has __comp_feat_sport__. __comp_condition__
+a yoga mat, which is a rolled rectangular mat with a grippy surface, made of __sport_gym_yoga_mat_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_sport__. __comp_condition__
+a barbell, which is a long steel bar with weighted plates at the ends, made of __sport_gym_barbell_material__, its surface is __comp_fin_metal__, and it has __comp_feat_sport__. __comp_condition__
+a kettlebell, which is a cast iron ball with a handle on top, made of __sport_gym_kettlebell_material__, its surface is __comp_fin_metal__, and it has __comp_feat_sport__. __comp_condition__
+a pair of weightlifting shoes, which is flat firm shoes with a raised heel, made of __sport_gym_weightlifting_shoes_material__, its surface is __comp_fin_hard__, and it has __comp_feat_sport__. __comp_condition__

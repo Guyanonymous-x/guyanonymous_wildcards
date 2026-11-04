@@ -1,0 +1,4 @@
+sharp pointed line corners
+rounded line joins
+clipped, beveled line corners
+overshooting lines that cross at the corners

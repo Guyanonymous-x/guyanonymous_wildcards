@@ -1,0 +1,16 @@
+__vx_airliner_prompt__
+__vx_prop_plane_prompt__
+__vx_biplane_prompt__
+__vx_seaplane_prompt__
+__vx_bush_plane_prompt__
+__vx_glider_prompt__
+__vx_helicopter_prompt__
+__vx_balloon_prompt__
+__vx_airship_prompt__
+__vx_hang_glider_prompt__
+__vx_paraglider_prompt__
+__vx_drone_prompt__
+__vx_supersonic_prompt__
+__vx_cargo_plane_prompt__
+__vx_crop_duster_prompt__
+__vx_autogyro_prompt__

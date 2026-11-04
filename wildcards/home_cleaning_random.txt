@@ -1,0 +1,10 @@
+a broom, which is a long handle with a head of stiff bristles, made of __home_cleaning_broom_material__, its surface is __comp_fin_wood__, and it has __comp_feat_cleaning__. __comp_condition__
+a mop and bucket, which is a long handle with a head of cotton strings, beside a plastic bucket, made of __home_cleaning_mop_and_bucket_material__, its surface is __comp_fin_soft__, and it has __comp_feat_cleaning__. __comp_condition__
+a dustpan and brush, which is a small flat scoop with a short brush, made of __home_cleaning_dustpan_and_brush_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_cleaning__. __comp_condition__
+a vacuum cleaner, which is an upright machine with a handle, a body and a floor head, made of __home_cleaning_vacuum_cleaner_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_cleaning__. __comp_condition__
+a spray bottle, which is a hand-held bottle with a trigger sprayer, made of __home_cleaning_spray_bottle_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_cleaning__. __comp_condition__
+a laundry basket, which is a tall oval basket with two cutout handles, made of __home_cleaning_laundry_basket_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_cleaning__. __comp_condition__
+an iron, which is a flat metal base with a handle and a steam button, made of __home_cleaning_iron_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_cleaning__. __comp_condition__
+an ironing board, which is a long folding board with a padded cover, made of __home_cleaning_ironing_board_material__, its surface is __comp_fin_soft__, and it has __comp_feat_cleaning__. __comp_condition__
+a feather duster, which is a short handle with a plume of feathers, made of __home_cleaning_feather_duster_material__, its surface is __comp_fin_hard__, and it has __comp_feat_cleaning__. __comp_condition__
+a sponge, which is a small rectangular block of soft cellulose with a rough side, made of __home_cleaning_sponge_material__, its surface is __comp_fin_hard__, and it has __comp_feat_cleaning__. __comp_condition__

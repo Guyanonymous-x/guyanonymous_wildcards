@@ -1,0 +1,5 @@
+a treadmill, which is a long belt on a frame with side rails, a console with buttons and a safety clip, made of __gear_gym_cardio_treadmill_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a rowing machine, which is a long rail with a sliding seat, a flywheel at the front and a handle on a chain, made of __gear_gym_cardio_rowing_machine_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+an exercise bike, which is an upright bike with a heavy flywheel, a padded seat and a small display, made of __gear_gym_cardio_exercise_bike_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+an elliptical trainer, which is a machine with two long foot pedals that swing in an oval and two moving handles, made of __gear_gym_cardio_elliptical_trainer_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a stair climber, which is a machine with two stepping pedals that move up and down, made of __gear_gym_cardio_stair_climber_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
