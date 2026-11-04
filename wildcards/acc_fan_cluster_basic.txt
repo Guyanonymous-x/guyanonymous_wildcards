@@ -1,0 +1,750 @@
+__acc_adj_basic__ Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+__acc_adj_basic__ Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+__acc_adj_basic__ Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+__acc_adj_basic__ Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+__acc_adj_basic__ Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+__acc_adj_basic__ Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+__acc_adj_basic__ Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+__acc_adj_basic__ Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+__acc_adj_basic__ bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+__acc_adj_basic__ brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+__acc_adj_basic__ ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+__acc_adj_basic__ cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+__acc_adj_basic__ cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+__acc_adj_basic__ dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+__acc_adj_basic__ feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+__acc_adj_basic__ folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+__acc_adj_basic__ ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+__acc_adj_basic__ lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+__acc_adj_basic__ ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+__acc_adj_basic__ palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+__acc_adj_basic__ paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+__acc_adj_basic__ peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+__acc_adj_basic__ printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+__acc_adj_basic__ rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+__acc_adj_basic__ sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+__acc_adj_basic__ sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+__acc_adj_basic__ tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+__acc_adj_basic__ tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+__acc_adj_basic__ uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+__acc_adj_basic__ war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a bare-bones Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+a bare-bones Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+a bare-bones bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+a bare-bones bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+a bare-bones dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+a bare-bones dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+a bare-bones feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+a bare-bones feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+a bare-bones ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+a bare-bones ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+a bare-bones ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a bare-bones ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a bare-bones sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+a bare-bones sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+a basic Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+a basic Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+a basic Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+a basic Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+a basic brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+a basic brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+a basic cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a basic cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a basic ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+a basic ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+a basic palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+a basic palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+a basic rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+a basic rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+a basic sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+a basic sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+a basic war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a basic war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a budget-weight Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+a budget-weight Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+a budget-weight Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a budget-weight Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a budget-weight Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+a budget-weight Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+a budget-weight cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a budget-weight cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a budget-weight dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+a budget-weight dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+a budget-weight ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a budget-weight ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a budget-weight palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+a budget-weight palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+a budget-weight sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+a budget-weight sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+a budget-weight war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a budget-weight war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a casual Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+a casual Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+a casual Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+a casual Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+a casual ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+a casual ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+a casual cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+a casual cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+a casual dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+a casual dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+a casual lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+a casual lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+a casual rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+a casual rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+a common Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a common Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a common Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+a common Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+a common Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+a common Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+a common Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+a common Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+a common Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+a common Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+a common ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+a common ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+a common ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+a common ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+a common ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a common ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a common palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+a common palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+a common paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+a common paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+a common peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+a common peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+a common rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+a common rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+a common tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+a common tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+a factory-made Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+a factory-made Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+a factory-made Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+a factory-made Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+a factory-made ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+a factory-made ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+a factory-made cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a factory-made cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a factory-made folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+a factory-made folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+a factory-made printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+a factory-made printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+a factory-made rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+a factory-made rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+a factory-made sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+a factory-made sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+a factory-made tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+a factory-made tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+a factory-made tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+a factory-made tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+a factory-made war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a factory-made war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a functional Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+a functional Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+a functional Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+a functional Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+a functional brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+a functional brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+a functional lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+a functional lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+a functional palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+a functional palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+a functional peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+a functional peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+a functional printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+a functional printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+a functional rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+a functional rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+a functional tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+a functional tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+a functional uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+a functional uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+a humble Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a humble Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a humble Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+a humble Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+a humble brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+a humble brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+a humble dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+a humble dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+a humble ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+a humble ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+a humble palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+a humble palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+a humble printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+a humble printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+a humble sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+a humble sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+a humble tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+a humble tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+a humble war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a humble war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a light-duty Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+a light-duty Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+a light-duty Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+a light-duty Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+a light-duty Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a light-duty Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a light-duty Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+a light-duty Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+a light-duty Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+a light-duty Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+a light-duty Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+a light-duty Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+a light-duty brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+a light-duty brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+a light-duty ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+a light-duty ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+a light-duty feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+a light-duty feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+a light-duty lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+a light-duty lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+a light-duty sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+a light-duty sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+a light-duty tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+a light-duty tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+a lightly built Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+a lightly built Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+a lightly built Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+a lightly built Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+a lightly built Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+a lightly built Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+a lightly built Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a lightly built Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a lightly built Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+a lightly built Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+a lightly built Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+a lightly built Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+a lightly built cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+a lightly built cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+a lightly built dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+a lightly built dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+a lightly built feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+a lightly built feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+a lightly built folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+a lightly built folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+a lightly built lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+a lightly built lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+a lightly built palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+a lightly built palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+a lightly built peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+a lightly built peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+a lightly built rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+a lightly built rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+a lightly built sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+a lightly built sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+a lightly built tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+a lightly built tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+a lightly built uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+a lightly built uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+a low-key Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a low-key Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a low-key Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+a low-key Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+a low-key bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+a low-key bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+a low-key brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+a low-key brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+a low-key folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+a low-key folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+a low-key printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+a low-key printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+a low-key sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+a low-key sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+a low-key tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+a low-key tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+a low-key uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+a low-key uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+a mass-produced Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+a mass-produced Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+a mass-produced Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+a mass-produced Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+a mass-produced bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+a mass-produced bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+a mass-produced cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+a mass-produced cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+a mass-produced cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a mass-produced cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a mass-produced folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+a mass-produced folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+a mass-produced tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+a mass-produced tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+a mass-produced uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+a mass-produced uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+a matter-of-fact Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+a matter-of-fact Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+a matter-of-fact Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+a matter-of-fact Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+a matter-of-fact Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+a matter-of-fact Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+a matter-of-fact Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a matter-of-fact Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a matter-of-fact brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+a matter-of-fact brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+a matter-of-fact ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+a matter-of-fact ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+a matter-of-fact cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+a matter-of-fact cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+a matter-of-fact cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a matter-of-fact cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a matter-of-fact folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+a matter-of-fact folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+a matter-of-fact ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a matter-of-fact ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a matter-of-fact peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+a matter-of-fact peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+a matter-of-fact rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+a matter-of-fact rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+a matter-of-fact tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+a matter-of-fact tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+a matter-of-fact war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a matter-of-fact war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a minimal Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+a minimal Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+a minimal dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+a minimal dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+a minimal peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+a minimal peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+a minimal sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+a minimal sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+a minimal sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+a minimal sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+a minimal uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+a minimal uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+a no-frills brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+a no-frills brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+a no-frills dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+a no-frills dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+a no-frills ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+a no-frills ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+a no-frills ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a no-frills ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a no-frills printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+a no-frills printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+a no-frills tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+a no-frills tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+a no-frills war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a no-frills war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a no-nonsense Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+a no-nonsense Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+a no-nonsense cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a no-nonsense cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a no-nonsense feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+a no-nonsense feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+a no-nonsense paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+a no-nonsense paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+a no-nonsense uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+a no-nonsense uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+a plain Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+a plain Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+a plain Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+a plain Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+a plain Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+a plain Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+a plain Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+a plain Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+a plain ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+a plain ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+a plain cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+a plain cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+a plain cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a plain cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a plain dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+a plain dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+a plain feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+a plain feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+a plain palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+a plain palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+a plain paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+a plain paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+a plain war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a plain war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a plain-spun Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+a plain-spun Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+a plain-spun Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+a plain-spun Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+a plain-spun Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+a plain-spun Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+a plain-spun bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+a plain-spun bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+a plain-spun cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a plain-spun cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a plain-spun lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+a plain-spun lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+a plain-spun paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+a plain-spun paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+a plain-spun rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+a plain-spun rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+a plain-spun sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+a plain-spun sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+a quick-made Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+a quick-made Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+a quick-made Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+a quick-made Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+a quick-made cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+a quick-made cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+a quick-made cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a quick-made cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a quick-made folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+a quick-made folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+a quick-made lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+a quick-made lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+a quick-made ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a quick-made ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a quick-made sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+a quick-made sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+a ready-to-wear Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+a ready-to-wear Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+a ready-to-wear Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+a ready-to-wear Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+a ready-to-wear Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+a ready-to-wear Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+a ready-to-wear Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+a ready-to-wear Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+a ready-to-wear bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+a ready-to-wear bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+a ready-to-wear brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+a ready-to-wear brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+a ready-to-wear feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+a ready-to-wear feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+a ready-to-wear folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+a ready-to-wear folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+a ready-to-wear ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a ready-to-wear ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a ready-to-wear palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+a ready-to-wear palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+a ready-to-wear paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+a ready-to-wear paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+a ready-to-wear printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+a ready-to-wear printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+a ready-to-wear rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+a ready-to-wear rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+a ready-to-wear sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+a ready-to-wear sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+a ready-to-wear uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+a ready-to-wear uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+a rudimentary Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+a rudimentary Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+a rudimentary bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+a rudimentary bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+a rudimentary brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+a rudimentary brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+a rudimentary ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+a rudimentary ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+a rudimentary ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a rudimentary ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a rudimentary paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+a rudimentary paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+a rudimentary peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+a rudimentary peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+a rudimentary sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+a rudimentary sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+a rudimentary tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+a rudimentary tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+a rudimentary war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a rudimentary war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a serviceable Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a serviceable Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a serviceable Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+a serviceable Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+a serviceable Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+a serviceable Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+a serviceable cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+a serviceable cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+a serviceable feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+a serviceable feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+a serviceable ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a serviceable ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a serviceable peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+a serviceable peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+a serviceable printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+a serviceable printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+a serviceable tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+a serviceable tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+a serviceable tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+a serviceable tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+a serviceable war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a serviceable war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a simple Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+a simple Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+a simple Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+a simple Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+a simple lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+a simple lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+a simple paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+a simple paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+a simple peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+a simple peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+a simple sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+a simple sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+a simple tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+a simple tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+a simple war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a simple war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a standard-issue Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+a standard-issue Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+a standard-issue Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+a standard-issue Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+a standard-issue Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a standard-issue Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a standard-issue Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+a standard-issue Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+a standard-issue Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+a standard-issue Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+a standard-issue Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+a standard-issue Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+a standard-issue bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+a standard-issue bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+a standard-issue cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a standard-issue cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a standard-issue ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+a standard-issue ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+a standard-issue ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a standard-issue ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a standard-issue sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+a standard-issue sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+a straightforward Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+a straightforward Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+a straightforward Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a straightforward Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a straightforward bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+a straightforward bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+a straightforward ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+a straightforward ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+a straightforward cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+a straightforward cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+a straightforward dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+a straightforward dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+a straightforward folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+a straightforward folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+a straightforward lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+a straightforward lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+a straightforward palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+a straightforward palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+a straightforward sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+a straightforward sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+a straightforward tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+a straightforward tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+a straightforward uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+a straightforward uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+a straightforward war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a straightforward war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+a stripped-back Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+a stripped-back Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+a stripped-back Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+a stripped-back Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+a stripped-back bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+a stripped-back bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+a stripped-back cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+a stripped-back cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+a stripped-back folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+a stripped-back folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+a stripped-back ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+a stripped-back ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+a stripped-back ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a stripped-back ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a stripped-back paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+a stripped-back paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+a stripped-back printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+a stripped-back printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+a stripped-back sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+a stripped-back sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+a stripped-back tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+a stripped-back tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+a stripped-back tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+a stripped-back tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+a stripped-back uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+a stripped-back uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+a workaday Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+a workaday Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+a workaday Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+a workaday Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+a workaday Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+a workaday Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+a workaday bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+a workaday bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+a workaday ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+a workaday ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+a workaday cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+a workaday cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+a workaday feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+a workaday feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+a workaday ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers.
+a workaday ostrich-feather fan, made of __acc_fan_mat_all_basic__. It is a large fan of long feathers. It also includes __acc_fan_practical__.
+a workaday paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+a workaday paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+a workaday peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+a workaday peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+a workaday rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+a workaday rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+a workaday tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+a workaday tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+a workaday war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan.
+a workaday war fan, made of __acc_fan_mat_all_basic__. It is an iron-ribbed fan. It also includes __acc_fan_practical__.
+an entry-level Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+an entry-level Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+an entry-level Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+an entry-level Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+an entry-level Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+an entry-level Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+an entry-level brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+an entry-level brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+an entry-level ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+an entry-level ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+an entry-level cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+an entry-level cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+an entry-level ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+an entry-level ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+an entry-level paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+an entry-level paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+an entry-level printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+an entry-level printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+an entry-level tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+an entry-level tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+an everyday Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+an everyday Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+an everyday Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+an everyday Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+an everyday Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+an everyday Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+an everyday feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+an everyday feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+an everyday lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+an everyday lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+an everyday peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+an everyday peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+an everyday printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+an everyday printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+an everyday sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+an everyday sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+an off-the-shelf Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+an off-the-shelf Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+an off-the-shelf Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border.
+an off-the-shelf Indian hand fan, made of __acc_fan_mat_all_basic__. It is a woven fan with a bright border. It also includes __acc_fan_practical__.
+an off-the-shelf Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+an off-the-shelf Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+an off-the-shelf cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+an off-the-shelf cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+an off-the-shelf cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze.
+an off-the-shelf cooling mist fan, made of __acc_fan_mat_all_basic__. It is a small fan with a soft breeze. It also includes __acc_fan_practical__.
+an off-the-shelf dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+an off-the-shelf dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+an off-the-shelf ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+an off-the-shelf ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+an off-the-shelf lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+an off-the-shelf lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+an off-the-shelf palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+an off-the-shelf palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+an off-the-shelf sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+an off-the-shelf sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+an off-the-shelf tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+an off-the-shelf tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+an off-the-shelf uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+an off-the-shelf uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+an ordinary Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+an ordinary Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+an ordinary Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+an ordinary Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+an ordinary Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+an ordinary Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+an ordinary Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+an ordinary Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+an ordinary Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+an ordinary Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+an ordinary Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+an ordinary Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+an ordinary brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+an ordinary brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+an ordinary ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+an ordinary ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+an ordinary dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+an ordinary dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+an ordinary feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+an ordinary feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+an ordinary rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+an ordinary rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.
+an ordinary uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+an ordinary uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+an understated Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle.
+an understated Chinese round fan, made of __acc_fan_mat_all_basic__. It is a round silk fan on a short handle. It also includes __acc_fan_practical__.
+an understated Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on.
+an understated Venetian carnival fan, made of __acc_fan_mat_all_basic__. It is a fan with a masked face painted on. It also includes __acc_fan_practical__.
+an understated Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard.
+an understated Victorian ball fan, made of __acc_fan_mat_all_basic__. It is a small fan with a pearl-set guard. It also includes __acc_fan_practical__.
+an understated bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+an understated bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+an understated dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance.
+an understated dancer's fan, made of __acc_fan_mat_all_basic__. It is a large fan used for a fan dance. It also includes __acc_fan_practical__.
+an understated feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+an understated feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+an understated folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+an understated folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+an understated ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+an understated ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+an understated printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+an understated printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+an understated sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+an understated sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+an understated sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+an understated sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+an unfussy Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs.
+an unfussy Spanish abanico, made of __acc_fan_mat_all_basic__. It is a large folding fan with lace and wooden ribs. It also includes __acc_fan_practical__.
+an unfussy Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+an unfussy Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+an unfussy folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+an unfussy folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+an unfussy palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+an unfussy palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+an unfussy paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+an unfussy paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+an unfussy sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan.
+an unfussy sensu fan, made of __acc_fan_mat_all_basic__. It is a Japanese folding fan. It also includes __acc_fan_practical__.
+an unfussy tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+an unfussy tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+an unfussy tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards.
+an unfussy tortoiseshell-look fan, made of __acc_fan_mat_all_basic__. It is a fan with amber-toned guards. It also includes __acc_fan_practical__.
+an unfussy uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle.
+an unfussy uchiwa fan, made of __acc_fan_mat_all_basic__. It is a flat, round fan on a handle. It also includes __acc_fan_practical__.
+an unpretentious Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border.
+an unpretentious Thai palm fan, made of __acc_fan_mat_all_basic__. It is a round fan with a decorated border. It also includes __acc_fan_practical__.
+an unpretentious brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric.
+an unpretentious brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of joined carved sticks with no fabric. It also includes __acc_fan_practical__.
+an unpretentious ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+an unpretentious ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+an unpretentious lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+an unpretentious lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+an unpretentious palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf.
+an unpretentious palm-leaf fan, made of __acc_fan_mat_all_basic__. It is a fan made of a single leaf. It also includes __acc_fan_practical__.
+an unpretentious paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan.
+an unpretentious paper fan, made of __acc_fan_mat_all_basic__. It is a simple paper fan. It also includes __acc_fan_practical__.
+an unpretentious peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+an unpretentious peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+an unpretentious sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan.
+an unpretentious sandalwood fan, made of __acc_fan_mat_all_basic__. It is a scented carved fan. It also includes __acc_fan_practical__.
+an unpretentious tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel.
+an unpretentious tasselled fan, made of __acc_fan_mat_all_basic__. It is a fan with a long tassel. It also includes __acc_fan_practical__.
+an utilitarian Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face.
+an utilitarian Chinese silk folding fan, made of __acc_fan_mat_all_basic__. It is a folding fan with a painted silk face. It also includes __acc_fan_practical__.
+an utilitarian Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan.
+an utilitarian Filipino abanico, made of __acc_fan_mat_all_basic__. It is a hand-woven palm fan. It also includes __acc_fan_practical__.
+an utilitarian bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan.
+an utilitarian bamboo fan, made of __acc_fan_mat_all_basic__. It is a woven bamboo fan. It also includes __acc_fan_practical__.
+an utilitarian ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole.
+an utilitarian ceremonial fan, made of __acc_fan_mat_all_basic__. It is a large decorative fan on a pole. It also includes __acc_fan_practical__.
+an utilitarian cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle.
+an utilitarian cloisonné-handled fan, made of __acc_fan_mat_all_basic__. It is a fan with an enamelled handle. It also includes __acc_fan_practical__.
+an utilitarian feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers.
+an utilitarian feather fan, made of __acc_fan_mat_all_basic__. It is a fan made of soft feathers. It also includes __acc_fan_practical__.
+an utilitarian folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut.
+an utilitarian folding hand fan, made of __acc_fan_mat_all_basic__. It is a fan of ribs and a pleated face that folds shut. It also includes __acc_fan_practical__.
+an utilitarian ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks.
+an utilitarian ivory-look brisé fan, made of __acc_fan_mat_all_basic__. It is a fan of fine carved sticks. It also includes __acc_fan_practical__.
+an utilitarian lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face.
+an utilitarian lace fan, made of __acc_fan_mat_all_basic__. It is a delicate fan with a lace face. It also includes __acc_fan_practical__.
+an utilitarian peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers.
+an utilitarian peacock-feather fan, made of __acc_fan_mat_all_basic__. It is a fan of eye-patterned feathers. It also includes __acc_fan_practical__.
+an utilitarian printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan.
+an utilitarian printed souvenir fan, made of __acc_fan_mat_all_basic__. It is a cheerful printed fan. It also includes __acc_fan_practical__.
+an utilitarian rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan.
+an utilitarian rattan fan, made of __acc_fan_mat_all_basic__. It is a loose-woven fan. It also includes __acc_fan_practical__.

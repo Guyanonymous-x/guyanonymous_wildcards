@@ -1,0 +1,495 @@
+__acc_adj_standard__ ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+__acc_adj_standard__ bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+__acc_adj_standard__ bangle, made of __acc_bracelet_mat_all_standard__. It is a slim faceted bangle.
+__acc_adj_standard__ bangle, made of __acc_bracelet_mat_all_standard__. It is a smooth, round, rigid bangle.
+__acc_adj_standard__ beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+__acc_adj_standard__ beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+__acc_adj_standard__ chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+__acc_adj_standard__ chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a 7-inch curb-link chain. It fastens with a box clasp.
+__acc_adj_standard__ chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a fine cable chain bracelet. It fastens with a box clasp.
+__acc_adj_standard__ charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+__acc_adj_standard__ charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+__acc_adj_standard__ cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+__acc_adj_standard__ cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a narrow, open-backed cuff.
+__acc_adj_standard__ cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+__acc_adj_standard__ cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a wide, open-backed cuff that slips on from the side.
+__acc_adj_standard__ friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat chevron-pattern friendship bracelet with tie ends.
+__acc_adj_standard__ friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+__acc_adj_standard__ friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a round braided friendship bracelet with a slide knot.
+__acc_adj_standard__ hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+__acc_adj_standard__ hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+__acc_adj_standard__ leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+__acc_adj_standard__ link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bold bracelet of large oval links. It fastens with a box clasp.
+__acc_adj_standard__ link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bracelet of flat, rectangular links. It fastens with a box clasp.
+__acc_adj_standard__ link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+__acc_adj_standard__ mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+__acc_adj_standard__ multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+__acc_adj_standard__ multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+__acc_adj_standard__ slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+__acc_adj_standard__ slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+__acc_adj_standard__ tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+__acc_adj_standard__ tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+__acc_adj_standard__ torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+__acc_adj_standard__ wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+a balanced bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a balanced bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a balanced beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+a balanced beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+a balanced charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+a balanced friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a round braided friendship bracelet with a slide knot.
+a balanced hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+a balanced link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a balanced link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a balanced multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+a balanced slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+a balanced torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a balanced torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a carefully made ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+a carefully made bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a carefully made bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a carefully made bangle, made of __acc_bracelet_mat_all_standard__. It is a smooth, round, rigid bangle.
+a carefully made charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+a carefully made charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a carefully made charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a carefully made cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+a carefully made cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a wide, open-backed cuff that slips on from the side.
+a carefully made friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+a carefully made friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+a carefully made leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+a carefully made link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bold bracelet of large oval links. It fastens with a box clasp.
+a carefully made slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+a carefully made slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a carefully made slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a carefully made tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+a classic bangle, made of __acc_bracelet_mat_all_standard__. It is a smooth, round, rigid bangle.
+a classic beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+a classic beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+a classic chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+a classic chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+a classic cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+a classic hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+a classic hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+a classic mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+a classic multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+a classic multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+a classic slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a classic slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a cleanly made ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+a cleanly made beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+a cleanly made beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+a cleanly made beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+a cleanly made charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a cleanly made charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a cleanly made cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+a cleanly made cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a cleanly made cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a cleanly made cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a wide, open-backed cuff that slips on from the side.
+a cleanly made friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a round braided friendship bracelet with a slide knot.
+a cleanly made hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+a cleanly made leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+a cleanly made multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+a cleanly made tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+a cleanly made tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+a cleanly made torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a cleanly made torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a comfortable bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a comfortable bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a comfortable chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+a comfortable chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+a comfortable friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+a comfortable friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+a comfortable hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+a comfortable hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+a comfortable multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+a comfortable slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+a comfortable tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+a comfortable tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+a competent bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a competent bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a competent beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+a competent chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a fine cable chain bracelet. It fastens with a box clasp.
+a competent friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+a competent friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+a competent hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+a competent hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+a competent link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a competent link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a competent multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+a competent multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+a competent slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a competent slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a competent tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+a competent tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+a competent torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a competent torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a considered charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a considered charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a considered cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a considered cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a considered cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a wide, open-backed cuff that slips on from the side.
+a considered hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+a considered hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+a considered leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+a considered torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a considered torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a dapper ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+a dapper beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+a dapper friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat chevron-pattern friendship bracelet with tie ends.
+a dapper friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+a dapper friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+a dapper hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+a dapper hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+a dapper link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bracelet of flat, rectangular links. It fastens with a box clasp.
+a dapper link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a dapper link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a dapper slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a dapper slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a dapper tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+a dapper tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+a dapper tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+a dapper torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a dapper torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a dependable beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+a dependable beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+a dependable beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+a dependable chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+a dependable chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+a dependable chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a 7-inch curb-link chain. It fastens with a box clasp.
+a dependable charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a dependable charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a dependable cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a dependable cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a dependable hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+a dependable hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+a dependable hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+a dependable torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a dependable torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a good-looking beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+a good-looking beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+a good-looking chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+a good-looking chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+a good-looking hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+a good-looking leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+a good-looking mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+a good-looking multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+a good-looking multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+a good-looking multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+a good-looking slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+a good-looking slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a good-looking slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a good-looking tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+a handsome bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a handsome bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a handsome bangle, made of __acc_bracelet_mat_all_standard__. It is a slim faceted bangle.
+a handsome chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a fine cable chain bracelet. It fastens with a box clasp.
+a handsome charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+a handsome charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a handsome charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a handsome leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+a handsome torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a handsome torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a honest ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+a honest chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+a honest chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+a honest cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+a honest hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+a honest slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+a honest slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a honest slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a honest wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+a honest wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+a neat charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+a neat friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+a neat friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+a neat hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+a neat link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bold bracelet of large oval links. It fastens with a box clasp.
+a neat link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a neat link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a neat multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+a neat torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a neat torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a nicely finished ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+a nicely finished bangle, made of __acc_bracelet_mat_all_standard__. It is a slim faceted bangle.
+a nicely finished beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+a nicely finished charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+a nicely finished cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a narrow, open-backed cuff.
+a nicely finished cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a nicely finished cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a nicely finished link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a nicely finished link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a nicely finished mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+a nicely finished slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+a nicely finished slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a nicely finished slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a nicely finished torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a nicely finished torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a personable bangle, made of __acc_bracelet_mat_all_standard__. It is a smooth, round, rigid bangle.
+a personable cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a personable cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a personable friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+a personable friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+a personable leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+a personable link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bold bracelet of large oval links. It fastens with a box clasp.
+a personable multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+a personable wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+a personable wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+a pleasing ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+a pleasing bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a pleasing bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a pleasing beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+a pleasing beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+a pleasing chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+a pleasing chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+a pleasing charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a pleasing charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a pleasing cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+a pleasing link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a pleasing link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a pleasing slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+a pleasing slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a pleasing slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a pleasing tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+a pleasing torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a pleasing torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a pleasing wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+a pleasing wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+a polished-up bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a polished-up bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a polished-up bangle, made of __acc_bracelet_mat_all_standard__. It is a smooth, round, rigid bangle.
+a polished-up charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a polished-up charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a polished-up cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a narrow, open-backed cuff.
+a polished-up cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a polished-up cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a polished-up friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a round braided friendship bracelet with a slide knot.
+a polished-up leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+a polished-up link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bracelet of flat, rectangular links. It fastens with a box clasp.
+a polished-up link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a polished-up link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a polished-up mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+a polished-up multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+a polished-up multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+a quality bangle, made of __acc_bracelet_mat_all_standard__. It is a smooth, round, rigid bangle.
+a quality cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+a quality cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a quality cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a quality friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat chevron-pattern friendship bracelet with tie ends.
+a quality leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+a quality link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bold bracelet of large oval links. It fastens with a box clasp.
+a quality mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+a quality multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+a quality multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+a quality tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+a quality tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+a respectable charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+a respectable charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a respectable charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a respectable cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+a respectable cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a respectable cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a respectable hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+a respectable hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+a respectable link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bracelet of flat, rectangular links. It fastens with a box clasp.
+a respectable link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a respectable link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a respectable tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+a respectable tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+a respectable wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+a respectable wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+a shapely beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+a shapely beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+a shapely beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+a shapely cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a shapely cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a shapely cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a wide, open-backed cuff that slips on from the side.
+a shapely friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+a shapely friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+a shapely hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+a shapely hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+a shapely mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+a shapely multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+a shapely multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+a shapely multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+a shapely tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+a smart cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a wide, open-backed cuff that slips on from the side.
+a smart friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+a smart friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+a smart hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+a smart hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+a smart leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+a smart multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+a smart multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+a solid bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a solid bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a solid chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a fine cable chain bracelet. It fastens with a box clasp.
+a solid charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+a solid friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+a solid friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+a solid link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a solid link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a solid multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+a solid multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+a solid tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+a tasteful bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a tasteful bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a tasteful beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+a tasteful beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+a tasteful chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+a tasteful chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+a tasteful charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+a tasteful charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a tasteful charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a tasteful friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a round braided friendship bracelet with a slide knot.
+a tasteful link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a tasteful link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a tasteful multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+a tasteful slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a tasteful slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a tasteful torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+a tasteful torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+a thoughtfully designed ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+a thoughtfully designed bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a thoughtfully designed bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a thoughtfully designed bangle, made of __acc_bracelet_mat_all_standard__. It is a slim faceted bangle.
+a thoughtfully designed chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a 7-inch curb-link chain. It fastens with a box clasp.
+a thoughtfully designed charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a thoughtfully designed charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a thoughtfully designed cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a thoughtfully designed cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a thoughtfully designed friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+a thoughtfully designed friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+a thoughtfully designed hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+a thoughtfully designed hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+a thoughtfully designed link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bracelet of flat, rectangular links. It fastens with a box clasp.
+a thoughtfully designed multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+a thoughtfully designed multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+a thoughtfully designed tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+a thoughtfully designed tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+a thoughtfully designed wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+a thoughtfully designed wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+a trim beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+a trim beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+a trim chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+a trim chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+a trim charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a trim charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a trim cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a narrow, open-backed cuff.
+a trim link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bold bracelet of large oval links. It fastens with a box clasp.
+a trim slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+a trim tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+a trim wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+a trim wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+a versatile bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+a versatile bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+a versatile chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+a versatile chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+a versatile chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a fine cable chain bracelet. It fastens with a box clasp.
+a versatile charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms.
+a versatile charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with small charms. It also includes __acc_bracelet_practical__.
+a versatile cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+a versatile leather wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It wraps around the wrist three times. It fastens with a box clasp.
+a versatile mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+a versatile multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+a versatile multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+a versatile multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+a versatile slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+a versatile slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a versatile slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a versatile tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+a versatile wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+a versatile wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+a well-built ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+a well-built bangle, made of __acc_bracelet_mat_all_standard__. It is a smooth, round, rigid bangle.
+a well-built beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+a well-built beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+a well-built chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+a well-built chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+a well-built chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a 7-inch curb-link chain. It fastens with a box clasp.
+a well-built cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+a well-built cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+a well-built cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a wide, open-backed cuff that slips on from the side.
+a well-built friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat chevron-pattern friendship bracelet with tie ends.
+a well-built link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a well-built link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a well-built mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+a well-built slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+a well-built slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+a well-built tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+a well-built tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+a well-built tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+a well-built wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+a well-built wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+a well-crafted cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+a well-crafted friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat chevron-pattern friendship bracelet with tie ends.
+a well-crafted hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+a well-crafted link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp.
+a well-crafted link bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain of oval links with a clasp. It also includes __acc_bracelet_practical__.
+a well-crafted wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+a well-crafted wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+a well-proportioned beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+a well-proportioned hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+a well-proportioned tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+a well-proportioned tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+a well-proportioned tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It fastens with a box clasp.
+an agreeable ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+an agreeable chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a 7-inch curb-link chain. It fastens with a box clasp.
+an agreeable friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat chevron-pattern friendship bracelet with tie ends.
+an agreeable friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+an agreeable friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+an agreeable tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+an agreeable tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+an agreeable torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends.
+an agreeable torque bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open band with ball-shaped ends. It also includes __acc_bracelet_practical__.
+an agreeable wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+an agreeable wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+an appealing beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+an appealing hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+an appealing slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot.
+an appealing slider bracelet, made of __acc_bracelet_mat_bead_standard__. It is an adjustable cord bracelet with a sliding knot. It also includes __acc_bracelet_practical__.
+an appealing wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+an appealing wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.
+an attractive bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand.
+an attractive bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid closed circle that slides over the hand. It also includes __acc_bracelet_practical__.
+an attractive beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+an attractive beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+an attractive beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+an attractive chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+an attractive chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+an attractive charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+an attractive friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends.
+an attractive friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat woven band tied on with trailing ends. It also includes __acc_bracelet_practical__.
+an attractive hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+an attractive hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+an attractive hinged bangle, made of __acc_bracelet_mat_all_standard__. It is an oval bangle that opens on a hinge. It fastens with a box clasp.
+an attractive mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+an attractive slave bracelet, made of __acc_bracelet_mat_all_standard__. It is a hand chain that links a bracelet to a ring by a fine chain across the back of the hand.
+an attractive tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+an attractive tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+an easygoing ID bracelet, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It fastens with a box clasp.
+an easygoing bangle, made of __acc_bracelet_mat_all_standard__. It is a smooth, round, rigid bangle.
+an easygoing beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic.
+an easygoing beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single strand of beads on elastic. It also includes __acc_bracelet_practical__.
+an easygoing chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a fine cable chain bracelet. It fastens with a box clasp.
+an easygoing cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a narrow, open-backed cuff.
+an easygoing cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist.
+an easygoing cuff bracelet, made of __acc_bracelet_mat_all_standard__. It is a rigid open cuff that slides onto the wrist. It also includes __acc_bracelet_practical__.
+an easygoing friendship bracelet, made of __acc_bracelet_mat_bead_standard__. It is a flat chevron-pattern friendship bracelet with tie ends.
+an easygoing multi-strand beaded bracelet, made of __acc_bracelet_mat_bead_standard__. It is five strands of tiny beads gathered at a clasp. It fastens with a box clasp.
+an easygoing multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+an easygoing multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+an easygoing tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones.
+an easygoing tennis bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible line of identical set stones. It also includes __acc_bracelet_practical__.
+an orderly beaded stretch bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single row of round beads on stretch cord.
+an orderly chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center.
+an orderly chain bracelet with plate, made of __acc_bracelet_mat_all_standard__. It is a chain bracelet with a flat engravable plate at the center. It also includes __acc_bracelet_practical__.
+an orderly chain bracelet, made of __acc_bracelet_mat_all_standard__. It is a 7-inch curb-link chain. It fastens with a box clasp.
+an orderly charm bracelet, made of __acc_bracelet_mat_bead_standard__. It is a link chain hung with seven small charms. It fastens with a box clasp.
+an orderly cord bracelet, made of __acc_bracelet_mat_bead_standard__. It is a single cord with a small central charm and a sliding knot.
+an orderly hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp.
+an orderly hinged bangle, made of __acc_bracelet_mat_all_standard__. It is a rigid bangle on a hinge with a hidden clasp. It also includes __acc_bracelet_practical__.
+an orderly link bracelet, made of __acc_bracelet_mat_all_standard__. It is a bold bracelet of large oval links. It fastens with a box clasp.
+an orderly mesh bracelet, made of __acc_bracelet_mat_all_standard__. It is a flexible, finely woven mesh band. It fastens with a box clasp.
+an orderly multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp.
+an orderly multi-strand cuff, made of __acc_bracelet_mat_bead_standard__. It is several parallel strands gathered into one clasp. It also includes __acc_bracelet_practical__.
+an orderly wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist.
+an orderly wrap bracelet, made of __acc_bracelet_mat_bead_standard__. It is a long cord or leather strap that wraps several times around the wrist. It also includes __acc_bracelet_practical__.

@@ -1,0 +1,750 @@
+__acc_adj_basic__ Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+__acc_adj_basic__ Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+__acc_adj_basic__ Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+__acc_adj_basic__ Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+__acc_adj_basic__ Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+__acc_adj_basic__ Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+__acc_adj_basic__ automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+__acc_adj_basic__ beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+__acc_adj_basic__ bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+__acc_adj_basic__ ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+__acc_adj_basic__ children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+__acc_adj_basic__ compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+__acc_adj_basic__ double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+__acc_adj_basic__ feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+__acc_adj_basic__ golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+__acc_adj_basic__ kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+__acc_adj_basic__ lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+__acc_adj_basic__ long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+__acc_adj_basic__ paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+__acc_adj_basic__ parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+__acc_adj_basic__ patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+__acc_adj_basic__ polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+__acc_adj_basic__ printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+__acc_adj_basic__ reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+__acc_adj_basic__ stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+__acc_adj_basic__ sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+__acc_adj_basic__ tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+__acc_adj_basic__ transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+__acc_adj_basic__ travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+__acc_adj_basic__ vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+a bare-bones Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+a bare-bones Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a bare-bones Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+a bare-bones Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+a bare-bones Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+a bare-bones Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+a bare-bones bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+a bare-bones bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+a bare-bones ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a bare-bones ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a bare-bones feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+a bare-bones feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+a bare-bones lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a bare-bones lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a bare-bones paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+a bare-bones paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a bare-bones patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a bare-bones patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a bare-bones reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+a bare-bones reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+a bare-bones sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+a bare-bones sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+a bare-bones travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+a bare-bones travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+a basic Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+a basic Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a basic Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+a basic Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+a basic Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+a basic Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+a basic ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a basic ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a basic compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+a basic compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+a basic feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+a basic feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+a basic lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a basic lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a basic paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+a basic paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a basic parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+a basic parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+a basic patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a basic patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a basic sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+a basic sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+a basic tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+a basic tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+a budget-weight Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+a budget-weight Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a budget-weight Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+a budget-weight Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+a budget-weight automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+a budget-weight automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+a budget-weight ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a budget-weight ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a budget-weight compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+a budget-weight compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+a budget-weight sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+a budget-weight sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+a casual Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+a casual Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+a casual Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+a casual Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+a casual Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+a casual Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+a casual bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+a casual bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+a casual compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+a casual compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+a casual golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a casual golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a casual lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a casual lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a casual parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+a casual parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+a casual patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a casual patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a casual stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+a casual stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+a casual sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+a casual sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+a casual transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+a casual transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+a common Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a common Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a common automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+a common automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+a common kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+a common kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+a common paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+a common paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a common patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a common patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a common polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a common polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a factory-made Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+a factory-made Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+a factory-made Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a factory-made Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a factory-made ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a factory-made ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a factory-made double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+a factory-made double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+a factory-made golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a factory-made golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a factory-made patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a factory-made patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a factory-made stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+a factory-made stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+a functional automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+a functional automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+a functional children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+a functional children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+a functional long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+a functional long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+a functional patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a functional patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a functional reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+a functional reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+a functional stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+a functional stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+a functional transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+a functional transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+a functional travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+a functional travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+a humble Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+a humble Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a humble Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+a humble Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+a humble Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+a humble Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+a humble Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+a humble Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+a humble Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a humble Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a humble ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a humble ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a humble feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+a humble feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+a humble kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+a humble kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+a humble reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+a humble reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+a humble tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+a humble tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+a humble transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+a humble transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+a humble vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+a humble vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+a light-duty Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+a light-duty Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+a light-duty Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+a light-duty Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+a light-duty bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+a light-duty bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+a light-duty golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a light-duty golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a light-duty lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a light-duty lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a light-duty printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+a light-duty printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+a light-duty stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+a light-duty stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+a lightly built Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+a lightly built Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+a lightly built Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a lightly built Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a lightly built children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+a lightly built children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+a lightly built kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+a lightly built kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+a lightly built paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+a lightly built paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a lightly built polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a lightly built polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a lightly built printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+a lightly built printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+a lightly built reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+a lightly built reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+a lightly built tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+a lightly built tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+a lightly built vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+a lightly built vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+a low-key Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+a low-key Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+a low-key Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a low-key Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a low-key beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+a low-key beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+a low-key bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+a low-key bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+a low-key double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+a low-key double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+a low-key feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+a low-key feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+a low-key polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a low-key polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a low-key printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+a low-key printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+a low-key transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+a low-key transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+a mass-produced beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+a mass-produced beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+a mass-produced ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a mass-produced ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a mass-produced children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+a mass-produced children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+a mass-produced golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a mass-produced golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a mass-produced lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a mass-produced lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a mass-produced long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+a mass-produced long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+a mass-produced parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+a mass-produced parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+a mass-produced polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a mass-produced polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a mass-produced tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+a mass-produced tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+a mass-produced transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+a mass-produced transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+a mass-produced travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+a mass-produced travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+a mass-produced vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+a mass-produced vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+a matter-of-fact Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+a matter-of-fact Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+a matter-of-fact beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+a matter-of-fact beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+a matter-of-fact feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+a matter-of-fact feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+a matter-of-fact lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a matter-of-fact lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a matter-of-fact long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+a matter-of-fact long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+a matter-of-fact printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+a matter-of-fact printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+a matter-of-fact stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+a matter-of-fact stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+a matter-of-fact tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+a matter-of-fact tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+a minimal Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+a minimal Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a minimal bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+a minimal bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+a minimal ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a minimal ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a minimal children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+a minimal children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+a minimal compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+a minimal compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+a minimal double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+a minimal double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+a minimal kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+a minimal kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+a minimal patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a minimal patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a minimal polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a minimal polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a minimal printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+a minimal printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+a minimal reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+a minimal reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+a minimal tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+a minimal tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+a minimal vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+a minimal vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+a no-frills Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+a no-frills Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a no-frills Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+a no-frills Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+a no-frills Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+a no-frills Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+a no-frills Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a no-frills Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a no-frills double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+a no-frills double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+a no-frills golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a no-frills golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a no-frills kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+a no-frills kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+a no-frills lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a no-frills lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a no-frills long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+a no-frills long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+a no-frills paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+a no-frills paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a no-frills parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+a no-frills parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+a no-frills travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+a no-frills travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+a no-nonsense Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+a no-nonsense Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a no-nonsense Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+a no-nonsense Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+a no-nonsense beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+a no-nonsense beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+a no-nonsense ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a no-nonsense ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a no-nonsense children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+a no-nonsense children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+a no-nonsense compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+a no-nonsense compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+a no-nonsense double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+a no-nonsense double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+a no-nonsense lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a no-nonsense lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a no-nonsense reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+a no-nonsense reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+a no-nonsense sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+a no-nonsense sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+a no-nonsense vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+a no-nonsense vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+a plain Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+a plain Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a plain Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+a plain Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+a plain Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+a plain Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+a plain Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a plain Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a plain automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+a plain automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+a plain bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+a plain bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+a plain feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+a plain feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+a plain golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a plain golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a plain kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+a plain kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+a plain paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+a plain paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a plain polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a plain polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a plain printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+a plain printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+a plain reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+a plain reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+a plain stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+a plain stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+a plain transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+a plain transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+a plain-spun Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+a plain-spun Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+a plain-spun Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+a plain-spun Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+a plain-spun beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+a plain-spun beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+a plain-spun bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+a plain-spun bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+a plain-spun compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+a plain-spun compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+a plain-spun golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a plain-spun golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a plain-spun lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a plain-spun lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a plain-spun parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+a plain-spun parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+a plain-spun polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a plain-spun polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a plain-spun printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+a plain-spun printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+a plain-spun transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+a plain-spun transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+a quick-made Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+a quick-made Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+a quick-made Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+a quick-made Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+a quick-made automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+a quick-made automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+a quick-made beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+a quick-made beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+a quick-made ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a quick-made ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a quick-made compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+a quick-made compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+a quick-made double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+a quick-made double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+a quick-made feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+a quick-made feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+a quick-made golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a quick-made golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a quick-made long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+a quick-made long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+a quick-made patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a quick-made patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a quick-made polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a quick-made polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a quick-made printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+a quick-made printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+a quick-made transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+a quick-made transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+a ready-to-wear Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a ready-to-wear Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a ready-to-wear beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+a ready-to-wear beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+a ready-to-wear bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+a ready-to-wear bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+a ready-to-wear golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a ready-to-wear golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a ready-to-wear lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a ready-to-wear lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a ready-to-wear long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+a ready-to-wear long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+a ready-to-wear patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a ready-to-wear patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a ready-to-wear stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+a ready-to-wear stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+a ready-to-wear tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+a ready-to-wear tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+a rudimentary Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+a rudimentary Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+a rudimentary beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+a rudimentary beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+a rudimentary double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+a rudimentary double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+a rudimentary kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+a rudimentary kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+a rudimentary lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a rudimentary lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a rudimentary paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+a rudimentary paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a rudimentary parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+a rudimentary parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+a rudimentary polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a rudimentary polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a rudimentary stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+a rudimentary stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+a rudimentary vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+a rudimentary vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+a serviceable Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+a serviceable Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a serviceable Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+a serviceable Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+a serviceable Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+a serviceable Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+a serviceable ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a serviceable ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a serviceable kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+a serviceable kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+a serviceable paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+a serviceable paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a serviceable parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+a serviceable parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+a serviceable printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+a serviceable printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+a serviceable stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+a serviceable stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+a serviceable sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+a serviceable sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+a serviceable travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+a serviceable travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+a simple Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+a simple Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+a simple Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a simple Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a simple automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+a simple automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+a simple children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+a simple children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+a simple double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+a simple double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+a simple golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a simple golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a simple long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+a simple long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+a simple polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a simple polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a simple stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+a simple stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+a simple transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+a simple transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+a simple vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+a simple vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+a standard-issue Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+a standard-issue Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a standard-issue Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+a standard-issue Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+a standard-issue Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+a standard-issue Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+a standard-issue automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+a standard-issue automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+a standard-issue beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+a standard-issue beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+a standard-issue children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+a standard-issue children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+a standard-issue feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+a standard-issue feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+a standard-issue long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+a standard-issue long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+a standard-issue paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+a standard-issue paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a standard-issue parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+a standard-issue parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+a standard-issue patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a standard-issue patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a standard-issue printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+a standard-issue printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+a standard-issue reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+a standard-issue reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+a standard-issue tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+a standard-issue tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+a standard-issue travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+a standard-issue travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+a straightforward Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+a straightforward Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+a straightforward Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+a straightforward Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+a straightforward Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a straightforward Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a straightforward double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+a straightforward double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+a straightforward kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+a straightforward kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+a straightforward long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+a straightforward long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+a straightforward paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+a straightforward paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+a straightforward patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a straightforward patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a straightforward sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+a straightforward sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+a straightforward tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+a straightforward tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+a straightforward transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+a straightforward transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+a straightforward travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+a straightforward travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+a stripped-back Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+a stripped-back Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+a stripped-back bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+a stripped-back bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+a stripped-back children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+a stripped-back children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+a stripped-back golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+a stripped-back golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+a stripped-back lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy.
+a stripped-back lace parasol, made of __acc_umbrella_mat_all_basic__. It is a delicate sun umbrella with a lace canopy. It also includes __acc_umbrella_practical__.
+a stripped-back parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+a stripped-back parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+a stripped-back travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+a stripped-back travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+a stripped-back vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+a stripped-back vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+a workaday Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+a workaday Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+a workaday Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+a workaday Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+a workaday Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+a workaday Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+a workaday Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+a workaday Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+a workaday automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+a workaday automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+a workaday beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+a workaday beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+a workaday ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+a workaday ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+a workaday children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+a workaday children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+a workaday compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+a workaday compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+a workaday feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+a workaday feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+a workaday long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+a workaday long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+a workaday parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+a workaday parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+a workaday patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella.
+a workaday patio umbrella, made of __acc_umbrella_mat_all_basic__. It is a large garden umbrella. It also includes __acc_umbrella_practical__.
+a workaday polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+a workaday polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+a workaday sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+a workaday sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+an entry-level Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+an entry-level Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+an entry-level Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+an entry-level Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+an entry-level bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+an entry-level bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+an entry-level children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+an entry-level children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+an entry-level compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+an entry-level compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+an entry-level double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+an entry-level double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+an entry-level feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+an entry-level feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+an entry-level kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+an entry-level kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+an entry-level long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+an entry-level long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+an entry-level paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+an entry-level paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+an entry-level parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+an entry-level parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+an entry-level travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+an entry-level travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+an everyday Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+an everyday Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+an everyday Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+an everyday Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+an everyday Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+an everyday Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+an everyday automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+an everyday automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+an everyday bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+an everyday bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+an everyday ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole.
+an everyday ceremonial court umbrella, made of __acc_umbrella_mat_all_basic__. It is a large round silk umbrella on a long pole. It also includes __acc_umbrella_practical__.
+an everyday children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+an everyday children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+an everyday compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+an everyday compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+an everyday double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+an everyday double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+an everyday feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+an everyday feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+an everyday printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+an everyday printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+an everyday reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+an everyday reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+an off-the-shelf Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+an off-the-shelf Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+an off-the-shelf Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper.
+an off-the-shelf Thai bo sang parasol, made of __acc_umbrella_mat_all_basic__. It is a hand-painted umbrella made of mulberry paper. It also includes __acc_umbrella_practical__.
+an off-the-shelf compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+an off-the-shelf compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+an off-the-shelf long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle.
+an off-the-shelf long-shaft umbrella, made of __acc_umbrella_mat_all_basic__. It is a full-length umbrella with a hooked handle. It also includes __acc_umbrella_practical__.
+an off-the-shelf stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+an off-the-shelf stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+an off-the-shelf vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+an off-the-shelf vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+an ordinary Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame.
+an ordinary Chinese oiled-paper umbrella, made of __acc_umbrella_mat_all_basic__. It is a hand-painted paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+an ordinary Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe.
+an ordinary Indian silk parasol, made of __acc_umbrella_mat_all_basic__. It is a round silk umbrella with a fringe. It also includes __acc_umbrella_practical__.
+an ordinary Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+an ordinary Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+an ordinary Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge.
+an ordinary Victorian lace parasol, made of __acc_umbrella_mat_all_basic__. It is a small folding sun umbrella with a frilled edge. It also includes __acc_umbrella_practical__.
+an ordinary automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+an ordinary automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+an ordinary double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind.
+an ordinary double-canopy umbrella, made of __acc_umbrella_mat_all_basic__. It has two layers of fabric for wind. It also includes __acc_umbrella_practical__.
+an ordinary kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+an ordinary kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+an ordinary printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene.
+an ordinary printed-sky umbrella, made of __acc_umbrella_mat_all_basic__. It is a canopy printed with a cloud scene. It also includes __acc_umbrella_practical__.
+an ordinary reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+an ordinary reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+an ordinary sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+an ordinary sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+an ordinary tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+an ordinary tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+an ordinary travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+an ordinary travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+an ordinary vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+an ordinary vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+an understated bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella.
+an understated bubble umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear dome umbrella. It also includes __acc_umbrella_practical__.
+an understated paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame.
+an understated paper parasol, made of __acc_umbrella_mat_all_basic__. It is an oiled-paper umbrella on a bamboo frame. It also includes __acc_umbrella_practical__.
+an understated sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+an understated sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+an understated transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+an understated transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+an understated travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+an understated travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+an unfussy Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella.
+an unfussy Japanese wagasa, made of __acc_umbrella_mat_all_basic__. It is a bamboo-ribbed oiled-paper umbrella. It also includes __acc_umbrella_practical__.
+an unfussy children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy.
+an unfussy children-free patterned umbrella, made of __acc_umbrella_mat_all_basic__. It has a bold pattern on the canopy. It also includes __acc_umbrella_practical__.
+an unfussy kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite.
+an unfussy kite-style umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy shaped like a kite. It also includes __acc_umbrella_practical__.
+an unfussy reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+an unfussy reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+an unfussy travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case.
+an unfussy travel umbrella, made of __acc_umbrella_mat_all_basic__. It is a small light umbrella with a case. It also includes __acc_umbrella_practical__.
+an unfussy vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+an unfussy vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+an unpretentious automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+an unpretentious automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+an unpretentious beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+an unpretentious beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+an unpretentious compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small.
+an unpretentious compact folding umbrella, made of __acc_umbrella_mat_all_basic__. It is a short umbrella that folds small. It also includes __acc_umbrella_practical__.
+an unpretentious feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy.
+an unpretentious feather umbrella, made of __acc_umbrella_mat_all_basic__. It is an umbrella with a ruffled feather canopy. It also includes __acc_umbrella_practical__.
+an unpretentious parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella.
+an unpretentious parasol, made of __acc_umbrella_mat_all_basic__. It is a light sun umbrella. It also includes __acc_umbrella_practical__.
+an unpretentious reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards.
+an unpretentious reverse-fold umbrella, made of __acc_umbrella_mat_all_basic__. It folds the wet side inwards. It also includes __acc_umbrella_practical__.
+an unpretentious stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft.
+an unpretentious stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a long umbrella with a straight shaft. It also includes __acc_umbrella_practical__.
+an unpretentious sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+an unpretentious sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+an unpretentious tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+an unpretentious tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.
+an unpretentious transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella.
+an unpretentious transparent umbrella, made of __acc_umbrella_mat_all_basic__. It is a clear canopy umbrella. It also includes __acc_umbrella_practical__.
+an unpretentious vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales.
+an unpretentious vented windproof umbrella, made of __acc_umbrella_mat_all_basic__. It has a vented canopy for gales. It also includes __acc_umbrella_practical__.
+an utilitarian Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design.
+an utilitarian Korean paper parasol, made of __acc_umbrella_mat_all_basic__. It is a ribbed paper parasol with a painted design. It also includes __acc_umbrella_practical__.
+an utilitarian automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button.
+an utilitarian automatic umbrella, made of __acc_umbrella_mat_all_basic__. It opens with the touch of a button. It also includes __acc_umbrella_practical__.
+an utilitarian beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike.
+an utilitarian beach umbrella, made of __acc_umbrella_mat_all_basic__. It is a big tilting umbrella with a spike. It also includes __acc_umbrella_practical__.
+an utilitarian golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella.
+an utilitarian golf umbrella, made of __acc_umbrella_mat_all_basic__. It is a large vented umbrella. It also includes __acc_umbrella_practical__.
+an utilitarian polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots.
+an utilitarian polka-dot umbrella, made of __acc_umbrella_mat_all_basic__. It has a canopy covered in dots. It also includes __acc_umbrella_practical__.
+an utilitarian sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip.
+an utilitarian sword-stick umbrella, made of __acc_umbrella_mat_all_basic__. It is a heavy wooden umbrella with a metal tip. It also includes __acc_umbrella_practical__.
+an utilitarian tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy.
+an utilitarian tartan umbrella, made of __acc_umbrella_mat_all_basic__. It has a woven plaid canopy. It also includes __acc_umbrella_practical__.

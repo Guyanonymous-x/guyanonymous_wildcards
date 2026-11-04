@@ -1,0 +1,4 @@
+a toy-charm novelty necklace, which is a cord with a tiny toy such as a rubber duck, made of __acc_necklace_novelty_toy_charm_novelty_necklace_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_jewellery__. __comp_condition__
+a glow stick necklace, which is a loop of glowing plastic tube, made of __acc_necklace_novelty_glow_stick_necklace_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_jewellery__. __comp_condition__
+a candy necklace, which is a stretch cord of sweet-shaped beads, made of __acc_necklace_novelty_candy_necklace_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_jewellery__. __comp_condition__
+a miniature bottle necklace, which is a tiny sealed glass bottle with a cork, made of __acc_necklace_novelty_miniature_bottle_necklace_material__, its surface is __comp_fin_glass__, and it has __comp_feat_jewellery__. __comp_condition__

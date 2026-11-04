@@ -1,0 +1,417 @@
+A plain stripe at each end finishes the ends.
+A printed border finishes the ends.
+A raw edge finishes the ends.
+A short fringe finishes the ends.
+It has a plain stripe at each end and a raw edge.
+It has a plain stripe at each end and a short fringe.
+It has a plain stripe at each end and pom-poms.
+It has a plain stripe at each end and simple tassels.
+It has a plain stripe at each end, a printed border and pom-poms.
+It has a plain stripe at each end, a printed border, a raw edge and a short fringe.
+It has a plain stripe at each end, a printed border, simple tassels and pom-poms.
+It has a plain stripe at each end, a raw edge and a short fringe.
+It has a plain stripe at each end, a raw edge and simple tassels.
+It has a plain stripe at each end, a raw edge, a printed border and pom-poms.
+It has a plain stripe at each end, a raw edge, simple tassels and a printed border.
+It has a plain stripe at each end, a short fringe and pom-poms.
+It has a plain stripe at each end, a short fringe and simple tassels.
+It has a plain stripe at each end, a short fringe, a raw edge and simple tassels.
+It has a plain stripe at each end, a short fringe, pom-poms and a printed border.
+It has a plain stripe at each end, pom-poms and a short fringe.
+It has a plain stripe at each end, pom-poms and simple tassels.
+It has a plain stripe at each end, pom-poms, a raw edge and a short fringe.
+It has a plain stripe at each end, simple tassels and a printed border.
+It has a plain stripe at each end, simple tassels and a raw edge.
+It has a plain stripe at each end, simple tassels and pom-poms.
+It has a plain stripe at each end, simple tassels, a printed border and a short fringe.
+It has a plain stripe at each end, simple tassels, a printed border and pom-poms.
+It has a plain stripe at each end, simple tassels, a short fringe and a printed border.
+It has a plain stripe at each end, simple tassels, pom-poms and a short fringe.
+It has a plain stripe at each end.
+It has a printed border and a plain stripe at each end.
+It has a printed border and a raw edge.
+It has a printed border and a short fringe.
+It has a printed border and pom-poms.
+It has a printed border and simple tassels.
+It has a printed border, a plain stripe at each end, a short fringe and a raw edge.
+It has a printed border, a plain stripe at each end, pom-poms and a raw edge.
+It has a printed border, a plain stripe at each end, simple tassels and a short fringe.
+It has a printed border, a plain stripe at each end, simple tassels and pom-poms.
+It has a printed border, a raw edge and a plain stripe at each end.
+It has a printed border, a raw edge and a short fringe.
+It has a printed border, a raw edge and simple tassels.
+It has a printed border, a raw edge, a plain stripe at each end and pom-poms.
+It has a printed border, a raw edge, simple tassels and a short fringe.
+It has a printed border, a short fringe and a raw edge.
+It has a printed border, a short fringe and pom-poms.
+It has a printed border, a short fringe, a plain stripe at each end and pom-poms.
+It has a printed border, a short fringe, a raw edge and a plain stripe at each end.
+It has a printed border, a short fringe, a raw edge and pom-poms.
+It has a printed border, a short fringe, pom-poms and simple tassels.
+It has a printed border, pom-poms, a raw edge and a plain stripe at each end.
+It has a printed border, pom-poms, a short fringe and simple tassels.
+It has a printed border, simple tassels and a plain stripe at each end.
+It has a printed border, simple tassels, a plain stripe at each end and a short fringe.
+It has a printed border, simple tassels, a raw edge and a plain stripe at each end.
+It has a printed border, simple tassels, a raw edge and pom-poms.
+It has a printed border, simple tassels, a short fringe and pom-poms.
+It has a printed border.
+It has a raw edge and a plain stripe at each end.
+It has a raw edge and a printed border.
+It has a raw edge and a short fringe.
+It has a raw edge and pom-poms.
+It has a raw edge and simple tassels.
+It has a raw edge, a plain stripe at each end and a short fringe.
+It has a raw edge, a plain stripe at each end and pom-poms.
+It has a raw edge, a plain stripe at each end and simple tassels.
+It has a raw edge, a plain stripe at each end, a short fringe and pom-poms.
+It has a raw edge, a plain stripe at each end, simple tassels and a short fringe.
+It has a raw edge, a printed border and a short fringe.
+It has a raw edge, a printed border and pom-poms.
+It has a raw edge, a printed border, simple tassels and a plain stripe at each end.
+It has a raw edge, a short fringe and simple tassels.
+It has a raw edge, a short fringe, a plain stripe at each end and a printed border.
+It has a raw edge, a short fringe, pom-poms and a printed border.
+It has a raw edge, a short fringe, simple tassels and a printed border.
+It has a raw edge, pom-poms and a printed border.
+It has a raw edge, pom-poms and simple tassels.
+It has a raw edge, pom-poms, a plain stripe at each end and a printed border.
+It has a raw edge, pom-poms, a plain stripe at each end and a short fringe.
+It has a raw edge, pom-poms, a printed border and a short fringe.
+It has a raw edge, simple tassels and a plain stripe at each end.
+It has a raw edge, simple tassels and a short fringe.
+It has a raw edge, simple tassels and pom-poms.
+It has a raw edge, simple tassels, a short fringe and a plain stripe at each end.
+It has a raw edge, simple tassels, pom-poms and a printed border.
+It has a raw edge.
+It has a short fringe and a printed border.
+It has a short fringe and a raw edge.
+It has a short fringe and pom-poms.
+It has a short fringe and simple tassels.
+It has a short fringe, a plain stripe at each end and simple tassels.
+It has a short fringe, a plain stripe at each end, a printed border and pom-poms.
+It has a short fringe, a plain stripe at each end, pom-poms and simple tassels.
+It has a short fringe, a printed border and pom-poms.
+It has a short fringe, a printed border, a raw edge and simple tassels.
+It has a short fringe, a printed border, simple tassels and a raw edge.
+It has a short fringe, a raw edge, a printed border and a plain stripe at each end.
+It has a short fringe, a raw edge, pom-poms and a printed border.
+It has a short fringe, a raw edge, simple tassels and a printed border.
+It has a short fringe, pom-poms and a plain stripe at each end.
+It has a short fringe, pom-poms and a raw edge.
+It has a short fringe, pom-poms and simple tassels.
+It has a short fringe, pom-poms, a plain stripe at each end and a raw edge.
+It has a short fringe, pom-poms, a raw edge and a printed border.
+It has a short fringe, pom-poms, simple tassels and a printed border.
+It has a short fringe, simple tassels and a printed border.
+It has a short fringe, simple tassels and a raw edge.
+It has a short fringe, simple tassels, a plain stripe at each end and a printed border.
+It has a short fringe, simple tassels, a plain stripe at each end and a raw edge.
+It has a short fringe, simple tassels, a plain stripe at each end and pom-poms.
+It has a short fringe, simple tassels, a printed border and pom-poms.
+It has a short fringe, simple tassels, pom-poms and a raw edge.
+It has a short fringe.
+It has pom-poms and a plain stripe at each end.
+It has pom-poms and a printed border.
+It has pom-poms and a raw edge.
+It has pom-poms and a short fringe.
+It has pom-poms and simple tassels.
+It has pom-poms, a plain stripe at each end and a short fringe.
+It has pom-poms, a plain stripe at each end, a short fringe and a printed border.
+It has pom-poms, a plain stripe at each end, a short fringe and a raw edge.
+It has pom-poms, a plain stripe at each end, simple tassels and a short fringe.
+It has pom-poms, a printed border and a raw edge.
+It has pom-poms, a printed border and simple tassels.
+It has pom-poms, a raw edge and a printed border.
+It has pom-poms, a raw edge and a short fringe.
+It has pom-poms, a raw edge and simple tassels.
+It has pom-poms, a short fringe and a plain stripe at each end.
+It has pom-poms, a short fringe and a printed border.
+It has pom-poms, a short fringe and simple tassels.
+It has pom-poms, simple tassels, a printed border and a raw edge.
+It has pom-poms, simple tassels, a raw edge and a plain stripe at each end.
+It has pom-poms, simple tassels, a short fringe and a printed border.
+It has pom-poms.
+It has simple tassels and a plain stripe at each end.
+It has simple tassels and a printed border.
+It has simple tassels and a raw edge.
+It has simple tassels and a short fringe.
+It has simple tassels and pom-poms.
+It has simple tassels, a plain stripe at each end and pom-poms.
+It has simple tassels, a plain stripe at each end, a raw edge and a short fringe.
+It has simple tassels, a plain stripe at each end, a raw edge and pom-poms.
+It has simple tassels, a plain stripe at each end, pom-poms and a printed border.
+It has simple tassels, a plain stripe at each end, pom-poms and a short fringe.
+It has simple tassels, a printed border and a raw edge.
+It has simple tassels, a printed border and pom-poms.
+It has simple tassels, a printed border, a short fringe and a raw edge.
+It has simple tassels, a printed border, pom-poms and a raw edge.
+It has simple tassels, a raw edge and a short fringe.
+It has simple tassels, a raw edge, a plain stripe at each end and a printed border.
+It has simple tassels, a raw edge, a plain stripe at each end and a short fringe.
+It has simple tassels, a short fringe and a printed border.
+It has simple tassels, a short fringe and pom-poms.
+It has simple tassels, a short fringe, a printed border and a plain stripe at each end.
+It has simple tassels, a short fringe, pom-poms and a plain stripe at each end.
+It has simple tassels, a short fringe, pom-poms and a printed border.
+It has simple tassels, pom-poms and a plain stripe at each end.
+It has simple tassels, pom-poms and a raw edge.
+It has simple tassels, pom-poms and a short fringe.
+It has simple tassels, pom-poms, a plain stripe at each end and a printed border.
+It has simple tassels, pom-poms, a short fringe and a raw edge.
+It has simple tassels.
+It is edged with a plain stripe at each end and a printed border.
+It is edged with a plain stripe at each end and a raw edge.
+It is edged with a plain stripe at each end and a short fringe.
+It is edged with a plain stripe at each end and pom-poms.
+It is edged with a plain stripe at each end and simple tassels.
+It is edged with a plain stripe at each end, a printed border and a raw edge.
+It is edged with a plain stripe at each end, a raw edge and pom-poms.
+It is edged with a plain stripe at each end, a raw edge and simple tassels.
+It is edged with a plain stripe at each end, a raw edge, a printed border and pom-poms.
+It is edged with a plain stripe at each end, a short fringe, a raw edge and pom-poms.
+It is edged with a plain stripe at each end, pom-poms and a printed border.
+It is edged with a plain stripe at each end, pom-poms and simple tassels.
+It is edged with a plain stripe at each end, pom-poms, a printed border and a raw edge.
+It is edged with a plain stripe at each end, pom-poms, a printed border and simple tassels.
+It is edged with a plain stripe at each end, pom-poms, a raw edge and a printed border.
+It is edged with a plain stripe at each end, pom-poms, a short fringe and a raw edge.
+It is edged with a plain stripe at each end, pom-poms, simple tassels and a printed border.
+It is edged with a plain stripe at each end, simple tassels and a raw edge.
+It is edged with a plain stripe at each end, simple tassels and a short fringe.
+It is edged with a plain stripe at each end, simple tassels and pom-poms.
+It is edged with a plain stripe at each end, simple tassels, a printed border and a raw edge.
+It is edged with a plain stripe at each end, simple tassels, a short fringe and pom-poms.
+It is edged with a plain stripe at each end.
+It is edged with a printed border and a plain stripe at each end.
+It is edged with a printed border and a raw edge.
+It is edged with a printed border and pom-poms.
+It is edged with a printed border and simple tassels.
+It is edged with a printed border, a plain stripe at each end and a raw edge.
+It is edged with a printed border, a plain stripe at each end and a short fringe.
+It is edged with a printed border, a plain stripe at each end, a short fringe and simple tassels.
+It is edged with a printed border, a raw edge and a plain stripe at each end.
+It is edged with a printed border, a raw edge and a short fringe.
+It is edged with a printed border, a raw edge and pom-poms.
+It is edged with a printed border, a raw edge and simple tassels.
+It is edged with a printed border, a raw edge, a plain stripe at each end and simple tassels.
+It is edged with a printed border, a short fringe and a plain stripe at each end.
+It is edged with a printed border, a short fringe and pom-poms.
+It is edged with a printed border, a short fringe and simple tassels.
+It is edged with a printed border, a short fringe, a plain stripe at each end and pom-poms.
+It is edged with a printed border, a short fringe, a raw edge and a plain stripe at each end.
+It is edged with a printed border, a short fringe, pom-poms and a plain stripe at each end.
+It is edged with a printed border, pom-poms and a plain stripe at each end.
+It is edged with a printed border, pom-poms and a short fringe.
+It is edged with a printed border, pom-poms, a plain stripe at each end and a short fringe.
+It is edged with a printed border, pom-poms, a short fringe and a plain stripe at each end.
+It is edged with a printed border, simple tassels and a plain stripe at each end.
+It is edged with a printed border, simple tassels and pom-poms.
+It is edged with a printed border, simple tassels, a plain stripe at each end and a short fringe.
+It is edged with a printed border, simple tassels, a raw edge and a short fringe.
+It is edged with a printed border, simple tassels, a short fringe and a plain stripe at each end.
+It is edged with a printed border, simple tassels, pom-poms and a short fringe.
+It is edged with a printed border.
+It is edged with a raw edge and a plain stripe at each end.
+It is edged with a raw edge and a printed border.
+It is edged with a raw edge and pom-poms.
+It is edged with a raw edge and simple tassels.
+It is edged with a raw edge, a plain stripe at each end and a short fringe.
+It is edged with a raw edge, a plain stripe at each end, pom-poms and a printed border.
+It is edged with a raw edge, a plain stripe at each end, simple tassels and a printed border.
+It is edged with a raw edge, a plain stripe at each end, simple tassels and a short fringe.
+It is edged with a raw edge, a printed border and a plain stripe at each end.
+It is edged with a raw edge, a printed border, a plain stripe at each end and simple tassels.
+It is edged with a raw edge, a printed border, simple tassels and pom-poms.
+It is edged with a raw edge, a short fringe and simple tassels.
+It is edged with a raw edge, a short fringe, a printed border and a plain stripe at each end.
+It is edged with a raw edge, a short fringe, pom-poms and a printed border.
+It is edged with a raw edge, a short fringe, pom-poms and simple tassels.
+It is edged with a raw edge, a short fringe, simple tassels and a printed border.
+It is edged with a raw edge, pom-poms and a printed border.
+It is edged with a raw edge, pom-poms and simple tassels.
+It is edged with a raw edge, pom-poms, a plain stripe at each end and a printed border.
+It is edged with a raw edge, pom-poms, a plain stripe at each end and a short fringe.
+It is edged with a raw edge, pom-poms, a printed border and a plain stripe at each end.
+It is edged with a raw edge, pom-poms, a printed border and a short fringe.
+It is edged with a raw edge, pom-poms, a short fringe and a printed border.
+It is edged with a raw edge, simple tassels and a printed border.
+It is edged with a raw edge, simple tassels and a short fringe.
+It is edged with a raw edge.
+It is edged with a short fringe and a plain stripe at each end.
+It is edged with a short fringe and a printed border.
+It is edged with a short fringe and a raw edge.
+It is edged with a short fringe and pom-poms.
+It is edged with a short fringe and simple tassels.
+It is edged with a short fringe, a plain stripe at each end and pom-poms.
+It is edged with a short fringe, a plain stripe at each end, a printed border and pom-poms.
+It is edged with a short fringe, a plain stripe at each end, simple tassels and pom-poms.
+It is edged with a short fringe, a printed border and a plain stripe at each end.
+It is edged with a short fringe, a printed border and pom-poms.
+It is edged with a short fringe, a printed border and simple tassels.
+It is edged with a short fringe, a printed border, a raw edge and a plain stripe at each end.
+It is edged with a short fringe, a printed border, pom-poms and a raw edge.
+It is edged with a short fringe, a raw edge and a plain stripe at each end.
+It is edged with a short fringe, a raw edge, a plain stripe at each end and pom-poms.
+It is edged with a short fringe, a raw edge, simple tassels and pom-poms.
+It is edged with a short fringe, pom-poms and a plain stripe at each end.
+It is edged with a short fringe, pom-poms and a raw edge.
+It is edged with a short fringe, pom-poms, a printed border and a raw edge.
+It is edged with a short fringe, pom-poms, a raw edge and simple tassels.
+It is edged with a short fringe, simple tassels and a plain stripe at each end.
+It is edged with a short fringe, simple tassels, a plain stripe at each end and a printed border.
+It is edged with a short fringe, simple tassels, a plain stripe at each end and a raw edge.
+It is edged with a short fringe.
+It is edged with pom-poms and a plain stripe at each end.
+It is edged with pom-poms and a printed border.
+It is edged with pom-poms and a raw edge.
+It is edged with pom-poms and a short fringe.
+It is edged with pom-poms and simple tassels.
+It is edged with pom-poms, a plain stripe at each end and a printed border.
+It is edged with pom-poms, a plain stripe at each end and a short fringe.
+It is edged with pom-poms, a plain stripe at each end, a raw edge and a printed border.
+It is edged with pom-poms, a plain stripe at each end, a short fringe and a printed border.
+It is edged with pom-poms, a printed border and simple tassels.
+It is edged with pom-poms, a printed border, a plain stripe at each end and a raw edge.
+It is edged with pom-poms, a printed border, a plain stripe at each end and a short fringe.
+It is edged with pom-poms, a printed border, a short fringe and a plain stripe at each end.
+It is edged with pom-poms, a printed border, a short fringe and simple tassels.
+It is edged with pom-poms, a printed border, simple tassels and a plain stripe at each end.
+It is edged with pom-poms, a printed border, simple tassels and a raw edge.
+It is edged with pom-poms, a raw edge and a plain stripe at each end.
+It is edged with pom-poms, a raw edge and a short fringe.
+It is edged with pom-poms, a raw edge, a plain stripe at each end and simple tassels.
+It is edged with pom-poms, a raw edge, a printed border and a short fringe.
+It is edged with pom-poms, a raw edge, a short fringe and a printed border.
+It is edged with pom-poms, a raw edge, a short fringe and simple tassels.
+It is edged with pom-poms, a raw edge, simple tassels and a plain stripe at each end.
+It is edged with pom-poms, a short fringe and a plain stripe at each end.
+It is edged with pom-poms, a short fringe, a plain stripe at each end and a printed border.
+It is edged with pom-poms, a short fringe, a printed border and a plain stripe at each end.
+It is edged with pom-poms, a short fringe, a printed border and simple tassels.
+It is edged with pom-poms, simple tassels and a plain stripe at each end.
+It is edged with pom-poms, simple tassels and a raw edge.
+It is edged with pom-poms.
+It is edged with simple tassels and a plain stripe at each end.
+It is edged with simple tassels and a printed border.
+It is edged with simple tassels and a raw edge.
+It is edged with simple tassels and a short fringe.
+It is edged with simple tassels and pom-poms.
+It is edged with simple tassels, a plain stripe at each end and a short fringe.
+It is edged with simple tassels, a plain stripe at each end and pom-poms.
+It is edged with simple tassels, a plain stripe at each end, a printed border and a raw edge.
+It is edged with simple tassels, a plain stripe at each end, a printed border and pom-poms.
+It is edged with simple tassels, a plain stripe at each end, a raw edge and pom-poms.
+It is edged with simple tassels, a printed border and a plain stripe at each end.
+It is edged with simple tassels, a printed border, a raw edge and pom-poms.
+It is edged with simple tassels, a raw edge and a short fringe.
+It is edged with simple tassels, a short fringe and a raw edge.
+It is edged with simple tassels, a short fringe, a printed border and a raw edge.
+It is edged with simple tassels, a short fringe, a raw edge and a plain stripe at each end.
+It is edged with simple tassels, a short fringe, a raw edge and a printed border.
+It is edged with simple tassels, pom-poms and a printed border.
+It is edged with simple tassels, pom-poms and a raw edge.
+It is edged with simple tassels, pom-poms, a plain stripe at each end and a raw edge.
+It is edged with simple tassels, pom-poms, a printed border and a plain stripe at each end.
+It is edged with simple tassels, pom-poms, a raw edge and a plain stripe at each end.
+It is edged with simple tassels, pom-poms, a raw edge and a short fringe.
+It is edged with simple tassels.
+Pom-poms finishes the ends.
+Simple tassels finishes the ends.
+x
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.

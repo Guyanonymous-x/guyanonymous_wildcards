@@ -1,0 +1,260 @@
+bold
+bold, delicate
+bold, dense
+bold, large
+bold, loud
+bold, medium-sized
+bold, microscopic
+bold, oversized
+bold, palm-sized
+bold, richly detailed
+bold, small
+bold, sparse
+bold, subtle
+bold, tiny
+bold, very detailed
+crowded
+crowded, delicate
+crowded, dense
+crowded, faint
+crowded, large
+crowded, loud
+crowded, medium-sized
+crowded, microscopic
+crowded, oversized
+crowded, palm-sized
+crowded, richly detailed
+crowded, small
+crowded, sparse
+crowded, subtle
+crowded, tiny
+delicate
+delicate, bold
+delicate, faint
+delicate, huge
+delicate, large
+delicate, loud
+delicate, medium-sized
+delicate, microscopic
+delicate, oversized
+delicate, palm-sized
+delicate, richly detailed
+delicate, small
+delicate, sparse
+delicate, subtle
+delicate, very detailed
+dense
+dense, bold
+dense, crowded
+dense, delicate
+dense, faint
+dense, huge
+dense, large
+dense, medium-sized
+dense, palm-sized
+dense, richly detailed
+dense, sparse
+dense, tiny
+dense, very detailed
+faint
+faint, bold
+faint, crowded
+faint, delicate
+faint, dense
+faint, huge
+faint, large
+faint, medium-sized
+faint, oversized
+faint, palm-sized
+faint, richly detailed
+faint, small
+faint, sparse
+faint, subtle
+faint, very detailed
+huge
+huge, bold
+huge, crowded
+huge, delicate
+huge, dense
+huge, faint
+huge, large
+huge, medium-sized
+huge, oversized
+huge, palm-sized
+huge, richly detailed
+huge, small
+huge, sparse
+huge, subtle
+huge, tiny
+huge, very detailed
+large
+large, crowded
+large, delicate
+large, dense
+large, faint
+large, huge
+large, loud
+large, medium-sized
+large, richly detailed
+large, small
+large, sparse
+large, subtle
+large, tiny
+large, very detailed
+loud
+loud, crowded
+loud, delicate
+loud, faint
+loud, large
+loud, medium-sized
+loud, microscopic
+loud, oversized
+loud, palm-sized
+loud, richly detailed
+loud, small
+loud, sparse
+loud, subtle
+loud, tiny
+loud, very detailed
+medium-sized
+medium-sized, crowded
+medium-sized, delicate
+medium-sized, faint
+medium-sized, loud
+medium-sized, microscopic
+medium-sized, oversized
+medium-sized, richly detailed
+medium-sized, small
+medium-sized, sparse
+medium-sized, subtle
+medium-sized, tiny
+medium-sized, very detailed
+microscopic
+microscopic, bold
+microscopic, crowded
+microscopic, delicate
+microscopic, dense
+microscopic, faint
+microscopic, huge
+microscopic, large
+microscopic, loud
+microscopic, medium-sized
+microscopic, oversized
+microscopic, richly detailed
+microscopic, small
+microscopic, sparse
+microscopic, subtle
+microscopic, tiny
+microscopic, very detailed
+oversized
+oversized, bold
+oversized, delicate
+oversized, dense
+oversized, faint
+oversized, huge
+oversized, large
+oversized, loud
+oversized, medium-sized
+oversized, palm-sized
+oversized, richly detailed
+oversized, tiny
+oversized, very detailed
+palm-sized
+palm-sized, bold
+palm-sized, crowded
+palm-sized, delicate
+palm-sized, dense
+palm-sized, faint
+palm-sized, huge
+palm-sized, loud
+palm-sized, microscopic
+palm-sized, richly detailed
+palm-sized, small
+palm-sized, sparse
+palm-sized, subtle
+richly detailed
+richly detailed, bold
+richly detailed, crowded
+richly detailed, delicate
+richly detailed, dense
+richly detailed, faint
+richly detailed, huge
+richly detailed, loud
+richly detailed, medium-sized
+richly detailed, oversized
+richly detailed, palm-sized
+richly detailed, small
+richly detailed, subtle
+richly detailed, very detailed
+small
+small, bold
+small, crowded
+small, dense
+small, huge
+small, large
+small, loud
+small, microscopic
+small, oversized
+small, palm-sized
+small, sparse
+small, subtle
+small, tiny
+small, very detailed
+sparse
+sparse, bold
+sparse, crowded
+sparse, dense
+sparse, faint
+sparse, huge
+sparse, large
+sparse, medium-sized
+sparse, microscopic
+sparse, oversized
+sparse, richly detailed
+sparse, small
+sparse, tiny
+sparse, very detailed
+subtle
+subtle, delicate
+subtle, dense
+subtle, faint
+subtle, huge
+subtle, loud
+subtle, medium-sized
+subtle, microscopic
+subtle, oversized
+subtle, palm-sized
+subtle, richly detailed
+subtle, small
+subtle, sparse
+subtle, tiny
+subtle, very detailed
+tiny
+tiny, bold
+tiny, crowded
+tiny, delicate
+tiny, dense
+tiny, faint
+tiny, huge
+tiny, large
+tiny, loud
+tiny, medium-sized
+tiny, microscopic
+tiny, oversized
+tiny, palm-sized
+tiny, richly detailed
+tiny, sparse
+tiny, very detailed
+very detailed
+very detailed, bold
+very detailed, delicate
+very detailed, dense
+very detailed, faint
+very detailed, medium-sized
+very detailed, microscopic
+very detailed, palm-sized
+very detailed, richly detailed
+very detailed, small
+very detailed, sparse
+very detailed, subtle
+very detailed, tiny

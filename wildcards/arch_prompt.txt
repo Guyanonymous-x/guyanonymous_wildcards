@@ -1,0 +1,9 @@
+__arch_house_prompt__
+__arch_apartment_block_prompt__
+__arch_temple_prompt__
+__arch_castle_prompt__
+__arch_bridge_prompt__
+__arch_skyscraper_prompt__
+__arch_barn_prompt__
+__arch_lighthouse_prompt__
+__arch_market_hall_prompt__

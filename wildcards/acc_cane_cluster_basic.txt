@@ -1,0 +1,504 @@
+__acc_adj_basic__ adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+__acc_adj_basic__ cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+__acc_adj_basic__ ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+__acc_adj_basic__ crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+__acc_adj_basic__ derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+__acc_adj_basic__ derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+__acc_adj_basic__ folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+__acc_adj_basic__ folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+__acc_adj_basic__ fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+__acc_adj_basic__ gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+__acc_adj_basic__ hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+__acc_adj_basic__ hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+__acc_adj_basic__ knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+__acc_adj_basic__ monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+__acc_adj_basic__ offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+__acc_adj_basic__ offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+__acc_adj_basic__ quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+__acc_adj_basic__ quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+__acc_adj_basic__ sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of a greyhound. A plastic collar joins handle and shaft. It ends in a rubber tip.
+__acc_adj_basic__ sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of a heron. A plastic collar joins handle and shaft. It ends in a rubber tip.
+__acc_adj_basic__ sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of a lion. A plastic collar joins handle and shaft. It ends in a rubber tip.
+__acc_adj_basic__ sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of an owl. A plastic collar joins handle and shaft. It ends in a rubber tip.
+__acc_adj_basic__ seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+__acc_adj_basic__ shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+__acc_adj_basic__ shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+__acc_adj_basic__ shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+__acc_adj_basic__ swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+__acc_adj_basic__ swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+__acc_adj_basic__ trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+__acc_adj_basic__ tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+__acc_adj_basic__ white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+__acc_adj_basic__ wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
+a bare-bones folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+a bare-bones folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+a bare-bones folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+a bare-bones hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+a bare-bones knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+a bare-bones quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+a bare-bones sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of an owl. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a bare-bones shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+a bare-bones swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+a bare-bones trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+a basic cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+a basic cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+a basic derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+a basic derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+a basic derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a basic hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+a basic hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+a basic hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+a basic offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+a basic offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+a basic shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+a basic swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+a budget-weight folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+a budget-weight folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+a budget-weight fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a budget-weight hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+a budget-weight hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+a budget-weight hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+a budget-weight offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+a budget-weight offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+a budget-weight quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+a budget-weight quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+a budget-weight quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+a budget-weight sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of an owl. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a budget-weight shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+a budget-weight shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+a budget-weight shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+a budget-weight trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+a budget-weight white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+a casual ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+a casual ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+a casual derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+a casual derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+a casual derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a casual fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a casual gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+a casual gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+a casual quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+a casual seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+a casual shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+a casual tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+a casual tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+a common folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+a common folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+a common fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a common hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+a common hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+a common monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+a common monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+a common quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+a common quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+a common sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of a lion. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a common swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+a common trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+a common white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+a factory-made adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+a factory-made adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+a factory-made ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+a factory-made ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+a factory-made offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+a factory-made quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+a factory-made shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+a factory-made swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+a factory-made swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+a factory-made white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+a functional cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+a functional cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+a functional derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+a functional derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+a functional folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+a functional folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+a functional folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+a functional hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+a functional hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+a functional monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+a functional monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+a functional offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+a functional offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+a functional sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of a heron. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a functional seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+a functional swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+a functional swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+a functional white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+a humble crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+a humble derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+a humble derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+a humble folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+a humble quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+a humble quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+a humble quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+a humble shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+a humble shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+a humble swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+a humble wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
+a light-duty crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+a light-duty derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+a light-duty derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+a light-duty hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+a light-duty hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+a light-duty hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+a light-duty offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+a light-duty quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+a light-duty seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+a light-duty swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+a light-duty swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+a light-duty tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+a light-duty tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+a lightly built crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+a lightly built derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a lightly built monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+a lightly built monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+a lightly built quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+a lightly built quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+a lightly built sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of an owl. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a lightly built shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+a lightly built shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+a lightly built shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+a lightly built trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+a low-key adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+a low-key adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+a low-key gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+a low-key gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+a low-key hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+a low-key hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+a low-key hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+a low-key seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+a low-key shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+a low-key shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+a low-key trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+a low-key tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+a low-key tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+a mass-produced adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+a mass-produced adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+a mass-produced cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+a mass-produced cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+a mass-produced hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+a mass-produced knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+a mass-produced shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+a mass-produced wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
+a matter-of-fact derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a matter-of-fact fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a matter-of-fact quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+a matter-of-fact quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+a matter-of-fact shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+a matter-of-fact swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+a matter-of-fact wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
+a minimal crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+a minimal derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a minimal folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+a minimal folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+a minimal fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a minimal hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+a minimal quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+a minimal shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+a minimal swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+a minimal swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+a minimal trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+a minimal white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+a no-frills adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+a no-frills adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+a no-frills cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+a no-frills cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+a no-frills ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+a no-frills ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+a no-frills crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+a no-frills derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+a no-frills derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+a no-frills folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+a no-frills folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+a no-frills hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+a no-frills hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+a no-frills knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+a no-frills monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+a no-frills monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+a no-frills offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+a no-frills offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+a no-frills sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of a greyhound. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a no-frills tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+a no-frills tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+a no-nonsense adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+a no-nonsense adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+a no-nonsense crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+a no-nonsense offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+a no-nonsense quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+a no-nonsense quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+a no-nonsense seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+a no-nonsense shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+a no-nonsense shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+a no-nonsense tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+a no-nonsense tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+a plain cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+a plain cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+a plain ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+a plain ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+a plain folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+a plain fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a plain gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+a plain gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+a plain offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+a plain shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+a plain white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+a plain wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
+a plain-spun adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+a plain-spun adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+a plain-spun knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+a plain-spun offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+a plain-spun offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+a plain-spun sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of an owl. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a plain-spun shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+a plain-spun shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+a plain-spun swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+a plain-spun swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+a plain-spun trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+a quick-made adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+a quick-made adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+a quick-made folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+a quick-made folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+a quick-made fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a quick-made gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+a quick-made gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+a quick-made knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+a quick-made monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+a quick-made monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+a quick-made offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+a quick-made shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+a quick-made trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+a quick-made tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+a quick-made tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+a quick-made white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+a quick-made wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
+a ready-to-wear cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+a ready-to-wear cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+a ready-to-wear ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+a ready-to-wear ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+a ready-to-wear crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+a ready-to-wear derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+a ready-to-wear derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+a ready-to-wear folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+a ready-to-wear hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+a ready-to-wear hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+a ready-to-wear knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+a ready-to-wear offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+a ready-to-wear quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+a ready-to-wear quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+a ready-to-wear shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+a ready-to-wear shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+a ready-to-wear tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+a ready-to-wear tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+a rudimentary derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+a rudimentary derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+a rudimentary folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+a rudimentary gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+a rudimentary gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+a rudimentary offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+a rudimentary seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+a rudimentary shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+a rudimentary shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+a rudimentary shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+a rudimentary swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+a rudimentary trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+a serviceable ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+a serviceable ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+a serviceable hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+a serviceable hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+a serviceable hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+a serviceable offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+a serviceable offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+a serviceable seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+a serviceable swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+a serviceable swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+a serviceable wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
+a simple adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+a simple adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+a simple cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+a simple cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+a simple ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+a simple ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+a simple gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+a simple gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+a simple knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+a simple tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+a simple tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+a simple white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+a standard-issue adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+a standard-issue adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+a standard-issue ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+a standard-issue ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+a standard-issue crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+a standard-issue derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a standard-issue folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+a standard-issue quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+a standard-issue swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+a standard-issue swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+a standard-issue wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
+a straightforward fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a straightforward knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+a straightforward monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+a straightforward monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+a straightforward quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+a straightforward sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of a greyhound. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a straightforward swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+a straightforward swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+a straightforward swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+a straightforward trekking pole, made of __acc_cane_mat_all_basic__. It is a three-section telescoping trekking pole with a flick-lock adjuster. A foam grip wraps the handle. It ends in a rubber tip.
+a straightforward tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+a straightforward tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+a straightforward white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+a stripped-back folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+a stripped-back gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+a stripped-back gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+a stripped-back monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+a stripped-back monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+a stripped-back offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+a stripped-back offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+a stripped-back sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of a lion. A plastic collar joins handle and shaft. It ends in a rubber tip.
+a stripped-back shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+a stripped-back shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+a stripped-back shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+a stripped-back swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+a stripped-back swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+a workaday adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+a workaday adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+a workaday crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+a workaday derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+a workaday derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+a workaday folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+a workaday folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+a workaday gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+a workaday gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+a workaday monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+a workaday monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+a workaday offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+a workaday offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+a workaday offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+a workaday quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+a workaday quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+a workaday shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+a workaday shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+a workaday tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+a workaday tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+an entry-level cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+an entry-level cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+an entry-level crook-handle cane, made of __acc_cane_mat_all_basic__. It has a classic rounded crook handle that hooks over the arm. It ends in a rubber tip.
+an entry-level derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+an entry-level derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+an entry-level derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+an entry-level gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+an entry-level gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+an entry-level hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+an entry-level hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+an entry-level monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+an entry-level monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+an entry-level quad cane, made of __acc_cane_mat_all_basic__. It stands on a four-footed base that lets it stand on its own. A foam grip wraps the handle.
+an entry-level wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
+an everyday cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+an everyday cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+an everyday ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+an everyday ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+an everyday gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+an everyday gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+an everyday monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+an everyday monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+an everyday offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+an everyday offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+an everyday shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+an everyday shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+an everyday swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+an everyday swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+an everyday swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+an off-the-shelf cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+an off-the-shelf cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+an off-the-shelf ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+an off-the-shelf ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+an off-the-shelf derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+an off-the-shelf folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+an off-the-shelf folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+an off-the-shelf hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+an off-the-shelf hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+an off-the-shelf monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+an off-the-shelf monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+an off-the-shelf offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+an off-the-shelf offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+an off-the-shelf quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+an off-the-shelf quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+an off-the-shelf seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+an off-the-shelf swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+an off-the-shelf swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+an ordinary adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+an ordinary adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+an ordinary cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+an ordinary cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+an ordinary ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+an ordinary ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+an ordinary derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+an ordinary folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+an ordinary fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+an ordinary offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+an ordinary shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+an ordinary shillelagh, made of __acc_cane_mat_all_basic__. It is a knotted, rustic stick with a heavy natural knob at the top. It ends in a rubber tip.
+an ordinary shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+an ordinary shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+an ordinary white mobility cane, made of __acc_cane_mat_all_basic__. It is a long, folding white cane with a red band near the tip. A foam grip wraps the handle. It ends in a rubber tip.
+an understated adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings.
+an understated adjustable cane, made of __acc_cane_mat_all_basic__. It is a telescoping cane with pushbutton height settings. It also includes __acc_cane_practical__.
+an understated cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting.
+an understated cane seat, made of __acc_cane_mat_all_basic__. It unfolds into a small seat for resting. It also includes __acc_cane_practical__.
+an understated ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial.
+an understated ceremonial staff, made of __acc_cane_mat_all_basic__. It is a tall decorated staff topped with a finial. It also includes __acc_cane_practical__.
+an understated derby-handle cane, made of __acc_cane_mat_all_basic__. It has a gently curved derby handle that fits the palm. A plastic collar joins handle and shaft. It ends in a rubber tip.
+an understated fritz-handle cane, made of __acc_cane_mat_all_basic__. It has a short, T-shaped fritz handle shaped for arthritic hands. A plastic collar joins handle and shaft. It ends in a rubber tip.
+an understated gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+an understated gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+an understated hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+an understated knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+an understated monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip.
+an understated monocane, made of __acc_cane_mat_all_basic__. It is a straight shaft with a simple wooden grip. It also includes __acc_cane_practical__.
+an understated quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+an understated quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+an understated swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end.
+an understated swagger stick, made of __acc_cane_mat_all_basic__. It is a short, light stick with a metal cap at each end. It also includes __acc_cane_practical__.
+an unfussy derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+an unfussy derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+an unfussy folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+an unfussy folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+an unfussy gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle.
+an unfussy gentleman's cane, made of __acc_cane_mat_all_basic__. It is a slim straight cane with a rounded knob handle. It also includes __acc_cane_practical__.
+an unfussy hiking staff, made of __acc_cane_mat_all_basic__. It is a tall, chest-high hiking staff with a wrapped grip. A foam grip wraps the handle. It ends in a rubber tip.
+an unfussy offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+an unfussy offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+an unfussy sculpted animal-head cane, made of __acc_cane_mat_all_basic__. Its handle is sculpted as the head of a lion. A plastic collar joins handle and shaft. It ends in a rubber tip.
+an unfussy seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+an unfussy shepherd's crook, made of __acc_cane_mat_all_basic__. It is a tall staff topped with a wide, carved crook. It ends in a rubber tip.
+an unfussy shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+an unfussy shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+an unfussy tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+an unfussy tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+an unfussy wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
+an unpretentious folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+an unpretentious folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+an unpretentious hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip.
+an unpretentious hiking staff, made of __acc_cane_mat_all_basic__. It is a long staff with a wrist loop and a spike tip. It also includes __acc_cane_practical__.
+an unpretentious knob-handle walking stick, made of __acc_cane_mat_all_basic__. It is a straight stick topped with a round knob handle. The knob is molded plastic. It ends in a rubber tip.
+an unpretentious offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer.
+an unpretentious offset-handle cane, made of __acc_cane_mat_all_basic__. It has a handle offset over the shaft for better weight transfer. It also includes __acc_cane_practical__.
+an unpretentious offset-handle cane, made of __acc_cane_mat_all_basic__. It has an offset shaft that puts weight directly under the ergonomic grip. A foam grip wraps the handle. It ends in a rubber tip.
+an unpretentious quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+an unpretentious quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+an unpretentious seat cane, made of __acc_cane_mat_all_basic__. It unfolds into a small tripod seat for resting. It ends in a rubber tip.
+an unpretentious shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn.
+an unpretentious shillelagh, made of __acc_cane_mat_all_basic__. It is a short, heavy knotted club-like stick of blackthorn. It also includes __acc_cane_practical__.
+an unpretentious swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+an utilitarian derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft.
+an utilitarian derby cane, made of __acc_cane_mat_all_basic__. It has a smooth rounded crook handle and a straight shaft. It also includes __acc_cane_practical__.
+an utilitarian folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord.
+an utilitarian folding cane, made of __acc_cane_mat_all_basic__. It folds in sections held by an internal elastic cord. It also includes __acc_cane_practical__.
+an utilitarian folding cane, made of __acc_cane_mat_all_basic__. It folds into four sections joined by an internal elastic cord. A foam grip wraps the handle. It ends in a rubber tip.
+an utilitarian quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability.
+an utilitarian quad cane, made of __acc_cane_mat_all_basic__. It has a four-point base for extra stability. It also includes __acc_cane_practical__.
+an utilitarian swagger stick, made of __acc_cane_mat_all_basic__. It is a short, slim swagger stick capped at both ends. The knob is molded plastic.
+an utilitarian tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base.
+an utilitarian tripod cane, made of __acc_cane_mat_all_basic__. It stands upright on a small tripod base. It also includes __acc_cane_practical__.
+an utilitarian wizard-style staff, made of __acc_cane_mat_all_basic__. It is a tall, gnarled staff whose top twists into a cradle holding a polished stone sphere. It ends in a rubber tip.
