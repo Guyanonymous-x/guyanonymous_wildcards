@@ -2,19 +2,30 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v78**
+**Current version: v79**
 
-**Contents:** [Introduction](#introduction) · [What's New in v78](#whats-new-in-v78) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v79](#whats-new-in-v79) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 33,700 wildcard text files (33,674 `.txt` files in [`wildcards/`](wildcards/) at v78, plus 278 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 34,600 wildcard text files (34,630 `.txt` files in [`wildcards/`](wildcards/) at v79, plus 287 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v79
+
+v79 adds noir, pirate and spy genres, money and metalware collections, and fixes for named e-reader and phone models ([docs/INDEX_v79.txt](docs/INDEX_v79.txt), research notes in [docs/RESEARCH_v79.txt](docs/RESEARCH_v79.txt)). Since v78 it adds:
+
+- **Genres (`nr_`, `pt_`, `sy_`):** each has 8 styles, 16 characters, about 20 places, about 17 objects and 8 vehicles or ships, with pair and group mixes. Entry points: `nr_prompt`, `pt_prompt`, `sy_prompt`, `nr_pair_prompt`, `nr_group_prompt` (same for pt_ and sy_).
+- **Money (`mo_`) and metalware (`mt_`):** coins, banknotes, purses, money boxes, cheques, gaming chips, account books, counting equipment and bullion; brass, copper, pewter, silver, cast iron, tin, locks and keys, hand tools and bronze. Entry points: `mo_prompt`, `mt_prompt`, `mo_group_prompt`, `mt_group_prompt`.
+- **Fixes:** the 14 named e-reader models and 13 named phone models are now fully described, and every screen pool (e-reader, phone, cyberpunk, spy) gives each line of screen text in quotation marks. Empty-place and vehicle prompts in v78 genres no longer say "portrait".
+- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v79_showcase.py`.
+
+The full list of v79 entry points is in `wildcards/v79_entry_points.txt`.
 
 ## What's New in v78
 
@@ -26,18 +37,6 @@ v78 adds cyberpunk, steampunk and western genres, steampunk phones and home and 
 - **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v78_showcase.py`.
 
 The full list of v78 entry points is in `wildcards/v78_entry_points.txt`.
-
-## What's New in v77
-
-v77 adds fantasy, horror, people interacting, toys and die-cast models ([docs/INDEX_v77.txt](docs/INDEX_v77.txt), research notes in [docs/RESEARCH_v77.txt](docs/RESEARCH_v77.txt)). Since v76 it adds:
-
-- **Fantasy (`fa_`):** 12 styles, 24 folk, 20 character types, 30 places, 20 objects, plus `fa_party_prompt` and `fa_duel_prompt`. Entry point: `fa_prompt`.
-- **Horror (`ho_`):** 11 styles, 24 entities, 16 survivor types, 30 places, 20 objects. Atmosphere only, no gore. Entry points: `ho_prompt`, `ho_ent_alone`.
-- **People interacting (`pi_`):** 46 adult pair actions (`pi_<action>_prompt`) and 14 group scenes of 4 to 6 people (`pi_group_<key>_prompt`), positions left to right. These need the person generator files, so they are not in All Options Once.
-- **Toys and models (`toy_`, `dc_`):** figures, dolls, plush, playsets, games, toy packaging by era and condition, and die-cast models. Entry points: `toy_prompt`, `toy_pack_prompt`, `dc_prompt`, `dc_boxed`. Packaging era and contents are independent.
-- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v77_showcase.py`.
-
-The full list of v77 entry points is in `wildcards/v77_entry_points.txt`.
 
 ## Features
 
@@ -343,11 +342,14 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
 
+### v79
+Noir (`nr_`), pirate (`pt_`) and spy (`sy_`) genres, money (`mo_`) and metalware (`mt_`) collections, full descriptions for named e-reader and phone models, and screen text given in quotation marks. See [What's New in v79](#whats-new-in-v79).
+
 ### v78
-Cyberpunk (`cy_`), steampunk (`sp_`) and western (`we_`) genres, steampunk phones (`spp_`) and home and decorative collections (`hd_`). See [What's New in v78](#whats-new-in-v78).
+Cyberpunk (`cy_`), steampunk (`sp_`) and western (`we_`) genres, steampunk phones (`spp_`) and home and decorative collections (`hd_`). See [What's New in v79](#whats-new-in-v79).
 
 ### v77
-Fantasy (`fa_`), horror (`ho_`), people interacting (`pi_`), toys (`toy_`) and die-cast models (`dc_`). See [What's New in v78](#whats-new-in-v78).
+Fantasy (`fa_`), horror (`ho_`), people interacting (`pi_`), toys (`toy_`) and die-cast models (`dc_`). See [What's New in v79](#whats-new-in-v79).
 
 ### v76
 Science fiction (`sf_`), e-reader and phone timelines, and eight timekeeping and instrument collections (`col_`). Showcase prompts and sample prompts in `docs/showcase/`. See [What's New in v76](#whats-new-in-v76).
