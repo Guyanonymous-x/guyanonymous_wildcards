@@ -1,5 +1,0 @@
-a baseball glove, which is a large leather glove with a deep pocket and laced fingers, made of __sport_baseball_baseball_glove_material__, its surface is __comp_fin_soft__, and it has __comp_feat_sport__
-a baseball uniform, which is a button-up jersey with matching trousers and a belt, made of __sport_baseball_baseball_uniform_material__, its surface is __comp_fin_soft__, and it has __comp_feat_sport__
-a batting helmet, which is a hard shell helmet with an ear flap on one side, made of __sport_baseball_batting_helmet_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_sport__
-a baseball bat, which is a long smooth rounded bat with a narrow grip and a knob, made of __sport_baseball_baseball_bat_material__, its surface is __comp_fin_metal__, and it has __comp_feat_sport__
-a pair of baseball cleats, which is shoes with small moulded studs under the sole, made of __sport_baseball_baseball_cleats_material__, its surface is __comp_fin_hard__, and it has __comp_feat_sport__

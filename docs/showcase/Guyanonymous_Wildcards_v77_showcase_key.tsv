@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+S01	high fantasy scene	16:9	1360x768	1872x1056	564	7700	ok 
+S02	dark fantasy scene	3:2	1248x848	1728x1152	556	7711	ok 
+S03	fairy tale scene	3:2	1248x848	1728x1152	566	7722	ok 
+S04	frozen north saga	16:9	1360x768	1872x1056	516	7733	ok 
+S05	elf portrait	4:5	912x1152	1264x1568	281	7744	ok 
+S06	dwarf in the hall	4:5	912x1152	1264x1568	426	7755	ok 
+S07	dragon lair	3:2	1248x848	1728x1152	197	7766	ok 
+S08	adventuring party	3:2	1248x848	1728x1152	632	7777	ok 
+S09	gothic horror	2:3	832x1264	1152x1728	489	7788	ok 
+S10	folk horror	16:9	1360x768	1872x1056	550	7799	ok 
+S11	beaked doctor	2:3	832x1264	1152x1728	395	7810	ok 
+S12	faceless man alone	4:5	912x1152	1264x1568	290	7821	ok 
+S13	empty hotel corridor	3:2	1248x848	1728x1152	314	7832	ok 
+S14	ballroom dancing pair	4:5	912x1152	1264x1568	1671	7843	ok 
+S15	sword fight pair	3:2	1248x848	1728x1152	1471	7854	ok 
+S16	handing over an object	3:2	1248x848	1728x1152	1544	7865	ok 
+S17	heist pair	3:2	1248x848	1728x1152	1750	7876	ok two people at a safe
+S18	heist crew	16:9	1360x768	1872x1056	2831	7887	ok five people, check count
+S19	action figure	4:5	912x1152	1264x1568	306	7898	ok 
+S20	plush creature	1:1	1024x1024	1408x1408	278	7909	ok plush creature, hybrid body may be complex
+S21	dollhouse	3:2	1248x848	1728x1152	271	7920	ok 
+S22	boxed board game	3:2	1248x848	1728x1152	304	7931	ok 
+S23	blister card packaging	4:5	912x1152	1264x1568	399	7942	ok 
+S24	boxed die-cast car	3:2	1248x848	1728x1152	398	7953	ok 
+S25	die-cast truck	3:2	1248x848	1728x1152	286	7964	ok 
+G01	fantasy folk grid	1:1	1024x1024	1408x1408	1183	7975	ok 
+G02	fantasy characters grid	1:1	1024x1024	1408x1408	1380	7986	ok 
+G03	fantasy places grid	1:1	1024x1024	1408x1408	1237	7997	ok 
+G04	fantasy objects grid	1:1	1024x1024	1408x1408	557	8008	ok 
+G05	horror entities grid	1:1	1024x1024	1408x1408	1217	8019	ok 
+G06	horror places grid	1:1	1024x1024	1408x1408	1151	8030	ok 
+G07	horror objects grid	1:1	1024x1024	1408x1408	551	8041	ok 
+G08	toy figures grid	1:1	1024x1024	1408x1408	1141	8052	ok 
+G09	board and card games grid	1:1	1024x1024	1408x1408	789	8063	ok 
+G10	toy packaging grid	1:1	1024x1024	1408x1408	817	8074	ok 
+G11	die-cast cars grid	1:1	1024x1024	1408x1408	765	8085	ok 
+G12	die-cast aircraft grid	1:1	1024x1024	1408x1408	375	8096	ok 
+G13	die-cast ships and trains grid	1:1	1024x1024	1408x1408	384	8107	ok 
+G14	die-cast buildings and figures grid	1:1	1024x1024	1408x1408	697	8118	ok 
+G15	toy playsets grid	1:1	1024x1024	1408x1408	1251	8129	ok four long playset cells, may truncate

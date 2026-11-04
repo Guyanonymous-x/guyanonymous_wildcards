@@ -1,4 +1,0 @@
-a school desk, which is a small desk with a chair attached, made of __gear_class_school_desk_material__, its surface is __comp_fin_wood__, and it has __comp_feat_equipment__
-a teacher's desk, which is a larger desk at the front, made of __gear_class_teacher_s_desk_material__, its surface is __comp_fin_wood__, and it has __comp_feat_equipment__
-a chalkboard, which is a big green board with a tray of chalk, made of __gear_class_chalkboard_material__, its surface is __comp_fin_hard__, and it has __comp_feat_equipment__
-a pair of reading shelves, which is shelves of books in rows, made of __gear_class_reading_shelves_material__, its surface is __comp_fin_wood__, and it has __comp_feat_equipment__

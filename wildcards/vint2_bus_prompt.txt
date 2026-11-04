@@ -1,1 +1,0 @@
-The inside of a bus. The layout is __vint2_bus_layout__. The seats are __vint2_bus_seats__. The dashboard is __vint2_bus_dash__, with __vint2_bus_controls__. The instruments show __vint2_bus_instruments__. The materials are __vint2_bus_materials__. Nearby there is __vint2_bus_extras__. The interior is __vint2_wear__.

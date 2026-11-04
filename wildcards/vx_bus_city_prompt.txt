@@ -1,1 +1,0 @@
-A city bus, which is a bus for urban routes. Its shape is __vx_bus_city_form__, with __vx_bus_city_feature__. The paintwork is __vpaint_prompt__. The location is __vx_bus_city_setting__.

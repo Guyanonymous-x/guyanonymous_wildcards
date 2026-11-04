@@ -1,3 +1,0 @@
-The framing is __cam_shot__, with __cam_angle__. Shot on __cam_lens__ with __cam_focus__. The light comes from __lite_source__ at __lite_angle__, with __lite_color__, creating __lite_shadow__ and __lite_volum__.
-Camera, __cam_shot__ with __cam_angle__, using __cam_lens__ and __cam_focus__. Lighting, __lite_source__ with __lite_color__ from __lite_angle__, with __lite_shadow__.
-It is shot with __cam_lens__, framed as __cam_shot__ with __cam_angle__ and __cam_focus__. The light has __lite_source__, __lite_color__ and __lite_volum__, with __lite_shadow__.

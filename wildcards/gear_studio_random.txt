@@ -1,5 +1,0 @@
-an easel, which is a wooden tripod holding a canvas, made of __gear_studio_easel_material__, its surface is __comp_fin_wood__, and it has __comp_feat_equipment__. __comp_condition__
-a paint table, which is a table with tubes, jars and brushes, made of __gear_studio_paint_table_material__, its surface is __comp_fin_wood__, and it has __comp_feat_equipment__. __comp_condition__
-a piano, which is an upright instrument with a lid and a row of keys, made of __gear_studio_piano_material__, its surface is __comp_fin_wood__, and it has __comp_feat_equipment__. __comp_condition__
-a music stand, which is a folding black stand holding sheet music, made of __gear_studio_music_stand_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__. __comp_condition__
-a ballet barre, which is a long wooden rail fixed to the wall at hip height, made of __gear_studio_ballet_barre_material__, its surface is __comp_fin_wood__, and it has __comp_feat_equipment__. __comp_condition__

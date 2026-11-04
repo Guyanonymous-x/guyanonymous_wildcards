@@ -7,7 +7,7 @@ def bold(line):
     return f'**{m.group(1)}**{m.group(2) or ""}'
 def build(n, counts=''):
     rel = M['releases']; cur = rel[0]; prev = int(re.search(r'\d+', cur[0]).group()) - 1
-    out = [M['head'].replace('v43', f'v{n}').replace('v42', f'v{n}'), '', '## Short descriptions', '', counts_fix(M['short'], counts), '', f"## What's new since V{prev}", '', f"### {cur[0]} (this release)", '']
+    out = [M['head'].replace('v43', f'v{n}').replace('v42', f'v{n}'), '', 'This wildcard project is managed on GitHub, for anyone who wants the most current versions: https://github.com/Guyanonymous-x/guyanonymous_wildcards', '', '## Short descriptions', '', counts_fix(M['short'], counts), '', f"## What's new since V{prev}", '', f"### {cur[0]} (this release)", '']
     out += ['- ' + bold(b) for b in cur[1]]
     out += ['', '## Features at a glance', '']
     out += [('- ' + bold(re.sub(r'^- ', '', l))) if l.strip() else l for l in M['features'].split('\n')]

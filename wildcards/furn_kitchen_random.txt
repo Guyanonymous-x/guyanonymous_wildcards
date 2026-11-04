@@ -1,8 +1,0 @@
-a kitchen sink, which is a deep double basin sink with a swan-neck tap, made of __furn_kitchen_kitchen_sink_material__, its surface is __comp_fin_metal__, and it has __comp_feat_fixture__. __comp_condition__
-a range cooker, which is a wide cooker with a flat hob and two ovens, made of __furn_kitchen_range_cooker_material__, its surface is __comp_fin_metal__, and it has __comp_feat_fixture__. __comp_condition__
-a gas hob, which is a flat surface with four burners and iron grids, made of __furn_kitchen_gas_hob_material__, its surface is __comp_fin_metal__, and it has __comp_feat_fixture__. __comp_condition__
-a refrigerator, which is a tall box with two doors and a handle, made of __furn_kitchen_refrigerator_material__, its surface is __comp_fin_metal__, and it has __comp_feat_fixture__. __comp_condition__
-a dishwasher, which is a front-loading box with a door that folds down and racks inside, made of __furn_kitchen_dishwasher_material__, its surface is __comp_fin_metal__, and it has __comp_feat_fixture__. __comp_condition__
-a kitchen cabinet, which is a wall cupboard with a door and a shelf, made of __furn_kitchen_kitchen_cabinet_material__, its surface is __comp_fin_wood__, and it has __comp_feat_fixture__. __comp_condition__
-a breakfast bar, which is a long raised counter with high stools, made of __furn_kitchen_breakfast_bar_material__, its surface is __comp_fin_wood__, and it has __comp_feat_fixture__. __comp_condition__
-a pantry shelving, which is a wall of open shelves for jars and tins, made of __furn_kitchen_pantry_shelving_material__, its surface is __comp_fin_wood__, and it has __comp_feat_fixture__. __comp_condition__

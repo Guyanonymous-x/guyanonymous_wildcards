@@ -1,1 +1,0 @@
-A tram, which is a city rail vehicle running on street tracks. Its shape is __vx_tram_form__, with __vx_tram_feature__. The location is __vx_tram_setting__.

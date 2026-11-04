@@ -1,8 +1,0 @@
-a floor lamp, which is a tall slim pole with a round fabric shade at the top, made of __furn_lighting_floor_lamp_material__, its surface is __comp_fin_soft__, and it has __comp_feat_lighting__. __comp_condition__
-a table lamp, which is a ceramic base with a pleated shade, made of __furn_lighting_table_lamp_material__, its surface is __comp_fin_glass__, and it has __comp_feat_lighting__. __comp_condition__
-a desk lamp with a swing arm, which is a metal lamp with a jointed arm and a conical head, made of __furn_lighting_desk_lamp_with_a_swing_arm_material__, its surface is __comp_fin_metal__, and it has __comp_feat_lighting__. __comp_condition__
-a pendant light, which is a bowl-shaped shade hanging from a long cord, made of __furn_lighting_pendant_light_material__, its surface is __comp_fin_glass__, and it has __comp_feat_lighting__. __comp_condition__
-a chandelier, which is a tiered frame with curved arms and candle-shaped bulbs, made of __furn_lighting_chandelier_material__, its surface is __comp_fin_metal__, and it has __comp_feat_lighting__. __comp_condition__
-a paper lantern, which is a round lantern of folded paper over a wire frame, made of __furn_lighting_paper_lantern_material__, its surface is __comp_fin_hard__, and it has __comp_feat_lighting__. __comp_condition__
-a wall sconce, which is a small shaded lamp fixed to the wall, made of __furn_lighting_wall_sconce_material__, its surface is __comp_fin_metal__, and it has __comp_feat_lighting__. __comp_condition__
-a candlestick, which is a tall holder with a round base and a drip tray, made of __furn_lighting_candlestick_material__, its surface is __comp_fin_metal__, and it has __comp_feat_lighting__. __comp_condition__

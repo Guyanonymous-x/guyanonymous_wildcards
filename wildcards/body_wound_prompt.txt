@@ -1,6 +1,0 @@
-Injury, __body_wound_minor__
-Injury, __body_wound_moderate__
-Injury, __body_wound_severe__
-Injury, __body_wound_critical__
-Injury, __body_wound_cat_any__
-Dressing, __acc_medwrap_prompt__

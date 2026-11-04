@@ -1,5 +1,0 @@
-a booth seating, which is a curved padded bench around a table, fixed to the wall, made of __gear_shop_booth_seating_material__, its surface is __comp_fin_soft__, and it has __comp_feat_equipment__
-a shop counter, which is a long counter with a till and a glass front, made of __gear_shop_shop_counter_material__, its surface is __comp_fin_glass__, and it has __comp_feat_equipment__
-a display shelving, which is tall shelves with goods in even rows, made of __gear_shop_display_shelving_material__, its surface is __comp_fin_wood__, and it has __comp_feat_equipment__
-a coffee machine, which is a large chrome espresso machine with two group heads, made of __gear_shop_coffee_machine_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
-a bistro table, which is a small round table with a single central leg, made of __gear_shop_bistro_table_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__

@@ -1,9 +1,0 @@
-__veh_aeroplane_prompt__
-__veh_bicycle_prompt__
-__veh_boat_prompt__
-__veh_bus_prompt__
-__veh_car_prompt__
-__veh_cart_prompt__
-__veh_motorbike_prompt__
-__veh_tractor_prompt__
-__veh_train_prompt__

@@ -1,1 +1,0 @@
-__vx_flying_car_base_prompt__ The vehicle is __vx_flying_car_state__, seen from __vs_imagined_camera__.

@@ -1,1 +1,0 @@
-A picture book, which is a __book_picture_book_size__ with __book_binding__. The cover is __book_cover_colour__ __book_cover_material__ with __book_cover_art__. The cover title is "TITLE GOES HERE" and the author is "AUTHOR NAME". The spine has __book_spine__ and the book has __book_edges__.

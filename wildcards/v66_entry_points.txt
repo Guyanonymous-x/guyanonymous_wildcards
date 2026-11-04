@@ -1,6 +1,0 @@
-world_prompt
-world_history_prompt
-world_fantasy_prompt
-world_scifi_prompt
-world_place_prompt
-world_frame_prompt

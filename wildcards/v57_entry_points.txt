@@ -1,8 +1,0 @@
-frame_prompt
-frame_person_prompt
-frame_person_prompt_short
-frame_group_prompt
-frame_face_prompt
-frame_outfit_prompt
-frame_animal_quad_prompt
-frame_feature_grid_prompt
