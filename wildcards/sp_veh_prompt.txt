@@ -1,0 +1,10 @@
+__sp_veh_airship_prompt__
+__sp_veh_steam_car_prompt__
+__sp_veh_locomotive_prompt__
+__sp_veh_walker_prompt__
+__sp_veh_submarine_prompt__
+__sp_veh_ornithopter_prompt__
+__sp_veh_penny_farthing_prompt__
+__sp_veh_tram_prompt__
+__sp_veh_riverboat_prompt__
+__sp_veh_crawler_prompt__

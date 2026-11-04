@@ -428,3 +428,9 @@ V75 KNOWN WEAK SPOTS: object colours are generic (a ticket "in teal"); ob_ class
 NEXT: v76 per roadmap = science fiction, e-readers, phone timeline, timekeeping and instruments collections.
 
 V76 RELEASED (2026-11-04): science fiction (sf_), e-reader and phone timelines (maker_ device names), 8 collections (col_). Pushed to git main + release/v76.
+
+V77 RELEASED (2026-11-04): fa_ fantasy, ho_ horror, pi_ people interaction (46 pairs, 14 groups), toy_/dc_ toys and die-cast. 1,336 files (library 32,733). Pushed main + release/v77. Small files saved to D:\...\!Releases\v77 (zips exceed the 30 MB bridge limit; v74-v76 zips not on disk). Promo template now carries the GitHub line.
+V77 WEAK SPOTS: packaging era vs contents independent; playset fit independent of playset type; toy_game titles per kind only; G15 playset cells long; no web research done (general knowledge).
+USER INSTRUCTION 2026-11-04: stopped after v77 as asked. NEXT: v78 = cyberpunk, steampunk, western, steampunk phones, home and decorative collections.
+
+PLANNED: v82 = non-illustrative, non-photographic art styles (own system like illustration_/photostyle_): sculpture and carving, ceramics and glass art, textile and fibre art, 3D render and CGI looks, installation and land art, painting schools beyond illustration (already partly in medium_*/art_*), architectural and product design renderings, craft and folk objects; build entry points per family, signatures, whole-style closings, 50-prompt showcase with the same checks as the illustration/photography sets. (v81 stays the combined adult update.)

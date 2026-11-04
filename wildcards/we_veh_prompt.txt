@@ -1,0 +1,8 @@
+__we_veh_stagecoach_prompt__
+__we_veh_wagon_prompt__
+__we_veh_locomotive_prompt__
+__we_veh_buckboard_prompt__
+__we_veh_horse_prompt__
+__we_veh_handcar_prompt__
+__we_veh_steamboat_prompt__
+__we_veh_herd_prompt__

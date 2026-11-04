@@ -1,0 +1,12 @@
+__spp_candlestick_prompt__
+__spp_wall_crank_prompt__
+__spp_pocket_phone_prompt__
+__spp_gear_flip_prompt__
+__spp_tube_phone_prompt__
+__spp_desk_phone_prompt__
+__spp_smart_slate_prompt__
+__spp_wrist_phone_prompt__
+__spp_radio_phone_prompt__
+__spp_rotary_phone_prompt__
+__spp_bell_pager_prompt__
+__spp_cane_phone_prompt__

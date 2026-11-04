@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+S01	neon noir scene	16:9	1360x768	1872x1056	570	7800	ok 
+S02	rain megacity	3:2	1248x848	1728x1152	553	7811	ok 
+S03	netrunner	4:5	912x1152	1264x1568	364	7822	ok 
+S04	night market	3:2	1248x848	1728x1152	355	7833	ok 
+S05	empty hacker lab	3:2	1248x848	1728x1152	253	7844	ok 
+S06	hover car	16:9	1360x768	1872x1056	268	7855	ok 
+S07	cyberdeck	1:1	1024x1024	1408x1408	163	7866	ok 
+S08	airship age scene	16:9	1360x768	1872x1056	524	7877	ok 
+S09	clockwork scene	3:2	1248x848	1728x1152	516	7888	ok 
+S10	airship captain	4:5	912x1152	1264x1568	393	7899	ok 
+S11	inventor workshop	3:2	1248x848	1728x1152	397	7910	ok 
+S12	clock tower interior	2:3	832x1264	1152x1728	243	7921	ok 
+S13	steam walker	3:2	1248x848	1728x1152	264	7932	ok 
+S14	mechanical arm	1:1	1024x1024	1408x1408	153	7943	ok 
+S15	steampunk wrist communicator	4:5	912x1152	1264x1568	261	7954	ok 
+S16	steampunk candlestick phone	4:5	912x1152	1264x1568	275	7965	ok 
+S17	classic western	16:9	1360x768	1872x1056	501	7976	ok 
+S18	ghost town	3:2	1248x848	1728x1152	483	7987	ok 
+S19	sheriff	4:5	912x1152	1264x1568	315	7998	ok 
+S20	saloon	3:2	1248x848	1728x1152	341	8009	ok 
+S21	stagecoach	16:9	1360x768	1872x1056	227	8020	ok 
+S22	wanted poster	4:5	912x1152	1264x1568	168	8031	ok check the word WANTED renders
+S23	collectable vase	4:5	912x1152	1264x1568	332	8042	ok 
+S24	collectable lamp	3:2	1248x848	1728x1152	307	8053	ok 
+S25	rug	3:2	1248x848	1728x1152	260	8064	ok 
+G01	cyberpunk characters grid	1:1	1024x1024	1408x1408	1405	8075	ok 
+G02	cyberpunk places grid	1:1	1024x1024	1408x1408	1171	8086	ok 
+G03	cyberpunk objects grid	1:1	1024x1024	1408x1408	558	8097	ok 
+G04	steampunk characters grid	1:1	1024x1024	1408x1408	1375	8108	ok 
+G05	steampunk places grid	1:1	1024x1024	1408x1408	1138	8119	ok 
+G06	steampunk objects grid	1:1	1024x1024	1408x1408	551	8130	ok 
+G07	steampunk vehicles grid	1:1	1024x1024	1408x1408	591	8141	ok 
+G08	steampunk phones grid	1:1	1024x1024	1408x1408	1343	8152	ok nine steampunk phones, expect small details to drift
+G09	western characters grid	1:1	1024x1024	1408x1408	1185	8163	ok 
+G10	western places grid	1:1	1024x1024	1408x1408	1043	8174	ok 
+G11	western objects grid	1:1	1024x1024	1408x1408	508	8185	ok 
+G12	vases and ceramics grid	1:1	1024x1024	1408x1408	810	8196	ok 
+G13	lamps grid	1:1	1024x1024	1408x1408	469	8207	ok 
+G14	mirrors and frames grid	1:1	1024x1024	1408x1408	899	8218	ok mixed mirrors and frames
+G15	glassware and candlesticks grid	1:1	1024x1024	1408x1408	877	8229	ok 

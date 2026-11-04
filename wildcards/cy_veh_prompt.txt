@@ -1,0 +1,8 @@
+__cy_veh_hovercar_prompt__
+__cy_veh_bike_prompt__
+__cy_veh_cab_prompt__
+__cy_veh_drone_truck_prompt__
+__cy_veh_tram_prompt__
+__cy_veh_scooter_prompt__
+__cy_veh_van_prompt__
+__cy_veh_walker_prompt__

@@ -1,0 +1,8 @@
+Guyanonymous' Wildcards v78 - index of new files
+================================================
+CYBERPUNK (cy_), STEAMPUNK (sp_), WESTERN (we_). Each genre has the same layout, shown here for cy_.
+  8 styles cy_style_<key>_prompt / _scene; 18 characters cy_class_<key>_prompt / _look / _short; 24 places cy_loc_<key>_prompt / _empty / _look / _short; 18 objects cy_item_<key>_prompt / _look / _short; vehicles cy_veh_<key>_prompt (8 cyberpunk, 10 steampunk, 8 western).
+  Mixes: cy_prompt, cy_style_prompt, cy_class_prompt, cy_loc_prompt, cy_loc_empty, cy_item_prompt, cy_veh_prompt, cy_pair_prompt, cy_group_prompt (five characters left to right).
+  Shared pools per genre: cy_pose, cy_shot, cy_mood, cy_light, cy_vset (vehicle backdrops), cy_rest (surfaces for objects). Replace cy_ with sp_ or we_ for the other genres.
+STEAMPUNK PHONES (spp_)  12 designs spp_<key>_prompt / _look / _short (crank wall phone, candlestick, pocket handset, gear flip phone, speaking tube, desk phone, steam slate, wrist communicator, aether radio phone, rotary, clockwork pager, cane phone). Mixes spp_prompt, spp_look, spp_short, spp_timeline_prompt. Pools spp_material, spp_detail, spp_cond, spp_display.
+HOME AND DECORATIVE (hd_)  10 kinds hd_<kind>_prompt / _group_prompt / _look / _short (vase, lamp, mirror, frame, glass, rug, candle, textile, art, ornament); mixes hd_prompt, hd_group_prompt, hd_short. Pools hd_condition, hd_display, hd_<kind>_display, hd_service, hd_colour. Maker names come from text_brand (invented).
