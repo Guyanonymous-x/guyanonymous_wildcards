@@ -27,16 +27,17 @@ v78 adds cyberpunk, steampunk and western genres, steampunk phones and home and 
 
 The full list of v78 entry points is in `wildcards/v78_entry_points.txt`.
 
-## What's New in v76
+## What's New in v77
 
-v76 adds science fiction, e-reader and phone timelines and eight collections ([docs/README_v76.txt](docs/README_v76.txt), [docs/INDEX_v76.txt](docs/INDEX_v76.txt), research notes in [docs/RESEARCH_v76.txt](docs/RESEARCH_v76.txt)). Since v75 it adds:
+v77 adds fantasy, horror, people interacting, toys and die-cast models ([docs/INDEX_v77.txt](docs/INDEX_v77.txt), research notes in [docs/RESEARCH_v77.txt](docs/RESEARCH_v77.txt)). Since v76 it adds:
 
-- **Science fiction (`sf_`):** 15 visual styles (`sf_style_<key>_prompt`: space opera, retro-futurism, biopunk, solarpunk, space western and more), 52 alien species (`sf_alien_<key>_prompt`; sentient species wear and carry things, animals and swarms have a habitat), 48 locations (`sf_loc_<key>_prompt`), 32 vehicles (`sf_veh_<key>_prompt`), 16 robots and 10 spacesuits. Entry points: `sf_prompt`, `sf_style_prompt`, `sf_alien_prompt`, `sf_alien_pair_prompt`, `sf_loc_prompt`, `sf_veh_prompt`, `sf_robot_prompt`, `sf_suit_prompt`.
-- **E-reader and phone timelines:** `ereader_<key>_prompt` (18 generations, late 1990s to a 2026 foldable e-ink book) and `phone_<key>_prompt` (31 generations, the 1983 brick to rollable and future phones), plus `ereader_timeline` and `phone_timeline`. Real device names appear only in `maker_ereader_*` and `maker_phone_*`.
-- **Collections (`col_`):** watches, clocks, scientific instruments, cameras, typewriters, radios and early electronics, telephones and musical instruments. Entry points: `col_prompt`, `col_prompt_fill`, `col_group_prompt`, `col_short`, `col_<name>_prompt`. Makers' names on dials and plates are invented and in quotation marks. Type and era are independent, so an anachronism can occur.
-- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v76_showcase.py`.
+- **Fantasy (`fa_`):** 12 styles, 24 folk, 20 character types, 30 places, 20 objects, plus `fa_party_prompt` and `fa_duel_prompt`. Entry point: `fa_prompt`.
+- **Horror (`ho_`):** 11 styles, 24 entities, 16 survivor types, 30 places, 20 objects. Atmosphere only, no gore. Entry points: `ho_prompt`, `ho_ent_alone`.
+- **People interacting (`pi_`):** 46 adult pair actions (`pi_<action>_prompt`) and 14 group scenes of 4 to 6 people (`pi_group_<key>_prompt`), positions left to right. These need the person generator files, so they are not in All Options Once.
+- **Toys and models (`toy_`, `dc_`):** figures, dolls, plush, playsets, games, toy packaging by era and condition, and die-cast models. Entry points: `toy_prompt`, `toy_pack_prompt`, `dc_prompt`, `dc_boxed`. Packaging era and contents are independent.
+- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v77_showcase.py`.
 
-The full list of v76 entry points is in `wildcards/v76_entry_points.txt`.
+The full list of v77 entry points is in `wildcards/v77_entry_points.txt`.
 
 ## Features
 
