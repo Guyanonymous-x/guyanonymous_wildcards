@@ -1,0 +1,109 @@
+Guyanonymous' Wildcards v70 - manufacturer style index
+=======================================================
+Real manufacturer names are used on purpose in these files (maker_*). All other files in the library avoid brand names.
+Each entry gives the maker, the kind of vehicle, the vehicle genres it applies to and the decades covered.
+
+Ford | car | city_car, saloon, estate, pickup, muscle_car, hot_rod, sports_car, convertible | 1930s, 1960s, 1990s, 2010s | maker_ford_prompt
+Chevrolet | car | saloon, pickup, sports_car, muscle_car, convertible, estate | 1950s, 1960s, 1970s, 2010s | maker_chevrolet_prompt
+Cadillac | car | saloon, convertible, limousine, coupe | 1950s, 1970s, 2010s | maker_cadillac_prompt
+Volkswagen | car | city_car, hatchback, camper, van, saloon | 1950s, 1960s, 1970s, 2000s | maker_volkswagen_prompt
+Porsche | car | sports_car, coupe, convertible, race_car, supercar | 1960s, 1980s, 2000s, 2020s | maker_porsche_prompt
+BMW | car | saloon, coupe, convertible, estate, sports_car | 1960s, 1980s, 2000s, 2020s | maker_bmw_prompt
+Mercedes-Benz | car | saloon, coupe, convertible, limousine, estate, suv | 1950s, 1970s, 1990s, 2020s | maker_mercedes_prompt
+Audi | car | saloon, hatchback, coupe, estate, sports_car | 1980s, 2000s, 2020s | maker_audi_prompt
+Volvo | car | estate, saloon, suv | 1960s, 1980s, 2020s | maker_volvo_prompt
+Saab | car | hatchback, saloon, convertible | 1970s, 1990s, 2000s | maker_saab_prompt
+Jaguar | car | saloon, sports_car, coupe, convertible | 1960s, 1970s, 2020s | maker_jaguar_prompt
+Aston Martin | car | sports_car, coupe, convertible, race_car | 1960s, 2000s, 2020s | maker_aston_martin_prompt
+Bentley | car | saloon, coupe, convertible, limousine | 1930s, 1950s, 2010s | maker_bentley_prompt
+Rolls-Royce | car | saloon, limousine, convertible | 1930s, 1970s, 2020s | maker_rolls_royce_prompt
+Mini | car | city_car, hatchback | 1960s, 2000s | maker_mini_prompt
+Land Rover | car | offroader, suv, pickup | 1950s, 1990s, 2020s | maker_land_rover_prompt
+Ferrari | car | sports_car, supercar, race_car, coupe, convertible | 1950s, 1970s, 1990s, 2020s | maker_ferrari_prompt
+Lamborghini | car | supercar, sports_car, suv | 1970s, 1990s, 2020s | maker_lamborghini_prompt
+Maserati | car | coupe, saloon, sports_car, convertible | 1960s, 2010s | maker_maserati_prompt
+Alfa Romeo | car | sports_car, coupe, saloon, convertible | 1960s, 1980s, 2010s | maker_alfa_romeo_prompt
+Fiat | car | city_car, hatchback, microcar | 1950s, 1970s, 2000s | maker_fiat_prompt
+Citroën | car | saloon, hatchback, van, estate | 1950s, 1970s, 2010s | maker_citroen_prompt
+Peugeot | car | hatchback, saloon, estate, coupe | 1970s, 1990s, 2020s | maker_peugeot_prompt
+Renault | car | hatchback, city_car, van, estate | 1960s, 1970s, 1990s | maker_renault_prompt
+Toyota | car | saloon, hatchback, pickup, suv, sports_car, offroader | 1960s, 1980s, 1990s, 2020s | maker_toyota_prompt
+Honda | car | hatchback, saloon, sports_car, suv, city_car | 1970s, 1990s, 2020s | maker_honda_prompt
+Nissan | car | sports_car, coupe, saloon, pickup, suv | 1970s, 1990s, 2020s | maker_nissan_prompt
+Mazda | car | sports_car, convertible, hatchback, saloon | 1990s, 2010s | maker_mazda_prompt
+Subaru | car | estate, saloon, hatchback, rally_car | 1990s, 2010s | maker_subaru_prompt
+Mitsubishi | car | saloon, rally_car, pickup, suv | 1990s, 2010s | maker_mitsubishi_prompt
+Lexus | car | saloon, coupe, suv | 1990s, 2020s | maker_lexus_prompt
+Hyundai | car | hatchback, saloon, suv, city_car | 1990s, 2020s | maker_hyundai_prompt
+Kia | car | hatchback, saloon, suv | 2010s, 2020s | maker_kia_prompt
+Tesla | car | saloon, suv, pickup, sports_car | 2010s, 2020s | maker_tesla_prompt
+Dodge | car | muscle_car, pickup, saloon | 1960s, 2010s | maker_dodge_prompt
+Jeep | car | offroader, suv, pickup | 1940s, 2010s | maker_jeep_prompt
+Pontiac | car | muscle_car, convertible, saloon | 1960s, 1980s | maker_pontiac_prompt
+Buick | car | saloon, convertible, estate | 1950s, 1970s | maker_buick_prompt
+Tatra | car | saloon | 1930s | maker_tatra_prompt
+Lada | car | saloon, estate, offroader | 1970s, 1990s | maker_lada_prompt
+Trabant | car | microcar, estate | 1960s | maker_trabant_prompt
+Tata | car | city_car, pickup, suv | 2000s, 2010s | maker_tata_prompt
+Mahindra | car | offroader, pickup, suv | 2000s | maker_mahindra_prompt
+Peterbilt | truck | semi, dump_truck, tanker | 1970s, 2010s | maker_peterbilt_prompt
+Kenworth | truck | semi, dump_truck, tanker | 1970s, 2010s | maker_kenworth_prompt
+Mack | truck | dump_truck, semi, cement_mixer | 1950s, 2010s | maker_mack_prompt
+Freightliner | truck | semi, box_truck | 1990s, 2010s | maker_freightliner_prompt
+Scania | truck | semi, tanker, flatbed | 1980s, 2010s | maker_scania_prompt
+Volvo Trucks | truck | semi, dump_truck, box_truck | 1990s, 2020s | maker_volvo_trucks_prompt
+International | truck | box_truck, dump_truck, school_bus, pickup | 1950s, 1980s | maker_international_prompt
+Harley-Davidson | motorbike | cruiser_bike, touring_bike, chopper | 1940s, 1970s, 2010s | maker_harley_prompt
+Indian Motorcycle | motorbike | cruiser_bike, touring_bike | 1940s, 2010s | maker_indian_prompt
+Triumph | motorbike | naked_bike, cafe_racer, scrambler, sport_bike | 1960s, 2010s | maker_triumph_prompt
+Ducati | motorbike | sport_bike, naked_bike, adventure_bike | 1970s, 1990s, 2020s | maker_ducati_prompt
+Honda motorcycles | motorbike | sport_bike, moped, adventure_bike, naked_bike | 1960s, 1980s, 2010s | maker_honda_moto_prompt
+Yamaha | motorbike | sport_bike, naked_bike, dirt_bike, scooter_motor | 1970s, 1990s, 2010s | maker_yamaha_prompt
+Kawasaki | motorbike | sport_bike, naked_bike, dirt_bike | 1970s, 1990s, 2010s | maker_kawasaki_prompt
+Suzuki | motorbike | sport_bike, dirt_bike, adventure_bike, scooter_motor | 1980s, 2010s | maker_suzuki_prompt
+BMW Motorrad | motorbike | touring_bike, adventure_bike, naked_bike | 1950s, 1990s, 2020s | maker_bmw_motorrad_prompt
+Moto Guzzi | motorbike | cruiser_bike, naked_bike, touring_bike | 1970s, 2010s | maker_moto_guzzi_prompt
+Royal Enfield | motorbike | naked_bike, scrambler, cruiser_bike | 1950s, 2020s | maker_royal_enfield_prompt
+Vespa | scooter | scooter_motor, moped | 1950s, 2010s | maker_vespa_prompt
+Lambretta | scooter | scooter_motor | 1960s | maker_lambretta_prompt
+Norton | motorbike | cafe_racer, naked_bike, sport_bike | 1960s | maker_norton_prompt
+Vincent | motorbike | cruiser_bike, sport_bike | 1950s | maker_vincent_prompt
+Aprilia | motorbike | sport_bike, scooter_motor | 1990s | maker_aprilia_prompt
+KTM | motorbike | dirt_bike, adventure_bike | 2000s | maker_ktm_prompt
+Schwinn | bicycle | city_bike, bmx, road_bicycle, trike | 1950s, 1970s | maker_schwinn_prompt
+Raleigh | bicycle | city_bike, road_bicycle, folding_bike | 1950s, 1970s | maker_raleigh_prompt
+Trek | bicycle | mountain_bike, road_bicycle, gravel_bike | 1990s, 2020s | maker_trek_prompt
+Colnago | bicycle | road_bicycle | 1980s | maker_colnago_prompt
+Bianchi | bicycle | road_bicycle, city_bike | 1950s | maker_bianchi_prompt
+Brompton | bicycle | folding_bike | 2000s | maker_brompton_prompt
+Giant | bicycle | mountain_bike, road_bicycle, ebike | 2010s | maker_giant_prompt
+Cannondale | bicycle | mountain_bike, road_bicycle | 1990s | maker_cannondale_prompt
+Chris-Craft | boat | motor_yacht, speedboat | 1950s | maker_chris_craft_prompt
+Riva | boat | speedboat, motor_yacht | 1960s | maker_riva_prompt
+Sunseeker | boat | motor_yacht, speedboat | 2010s | maker_sunseeker_prompt
+Boston Whaler | boat | speedboat, fishing_boat | 1970s | maker_boston_whaler_prompt
+Boeing | air | airliner, cargo_plane, supersonic | 1950s, 1970s, 2010s | maker_boeing_prompt
+Airbus | air | airliner, cargo_plane | 1980s, 2010s | maker_airbus_prompt
+Cessna | air | prop_plane, bush_plane, seaplane | 1960s | maker_cessna_prompt
+Piper | air | prop_plane, bush_plane, crop_duster | 1940s | maker_piper_prompt
+de Havilland | air | biplane, prop_plane, seaplane | 1930s | maker_de_havilland_prompt
+Supermarine | air | prop_plane, seaplane | 1940s | maker_supermarine_prompt
+Concorde | air | supersonic | 1970s | maker_concorde_prompt
+Sikorsky | air | helicopter | 1960s | maker_sikorsky_prompt
+Bell | air | helicopter | 1960s | maker_bell_prompt
+NASA | space | rocket, capsule, spaceplane, rover, lander, space_station | 1960s, 1980s, 2020s | maker_nasa_prompt
+Soviet space programme | space | rocket, capsule, probe, satellite, rover | 1960s, 1970s | maker_soviet_space_prompt
+SpaceX | space | rocket, capsule | 2020s | maker_spacex_prompt
+Great Western Railway | rail | steam_loco | 1930s | maker_steam_gwr_prompt
+Streamline era trains | rail | steam_loco, diesel_loco, electric_train | 1930s | maker_streamliner_prompt
+Shinkansen | rail | bullet_train | 1960s, 2020s | maker_shinkansen_prompt
+London bus | rail | bus_city, tram | 1950s | maker_routemaster_prompt
+Greyhound coaches | truck | bus_coach | 1950s | maker_greyhound_prompt
+John Deere | truck | tractor_farm, combine | 1950s, 2010s | maker_john_deere_prompt
+Massey Ferguson | truck | tractor_farm | 1960s | maker_massey_ferguson_prompt
+Fendt | truck | tractor_farm | 2010s | maker_fendt_prompt
+Skateboards of the 1960s | skate | skateboard | 1960s | maker_skate_60s_prompt
+Skateboards of the 1980s | skate | skateboard | 1980s | maker_skate_80s_prompt
+Skateboards of the 2000s | skate | skateboard | 2000s | maker_skate_2000s_prompt
+Roller skates of the 1970s | skate | roller_skates | 1970s | maker_roller_disco_prompt
+Inline skates of the 1990s | skate | inline_skates | 1990s | maker_roller_inline_prompt

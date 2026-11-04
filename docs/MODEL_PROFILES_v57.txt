@@ -1,0 +1,16 @@
+Guyanonymous' Wildcards - model profiles (v57)
+==============================================
+The frame_* files wrap any subject in a clarity opener, a square 1:1 frame and a composition that shows the subject completely.
+
+Natural-language models (for example Krea 2, MOSS and similar)
+    Use frame_prompt or any frame_<kind>_prompt as they are. Replace frame_clarity with the opening text you prefer (one file, 4 lines).
+Tag-style or short-prompt models
+    Use the plain subject files (for example __animal_prompt__) and add only one line from frame_person_full or frame_product.
+Token-limited models (about 75 tokens)
+    Use frame_person_prompt_short or frame_person_age<N>_prompt, which use the short person descriptions.
+Any 1:1 image
+    frame_ratio is set to square 1:1. Edit the file for other ratios.
+Multi-panel images
+    frame_animal_quad_prompt makes four animals in four panels; frame_feature_grid_prompt makes four close-ups to compare (nails, makeup).
+Keeping whole subjects in frame
+    The full-body and group lines say head to toe, margin on every side, nothing cropped. If a model still crops, repeat the line or use the _short prompt so the composition words stay near the front.

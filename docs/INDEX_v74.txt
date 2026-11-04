@@ -1,0 +1,17 @@
+Guyanonymous' Wildcards v74 - index of new families
+===================================================
+Prefixes: book_ mag_ comic_ paper_ zine_ pamphlet_ reading_ bookmark_ (reading); sign_ signage_ text_ letter_ ad_ container_ (signage and labels); vint2_ (vehicle interiors; the older vint_ detail photographs are unchanged); bld_ (architecture; the older arch_ is unchanged); cb_ pw_ (creatures and powers); stamp_ card_ eph_ map_ atlas_ postcard_ rb_ graded_ collect_ (paper and print collections).
+
+Rules for text. Any text meant to appear in an image is inside double quotation marks in these files. Every family with text has a _fill version whose text is a placeholder in quotation marks (for example "TITLE GOES HERE") to be edited by the user.
+All names (authors, shops, brands, countries, teams, people) are invented. Human parts in creature hybrids are adult.
+
+Entry points (start here)
+reading_prompt, reading_prompt_fill, book_prompt, mag_prompt, comic_prompt, paper_prompt, zine_look
+signage_prompt, sign_shopfront_prompt, sign_street_scene_prompt, ad_prompt, ad_wall_scene_prompt, container_prompt, container_shelf_prompt, container_pantry_prompt
+vint2_prompt, vint2_scene_prompt, vint2_road_prompt, vint2_rail_prompt, vint2_air_prompt, vint2_sea_prompt, vint2_old_prompt
+bld_prompt, bld_short, bld_full, bld_scene, bld_style_prompt, bld_vern_prompt, bld_blend_prompt
+cb_prompt, cb_prompt_one, cb_prompt_two, cb_prompt_three, cb_prompt_human, cb_prompt_winged
+pw_prompt, pw_person_prompt, pw_scene_prompt, pw_magic_prompt, pw_tech_prompt
+collect_paper_prompt, stamp_prompt, stamp_page_prompt, card_prompt, card_binder_prompt, card_graded_prompt, eph_prompt, eph_spread_prompt, map_prompt, atlas_prompt, postcard_prompt, postcard_spread_prompt, rb_prompt, graded_comic_prompt
+
+Shared engine (reused by later versions): letter_style, letter_material, letter_condition, letter_layout, letter_colour, text_shop_name, text_pub_name, text_slogan, text_notice, text_brand, text_product, text_logo_emblem, container_label_element, container_print, container_condition, ad_era.

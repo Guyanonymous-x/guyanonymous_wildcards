@@ -1,0 +1,57 @@
+SHOE WILDCARDS  (files shoe_*, built by _tools/shoe_build.py after the merge)
+===============================================================================
+Source: your 1000_shoe_prompts_with_prices.txt.  Every sentence of it was split into slots (tier word, type, designer, material, colour, construction, toe, detail,
+technique, sole, closure, practical/whimsical extras, finish, lining, price).  All harvested values are kept in _tools/data/shoe_vocab.json and every one of them is
+still used; the lists were then expanded (see counts below).  Nothing in the shoe files contains curly braces or pipes.
+
+WHAT THE SAMPLE TAUGHT US
+  * Each prompt is one paragraph: "A pair of <tier word> <type> designed by <designer>, made of <material> in <colour>, <construction>. They have <toe> and feature <detail>, <technique>.
+    They rest on <sole>. <closure>. <practical/whimsical extras>. [They are finished with <jewel/finish>.] <lining>."   (the sample's price overlay sentence is NO LONGER in any prompt)
+  * QUALITY drives everything: six tiers, and the tier decides the tier word, materials, construction method (cement-bonded ... hand-sewn at forty stitches per inch ... a guild of artisans),
+    hardware (plastic buckle ... white-gold buckle set with sapphires), lining and finish, and the PRICE BAND.
+
+NOTE: construction lines contain no colour or thread-colour words (colours come only from shoe_colour*); stitching is mentioned only generically (contrast stitching, gold-wire welt, silk thread).
+
+THE SIX TIERS                                   price band (EUR)       share in shoe_prompt_master
+  t1 budget            inexpensive, no-frills ...      12 - 57                22 %
+  t2 value             sturdy, practical ...           40 - 155               24 %
+  t3 mid-range         well-crafted, quality ...       135 - 595              22 %
+  t4 premium           polished, refined ...           510 - 1,950            16 %
+  t5 luxury couture    artisanal, exquisite ...        4,000 - 20,000         11 %
+  t6 museum-grade      one-of-a-kind, opulent ...      110,000 - 311,000       5 %
+
+SEVEN CLASSES (about 280 types):  boot, heel, flat, sneaker, sandal, slipper, clog.  Each type is tagged with how it closes (lace, hook, zip, button, buckle, strap, hookloop, elastic, pull, slip,
+ribbon, thong, toggle) and what sole/heel it has (high, mid, stack, cuban, wedge, platform, flat, sport, lug, soft, wood ...), so a loafer slips on and a stiletto gets a heel, not a lug sole.
+Open shoes (sandals, flip-flops) get a footbed sentence instead of a lining.
+
+FINISHED PROMPTS
+  shoe_prompt_master                 any tier (cheap more often), any class
+  shoe_prompt_t1 .. shoe_prompt_t6   one tier          shoe_prompt_boot|heel|flat|sneaker|sandal|slipper|clog   one class
+  shoe_full_<class>_t<n>             the 42 files of 250 finished prompts each (coherent type/sole/closure/lining); shoe_full_t<n>, shoe_full_<class>, shoe_full pick among them
+  shoe_prompt_mix_t<n>, shoe_prompt_mix   "free mix": every slot picked independently from the component files (closest to the sample's freedom; also shows how to build your own templates)
+  shoe_prompt_feet                   close-up of someone's feet in shoes (uses shoe_worn)
+For character prompts:  shoe_worn (everyday shoes, mostly t1-t3), shoe_worn_<class>, shoe_worn_senior (comfort shoes), shoe_floor.  Example:  "A full-length portrait of __f_prompt_master_by_age__, __shoe_worn__"
+(the existing outfit files were NOT edited: put __shoe_worn__ where you want shoes mentioned).
+
+VARIABLES (component files, use in your own templates)                    approx. options
+  shoe_word_t1..t6          tier words (price/quality cue)                                20 each
+  shoe_type, shoe_type_<class>       shoe types                                          ~280 total
+  shoe_designer, shoe_designer_bare   designer personas (with / without a / an)           ~120
+  shoe_material_t1..t6      materials per tier                                           ~38 each
+  shoe_colour, shoe_colour_t1..t6    colours, pairs, tier specials                       ~700 / ~280 each
+  shoe_pattern, shoe_pattern_sentence   patterns (check, tartan, damask, folk, animal, abstract, plain ...)   ~160
+  shoe_toe, shoe_toe_art, shoe_aesthetic   toe shapes (bare / with a, an) and silhouette notes   ~55 / ~40
+  shoe_detail_t1..t6, shoe_technique_t1..t6   decorative details and how they are made    ~180 / ~12 each
+  shoe_construction_t1..t6  construction methods per tier                                 ~20 each
+  shoe_heel_<high|mid|stack|cuban|wedge|platform>, shoe_heelmat_t1..t6   heels and heel materials
+  shoe_sole_t1..t6          complete sole phrases (including the sample's own)           ~135 each
+  shoe_closure_t1..t6       closure sentences                                            ~45 each
+  shoe_lining_t1..t6, shoe_footbed_t1..t6, shoe_finish_t3..t6 (t1/t2 are blank)   linings, footbeds, jewels/finishes
+  shoe_practical, shoe_whimsical, shoe_extras_t1..t6   practical and whimsical extras (as ready sentences in shoe_extras_*)
+  shoe_purpose, shoe_purpose_<class>      what the shoe is for                            ~175
+  shoe_audience, shoe_audience_<class>, shoe_audience_t1..t6   target audiences (adults only)   ~180
+  shoe_price_t1..t6, shoe_overlay_t1..t6   price lists and the price-overlay sentence (kept as optional components, used by no prompt)
+  shoe_photo                camera / product-photo styles (optional sentence; used in about a third of finished prompts)
+
+TUNING (edit and run  python _tools/build_all.py --only ... or just  python _tools/shoe_build.py )
+  CLASS_WEIGHT, TIER_WEIGHT, PRICE_BAND, FULL_N (lines per file) at the top of shoe_data.py / shoe_build.py; vocabulary lists in shoe_data.py and shoe_data2.py.

@@ -1,0 +1,17 @@
+Guyanonymous' Wildcards - usage notes by model type (v55)
+=========================================================
+All prompts are written as plain sentences, so they suit natural-language text-to-image models best.
+
+Natural-language models (for example the Krea 2, MOSS and similar families)
+    Use the full prompt files (..._prompt, ..._full). Long, descriptive lines work well. Keep one subject per line.
+    Put the setting and light after the subject. For groups, keep the 'First person ... Second person ...' order.
+Tag-based or short-prompt models
+    Use the _short and _brief files, or take single part files and join them with commas.
+Models with a token limit around 75 to 77
+    Use _short files. Full person prompts can run over 1,000 characters, so split them into parts.
+Models that read the first words most strongly
+    Put the main subject first (the person, animal or object), then the details.
+Negative prompts
+    The library does not write any. Add your own.
+Adults only
+    Every person file describes adults aged 18 to 120. No minor-coded styles exist in the library.

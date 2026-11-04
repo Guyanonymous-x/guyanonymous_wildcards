@@ -1,0 +1,29 @@
+CROSS-FILE AUDIT: does a file change something another file is supposed to control?
+==================================================================================
+Rule applied: a file may only control the thing it is about.  Hair colour belongs to hair_color, eye colour to eye_color, skin colour to countries_ethnic_prompts / dem_tone,
+age to the age brackets, build to the body-type layers.  _tools/neutralize.py (run by build_all.py after the merge) enforces this; it was found by scanning every file for
+colour, age, body, gender, ethnicity and hairstyle words and counting contradictions inside 300 expanded prompts.
+
+FIXED
+  Hair colour in other files   eye_brow, eye_lash (blonde / pale / dark / grey ...) now "faded", "faint" or no colour;  facial_hair (white / gray / salt-and-pepper beards) now "hair-coloured";
+                               skin_fuzz, body_chesthair, pubichair, hair_shine, hairtex_K, aging_summary (silver-white hair ...) are colour-free.
+                               Result: prompts with two different hair colours went from 8 % to 0 % of a 300-prompt sample.
+  Skin colour in other files   head_cheek, head_temple, lip_fullness / lip_cupid / lip_corners, eye_lid, hand_knuckl, hand_nails, nose_philtr, musc_veins, mark_scars, skin_scars,
+                               heightweightdeform10000, weights_all, heights_all: "pale", "rosy", "sallow", "red", "dark", "blue veins" ... became relative ("darker than the surrounding skin",
+                               "lighter than the surrounding skin", "drained", "a warm flush").  Earlier: skin_flush, skin_glow, skin_marks, skin_finish.
+  Eye colour in other files    coloured cosmetic contact lenses in the eyewear files (emerald, ice-blue, violet ...) and the Waardenburg line in health_conditions no longer name a colour.
+  Age words in wrong ages      ageing words (aging, aged, sagging, wrinkled, elderly, age spots) removed from brackets under 45 and from the young body-type layers;  "youthful" removed from 55+ and
+                               the old body-type layers; files used for every age (ear_lobe, ear_shape, head_brow, neck_*, ...) have no ageing words.  Lines are replaced by another line of the same file.
+                               Young prompts with an ageing word: 6 % -> 2 % (what remains is legitimate: "no visible signs of aging", "sun-aged", a vintage photo style).
+  Gender / ethnicity wording   head_jaw "masculine jawline" -> "strong";  nose_bridge "european" -> "defined".
+
+LEFT ALONE ON PURPOSE (they are their own object, not part of the person's base colouring)
+  clothing, shoes, props, settings, jewellery, glasses frames, tattoo ink, makeup, nail polish, lighting and grading colours;  eye whites and gum colours (anatomy that does not follow skin tone);
+  explicit anatomy files (body_nipples, body_genitals ...) which are referenced by no default prompt;  medical conditions that define a colour (albinism, port-wine birthmark);
+  the colours inside countries_ethnic_prompts and dem_* (these ARE the controlling files).
+
+STILL WORTH KNOWING
+  * The "anchored" identity templates take hair colour, eye colour and facial features from countries_ethnic_prompts (e.g. "straight brown hair", "thin lips").  Do not add hair_color / eye_color to those
+    templates, and expect lip, nose and eyebrow files to add detail on top of what the ethnic line says.
+  * Body-part files are written for the age and build they are filed under; a feature file that mentions a build ("thin", "plump", "slender") can add to the build chosen in the body-type layer.
+  * Run  python _tools/neutralize.py  on its own at any time; it is safe to repeat.

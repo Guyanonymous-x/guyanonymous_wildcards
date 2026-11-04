@@ -1,0 +1,17 @@
+Guyanonymous' Wildcards - quick start (v55)
+============================================
+1. Put the wildcard folder where your front end reads wildcards (for example the wildcards folder of your image tool). Use the main zip for the full weighted library, or the All Options Once zip when you want every option listed once.
+2. Write __file_name__ in a prompt. The tool replaces it with one random line from that file. Files can refer to other files, so one reference can build a whole description.
+3. Start with a ready-made prompt file.
+     People       __any_person_age35_44_w_clothes__         a whole adult (age bands 18_24, 25_34, 35_44 and so on up to 95 and over)
+     Groups       __group_prompt__                          several people with a relationship between them
+     Outfit       __occasion_wedding_guest_outfit_prompt__  a whole outfit by occasion
+     Place        __setting_prompt__ or __room_living_room_prompt_brief__
+     Animal       __animal_prompt__ , __animal_dogs_prompt__ , __animal_aquatic_salt_prompt__
+     Object       __obj_kitchen_prompt__ , __tool_prompt__ , __veh_prompt__ , __arch_prompt__
+     Food         __food_prompt__ , __food_dish_prompt__ , __table_setting_prompt__
+4. Build your own line from parts. Example
+     __any_person_age45_54_w_clothes__ __pose_prompt__ __setting_prompt__ __food_drink_prompt__
+5. Keep only the parts you want. Every prompt is made of part files (for example veh_car_body, veh_car_finish), so use a part on its own to fix one detail and let the rest stay random.
+6. Add your own style or LoRA tags outside these files. The library never writes them.
+7. If your tool shows a missing-file warning, check the file name against INDEX_v55.txt. Names are lower case with underscores.

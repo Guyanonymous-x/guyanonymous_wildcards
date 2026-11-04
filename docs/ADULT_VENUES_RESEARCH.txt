@@ -1,0 +1,26 @@
+ADULT VENUE RESEARCH, ROUND 1 (2026-11-03), for the v81 adult update. Sources: Wikipedia "Sex club" and "Naturism" pages (fetched), plus search results (list pages for swinger retreats, bathhouses, BDSM venues in Europe). User's own guide: docs/ADULT_VENUES_SOURCE.csv (28 types). All settings are described physically; adult people only; no depiction of acts. Items marked (TO RESEARCH) come from general knowledge and need a research round before they are built.
+
+LIFESTYLE AND CLUB VENUES (beyond the CSV)
+- On-premises swinger club: a dozen or more themed rooms with matching furniture (tropical oasis, Arabian Nights, caves, mirrored rooms), rooms with windows so people can be watched, plus a bar and dance floor like an ordinary nightclub; most North American clubs do not serve alcohol.
+- Off-premises swinger club or social: a mingling and dancing space with no private rooms; resembles a nightclub (bar, dance floor).
+- Private or invitation-only sex clubs and parties: permanent upscale venues, home parties, or rented facilities.
+- Hotels and leisure clubs adapted for the lifestyle; lifestyle resorts and retreats (food and drink plus accommodation).
+- Socials and meet-and-greets in a residence or rented space.
+- Bathhouses (TO RESEARCH layout: steam rooms, saunas, lockers, private cubicles, pools).
+- Women's clubs and niche clubs; selective parties.
+- BDSM and fetish clubs, public dungeons, play parties, fetish balls (TO RESEARCH layout: equipment stations, bars, lounge areas, dance floor).
+- Playrooms and dungeon-style rooms in private homes and hotels (TO RESEARCH).
+
+NAKED AND CLOTHING-OPTIONAL SETTINGS (from Naturism)
+- Beaches: a separated nude section of a long public beach (e.g. a 3 km beach with the southern half nude), official nude beaches, unofficial remote ends of beaches and hidden coves (Greek islands, Menorca), free beaches that are nude by custom, small isolated beaches apart from the resorts.
+- Public parks with naturist sunbathing lawns; river banks and former gravel-pit lakes; lake shores with naturist camping.
+- Naturist villages and holiday centres: apartments, chalets, camping pitches, pools, sports pitches, entertainment, restaurants and supermarkets; larger sites on 70 to 100 hectares of coastline.
+- Adult-only naturist resorts (smaller room counts, two pools); naturist club sites; naturist campgrounds with RV pads and tent sites.
+- Naturist swimming pools; non-textile sauna programmes at public spas; Finnish saunas; Japanese onsen; spa days run as temporary naturist days.
+- Events: festivals with communal nudity and body painting, naturist weekends, oil wrestling (TO RESEARCH), nude sports matches.
+- Also to add: spas, saunas, steam rooms, hammams, Russian banyas, Korean jjimjilbangs, German FKK saunas (TO RESEARCH), gyms and fitness clubs, locker rooms, showers and changing rooms, sunbathing terraces, yoga studios, boats and cruises, hiking trails.
+
+OTHER ADULT-ORIENTED SETTINGS (TO RESEARCH)
+- Pole dance and aerial studios, life-drawing classes and art studios, boudoir and photography studios, lingerie boutiques, adult shops, erotic art galleries, adult film and photo production sets, revue and cabaret theatres, leather bars and drag venues, peep-show booths and adult arcades, adult-themed hotel suites and private hot tubs, bachelor and bachelorette party venues, massage and wellness parlours.
+
+LAYOUT FIELDS TO CAPTURE FOR EACH VENUE: exterior and entrance, signage, zones, rooms and furniture, lighting, decor and materials, props, staff and patron outfits, occupancy, contrast with the all-ages version.

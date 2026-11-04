@@ -1,0 +1,25 @@
+wildcards cleanup - changes made
+
+1. dem_age.txt: removed all 30 lines under 18 (16 and 17 years old). Everything from 18 to 120 is untouched.
+2. dem_ageb.txt: deleted (it only contained ages 0.1-16). No other file referenced it.
+3. countries_ethnic_prompts.txt: removed the 390 boy/girl wording and all gender and age nouns
+   (woman / young woman / elderly woman / middle-aged woman). Lines are now "<Demonym> <Group> with <features>".
+   No lines were deleted or de-duplicated, so each group's share within a country (the line counts) is unchanged.
+   The former child lines are kept as ordinary group/phenotype lines because their feature text was adult-neutral.
+   Gender and age now come only from the template and dem_age.
+4. clothing_full_female.txt: removed 22 lines (12 distinct) that described a character directly as a teenager,
+   a girl, or a high school student/delinquent. School-uniform / schoolgirl costume lines with no stated age were left alone.
+5. Untouched by request: height.txt, weightkg.txt, heights_all.txt, weights_all.txt, heightweightdeform10000.txt,
+   settings10000.txt (background scene content), and all other files.
+
+6. (later build) clothing_full_female.txt: 66 broken references repointed to new outfit_* files; 5 legacy pointer lines removed.
+7. (later build) WOMANprompt.txt: __clth_wear__ -> __clothing_pool__.
+8. (later build) health_conditions.txt: 2 'she she has' typos fixed.
+9. (hair build) clothing_full_female.txt: the 5 pointer lines are restored in place and corrected (outfit_cosplay / sexy_mixed / uniform_mixed / formal_mixed / casual_mixed).
+10. (hair build) hair_style.txt rebuilt (2,500 lines, 28 originals kept); hair layer added.
+11. (clothing build) The 12 outfit_* files were repopulated from vocabulary mined from clothing_full_female.txt (the originals were not in the uploaded zips).
+12. (clothing build) outfit_cosplay expanded from 32 to 630 distinct costumes; outfit_*_mixed rebuilt.
+13. (clothing build) Age/body conditioned clothing layer and random clothing mix added.
+14. (clothing build) Python tools moved into <wildcards>/_tools with relative paths; build_all.py added; hair_style removed from the weights script (now built by the hair step).
+15. (men build) Female files renamed with an f_ prefix, male files with m_, neutral files shared; neutral base names introduced (names, clothing_full, clothing_everyday, poses_extended ...).
+16. (men build) Two-gender pipeline: build_all.py builds each gender in a workspace and merges them; the female output is content-identical to the previous library (verified).

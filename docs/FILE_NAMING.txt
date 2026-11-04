@@ -1,0 +1,25 @@
+FILE NAMING - women and men in one flat folder
+
+  f_<name>   female      m_<name>   male      <name>   shared (the same file serves both)
+
+HOW THE PREFIXES WERE DECIDED
+  Every layer is built twice (a female and a male workspace). When the two results are byte-identical AND the file only refers to files that are themselves shared, it is kept once
+  with its plain name; otherwise it becomes f_<name> and m_<name>, and each file's __references__ are rewritten to point at its own gender's version.
+  Examples:  eye_color, skin_wrinkle, countries, env_*, lite_*, cam_*, pose_*, outfit_color / outfit_material / outfit_pattern, hair_curl_S/W/C/K,
+             countries_ethnic_prompts_S/W/C/K, prompt_camera_light              -> shared
+             f_prompt_master_by_age / m_prompt_master_by_age, f_names / m_names, f_body_build / m_body_build, f_age18_24_hair_line / m_age18_24_hair_line,
+             f_outfit_dress_style (women only), m_outfit_suit_style (men only), m_facial_hair (men only), f_make_base (women only)   -> gendered
+  Because a shared file is only kept when it is identical, a gendered file never silently serves the wrong gender.
+
+WOMEN-ONLY FILES                                   MEN-ONLY FILES
+  f_make_base/eyes/lips/blush/hlite (makeup)         m_grooming (replaces makeup in male prompts)
+  f_hair_baby                                         m_facial_hair + m_age<lo>_<hi>_facial_hair (age-conditioned)
+  f_body_breasts / f_body_labia / f_body_labia2       m_body_pecs / m_body_genitals / m_body_chesthair
+  f_body_vulva / f_body_clitoris                      (no counterpart: they hold your own LoRA tags)
+  f_WOMANprompt / f_character_female_basic           m_MANprompt / m_character_male_basic
+  f_outfit_dress_style / sexy_* / lingerie           m_outfit_suit_style / outerwear / swim_underwear / swim_mixed
+
+BOTH GENDERS, DIFFERENT CONTENT (the original base name is now f_/m_):
+  names, clothing_full, clothing_everyday, poses_extended (was poses_female), body_build, body_height, body_ratio, musc_hips, musc_legs, body_buttocks (was body_ass_female),
+  body_nipples, pubichair (was femalepubichair), acc_jewelry, acc_straps, health_conditions, extrasinphoto, heightweightdeform10000, weights_all, heights_all, height, weightkg,
+  eye_lash, style_photographers_portrait, hair_style, all prompt_* templates, and every age*/bt_*/hair*/clothing*/outfit* file derived from them.

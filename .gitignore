@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.bak
+wildcards/_tools/backup_*/
+wildcards/_tools/audit/
+wildcards/_tools/work/
+all_options_once/
+*.zip

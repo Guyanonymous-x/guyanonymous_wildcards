@@ -1,0 +1,43 @@
+HOW TO RUN THE PYTHON TOOLS
+===========================
+You do NOT need to type any extra arguments. Just run the script with Python.
+You only need this if you want to REBUILD the generated wildcard files (after editing a weight table, vocabulary list or template). Using the wildcards as they are needs no Python.
+
+ONE-TIME SETUP
+  Install Python 3.8 or newer from python.org (Windows: tick "Add python.exe to PATH"). No extra packages are needed.
+
+WHERE THEY LIVE
+  The tools are in the folder  _tools  INSIDE the wildcards folder and work on the wildcards folder that contains them. Nothing is hard-coded to a drive or path.
+  (Your image tool only reads .txt files, so _tools is ignored by it.)
+
+REBUILD EVERYTHING (women AND men)
+  1. Open a terminal / command prompt IN the wildcards folder (Windows: open the folder in Explorer, click the address bar, type  cmd , press Enter).
+  2. Run:     Windows:  py _tools\build_all.py        Mac / Linux:  python3 _tools/build_all.py
+  It takes about 1-2 minutes. Each gender is built in its own workspace (_tools/work/f and _tools/work/m, safe to delete), then the two are merged into the wildcards
+  folder: files identical for both genders stay shared, all others become f_ / m_ files. It ends by checking that every __reference__ resolves.
+  BACK UP FIRST: a rebuild rewrites every generated file (everything except the SOURCE files listed in _tools/data/sources_manifest.json).
+
+OPTIONS (all optional)
+  python _tools/build_all.py --list                 show the steps
+  python _tools/build_all.py --only age,body        just those steps   (weights, everyday, objects, templates, outfits, age, eyewear, body, access, hair, clothing)
+  python _tools/build_all.py --from hair            that step and every step after it
+  python _tools/build_all.py --gender m             rebuild only men (then merge with women's last build; a full build must have been run once so the workspaces exist)
+  python _tools/build_all.py D:\path\to\wildcards   if the tools are not inside the wildcards folder
+  Steps run in the listed order because later ones use earlier output (edit age_model.py -> run --from age).
+
+TEST WHAT A PROMPT LOOKS LIKE
+  python _tools/expand.py m_prompt_master_by_age          3 sample prompts
+  python _tools/expand.py f_prompt_master_by_age 5 42     5 prompts, seed 42
+  python _tools/expand.py --check                         check that every __reference__ points to a real file
+
+WHAT TO EDIT FOR WHAT
+  likelihood weights (eye/hair colour, tattoos...; MEN's build/height tables)    _tools/pilot_body.py
+  women's / men's clothing vocabulary    women: _tools/data/outfit_vocab.json      men: _tools/male_outfits.py        (then: --only outfits)
+  cosplay                                women: cosplay_data_a/b/c.py              men: cosplay_data_m1/m2/m3.py      (then: --only outfits)
+  conditioned clothing catalogues        women: _tools/clothing_build.py           men: _tools/clothing_cat_m.py      (then: --only clothing)
+  age curves, male baldness/beard graying    _tools/age_model.py   (then: --from age)       body types and shares   _tools/body_model.py   (then: --from body)
+  hair types, hairstyle catalogues (women + men)   _tools/hair_model.py   (then: --from hair)
+  prompt wording     women: _tools/data/src_templates/*.tpl      men: _tools/data/src_templates_m/*.tpl      (then: --from templates)
+  male SOURCE files (body descriptors, anatomy, names, facial hair ...)   _tools/author_male_sources.py  (re-authors m_ source files; run it only if you want to regenerate them:
+        python _tools/author_male_sources.py <folder with canonical female sources> <output folder>)
+  audit tables showing every option's weight   _tools/audit/*_f.csv and *_m.csv

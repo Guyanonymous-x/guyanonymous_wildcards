@@ -1,0 +1,107 @@
+MOSS-Image notes (Guyanonymous' Wildcards project)
+Sources: user handover; github.com/OpenMOSS/MOSS-Image README and USERGUIDE.md; comfyui-wiki.com/en/models/moss-image; arXiv 2610.23374 abstract page (full PDF could not be fetched, rate limited).
+
+MODEL
+- MOSS-Image, MOSI.AI / OpenMOSS. Technical report arXiv 2610.23374, submitted 16 Oct 2026, 35 pages, CC BY 4.0.
+- 5B single-stream diffusion transformer pretrained from scratch; FLUX.2 latent space (flux2-vae); text encoder Qwen3.5-9B (a full LLM).
+- Prompts up to about 4,000 tokens. Natural language, booru-style tags, or layout JSON (bounding boxes with per-box captions and a text field); natural language can be combined with structure.
+- Variants Base (fine-tuning/LoRA) and SFT (generation). Runs in ComfyUI 0.42.0+.
+- Report also describes an agentic prompt-enhancement module that expands user requests into detailed content and layout specs.
+- Strengths claimed: bilingual (English/Chinese) long-form text rendering, layout control. LongLongTextBench 96.3% average text coverage (best open-weight). RealLayoutArena 2nd end-to-end.
+
+GUIDANCE FROM USERGUIDE / README
+- Guidance scale 3.0 is generally sufficient for long prompts; raise for short prompts. Example uses 50 steps, guidance 3.0.
+- English recommended (most training data); other languages supported.
+- Text to render: examples put the text in quotation marks, but no rule requires quotes. Use \n or real line breaks to control line breaks. Layout JSON uses a text field.
+- Recommended negative tags: nsfw, worst quality, bad anatomy, watermark, jpeg artifact. Negative prompt empty by default in the Python API.
+- Tag order if using tags: Quality, Score, Meta, Year, Character, Series, Artist, General.
+- Layout JSON (experimental): summary {meta, canvas, caption} plus items [{label, caption, text, bbox}]; bbox_format yxyx; abs_centralized coordinates relative to canvas centre.
+- No documented guidance on avoiding unwanted text.
+
+OBSERVATIONS FROM OUR OWN TESTS (single seeds, not conclusive)
+- Words like banner and birthday near decorations or cakes make the model draw lettering, including garbled text; negations such as no readable lettering did not help. Use positive wording (blank plain flags) and avoid the trigger words.
+- Outfit and action bind to the right person well with ordinal and position anchors. Identity details (gender, age, skin tone) drift more, especially when the outfit carries gender cues. Neutral outfits plus an identity tag in the outfit sentence appeared to help.
+- Exact people count held at 8 in most runs after adding an explicit count line; one SFT run at CFG 4 gave 9.
+- CFG 3.25 to 4 changes only small details; CFG 4 introduced an attribute bleed once.
+- Variation seed strength 0.55 with a random variation seed makes runs non-comparable.
+- 1536x1536 took about 4 min 20 s per 50-step image; 1024x1024 about 1 min 35 s to 1 min 50 s on an RTX 5060 Ti 16GB.
+
+USERGUIDE.md DIGEST (MOSS-Image-Base user guide, read 2026-11-03)
+- Formats: natural language, tag sequences, JSON layouts, mixable. English recommended. No stated length limit; no guidance on multi-person prompts, counting, attribute binding or quoting rules.
+- Inference settings: resolution 1M, 1.5M or 2M total pixels (extrapolates from 0.25M to 4M); arbitrary aspect ratio in multiples of 16; steps >= 50; CFG default 3.0 with range 3.0 to 6.0 (3.0 enough for long prompts, raise for short ones); shift 5.0; Euler recommended.
+- Skip Layer Guidance: standard SLG scale 3, range 0.01 to 1.0; two-pass SLG uses uncond skip with layer 22 (0-indexed); layers 22, 24, 26 can all help. Turning SLG off gives very realistic output but some details may collapse.
+- Negative prompt: nsfw, worst quality, bad anatomy, watermark, jpeg artifact (examples use shorter sets or none).
+- Text rendering: examples quote the text; use \n or real line breaks to control line breaks; results may not match exactly.
+- Base model has no post-training or CFG distillation; keep the text encoder frozen when training LoRAs.
+- Layout JSON is experimental: summary {meta, canvas, caption}, items {label, caption, text, bbox}; bbox_format yxyx; abs_centralized pixel coordinates with the canvas centre as origin.
+- Practical: 1024x1024 is 1.05M pixels; 1408x1408 is 1.98M (inside the recommended 2M); 1536x1536 is 2.36M (slightly beyond).
+
+TECHNICAL REPORT DIGEST (arXiv 2610.23374v1, PDF read 2026-11-03)
+- Data: about 3.2B images kept of 5.5B (dedup and AI-image removal only, no quality filtering). "Annotate rather than filter": watermarks, blur, compression artefacts are described in the captions instead of removing images (examples: "with a watermark at the bottom left", "The image quality is blurry and pixelated").
+- Captions generated with gemma4 at three granularities: short (mean 21 tokens), medium (mean 77), long (mean 235, P90 293, longest sampled 3,126). Long = detailed account of composition, subjects, actions, environment, style, visible text. Sampling 20% original / 80% recaptions, short/medium/long 1:1:1. Predominantly English captions. Visible text transcribed verbatim with line breaks, quoted in captions.
+- Structured layout JSON annotations on a high-quality subset; field dropout during training. Text-token cap 4096 in stages 3 and 4 (this budget includes layout JSON). Stage 3 area <= 1024^2, stage 4 up to about 2x1024^2; sizes multiples of 16.
+- Conditions are concatenated and passed through the Qwen chat template, Qwen3.5-9B encoder.
+- CFG sweep for FD metrics: best at CFG 3 for both runs.
+- Evaluation: prompt strategies (design requests): short request 1082 Elo, natural 1506, detailed 1509, direct expansion 1541, JSON layout 1623 (best). Explicit content and layout instructions beat short prompts. Prompt enhancer is an external LLM agent (GPT-6 planner).
+- Line breaks inside text help rendering; zero-centred absolute bbox coordinates generalise better across resolutions.
+- Limitations stated: no reference-image conditioning or editing; prompt enhancer depends on external LLMs. Nothing said about multi-person scenes, counting or attribute binding.
+- Implications for our prompts: (1) natural-language prompts of 2,700 to 3,500 tokens are far longer than the captions the model mostly saw (long captions about 150 to 300 tokens); the 4096 cap exists mainly for layout JSON. (2) Our opener names blur, haze, noise and compression artefacts, which are exactly the things the training captions annotate, so naming them (even negated) may invite them; prefer positive wording. (3) Layout JSON with one box and caption per person matches the training format and scored best in the paper's prompt-strategy test.
+
+--- 2026-11-03 v6 results (8-person party, CFG 3.75, 1408x1408, fixed variation seed 3268593970) ---
+Short natural prompt at 50/60/80 steps: images nearly identical; 80 steps took 4m41s vs 2m58s at 50, no visible gain -> use 50.
+Short prompt: 8 people, poses/outfits bound to positions, blank hat and bunting worked, persons 1 and 7 feet visible. Misses: skin tone drift (persons 5, 6 darker, 4 lighter), facial hair wrong (persons 7, 8, 1), person 4 feet hidden.
+Layout JSON at 50 steps: tighter, lower camera; standing people cropped at knees/thighs; boxes not followed; worse for whole-body group scenes.
+Forge: variation seed lives in the Extra checkbox next to Seed; set strength 0 and resize-from 0x0 for repeatable comparisons.
+
+v8 (2026-11-03) skin tone is not stable between scenes: person 8 (76 year old Libyan man, "very deep brown skin") is very dark in scene 1 (evening, t-shirt) and clearly lighter, medium brown, in scene 2 (late night, charcoal sweater, scowling) with the same words, same seed 7801, all of versions A, B and D. Scene 2 differs in lighting words (dim lamplight, dark window glass), mood words ("flushed" applied to the others) and clothing, so any of these may pull the tone. Same drift seen earlier on persons 3, 4, 5 and 6. Ideas to test: state the tone twice (in the identity and again as "his very deep brown skin" in the clothing or pose clause), use a stronger comparison ("deep dark brown skin, nearly black-brown"), keep lighting wording the same across scenes, and avoid "flushed" near anyone who must stay dark.
+
+--- 2026-11-03 prompting guidance supplied by the user (source: a chat answer, NOT from the model card or paper; treat as working advice until tested) ---
+1. No weights. Do not scale a tag with numbers or brackets ((happy:1.3)). Scale the vocabulary instead: standard = "a woman smiling pleasantly at the camera"; strong = "a bright, cheerful grin, laughing"; extreme = "an ecstatic woman, eyes closed in pure joy, cheering excitedly". Intensity is carried by the physical description (mouth, eyes, posture, action), not by a number.
+2. Emphasis through detail. To make an object or trait dominant, describe its appearance, placement and lighting in more detail ("a highly prominent, bright red leather collar with a small gold bell") instead of repeating it or bracketing it.
+3. Tag prompts (stylised or anime only): sequential commas, quality first then subject then details, no parentheses. UNVERIFIED: the "official tag sequence" and tags like score_9 look like a Pony-style convention; our model notes say only that natural language, booru tags or layout JSON are all accepted. Not used by this library.
+Fit with our own findings: (a) our images already show the point, since physical descriptions were followed (scowling with arms folded, brow furrowed and jaw set; open-mouthed grin with glassy half-closed eyes) while bare names failed (soul patch, balbo beard, clean-shaven); (b) emphasis through detail is the same rule as our describe-the-object rule and is the fix path for facial hair and skin tone (items 52 and 53); (c) the library already has no weight syntax (0 files) and no LoRA tags.
+
+--- 2026-11-03 v8 confirm batch, all 12 images (2 scenes x versions A/B/D x seeds 7801/7802; 1408, CFG 3.75, 50 steps) ---
+Versions: A = one sentence per person; B = old library format ("First person." blocks with He/She/They sentences); D = anchored chained clauses (what the v71 anchor pass produces).
+Count: eight people in 11 of 12. One miss: B, scene 2, seed 7802 shows 7 (the 85 year old is missing). A 4/4, B 3/4, D 4/4.
+Waistcoat tie (not asked for): A added it 2/2 in scene 1, D 2/2, B 0/2 (none, then a loose cravat). B is best here.
+Facial hair: soul patch became a goatee in 12/12; "clean-shaven" and "shaved chin" gave white stubble or beard on person 8 in 12/12 and on person 7 in most. Wording style does not matter, content wording does (item 52).
+Skin tone: person 8 ("very deep brown") is very dark in all six scene 1 images and clearly lighter in five of six scene 2 images, so scene lighting or mood words pull it (item 53). Person 4 (golden brown) too pale in most images.
+Scene 2 detail: candles lit in 6/6 despite "burned-down candle stubs"; scowl, folded arms, mug of tea, bare feet, loose headscarf and cake crumbs worked; the one person waving an arm while another raises a glass was swapped or lost in 4 of 6 (right only in A 7802, D 7801).
+Framing: far-left or far-right person cropped at the frame edge in 3 of 12 (D twice, A once).
+Conclusion: seed and content wording move results more than sentence structure. D (anchored) is not worse than the old format on count; B is better on the tie only. No version wins clearly.
+
+--- 2026-11-03 user observation: framing statements are weak on every model ---
+User reports that SD, SDXL, FLUX, Krea2 and Moss all cut people off and ignore statements such as "all in frame", "full body", "head to toe". Our own 12 images agree: "every person shown fully from head to toe" was in every prompt and feet were hidden or cropped in most images, and edge cropping at far left or far right happened in 3 of 12. Conclusion: do not rely on a framing instruction, build framing into the scene itself. Ideas to test (all keep the square 1:1 frame): (1) geometry in the scene, not a command ("a wide band of empty carpet in front of everyone's feet", "empty wall and ceiling above every head", "a clear gap of floor between the group and each side wall"); (2) place people so nobody overlaps legs, seat people on the floor or sofa, and keep standing people at the back with open floor in front of them; (3) fewer people per image (check the peoplecount results for where cropping starts); (4) a longer camera distance stated as distance ("taken from about five metres away") instead of lens words; (5) a first sentence about the empty space, since early words weigh more; (6) a taller subject count rule: at most two standing people.
+User also reports percentage placement phrases ("feet in the bottom 15 percent of the image") help only sometimes. Include as one variant in the framing test next to the boilerplate, the geometry wording and the distance wording. Other routes outside wildcard text: render taller or wider and crop to square afterwards, outpaint, or a pose or layout control; layout JSON boxes were ignored for whole-body groups in our v6 test.
+Idea (user, 2026-11-03, not yet tested): edge cropping may depend on how the model handles frame ratios. All tests so far are square 1:1. Test at about 1 megapixel with only the ratio changed: 1024x1024, 1184x896 (4:3), 1248x832 (3:2), 1360x768 (16:9); 8-person and 4-person short prompts, two seeds (16 lines). Square 1:1 stays the standing rule, so this would be a deliberate exception; if wide frames help, render wide and crop to square.
+
+--- 2026-11-03 peoplecount v4, seed 7901, 2/4/8 people x short/medium/long (9 images) ---
+Count correct in 9 of 9. Tie fix ("open-collared white shirt under a smart waistcoat") worked 3 of 3 at 8 people. Flower pin stayed on the 85 year old 3 of 3. Facial hair still wrong in all nine (soul patch becomes a fuller beard, the 76 year old keeps white stubble). The 85 year old's shoes hidden in all three 8-person images. No side-edge cropping at 8 people.
+CORRECTION (user): in the 2-person images the woman on the sofa is not cut by the frame edge. A foreground cushion and the sofa arm block part of her. This is furniture occlusion, a different problem from frame cropping. Fix idea: keep cushions and sofa arms behind or beside the sitter, say nothing sits in front of her, or seat her where no furniture is between her and the camera. The 4-person far-right man does look cut by the right edge (shoulder and elbow), held loosely until rechecked.
+Idea (user): make occlusion control an optional modifier family (foreground clear, deliberate foreground object, person in front of person, person behind furniture, no overlap, layered depth near/mid/far) instead of one fixed sentence. Logged as backlog item 56. Seed 7902 2-person images also show the floor cushion in front of the woman (medium and long), and the line "a short scar on the forearm" (same words in the medium and long tiers) renders as a scar, with very different looks. 2-person medium 7902: a pale, raised, stretched scar, which looks right. 2-person long 7902: a deep recessed scar filled with shadow, which looks poor (user read). My first note called these tattoos, which was wrong. The 8-person medium 7901 forearm mark is unchecked. Fix idea (describe-the-object rule): give the scar a specific look, for example "a thin, pale, slightly raised scar about four centimetres long on the inside of the forearm".
+
+--- 2026-11-03 peoplecount v4 seed 7902 and CFG test (12 images) ---
+Peoplecount v4 total 18 images: count correct in all 2- and 4-person images; 8 people right in 4 of 6. Misses (seed 7902 8-person): short 8 right; medium 7 (far-left 40 year old missing); long 7 (18 year old merged into the 77 year old). Headscarf woman (medium golden-tan skin) too dark in short and medium, closest in long. 18 year old too fair in short and medium. Foreground furniture and cushions occlude more than frame edges crop.
+CFG test (3.0, 3.75, 5.0, 6.0 on short and long, 8 people, seeds 7901 and 7902): count right 9 of 12. All three misses are seed 7902 long with the same 77 and 18 year old merge, also present at 3.75, so CFG is not the cause. Short prompts: 3.0, 5.0 and 6.0 look alike, higher CFG adds saturation and clutter. Long prompts are best at 3.0; at 5.0 and 6.0 people get larger, the woman in red looks 65 to 70 plus, the 85 year old gains a white beard, forearm marks and a gold hat appear. Keep CFG 3.0 to 3.75. Soul patch became a fuller beard 9 of 9 and the 76 year old kept stubble 9 of 9 in the first nine.
+Merge fix ideas (untested): change the order of the people, or give the two neighbours stronger distinguishing features (different seating, different height, different clothing colour).
+
+--- 2026-11-03 facial hair test, 10 images (4 people, seeds 7951 and 7952, CFG 3.75, 1024) ---
+Variants: 1 names only; 2 bare skin ("smooth bare skin on the chin, cheeks and upper lip"); 3 positive ("a tiny tuft of dark hair directly under the lower lip, about the size of a thumbprint, with a smooth, shiny, hairless face everywhere else" and "smooth, shiny, hairless chin, cheeks and upper lip, like freshly shaved skin"); 4 name plus description ("a soul patch, which is a thumb-sized tuft..."); 5 positive moved to the front of each person sentence.
+Standing man (soul patch): names only gives goatee or short beard; bare skin gives short beard; name plus description gives a thin beard; positive (variant 3) gave a small tuft with smooth cheeks on both seeds; variant 5 gave a tuft plus a thin moustache on seed 7952 and a tuft on seed 7951. Use the positive tuft description, not the name.
+85 year old shaved man: smooth in nearly all (trace of stubble only with names only and bare skin on seed 7951). Positive wording is safe.
+77 year old full white beard: full white beard in every image whatever the wording.
+76 year old clean-shaven: white beard or stubble in all 10 images, so shaving words do not remove it. Hypothesis: his own descriptors (thin aged skin, ash grey hair, hunched, very elderly, deep dark skin) pull the beard. Next test: change those words only.
+Position of the wording (front or middle of the sentence) made no clear difference.
+Staging misses: the 85 year old sat on the sofa in nearly all images although the prompt says a low floor cushion; the 76 year old wore the cone hat on his head in every image although the prompt says holding it; one image had two cone hats.
+Knife and glass held in hand change appearance from image to image (user, 2026-11-03). Fix idea: describe held objects physically (blade length and shape, handle colour and material) in a fixed held-props family. Proposed as backlog item 57, not yet confirmed by the user.
+
+--- 2026-11-03 library changes made from these tests (v72) ---
+Facial hair pools rewritten as physical descriptions and templates changed to "His/Their lower face has ..." (docs/README_v72.txt). Scar lines rewritten with colour, relief and length. Not yet rendered: the new library lines have not been tested in images; a first check is a scene built from the new pool lines.
+
+--- 2026-11-03 rules from the owner and from building the showcase file ---
+TEXT IN IMAGES (owner): any text that should appear in a Moss image must be inside quotation marks in the prompt (for example the words "THIS WAY"). Text outside quotation marks is read as description. The library sign files already use quotation marks. In a batch-flags file the inner quotes are written \" so the line still parses.
+BATCH-FLAGS FORMAT: one line per image, --prompt "TEXT" --steps 50 --cfg_scale X --seed N --width W --height H. Checked with shlex that all lines split into the prompt plus four settings. Files made earlier today without --prompt (the 16-person market file) were corrected.
+SIZES at about 2 megapixels, multiples of 16: 1:1 1408x1408, 4:3 1632x1216, 3:2 1728x1152, 16:9 1856x1056, 2:1 1984x992, 5:4 1568x1264 and the portrait versions. Moss takes arbitrary ratios in multiples of 16 from 1 to 2 megapixels.
+
+SHOWCASE GRIDS (user note 2026-11-03): when generating showcase prompts, a grid of up to 3x3 (nine small views or variants in one image) is acceptable for some objects (for example accessories, shoes, hats, tools, food). Use it where showing the variety of an object matters more than one big picture; describe the grid physically (three rows of three, each cell a separate item on a plain background, evenly spaced) and keep text-in-quotes for any labels.

@@ -1,0 +1,53 @@
+Guyanonymous' Wildcards v66 - full index
+==================================================
+19397 files in 12 family groups. Prompt files end in _prompt; the files named in each version's entry list are the best starting points.
+
+ACCESSORIES  (3574 files, 96 prompt files)
+  main prefixes: acc (3490), chastity (84)
+
+ANIMALS  (184 files, 43 prompt files)
+  main prefixes: animal (184)
+
+BODY  (633 files, 3 prompt files)
+  main prefixes: bt (324), wx (148), skin (84), body (46), hair (16), tattoo (15)
+
+CLOTHING  (3338 files, 232 prompt files)
+  main prefixes: clothing (2847), occasion (365), costume (68), badtaste (57), onesie (1)
+
+FOOD_TABLEWARE  (80 files, 20 prompt files)
+  main prefixes: ware (42), food (34), table (3), meal (1)
+
+GROUPS  (91 files, 1 prompt files)
+  main prefixes: group (46), grp (45)
+
+NATURE_BUILDINGS_VEHICLES  (155 files, 26 prompt files)
+  main prefixes: veh (61), arch (48), plant (44), machinery (1), nature (1)
+
+OBJECTS  (1008 files, 57 prompt files)
+  main prefixes: tool (617), obj (162), gear (132), sport (97)
+
+OTHER  (3056 files, 837 prompt files)
+  main prefixes: job (618), act (420), cond (384), culture (342), city (202), land (186), wear (151), ani2 (102), ani (100), condition (83), frame (50), seat (32)
+
+PEOPLE  (4952 files, 0 prompt files)
+  main prefixes: f (1466), m (1457), any (1246), demo (134), age18 (69), age25 (69), age35 (69), age45 (69), age55 (69), age65 (69), age75 (69), age85 (69)
+
+PLACES  (2006 files, 428 prompt files)
+  main prefixes: world (899), furn (878), home (98), room (79), comp (35), setting (12), env (5)
+
+POSE_CAMERA_STYLE  (320 files, 1 prompt files)
+  main prefixes: illustration (217), photostyle (53), pose (21), art (20), lite (5), cam (4)
+
+ENTRY POINTS BY VERSION (v54-v66)
+  v54: animal_prompt, animal_insect_prompt, animal_aquatic_salt_prompt, animal_aquatic_fresh_prompt, plant_prompt, nature_prompt, arch_prompt, veh_prompt, machinery_prompt, animal_classes, animal_kingdom_animals, animal_class_list
+  v55: food_prompt, food_dish_prompt, food_cheese_prompt, food_fruit_prompt, food_drink_prompt, ware_prompt, table_setting_prompt, meal_prompt
+  v57: frame_prompt, frame_person_prompt, frame_person_prompt_short, frame_group_prompt, frame_face_prompt, frame_outfit_prompt, frame_animal_quad_prompt, frame_feature_grid_prompt
+  v58: wear_prompt, wear_outerwear_prompt, wear_hats_prompt, wear_bags_prompt, wear_scarves_prompt, wear_gloves_prompt, wear_belts_prompt
+  v59: job_prompt, job_person_prompt, job_frame_prompt, job_names, job_sector_health_prompt, job_sector_trades_prompt, job_sector_public_prompt, job_sector_office_prompt, job_sector_creative_prompt, job_sector_service_prompt, job_sector_spiritual_prompt
+  v60: land_prompt, land_close_prompt, land_night_prompt, land_frame_prompt, flora_prompt, land_names, flora_biomes
+  v61: ani2_prompt, ani2_young_prompt, ani2_closeup_prompt, farm_prompt, farm_person_prompt, farm_person_frame_prompt, pet_person_prompt
+  v62: medium_prompt, prod_prompt, pack_prompt, sign_prompt, condition_prompt, condition_ruined_prompt
+  v63: culture_prompt, culture_frame_prompt, culture_garment_prompt, culture_scene_prompt
+  v64: act_prompt, act_hobby_prompt, act_sport_prompt, act_music_prompt, act_frame_prompt, act_gear_prompt, act_scene_prompt
+  v65: city_prompt, city_empty_prompt, city_frame_prompt, city_person_prompt, city_person_frame_prompt
+  v66: world_prompt, world_history_prompt, world_fantasy_prompt, world_scifi_prompt, world_place_prompt, world_frame_prompt

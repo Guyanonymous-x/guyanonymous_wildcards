@@ -1,0 +1,16 @@
+Guyanonymous' Wildcards v66 - model guide
+=============================================
+Wildcard syntax: __name__ is replaced by one random line from name.txt. Files may contain further __name__ references. The folder edition uses __family/name__.
+
+Choosing an entry point
+  People       any_create_random_person_*, frame_person_prompt, culture_prompt, job_prompt, act_prompt, world_prompt
+  Places       land_prompt, city_prompt, room_*_prompt, arch_*_prompt
+  Animals      animal_prompt, ani2_prompt, farm_prompt, frame_animal_quad_prompt
+  Objects      prod_prompt, pack_prompt, sign_prompt, furn_*_prompt, wear_prompt
+  Condition    condition_<kind>_prompt, modify_<kind> (damage, wear, decay, repair, quality)
+  Art styles   medium_prompt, art_* files, style_* blocks
+
+Framing for 1:1 images: use the frame_* files (v57). Each begins with a clarity sentence, states the square ratio, and for people asks for the whole body inside the frame.
+Long prompts: natural-language models (the target of this library) follow full sentences well, so the files describe things in sentences and avoid tag lists, weights and LoRA tags.
+Conflicts: every prompt takes one value per part, so it avoids mixing two conditions or two times of day. Mixed lists (for example culture_garment) can be combined with any other file; check the result reads sensibly.
+Known limits: about 0.5% of random person prompts mix age words with build or hair words that do not fit (for example old age with youthful words). Re-roll those.

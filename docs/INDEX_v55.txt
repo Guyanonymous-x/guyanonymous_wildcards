@@ -1,0 +1,53 @@
+Guyanonymous' Wildcards - library index (v55)
+============================================================
+
+16501 wildcard files. Syntax is __file_name__ (the file's name without .txt). One option per line. No file holds { } | or LoRA tags.
+
+Whole people  (4951 files)
+    patterns   any_person*, any_create_*, age bands
+
+Clothing and accessories  (6827 files)
+    patterns   clothing_*, acc_*, occasion_*, badtaste_*, costume_*
+    try        acc_adulttoy_prompt, acc_apron_prompt, acc_assist_prompt, acc_backpack_prompt, acc_belt_novelty_prompt, acc_belt_plastic_prompt, acc_belt_prompt, acc_bodyjewel_prompt
+
+Body, skin and hair  (618 files)
+    patterns   body_*, skin_*, hair_*
+    try        body_wound_prompt, hair_state_prompt, wx_outfit_prompt
+
+Poses, cameras, light, style  (300 files)
+    patterns   pose_*, cam_*, lite_*, photostyle_*, illustration_*
+    try        pose_prompt
+
+Places and settings  (1741 files)
+    patterns   setting_*, room_*, world_*, furn_*, home_*
+    try        furn_all_prompt, furn_armchair_arms_prompt, furn_armchair_back_prompt, furn_armchair_cover_prompt, furn_armchair_legs_prompt, furn_armchair_prompt, furn_armchair_seat_prompt, furn_bathroom_prompt
+
+Groups and relationships  (91 files)
+    patterns   group_*, grp_*
+    try        group_prompt
+
+Objects, tools, gear, sport  (1008 files)
+    patterns   obj_*, tool_*, gear_*, sport_*
+    try        gear_class_prompt, gear_gym_cardio_prompt, gear_gym_floor_prompt, gear_gym_weights_prompt, gear_laundry_prompt, gear_pool_prompt, gear_sauna_prompt, gear_shop_prompt
+
+Animals  (184 files)
+    patterns   animal_*
+    try        animal_aquatic_fresh_prompt, animal_aquatic_salt_prompt, animal_bacteria_colonies_prompt, animal_bats_prompt, animal_bears_prompt, animal_big_cats_and_wild_cats_prompt, animal_birds_of_prey_and_owls_prompt, animal_cats_prompt
+
+Plants, buildings, vehicles  (154 files)
+    patterns   plant_*, arch_*, veh_*
+    try        arch_apartment_block_prompt, arch_barn_prompt, arch_bridge_prompt, arch_castle_prompt, arch_house_prompt, arch_lighthouse_prompt, arch_market_hall_prompt, arch_prompt
+
+Food and tableware  (80 files)
+    patterns   food_*, ware_*, table_*, meal_prompt
+    try        food_bread_prompt, food_cheese_prompt, food_dessert_prompt, food_dish_prompt, food_drink_prompt, food_fruit_prompt, food_prompt, food_snack_prompt
+
+Other files  (556)
+
+Entry-point lists   v38, v40, v44 to v55 _entry_points files list the main prompt files added in each version.
+
+Naming
+    <topic>_<thing>_<part>          a part file (for example veh_car_wheels)
+    ..._prompt                      a finished, ready-to-use prompt line made of parts
+    ..._short / _full / _brief      shorter and longer versions of one prompt
+    aoo_ files                      All Options Once edition, every option listed once, with no people system
