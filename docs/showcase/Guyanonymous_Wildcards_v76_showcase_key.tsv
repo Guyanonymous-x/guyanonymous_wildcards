@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+S01	space opera scene	16:9	1360x768	1872x1056	474	7400	ok 
+S02	retro-futurist scene	3:2	1248x848	1728x1152	470	7411	ok 
+S03	biopunk scene	4:5	912x1152	1264x1568	462	7422	ok 
+S04	solarpunk scene	3:2	1248x848	1728x1152	454	7433	ok 
+S05	space western scene	16:9	1360x768	1872x1056	455	7444	ok 
+S06	alien portrait	4:5	912x1152	1264x1568	429	7455	ok 
+S07	alien portrait	2:3	832x1264	1152x1728	315	7466	ok 
+S08	insectoid warrior	4:5	912x1152	1264x1568	455	7477	ok 
+S09	two aliens in conversation	3:2	1248x848	1728x1152	444	7488	ok 
+S10	ring station	16:9	1360x768	1872x1056	346	7499	ok 
+S11	hydroponic garden	3:2	1248x848	1728x1152	259	7510	ok 
+S12	command bridge	3:2	1248x848	1728x1152	254	7521	ok 
+S13	alien marketplace	4:5	912x1152	1264x1568	292	7532	ok 
+S14	alien jungle	2:3	832x1264	1152x1728	240	7543	ok 
+S15	starfighter	16:9	1360x768	1872x1056	278	7554	ok 
+S16	heavy freighter	3:2	1248x848	1728x1152	267	7565	ok 
+S17	walker mech	4:5	912x1152	1264x1568	251	7576	ok 
+S18	service robot	4:5	912x1152	1264x1568	307	7587	ok 
+S19	spacesuit	2:3	832x1264	1152x1728	355	7598	ok 
+S20	wedge-shaped e-reader	1:1	1024x1024	1408x1408	330	7609	ok check the keyboard strip is rendered
+S21	stylus note-taking reader	3:2	1248x848	1728x1152	345	7620	ok 
+S22	brick phone	4:5	912x1152	1264x1568	312	7631	ok 
+S23	real e-reader model	1:1	1024x1024	1408x1408	182	7642	ok real e-reader model, brand name in prompt (maker file)
+S24	real phone model	4:5	912x1152	1264x1568	188	7653	ok real phone model, brand name in prompt (maker file)
+S25	collectable telephone	3:2	1248x848	1728x1152	324	7664	ok 
+G01	alien species grid	1:1	1024x1024	1408x1408	1350	7675	ok 
+G02	sci-fi locations grid	1:1	1024x1024	1408x1408	1414	7686	ok 
+G03	sci-fi vehicles grid	1:1	1024x1024	1408x1408	1239	7697	ok 
+G04	robots grid	1:1	1024x1024	1408x1408	601	7708	ok 
+G05	spacesuits grid	1:1	1024x1024	1408x1408	626	7719	ok 
+G06	e-reader timeline grid	1:1	1024x1024	1408x1408	1848	7730	ok ordered timeline; models may ignore the age-order instruction
+G07	phone timeline grid	1:1	1024x1024	1408x1408	1614	7741	ok ordered timeline; same caveat
+G08	wristwatches grid	1:1	1024x1024	1408x1408	901	7752	ok nine watches; expect small dial text to drift
+G09	clocks grid	1:1	1024x1024	1408x1408	933	7763	ok 
+G10	scientific instruments grid	1:1	1024x1024	1408x1408	421	7774	ok 
+G11	cameras grid	1:1	1024x1024	1408x1408	882	7785	ok 
+G12	typewriters grid	1:1	1024x1024	1408x1408	471	7796	ok 
+G13	radios and early electronics grid	1:1	1024x1024	1408x1408	921	7807	ok 
+G14	telephones grid	1:1	1024x1024	1408x1408	496	7818	ok 
+G15	musical instruments grid	1:1	1024x1024	1408x1408	792	7829	ok 

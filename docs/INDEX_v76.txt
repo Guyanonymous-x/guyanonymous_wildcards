@@ -1,0 +1,15 @@
+Guyanonymous' Wildcards v76 - index of new files
+=================================================
+SCIENCE FICTION (sf_, about 615 files)
+  15 visual styles: sf_style_<key>_prompt / _look / _wear / _light (hard sf, space opera, retro-futurism, atompunk, biopunk, solarpunk, post-apocalyptic, dystopian, space western, military, climate fiction, first contact, space noir, Afrofuturism, science fantasy). Mix: sf_style_prompt.
+  52 alien species: sf_alien_<key>_look / _prompt / _short. Mix: sf_alien_prompt, sf_alien_look, sf_alien_short, sf_alien_pair_prompt. Sentient species wear and carry things; animals and swarms have a habitat instead.
+  48 locations: sf_loc_<key>_look / _light / _prompt / _short (ring stations, corridors, bridges, gardens, markets, domes, ruins and more). Mix: sf_loc_prompt, sf_loc_look, sf_loc_short.
+  32 vehicles: sf_veh_<key>_look / _marks / _prompt / _short. Mix: sf_veh_prompt.
+  16 robots: sf_robot_<key>_look / _prompt. 10 spacesuits: sf_suit_<key>_look / _prompt.
+  Top-level: sf_prompt. Shared pools: sf_detail, sf_people, sf_alien_pose, sf_alien_wear, sf_alien_carry, sf_alien_view, sf_veh_situation, sf_veh_view, sf_suit_wear.
+E-READER AND PHONE TIMELINES (ereader_, phone_, maker_ereader_, maker_phone_)
+  18 e-reader generations (1998 to 2026) and 31 phone generations (1983 to future). ereader_<key>_look / _prompt and phone_<key>_look / _prompt, ereader_timeline and phone_timeline (every era in order), ereader_prompt, phone_prompt.
+  Real device names appear only in maker_ereader_models, maker_phone_models, maker_ereader_prompt and maker_phone_prompt.
+COLLECTIONS (col_, about 110 files) - watches, clocks, scientific instruments, cameras, typewriters, radios and early electronics, telephones, musical instruments
+  col_<name>_type / _material / _feature / _era / _marks / _look / _prompt / _prompt_fill / _short / _group_prompt. Mix: col_prompt, col_prompt_fill, col_group_prompt, col_short.
+  Shared pools: col_condition, col_display, col_service, col_colour. Names on dials and plates are invented, in quotation marks. Type and era are chosen independently, so an occasional anachronism is possible.
