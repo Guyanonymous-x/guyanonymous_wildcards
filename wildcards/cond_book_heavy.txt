@@ -1,0 +1,11 @@
+__cond_book_damage_heavy__
+__cond_book_missing_heavy__
+__cond_book_wear_heavy__
+__cond_book_dirt_heavy__
+__cond_book_graffiti_heavy__
+__cond_book_faded_heavy__
+__cond_book_burnt_heavy__
+__cond_book_decay_heavy__
+__cond_book_repair_heavy__
+__cond_book_fine_heavy__
+__cond_book_cheap_heavy__

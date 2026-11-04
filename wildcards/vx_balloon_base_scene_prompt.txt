@@ -1,0 +1,1 @@
+__vx_balloon_base_prompt__ The vehicle is __vx_balloon_state__, seen from __vs_air_camera__.

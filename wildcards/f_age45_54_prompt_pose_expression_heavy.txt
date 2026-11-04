@@ -1,0 +1,4 @@
+She is posed in __age45_54_pose_action_heavy__, with __age45_54_pose_weight_heavy__ and __age45_54_pose_twist_heavy__. Her hands show __pose_hands__, her gaze is __pose_gaze__, and her expression is __facialExpressionsFor_v10__.
+Her posture, __age45_54_pose_action_heavy__, with __age45_54_pose_weight_heavy__. Her hands show __pose_hands__ and her gaze is __pose_gaze__, with __pose_emotion__.
+Her pose, in a few words, __f_poses_extended__. Her expression is __facialExpressionsFor_v10__ and her gaze is __pose_gaze__.
+Her pose, in a few words, __poses__. Her expression is __facialExpressionsFor_v10__, with __pose_hands__.

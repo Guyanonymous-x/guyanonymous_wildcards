@@ -1,0 +1,10 @@
+a table radio, which is a rectangular box with a round dial and a speaker grille, made of __home_electronics_table_radio_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_electronics__. __comp_condition__
+a television, which is a flat rectangular screen on a stand, made of __home_electronics_television_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_electronics__. __comp_condition__
+a desktop monitor, which is a flat screen on an adjustable stand, made of __home_electronics_desktop_monitor_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_electronics__. __comp_condition__
+a mechanical keyboard, which is a rectangular board of raised keys, made of __home_electronics_mechanical_keyboard_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_electronics__. __comp_condition__
+a computer mouse, which is a small curved device with two buttons and a wheel, made of __home_electronics_computer_mouse_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_electronics__. __comp_condition__
+a smart speaker, which is a small cylinder with a mesh cover and glowing ring, made of __home_electronics_smart_speaker_material__, its surface is __comp_fin_soft__, and it has __comp_feat_electronics__. __comp_condition__
+a desk fan, which is a small fan with a round cage and a stand, made of __home_electronics_desk_fan_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_electronics__. __comp_condition__
+a laptop, which is a folding computer with a screen and a keyboard, made of __home_electronics_laptop_material__, its surface is __comp_fin_metal__, and it has __comp_feat_electronics__. __comp_condition__
+an alarm clock, which is a round clock with two bells and a hammer on top, made of __home_electronics_alarm_clock_material__, its surface is __comp_fin_metal__, and it has __comp_feat_electronics__. __comp_condition__
+a table heater, which is a small box with a grille and a dial, made of __home_electronics_table_heater_material__, its surface is __comp_fin_metal__, and it has __comp_feat_electronics__. __comp_condition__

@@ -1,0 +1,12 @@
+a desk tidy, which is an open box with sections for pens, made of __office_supplies_desk_tidy_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_stationery__. __comp_condition__
+a ring binder, which is a thick folder with two rings and a spine label, made of __office_supplies_ring_binder_material__, its surface is __comp_fin_hard__, and it has __comp_feat_stationery__. __comp_condition__
+a fountain pen, which is a slim pen with a metal nib and a cap, made of __office_supplies_fountain_pen_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_stationery__. __comp_condition__
+a ballpoint pen, which is a plastic tube with a pocket clip and a click top, made of __office_supplies_ballpoint_pen_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_stationery__. __comp_condition__
+a tape dispenser, which is a heavy base with a roll of clear tape, made of __office_supplies_tape_dispenser_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_stationery__. __comp_condition__
+a stapler, which is a small hinged metal tool with a spring that pushes a staple through paper, made of __office_supplies_stapler_material__, its surface is __comp_fin_metal__, and it has __comp_feat_stationery__. __comp_condition__
+a hole punch, which is a lever tool with two round blades, made of __office_supplies_hole_punch_material__, its surface is __comp_fin_metal__, and it has __comp_feat_stationery__. __comp_condition__
+a paper clips in a dish, which is a small dish of bent wire clips, made of __office_supplies_paper_clips_in_a_dish_material__, its surface is __comp_fin_metal__, and it has __comp_feat_stationery__. __comp_condition__
+a notebook, which is a bound book with a plain cover and ruled pages, made of __office_supplies_notebook_material__, its surface is __comp_fin_hard__, and it has __comp_feat_stationery__. __comp_condition__
+a desk calendar, which is a standing block of numbered pages, made of __office_supplies_desk_calendar_material__, its surface is __comp_fin_hard__, and it has __comp_feat_stationery__. __comp_condition__
+a pair of scissors, which is two blades with handles that open and close, made of __office_supplies_scissors_material__, its surface is __comp_fin_metal__, and it has __comp_feat_stationery__. __comp_condition__
+a whiteboard, which is a flat white board with a pen tray, made of __office_supplies_whiteboard_material__, its surface is __comp_fin_hard__, and it has __comp_feat_stationery__. __comp_condition__

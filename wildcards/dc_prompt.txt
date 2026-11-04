@@ -1,0 +1,8 @@
+__dc_car_prompt__
+__dc_truck_prompt__
+__dc_aircraft_prompt__
+__dc_ship_prompt__
+__dc_train_prompt__
+__dc_building_prompt__
+__dc_figure_prompt__
+__dc_miniature_prompt__

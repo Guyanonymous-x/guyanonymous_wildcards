@@ -1,0 +1,12 @@
+a wool blanket, which is a thick woven blanket in a plain weave with a stitched edge, made of __home_textiles_wool_blanket_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__
+a patchwork quilt, which is a bed cover sewn from squares of different fabric with thick stitching, made of __home_textiles_patchwork_quilt_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__
+a fleece throw, which is a soft light blanket with a fuzzy surface, made of __home_textiles_fleece_throw_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__
+a knitted blanket, which is a chunky knitted blanket in a rope-stitch pattern, made of __home_textiles_knitted_blanket_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_textile__. __comp_condition__
+a weighted blanket, which is a heavy blanket quilted into small squares filled with beads, made of __home_textiles_weighted_blanket_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__
+an electric blanket, which is a thin blanket with a cord and a small controller, made of __home_textiles_electric_blanket_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__
+a bed sheet set, which is a fitted sheet, a flat sheet and two pillowcases, made of __home_textiles_bed_sheet_set_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__
+a pillow, which is a plump rectangular pillow in a plain cover, made of __home_textiles_pillow_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__
+a bath towel, which is a large thick rectangle of towelling, made of __home_textiles_bath_towel_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__
+a tablecloth, which is a large square of cloth for a table, made of __home_textiles_tablecloth_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__
+a cushion, which is a square cushion with a zip cover, made of __home_textiles_cushion_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__
+a tea towel, which is a thin printed cloth, square, made of __home_textiles_tea_towel_material__, its surface is __comp_fin_soft__, and it has __comp_feat_textile__. __comp_condition__

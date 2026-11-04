@@ -1,0 +1,12 @@
+animal_prompt
+animal_insect_prompt
+animal_aquatic_salt_prompt
+animal_aquatic_fresh_prompt
+plant_prompt
+nature_prompt
+arch_prompt
+veh_prompt
+machinery_prompt
+animal_classes
+animal_kingdom_animals
+animal_class_list

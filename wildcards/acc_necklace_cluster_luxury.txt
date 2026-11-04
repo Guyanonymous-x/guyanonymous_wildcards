@@ -1,0 +1,521 @@
+__acc_adj_luxury__ amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+__acc_adj_luxury__ bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+__acc_adj_luxury__ cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 16-inch paperclip-link chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 18-inch rope chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 20-inch curb-link chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ choker, made of __acc_necklace_mat_all_luxury__. It is a close-fitting 14-inch choker. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ choker, made of __acc_necklace_mat_all_luxury__. It is a flat collar-like choker that sits at the base of the throat. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+__acc_adj_luxury__ coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+__acc_adj_luxury__ cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+__acc_adj_luxury__ lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+__acc_adj_luxury__ lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+__acc_adj_luxury__ layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a heart-shaped hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+__acc_adj_luxury__ multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+__acc_adj_luxury__ name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+__acc_adj_luxury__ opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+__acc_adj_luxury__ pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+__acc_adj_luxury__ pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a round medallion pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a fine 18-inch chain holding a single teardrop pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+__acc_adj_luxury__ riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+__acc_adj_luxury__ rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+__acc_adj_luxury__ sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a single 18-inch strand of graduated beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a triple-strand necklace of evenly matched beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+__acc_adj_luxury__ torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+__acc_adj_luxury__ torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+a bespoke bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a bespoke bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a bespoke choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+a bespoke choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+a bespoke layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a bespoke locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a bespoke locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a bespoke locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a bespoke name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+a bespoke name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+a bespoke riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+a bespoke riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+a bespoke sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a bespoke torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+a bespoke torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+a couture amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+a couture amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+a couture bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a couture bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a couture cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a couture chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 20-inch curb-link chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a couture charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a couture choker, made of __acc_necklace_mat_all_luxury__. It is a flat collar-like choker that sits at the base of the throat. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a couture layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a couture locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a heart-shaped hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a couture locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a couture locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a couture opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+a couture opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+a couture pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+a couture pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+a couture pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a round medallion pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a couture pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+a couture pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+a decadent amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+a decadent amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+a decadent cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a decadent coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a decadent cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+a decadent lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+a decadent lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+a decadent lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+a decadent name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+a decadent name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+a decadent pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a round medallion pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a decadent riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+a decadent riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+a decadent sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a decadent torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+a decadent torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+a gilded amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+a gilded amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+a gilded bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a gilded bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a gilded lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+a gilded lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+a gilded locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a heart-shaped hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a gilded name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+a gilded name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+a gilded opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+a gilded opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+a gilded pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+a gilded pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+a gilded statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a grand amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+a grand amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+a grand choker, made of __acc_necklace_mat_all_luxury__. It is a close-fitting 14-inch choker. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a grand collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+a grand collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+a grand lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+a grand layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a grand pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+a grand pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+a grand pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+a grand pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+a grand strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a triple-strand necklace of evenly matched beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a handcrafted charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a handcrafted cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+a handcrafted locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a heart-shaped hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a handcrafted name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+a handcrafted name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+a handcrafted pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+a handcrafted pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+a handcrafted rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+a handcrafted rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+a handcrafted sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a handcrafted tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a handcrafted torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+a handcrafted torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+a heirloom-quality amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+a heirloom-quality amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+a heirloom-quality bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a heirloom-quality bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a heirloom-quality charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a heirloom-quality choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+a heirloom-quality choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+a heirloom-quality collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+a heirloom-quality collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+a heirloom-quality pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+a heirloom-quality pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+a heirloom-quality tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a lavish choker, made of __acc_necklace_mat_all_luxury__. It is a close-fitting 14-inch choker. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a lavish collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+a lavish collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+a lavish lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+a lavish lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+a lavish lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+a lavish locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a lavish locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a lavish multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+a lavish multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+a lavish name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+a lavish name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+a lavish opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+a lavish opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+a lavish pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+a lavish pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+a lavish statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a lavish torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+a luxurious bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a luxurious bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a luxurious cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a luxurious cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+a luxurious lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+a luxurious lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+a luxurious multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+a luxurious multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+a luxurious opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+a luxurious opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+a luxurious pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+a luxurious pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+a luxurious strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a triple-strand necklace of evenly matched beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a luxurious tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a luxurious torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+a majestic charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a majestic choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+a majestic choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+a majestic collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+a majestic collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+a majestic locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a majestic locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a majestic multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+a majestic multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+a majestic name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+a majestic name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+a majestic pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+a majestic pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+a majestic sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a majestic tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a majestic torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+a majestic torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+a masterfully made cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a masterfully made chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 20-inch curb-link chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a masterfully made charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a masterfully made coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a masterfully made locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a masterfully made locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a masterfully made pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+a masterfully made pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+a masterfully made pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a fine 18-inch chain holding a single teardrop pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a noble amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+a noble amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+a noble charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a noble choker, made of __acc_necklace_mat_all_luxury__. It is a flat collar-like choker that sits at the base of the throat. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a noble collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+a noble collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+a noble lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+a noble lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+a noble lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+a noble opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+a noble opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+a noble pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a round medallion pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a noble riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+a noble riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+a noble statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a noble torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+a noble torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+a noble torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+a painstaking amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+a painstaking amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+a painstaking coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a painstaking cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+a painstaking lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+a painstaking lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+a painstaking layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a painstaking riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+a painstaking riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+a painstaking strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a single 18-inch strand of graduated beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a plush cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a plush chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 20-inch curb-link chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a plush multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+a plush multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+a plush pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+a plush pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+a plush pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+a plush pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+a plush riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+a plush riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+a plush statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a plush torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+a prestigious bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a prestigious bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a prestigious chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 18-inch rope chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a prestigious charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a prestigious choker, made of __acc_necklace_mat_all_luxury__. It is a flat collar-like choker that sits at the base of the throat. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a prestigious lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+a prestigious lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+a prestigious lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+a prestigious layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a prestigious multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+a prestigious multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+a prestigious opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+a prestigious opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+a prestigious pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a round medallion pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a prestigious rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+a prestigious rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+a princely amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+a princely amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+a princely bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a princely bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a princely choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+a princely choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+a princely locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a princely locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a princely multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+a princely multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+a princely name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+a princely name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+a princely pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+a princely pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+a princely riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+a princely riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+a princely rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+a princely rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+a princely strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a single 18-inch strand of graduated beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a princely tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a princely torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+a princely torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+a rarefied cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a rarefied lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+a rarefied layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a rarefied locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a rarefied multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+a rarefied multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+a rarefied pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+a rarefied pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+a rarefied sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a regal charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a regal choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+a regal choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+a regal pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a round medallion pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a regal statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a regal torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+a regal torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+a regal torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+a resplendent cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a resplendent choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+a resplendent choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+a resplendent coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a resplendent cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+a resplendent layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a resplendent locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a resplendent pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+a resplendent pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+a resplendent riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+a resplendent riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+a rich charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a rich coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a rich collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+a rich collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+a rich locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a rich locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a rich riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+a rich riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+a rich sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a rich torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+a rich torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+a silken bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a silken bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a silken lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+a silken lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+a silken locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a silken locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a silken multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+a silken multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+a silken opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+a silken opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+a silken strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a single 18-inch strand of graduated beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a silken torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+a silken torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+a sophisticated beyond measure amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+a sophisticated beyond measure amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+a sophisticated beyond measure choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+a sophisticated beyond measure choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+a sophisticated beyond measure coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a sophisticated beyond measure collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+a sophisticated beyond measure collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+a sophisticated beyond measure cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+a sophisticated beyond measure locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a sophisticated beyond measure locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a sophisticated beyond measure name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+a sophisticated beyond measure name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+a sophisticated beyond measure opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+a sophisticated beyond measure opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+a sophisticated beyond measure pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a round medallion pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a sophisticated beyond measure pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+a sophisticated beyond measure pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+a sophisticated beyond measure rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+a sophisticated beyond measure rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+a sophisticated beyond measure sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a sophisticated beyond measure strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a single 18-inch strand of graduated beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a sublime bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a sublime bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a sublime choker, made of __acc_necklace_mat_all_luxury__. It is a flat collar-like choker that sits at the base of the throat. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a sublime lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+a sublime lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+a sublime locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a sublime locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a sublime locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a sublime pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a round medallion pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a sublime pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+a sublime pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+a sumptuous bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a sumptuous bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a sumptuous cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a sumptuous chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 18-inch rope chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a sumptuous choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+a sumptuous choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+a sumptuous pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+a sumptuous pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+a sumptuous riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+a sumptuous riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+a sumptuous rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+a sumptuous rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+a sumptuous sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a sumptuous torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+a sumptuous torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+a sumptuous torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+a supremely refined chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 20-inch curb-link chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a supremely refined coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a supremely refined collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+a supremely refined collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+a supremely refined lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+a supremely refined lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+a supremely refined layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a supremely refined locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+a supremely refined locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+a supremely refined multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+a supremely refined multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+a supremely refined opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+a supremely refined opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+a supremely refined pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a fine 18-inch chain holding a single teardrop pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a supremely refined statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a supremely refined strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a triple-strand necklace of evenly matched beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a supremely refined tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a velvety bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+a velvety bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+a velvety choker, made of __acc_necklace_mat_all_luxury__. It is a flat collar-like choker that sits at the base of the throat. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a velvety choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+a velvety choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+a velvety coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a velvety collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+a velvety collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+a velvety layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a velvety multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+a velvety multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+a velvety name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+a velvety name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+a velvety opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+a velvety opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+a velvety pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+a velvety pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+a velvety rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+a velvety rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+a velvety statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a velvety strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a triple-strand necklace of evenly matched beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+a velvety torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+an artisanal amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+an artisanal amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+an artisanal cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an artisanal choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+an artisanal choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+an artisanal collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+an artisanal collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+an artisanal cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+an artisanal lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+an artisanal layered necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an artisanal torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+an atelier-made amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+an atelier-made amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+an atelier-made bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones.
+an atelier-made bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It also includes __acc_necklace_practical__.
+an atelier-made chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 18-inch rope chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an atelier-made cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+an atelier-made name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+an atelier-made name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+an atelier-made pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+an atelier-made pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+an atelier-made pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a round medallion pendant. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an atelier-made riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+an atelier-made riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+an atelier-made sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an atelier-made statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an atelier-made strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a triple-strand necklace of evenly matched beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an atelier-made tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an exclusive amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord.
+an exclusive amulet necklace, made of __acc_necklace_mat_bead_luxury__. It is a small amulet on a leather cord. It also includes __acc_necklace_practical__.
+an exclusive lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+an exclusive locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an exclusive pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+an exclusive pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+an exclusive riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+an exclusive riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+an exclusive rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+an exclusive rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+an exclusive strand necklace, made of __acc_necklace_mat_bead_luxury__. It is a single 18-inch strand of graduated beads. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an exclusive tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an exclusive torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+an exclusive torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+an exclusive torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+an exquisite chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 20-inch curb-link chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an exquisite choker, made of __acc_necklace_mat_all_luxury__. It is a flat collar-like choker that sits at the base of the throat. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an exquisite coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an exquisite lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+an exquisite locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an exquisite rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+an exquisite rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+an exquisite sautoir necklace, made of __acc_necklace_mat_all_luxury__. It is a long, 36-inch sautoir ending in a tassel. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an exquisite tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an extraordinary choker, made of __acc_necklace_mat_all_luxury__. It is a flat collar-like choker that sits at the base of the throat. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an extraordinary choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+an extraordinary choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+an extraordinary locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain.
+an extraordinary locket, made of __acc_necklace_mat_all_luxury__. It is a hinged oval locket on a medium-length chain. It also includes __acc_necklace_practical__.
+an extraordinary multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+an extraordinary multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+an extraordinary name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+an extraordinary name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+an extraordinary opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+an extraordinary opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+an extraordinary rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+an extraordinary rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+an extraordinary statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an immaculately hand-finished chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 18-inch rope chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an immaculately hand-finished charm necklace, made of __acc_necklace_mat_bead_luxury__. It is a chain hung with five small charms. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an immaculately hand-finished coin pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding a small medallion stamped like an antique coin. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an immaculately hand-finished collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+an immaculately hand-finished collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+an immaculately hand-finished pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant.
+an immaculately hand-finished pendant on chain, made of __acc_necklace_mat_all_luxury__. It is a fine chain holding a single pendant. It also includes __acc_necklace_practical__.
+an immaculately hand-finished rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+an immaculately hand-finished rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+an immaculately hand-finished statement bib necklace, made of __acc_necklace_mat_all_luxury__. It is a wide, cascading bib that spreads across the collarbones. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an immaculately hand-finished tennis necklace, made of __acc_necklace_mat_all_luxury__. It is a flexible line of identical set stones circling the neck. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an immaculately hand-finished torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends.
+an immaculately hand-finished torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid open neck ring with decorated ends. It also includes __acc_necklace_practical__.
+an immaculately hand-finished torque necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid, open-ended torque collar with sculpted terminals.
+an indulgent cameo pendant necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval cameo carved with a profile portrait. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an indulgent choker, made of __acc_necklace_mat_all_luxury__. It is a flat collar-like choker that sits at the base of the throat. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an indulgent cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+an indulgent lariat necklace, made of __acc_necklace_mat_all_luxury__. It is a long, open-ended lariat that loops through itself and drops down the front.
+an indulgent lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+an indulgent lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+an indulgent multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp.
+an indulgent multi-layer necklace, made of __acc_necklace_mat_all_luxury__. It is three fine chains of graduated lengths joined at one clasp. It also includes __acc_necklace_practical__.
+an indulgent pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls.
+an indulgent pearl strand, made of __acc_necklace_mat_bead_luxury__. It is a single graduated strand of round pearls. It also includes __acc_necklace_practical__.
+an indulgent riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck.
+an indulgent riviere necklace, made of __acc_necklace_mat_all_luxury__. It is a graduated line of matched stones around the neck. It also includes __acc_necklace_practical__.
+an indulgent rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+an indulgent rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.
+an opulent chain necklace, made of __acc_necklace_mat_all_luxury__. It is a 20-inch curb-link chain. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an opulent choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat.
+an opulent choker, made of __acc_necklace_mat_all_luxury__. It is a short band that sits at the base of the throat. It also includes __acc_necklace_practical__.
+an opulent collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck.
+an opulent collar necklace, made of __acc_necklace_mat_all_luxury__. It is a rigid collar that rests around the neck. It also includes __acc_necklace_practical__.
+an opulent cord pendant necklace, made of __acc_necklace_mat_bead_luxury__. It is a simple cord holding a small carved pendant.
+an opulent lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp.
+an opulent lariat, made of __acc_necklace_mat_all_luxury__. It is a long open-ended chain with no clasp. It also includes __acc_necklace_practical__.
+an opulent locket necklace, made of __acc_necklace_mat_all_luxury__. It is a chain holding an oval hinged locket. It fastens with a hand-made hidden clasp set with tiny diamonds.
+an opulent name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar.
+an opulent name-free bar necklace, made of __acc_necklace_mat_all_luxury__. It is a fine chain with a small horizontal bar. It also includes __acc_necklace_practical__.
+an opulent opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest.
+an opulent opera-length strand, made of __acc_necklace_mat_bead_luxury__. It is a very long strand that falls past the chest. It also includes __acc_necklace_practical__.
+an opulent rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp.
+an opulent rope chain, made of __acc_necklace_mat_all_luxury__. It is a twisted rope chain with a lobster clasp. It also includes __acc_necklace_practical__.

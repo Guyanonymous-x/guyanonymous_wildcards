@@ -1,0 +1,11 @@
+__cond_clothing_damage__
+__cond_clothing_missing__
+__cond_clothing_wear__
+__cond_clothing_dirt__
+__cond_clothing_graffiti__
+__cond_clothing_faded__
+__cond_clothing_burnt__
+__cond_clothing_decay__
+__cond_clothing_repair__
+__cond_clothing_fine__
+__cond_clothing_cheap__

@@ -1,0 +1,11 @@
+__cond_vehicle_damage__
+__cond_vehicle_missing__
+__cond_vehicle_wear__
+__cond_vehicle_dirt__
+__cond_vehicle_graffiti__
+__cond_vehicle_faded__
+__cond_vehicle_burnt__
+__cond_vehicle_decay__
+__cond_vehicle_repair__
+__cond_vehicle_fine__
+__cond_vehicle_cheap__

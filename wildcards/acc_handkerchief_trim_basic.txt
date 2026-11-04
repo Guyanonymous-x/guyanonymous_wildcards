@@ -1,0 +1,417 @@
+A plain hem finishes the ends.
+A raw edge finishes the ends.
+A short fringe finishes the ends.
+An overlocked edge finishes the ends.
+It has a plain hem and a short fringe.
+It has a plain hem and an overlocked edge.
+It has a plain hem and simple tassels.
+It has a plain hem, a raw edge and pom-poms.
+It has a plain hem, a raw edge and simple tassels.
+It has a plain hem, a raw edge, a short fringe and simple tassels.
+It has a plain hem, a raw edge, pom-poms and simple tassels.
+It has a plain hem, a raw edge, simple tassels and an overlocked edge.
+It has a plain hem, a short fringe and simple tassels.
+It has a plain hem, a short fringe, an overlocked edge and a raw edge.
+It has a plain hem, a short fringe, an overlocked edge and pom-poms.
+It has a plain hem, a short fringe, pom-poms and a raw edge.
+It has a plain hem, a short fringe, simple tassels and pom-poms.
+It has a plain hem, an overlocked edge and a raw edge.
+It has a plain hem, an overlocked edge and pom-poms.
+It has a plain hem, an overlocked edge and simple tassels.
+It has a plain hem, an overlocked edge, a short fringe and simple tassels.
+It has a plain hem, pom-poms and simple tassels.
+It has a plain hem, pom-poms, a raw edge and a short fringe.
+It has a plain hem, pom-poms, a short fringe and an overlocked edge.
+It has a plain hem, pom-poms, simple tassels and a short fringe.
+It has a plain hem, simple tassels and a raw edge.
+It has a plain hem, simple tassels and an overlocked edge.
+It has a plain hem, simple tassels, a raw edge and a short fringe.
+It has a plain hem, simple tassels, pom-poms and a raw edge.
+It has a plain hem.
+It has a raw edge and a plain hem.
+It has a raw edge and a short fringe.
+It has a raw edge and pom-poms.
+It has a raw edge and simple tassels.
+It has a raw edge, a plain hem and a short fringe.
+It has a raw edge, a plain hem and an overlocked edge.
+It has a raw edge, a plain hem and pom-poms.
+It has a raw edge, a plain hem and simple tassels.
+It has a raw edge, a plain hem, simple tassels and an overlocked edge.
+It has a raw edge, a plain hem, simple tassels and pom-poms.
+It has a raw edge, a short fringe and a plain hem.
+It has a raw edge, a short fringe and pom-poms.
+It has a raw edge, a short fringe and simple tassels.
+It has a raw edge, a short fringe, an overlocked edge and simple tassels.
+It has a raw edge, a short fringe, pom-poms and simple tassels.
+It has a raw edge, a short fringe, simple tassels and an overlocked edge.
+It has a raw edge, an overlocked edge and a plain hem.
+It has a raw edge, an overlocked edge, a plain hem and pom-poms.
+It has a raw edge, an overlocked edge, a short fringe and simple tassels.
+It has a raw edge, an overlocked edge, pom-poms and a short fringe.
+It has a raw edge, pom-poms, a short fringe and an overlocked edge.
+It has a raw edge, pom-poms, an overlocked edge and a short fringe.
+It has a raw edge, pom-poms, simple tassels and a plain hem.
+It has a raw edge, pom-poms, simple tassels and an overlocked edge.
+It has a raw edge, simple tassels and a short fringe.
+It has a raw edge, simple tassels, a plain hem and pom-poms.
+It has a raw edge, simple tassels, a short fringe and pom-poms.
+It has a raw edge, simple tassels, an overlocked edge and a short fringe.
+It has a raw edge.
+It has a short fringe and a plain hem.
+It has a short fringe and a raw edge.
+It has a short fringe and an overlocked edge.
+It has a short fringe and pom-poms.
+It has a short fringe and simple tassels.
+It has a short fringe, a plain hem and pom-poms.
+It has a short fringe, a plain hem, an overlocked edge and simple tassels.
+It has a short fringe, a raw edge and an overlocked edge.
+It has a short fringe, a raw edge and pom-poms.
+It has a short fringe, a raw edge, pom-poms and simple tassels.
+It has a short fringe, a raw edge, simple tassels and an overlocked edge.
+It has a short fringe, an overlocked edge and a raw edge.
+It has a short fringe, an overlocked edge and pom-poms.
+It has a short fringe, an overlocked edge, a plain hem and pom-poms.
+It has a short fringe, an overlocked edge, a raw edge and pom-poms.
+It has a short fringe, an overlocked edge, simple tassels and pom-poms.
+It has a short fringe, pom-poms and a raw edge.
+It has a short fringe, pom-poms and an overlocked edge.
+It has a short fringe, pom-poms, a plain hem and a raw edge.
+It has a short fringe, pom-poms, a raw edge and an overlocked edge.
+It has a short fringe, simple tassels and an overlocked edge.
+It has a short fringe, simple tassels, a plain hem and pom-poms.
+It has a short fringe, simple tassels, an overlocked edge and pom-poms.
+It has a short fringe, simple tassels, pom-poms and a plain hem.
+It has a short fringe.
+It has an overlocked edge and a plain hem.
+It has an overlocked edge and a raw edge.
+It has an overlocked edge and a short fringe.
+It has an overlocked edge and pom-poms.
+It has an overlocked edge and simple tassels.
+It has an overlocked edge, a plain hem and a raw edge.
+It has an overlocked edge, a plain hem and pom-poms.
+It has an overlocked edge, a plain hem and simple tassels.
+It has an overlocked edge, a plain hem, a raw edge and a short fringe.
+It has an overlocked edge, a plain hem, a short fringe and pom-poms.
+It has an overlocked edge, a plain hem, simple tassels and a raw edge.
+It has an overlocked edge, a raw edge and a short fringe.
+It has an overlocked edge, a raw edge and pom-poms.
+It has an overlocked edge, a raw edge and simple tassels.
+It has an overlocked edge, a raw edge, a plain hem and pom-poms.
+It has an overlocked edge, a raw edge, a plain hem and simple tassels.
+It has an overlocked edge, a raw edge, simple tassels and pom-poms.
+It has an overlocked edge, a short fringe and a plain hem.
+It has an overlocked edge, a short fringe and a raw edge.
+It has an overlocked edge, a short fringe, a raw edge and simple tassels.
+It has an overlocked edge, a short fringe, pom-poms and a plain hem.
+It has an overlocked edge, a short fringe, simple tassels and pom-poms.
+It has an overlocked edge, pom-poms and simple tassels.
+It has an overlocked edge, pom-poms, a plain hem and a short fringe.
+It has an overlocked edge, pom-poms, a raw edge and a plain hem.
+It has an overlocked edge, pom-poms, a short fringe and a raw edge.
+It has an overlocked edge, pom-poms, a short fringe and simple tassels.
+It has an overlocked edge, pom-poms, simple tassels and a raw edge.
+It has an overlocked edge, simple tassels and a plain hem.
+It has an overlocked edge, simple tassels and pom-poms.
+It has an overlocked edge, simple tassels, a plain hem and a short fringe.
+It has an overlocked edge, simple tassels, a raw edge and a plain hem.
+It has an overlocked edge.
+It has pom-poms and a plain hem.
+It has pom-poms and a raw edge.
+It has pom-poms and a short fringe.
+It has pom-poms and an overlocked edge.
+It has pom-poms and simple tassels.
+It has pom-poms, a plain hem and a raw edge.
+It has pom-poms, a plain hem and a short fringe.
+It has pom-poms, a plain hem and an overlocked edge.
+It has pom-poms, a plain hem and simple tassels.
+It has pom-poms, a plain hem, a short fringe and an overlocked edge.
+It has pom-poms, a raw edge and simple tassels.
+It has pom-poms, a short fringe and a plain hem.
+It has pom-poms, a short fringe and a raw edge.
+It has pom-poms, a short fringe and an overlocked edge.
+It has pom-poms, a short fringe and simple tassels.
+It has pom-poms, a short fringe, a plain hem and simple tassels.
+It has pom-poms, a short fringe, simple tassels and a plain hem.
+It has pom-poms, a short fringe, simple tassels and an overlocked edge.
+It has pom-poms, an overlocked edge and a short fringe.
+It has pom-poms, an overlocked edge, a short fringe and a plain hem.
+It has pom-poms, an overlocked edge, a short fringe and simple tassels.
+It has pom-poms, simple tassels and a plain hem.
+It has pom-poms, simple tassels and a short fringe.
+It has pom-poms, simple tassels, a plain hem and a short fringe.
+It has pom-poms, simple tassels, a short fringe and a raw edge.
+It has pom-poms, simple tassels, an overlocked edge and a short fringe.
+It has pom-poms.
+It has simple tassels and a plain hem.
+It has simple tassels and a raw edge.
+It has simple tassels and an overlocked edge.
+It has simple tassels and pom-poms.
+It has simple tassels, a plain hem and a raw edge.
+It has simple tassels, a plain hem and a short fringe.
+It has simple tassels, a plain hem and an overlocked edge.
+It has simple tassels, a plain hem and pom-poms.
+It has simple tassels, a raw edge and a short fringe.
+It has simple tassels, a raw edge, a plain hem and an overlocked edge.
+It has simple tassels, a raw edge, an overlocked edge and pom-poms.
+It has simple tassels, a short fringe and a plain hem.
+It has simple tassels, a short fringe and an overlocked edge.
+It has simple tassels, a short fringe and pom-poms.
+It has simple tassels, a short fringe, a raw edge and a plain hem.
+It has simple tassels, an overlocked edge and a short fringe.
+It has simple tassels, an overlocked edge, a short fringe and a plain hem.
+It has simple tassels, pom-poms and a plain hem.
+It has simple tassels, pom-poms and a short fringe.
+It has simple tassels, pom-poms and an overlocked edge.
+It has simple tassels, pom-poms, a plain hem and a raw edge.
+It has simple tassels, pom-poms, a short fringe and a plain hem.
+It has simple tassels, pom-poms, an overlocked edge and a raw edge.
+It has simple tassels.
+It is edged with a plain hem and a raw edge.
+It is edged with a plain hem and a short fringe.
+It is edged with a plain hem and an overlocked edge.
+It is edged with a plain hem and pom-poms.
+It is edged with a plain hem and simple tassels.
+It is edged with a plain hem, a raw edge and a short fringe.
+It is edged with a plain hem, a raw edge and pom-poms.
+It is edged with a plain hem, a raw edge, a short fringe and pom-poms.
+It is edged with a plain hem, a short fringe and a raw edge.
+It is edged with a plain hem, a short fringe and pom-poms.
+It is edged with a plain hem, a short fringe and simple tassels.
+It is edged with a plain hem, a short fringe, a raw edge and an overlocked edge.
+It is edged with a plain hem, a short fringe, a raw edge and simple tassels.
+It is edged with a plain hem, a short fringe, pom-poms and simple tassels.
+It is edged with a plain hem, an overlocked edge and a raw edge.
+It is edged with a plain hem, an overlocked edge and pom-poms.
+It is edged with a plain hem, an overlocked edge and simple tassels.
+It is edged with a plain hem, an overlocked edge, simple tassels and a raw edge.
+It is edged with a plain hem, an overlocked edge, simple tassels and a short fringe.
+It is edged with a plain hem, pom-poms and a raw edge.
+It is edged with a plain hem, pom-poms and a short fringe.
+It is edged with a plain hem, pom-poms and an overlocked edge.
+It is edged with a plain hem, pom-poms, an overlocked edge and a short fringe.
+It is edged with a plain hem, simple tassels and a raw edge.
+It is edged with a plain hem, simple tassels and an overlocked edge.
+It is edged with a plain hem, simple tassels and pom-poms.
+It is edged with a plain hem, simple tassels, a raw edge and pom-poms.
+It is edged with a plain hem.
+It is edged with a raw edge and a plain hem.
+It is edged with a raw edge and an overlocked edge.
+It is edged with a raw edge and pom-poms.
+It is edged with a raw edge, a plain hem, an overlocked edge and simple tassels.
+It is edged with a raw edge, a plain hem, simple tassels and an overlocked edge.
+It is edged with a raw edge, a short fringe and simple tassels.
+It is edged with a raw edge, a short fringe, simple tassels and pom-poms.
+It is edged with a raw edge, an overlocked edge, a plain hem and a short fringe.
+It is edged with a raw edge, an overlocked edge, a plain hem and pom-poms.
+It is edged with a raw edge, pom-poms and a plain hem.
+It is edged with a raw edge, pom-poms and a short fringe.
+It is edged with a raw edge, pom-poms, a plain hem and a short fringe.
+It is edged with a raw edge, pom-poms, a plain hem and simple tassels.
+It is edged with a raw edge, pom-poms, a short fringe and a plain hem.
+It is edged with a raw edge, pom-poms, a short fringe and simple tassels.
+It is edged with a raw edge, simple tassels, a plain hem and a short fringe.
+It is edged with a raw edge, simple tassels, a short fringe and an overlocked edge.
+It is edged with a raw edge, simple tassels, pom-poms and an overlocked edge.
+It is edged with a raw edge.
+It is edged with a short fringe and a plain hem.
+It is edged with a short fringe and a raw edge.
+It is edged with a short fringe and an overlocked edge.
+It is edged with a short fringe and pom-poms.
+It is edged with a short fringe and simple tassels.
+It is edged with a short fringe, a plain hem and simple tassels.
+It is edged with a short fringe, a plain hem, a raw edge and simple tassels.
+It is edged with a short fringe, a plain hem, an overlocked edge and pom-poms.
+It is edged with a short fringe, a plain hem, an overlocked edge and simple tassels.
+It is edged with a short fringe, a plain hem, simple tassels and a raw edge.
+It is edged with a short fringe, a plain hem, simple tassels and pom-poms.
+It is edged with a short fringe, a raw edge and a plain hem.
+It is edged with a short fringe, a raw edge, a plain hem and pom-poms.
+It is edged with a short fringe, a raw edge, a plain hem and simple tassels.
+It is edged with a short fringe, an overlocked edge and a plain hem.
+It is edged with a short fringe, an overlocked edge and pom-poms.
+It is edged with a short fringe, an overlocked edge and simple tassels.
+It is edged with a short fringe, an overlocked edge, pom-poms and simple tassels.
+It is edged with a short fringe, pom-poms and a plain hem.
+It is edged with a short fringe, pom-poms and simple tassels.
+It is edged with a short fringe, pom-poms, a raw edge and an overlocked edge.
+It is edged with a short fringe, simple tassels and a raw edge.
+It is edged with a short fringe, simple tassels and an overlocked edge.
+It is edged with a short fringe, simple tassels, a raw edge and a plain hem.
+It is edged with a short fringe, simple tassels, pom-poms and a plain hem.
+It is edged with a short fringe, simple tassels, pom-poms and a raw edge.
+It is edged with a short fringe.
+It is edged with an overlocked edge and a plain hem.
+It is edged with an overlocked edge and a raw edge.
+It is edged with an overlocked edge and a short fringe.
+It is edged with an overlocked edge and pom-poms.
+It is edged with an overlocked edge and simple tassels.
+It is edged with an overlocked edge, a plain hem and a raw edge.
+It is edged with an overlocked edge, a plain hem, a raw edge and a short fringe.
+It is edged with an overlocked edge, a plain hem, a raw edge and simple tassels.
+It is edged with an overlocked edge, a plain hem, a short fringe and a raw edge.
+It is edged with an overlocked edge, a plain hem, simple tassels and a short fringe.
+It is edged with an overlocked edge, a raw edge and a short fringe.
+It is edged with an overlocked edge, a raw edge and simple tassels.
+It is edged with an overlocked edge, a raw edge, a short fringe and pom-poms.
+It is edged with an overlocked edge, a raw edge, a short fringe and simple tassels.
+It is edged with an overlocked edge, a raw edge, simple tassels and a short fringe.
+It is edged with an overlocked edge, a raw edge, simple tassels and pom-poms.
+It is edged with an overlocked edge, a short fringe, simple tassels and a plain hem.
+It is edged with an overlocked edge, pom-poms and a short fringe.
+It is edged with an overlocked edge, pom-poms and simple tassels.
+It is edged with an overlocked edge, pom-poms, a plain hem and a raw edge.
+It is edged with an overlocked edge, pom-poms, a short fringe and a plain hem.
+It is edged with an overlocked edge, pom-poms, a short fringe and a raw edge.
+It is edged with an overlocked edge, pom-poms, simple tassels and a raw edge.
+It is edged with an overlocked edge, simple tassels and a plain hem.
+It is edged with an overlocked edge, simple tassels and a short fringe.
+It is edged with an overlocked edge, simple tassels and pom-poms.
+It is edged with an overlocked edge, simple tassels, pom-poms and a plain hem.
+It is edged with an overlocked edge.
+It is edged with pom-poms and a plain hem.
+It is edged with pom-poms and a raw edge.
+It is edged with pom-poms and an overlocked edge.
+It is edged with pom-poms and simple tassels.
+It is edged with pom-poms, a plain hem and simple tassels.
+It is edged with pom-poms, a plain hem, a raw edge and a short fringe.
+It is edged with pom-poms, a plain hem, a short fringe and simple tassels.
+It is edged with pom-poms, a raw edge and a short fringe.
+It is edged with pom-poms, a raw edge and an overlocked edge.
+It is edged with pom-poms, a raw edge and simple tassels.
+It is edged with pom-poms, a raw edge, an overlocked edge and a plain hem.
+It is edged with pom-poms, a raw edge, simple tassels and an overlocked edge.
+It is edged with pom-poms, a short fringe, a plain hem and simple tassels.
+It is edged with pom-poms, a short fringe, a raw edge and an overlocked edge.
+It is edged with pom-poms, a short fringe, a raw edge and simple tassels.
+It is edged with pom-poms, a short fringe, an overlocked edge and simple tassels.
+It is edged with pom-poms, an overlocked edge and a raw edge.
+It is edged with pom-poms, an overlocked edge and a short fringe.
+It is edged with pom-poms, an overlocked edge, a plain hem and a raw edge.
+It is edged with pom-poms, an overlocked edge, a plain hem and a short fringe.
+It is edged with pom-poms, an overlocked edge, a short fringe and a plain hem.
+It is edged with pom-poms, simple tassels and a raw edge.
+It is edged with pom-poms, simple tassels, a plain hem and a raw edge.
+It is edged with pom-poms, simple tassels, an overlocked edge and a raw edge.
+It is edged with pom-poms.
+It is edged with simple tassels and a plain hem.
+It is edged with simple tassels and a raw edge.
+It is edged with simple tassels and a short fringe.
+It is edged with simple tassels and an overlocked edge.
+It is edged with simple tassels and pom-poms.
+It is edged with simple tassels, a plain hem and a raw edge.
+It is edged with simple tassels, a plain hem and an overlocked edge.
+It is edged with simple tassels, a plain hem and pom-poms.
+It is edged with simple tassels, a plain hem, a raw edge and an overlocked edge.
+It is edged with simple tassels, a plain hem, pom-poms and a raw edge.
+It is edged with simple tassels, a raw edge and an overlocked edge.
+It is edged with simple tassels, a raw edge and pom-poms.
+It is edged with simple tassels, a raw edge, a short fringe and an overlocked edge.
+It is edged with simple tassels, a raw edge, a short fringe and pom-poms.
+It is edged with simple tassels, a raw edge, an overlocked edge and a plain hem.
+It is edged with simple tassels, a raw edge, pom-poms and an overlocked edge.
+It is edged with simple tassels, a short fringe and a plain hem.
+It is edged with simple tassels, a short fringe and a raw edge.
+It is edged with simple tassels, a short fringe, an overlocked edge and a plain hem.
+It is edged with simple tassels, a short fringe, pom-poms and an overlocked edge.
+It is edged with simple tassels, an overlocked edge and a plain hem.
+It is edged with simple tassels, an overlocked edge and a short fringe.
+It is edged with simple tassels.
+Pom-poms finishes the ends.
+Simple tassels finishes the ends.
+x
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.
+It has a simple, plain edge.

@@ -1,0 +1,10 @@
+__fit_top_tight__
+__fit_top_loose__
+__fit_bottom_tight__
+__fit_bottom_loose__
+__fit_chest_bust__
+__fit_general__
+__fit_top_tight__ __fit_bottom_tight__
+__fit_top_loose__ __fit_bottom_loose__
+__fit_top_tight__ __fit_bottom_loose__
+__fit_top_loose__ __fit_bottom_tight__

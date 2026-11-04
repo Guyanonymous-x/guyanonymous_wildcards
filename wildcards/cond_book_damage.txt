@@ -1,0 +1,3 @@
+__cond_book_damage_light__
+__cond_book_damage_moderate__
+__cond_book_damage_heavy__

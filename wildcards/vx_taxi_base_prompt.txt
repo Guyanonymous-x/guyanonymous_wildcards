@@ -1,0 +1,1 @@
+A taxi, which is a car used as a licensed taxi. Its shape is __vx_taxi_form__, with __vx_taxi_feature__. The location is __vx_taxi_setting__.

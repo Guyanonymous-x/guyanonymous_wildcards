@@ -1,0 +1,9 @@
+__pose_prompt__
+__pose_prompt_no_support__
+__interact_two_prompt__
+__interact_three_prompt__
+__interact_object__
+__setting_prompt__
+__seat_prompt__
+__surface_lie_prompt__
+__support_lean_prompt__

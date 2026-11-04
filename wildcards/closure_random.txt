@@ -1,0 +1,12 @@
+a synthetic cork, which is a smooth cylinder of plastic that looks like cork, made of __closure_synthetic_cork_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_container__. __comp_condition__
+a flip-top cap, which is a hinged cap with a spout that snaps up, made of __closure_flip_top_cap_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_container__. __comp_condition__
+a pump dispenser, which is a pump head on a tube, made of __closure_pump_dispenser_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_container__. __comp_condition__
+a child-resistant cap, which is a plastic cap that has to be pushed down while turned, made of __closure_child_resistant_cap_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_container__. __comp_condition__
+a tamper-evident band, which is a ring of thin plastic that breaks when the cap is turned, made of __closure_tamper_evident_band_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_container__. __comp_condition__
+a screw cap, which is a ribbed metal cap that screws onto the neck, made of __closure_screw_cap_material__, its surface is __comp_fin_metal__, and it has __comp_feat_container__. __comp_condition__
+a crown cap, which is a small metal cap crimped onto the lip with a ruffled edge, made of __closure_crown_cap_material__, its surface is __comp_fin_metal__, and it has __comp_feat_container__. __comp_condition__
+a natural cork, which is a short cylinder of cork pressed into the neck, made of __closure_natural_cork_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a swing-top stopper, which is a ceramic stopper held by a wire lever, made of __closure_swing_top_stopper_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a wax seal, which is a dipped coat of wax over the cap, made of __closure_wax_seal_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a glass stopper, which is a ground-glass ball stopper, made of __closure_glass_stopper_material__, its surface is __comp_fin_glass__, and it has __comp_feat_container__. __comp_condition__
+a wooden stopper, which is a round wooden knob with a cork underside, made of __closure_wooden_stopper_material__, its surface is __comp_fin_wood__, and it has __comp_feat_container__. __comp_condition__

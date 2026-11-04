@@ -1,0 +1,12 @@
+a stethoscope, which is two earpieces on flexible tubes joining a chest piece that listens to the body, made of __tool_medicine_care_stethoscope_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a blood pressure cuff, which is a cloth band with a rubber bladder and a pump and dial that measures blood pressure, made of __tool_medicine_care_blood_pressure_cuff_material__, its surface is __comp_fin_soft__, and it has __comp_feat_tool__
+a reflex hammer, which is a small rubber-headed hammer with a handle for testing nerves, made of __tool_medicine_care_reflex_hammer_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+an otoscope, which is a handheld lamp with a funnel tip for looking in the ear, made of __tool_medicine_care_otoscope_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a surgical scalpel, which is a small handle that holds a replaceable sharp blade, made of __tool_medicine_care_surgical_scalpel_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a pair of forceps, which is a pair of tweezers-like arms with locking handles, made of __tool_medicine_care_forceps_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a pair of surgical scissors, which is small pointed or blunt-tipped scissors with ring handles, made of __tool_medicine_care_surgical_scissors_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a pair of medical gloves, which is thin, snug, disposable gloves, made of __tool_medicine_care_medical_gloves_material__, its surface is __comp_fin_hard__, and it has __comp_feat_tool__
+a surgical mask, which is a pleated paper mask with ear loops, made of __tool_medicine_care_surgical_mask_material__, its surface is __comp_fin_soft__, and it has __comp_feat_tool__
+a pair of scrubs, which is loose cotton short-sleeved shirt and trousers for working in medical areas, made of __tool_medicine_care_scrubs_material__, its surface is __comp_fin_soft__, and it has __comp_feat_tool__
+a thermometer, which is a small probe that reads body temperature, made of __tool_medicine_care_thermometer_material__, its surface is __comp_fin_glass__, and it has __comp_feat_tool__
+a syringe, which is a plastic barrel with a plunger and a needle at the tip, made of __tool_medicine_care_syringe_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__

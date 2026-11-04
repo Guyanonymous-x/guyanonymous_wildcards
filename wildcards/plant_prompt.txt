@@ -1,0 +1,40 @@
+An oak tree with a broad, spreading crown, deeply furrowed bark and lobed leaves, __plant_state__, __plant_hab_oak_tree__.
+A birch tree with slender white papery bark with dark marks and small, toothed leaves, __plant_state__, __plant_hab_birch_tree__.
+A maple tree with a rounded crown and palm-shaped leaves with pointed lobes, __plant_state__, __plant_hab_maple_tree__.
+A pine tree with a straight trunk, rust-coloured bark and bundles of long needles, __plant_state__, __plant_hab_pine_tree__.
+A willow tree with long drooping branches that sweep towards the ground and narrow leaves, __plant_state__, __plant_hab_willow_tree__.
+A baobab tree with a very thick, bottle-shaped trunk and a small crown of thin branches, __plant_state__, __plant_hab_baobab_tree__.
+A palm tree with a slender trunk topped with a spray of large feathery fronds, __plant_state__, __plant_hab_palm_tree__.
+A redwood tree with a towering, straight trunk with thick, soft, fibrous bark, __plant_state__, __plant_hab_redwood_tree__.
+A cherry tree in blossom with dark branches covered in pale pink flowers, __plant_state__, __plant_hab_cherry_tree_in_blossom__.
+An olive tree with a gnarled, twisted trunk and narrow silvery-green leaves, __plant_state__, __plant_hab_olive_tree__.
+A cypress tree with a tall, narrow, dark green flame shape, __plant_state__, __plant_hab_cypress_tree__.
+A banyan tree with many aerial roots hanging down and thickening into extra trunks, __plant_state__, __plant_hab_banyan_tree__.
+A bamboo grove with tall, smooth, jointed green stems with narrow leaves, __plant_state__, __plant_hab_bamboo_grove__.
+A sunflower with a tall stem, a large yellow-petalled head and a dark seed centre, __plant_state__, __plant_hab_sunflower__.
+A rose bush with thorny stems, glossy leaves and layered petals, __plant_state__, __plant_hab_rose_bush__.
+A lavender field with rows of grey-green plants topped with spikes of purple flowers, __plant_state__, __plant_hab_lavender_field__.
+A tulip bed with upright stems with smooth, cup-shaped flowers, __plant_state__, __plant_hab_tulip_bed__.
+A water lily with round floating pads and open, many-petalled flowers, __plant_state__, __plant_hab_water_lily__.
+An orchid with arching stems with unusual, delicately shaped blooms, __plant_state__, __plant_hab_orchid__.
+A cactus with a thick, ribbed, spiny green body in a dry landscape, __plant_state__, __plant_hab_cactus__.
+A fern with arching fronds that unroll from tightly curled tips, __plant_state__, __plant_hab_fern__.
+A moss on a log with a soft, dense green cushion over wet wood, __plant_state__, __plant_hab_moss_on_a_log__.
+A wild mushrooms with caps of different shapes on thin stems among leaf litter, __plant_state__, __plant_hab_wild_mushrooms__.
+An ivy on a wall with dense, lobed, dark green leaves climbing over old brick, __plant_state__, __plant_hab_ivy_on_a_wall__.
+A wheat field with dense golden stalks topped with heavy ears of grain, __plant_state__, __plant_hab_wheat_field__.
+A rice paddy with bright green rows of young plants standing in shallow water, __plant_state__, __plant_hab_rice_paddy__.
+A vineyard with neat rows of trained vines hung with bunches of grapes, __plant_state__, __plant_hab_vineyard__.
+A tea plantation with rolling terraces of clipped dark green bushes, __plant_state__, __plant_hab_tea_plantation__.
+A giant sequoia with an enormous reddish trunk rising without branches for many metres, __plant_state__, __plant_hab_giant_sequoia__.
+A mangrove with a tangle of arching prop roots standing in brackish water, __plant_state__, __plant_hab_mangrove__.
+A poppy meadow with a wide field of papery red flowers on slender stems, __plant_state__, __plant_hab_poppy_meadow__.
+An autumn forest with trees with leaves turning gold, orange and red, __plant_state__, __plant_hab_autumn_forest__.
+A snow-laden spruce with drooping dark branches heavy with fresh snow, __plant_state__, __plant_hab_snow_laden_spruce__.
+A dandelion seed head with a perfect round puff of feathery seeds on a thin stem, __plant_state__, __plant_hab_dandelion_seed_head__.
+A lotus flower with a large pink flower rising on a tall stem above flat round leaves, __plant_state__, __plant_hab_lotus_flower__.
+A wisteria with long hanging clusters of purple flowers on twisting stems, __plant_state__, __plant_hab_wisteria__.
+An aloe plant with thick, fleshy, toothed grey-green leaves growing in a rosette, __plant_state__, __plant_hab_aloe_plant__.
+A bonsai tree with a miniature tree with a carefully shaped trunk in a shallow pot, __plant_state__, __plant_hab_bonsai_tree__.
+A sugar cane with tall, jointed stems with long, narrow leaves, __plant_state__, __plant_hab_sugar_cane__.
+A fig tree with broad lobed leaves and soft pear-shaped fruit growing from the branches, __plant_state__, __plant_hab_fig_tree__.

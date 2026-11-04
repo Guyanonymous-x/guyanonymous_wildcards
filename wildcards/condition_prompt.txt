@@ -1,0 +1,8 @@
+__condition_building_prompt__
+__condition_vehicle_prompt__
+__condition_furniture_prompt__
+__condition_clothing_prompt__
+__condition_object_prompt__
+__condition_sign_prompt__
+__condition_book_prompt__
+__condition_statue_prompt__

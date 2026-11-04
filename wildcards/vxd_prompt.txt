@@ -1,0 +1,9 @@
+__vxd_car_prompt__
+__vxd_cart_prompt__
+__vxd_truck_prompt__
+__vxd_motorbike_prompt__
+__vxd_bicycle_prompt__
+__vxd_rail_prompt__
+__vxd_boat_prompt__
+__vxd_ship_prompt__
+__vxd_air_prompt__

@@ -1,0 +1,12 @@
+a colander, which is a bowl with holes and two handles, made of __home_cookware_colander_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_cookware__. __comp_condition__
+a frying pan, which is a round shallow pan with a long handle and sloped sides, made of __home_cookware_frying_pan_material__, its surface is __comp_fin_metal__, and it has __comp_feat_cookware__. __comp_condition__
+a saucepan, which is a deep round pan with a long handle and a lid, made of __home_cookware_saucepan_material__, its surface is __comp_fin_metal__, and it has __comp_feat_cookware__. __comp_condition__
+a stock pot, which is a tall wide pot with two side handles and a lid, made of __home_cookware_stock_pot_material__, its surface is __comp_fin_metal__, and it has __comp_feat_cookware__. __comp_condition__
+a wok, which is a deep bowl-shaped pan with a long handle and two small loops, made of __home_cookware_wok_material__, its surface is __comp_fin_metal__, and it has __comp_feat_cookware__. __comp_condition__
+a casserole dish, which is a heavy lidded pot with two side handles, made of __home_cookware_casserole_dish_material__, its surface is __comp_fin_glass__, and it has __comp_feat_cookware__. __comp_condition__
+a baking tray, which is a flat rectangular sheet with a rolled edge, made of __home_cookware_baking_tray_material__, its surface is __comp_fin_metal__, and it has __comp_feat_cookware__. __comp_condition__
+a roasting tin, which is a deep rectangular tin with two handles, made of __home_cookware_roasting_tin_material__, its surface is __comp_fin_metal__, and it has __comp_feat_cookware__. __comp_condition__
+a kettle, which is a spouted pot with a handle and a lid, for boiling water, made of __home_cookware_kettle_material__, its surface is __comp_fin_metal__, and it has __comp_feat_cookware__. __comp_condition__
+a teapot, which is a rounded pot with a spout, a handle and a lid, made of __home_cookware_teapot_material__, its surface is __comp_fin_metal__, and it has __comp_feat_cookware__. __comp_condition__
+a cast-iron skillet, which is a heavy round pan with a short helper handle, made of __home_cookware_cast_iron_skillet_material__, its surface is __comp_fin_metal__, and it has __comp_feat_cookware__. __comp_condition__
+a pressure cooker, which is a heavy lidded pot with a locking lid and a steam valve, made of __home_cookware_pressure_cooker_material__, its surface is __comp_fin_metal__, and it has __comp_feat_cookware__. __comp_condition__

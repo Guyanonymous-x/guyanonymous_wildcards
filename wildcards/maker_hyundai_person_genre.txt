@@ -1,0 +1,4 @@
+__vx_hatchback_base_person_prompt__
+__vx_saloon_base_person_prompt__
+__vx_suv_base_person_prompt__
+__vx_city_car_base_person_prompt__

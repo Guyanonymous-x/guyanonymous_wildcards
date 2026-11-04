@@ -1,0 +1,520 @@
+__acc_adj_standard__ bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+__acc_adj_standard__ braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+__acc_adj_standard__ cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+__acc_adj_standard__ claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+__acc_adj_standard__ cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+__acc_adj_standard__ cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+__acc_adj_standard__ crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+__acc_adj_standard__ engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+__acc_adj_standard__ eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+__acc_adj_standard__ eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+__acc_adj_standard__ heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+__acc_adj_standard__ knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+__acc_adj_standard__ knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+__acc_adj_standard__ open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+__acc_adj_standard__ plain band, made of __acc_ring_mat_all_standard__. It is a flat, 6-millimeter band with beveled edges.
+__acc_adj_standard__ plain band, made of __acc_ring_mat_all_standard__. It is a smooth, 4-millimeter domed band.
+__acc_adj_standard__ puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+__acc_adj_standard__ puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+__acc_adj_standard__ signet ring, made of __acc_ring_mat_all_standard__. It has a cushion-shaped flat face on a sturdy band.
+__acc_adj_standard__ signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+__acc_adj_standard__ signet ring, made of __acc_ring_mat_all_standard__. It has a heavy band rising to a flat oval face.
+__acc_adj_standard__ solitaire ring, made of __acc_ring_mat_all_standard__. It has a slim band rising to a single four-prong setting.
+__acc_adj_standard__ solitaire ring, made of __acc_ring_mat_all_standard__. It has a tapered band with a raised six-prong setting.
+__acc_adj_standard__ spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+__acc_adj_standard__ stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+__acc_adj_standard__ stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+__acc_adj_standard__ statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+__acc_adj_standard__ three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+__acc_adj_standard__ toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.
+__acc_adj_standard__ wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+__acc_adj_standard__ wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a balanced claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a balanced claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a balanced cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a balanced cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a balanced knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a balanced knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a balanced plain band, made of __acc_ring_mat_all_standard__. It is a smooth, 4-millimeter domed band.
+a balanced stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a balanced stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a balanced statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+a carefully made cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a carefully made heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+a carefully made plain band, made of __acc_ring_mat_all_standard__. It is a flat, 6-millimeter band with beveled edges.
+a carefully made puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a carefully made puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a carefully made spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+a carefully made wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a carefully made wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+a classic bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+a classic bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+a classic braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a classic braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a classic cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a classic knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a classic knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a classic signet ring, made of __acc_ring_mat_all_standard__. It has a heavy band rising to a flat oval face.
+a classic solitaire ring, made of __acc_ring_mat_all_standard__. It has a tapered band with a raised six-prong setting.
+a classic stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+a classic toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.
+a cleanly made cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a cleanly made cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a cleanly made crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+a cleanly made crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+a cleanly made heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+a cleanly made knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a cleanly made knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a cleanly made open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+a cleanly made plain band, made of __acc_ring_mat_all_standard__. It is a flat, 6-millimeter band with beveled edges.
+a cleanly made puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a cleanly made puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a cleanly made puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+a cleanly made signet ring, made of __acc_ring_mat_all_standard__. It has a cushion-shaped flat face on a sturdy band.
+a cleanly made signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a cleanly made signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a cleanly made stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a cleanly made stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a cleanly made three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+a cleanly made three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+a cleanly made wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a cleanly made wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+a comfortable claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a comfortable claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a comfortable cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a comfortable cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a comfortable engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+a comfortable knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a comfortable knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a comfortable knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+a comfortable puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+a comfortable signet ring, made of __acc_ring_mat_all_standard__. It has a heavy band rising to a flat oval face.
+a comfortable stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+a comfortable statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+a competent braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a competent braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a competent cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a competent cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a competent claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a competent claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a competent cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a competent cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a competent cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a competent cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a competent eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+a competent knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a competent knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a competent signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a competent signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a competent stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a competent stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a competent stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+a competent wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a competent wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+a considered bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+a considered bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+a considered braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a considered braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a considered claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a considered claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a considered cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a considered cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a considered eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a considered eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a considered knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a considered knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a considered knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+a considered plain band, made of __acc_ring_mat_all_standard__. It is a smooth, 4-millimeter domed band.
+a considered stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+a considered statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+a dapper claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a dapper claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a dapper cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a dapper knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+a dapper signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a dapper signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a dapper spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+a dependable bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+a dependable bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+a dependable cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a dependable cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a dependable engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+a dependable eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a dependable eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a dependable heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+a dependable open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+a dependable statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+a dependable wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a dependable wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+a good-looking braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a good-looking braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a good-looking crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+a good-looking crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+a good-looking engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+a good-looking knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+a good-looking puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+a good-looking signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a good-looking signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a good-looking solitaire ring, made of __acc_ring_mat_all_standard__. It has a slim band rising to a single four-prong setting.
+a good-looking spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+a good-looking stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+a good-looking statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+a good-looking three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+a good-looking three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+a good-looking wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+a good-looking wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a good-looking wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+a handsome bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+a handsome bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+a handsome cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a handsome cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a handsome cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a handsome cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a handsome crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+a handsome crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+a handsome engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+a handsome eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a handsome eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a handsome open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+a handsome plain band, made of __acc_ring_mat_all_standard__. It is a flat, 6-millimeter band with beveled edges.
+a handsome puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+a handsome spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+a handsome wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+a honest claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a honest claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a honest cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a honest cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a honest cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a honest cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a honest crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+a honest crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+a honest eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+a honest knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a honest knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a honest puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+a honest solitaire ring, made of __acc_ring_mat_all_standard__. It has a tapered band with a raised six-prong setting.
+a honest spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+a honest stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a honest stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a honest stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+a neat braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a neat braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a neat cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a neat cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a neat eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+a neat eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a neat eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a neat open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+a neat puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+a neat signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a neat signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a neat spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+a neat three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+a neat three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+a nicely finished braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a nicely finished braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a nicely finished cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a nicely finished cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a nicely finished cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a nicely finished eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a nicely finished eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a nicely finished knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+a nicely finished puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a nicely finished puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a nicely finished stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a nicely finished stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a nicely finished wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a nicely finished wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+a personable cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a personable eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+a personable eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a personable eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a personable puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+a personable spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+a personable stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a personable stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a personable statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+a personable toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.
+a personable wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a personable wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+a pleasing braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a pleasing braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a pleasing claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a pleasing claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a pleasing cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a pleasing cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a pleasing cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a pleasing cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a pleasing plain band, made of __acc_ring_mat_all_standard__. It is a smooth, 4-millimeter domed band.
+a pleasing solitaire ring, made of __acc_ring_mat_all_standard__. It has a tapered band with a raised six-prong setting.
+a pleasing stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+a pleasing wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+a polished-up cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a polished-up cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a polished-up claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a polished-up claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a polished-up cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a polished-up cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a polished-up cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a polished-up cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a polished-up eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+a polished-up heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+a polished-up knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+a polished-up puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a polished-up puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a polished-up signet ring, made of __acc_ring_mat_all_standard__. It has a cushion-shaped flat face on a sturdy band.
+a polished-up solitaire ring, made of __acc_ring_mat_all_standard__. It has a slim band rising to a single four-prong setting.
+a polished-up stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+a polished-up three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+a polished-up three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+a polished-up wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+a quality bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+a quality bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+a quality cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a quality cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a quality eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+a quality eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a quality eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a quality knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+a quality wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+a respectable bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+a respectable bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+a respectable braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a respectable braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a respectable cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a respectable crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+a respectable crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+a respectable heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+a respectable knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a respectable knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a respectable open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+a respectable puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a respectable puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a respectable signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a respectable signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a respectable solitaire ring, made of __acc_ring_mat_all_standard__. It has a slim band rising to a single four-prong setting.
+a respectable three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+a respectable three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+a shapely bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+a shapely bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+a shapely braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a shapely braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a shapely claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a shapely claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a shapely cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a shapely cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a shapely cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a shapely cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a shapely engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+a shapely heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+a shapely open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+a shapely signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a shapely signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a shapely stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a shapely stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a shapely three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+a shapely three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+a shapely toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.
+a shapely wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a shapely wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+a smart bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+a smart bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+a smart claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a smart claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a smart cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a smart cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a smart engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+a smart heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+a smart puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a smart puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a smart puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+a smart signet ring, made of __acc_ring_mat_all_standard__. It has a heavy band rising to a flat oval face.
+a smart statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+a smart three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+a smart three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+a smart toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.
+a smart wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+a solid cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a solid cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a solid signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a solid signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a solid three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+a solid three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+a solid toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.
+a solid wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+a solid wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a solid wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+a tasteful braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a tasteful braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a tasteful cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a tasteful cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a tasteful cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a tasteful cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a tasteful cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a tasteful eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+a tasteful eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a tasteful eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a tasteful knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a tasteful knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a tasteful puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a tasteful puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a tasteful signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a tasteful signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a tasteful stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a tasteful stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a tasteful statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+a tasteful three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+a tasteful three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+a tasteful toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.
+a thoughtfully designed cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a thoughtfully designed eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a thoughtfully designed eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a thoughtfully designed knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+a thoughtfully designed puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+a thoughtfully designed signet ring, made of __acc_ring_mat_all_standard__. It has a cushion-shaped flat face on a sturdy band.
+a thoughtfully designed stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a thoughtfully designed stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a thoughtfully designed wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+a trim cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a trim cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a trim heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+a trim knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a trim knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a trim knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+a trim plain band, made of __acc_ring_mat_all_standard__. It is a flat, 6-millimeter band with beveled edges.
+a trim stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a trim stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a versatile cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a versatile cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a versatile claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+a versatile claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+a versatile cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a versatile cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a versatile cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a versatile cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+a versatile eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+a versatile eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a versatile eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a versatile open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+a versatile plain band, made of __acc_ring_mat_all_standard__. It is a smooth, 4-millimeter domed band.
+a versatile puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a versatile puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a versatile signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a versatile signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a versatile signet ring, made of __acc_ring_mat_all_standard__. It has a heavy band rising to a flat oval face.
+a versatile spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+a versatile stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+a versatile stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+a versatile stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+a versatile wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+a versatile wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a versatile wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+a well-built braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+a well-built braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+a well-built cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a well-built cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a well-built crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+a well-built crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+a well-built engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+a well-built eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+a well-built open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+a well-built plain band, made of __acc_ring_mat_all_standard__. It is a flat, 6-millimeter band with beveled edges.
+a well-built puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a well-built puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a well-built three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+a well-built three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+a well-crafted bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+a well-crafted bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+a well-crafted cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a well-crafted cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a well-crafted cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a well-crafted cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a well-crafted cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+a well-crafted crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+a well-crafted crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+a well-crafted engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+a well-crafted eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+a well-crafted eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+a well-crafted heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+a well-crafted knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a well-crafted knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a well-crafted puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a well-crafted puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a well-crafted signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a well-crafted signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a well-crafted solitaire ring, made of __acc_ring_mat_all_standard__. It has a tapered band with a raised six-prong setting.
+a well-crafted spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+a well-crafted stacking ring, made of __acc_ring_mat_all_standard__. It is a whisper-thin 1.5-millimeter band.
+a well-proportioned bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+a well-proportioned bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+a well-proportioned cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+a well-proportioned cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+a well-proportioned cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+a well-proportioned cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone. It also includes __acc_ring_practical__.
+a well-proportioned crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+a well-proportioned crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+a well-proportioned knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle.
+a well-proportioned knuckle ring, made of __acc_ring_mat_all_standard__. It is a short, narrow ring worn above the knuckle. It also includes __acc_ring_practical__.
+a well-proportioned puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+a well-proportioned puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+a well-proportioned signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band.
+a well-proportioned signet ring, made of __acc_ring_mat_all_standard__. It has a flat oval face on a heavy tapered band. It also includes __acc_ring_practical__.
+a well-proportioned statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+a well-proportioned toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.
+a well-proportioned wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+a well-proportioned wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+an agreeable cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface.
+an agreeable cigar band ring, made of __acc_ring_mat_all_standard__. It is a broad, flat band with an engraved decorative surface. It also includes __acc_ring_practical__.
+an agreeable claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band.
+an agreeable claw-set solitaire, made of __acc_ring_mat_all_standard__. It has a single stone held high in slender prongs on a thin band. It also includes __acc_ring_practical__.
+an agreeable crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+an agreeable crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+an agreeable open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+an agreeable solitaire ring, made of __acc_ring_mat_all_standard__. It has a slim band rising to a single four-prong setting.
+an agreeable spinner ring, made of __acc_ring_mat_all_standard__. It is a band with a free-spinning outer ring.
+an agreeable toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.
+an appealing bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+an appealing bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+an appealing cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+an appealing knuckle ring, made of __acc_ring_mat_all_standard__. It is a tiny, delicate ring meant to sit above the knuckle.
+an appealing solitaire ring, made of __acc_ring_mat_all_standard__. It has a slim band rising to a single four-prong setting.
+an appealing stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others.
+an appealing stacking ring, made of __acc_ring_mat_all_standard__. It is a thin, delicate band meant to be worn with others. It also includes __acc_ring_practical__.
+an appealing statement dome ring, made of __acc_ring_mat_all_standard__. It is a broad, high dome that covers much of the finger.
+an appealing three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+an appealing three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+an appealing toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.
+an appealing wide band, made of __acc_ring_mat_all_standard__. It is a wide, 8-millimeter band with a brushed center stripe.
+an appealing wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front.
+an appealing wishbone ring, made of __acc_ring_mat_all_standard__. It is a band that dips into a V at the front. It also includes __acc_ring_practical__.
+an attractive crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+an attractive crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+an attractive eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with a continuous line of stones.
+an attractive eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones.
+an attractive eternity band, made of __acc_ring_mat_all_standard__. It is a band set all the way around with small matching stones. It also includes __acc_ring_practical__.
+an attractive open wrap ring, made of __acc_ring_mat_all_standard__. It is an open band whose two ends wrap past each other.
+an attractive signet ring, made of __acc_ring_mat_all_standard__. It has a heavy band rising to a flat oval face.
+an attractive solitaire ring, made of __acc_ring_mat_all_standard__. It has a tapered band with a raised six-prong setting.
+an easygoing bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim.
+an easygoing bezel-set ring, made of __acc_ring_mat_all_standard__. It has a stone encircled by a smooth metal rim. It also includes __acc_ring_practical__.
+an easygoing braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal.
+an easygoing braided band, made of __acc_ring_mat_all_standard__. It is a band of intertwined strands of metal. It also includes __acc_ring_practical__.
+an easygoing crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+an easygoing crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+an easygoing engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+an easygoing plain band, made of __acc_ring_mat_all_standard__. It is a smooth, 4-millimeter domed band.
+an easygoing puzzle ring, made of __acc_ring_mat_all_standard__. It is made of four interlocking bands that fit together into one.
+an easygoing signet ring, made of __acc_ring_mat_all_standard__. It has a heavy band rising to a flat oval face.
+an easygoing three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band.
+an easygoing three-stone ring, made of __acc_ring_mat_all_standard__. It has three stones in a row on a plain band. It also includes __acc_ring_practical__.
+an orderly cluster ring, made of __acc_ring_mat_all_standard__. It has a flower-like cluster of small stones around a center stone.
+an orderly cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger.
+an orderly cocktail ring, made of __acc_ring_mat_all_standard__. It has a large, domed centerpiece rising high off the finger. It also includes __acc_ring_practical__.
+an orderly crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front.
+an orderly crossover ring, made of __acc_ring_mat_all_standard__. It has two ends that cross over each other at the front. It also includes __acc_ring_practical__.
+an orderly engagement halo ring, made of __acc_ring_mat_all_standard__. It has a center stone ringed by a halo on a split-shank band.
+an orderly heart-and-hands ring, made of __acc_ring_mat_all_standard__. It shows two hands holding a crowned heart.
+an orderly puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together.
+an orderly puzzle ring, made of __acc_ring_mat_all_standard__. It is a band made of interlocking loops that fit together. It also includes __acc_ring_practical__.
+an orderly signet ring, made of __acc_ring_mat_all_standard__. It has a heavy band rising to a flat oval face.
+an orderly toi-et-moi ring, made of __acc_ring_mat_all_standard__. It is an open, crossover band holding two stones that face each other.

@@ -1,0 +1,750 @@
+__acc_adj_standard__ Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+__acc_adj_standard__ Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+__acc_adj_standard__ Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+__acc_adj_standard__ Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+__acc_adj_standard__ Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+__acc_adj_standard__ Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+__acc_adj_standard__ bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+__acc_adj_standard__ batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+__acc_adj_standard__ bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+__acc_adj_standard__ cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+__acc_adj_standard__ cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+__acc_adj_standard__ crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+__acc_adj_standard__ floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+__acc_adj_standard__ hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+__acc_adj_standard__ hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+__acc_adj_standard__ ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+__acc_adj_standard__ lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+__acc_adj_standard__ linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+__acc_adj_standard__ map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+__acc_adj_standard__ monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+__acc_adj_standard__ paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+__acc_adj_standard__ pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+__acc_adj_standard__ polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+__acc_adj_standard__ silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+__acc_adj_standard__ silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+__acc_adj_standard__ spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+__acc_adj_standard__ striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+__acc_adj_standard__ tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+__acc_adj_standard__ tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+__acc_adj_standard__ travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a balanced Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+a balanced Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+a balanced cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+a balanced cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+a balanced floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+a balanced floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+a balanced ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+a balanced ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+a balanced lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+a balanced lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+a balanced linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+a balanced linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+a balanced map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+a balanced map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+a balanced paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+a balanced paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+a balanced polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a balanced polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a balanced silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+a balanced silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+a balanced tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+a balanced tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+a balanced travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a balanced travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a carefully made Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+a carefully made Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+a carefully made Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+a carefully made Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+a carefully made Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a carefully made Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a carefully made batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a carefully made batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a carefully made hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a carefully made hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a carefully made lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+a carefully made lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+a carefully made polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a carefully made polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a carefully made silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+a carefully made silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+a carefully made tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+a carefully made tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+a carefully made tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a carefully made tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a carefully made travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a carefully made travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a classic Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+a classic Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+a classic Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a classic Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a classic Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+a classic Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+a classic bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a classic bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a classic bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+a classic bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+a classic cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a classic cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a classic silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+a classic silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+a classic spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a classic spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a classic striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a classic striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a classic tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a classic tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a classic travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a classic travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a cleanly made Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a cleanly made Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a cleanly made Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a cleanly made Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a cleanly made batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a cleanly made batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a cleanly made bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+a cleanly made bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+a cleanly made cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a cleanly made cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a cleanly made crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+a cleanly made crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+a cleanly made floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+a cleanly made floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+a cleanly made lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+a cleanly made lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+a cleanly made monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+a cleanly made monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+a cleanly made polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a cleanly made polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a cleanly made silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+a cleanly made silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+a cleanly made spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a cleanly made spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a cleanly made striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a cleanly made striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a comfortable Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+a comfortable Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+a comfortable Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a comfortable Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a comfortable Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+a comfortable Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+a comfortable Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+a comfortable Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+a comfortable lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+a comfortable lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+a comfortable linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+a comfortable linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+a comfortable paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+a comfortable paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+a comfortable pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+a comfortable pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+a comfortable silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+a comfortable silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+a comfortable spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a comfortable spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a comfortable striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a comfortable striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a competent Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+a competent Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+a competent Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+a competent Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+a competent bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a competent bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a competent cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+a competent cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+a competent hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a competent hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a competent hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+a competent hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+a competent ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+a competent ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+a competent monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+a competent monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+a competent pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+a competent pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+a competent silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+a competent silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+a competent tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a competent tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a considered Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+a considered Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+a considered Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a considered Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a considered bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a considered bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a considered batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a considered batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a considered cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a considered cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a considered floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+a considered floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+a considered hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a considered hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a considered hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+a considered hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+a considered ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+a considered ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+a considered linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+a considered linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+a considered polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a considered polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a considered spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a considered spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a dapper Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+a dapper Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+a dapper bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a dapper bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a dapper crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+a dapper crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+a dapper monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+a dapper monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+a dapper paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+a dapper paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+a dapper pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+a dapper pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+a dapper striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a dapper striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a dapper travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a dapper travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a dependable Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+a dependable Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+a dependable Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+a dependable Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+a dependable bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a dependable bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a dependable cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a dependable cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a dependable crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+a dependable crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+a dependable pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+a dependable pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+a dependable silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+a dependable silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+a dependable spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a dependable spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a dependable striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a dependable striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a dependable tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+a dependable tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+a dependable tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a dependable tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a good-looking Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+a good-looking Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+a good-looking Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a good-looking Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a good-looking Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a good-looking Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a good-looking Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+a good-looking Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+a good-looking bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a good-looking bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a good-looking cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a good-looking cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a good-looking hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a good-looking hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a good-looking lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+a good-looking lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+a good-looking linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+a good-looking linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+a good-looking tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+a good-looking tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+a handsome Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+a handsome Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+a handsome cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a handsome cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a handsome hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+a handsome hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+a handsome ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+a handsome ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+a handsome lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+a handsome lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+a handsome map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+a handsome map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+a handsome silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+a handsome silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+a handsome spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a handsome spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a handsome striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a handsome striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a honest Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+a honest Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+a honest Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a honest Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a honest batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a honest batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a honest crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+a honest crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+a honest hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a honest hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a honest hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+a honest hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+a honest lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+a honest lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+a honest monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+a honest monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+a honest polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a honest polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a honest silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+a honest silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+a honest striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a honest striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a honest tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+a honest tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+a neat Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+a neat Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+a neat Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a neat Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a neat Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+a neat Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+a neat bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a neat bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a neat batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a neat batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a neat bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+a neat bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+a neat cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+a neat cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+a neat hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a neat hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a neat hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+a neat hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+a neat ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+a neat ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+a neat linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+a neat linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+a neat map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+a neat map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+a neat monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+a neat monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+a neat spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a neat spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a neat tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a neat tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a nicely finished Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+a nicely finished Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+a nicely finished cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a nicely finished cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a nicely finished cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+a nicely finished cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+a nicely finished ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+a nicely finished ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+a nicely finished map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+a nicely finished map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+a nicely finished travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a nicely finished travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a personable Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a personable Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a personable floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+a personable floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+a personable hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+a personable hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+a personable linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+a personable linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+a personable paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+a personable paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+a personable silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+a personable silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+a personable silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+a personable silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+a personable tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a personable tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a personable travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a personable travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a pleasing cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+a pleasing cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+a pleasing floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+a pleasing floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+a pleasing hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+a pleasing hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+a pleasing lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+a pleasing lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+a pleasing paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+a pleasing paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+a pleasing pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+a pleasing pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+a pleasing polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a pleasing polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a pleasing spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a pleasing spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a pleasing striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a pleasing striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a pleasing tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+a pleasing tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+a pleasing tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a pleasing tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a pleasing travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a pleasing travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a polished-up batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a polished-up batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a polished-up bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+a polished-up bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+a polished-up hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+a polished-up hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+a polished-up linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+a polished-up linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+a polished-up monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+a polished-up monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+a polished-up spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a polished-up spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a polished-up striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a polished-up striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a quality Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a quality Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a quality Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a quality Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a quality batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a quality batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a quality bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+a quality bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+a quality cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a quality cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a quality cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+a quality cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+a quality floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+a quality floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+a quality ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+a quality ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+a quality linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+a quality linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+a quality monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+a quality monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+a quality spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a quality spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a quality tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+a quality tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+a respectable Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+a respectable Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+a respectable Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a respectable Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a respectable Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+a respectable Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+a respectable Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+a respectable Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+a respectable bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a respectable bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a respectable bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+a respectable bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+a respectable hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a respectable hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a respectable map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+a respectable map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+a respectable monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+a respectable monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+a respectable paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+a respectable paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+a respectable polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a respectable polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a respectable silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+a respectable silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+a respectable striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a respectable striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a respectable tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a respectable tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a shapely Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a shapely Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a shapely Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+a shapely Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+a shapely cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+a shapely cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+a shapely ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+a shapely ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+a shapely monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+a shapely monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+a shapely silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+a shapely silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+a shapely tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a shapely tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a shapely travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a shapely travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a smart Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+a smart Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+a smart Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+a smart Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+a smart crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+a smart crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+a smart linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+a smart linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+a smart silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+a smart silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+a smart tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+a smart tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+a solid Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+a solid Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+a solid Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a solid Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a solid batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a solid batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a solid bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+a solid bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+a solid floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+a solid floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+a solid hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a solid hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a solid ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+a solid ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+a solid linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+a solid linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+a solid map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+a solid map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+a solid pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+a solid pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+a solid polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a solid polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a solid silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+a solid silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+a solid striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a solid striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a solid tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+a solid tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+a tasteful Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a tasteful Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a tasteful Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+a tasteful Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+a tasteful bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a tasteful bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a tasteful batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a tasteful batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a tasteful cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a tasteful cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a tasteful crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+a tasteful crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+a tasteful silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+a tasteful silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+a tasteful striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes.
+a tasteful striped handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed in bold stripes. It also includes __acc_handkerchief_practical__.
+a tasteful travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a tasteful travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a thoughtfully designed Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+a thoughtfully designed Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+a thoughtfully designed Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a thoughtfully designed Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a thoughtfully designed cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+a thoughtfully designed cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+a thoughtfully designed floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+a thoughtfully designed floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+a thoughtfully designed hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+a thoughtfully designed hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+a thoughtfully designed pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+a thoughtfully designed pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+a thoughtfully designed silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+a thoughtfully designed silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+a thoughtfully designed tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a thoughtfully designed tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a trim Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+a trim Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+a trim Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+a trim Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+a trim Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a trim Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a trim Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+a trim Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+a trim Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+a trim Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+a trim bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a trim bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a trim batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a trim batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a trim bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+a trim bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+a trim cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a trim cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a trim hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a trim hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a trim ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+a trim ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+a trim map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+a trim map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+a trim paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+a trim paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+a trim pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+a trim pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+a trim spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+a trim spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+a versatile Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+a versatile Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+a versatile Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+a versatile Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+a versatile bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a versatile bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a versatile bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+a versatile bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+a versatile cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+a versatile cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+a versatile hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a versatile hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a versatile map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+a versatile map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+a versatile polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a versatile polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a versatile travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a versatile travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a well-built Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+a well-built Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+a well-built batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+a well-built batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+a well-built cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+a well-built cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+a well-built crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+a well-built crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+a well-built lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+a well-built lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+a well-built paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+a well-built paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+a well-built pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+a well-built pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+a well-built polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a well-built polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a well-crafted Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+a well-crafted Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+a well-crafted Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a well-crafted Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a well-crafted bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square.
+a well-crafted bandana, made of __acc_handkerchief_mat_all_standard__. It is a large printed cotton square. It also includes __acc_handkerchief_practical__.
+a well-crafted crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+a well-crafted crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+a well-crafted floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+a well-crafted floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+a well-crafted hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+a well-crafted hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+a well-crafted monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+a well-crafted monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+a well-crafted paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+a well-crafted paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+a well-crafted pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+a well-crafted pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+a well-crafted polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+a well-crafted polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+a well-crafted tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+a well-crafted tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+a well-crafted tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+a well-crafted tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+a well-crafted travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+a well-crafted travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+a well-proportioned Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+a well-proportioned Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+a well-proportioned Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+a well-proportioned Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+a well-proportioned Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+a well-proportioned Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+a well-proportioned Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+a well-proportioned Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+a well-proportioned bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+a well-proportioned bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+a well-proportioned cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+a well-proportioned cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+a well-proportioned floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+a well-proportioned floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+a well-proportioned hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+a well-proportioned hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+a well-proportioned map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+a well-proportioned map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+a well-proportioned paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+a well-proportioned paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+a well-proportioned silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+a well-proportioned silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+a well-proportioned silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+a well-proportioned silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+an agreeable Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth.
+an agreeable Japanese furoshiki handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a small wrapping cloth. It also includes __acc_handkerchief_practical__.
+an agreeable Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+an agreeable Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+an agreeable Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+an agreeable Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+an agreeable bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+an agreeable bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+an agreeable cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+an agreeable cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+an agreeable crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+an agreeable crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+an agreeable hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+an agreeable hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+an agreeable lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+an agreeable lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+an agreeable map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+an agreeable map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+an agreeable monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+an agreeable monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+an agreeable silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+an agreeable silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+an agreeable silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+an agreeable silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+an appealing Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+an appealing Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+an appealing Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border.
+an appealing Swiss cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a very fine cotton square with a printed border. It also includes __acc_handkerchief_practical__.
+an appealing bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon.
+an appealing bridal handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a lace handkerchief with a small ribbon. It also includes __acc_handkerchief_practical__.
+an appealing crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+an appealing crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+an appealing floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+an appealing floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+an appealing hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner.
+an appealing hand-embroidered handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a hand-embroidered flower in one corner. It also includes __acc_handkerchief_practical__.
+an appealing hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border.
+an appealing hemstitched handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a drawn-thread border. It also includes __acc_handkerchief_practical__.
+an appealing linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+an appealing linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+an appealing map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+an appealing map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+an appealing pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+an appealing pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+an attractive batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs.
+an attractive batik handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a square painted with wax-resist designs. It also includes __acc_handkerchief_practical__.
+an attractive cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square.
+an attractive cashmere pocket square, made of __acc_handkerchief_mat_all_standard__. It is a soft cashmere square. It also includes __acc_handkerchief_practical__.
+an attractive cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton.
+an attractive cotton handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square of cotton. It also includes __acc_handkerchief_practical__.
+an attractive crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+an attractive crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+an attractive ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+an attractive ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+an attractive map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map.
+an attractive map-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with a detailed map. It also includes __acc_handkerchief_practical__.
+an attractive paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+an attractive paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+an attractive tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+an attractive tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.
+an easygoing Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks.
+an easygoing Indian block-print handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a cotton square printed with carved blocks. It also includes __acc_handkerchief_practical__.
+an easygoing Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+an easygoing Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+an easygoing Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns.
+an easygoing Japanese tenugui, made of __acc_handkerchief_mat_all_standard__. It is a long thin cotton cloth with dyed patterns. It also includes __acc_handkerchief_practical__.
+an easygoing Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border.
+an easygoing Victorian mourning handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain square with a dark border. It also includes __acc_handkerchief_practical__.
+an easygoing lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+an easygoing lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+an easygoing monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge.
+an easygoing monogram-free initial-free handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a plain handkerchief with a rolled edge. It also includes __acc_handkerchief_practical__.
+an easygoing pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border.
+an easygoing pocket square with printed border, made of __acc_handkerchief_mat_all_standard__. It is a square of fine cloth with a printed border. It also includes __acc_handkerchief_practical__.
+an easygoing polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots.
+an easygoing polka-dot bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in dots. It also includes __acc_handkerchief_practical__.
+an easygoing silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+an easygoing silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+an easygoing tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace.
+an easygoing tatted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of tiny knotted lace. It also includes __acc_handkerchief_practical__.
+an easygoing travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square.
+an easygoing travel handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a quick-dry square. It also includes __acc_handkerchief_practical__.
+an orderly Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem.
+an orderly Irish linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a fine linen square with a hand-rolled hem. It also includes __acc_handkerchief_practical__.
+an orderly crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops.
+an orderly crocheted-edge handkerchief, made of __acc_handkerchief_mat_all_standard__. It has an edge of crocheted loops. It also includes __acc_handkerchief_practical__.
+an orderly floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers.
+an orderly floral handkerchief, made of __acc_handkerchief_mat_all_standard__. It is printed with flowers. It also includes __acc_handkerchief_practical__.
+an orderly ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern.
+an orderly ikat handkerchief, made of __acc_handkerchief_mat_all_standard__. It has a soft blurred woven pattern. It also includes __acc_handkerchief_practical__.
+an orderly lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border.
+an orderly lace-edged handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a handkerchief with a lace border. It also includes __acc_handkerchief_practical__.
+an orderly linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen.
+an orderly linen handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a crisp square of linen. It also includes __acc_handkerchief_practical__.
+an orderly paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls.
+an orderly paisley bandana, made of __acc_handkerchief_mat_all_standard__. It is a bandana covered in teardrop swirls. It also includes __acc_handkerchief_practical__.
+an orderly silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket.
+an orderly silk pocket square, made of __acc_handkerchief_mat_all_standard__. It is a small square of silk, folded into a pocket. It also includes __acc_handkerchief_practical__.
+an orderly silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square.
+an orderly silk twill pocket square, made of __acc_handkerchief_mat_all_standard__. It is a thick twill silk square. It also includes __acc_handkerchief_practical__.
+an orderly spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck.
+an orderly spotted neckerchief, made of __acc_handkerchief_mat_all_standard__. It is a spotted square tied at the neck. It also includes __acc_handkerchief_practical__.
+an orderly tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square.
+an orderly tartan handkerchief, made of __acc_handkerchief_mat_all_standard__. It is a woven plaid square. It also includes __acc_handkerchief_practical__.

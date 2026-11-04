@@ -1,0 +1,9 @@
+a flat weight bench, which is a padded flat bench on a steel frame, made of __gear_gym_weights_flat_weight_bench_material__, its surface is __comp_fin_soft__, and it has __comp_feat_equipment__
+an adjustable incline bench, which is a padded bench with a back that can be set at different angles, made of __gear_gym_weights_adjustable_incline_bench_material__, its surface is __comp_fin_soft__, and it has __comp_feat_equipment__
+a dumbbell rack, which is a two-tier rack holding pairs of hex dumbbells in size order, made of __gear_gym_weights_dumbbell_rack_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a squat rack, which is a heavy steel frame with two uprights, adjustable hooks and safety bars, made of __gear_gym_weights_squat_rack_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a barbell rack with plates, which is a tall rack holding long bars and stacks of round weight plates, made of __gear_gym_weights_barbell_rack_with_plates_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a cable crossover machine, which is two tall columns with pulley cables, handles and a weight stack, made of __gear_gym_weights_cable_crossover_machine_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a leg press machine, which is a sloped seat with a large foot plate and weight plates, made of __gear_gym_weights_leg_press_machine_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a pull-up frame, which is a freestanding frame with a high bar and parallel handles, made of __gear_gym_weights_pull_up_frame_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a kettlebell shelf, which is a low rack with kettlebells in rising sizes, made of __gear_gym_weights_kettlebell_shelf_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__

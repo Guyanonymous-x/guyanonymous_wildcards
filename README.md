@@ -8,7 +8,7 @@ A slightly extensive wildcard system for generating text prompts for txt2img gen
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 31,400 wildcard text files (0 `.txt` files in [`wildcards/`](wildcards/) at v77, plus 830 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 32,700 wildcard text files (32,712 `.txt` files in [`wildcards/`](wildcards/) at v77, plus 830 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
@@ -41,7 +41,7 @@ The full list of v76 entry points is in `wildcards/v76_entry_points.txt`.
 
 ## Features
 
-- **Large drop-in library.** One flat folder of 0 `.txt` files using the common `__name__` wildcard syntax. You need no Python to use it.
+- **Large drop-in library.** One flat folder of 32,712 `.txt` files using the common `__name__` wildcard syntax. You need no Python to use it.
 - **Women and men in one folder.** `f_` files are female, `m_` files are male and unprefixed files are shared. `any_` files are gender-neutral (they/their). At v74 there are 1,466 `f_`, 1,457 `m_` and 1,246 `any_` files.
 - **Character creation system (v42).** `f_create_random_woman`, `m_create_random_man`, `any_create_random_person` and fixed identities (trans, intersex, non-binary, androgynous, in transition). It has three age modes (realistic, mismatched, unlinked), clothing states (none, `_w_clothes`, `_nude`, `_topless`, `_bottomless`), `_short` versions and an optional `_traits` suffix.
 - **Conditioned layers.** In the master prompts the age bracket is chosen first. Body type, hair type, clothing, accessories, mobility aids, settings and poses then follow from it:

@@ -1,0 +1,14 @@
+a chest trunk, which is a travel trunk with leather straps and brass corners, made of __furn_storage_chest_trunk_material__, its surface is __comp_fin_soft__, and it has __comp_feat_furniture__
+a storage ottoman, which is a padded cube with a lift-off lid for storage, made of __furn_storage_storage_ottoman_material__, its surface is __comp_fin_soft__, and it has __comp_feat_furniture__
+a credenza, which is a long low sideboard with sliding doors on the front and a flat top, made of __furn_storage_credenza_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
+a sideboard, which is a wide cupboard with drawers and two doors, standing on short legs, made of __furn_storage_sideboard_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
+a bookcase, which is a tall frame with five open shelves, made of __furn_storage_bookcase_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
+a pair of chest of drawers, which is a tall cabinet with four deep drawers and round knobs, made of __furn_storage_chest_of_drawers_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
+a wardrobe, which is a tall two-door cupboard with a hanging rail inside, made of __furn_storage_wardrobe_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
+a tallboy, which is a very tall chest with six narrow drawers, made of __furn_storage_tallboy_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
+a display cabinet, which is a tall cabinet with glass doors and glass shelves, made of __furn_storage_display_cabinet_material__, its surface is __comp_fin_glass__, and it has __comp_feat_furniture__
+a shoe rack, which is a narrow stand with slanted shelves for shoes, made of __furn_storage_shoe_rack_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
+a blanket chest, which is a long wooden box with a hinged lid, at the foot of a bed, made of __furn_storage_blanket_chest_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
+a wall shelf, which is a single board fixed to a wall on two brackets, made of __furn_storage_wall_shelf_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
+a filing cabinet, which is a metal cabinet with three deep drawers and a label holder, made of __furn_storage_filing_cabinet_material__, its surface is __comp_fin_metal__, and it has __comp_feat_furniture__
+a TV stand, which is a low wide unit with an open shelf and two cupboards, made of __furn_storage_tv_stand_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__

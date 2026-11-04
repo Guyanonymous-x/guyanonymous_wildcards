@@ -1,0 +1,900 @@
+__acc_adj_luxury__ French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+__acc_adj_luxury__ barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+__acc_adj_luxury__ bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+__acc_adj_luxury__ circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+__acc_adj_luxury__ claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+__acc_adj_luxury__ feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+__acc_adj_luxury__ flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+__acc_adj_luxury__ hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+__acc_adj_luxury__ hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+__acc_adj_luxury__ hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+__acc_adj_luxury__ hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+__acc_adj_luxury__ hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+__acc_adj_luxury__ hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+__acc_adj_luxury__ hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+__acc_adj_luxury__ hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+__acc_adj_luxury__ hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+__acc_adj_luxury__ headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+__acc_adj_luxury__ jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+__acc_adj_luxury__ kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+__acc_adj_luxury__ knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+__acc_adj_luxury__ laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+__acc_adj_luxury__ maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+__acc_adj_luxury__ matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+__acc_adj_luxury__ padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+__acc_adj_luxury__ ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+__acc_adj_luxury__ scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+__acc_adj_luxury__ snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+__acc_adj_luxury__ tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+__acc_adj_luxury__ tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+__acc_adj_luxury__ tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+a bespoke circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a bespoke circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a bespoke claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+a bespoke claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a bespoke hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+a bespoke hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a bespoke hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+a bespoke hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a bespoke jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+a bespoke jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a bespoke laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+a bespoke laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a bespoke maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+a bespoke maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a bespoke padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+a bespoke padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a bespoke tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+a bespoke tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a couture French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+a couture French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a couture circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a couture circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a couture feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a couture feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a couture flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+a couture flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a couture hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+a couture hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a couture hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a couture hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a couture hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+a couture hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a couture hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a couture hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a couture hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+a couture hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a couture jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+a couture jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a couture maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+a couture maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a couture scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a couture scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a couture tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+a couture tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a decadent flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+a decadent flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a decadent hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+a decadent hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a decadent hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+a decadent hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a decadent hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a decadent hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a decadent hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+a decadent hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a decadent hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+a decadent hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a decadent headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a decadent headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a decadent kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+a decadent kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a decadent knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+a decadent knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a decadent maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+a decadent maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a decadent tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+a decadent tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a decadent tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+a decadent tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a decadent tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+a decadent tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a gilded French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+a gilded French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a gilded hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+a gilded hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a gilded hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+a gilded hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a gilded hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+a gilded hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a gilded hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+a gilded hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a gilded kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+a gilded kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a gilded knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+a gilded knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a gilded maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+a gilded maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a gilded tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+a gilded tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a grand bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+a grand bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a grand claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+a grand claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a grand flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+a grand flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a grand hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+a grand hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a grand hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+a grand hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a grand hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+a grand hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a grand hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+a grand hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a grand headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a grand headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a grand kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+a grand kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a grand laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+a grand laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a grand padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+a grand padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a grand ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a grand ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a grand scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a grand scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a grand snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+a grand snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a handcrafted French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+a handcrafted French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a handcrafted feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a handcrafted feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a handcrafted flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+a handcrafted flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a handcrafted hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+a handcrafted hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a handcrafted hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a handcrafted hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a handcrafted hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+a handcrafted hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a handcrafted jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+a handcrafted jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a handcrafted knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+a handcrafted knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a handcrafted maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+a handcrafted maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a handcrafted matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a handcrafted matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a handcrafted padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+a handcrafted padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a heirloom-quality barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+a heirloom-quality barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a heirloom-quality circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a heirloom-quality circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a heirloom-quality hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+a heirloom-quality hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a heirloom-quality hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+a heirloom-quality hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a heirloom-quality hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a heirloom-quality hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a heirloom-quality hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+a heirloom-quality hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a heirloom-quality maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+a heirloom-quality maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a heirloom-quality ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a heirloom-quality ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a heirloom-quality scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a heirloom-quality scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a heirloom-quality snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+a heirloom-quality snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a lavish circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a lavish circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a lavish feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a lavish feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a lavish hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+a lavish hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a lavish hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+a lavish hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a lavish hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a lavish hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a lavish kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+a lavish kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a lavish laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+a lavish laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a lavish scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a lavish scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a lavish snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+a lavish snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a lavish tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+a lavish tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a lavish tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+a lavish tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a luxurious feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a luxurious feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a luxurious hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a luxurious hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a luxurious hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+a luxurious hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a luxurious headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a luxurious headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a luxurious kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+a luxurious kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a luxurious matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a luxurious matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a luxurious snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+a luxurious snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a luxurious tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+a luxurious tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a majestic French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+a majestic French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a majestic bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+a majestic bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a majestic circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a majestic circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a majestic claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+a majestic claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a majestic hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+a majestic hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a majestic hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+a majestic hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a majestic laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+a majestic laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a majestic matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a majestic matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a majestic ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a majestic ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a majestic scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a majestic scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a masterfully made bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+a masterfully made bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a masterfully made claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+a masterfully made claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a masterfully made feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a masterfully made feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a masterfully made hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+a masterfully made hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a masterfully made hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a masterfully made hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a masterfully made hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a masterfully made hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a masterfully made hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+a masterfully made hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a masterfully made hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+a masterfully made hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a masterfully made headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a masterfully made headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a masterfully made kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+a masterfully made kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a masterfully made laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+a masterfully made laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a masterfully made matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a masterfully made matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a masterfully made ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a masterfully made ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a masterfully made tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+a masterfully made tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a noble French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+a noble French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a noble barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+a noble barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a noble bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+a noble bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a noble claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+a noble claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a noble feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a noble feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a noble hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+a noble hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a noble hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+a noble hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a noble jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+a noble jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a noble kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+a noble kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a noble knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+a noble knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a noble padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+a noble padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a noble snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+a noble snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a noble tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+a noble tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a noble tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+a noble tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a painstaking bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+a painstaking bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a painstaking circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a painstaking circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a painstaking hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+a painstaking hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a painstaking hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+a painstaking hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a painstaking hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+a painstaking hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a painstaking jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+a painstaking jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a painstaking padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+a painstaking padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a painstaking ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a painstaking ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a painstaking scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a painstaking scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a painstaking tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+a painstaking tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a pair of __acc_adjbare_luxury__ beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of __acc_adjbare_luxury__ bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of __acc_adjbare_luxury__ decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of __acc_adjbare_luxury__ hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of __acc_adjbare_luxury__ hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of __acc_adjbare_luxury__ pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of artisanal beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of artisanal beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of atelier-made decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of atelier-made decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of atelier-made pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of atelier-made pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of bespoke bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of bespoke bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of bespoke decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of bespoke decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of bespoke hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of bespoke hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of bespoke hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of bespoke hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of couture decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of couture decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of couture hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of couture hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of couture pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of couture pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of decadent beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of decadent beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of decadent bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of decadent bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of decadent hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of decadent hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of exclusive beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of exclusive beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of exclusive bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of exclusive bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of exclusive decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of exclusive decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of exclusive hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of exclusive hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of exclusive hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of exclusive hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of extraordinary bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of extraordinary bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of extraordinary pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of extraordinary pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of gilded beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of gilded beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of gilded hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of gilded hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of grand decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of grand decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of grand hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of grand hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of handcrafted bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of handcrafted bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of handcrafted hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of handcrafted hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of handcrafted hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of handcrafted hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of heirloom-quality hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of heirloom-quality hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of immaculately hand-finished bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of immaculately hand-finished bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of lavish decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of lavish decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of lavish pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of lavish pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of luxurious beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of luxurious beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of luxurious bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of luxurious bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of majestic bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of majestic bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of majestic decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of majestic decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of majestic hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of majestic hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of majestic pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of majestic pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of masterfully made pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of masterfully made pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of noble decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of noble decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of opulent beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of opulent beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of opulent pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of opulent pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of painstaking bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of painstaking bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of plush beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of plush beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of plush pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of plush pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of prestigious beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of prestigious beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of prestigious decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of prestigious decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of prestigious hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of prestigious hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of prestigious pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of prestigious pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of princely decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of princely decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of princely hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of princely hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of rarefied bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of rarefied bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of rarefied decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of rarefied decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of rarefied hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of rarefied hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of rarefied pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of rarefied pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of resplendent hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of resplendent hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of resplendent pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of resplendent pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of rich beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of rich beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of rich hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of rich hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of silken beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of silken beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of silken hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of silken hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of sophisticated beyond measure hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of sophisticated beyond measure hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of sublime beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of sublime beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of sublime bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of sublime bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of sublime hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of sublime hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of sublime hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of sublime hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of sumptuous hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of sumptuous hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of sumptuous hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun.
+a pair of sumptuous hair sticks, made of __acc_hairpiece_mat_all_luxury__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of supremely refined beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip.
+a pair of supremely refined beaded braid clips, made of __acc_hairpiece_mat_all_luxury__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of supremely refined bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair.
+a pair of supremely refined bobby pins, made of __acc_hairpiece_mat_all_luxury__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of supremely refined pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls.
+a pair of supremely refined pearl hairpins, made of __acc_hairpiece_mat_all_luxury__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of velvety decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops.
+a pair of velvety decorative hairpins, made of __acc_hairpiece_mat_all_luxury__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of velvety hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids.
+a pair of velvety hair rings, made of __acc_hairpiece_mat_all_luxury__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a plush bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+a plush bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a plush flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+a plush flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a plush hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+a plush hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a plush hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+a plush hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a plush hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a plush hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a plush hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+a plush hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a plush hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a plush hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a plush hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+a plush hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a plush headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a plush headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a plush knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+a plush knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a plush scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a plush scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a plush snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+a plush snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a plush tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+a plush tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a prestigious French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+a prestigious French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a prestigious barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+a prestigious barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a prestigious claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+a prestigious claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a prestigious hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+a prestigious hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a prestigious hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+a prestigious hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a prestigious hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+a prestigious hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a prestigious headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a prestigious headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a prestigious laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+a prestigious laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a prestigious padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+a prestigious padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a prestigious scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a prestigious scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a prestigious tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+a prestigious tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a princely barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+a princely barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a princely bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+a princely bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a princely hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+a princely hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a princely hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a princely hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a princely hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+a princely hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a princely jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+a princely jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a princely laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+a princely laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a princely matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a princely matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a princely padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+a princely padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a princely ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a princely ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a rarefied French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+a rarefied French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a rarefied bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+a rarefied bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a rarefied circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a rarefied circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a rarefied hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a rarefied hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a rarefied hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+a rarefied hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a rarefied hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+a rarefied hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a rarefied headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a rarefied headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a rarefied jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+a rarefied jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a rarefied laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+a rarefied laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a rarefied matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a rarefied matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a rarefied ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a rarefied ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a rarefied tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+a rarefied tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a rarefied tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+a rarefied tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a regal bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+a regal bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a regal circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a regal circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a regal hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+a regal hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a regal headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a regal headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a regal kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+a regal kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a regal maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+a regal maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a regal matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a regal matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a regal padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+a regal padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a regal ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a regal ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a regal snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+a regal snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a regal tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+a regal tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a regal tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+a regal tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a resplendent French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+a resplendent French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a resplendent barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+a resplendent barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a resplendent feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a resplendent feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a resplendent hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+a resplendent hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a resplendent hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a resplendent hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a resplendent hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+a resplendent hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a resplendent kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+a resplendent kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a resplendent maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+a resplendent maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a resplendent tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+a resplendent tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a rich feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a rich feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a rich flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+a rich flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a rich hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+a rich hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a rich hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a rich hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a rich hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+a rich hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a rich headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a rich headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a rich knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+a rich knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a rich scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a rich scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a rich tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+a rich tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a silken barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+a silken barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a silken bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+a silken bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a silken claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+a silken claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a silken flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+a silken flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a silken hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+a silken hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a silken hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a silken hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a silken hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a silken hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a silken jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+a silken jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a silken maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+a silken maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a silken matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a silken matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a silken padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+a silken padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a silken tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+a silken tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a sophisticated beyond measure claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+a sophisticated beyond measure claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a sophisticated beyond measure feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a sophisticated beyond measure feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a sophisticated beyond measure hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+a sophisticated beyond measure hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a sophisticated beyond measure hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+a sophisticated beyond measure hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a sophisticated beyond measure hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a sophisticated beyond measure hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a sophisticated beyond measure hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+a sophisticated beyond measure hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a sophisticated beyond measure laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+a sophisticated beyond measure laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a sophisticated beyond measure matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a sophisticated beyond measure matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a sophisticated beyond measure padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+a sophisticated beyond measure padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a sophisticated beyond measure tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+a sophisticated beyond measure tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a sublime French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+a sublime French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a sublime circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a sublime circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a sublime claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+a sublime claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a sublime feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a sublime feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a sublime flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+a sublime flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a sublime hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+a sublime hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a sublime hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a sublime hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a sublime headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a sublime headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a sublime jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+a sublime jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a sublime laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+a sublime laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a sublime matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a sublime matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a sublime ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a sublime ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a sublime tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+a sublime tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a sublime tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+a sublime tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a sumptuous circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a sumptuous circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a sumptuous hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+a sumptuous hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a sumptuous hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+a sumptuous hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a sumptuous kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+a sumptuous kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a sumptuous ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a sumptuous ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a supremely refined barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+a supremely refined barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a supremely refined circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+a supremely refined circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a supremely refined feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+a supremely refined feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a supremely refined flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+a supremely refined flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a supremely refined hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+a supremely refined hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a supremely refined hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a supremely refined hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a supremely refined hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+a supremely refined hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a supremely refined hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a supremely refined hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a supremely refined headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+a supremely refined headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a supremely refined jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+a supremely refined jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a supremely refined knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+a supremely refined knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a supremely refined matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+a supremely refined matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a supremely refined ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+a supremely refined ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a supremely refined scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a supremely refined scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a velvety French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+a velvety French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a velvety claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+a velvety claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a velvety flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+a velvety flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a velvety hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+a velvety hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a velvety hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+a velvety hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a velvety hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+a velvety hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a velvety hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun.
+a velvety hair fork, made of __acc_hairpiece_mat_all_luxury__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a velvety hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+a velvety hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a velvety knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+a velvety knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a velvety scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+a velvety scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a velvety tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+a velvety tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+an artisanal flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+an artisanal flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+an artisanal padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+an artisanal padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+an artisanal snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+an artisanal snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+an artisanal tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+an artisanal tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+an artisanal tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+an artisanal tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+an atelier-made barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+an atelier-made barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+an atelier-made bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+an atelier-made bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+an atelier-made feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip.
+an atelier-made feather fascinator, made of __acc_hairpiece_mat_all_luxury__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+an atelier-made hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+an atelier-made hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+an atelier-made hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+an atelier-made hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+an atelier-made hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+an atelier-made hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+an atelier-made hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+an atelier-made hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+an atelier-made laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+an atelier-made laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+an atelier-made padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band.
+an atelier-made padded headband, made of __acc_hairpiece_mat_all_luxury__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+an atelier-made ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid.
+an atelier-made ribbon, made of __acc_hairpiece_mat_all_luxury__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+an atelier-made snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+an atelier-made snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+an atelier-made tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+an atelier-made tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+an exclusive French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+an exclusive French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+an exclusive barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+an exclusive barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+an exclusive circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow.
+an exclusive circlet, made of __acc_hairpiece_mat_all_luxury__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+an exclusive claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+an exclusive claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+an exclusive hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+an exclusive hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+an exclusive hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+an exclusive hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+an exclusive hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+an exclusive hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+an exclusive jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+an exclusive jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+an exclusive kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+an exclusive kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+an exclusive knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+an exclusive knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+an exclusive maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+an exclusive maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+an exclusive tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+an exclusive tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+an exclusive tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+an exclusive tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+an exclusive tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+an exclusive tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+an exquisite barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+an exquisite barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+an exquisite claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair.
+an exquisite claw clip, made of __acc_hairpiece_mat_all_luxury__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+an exquisite hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair.
+an exquisite hair bow, made of __acc_hairpiece_mat_all_luxury__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+an exquisite hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+an exquisite hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+an exquisite hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair.
+an exquisite hair clip, made of __acc_hairpiece_mat_all_luxury__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+an exquisite hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+an exquisite hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+an exquisite hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+an exquisite hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+an exquisite knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+an exquisite knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+an exquisite maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+an exquisite maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+an exquisite scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail.
+an exquisite scrunchie, made of __acc_hairpiece_mat_all_luxury__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+an extraordinary French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist.
+an extraordinary French barrette, made of __acc_hairpiece_mat_all_luxury__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+an extraordinary hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+an extraordinary hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+an extraordinary hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+an extraordinary hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+an extraordinary hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+an extraordinary hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+an extraordinary laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head.
+an extraordinary laurel wreath, made of __acc_hairpiece_mat_all_luxury__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+an extraordinary maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting.
+an extraordinary maang tikka, made of __acc_hairpiece_mat_all_luxury__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+an extraordinary tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+an extraordinary tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+an extraordinary tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head.
+an extraordinary tiara, made of __acc_hairpiece_mat_all_luxury__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+an immaculately hand-finished barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers.
+an immaculately hand-finished flower crown, made of __acc_hairpiece_mat_all_luxury__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+an immaculately hand-finished hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair.
+an immaculately hand-finished hair comb, made of __acc_hairpiece_mat_all_luxury__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid.
+an immaculately hand-finished hair cuff, made of __acc_hairpiece_mat_all_luxury__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band.
+an immaculately hand-finished hairband, made of __acc_hairpiece_mat_all_luxury__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head.
+an immaculately hand-finished headband, made of __acc_hairpiece_mat_all_luxury__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun.
+an immaculately hand-finished jooda pin, made of __acc_hairpiece_mat_all_luxury__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+an immaculately hand-finished knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+an immaculately hand-finished snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+an immaculately hand-finished tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead.
+an immaculately hand-finished tikka, made of __acc_hairpiece_mat_all_luxury__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+an indulgent hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair.
+an indulgent hair chain, made of __acc_hairpiece_mat_all_luxury__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+an indulgent matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting.
+an indulgent matha patti, made of __acc_hairpiece_mat_all_luxury__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+an indulgent snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+an indulgent snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+an opulent barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair.
+an opulent barrette, made of __acc_hairpiece_mat_all_luxury__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+an opulent bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil.
+an opulent bridal veil comb, made of __acc_hairpiece_mat_all_luxury__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+an opulent hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place.
+an opulent hair net, made of __acc_hairpiece_mat_all_luxury__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+an opulent hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun.
+an opulent hair wrap, made of __acc_hairpiece_mat_all_luxury__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+an opulent kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel.
+an opulent kanzashi, made of __acc_hairpiece_mat_all_luxury__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+an opulent knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front.
+an opulent knotted headband, made of __acc_hairpiece_mat_all_luxury__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+an opulent snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head.
+an opulent snood, made of __acc_hairpiece_mat_all_luxury__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+an opulent tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb.
+an opulent tiara comb, made of __acc_hairpiece_mat_all_luxury__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.

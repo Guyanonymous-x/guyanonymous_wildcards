@@ -1,0 +1,850 @@
+__acc_adj_basic__ Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+__acc_adj_basic__ Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+__acc_adj_basic__ Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+__acc_adj_basic__ ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+__acc_adj_basic__ anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+__acc_adj_basic__ arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+__acc_adj_basic__ armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+__acc_adj_basic__ belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+__acc_adj_basic__ bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+__acc_adj_basic__ body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+__acc_adj_basic__ collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+__acc_adj_basic__ ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+__acc_adj_basic__ eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+__acc_adj_basic__ finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+__acc_adj_basic__ foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+__acc_adj_basic__ hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+__acc_adj_basic__ harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+__acc_adj_basic__ head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+__acc_adj_basic__ labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+__acc_adj_basic__ lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+__acc_adj_basic__ navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+__acc_adj_basic__ nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+__acc_adj_basic__ nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+__acc_adj_basic__ septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+__acc_adj_basic__ septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+__acc_adj_basic__ shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+__acc_adj_basic__ temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+__acc_adj_basic__ thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+__acc_adj_basic__ toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+__acc_adj_basic__ tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a bare-bones Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+a bare-bones Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+a bare-bones Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+a bare-bones Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+a bare-bones anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+a bare-bones anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+a bare-bones ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a bare-bones ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a bare-bones eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a bare-bones eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a bare-bones hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+a bare-bones hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+a bare-bones harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a bare-bones harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a bare-bones navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+a bare-bones navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+a bare-bones nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+a bare-bones nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a bare-bones septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+a bare-bones septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+a bare-bones shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+a bare-bones shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+a bare-bones toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+a bare-bones toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+a basic ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+a basic ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+a basic arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+a basic arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a basic bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+a basic bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+a basic eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a basic eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a basic finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+a basic finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+a basic labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+a basic labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+a basic navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+a basic navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+a basic septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+a basic septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+a basic septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+a basic septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+a basic temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+a basic temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+a basic tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a basic tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+a budget-weight Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+a budget-weight Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+a budget-weight Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+a budget-weight Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+a budget-weight ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a budget-weight ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a budget-weight finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+a budget-weight finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+a budget-weight hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+a budget-weight hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+a budget-weight harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a budget-weight harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a budget-weight nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+a budget-weight nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a budget-weight temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+a budget-weight temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+a budget-weight thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+a budget-weight thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+a casual Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+a casual Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+a casual Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+a casual Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+a casual anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+a casual anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+a casual armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+a casual armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a casual belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+a casual belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+a casual bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+a casual bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+a casual body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a casual body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a casual collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+a casual collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+a casual ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a casual ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a casual foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+a casual foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+a casual harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a casual harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a casual labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+a casual labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+a casual nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+a casual nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a casual temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+a casual temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+a casual thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+a casual thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+a casual toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+a casual toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+a casual tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a casual tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+a common Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+a common Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+a common ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+a common ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+a common body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a common body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a common collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+a common collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+a common ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a common ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a common harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a common harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a common head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+a common head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+a common lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+a common lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+a common nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+a common nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a common septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+a common septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+a factory-made Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+a factory-made Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+a factory-made Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+a factory-made Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+a factory-made ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+a factory-made ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+a factory-made armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+a factory-made armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a factory-made head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+a factory-made head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+a factory-made lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+a factory-made lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+a factory-made septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+a factory-made septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+a factory-made tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a factory-made tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+a functional Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+a functional Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+a functional arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+a functional arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a functional belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+a functional belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+a functional ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a functional ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a functional eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a functional eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a functional finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+a functional finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+a functional harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a functional harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a functional head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+a functional head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+a functional navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+a functional navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+a functional nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+a functional nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a functional septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+a functional septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+a functional shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+a functional shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+a humble ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+a humble ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+a humble armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+a humble armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a humble collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+a humble collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+a humble foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+a humble foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+a humble harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a humble harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a humble labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+a humble labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+a humble septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+a humble septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+a humble toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+a humble toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+a light-duty arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+a light-duty arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a light-duty bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+a light-duty bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+a light-duty body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a light-duty body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a light-duty ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a light-duty ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a light-duty eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a light-duty eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a light-duty finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+a light-duty finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+a light-duty hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+a light-duty hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+a light-duty head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+a light-duty head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+a light-duty lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+a light-duty lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+a light-duty navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+a light-duty navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+a light-duty temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+a light-duty temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+a light-duty tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a light-duty tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+a lightly built Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+a lightly built Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+a lightly built Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+a lightly built Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+a lightly built anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+a lightly built anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+a lightly built arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+a lightly built arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a lightly built armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+a lightly built armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a lightly built body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a lightly built body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a lightly built ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a lightly built ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a lightly built finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+a lightly built finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+a lightly built foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+a lightly built foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+a lightly built lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+a lightly built lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+a lightly built navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+a lightly built navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+a lightly built nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+a lightly built nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a lightly built nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+a lightly built nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a lightly built septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+a lightly built septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+a lightly built temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+a lightly built temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+a low-key Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+a low-key Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+a low-key anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+a low-key anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+a low-key arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+a low-key arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a low-key belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+a low-key belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+a low-key body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a low-key body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a low-key collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+a low-key collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+a low-key eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a low-key eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a low-key finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+a low-key finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+a low-key foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+a low-key foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+a low-key nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+a low-key nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a low-key nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+a low-key nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a low-key septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+a low-key septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+a low-key toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+a low-key toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+a mass-produced ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+a mass-produced ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+a mass-produced anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+a mass-produced anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+a mass-produced belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+a mass-produced belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+a mass-produced harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a mass-produced harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a mass-produced head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+a mass-produced head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+a mass-produced lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+a mass-produced lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+a mass-produced nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+a mass-produced nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a matter-of-fact Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+a matter-of-fact Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+a matter-of-fact Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+a matter-of-fact Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+a matter-of-fact arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+a matter-of-fact arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a matter-of-fact eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a matter-of-fact eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a matter-of-fact head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+a matter-of-fact head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+a matter-of-fact labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+a matter-of-fact labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+a matter-of-fact lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+a matter-of-fact lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+a matter-of-fact septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+a matter-of-fact septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+a matter-of-fact tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a matter-of-fact tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+a minimal anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+a minimal anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+a minimal belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+a minimal belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+a minimal body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a minimal body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a minimal collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+a minimal collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+a minimal harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a minimal harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a minimal lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+a minimal lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+a minimal temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+a minimal temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+a minimal thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+a minimal thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+a minimal tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a minimal tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+a no-frills Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+a no-frills Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+a no-frills arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+a no-frills arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a no-frills bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+a no-frills bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+a no-frills ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a no-frills ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a no-frills eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a no-frills eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a no-frills hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+a no-frills hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+a no-frills nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+a no-frills nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a no-frills septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+a no-frills septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+a no-frills shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+a no-frills shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+a no-frills thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+a no-frills thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+a no-frills toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+a no-frills toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+a no-nonsense ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+a no-nonsense ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+a no-nonsense armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+a no-nonsense armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a no-nonsense body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a no-nonsense body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a no-nonsense collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+a no-nonsense collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+a no-nonsense ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a no-nonsense ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a no-nonsense head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+a no-nonsense head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+a no-nonsense navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+a no-nonsense navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+a pair of __acc_adjbare_basic__ Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of __acc_adjbare_basic__ Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of __acc_adjbare_basic__ face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of __acc_adjbare_basic__ waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of bare-bones Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of bare-bones Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of bare-bones Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of bare-bones Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of bare-bones face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of bare-bones face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of basic Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of basic Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of budget-weight Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of budget-weight Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of budget-weight face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of budget-weight face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of budget-weight waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of budget-weight waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of casual Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of casual Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of casual face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of casual face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of common Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of common Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of common face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of common face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of entry-level face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of entry-level face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of everyday waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of everyday waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of factory-made waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of factory-made waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of functional Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of functional Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of humble face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of humble face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of light-duty Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of light-duty Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of lightly built Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of lightly built Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of low-key Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of low-key Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of mass-produced Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of mass-produced Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of mass-produced waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of mass-produced waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of matter-of-fact waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of matter-of-fact waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of minimal Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of minimal Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of minimal face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of minimal face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of minimal waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of minimal waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of no-frills Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of no-frills Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of ordinary face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of ordinary face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of plain Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of plain Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of plain-spun Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of plain-spun Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of plain-spun Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of plain-spun Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of plain-spun face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of plain-spun face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of quick-made waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of quick-made waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of serviceable Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of serviceable Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of serviceable Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of serviceable Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of serviceable face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of serviceable face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of simple Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of simple Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of standard-issue Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of standard-issue Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of standard-issue waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of standard-issue waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of straightforward Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of straightforward Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of straightforward waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of straightforward waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of understated Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of understated Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of understated Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck.
+a pair of understated Ndebele neck rings, made of __acc_bodyjewel_mat_all_basic__. They are stacked coil rings worn at the neck. They also include __acc_bodyjewel_practical__.
+a pair of understated waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of understated waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of unfussy waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of unfussy waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of utilitarian face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of utilitarian face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a pair of utilitarian waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips.
+a pair of utilitarian waist beads, made of __acc_bodyjewel_mat_all_basic__. They are strings of beads worn round the hips. They also include __acc_bodyjewel_practical__.
+a pair of workaday Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair.
+a pair of workaday Fulani hair-and-nose rings, made of __acc_bodyjewel_mat_all_basic__. They are gold pieces worn in the nose and hair. They also include __acc_bodyjewel_practical__.
+a pair of workaday face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face.
+a pair of workaday face gems, made of __acc_bodyjewel_mat_all_basic__. They are tiny adhesive gems worn on the face. They also include __acc_bodyjewel_practical__.
+a plain ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+a plain ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+a plain anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+a plain anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+a plain armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+a plain armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a plain bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+a plain bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+a plain finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+a plain finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+a plain foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+a plain foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+a plain hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+a plain hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+a plain head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+a plain head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+a plain labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+a plain labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+a plain nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+a plain nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a plain shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+a plain shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+a plain temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+a plain temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+a plain-spun Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+a plain-spun Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+a plain-spun arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+a plain-spun arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a plain-spun bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+a plain-spun bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+a plain-spun eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a plain-spun eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a plain-spun harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a plain-spun harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a plain-spun head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+a plain-spun head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+a plain-spun labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+a plain-spun labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+a plain-spun lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+a plain-spun lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+a plain-spun navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+a plain-spun navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+a plain-spun thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+a plain-spun thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+a quick-made Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+a quick-made Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+a quick-made armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+a quick-made armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a quick-made belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+a quick-made belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+a quick-made bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+a quick-made bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+a quick-made eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a quick-made eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a quick-made labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+a quick-made labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+a quick-made navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+a quick-made navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+a quick-made nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+a quick-made nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a quick-made septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+a quick-made septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+a quick-made temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+a quick-made temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+a quick-made thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+a quick-made thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+a quick-made toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+a quick-made toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+a ready-to-wear anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+a ready-to-wear anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+a ready-to-wear arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+a ready-to-wear arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a ready-to-wear armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+a ready-to-wear armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a ready-to-wear ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a ready-to-wear ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a ready-to-wear nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+a ready-to-wear nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a ready-to-wear septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+a ready-to-wear septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+a ready-to-wear septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+a ready-to-wear septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+a rudimentary body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a rudimentary body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a rudimentary ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a rudimentary ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a rudimentary finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+a rudimentary finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+a rudimentary foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+a rudimentary foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+a rudimentary navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+a rudimentary navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+a rudimentary shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+a rudimentary shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+a rudimentary toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+a rudimentary toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+a rudimentary tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a rudimentary tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+a serviceable armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+a serviceable armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+a serviceable finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+a serviceable finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+a serviceable labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+a serviceable labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+a serviceable lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+a serviceable lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+a serviceable nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+a serviceable nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a serviceable shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+a serviceable shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+a serviceable temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+a serviceable temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+a serviceable toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+a serviceable toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+a simple Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+a simple Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+a simple body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a simple body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a simple ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose.
+a simple ear-to-nose chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain from the ear to the nose. It also includes __acc_bodyjewel_practical__.
+a simple eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a simple eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a simple foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+a simple foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+a simple hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+a simple hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+a standard-issue Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+a standard-issue Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+a standard-issue Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+a standard-issue Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+a standard-issue ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+a standard-issue ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+a standard-issue body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a standard-issue body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a standard-issue collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+a standard-issue collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+a standard-issue eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+a standard-issue eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+a standard-issue labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+a standard-issue labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+a standard-issue nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+a standard-issue nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a standard-issue septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+a standard-issue septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+a standard-issue shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+a standard-issue shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+a standard-issue thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+a standard-issue thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+a standard-issue tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a standard-issue tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+a straightforward Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+a straightforward Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+a straightforward Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+a straightforward Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+a straightforward bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+a straightforward bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+a straightforward body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a straightforward body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a straightforward foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+a straightforward foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+a straightforward harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a straightforward harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a straightforward lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+a straightforward lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+a straightforward nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+a straightforward nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a straightforward septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+a straightforward septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+a straightforward shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+a straightforward shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+a straightforward tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a straightforward tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+a stripped-back bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+a stripped-back bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+a stripped-back collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+a stripped-back collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+a stripped-back harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+a stripped-back harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+a stripped-back labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+a stripped-back labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+a stripped-back nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+a stripped-back nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+a stripped-back septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+a stripped-back septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+a stripped-back shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+a stripped-back shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+a stripped-back toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+a stripped-back toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+a stripped-back tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+a stripped-back tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+a workaday belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+a workaday belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+a workaday bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+a workaday bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+a workaday body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso.
+a workaday body chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn over the torso. It also includes __acc_bodyjewel_practical__.
+a workaday hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+a workaday hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+a workaday shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+a workaday shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+a workaday thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+a workaday thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+an entry-level Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+an entry-level Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+an entry-level Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+an entry-level Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+an entry-level anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+an entry-level anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+an entry-level armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+an entry-level armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+an entry-level belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+an entry-level belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+an entry-level collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+an entry-level collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+an entry-level finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+an entry-level finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+an entry-level foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+an entry-level foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+an entry-level hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+an entry-level hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+an entry-level head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+an entry-level head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+an entry-level nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+an entry-level nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+an entry-level septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+an entry-level septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+an entry-level septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+an entry-level septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+an everyday Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+an everyday Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+an everyday ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+an everyday ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+an everyday belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+an everyday belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+an everyday eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends.
+an everyday eyebrow barbell, made of __acc_bodyjewel_mat_all_basic__. It is a short curved bar with ball ends. It also includes __acc_bodyjewel_practical__.
+an everyday foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+an everyday foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+an everyday head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+an everyday head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+an everyday labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+an everyday labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+an everyday nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+an everyday nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+an everyday septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum.
+an everyday septum clicker, made of __acc_bodyjewel_mat_all_basic__. It is a hinged ring for the septum. It also includes __acc_bodyjewel_practical__.
+an everyday tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+an everyday tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+an off-the-shelf Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+an off-the-shelf Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+an off-the-shelf ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+an off-the-shelf anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+an off-the-shelf armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+an off-the-shelf belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+an off-the-shelf collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+an off-the-shelf navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+an off-the-shelf nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+an off-the-shelf septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+an off-the-shelf shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+an off-the-shelf temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+an off-the-shelf temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+an ordinary Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+an ordinary Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+an ordinary Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+an ordinary Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+an ordinary Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+an ordinary Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+an ordinary anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+an ordinary anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+an ordinary finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+an ordinary finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+an ordinary hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+an ordinary hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+an ordinary head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead.
+an ordinary head chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn over the head and forehead. It also includes __acc_bodyjewel_practical__.
+an ordinary shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders.
+an ordinary shoulder chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn across the shoulders. It also includes __acc_bodyjewel_practical__.
+an ordinary temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+an ordinary temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+an ordinary thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+an ordinary thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+an understated Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+an understated Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+an understated arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+an understated arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+an understated bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+an understated bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+an understated collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+an understated collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+an understated hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+an understated hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+an understated lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+an understated lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+an understated septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+an understated septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+an understated toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+an understated toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+an unfussy ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+an unfussy ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+an unfussy arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+an unfussy arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+an unfussy belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+an unfussy belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+an unfussy bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead.
+an unfussy bindi jewel, made of __acc_bodyjewel_mat_all_basic__. It is a small decorative jewel worn on the forehead. It also includes __acc_bodyjewel_practical__.
+an unfussy finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet.
+an unfussy finger chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain linking a ring to a bracelet. It also includes __acc_bodyjewel_practical__.
+an unfussy foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+an unfussy foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+an unfussy nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+an unfussy nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+an unfussy septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+an unfussy septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+an unfussy thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+an unfussy thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+an unfussy toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+an unfussy toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+an unpretentious Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead.
+an unpretentious Berber nose jewel, made of __acc_bodyjewel_mat_all_basic__. It is a tiny silver stud with a coral bead. It also includes __acc_bodyjewel_practical__.
+an unpretentious Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear.
+an unpretentious Indian nath nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a large ornate nose ring with a chain to the ear. It also includes __acc_bodyjewel_practical__.
+an unpretentious Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+an unpretentious Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+an unpretentious anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells.
+an unpretentious anklet with bells, made of __acc_bodyjewel_mat_all_basic__. It is a chain with tiny ringing bells. It also includes __acc_bodyjewel_practical__.
+an unpretentious armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm.
+an unpretentious armlet, made of __acc_bodyjewel_mat_all_basic__. It is a coiled band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+an unpretentious collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone.
+an unpretentious collar chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn at the collarbone. It also includes __acc_bodyjewel_practical__.
+an unpretentious hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+an unpretentious hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+an unpretentious harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body.
+an unpretentious harness chain, made of __acc_bodyjewel_mat_all_basic__. It is a web of fine chains worn on the upper body. It also includes __acc_bodyjewel_practical__.
+an unpretentious lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip.
+an unpretentious lip ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the lip. It also includes __acc_bodyjewel_practical__.
+an unpretentious navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+an unpretentious navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+an unpretentious septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum.
+an unpretentious septum ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn through the nasal septum. It also includes __acc_bodyjewel_practical__.
+an unpretentious temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples.
+an unpretentious temple chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn across the temples. It also includes __acc_bodyjewel_practical__.
+an unpretentious thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+an unpretentious thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+an unpretentious toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe.
+an unpretentious toe ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn on a toe. It also includes __acc_bodyjewel_practical__.
+an utilitarian Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck.
+an utilitarian Maasai beaded collar, made of __acc_bodyjewel_mat_all_basic__. It is a wide flat beaded collar worn on the neck. It also includes __acc_bodyjewel_practical__.
+an utilitarian ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle.
+an utilitarian ankle bracelet, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn at the ankle. It also includes __acc_bodyjewel_practical__.
+an utilitarian arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm.
+an utilitarian arm cuff, made of __acc_bodyjewel_mat_all_basic__. It is a wide open band worn on the upper arm. It also includes __acc_bodyjewel_practical__.
+an utilitarian belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist.
+an utilitarian belly chain, made of __acc_bodyjewel_mat_all_basic__. It is a fine chain worn round the waist. It also includes __acc_bodyjewel_practical__.
+an utilitarian foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring.
+an utilitarian foot chain, made of __acc_bodyjewel_mat_all_basic__. It is a chain worn over the foot, joining an anklet to a toe ring. It also includes __acc_bodyjewel_practical__.
+an utilitarian hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings.
+an utilitarian hand harness, made of __acc_bodyjewel_mat_all_basic__. It is a chain bracelet joined to rings. It also includes __acc_bodyjewel_practical__.
+an utilitarian labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip.
+an utilitarian labret stud, made of __acc_bodyjewel_mat_all_basic__. It is a flat-backed stud worn below the lip. It also includes __acc_bodyjewel_practical__.
+an utilitarian navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel.
+an utilitarian navel bar, made of __acc_bodyjewel_mat_all_basic__. It is a curved bar with a jewel, for the navel. It also includes __acc_bodyjewel_practical__.
+an utilitarian nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril.
+an utilitarian nose ring, made of __acc_bodyjewel_mat_all_basic__. It is a small ring worn in the nostril. It also includes __acc_bodyjewel_practical__.
+an utilitarian nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril.
+an utilitarian nose stud, made of __acc_bodyjewel_mat_all_basic__. It is a tiny jewelled stud worn in the nostril. It also includes __acc_bodyjewel_practical__.
+an utilitarian thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh.
+an utilitarian thigh chain, made of __acc_bodyjewel_mat_all_basic__. It is a delicate chain worn round the thigh. It also includes __acc_bodyjewel_practical__.
+an utilitarian tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends.
+an utilitarian tongue barbell, made of __acc_bodyjewel_mat_all_basic__. It is a straight bar with two ball ends. It also includes __acc_bodyjewel_practical__.

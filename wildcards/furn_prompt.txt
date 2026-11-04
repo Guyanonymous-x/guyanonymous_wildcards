@@ -1,0 +1,9 @@
+__furn_tables_prompt__
+__furn_storage_prompt__
+__furn_beds_prompt__
+__furn_bathroom_prompt__
+__furn_kitchen_prompt__
+__furn_office_prompt__
+__furn_lighting_prompt__
+__furn_decor_prompt__
+__seat_prompt__

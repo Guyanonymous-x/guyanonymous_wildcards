@@ -1,0 +1,9 @@
+__obj_armor_helmet__
+__obj_armor_armor__
+__obj_armor_gauntlet__
+__obj_armor_codpiece__
+__obj_armor_cape__
+__obj_armor_shield__
+__obj_armor_greave__
+__obj_armor_armor__ with __obj_armor_helmet__ and __obj_armor_cape__
+__obj_armor_helmet__ with __obj_armor_gauntlet__

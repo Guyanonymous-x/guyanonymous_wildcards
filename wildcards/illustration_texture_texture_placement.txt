@@ -1,0 +1,5 @@
+texture overlaid globally
+texture in the shadows only
+texture in the fills only
+texture on the edges only
+texture on selected objects only

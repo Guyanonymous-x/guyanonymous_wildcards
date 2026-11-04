@@ -1,0 +1,4 @@
+a workbench, which is a heavy bench with a vice at one end and a tool rail, made of __gear_workshop_workbench_material__, its surface is __comp_fin_wood__, and it has __comp_feat_equipment__
+a pair of pegboard of tools, which is a wall board with hooks holding labelled shapes of hand tools, made of __gear_workshop_pegboard_of_tools_material__, its surface is __comp_fin_wood__, and it has __comp_feat_equipment__
+a bench grinder, which is a motor with two grinding wheels on a stand, made of __gear_workshop_bench_grinder_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__
+a tool chest, which is a red metal chest with rolling drawers, made of __gear_workshop_tool_chest_material__, its surface is __comp_fin_metal__, and it has __comp_feat_equipment__

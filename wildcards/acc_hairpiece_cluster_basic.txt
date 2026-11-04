@@ -1,0 +1,900 @@
+__acc_adj_basic__ French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+__acc_adj_basic__ barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+__acc_adj_basic__ bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+__acc_adj_basic__ circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+__acc_adj_basic__ claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+__acc_adj_basic__ feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+__acc_adj_basic__ flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+__acc_adj_basic__ hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+__acc_adj_basic__ hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+__acc_adj_basic__ hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+__acc_adj_basic__ hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+__acc_adj_basic__ hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+__acc_adj_basic__ hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+__acc_adj_basic__ hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+__acc_adj_basic__ hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+__acc_adj_basic__ hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+__acc_adj_basic__ headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+__acc_adj_basic__ jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+__acc_adj_basic__ kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+__acc_adj_basic__ knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+__acc_adj_basic__ laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+__acc_adj_basic__ maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+__acc_adj_basic__ matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+__acc_adj_basic__ padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+__acc_adj_basic__ ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+__acc_adj_basic__ scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+__acc_adj_basic__ snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+__acc_adj_basic__ tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+__acc_adj_basic__ tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+__acc_adj_basic__ tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a bare-bones French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+a bare-bones French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a bare-bones hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a bare-bones hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a bare-bones hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+a bare-bones hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a bare-bones kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+a bare-bones kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a bare-bones laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+a bare-bones laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a bare-bones padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a bare-bones padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a bare-bones ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+a bare-bones ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a bare-bones tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a bare-bones tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a basic French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+a basic French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a basic feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+a basic feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a basic hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+a basic hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a basic hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+a basic hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a basic kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+a basic kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a basic maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a basic maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a budget-weight claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+a budget-weight claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a budget-weight hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+a budget-weight hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a budget-weight hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a budget-weight hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a budget-weight hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+a budget-weight hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a budget-weight hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+a budget-weight hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a budget-weight hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+a budget-weight hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a budget-weight hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+a budget-weight hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a budget-weight matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a budget-weight matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a budget-weight padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a budget-weight padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a budget-weight tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+a budget-weight tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a casual hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+a casual hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a casual hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a casual hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a casual hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+a casual hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a casual hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+a casual hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a casual hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+a casual hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a casual hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+a casual hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a casual laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+a casual laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a casual maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a casual maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a casual matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a casual matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a casual padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a casual padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a casual scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+a casual scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a casual snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+a casual snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a casual tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a casual tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a common bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+a common bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a common hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+a common hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a common hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a common hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a common hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+a common hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a common hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+a common hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a common hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+a common hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a common maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a common maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a common tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+a common tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a factory-made French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+a factory-made French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a factory-made hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+a factory-made hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a factory-made hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+a factory-made hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a factory-made hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+a factory-made hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a factory-made headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+a factory-made headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a factory-made kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+a factory-made kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a factory-made matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a factory-made matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a factory-made snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+a factory-made snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a factory-made tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+a factory-made tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a factory-made tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a factory-made tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a functional bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+a functional bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a functional feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+a functional feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a functional hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+a functional hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a functional hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+a functional hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a functional headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+a functional headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a functional jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+a functional jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a functional laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+a functional laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a functional maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a functional maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a functional tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+a functional tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a functional tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a functional tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a functional tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a functional tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a humble French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+a humble French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a humble barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+a humble barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a humble hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+a humble hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a humble hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+a humble hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a humble hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+a humble hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a humble hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+a humble hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a humble jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+a humble jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a humble padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a humble padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a humble tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a humble tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a light-duty feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+a light-duty feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a light-duty hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+a light-duty hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a light-duty hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+a light-duty hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a light-duty hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+a light-duty hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a light-duty jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+a light-duty jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a light-duty kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+a light-duty kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a light-duty knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a light-duty knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a light-duty maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a light-duty maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a light-duty matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a light-duty matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a light-duty snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+a light-duty snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a light-duty tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a light-duty tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a lightly built French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+a lightly built French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a lightly built barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+a lightly built barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a lightly built circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+a lightly built circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a lightly built feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+a lightly built feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a lightly built hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a lightly built hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a lightly built hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+a lightly built hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a lightly built hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+a lightly built hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a lightly built hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+a lightly built hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a lightly built hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+a lightly built hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a lightly built knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a lightly built knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a lightly built tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a lightly built tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a low-key hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a low-key hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a low-key hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+a low-key hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a low-key hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+a low-key hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a low-key jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+a low-key jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a low-key laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+a low-key laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a low-key matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a low-key matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a low-key tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+a low-key tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a low-key tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a low-key tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a mass-produced barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+a mass-produced barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a mass-produced bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+a mass-produced bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a mass-produced circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+a mass-produced circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a mass-produced flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+a mass-produced flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a mass-produced hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+a mass-produced hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a mass-produced hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+a mass-produced hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a mass-produced hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+a mass-produced hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a mass-produced headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+a mass-produced headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a mass-produced jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+a mass-produced jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a mass-produced laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+a mass-produced laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a mass-produced padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a mass-produced padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a mass-produced ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+a mass-produced ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a mass-produced tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a mass-produced tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a matter-of-fact French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+a matter-of-fact French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a matter-of-fact circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+a matter-of-fact circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a matter-of-fact hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a matter-of-fact hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a matter-of-fact hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+a matter-of-fact hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a matter-of-fact hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+a matter-of-fact hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a matter-of-fact knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a matter-of-fact knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a matter-of-fact snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+a matter-of-fact snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a matter-of-fact tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a matter-of-fact tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a minimal bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+a minimal bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a minimal claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+a minimal claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a minimal hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+a minimal hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a minimal maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a minimal maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a minimal matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a minimal matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a minimal padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a minimal padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a minimal ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+a minimal ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a minimal scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+a minimal scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a minimal tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+a minimal tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a no-frills French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+a no-frills French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a no-frills barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+a no-frills barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a no-frills hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+a no-frills hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a no-frills hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+a no-frills hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a no-frills hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+a no-frills hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a no-frills knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a no-frills knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a no-frills padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a no-frills padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a no-frills snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+a no-frills snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a no-frills tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a no-frills tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a no-nonsense hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+a no-nonsense hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a no-nonsense headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+a no-nonsense headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a no-nonsense kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+a no-nonsense kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a no-nonsense laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+a no-nonsense laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a no-nonsense matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a no-nonsense matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a no-nonsense padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a no-nonsense padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a no-nonsense ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+a no-nonsense ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a pair of __acc_adjbare_basic__ beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of __acc_adjbare_basic__ bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of __acc_adjbare_basic__ decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of __acc_adjbare_basic__ hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of __acc_adjbare_basic__ hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of __acc_adjbare_basic__ pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of bare-bones hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of bare-bones hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of basic decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of basic decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of basic hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of basic hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of budget-weight bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of budget-weight bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of budget-weight hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of budget-weight hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of casual hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of casual hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of casual pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of casual pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of common beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of common beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of entry-level beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of entry-level beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of entry-level hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of entry-level hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of everyday hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of everyday hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of factory-made bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of factory-made bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of factory-made hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of factory-made hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of factory-made hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of factory-made hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of functional beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of functional beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of functional bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of functional bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of functional hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of functional hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of humble beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of humble beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of light-duty decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of light-duty decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of light-duty hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of light-duty hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of lightly built decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of lightly built decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of lightly built pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of lightly built pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of low-key decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of low-key decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of mass-produced bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of mass-produced bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of mass-produced hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of mass-produced hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of mass-produced hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of mass-produced hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of mass-produced pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of mass-produced pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of matter-of-fact decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of matter-of-fact decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of matter-of-fact pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of matter-of-fact pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of minimal beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of minimal beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of minimal bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of minimal bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of minimal hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of minimal hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of minimal pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of minimal pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of no-frills beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of no-frills beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of no-frills pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of no-frills pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of no-nonsense bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of no-nonsense bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of no-nonsense decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of no-nonsense decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of no-nonsense hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of no-nonsense hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of no-nonsense hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of no-nonsense hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of off-the-shelf beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of off-the-shelf beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of off-the-shelf hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of off-the-shelf hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of off-the-shelf pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of off-the-shelf pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of ordinary beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of ordinary beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of ordinary decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of ordinary decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of plain hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of plain hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of plain pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of plain pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of plain-spun pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of plain-spun pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of quick-made bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of quick-made bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of quick-made hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of quick-made hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of ready-to-wear decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of ready-to-wear decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of ready-to-wear pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of ready-to-wear pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of rudimentary bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of rudimentary bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of rudimentary decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of rudimentary decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of serviceable beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of serviceable beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of serviceable bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of serviceable bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of serviceable decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of serviceable decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of simple hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of simple hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of standard-issue bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of standard-issue bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of standard-issue hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of standard-issue hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of straightforward hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of straightforward hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of stripped-back beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of stripped-back beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of stripped-back hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of stripped-back hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of stripped-back pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of stripped-back pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a pair of unfussy beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of unfussy beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of unfussy bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of unfussy bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of unpretentious bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair.
+a pair of unpretentious bobby pins, made of __acc_hairpiece_mat_all_basic__. They are small pins slid into the hair. They also include __acc_hairpiece_practical__.
+a pair of unpretentious decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of unpretentious decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of utilitarian beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip.
+a pair of utilitarian beaded braid clips, made of __acc_hairpiece_mat_all_basic__. They are strings of beads on a clip. They also include __acc_hairpiece_practical__.
+a pair of utilitarian decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops.
+a pair of utilitarian decorative hairpins, made of __acc_hairpiece_mat_all_basic__. They are fine pins with ornamental tops. They also include __acc_hairpiece_practical__.
+a pair of utilitarian hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids.
+a pair of utilitarian hair rings, made of __acc_hairpiece_mat_all_basic__. They are small beaded rings threaded into locs or braids. They also include __acc_hairpiece_practical__.
+a pair of utilitarian hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun.
+a pair of utilitarian hair sticks, made of __acc_hairpiece_mat_all_basic__. They are long sticks slid through a bun. They also include __acc_hairpiece_practical__.
+a pair of utilitarian pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls.
+a pair of utilitarian pearl hairpins, made of __acc_hairpiece_mat_all_basic__. They are pins topped with pearls. They also include __acc_hairpiece_practical__.
+a plain barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+a plain barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a plain bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+a plain bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a plain circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+a plain circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a plain claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+a plain claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a plain hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+a plain hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a plain hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+a plain hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a plain hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+a plain hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a plain headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+a plain headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a plain knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a plain knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a plain ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+a plain ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a plain scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+a plain scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a plain-spun circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+a plain-spun circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a plain-spun feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+a plain-spun feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a plain-spun flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+a plain-spun flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a plain-spun hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+a plain-spun hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+a plain-spun hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+a plain-spun hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a plain-spun knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a plain-spun knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a plain-spun matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a plain-spun matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a plain-spun padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a plain-spun padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a plain-spun scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+a plain-spun scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a plain-spun snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+a plain-spun snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a quick-made bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+a quick-made bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a quick-made claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+a quick-made claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a quick-made hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a quick-made hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a quick-made hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+a quick-made hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a quick-made hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+a quick-made hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a quick-made kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+a quick-made kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a quick-made knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a quick-made knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a quick-made padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a quick-made padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a quick-made ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+a quick-made ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a quick-made scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+a quick-made scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a quick-made snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+a quick-made snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a quick-made tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+a quick-made tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a quick-made tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a quick-made tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a ready-to-wear bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+a ready-to-wear bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a ready-to-wear claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+a ready-to-wear claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a ready-to-wear flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+a ready-to-wear flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a ready-to-wear hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+a ready-to-wear hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a ready-to-wear hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+a ready-to-wear hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a ready-to-wear hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+a ready-to-wear hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a ready-to-wear jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+a ready-to-wear jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a ready-to-wear ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+a ready-to-wear ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a ready-to-wear scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+a ready-to-wear scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a ready-to-wear tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+a ready-to-wear tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a ready-to-wear tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a ready-to-wear tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a rudimentary circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+a rudimentary circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a rudimentary hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a rudimentary hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a rudimentary hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+a rudimentary hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a rudimentary hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+a rudimentary hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a rudimentary hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+a rudimentary hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a rudimentary hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+a rudimentary hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a rudimentary headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+a rudimentary headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a rudimentary jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+a rudimentary jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a rudimentary kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+a rudimentary kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a rudimentary knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a rudimentary knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a rudimentary laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+a rudimentary laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a rudimentary maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a rudimentary maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a rudimentary padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+a rudimentary padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+a rudimentary snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+a rudimentary snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a rudimentary tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a rudimentary tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a serviceable barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+a serviceable barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a serviceable circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+a serviceable circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a serviceable claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+a serviceable claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a serviceable flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+a serviceable flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a serviceable hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a serviceable hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a serviceable hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+a serviceable hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a serviceable hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+a serviceable hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a serviceable headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+a serviceable headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a serviceable kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+a serviceable kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a serviceable knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a serviceable knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a serviceable maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a serviceable maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a serviceable matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a serviceable matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a simple barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+a simple barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a simple bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+a simple bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a simple claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+a simple claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a simple flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+a simple flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a simple hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+a simple hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+a simple headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+a simple headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a simple kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+a simple kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a simple knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a simple knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a simple matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a simple matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a simple snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+a simple snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a simple tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a simple tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a simple tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a simple tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a standard-issue barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+a standard-issue barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a standard-issue bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+a standard-issue bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a standard-issue circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+a standard-issue circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a standard-issue feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+a standard-issue feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a standard-issue hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+a standard-issue hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a standard-issue laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+a standard-issue laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a standard-issue ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+a standard-issue ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a standard-issue tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+a standard-issue tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a straightforward French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+a straightforward French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a straightforward barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+a straightforward barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+a straightforward circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+a straightforward circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+a straightforward claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+a straightforward claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+a straightforward feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+a straightforward feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+a straightforward flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+a straightforward flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a straightforward hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+a straightforward hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+a straightforward hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+a straightforward hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+a straightforward hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+a straightforward hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+a straightforward jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+a straightforward jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a straightforward laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+a straightforward laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+a straightforward maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a straightforward maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a straightforward ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+a straightforward ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+a straightforward scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+a straightforward scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a straightforward tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a straightforward tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+a straightforward tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a straightforward tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a stripped-back French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+a stripped-back French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+a stripped-back bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+a stripped-back bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+a stripped-back flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+a stripped-back flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+a stripped-back hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+a stripped-back hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+a stripped-back headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+a stripped-back headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+a stripped-back jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+a stripped-back jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+a stripped-back kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+a stripped-back kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+a stripped-back knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+a stripped-back knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+a stripped-back maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a stripped-back maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a stripped-back matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+a stripped-back matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+a stripped-back snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+a stripped-back snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+a stripped-back tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+a stripped-back tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+a workaday hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+a workaday hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+a workaday hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+a workaday hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+a workaday hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+a workaday hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+a workaday maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+a workaday maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+a workaday scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+a workaday scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+a workaday tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+a workaday tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+a workaday tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+a workaday tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+an entry-level circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+an entry-level circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+an entry-level hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+an entry-level hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+an entry-level hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+an entry-level hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+an entry-level hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+an entry-level hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+an entry-level hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+an entry-level hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+an entry-level hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+an entry-level hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+an entry-level maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting.
+an entry-level maang tikka, made of __acc_hairpiece_mat_all_basic__. It is a forehead jewel worn at the hair parting. It also includes __acc_hairpiece_practical__.
+an entry-level ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+an entry-level ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+an everyday French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+an everyday French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+an everyday barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+an everyday barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+an everyday claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+an everyday claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+an everyday feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+an everyday feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+an everyday flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+an everyday flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+an everyday hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+an everyday hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+an everyday hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+an everyday hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+an everyday hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+an everyday hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+an everyday laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+an everyday laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+an everyday scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+an everyday scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+an everyday snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+an everyday snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+an everyday tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+an everyday tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+an off-the-shelf barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+an off-the-shelf barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+an off-the-shelf feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+an off-the-shelf feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+an off-the-shelf hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+an off-the-shelf hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+an off-the-shelf hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+an off-the-shelf hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+an off-the-shelf hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+an off-the-shelf hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+an off-the-shelf headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+an off-the-shelf headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+an off-the-shelf jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+an off-the-shelf jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+an off-the-shelf knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front.
+an off-the-shelf knotted headband, made of __acc_hairpiece_mat_all_basic__. It is a wide cloth band with a twist at the front. It also includes __acc_hairpiece_practical__.
+an off-the-shelf scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+an off-the-shelf scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+an ordinary claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+an ordinary claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+an ordinary feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+an ordinary feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+an ordinary hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair.
+an ordinary hair chain, made of __acc_hairpiece_mat_all_basic__. It is a fine chain draped through the hair. It also includes __acc_hairpiece_practical__.
+an ordinary hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+an ordinary hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+an ordinary ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+an ordinary ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+an ordinary tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head.
+an ordinary tiara, made of __acc_hairpiece_mat_all_basic__. It is a jewelled band worn on the head. It also includes __acc_hairpiece_practical__.
+an understated barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair.
+an understated barrette, made of __acc_hairpiece_mat_all_basic__. It is a metal bar fastener for the hair. It also includes __acc_hairpiece_practical__.
+an understated bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+an understated bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+an understated circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+an understated circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+an understated claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+an understated claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+an understated feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+an understated feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+an understated flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+an understated flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+an understated hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+an understated hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+an understated hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+an understated hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+an understated headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+an understated headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+an understated snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head.
+an understated snood, made of __acc_hairpiece_mat_all_basic__. It is a bag-like net worn at the back of the head. It also includes __acc_hairpiece_practical__.
+an understated tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+an understated tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.
+an understated tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead.
+an understated tikka, made of __acc_hairpiece_mat_all_basic__. It is a jewel hung from a chain on the forehead. It also includes __acc_hairpiece_practical__.
+an unfussy bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil.
+an unfussy bridal veil comb, made of __acc_hairpiece_mat_all_basic__. It is a comb that holds a veil. It also includes __acc_hairpiece_practical__.
+an unfussy circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow.
+an unfussy circlet, made of __acc_hairpiece_mat_all_basic__. It is a plain band worn on the brow. It also includes __acc_hairpiece_practical__.
+an unfussy flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+an unfussy flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+an unfussy hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+an unfussy hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+an unfussy hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+an unfussy hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+an unfussy hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid.
+an unfussy hair cuff, made of __acc_hairpiece_mat_all_basic__. It is a metal tube slid onto a braid. It also includes __acc_hairpiece_practical__.
+an unfussy hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+an unfussy hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+an unfussy hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+an unfussy hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+an unfussy kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+an unfussy kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+an unfussy laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+an unfussy laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+an unfussy ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid.
+an unfussy ribbon, made of __acc_hairpiece_mat_all_basic__. It is a long ribbon tied around a ponytail or braid. It also includes __acc_hairpiece_practical__.
+an unpretentious French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+an unpretentious French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+an unpretentious flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+an unpretentious flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+an unpretentious hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+an unpretentious hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+an unpretentious hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun.
+an unpretentious hair fork, made of __acc_hairpiece_mat_all_basic__. It is a two-pronged pin pushed through a bun. It also includes __acc_hairpiece_practical__.
+an unpretentious hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun.
+an unpretentious hair wrap, made of __acc_hairpiece_mat_all_basic__. It is a long cloth wound round a braid or bun. It also includes __acc_hairpiece_practical__.
+an unpretentious hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band.
+an unpretentious hairband, made of __acc_hairpiece_mat_all_basic__. It is a thin plastic or metal band. It also includes __acc_hairpiece_practical__.
+an unpretentious jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+an unpretentious jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+an unpretentious padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band.
+an unpretentious padded headband, made of __acc_hairpiece_mat_all_basic__. It is a thick padded band. It also includes __acc_hairpiece_practical__.
+an unpretentious scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+an unpretentious scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+an utilitarian French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist.
+an utilitarian French barrette, made of __acc_hairpiece_mat_all_basic__. It is a long hinged clasp that holds a twist. It also includes __acc_hairpiece_practical__.
+an utilitarian claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair.
+an utilitarian claw clip, made of __acc_hairpiece_mat_all_basic__. It is a large toothed clip that gathers the hair. It also includes __acc_hairpiece_practical__.
+an utilitarian feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip.
+an utilitarian feather fascinator, made of __acc_hairpiece_mat_all_basic__. It is a small decorated piece worn on a clip. It also includes __acc_hairpiece_practical__.
+an utilitarian flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers.
+an utilitarian flower crown, made of __acc_hairpiece_mat_all_basic__. It is a ring of fresh or silk flowers. It also includes __acc_hairpiece_practical__.
+an utilitarian hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair.
+an utilitarian hair bow, made of __acc_hairpiece_mat_all_basic__. It is a large bow clipped to the hair. It also includes __acc_hairpiece_practical__.
+an utilitarian hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair.
+an utilitarian hair clip, made of __acc_hairpiece_mat_all_basic__. It is a spring clip that holds a section of hair. It also includes __acc_hairpiece_practical__.
+an utilitarian hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair.
+an utilitarian hair comb, made of __acc_hairpiece_mat_all_basic__. It is a decorative comb slid into the hair. It also includes __acc_hairpiece_practical__.
+an utilitarian hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place.
+an utilitarian hair net, made of __acc_hairpiece_mat_all_basic__. It is a fine net that holds hair in place. It also includes __acc_hairpiece_practical__.
+an utilitarian headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head.
+an utilitarian headband, made of __acc_hairpiece_mat_all_basic__. It is a narrow band that follows the curve of the head. It also includes __acc_hairpiece_practical__.
+an utilitarian jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun.
+an utilitarian jooda pin, made of __acc_hairpiece_mat_all_basic__. It is a decorated pin for a bun. It also includes __acc_hairpiece_practical__.
+an utilitarian kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel.
+an utilitarian kanzashi, made of __acc_hairpiece_mat_all_basic__. It is a traditional Japanese hairpin with a flower or tassel. It also includes __acc_hairpiece_practical__.
+an utilitarian laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head.
+an utilitarian laurel wreath, made of __acc_hairpiece_mat_all_basic__. It is a wreath of leaves, worn on the head. It also includes __acc_hairpiece_practical__.
+an utilitarian matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting.
+an utilitarian matha patti, made of __acc_hairpiece_mat_all_basic__. It is a decorative chain along the hair parting. It also includes __acc_hairpiece_practical__.
+an utilitarian scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail.
+an utilitarian scrunchie, made of __acc_hairpiece_mat_all_basic__. It is a gathered fabric band for a ponytail. It also includes __acc_hairpiece_practical__.
+an utilitarian tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb.
+an utilitarian tiara comb, made of __acc_hairpiece_mat_all_basic__. It is a small crown-shaped comb. It also includes __acc_hairpiece_practical__.

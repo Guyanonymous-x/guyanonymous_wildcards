@@ -1,0 +1,800 @@
+__acc_adj_basic__ Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+__acc_adj_basic__ Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+__acc_adj_basic__ Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+__acc_adj_basic__ ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+__acc_adj_basic__ bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+__acc_adj_basic__ batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+__acc_adj_basic__ beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+__acc_adj_basic__ bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+__acc_adj_basic__ bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+__acc_adj_basic__ butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+__acc_adj_basic__ classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+__acc_adj_basic__ clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+__acc_adj_basic__ cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+__acc_adj_basic__ embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+__acc_adj_basic__ ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+__acc_adj_basic__ knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+__acc_adj_basic__ linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+__acc_adj_basic__ novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+__acc_adj_basic__ paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+__acc_adj_basic__ polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+__acc_adj_basic__ pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+__acc_adj_basic__ printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+__acc_adj_basic__ pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+__acc_adj_basic__ ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+__acc_adj_basic__ shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+__acc_adj_basic__ skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+__acc_adj_basic__ string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+__acc_adj_basic__ striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+__acc_adj_basic__ tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+__acc_adj_basic__ tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+__acc_adj_basic__ wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+__acc_adj_basic__ wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+a bare-bones Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a bare-bones Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a bare-bones Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+a bare-bones Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+a bare-bones ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+a bare-bones ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+a bare-bones beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+a bare-bones beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+a bare-bones bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a bare-bones bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a bare-bones butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+a bare-bones butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+a bare-bones classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+a bare-bones classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+a bare-bones clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+a bare-bones clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+a bare-bones polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a bare-bones polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a bare-bones printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+a bare-bones printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+a bare-bones skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+a bare-bones skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+a bare-bones wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+a bare-bones wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+a basic Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+a basic Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+a basic bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+a basic bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+a basic batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+a basic batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+a basic embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+a basic embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+a basic pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+a basic pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+a basic skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+a basic skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+a basic tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+a basic tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+a basic tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+a basic tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+a basic wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+a basic wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+a budget-weight Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+a budget-weight Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+a budget-weight Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+a budget-weight Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+a budget-weight classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+a budget-weight classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+a budget-weight clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+a budget-weight clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+a budget-weight linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a budget-weight linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a budget-weight polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a budget-weight polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a budget-weight shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+a budget-weight shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+a casual Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a casual Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a casual Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+a casual Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+a casual ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+a casual ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+a casual batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+a casual batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+a casual beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+a casual beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+a casual cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+a casual cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+a casual knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+a casual knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+a casual paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+a casual paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+a casual pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+a casual pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+a casual printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+a casual printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+a casual ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+a casual ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+a casual wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+a casual wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+a common Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+a common Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+a common Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+a common Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+a common bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+a common bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+a common bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+a common bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+a common clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+a common clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+a common cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+a common cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+a common embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+a common embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+a common ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+a common ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+a common pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+a common pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+a common printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+a common printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+a common pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+a common pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+a common ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+a common ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+a common shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+a common shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+a common string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+a common string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+a common tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+a common tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+a common wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+a common wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+a factory-made ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+a factory-made ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+a factory-made batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+a factory-made batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+a factory-made beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+a factory-made beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+a factory-made bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a factory-made bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a factory-made butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+a factory-made butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+a factory-made clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+a factory-made clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+a factory-made ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+a factory-made ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+a factory-made knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+a factory-made knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+a factory-made linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a factory-made linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a factory-made pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+a factory-made pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+a factory-made string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+a factory-made string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+a factory-made striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+a factory-made striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+a factory-made tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+a factory-made tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+a factory-made tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+a factory-made tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+a factory-made wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+a factory-made wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+a functional ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+a functional ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+a functional batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+a functional batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+a functional bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a functional bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a functional butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+a functional butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+a functional classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+a functional classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+a functional novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+a functional novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+a functional polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a functional polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a functional pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+a functional pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+a functional ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+a functional ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+a functional striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+a functional striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+a humble Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a humble Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a humble Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+a humble Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+a humble bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+a humble bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+a humble batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+a humble batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+a humble butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+a humble butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+a humble polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a humble polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a humble pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+a humble pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+a humble ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+a humble ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+a humble shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+a humble shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+a humble skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+a humble skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+a humble striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+a humble striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+a humble tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+a humble tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+a light-duty Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a light-duty Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a light-duty bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+a light-duty bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+a light-duty clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+a light-duty clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+a light-duty paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+a light-duty paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+a light-duty polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a light-duty polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a light-duty pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+a light-duty pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+a light-duty pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+a light-duty pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+a light-duty string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+a light-duty string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+a light-duty tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+a light-duty tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+a light-duty wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+a light-duty wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+a light-duty wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+a light-duty wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+a lightly built Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a lightly built Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a lightly built ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+a lightly built ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+a lightly built beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+a lightly built beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+a lightly built cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+a lightly built cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+a lightly built embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+a lightly built embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+a lightly built linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a lightly built linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a lightly built polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a lightly built polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a lightly built pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+a lightly built pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+a lightly built printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+a lightly built printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+a lightly built pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+a lightly built pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+a lightly built string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+a lightly built string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+a low-key Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+a low-key Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+a low-key Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+a low-key Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+a low-key bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+a low-key bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+a low-key cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+a low-key cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+a low-key printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+a low-key printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+a low-key shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+a low-key shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+a low-key striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+a low-key striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+a low-key wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+a low-key wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+a mass-produced Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+a mass-produced Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+a mass-produced batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+a mass-produced batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+a mass-produced bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a mass-produced bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a mass-produced butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+a mass-produced butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+a mass-produced embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+a mass-produced embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+a mass-produced knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+a mass-produced knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+a mass-produced linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a mass-produced linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a mass-produced skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+a mass-produced skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+a mass-produced string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+a mass-produced string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+a matter-of-fact Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+a matter-of-fact Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+a matter-of-fact batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+a matter-of-fact batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+a matter-of-fact bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+a matter-of-fact bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+a matter-of-fact bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a matter-of-fact bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a matter-of-fact butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+a matter-of-fact butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+a matter-of-fact classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+a matter-of-fact classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+a matter-of-fact novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+a matter-of-fact novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+a matter-of-fact printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+a matter-of-fact printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+a matter-of-fact ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+a matter-of-fact ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+a matter-of-fact striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+a matter-of-fact striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+a matter-of-fact tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+a matter-of-fact tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+a matter-of-fact wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+a matter-of-fact wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+a minimal Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a minimal Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a minimal ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+a minimal ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+a minimal beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+a minimal beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+a minimal bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+a minimal bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+a minimal embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+a minimal embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+a minimal pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+a minimal pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+a minimal string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+a minimal string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+a minimal tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+a minimal tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+a minimal wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+a minimal wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+a no-frills Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a no-frills Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a no-frills Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+a no-frills Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+a no-frills bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+a no-frills bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+a no-frills bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+a no-frills bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+a no-frills bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a no-frills bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a no-frills classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+a no-frills classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+a no-frills embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+a no-frills embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+a no-frills ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+a no-frills ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+a no-frills paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+a no-frills paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+a no-frills polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a no-frills polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a no-frills printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+a no-frills printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+a no-frills pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+a no-frills pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+a no-frills ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+a no-frills ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+a no-frills string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+a no-frills string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+a no-frills tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+a no-frills tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+a no-frills wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+a no-frills wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+a no-nonsense bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+a no-nonsense bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+a no-nonsense butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+a no-nonsense butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+a no-nonsense classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+a no-nonsense classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+a no-nonsense clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+a no-nonsense clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+a no-nonsense cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+a no-nonsense cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+a no-nonsense knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+a no-nonsense knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+a no-nonsense novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+a no-nonsense novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+a no-nonsense polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a no-nonsense polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a no-nonsense ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+a no-nonsense ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+a no-nonsense skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+a no-nonsense skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+a no-nonsense striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+a no-nonsense striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+a no-nonsense wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+a no-nonsense wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+a plain ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+a plain ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+a plain bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a plain bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a plain butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+a plain butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+a plain embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+a plain embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+a plain linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a plain linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a plain pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+a plain pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+a plain pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+a plain pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+a plain shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+a plain shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+a plain-spun Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a plain-spun Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a plain-spun bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+a plain-spun bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+a plain-spun clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+a plain-spun clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+a plain-spun knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+a plain-spun knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+a plain-spun linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a plain-spun linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a plain-spun paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+a plain-spun paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+a plain-spun polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a plain-spun polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a plain-spun pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+a plain-spun pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+a plain-spun wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+a plain-spun wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+a quick-made ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+a quick-made ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+a quick-made bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+a quick-made bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+a quick-made bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a quick-made bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a quick-made linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a quick-made linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a quick-made polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a quick-made polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a quick-made skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+a quick-made skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+a quick-made wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+a quick-made wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+a ready-to-wear Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a ready-to-wear Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a ready-to-wear batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+a ready-to-wear batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+a ready-to-wear bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a ready-to-wear bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a ready-to-wear linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a ready-to-wear linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a ready-to-wear novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+a ready-to-wear novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+a ready-to-wear polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+a ready-to-wear polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+a ready-to-wear printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+a ready-to-wear printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+a ready-to-wear ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+a ready-to-wear ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+a ready-to-wear string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+a ready-to-wear string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+a ready-to-wear tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+a ready-to-wear tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+a rudimentary Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+a rudimentary Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+a rudimentary ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+a rudimentary ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+a rudimentary bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+a rudimentary bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+a rudimentary cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+a rudimentary cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+a rudimentary linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a rudimentary linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a rudimentary pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+a rudimentary pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+a rudimentary printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+a rudimentary printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+a rudimentary pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+a rudimentary pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+a rudimentary shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+a rudimentary shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+a rudimentary striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+a rudimentary striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+a rudimentary tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+a rudimentary tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+a rudimentary tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+a rudimentary tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+a rudimentary wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+a rudimentary wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+a serviceable Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a serviceable Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a serviceable bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a serviceable bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a serviceable ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+a serviceable ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+a serviceable knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+a serviceable knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+a serviceable linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a serviceable linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a serviceable novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+a serviceable novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+a serviceable skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+a serviceable skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+a serviceable string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+a serviceable string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+a serviceable tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+a serviceable tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+a simple Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+a simple Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+a simple beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+a simple beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+a simple bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+a simple bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+a simple bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+a simple bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+a simple butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+a simple butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+a simple classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+a simple classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+a simple clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+a simple clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+a simple embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+a simple embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+a simple ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+a simple ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+a simple paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+a simple paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+a simple ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+a simple ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+a simple skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+a simple skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+a simple tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+a simple tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+a simple tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+a simple tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+a standard-issue Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+a standard-issue Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+a standard-issue beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+a standard-issue beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+a standard-issue classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+a standard-issue classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+a standard-issue clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+a standard-issue clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+a standard-issue embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+a standard-issue embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+a standard-issue ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+a standard-issue ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+a standard-issue novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+a standard-issue novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+a standard-issue paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+a standard-issue paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+a standard-issue pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+a standard-issue pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+a standard-issue pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+a standard-issue pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+a standard-issue skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+a standard-issue skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+a standard-issue striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+a standard-issue striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+a standard-issue tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+a standard-issue tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+a straightforward batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+a straightforward batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+a straightforward beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+a straightforward beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+a straightforward bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+a straightforward bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+a straightforward cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+a straightforward cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+a straightforward ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+a straightforward ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+a straightforward knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+a straightforward knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+a straightforward paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+a straightforward paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+a straightforward printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+a straightforward printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+a straightforward tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+a straightforward tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+a straightforward wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+a straightforward wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+a stripped-back Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+a stripped-back Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+a stripped-back bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+a stripped-back bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+a stripped-back ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+a stripped-back ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+a stripped-back paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+a stripped-back paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+a stripped-back ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+a stripped-back ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+a stripped-back shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+a stripped-back shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+a stripped-back skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+a stripped-back skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+a stripped-back string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+a stripped-back string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+a stripped-back tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+a stripped-back tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+a workaday Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+a workaday Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+a workaday bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+a workaday bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+a workaday batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+a workaday batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+a workaday bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+a workaday bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+a workaday clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+a workaday clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+a workaday embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+a workaday embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+a workaday ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+a workaday ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+a workaday linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+a workaday linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+a workaday novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+a workaday novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+a workaday wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+a workaday wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+a workaday wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+a workaday wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+an entry-level Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+an entry-level Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+an entry-level bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+an entry-level bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+an entry-level beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+an entry-level beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+an entry-level bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar.
+an entry-level bow tie, made of __acc_necktie_mat_all_basic__. It is a small tied bow worn at the collar. It also includes __acc_necktie_practical__.
+an entry-level knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+an entry-level knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+an entry-level novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+an entry-level novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+an entry-level printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+an entry-level printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+an entry-level skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+an entry-level skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+an entry-level wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+an entry-level wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+an everyday Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+an everyday Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+an everyday bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern.
+an everyday bandana-print tie, made of __acc_necktie_mat_all_basic__. It is a tie in a bandana pattern. It also includes __acc_necktie_practical__.
+an everyday butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+an everyday butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+an everyday clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+an everyday clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+an everyday cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+an everyday cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+an everyday tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+an everyday tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+an everyday tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+an everyday tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+an everyday wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+an everyday wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+an off-the-shelf ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+an off-the-shelf ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+an off-the-shelf bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+an off-the-shelf bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+an off-the-shelf butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+an off-the-shelf butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+an off-the-shelf classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+an off-the-shelf classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+an off-the-shelf cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+an off-the-shelf cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+an off-the-shelf embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+an off-the-shelf embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+an off-the-shelf ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+an off-the-shelf ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+an off-the-shelf knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+an off-the-shelf knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+an off-the-shelf novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+an off-the-shelf novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+an off-the-shelf pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+an off-the-shelf pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+an off-the-shelf pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+an off-the-shelf pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+an off-the-shelf ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+an off-the-shelf ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+an off-the-shelf shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+an off-the-shelf shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+an off-the-shelf tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+an off-the-shelf tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+an off-the-shelf wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+an off-the-shelf wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+an ordinary Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs.
+an ordinary Indian silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in rich silk with woven motifs. It also includes __acc_necktie_practical__.
+an ordinary Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+an ordinary Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+an ordinary ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+an ordinary ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+an ordinary beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+an ordinary beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+an ordinary bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+an ordinary bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+an ordinary cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+an ordinary cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+an ordinary ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+an ordinary ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+an ordinary paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+an ordinary paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+an ordinary printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print.
+an ordinary printed floral tie, made of __acc_necktie_mat_all_basic__. It is a tie in a flower print. It also includes __acc_necktie_practical__.
+an ordinary shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+an ordinary shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+an ordinary striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+an ordinary striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+an ordinary tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid.
+an ordinary tartan tie, made of __acc_necktie_mat_all_basic__. It is a tie in a woven plaid. It also includes __acc_necktie_practical__.
+an ordinary tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in.
+an ordinary tie with built-in tie bar, made of __acc_necktie_mat_all_basic__. It has a bar sewn in. It also includes __acc_necktie_practical__.
+an understated ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar.
+an understated ascot tie, made of __acc_necktie_mat_all_basic__. It is a wide silk neckpiece tucked into an open collar. It also includes __acc_necktie_practical__.
+an understated bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp.
+an understated bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a slide clasp. It also includes __acc_necktie_practical__.
+an understated classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+an understated classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+an understated cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+an understated cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+an understated embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length.
+an understated embroidered tie, made of __acc_necktie_mat_all_basic__. It is a tie with embroidery along its length. It also includes __acc_necktie_practical__.
+an understated ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns.
+an understated ikat tie, made of __acc_necktie_mat_all_basic__. It is a tie with soft blurred patterns. It also includes __acc_necktie_practical__.
+an understated knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+an understated knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+an understated paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+an understated paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+an understated shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+an understated shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+an understated string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+an understated string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+an understated striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+an understated striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+an understated wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+an understated wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.
+an understated wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool.
+an understated wool tie, made of __acc_necktie_mat_all_basic__. It is a textured tie woven from wool. It also includes __acc_necktie_practical__.
+an unfussy Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+an unfussy Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+an unfussy batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+an unfussy batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+an unfussy beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+an unfussy beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+an unfussy knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+an unfussy knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+an unfussy linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen.
+an unfussy linen tie, made of __acc_necktie_mat_all_basic__. It is a light tie in loosely woven linen. It also includes __acc_necktie_practical__.
+an unfussy novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+an unfussy novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+an unfussy paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+an unfussy paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+an unfussy pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back.
+an unfussy pre-tied bow tie, made of __acc_necktie_mat_all_basic__. It is a bow with an adjustable band at the back. It also includes __acc_necktie_practical__.
+an unfussy ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat.
+an unfussy ribbon tie, made of __acc_necktie_mat_all_basic__. It is a narrow ribbon tied at the throat. It also includes __acc_necktie_practical__.
+an unfussy shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+an unfussy shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+an unfussy string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot.
+an unfussy string tie, made of __acc_necktie_mat_all_basic__. It is a thin cord tie with a small knot. It also includes __acc_necktie_practical__.
+an unfussy striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+an unfussy striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+an unpretentious Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern.
+an unpretentious Japanese silk tie, made of __acc_necktie_mat_all_basic__. It is a tie in fine silk with a small woven pattern. It also includes __acc_necktie_practical__.
+an unpretentious Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+an unpretentious Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+an unpretentious butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow.
+an unpretentious butterfly bow tie, made of __acc_necktie_mat_all_basic__. It is a wide shaped bow. It also includes __acc_necktie_practical__.
+an unpretentious classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+an unpretentious classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+an unpretentious clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot.
+an unpretentious clip-on tie, made of __acc_necktie_mat_all_basic__. It is a tie with a clip in place of a knot. It also includes __acc_necktie_practical__.
+an unpretentious cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck.
+an unpretentious cravat tie, made of __acc_necktie_mat_all_basic__. It is a folded silk cloth tied loosely at the neck. It also includes __acc_necktie_practical__.
+an unpretentious novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+an unpretentious novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+an unpretentious paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls.
+an unpretentious paisley tie, made of __acc_necktie_mat_all_basic__. It is a tie covered in teardrop swirls. It also includes __acc_necktie_practical__.
+an unpretentious polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots.
+an unpretentious polka-dot tie, made of __acc_necktie_mat_all_basic__. It is a tie with a field of dots. It also includes __acc_necktie_practical__.
+an unpretentious striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes.
+an unpretentious striped regimental tie, made of __acc_necktie_mat_all_basic__. It is a tie with diagonal stripes. It also includes __acc_necktie_practical__.
+an utilitarian Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth.
+an utilitarian Kente cloth tie, made of __acc_necktie_mat_all_basic__. It is a tie woven in strips of bright cloth. It also includes __acc_necktie_practical__.
+an utilitarian batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs.
+an utilitarian batik tie, made of __acc_necktie_mat_all_basic__. It is a tie painted with wax-resist designs. It also includes __acc_necktie_practical__.
+an utilitarian beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide.
+an utilitarian beaded bolo tie, made of __acc_necktie_mat_all_basic__. It is a cord tie with a beaded slide. It also includes __acc_necktie_practical__.
+an utilitarian classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end.
+an utilitarian classic necktie, made of __acc_necktie_mat_all_basic__. It is a long silk tie with a pointed end. It also includes __acc_necktie_practical__.
+an utilitarian knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave.
+an utilitarian knit tie, made of __acc_necktie_mat_all_basic__. It is a flat-ended tie in a knitted weave. It also includes __acc_necktie_practical__.
+an utilitarian novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design.
+an utilitarian novelty tie, made of __acc_necktie_mat_all_basic__. It is a tie printed with a playful design. It also includes __acc_necktie_practical__.
+an utilitarian pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar.
+an utilitarian pussy-bow tie, made of __acc_necktie_mat_all_basic__. It is a soft bow attached to a blouse collar. It also includes __acc_necktie_practical__.
+an utilitarian shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns.
+an utilitarian shibori tie, made of __acc_necktie_mat_all_basic__. It is a tie folded and dyed in crisp patterns. It also includes __acc_necktie_practical__.
+an utilitarian skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie.
+an utilitarian skinny tie, made of __acc_necktie_mat_all_basic__. It is a very slim tie. It also includes __acc_necktie_practical__.
+an utilitarian wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style.
+an utilitarian wide tie, made of __acc_necktie_mat_all_basic__. It is a broad tie, in a retro style. It also includes __acc_necktie_practical__.

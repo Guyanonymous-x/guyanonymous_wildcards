@@ -1,0 +1,18 @@
+a spade, which is a flat blade on a long shaft with a step on top, used to dig and lift soil, made of __tool_agriculture_spade_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a garden fork, which is a handle with four straight tines for turning and loosening soil, made of __tool_agriculture_garden_fork_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a hoe, which is a flat blade at right angles to a long handle, used to chop weeds, made of __tool_agriculture_hoe_material__, its surface is __comp_fin_wood__, and it has __comp_feat_tool__
+a rake, which is a long handle with a bar of teeth at one end for gathering hay or smoothing soil, made of __tool_agriculture_rake_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_tool__
+a scythe, which is a long curved blade on a bent two-handled shaft, swung low to cut grass and grain, made of __tool_agriculture_scythe_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a sickle, which is a short curved blade with a short handle, used for cutting by hand, made of __tool_agriculture_sickle_material__, its surface is __comp_fin_wood__, and it has __comp_feat_tool__
+a pitchfork, which is a long wooden handle with two or three sharp tines for lifting hay, made of __tool_agriculture_pitchfork_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a pair of secateurs, which is a pair of short hand shears with curved blades that cut small branches, made of __tool_agriculture_secateurs_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a billhook, which is a short, hooked blade on a handle for trimming hedges and small trees, made of __tool_agriculture_billhook_material__, its surface is __comp_fin_wood__, and it has __comp_feat_tool__
+a milking stool, which is a three-legged wooden seat low to the ground, made of __tool_agriculture_milking_stool_material__, its surface is __comp_fin_wood__, and it has __comp_feat_tool__
+a seed drill, which is a wheeled hopper that drops seeds in rows into the soil, made of __tool_agriculture_seed_drill_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a plough, which is a heavy blade on a frame that turns over the soil in strips as it is pulled, made of __tool_agriculture_plough_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a tractor, which is a heavy four-wheeled vehicle with large rear tyres used to pull farm machinery, made of __tool_agriculture_tractor_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a combine harvester, which is a big machine with a wide rotating header that cuts and threshes grain, made of __tool_agriculture_combine_harvester_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a chainsaw, which is a handheld saw with a chain of teeth running round a guide bar, driven by a petrol engine, made of __tool_agriculture_chainsaw_material__, its surface is __comp_fin_metal__, and it has __comp_feat_tool__
+a hay bale hook, which is a hand hook with a T-handle used to lift and drag bales, made of __tool_agriculture_hay_bale_hook_material__, its surface is __comp_fin_wood__, and it has __comp_feat_tool__
+a pair of leather work gloves, which is stout gloves for fencing and handling, made of __tool_agriculture_leather_work_gloves_material__, its surface is __comp_fin_hard__, and it has __comp_feat_tool__
+a pair of tall waterproof rubber boots, which is tall waterproof rubber boots, made of __tool_agriculture_tall_waterproof_rubber_boots_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_tool__

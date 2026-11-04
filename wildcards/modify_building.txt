@@ -1,0 +1,11 @@
+__cond_building_damage__
+__cond_building_missing__
+__cond_building_wear__
+__cond_building_dirt__
+__cond_building_graffiti__
+__cond_building_faded__
+__cond_building_burnt__
+__cond_building_decay__
+__cond_building_repair__
+__cond_building_fine__
+__cond_building_cheap__

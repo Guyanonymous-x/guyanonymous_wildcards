@@ -1,0 +1,4 @@
+He is posed in __age85_94_pose_action_slim__, with __age85_94_pose_weight_slim__ and __age85_94_pose_twist_slim__. His hands show __pose_hands__, his gaze is __pose_gaze__, and his expression is __facialExpressionsFor_v10__.
+His posture, __age85_94_pose_action_slim__, with __age85_94_pose_weight_slim__. His hands show __pose_hands__ and his gaze is __pose_gaze__, with __pose_emotion__.
+His pose, in a few words, __m_poses_extended__. His expression is __facialExpressionsFor_v10__ and his gaze is __pose_gaze__.
+His pose, in a few words, __poses__. His expression is __facialExpressionsFor_v10__, with __pose_hands__.

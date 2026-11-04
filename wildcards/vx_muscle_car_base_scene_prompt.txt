@@ -1,0 +1,1 @@
+__vx_muscle_car_base_prompt__ The vehicle is __vx_muscle_car_state__, seen from __vs_car_camera__.

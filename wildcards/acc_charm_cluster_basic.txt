@@ -1,0 +1,850 @@
+__acc_adj_basic__ Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+__acc_adj_basic__ Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+__acc_adj_basic__ Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+__acc_adj_basic__ Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+__acc_adj_basic__ Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+__acc_adj_basic__ Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+__acc_adj_basic__ Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+__acc_adj_basic__ Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+__acc_adj_basic__ Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+__acc_adj_basic__ anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+__acc_adj_basic__ animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+__acc_adj_basic__ bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+__acc_adj_basic__ birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+__acc_adj_basic__ cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+__acc_adj_basic__ clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+__acc_adj_basic__ compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+__acc_adj_basic__ dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+__acc_adj_basic__ evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+__acc_adj_basic__ fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+__acc_adj_basic__ flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+__acc_adj_basic__ glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+__acc_adj_basic__ hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+__acc_adj_basic__ heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+__acc_adj_basic__ key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+__acc_adj_basic__ leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+__acc_adj_basic__ lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+__acc_adj_basic__ locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+__acc_adj_basic__ lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+__acc_adj_basic__ miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+__acc_adj_basic__ miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+__acc_adj_basic__ moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+__acc_adj_basic__ resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+__acc_adj_basic__ star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+__acc_adj_basic__ sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a bare-bones Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+a bare-bones Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+a bare-bones Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+a bare-bones Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+a bare-bones Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+a bare-bones Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+a bare-bones Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a bare-bones Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a bare-bones anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+a bare-bones anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+a bare-bones cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+a bare-bones cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+a bare-bones clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+a bare-bones clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+a bare-bones compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+a bare-bones compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+a bare-bones fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+a bare-bones fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+a bare-bones hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a bare-bones hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a bare-bones key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a bare-bones key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a bare-bones leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+a bare-bones leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+a bare-bones lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+a bare-bones lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+a bare-bones locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a bare-bones locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a bare-bones miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+a bare-bones miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+a bare-bones miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+a bare-bones miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+a bare-bones moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+a bare-bones moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+a bare-bones resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a bare-bones resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a basic Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+a basic Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+a basic Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+a basic Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+a basic Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+a basic Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+a basic Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+a basic Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+a basic bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+a basic bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+a basic birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+a basic birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+a basic cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+a basic cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+a basic clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+a basic clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+a basic dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+a basic dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+a basic hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a basic hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a basic key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a basic key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a basic miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+a basic miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+a basic resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a basic resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a budget-weight Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+a budget-weight Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+a budget-weight anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+a budget-weight anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+a budget-weight animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a budget-weight animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a budget-weight bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+a budget-weight bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+a budget-weight fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+a budget-weight fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+a budget-weight flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+a budget-weight flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+a budget-weight key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a budget-weight key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a budget-weight leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+a budget-weight leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+a budget-weight locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a budget-weight locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a budget-weight miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+a budget-weight miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+a budget-weight miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+a budget-weight miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+a budget-weight resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a budget-weight resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a budget-weight star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+a budget-weight star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+a budget-weight sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a budget-weight sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+a casual Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+a casual Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+a casual Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+a casual Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+a casual Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+a casual Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+a casual birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+a casual birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+a casual flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+a casual flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+a casual heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+a casual heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+a casual miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+a casual miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+a casual moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+a casual moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+a casual star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+a casual star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+a common Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+a common Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+a common Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+a common Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+a common Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+a common Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+a common Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a common Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a common animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a common animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a common birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+a common birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+a common dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+a common dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+a common glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+a common glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+a common hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a common hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a common key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a common key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a common locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a common locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a common lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+a common lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+a common miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+a common miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+a common resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a common resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a common star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+a common star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+a factory-made Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+a factory-made Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+a factory-made Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+a factory-made Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+a factory-made Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+a factory-made Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+a factory-made Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a factory-made Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a factory-made anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+a factory-made anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+a factory-made animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a factory-made animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a factory-made bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+a factory-made bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+a factory-made cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+a factory-made cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+a factory-made dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+a factory-made dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+a factory-made lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+a factory-made lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+a factory-made moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+a factory-made moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+a factory-made resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a factory-made resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a functional Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+a functional Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+a functional Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+a functional Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+a functional birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+a functional birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+a functional cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+a functional cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+a functional evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+a functional evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+a functional fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+a functional fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+a functional glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+a functional glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+a functional leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+a functional leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+a functional locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a functional locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a functional miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+a functional miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+a humble Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+a humble Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+a humble Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a humble Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a humble bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+a humble bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+a humble fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+a humble fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+a humble key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a humble key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a humble leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+a humble leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+a humble miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+a humble miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+a humble star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+a humble star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+a humble sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a humble sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+a light-duty Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+a light-duty Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+a light-duty Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+a light-duty Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+a light-duty birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+a light-duty birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+a light-duty glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+a light-duty glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+a light-duty hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a light-duty hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a light-duty heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+a light-duty heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+a light-duty locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a light-duty locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a light-duty miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+a light-duty miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+a light-duty miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+a light-duty miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+a light-duty sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a light-duty sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+a lightly built Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+a lightly built Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+a lightly built Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+a lightly built Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+a lightly built Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+a lightly built Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+a lightly built clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+a lightly built clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+a lightly built compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+a lightly built compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+a lightly built evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+a lightly built evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+a lightly built hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a lightly built hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a lightly built heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+a lightly built heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+a lightly built leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+a lightly built leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+a lightly built lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+a lightly built lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+a lightly built miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+a lightly built miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+a lightly built star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+a lightly built star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+a low-key Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+a low-key Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+a low-key Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+a low-key Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+a low-key Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+a low-key Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+a low-key Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+a low-key Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+a low-key Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+a low-key Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+a low-key cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+a low-key cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+a low-key flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+a low-key flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+a low-key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a low-key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a low-key lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+a low-key lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+a low-key moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+a low-key moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+a low-key resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a low-key resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a mass-produced Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+a mass-produced Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+a mass-produced Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+a mass-produced Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+a mass-produced Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+a mass-produced Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+a mass-produced Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a mass-produced Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a mass-produced anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+a mass-produced anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+a mass-produced cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+a mass-produced cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+a mass-produced glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+a mass-produced glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+a mass-produced key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a mass-produced key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a mass-produced leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+a mass-produced leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+a mass-produced lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+a mass-produced lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+a mass-produced moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+a mass-produced moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+a mass-produced resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a mass-produced resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a mass-produced star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+a mass-produced star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+a matter-of-fact Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+a matter-of-fact Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+a matter-of-fact Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+a matter-of-fact Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+a matter-of-fact Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+a matter-of-fact Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+a matter-of-fact Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+a matter-of-fact Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+a matter-of-fact Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a matter-of-fact Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a matter-of-fact anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+a matter-of-fact anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+a matter-of-fact animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a matter-of-fact animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a matter-of-fact bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+a matter-of-fact bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+a matter-of-fact compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+a matter-of-fact compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+a matter-of-fact evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+a matter-of-fact evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+a matter-of-fact flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+a matter-of-fact flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+a matter-of-fact glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+a matter-of-fact glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+a matter-of-fact leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+a matter-of-fact leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+a matter-of-fact lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+a matter-of-fact lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+a matter-of-fact locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a matter-of-fact locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a matter-of-fact miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+a matter-of-fact miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+a minimal Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+a minimal Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+a minimal Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+a minimal Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+a minimal animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a minimal animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a minimal bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+a minimal bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+a minimal hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a minimal hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a minimal key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a minimal key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a minimal miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+a minimal miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+a minimal miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+a minimal miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+a minimal moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+a minimal moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+a no-frills Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+a no-frills Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+a no-frills Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+a no-frills Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+a no-frills Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+a no-frills Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+a no-frills animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a no-frills animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a no-frills clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+a no-frills clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+a no-frills dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+a no-frills dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+a no-frills flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+a no-frills flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+a no-frills glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+a no-frills glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+a no-frills hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a no-frills hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a no-frills heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+a no-frills heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+a no-frills lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+a no-frills lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+a no-frills lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+a no-frills lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+a no-frills miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+a no-frills miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+a no-frills moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+a no-frills moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+a no-nonsense Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+a no-nonsense Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+a no-nonsense anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+a no-nonsense anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+a no-nonsense animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a no-nonsense animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a no-nonsense birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+a no-nonsense birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+a no-nonsense clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+a no-nonsense clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+a no-nonsense evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+a no-nonsense evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+a no-nonsense heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+a no-nonsense heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+a no-nonsense locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a no-nonsense locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a no-nonsense miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+a no-nonsense miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+a no-nonsense resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a no-nonsense resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a no-nonsense star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+a no-nonsense star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+a plain Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+a plain Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+a plain Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+a plain Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+a plain bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+a plain bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+a plain birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+a plain birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+a plain cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+a plain cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+a plain evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+a plain evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+a plain fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+a plain fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+a plain heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+a plain heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+a plain lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+a plain lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+a plain moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+a plain moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+a plain-spun Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+a plain-spun Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+a plain-spun Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+a plain-spun Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+a plain-spun Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a plain-spun Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a plain-spun animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a plain-spun animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a plain-spun clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+a plain-spun clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+a plain-spun compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+a plain-spun compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+a plain-spun evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+a plain-spun evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+a plain-spun fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+a plain-spun fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+a plain-spun glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+a plain-spun glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+a plain-spun key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a plain-spun key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a plain-spun lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+a plain-spun lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+a quick-made Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+a quick-made Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+a quick-made Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+a quick-made Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+a quick-made bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+a quick-made bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+a quick-made clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+a quick-made clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+a quick-made compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+a quick-made compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+a quick-made fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+a quick-made fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+a quick-made flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+a quick-made flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+a quick-made heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+a quick-made heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+a quick-made lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+a quick-made lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+a quick-made lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+a quick-made lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+a quick-made miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+a quick-made miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+a quick-made sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a quick-made sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+a ready-to-wear Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+a ready-to-wear Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+a ready-to-wear birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+a ready-to-wear birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+a ready-to-wear cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+a ready-to-wear cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+a ready-to-wear compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+a ready-to-wear compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+a ready-to-wear dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+a ready-to-wear dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+a ready-to-wear fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+a ready-to-wear fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+a ready-to-wear glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+a ready-to-wear glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+a ready-to-wear heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+a ready-to-wear heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+a ready-to-wear lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+a ready-to-wear lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+a ready-to-wear locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a ready-to-wear locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a ready-to-wear lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+a ready-to-wear lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+a ready-to-wear resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a ready-to-wear resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a ready-to-wear sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a ready-to-wear sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+a rudimentary Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+a rudimentary Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+a rudimentary Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+a rudimentary Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+a rudimentary Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+a rudimentary Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+a rudimentary Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+a rudimentary Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+a rudimentary Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+a rudimentary Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+a rudimentary Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+a rudimentary Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+a rudimentary Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a rudimentary Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a rudimentary anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+a rudimentary anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+a rudimentary animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a rudimentary animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a rudimentary bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+a rudimentary bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+a rudimentary compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+a rudimentary compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+a rudimentary evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+a rudimentary evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+a rudimentary fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+a rudimentary fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+a rudimentary heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+a rudimentary heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+a rudimentary leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+a rudimentary leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+a rudimentary locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a rudimentary locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a rudimentary lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+a rudimentary lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+a rudimentary miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+a rudimentary miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+a serviceable Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+a serviceable Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+a serviceable Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+a serviceable Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+a serviceable Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+a serviceable Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+a serviceable Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+a serviceable Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+a serviceable Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a serviceable Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a serviceable clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+a serviceable clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+a serviceable dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+a serviceable dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+a serviceable evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+a serviceable evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+a serviceable fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+a serviceable fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+a serviceable flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+a serviceable flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+a serviceable hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a serviceable hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a serviceable key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a serviceable key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a serviceable moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+a serviceable moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+a simple Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+a simple Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+a simple Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+a simple Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+a simple Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+a simple Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+a simple Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a simple Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a simple anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+a simple anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+a simple animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a simple animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a simple evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+a simple evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+a simple flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+a simple flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+a simple glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+a simple glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+a simple sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a simple sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+a standard-issue Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+a standard-issue Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+a standard-issue Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+a standard-issue Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+a standard-issue Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+a standard-issue Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+a standard-issue Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+a standard-issue Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+a standard-issue Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+a standard-issue Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+a standard-issue Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+a standard-issue Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+a standard-issue animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+a standard-issue animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+a standard-issue clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+a standard-issue clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+a standard-issue compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+a standard-issue compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+a standard-issue dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+a standard-issue dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+a standard-issue hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a standard-issue hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a standard-issue resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a standard-issue resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a standard-issue sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a standard-issue sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+a straightforward Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+a straightforward Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+a straightforward Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+a straightforward Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+a straightforward clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+a straightforward clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+a straightforward dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+a straightforward dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+a straightforward flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+a straightforward flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+a straightforward glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+a straightforward glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+a straightforward hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a straightforward hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a straightforward locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a straightforward locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a straightforward sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a straightforward sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+a stripped-back Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+a stripped-back Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+a stripped-back Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+a stripped-back Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+a stripped-back birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+a stripped-back birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+a stripped-back compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+a stripped-back compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+a stripped-back hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+a stripped-back hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+a stripped-back heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+a stripped-back heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+a stripped-back key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+a stripped-back key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+a stripped-back lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+a stripped-back lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+a stripped-back locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+a stripped-back locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+a stripped-back miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+a stripped-back miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+a stripped-back resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+a stripped-back resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+a stripped-back star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+a stripped-back star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+a stripped-back sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a stripped-back sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+a workaday Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+a workaday Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+a workaday Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+a workaday Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+a workaday Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+a workaday Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+a workaday bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+a workaday bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+a workaday birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+a workaday birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+a workaday cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+a workaday cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+a workaday lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+a workaday lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+a workaday moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+a workaday moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+a workaday sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+a workaday sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+an entry-level Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+an entry-level Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+an entry-level anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+an entry-level anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+an entry-level birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+an entry-level birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+an entry-level compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+an entry-level compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+an entry-level evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+an entry-level evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+an entry-level glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+an entry-level glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+an entry-level moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+an entry-level moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+an everyday Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+an everyday Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+an everyday Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+an everyday Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+an everyday Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+an everyday Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+an everyday Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+an everyday Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+an everyday clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+an everyday clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+an everyday dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+an everyday dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+an everyday fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+an everyday fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+an everyday locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens.
+an everyday locket charm, made of __acc_charm_mat_all_basic__. It is a tiny hinged keepsake that opens. It also includes __acc_charm_practical__.
+an everyday lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+an everyday lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+an everyday resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it.
+an everyday resin charm, made of __acc_charm_mat_all_basic__. It is a clear resin shape with something sealed in it. It also includes __acc_charm_practical__.
+an everyday star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+an everyday star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+an off-the-shelf Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork.
+an off-the-shelf Celtic knot charm, made of __acc_charm_mat_all_basic__. It is a small piece of interlaced knotwork. It also includes __acc_charm_practical__.
+an off-the-shelf Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+an off-the-shelf Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+an off-the-shelf Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+an off-the-shelf Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+an off-the-shelf anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+an off-the-shelf anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+an off-the-shelf compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+an off-the-shelf compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+an off-the-shelf evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+an off-the-shelf evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+an off-the-shelf miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+an off-the-shelf miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+an off-the-shelf moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant.
+an off-the-shelf moon charm, made of __acc_charm_mat_all_basic__. It is a small crescent pendant. It also includes __acc_charm_practical__.
+an off-the-shelf star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+an off-the-shelf star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+an ordinary Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+an ordinary Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+an ordinary Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat.
+an ordinary Japanese maneki-neko charm, made of __acc_charm_mat_all_basic__. It is a tiny beckoning cat. It also includes __acc_charm_practical__.
+an ordinary bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+an ordinary bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+an ordinary cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+an ordinary cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+an ordinary dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+an ordinary dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+an ordinary evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman.
+an ordinary evil eye charm, made of __acc_charm_mat_all_basic__. It is a blue eye-shaped talisman. It also includes __acc_charm_practical__.
+an ordinary flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+an ordinary flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+an ordinary leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+an ordinary leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+an ordinary lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+an ordinary lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+an ordinary lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+an ordinary lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+an ordinary miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+an ordinary miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+an ordinary sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+an ordinary sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
+an understated Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+an understated Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+an understated Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+an understated Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+an understated birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting.
+an understated birthstone charm, made of __acc_charm_mat_all_basic__. It is a small stone in a setting. It also includes __acc_charm_practical__.
+an understated cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+an understated cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+an understated fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure.
+an understated fish charm, made of __acc_charm_mat_all_basic__. It is a tiny fish figure. It also includes __acc_charm_practical__.
+an understated flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+an understated flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+an understated glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead.
+an understated glass bead charm, made of __acc_charm_mat_all_basic__. It is a lampwork glass bead. It also includes __acc_charm_practical__.
+an understated leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+an understated leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+an unfussy Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+an unfussy Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+an unfussy Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant.
+an unfussy Navajo silver charm, made of __acc_charm_mat_all_basic__. It is a stamped silver pendant. It also includes __acc_charm_practical__.
+an unfussy Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye.
+an unfussy Turkish nazar charm, made of __acc_charm_mat_all_basic__. It is a small blue glass eye. It also includes __acc_charm_practical__.
+an unfussy compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass.
+an unfussy compass charm, made of __acc_charm_mat_all_basic__. It is a tiny working compass. It also includes __acc_charm_practical__.
+an unfussy lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock.
+an unfussy lock charm, made of __acc_charm_mat_all_basic__. It is a tiny padlock. It also includes __acc_charm_practical__.
+an unpretentious Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+an unpretentious Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+an unpretentious Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+an unpretentious Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+an unpretentious anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+an unpretentious anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+an unpretentious dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+an unpretentious dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+an unpretentious hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman.
+an unpretentious hamsa charm, made of __acc_charm_mat_all_basic__. It is a hand-shaped talisman. It also includes __acc_charm_practical__.
+an unpretentious heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+an unpretentious heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+an unpretentious leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+an unpretentious leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+an unpretentious lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+an unpretentious lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+an unpretentious star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+an unpretentious star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+an utilitarian Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure.
+an utilitarian Buddha charm, made of __acc_charm_mat_all_basic__. It is a small seated figure. It also includes __acc_charm_practical__.
+an utilitarian Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole.
+an utilitarian Chinese coin charm, made of __acc_charm_mat_all_basic__. It is a coin with a square hole. It also includes __acc_charm_practical__.
+an utilitarian Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity.
+an utilitarian Ganesha charm, made of __acc_charm_mat_all_basic__. It is a small figure of an elephant-headed deity. It also includes __acc_charm_practical__.
+an utilitarian Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape.
+an utilitarian Mexican milagro charm, made of __acc_charm_mat_all_basic__. It is a tiny tin folk-art shape. It also includes __acc_charm_practical__.
+an utilitarian Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion.
+an utilitarian Saint-medal-style charm, made of __acc_charm_mat_all_basic__. It is a small round engraved medallion. It also includes __acc_charm_practical__.
+an utilitarian anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor.
+an utilitarian anchor charm, made of __acc_charm_mat_all_basic__. It is a tiny anchor. It also includes __acc_charm_practical__.
+an utilitarian animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature.
+an utilitarian animal charm, made of __acc_charm_mat_all_basic__. It is a small figure of a creature. It also includes __acc_charm_practical__.
+an utilitarian bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure.
+an utilitarian bird charm, made of __acc_charm_mat_all_basic__. It is a tiny bird figure. It also includes __acc_charm_practical__.
+an utilitarian cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure.
+an utilitarian cat charm, made of __acc_charm_mat_all_basic__. It is a tiny cat figure. It also includes __acc_charm_practical__.
+an utilitarian clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover.
+an utilitarian clover charm, made of __acc_charm_mat_all_basic__. It is a small four-leaf clover. It also includes __acc_charm_practical__.
+an utilitarian dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers.
+an utilitarian dream catcher charm, made of __acc_charm_mat_all_basic__. It is a tiny woven hoop with feathers. It also includes __acc_charm_practical__.
+an utilitarian flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant.
+an utilitarian flower charm, made of __acc_charm_mat_all_basic__. It is a small flower pendant. It also includes __acc_charm_practical__.
+an utilitarian heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant.
+an utilitarian heart charm, made of __acc_charm_mat_all_basic__. It is a small heart-shaped pendant. It also includes __acc_charm_practical__.
+an utilitarian key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key.
+an utilitarian key charm, made of __acc_charm_mat_all_basic__. It is a tiny decorative key. It also includes __acc_charm_practical__.
+an utilitarian leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant.
+an utilitarian leaf charm, made of __acc_charm_mat_all_basic__. It is a small leaf pendant. It also includes __acc_charm_practical__.
+an utilitarian lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower.
+an utilitarian lotus charm, made of __acc_charm_mat_all_basic__. It is a tiny lotus flower. It also includes __acc_charm_practical__.
+an utilitarian miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages.
+an utilitarian miniature book charm, made of __acc_charm_mat_all_basic__. It is a tiny book with pages. It also includes __acc_charm_practical__.
+an utilitarian miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute.
+an utilitarian miniature instrument charm, made of __acc_charm_mat_all_basic__. It is a tiny violin or flute. It also includes __acc_charm_practical__.
+an utilitarian star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant.
+an utilitarian star charm, made of __acc_charm_mat_all_basic__. It is a small star-shaped pendant. It also includes __acc_charm_practical__.
+an utilitarian sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays.
+an utilitarian sun charm, made of __acc_charm_mat_all_basic__. It is a small pendant with rays. It also includes __acc_charm_practical__.
