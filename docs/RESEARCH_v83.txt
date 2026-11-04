@@ -1,0 +1,7 @@
+v83 research notes and honest limits
+- Brand selection: companies, marques, houses and workshops whose products are instantly recognisable by styling, spread over all eras and regions. 746 brands after removing duplicates.
+- Method: agents researched and wrote each entry (under 250 words, longest 172). The first 11 groups (599 brands) were written mainly from general knowledge with no page fetching, so their notes files mark every brand "general" and list unverified reference pages. The two second-pass groups (world_a: Asia, Middle East, Africa; world_b: Latin America, Oceania, Eastern Europe) fetched pages for most brands, but many pages say little about visuals, so about half still rely on general knowledge for the look; confidence is marked per brand.
+- The balance is still Europe and North America heavy (about 60 percent); regions with fewer entries (Africa, Middle East, Southeast Asia, Oceania) are the best candidates for a future top-up.
+- Some entries cover a craft tradition or cooperative rather than one company (for example Zhostovo, Dymkovo, Kente weavers).
+- Enriched style lists: 59 files rewritten by agents from general knowledge (no web research). Real person and brand names found in the originals were replaced by descriptions. Lines in a few files run 18-24 words, a little under the 25 word target.
+- Vehicle makes: the 43 maker_<make>_style files keep their decade lines and gain the full style description line; makes not in the 746 are unchanged.

@@ -1,0 +1,13 @@
+STYLE DETAIL BRIEF (v83) - enrich existing wildcard style lists
+Library: /home/claude/w/wildcards (txt files, one wildcard option per line). Never edit these originals.
+Task: for your assigned files, write an ENRICHED copy of each file into /home/claude/w/_tools_in/sd_<GROUP>/<same file name>. 
+RULES
+- SAME number of lines, SAME order, one-to-one: line N of the output replaces line N of the original. Keep blank lines where they are (normally none).
+- Each enriched line must still be a drop-in replacement in the same grammatical slot (if the original is a noun phrase starting "a ..." keep that form; do not turn it into a sentence). Keep the original meaning and its key words at the start, then add detail.
+- Purpose: a text-to-image model (natural-language prompts, Moss Image 5B, Krea 2) must understand the style WITHOUT knowing its name. Add concrete visible detail 25-60 words total per line (lines already 40+ words only get light touch or are left as is): shapes, line quality, colours/palette, light, surface and texture, materials/process look, typical subjects and composition, mood, typical era look, signature visual devices. Say what is seen, not history or opinions.
+- Keep movement/technique/process names (e.g. ukiyo-e, daguerreotype) but never introduce names of real people or brands, and remove any real person's name found in the originals by describing the look instead. No mentions of other brands.
+- No colons, semicolons, braces, pipes, double underscores, or quotation marks. Commas, dashes and "with" are fine. Plain ASCII punctuation. Do not start with a capital letter unless the original did.
+- Keep wildcard references (__name__) in a line exactly as they are if any exist.
+- Real research first for unfamiliar items (WebSearch/WebFetch, Wikipedia, museum pages); note any sources in /home/claude/w/docs/styledetail_<GROUP>.txt (file | topic | URL | sourced or general). Do not spend time on items you know well; write general knowledge and mark "general".
+- Verify when done with: python3 - <<EOF ... EOF comparing line counts per file between the original and the enriched copy, and checking for forbidden characters. Fix any mismatch.
+Final report: two lines at most (files done, any problems).

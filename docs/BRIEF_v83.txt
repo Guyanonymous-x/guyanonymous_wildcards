@@ -1,0 +1,21 @@
+BRAND STYLE BRIEF (v83)
+Goal: for companies, marques, houses and workshops whose products are so consistently distinctive that people say "that looks like X made it", write a style entry used by text-to-image prompts.
+Each entry = one line: "In the style of <Company>, <distilled detailed style description>"
+RULES
+- Under 250 words per entry (aim 110-200). Describe what is SEEN: silhouette and proportions, shapes and curves, materials, surface finish, colour palette (name actual colours), typography/graphic marks if relevant (describe, do not rely on the name), pattern, texture, construction details, signature features, mood, and typical era look. Fully describe; a model that has never heard the name must be able to apply it.
+- Never rely on the brand name alone to carry meaning. Do not mention other brands inside an entry. No people's names inside the entry. No trademarked slogans.
+- Text that would appear on the product goes in double quotes, but avoid quoting whole slogans; short marks only.
+- One line per entry. No colons ":" anywhere in the entry text (use commas, dashes or "with"). No semicolons, no braces { }, no pipes |, no double underscores. Plain ASCII punctuation.
+- Style must be consistent across the company's products (cover the range: what you see across their typical products, and name the period if the style belongs to a period, e.g. "1960s").
+- Choose brands with REAL, RECOGNISABLE, CONSISTENT styling. Spread across eras (ancient/medieval surviving houses, 1700s-1800s, Art Nouveau/Deco, mid-century, 1960s-80s, 1990s-today) and across the WORLD. Aim for your assigned count but ADD MORE when more brands clearly qualify.
+- Research first (WebSearch/WebFetch, Wikipedia, company design histories, museum pages) and keep notes with 2-3 source URLs per brand. Where sources do not describe surface/colour details, use well-established general knowledge but mark it "general" in the notes.
+OUTPUT (two files, plain text, both required)
+1) /home/claude/w/_tools_in/v83_bs_<GROUP>.py   (create dir if missing) containing:
+B = [
+ ('Company Name', 'Region', 'Era', 'Industry', 'In the style of Company Name, ...'),
+ ...
+]
+ Region = one of Europe, North America, Latin America, East Asia, South Asia, Southeast Asia, Middle East, Africa, Oceania, Russia and Eastern Europe. Era = the period the style is best known for (e.g. 1920s, 1950s-60s, 1980s, 2000s-present, 18th century). Industry = short lower-case word (cars, fashion, furniture, electronics, toys...). Python file must import cleanly; use plain single-quoted strings, no apostrophes inside (rewrite possessives).
+2) /home/claude/w/docs/brands_<GROUP>.txt   notes: one line per brand "Name | region | era | sources (URLs) | confidence (sourced/general)".
+Check: run python3 -c "import sys;sys.path.insert(0,'/home/claude/w/_tools_in');import v83_bs_<GROUP> as m;print(len(m.B), max(len(x[4].split()) for x in m.B))" and confirm no ':' in entry text.
+Final report: one or two lines only (count and file path).

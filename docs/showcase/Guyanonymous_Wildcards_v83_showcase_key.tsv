@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+S01	Penhaligons (Europe, 19th century-present)	3:2	1248x848	1728x1152	727	8300	ok check statue shape
+S02	Letraset (Europe, 1960s-70s)	1:1	1024x1024	1408x1408	800	8311	ok 
+S03	Montblanc (Europe, 1920s-present)	4:5	912x1152	1264x1568	695	8322	ok 
+S04	Taschen (Europe, 1990s-present)	3:2	1248x848	1728x1152	515	8333	ok 
+S05	Gibson (North America, 1950s-60s)	4:5	912x1152	1264x1568	603	8344	ok 
+S06	Yeti (North America, 2010s-present)	3:2	1248x848	1728x1152	748	8355	ok 
+S07	Stanley (North America, 1913-present)	1:1	1024x1024	1408x1408	762	8366	ok 
+S08	Kewpie (East Asia, 1925-present)	4:5	912x1152	1264x1568	1074	8377	ok 
+S09	Jingdezhen Imperial Kilns (East Asia, Ming-Qing dynasties)	3:2	1248x848	1728x1152	879	8388	ok 
+S10	Honda Super Cub (East Asia, 1960s-present)	4:5	912x1152	1264x1568	654	8399	ok 
+S11	Ando Cloisonne (East Asia, Meiji-Showa 1880s-1930s)	3:2	1248x848	1728x1152	838	8410	ok 
+S12	Kala Raksha (South Asia, traditional-present)	1:1	1024x1024	1408x1408	802	8421	ok check tapestry
+S13	Bajaj Auto (South Asia, 1970s-1990s)	4:5	912x1152	1264x1568	1014	8432	ok 
+S14	Royal Selangor (Southeast Asia, 1900s-present)	3:2	1248x848	1728x1152	562	8443	ok 
+S15	Avanos Pottery (Middle East, ancient-present)	4:5	912x1152	1264x1568	952	8454	ok 
+S16	Ararat Brandy (Middle East, 1900s-present)	3:2	1248x848	1728x1152	851	8465	ok 
+S17	Ardmore Ceramic Art (Africa, 1990s-present)	1:1	1024x1024	1408x1408	1001	8476	ok 
+S18	Kazuri (Africa, 1970s-present)	4:5	912x1152	1264x1568	972	8487	ok 
+S19	Havaianas (Latin America, 1960s-present)	3:2	1248x848	1728x1152	736	8498	ok 
+S20	Chulucanas Ceramics (Latin America, 1980s-present)	4:5	912x1152	1264x1568	1112	8509	ok 
+S21	Talavera Uriarte (Latin America, 17th century-present)	3:2	1248x848	1728x1152	726	8520	ok 
+S22	Icebreaker (Oceania, 1990s-present)	1:1	1024x1024	1408x1408	742	8531	ok 
+S23	Antonov (Russia and Eastern Europe, 1950s-present)	4:5	912x1152	1264x1568	935	8542	ok check neon text
+S24	Herend Porcelain (Russia and Eastern Europe, 19th century-present)	3:2	1248x848	1728x1152	1084	8553	ok 
+S25	Penkala (Russia and Eastern Europe, 1910s-30s)	4:5	912x1152	1264x1568	1069	8564	ok 
+G01	cars of four makes	1:1	1024x1024	1408x1408	936	8575	ok 
+G02	fashion houses	1:1	1024x1024	1408x1408	1017	8586	ok 
+G03	electronics	1:1	1024x1024	1408x1408	980	8597	ok 
+G04	home and ceramics	1:1	1024x1024	1408x1408	946	8608	ok 
+G05	animation studios	1:1	1024x1024	1408x1408	1026	8619	ok 
+G06	airlines and food	1:1	1024x1024	1408x1408	933	8630	ok 
+G07	Europe styles	1:1	1024x1024	1408x1408	1011	8641	ok 
+G08	East Asia styles	1:1	1024x1024	1408x1408	967	8652	ok 
+G09	South Asia styles	1:1	1024x1024	1408x1408	920	8663	ok 
+G10	Africa styles	1:1	1024x1024	1408x1408	988	8674	ok 
+G11	Latin America styles	1:1	1024x1024	1408x1408	1077	8685	ok 
+G12	Middle East styles	1:1	1024x1024	1408x1408	1003	8696	ok 
+G13	Russia and Eastern Europe styles	1:1	1024x1024	1408x1408	2119	8707	ok 
+G14	North America styles	1:1	1024x1024	1408x1408	1990	8718	ok 
+G15	Oceania styles	1:1	1024x1024	1408x1408	995	8729	ok 

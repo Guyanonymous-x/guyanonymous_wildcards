@@ -1,0 +1,15 @@
+bs_prompt
+maker_brand_style
+bs_cars_eu_prompt
+bs_cars_world_prompt
+bs_fashion_eu_prompt
+bs_fashion_world_prompt
+bs_heritage_prompt
+bs_home_prompt
+bs_media_prompt
+bs_modern_misc_prompt
+bs_packaging_prompt
+bs_tech_prompt
+bs_transport_prompt
+bs_world_a_prompt
+bs_world_b_prompt

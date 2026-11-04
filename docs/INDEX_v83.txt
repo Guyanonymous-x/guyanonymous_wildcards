@@ -1,0 +1,4 @@
+v83 index: brand styles (maker_bs_*, maker_brand_style*) and enriched style lists.
+Brand notes: docs/brands_<group>.txt (name | region | era | sources | confidence). 13 groups: cars_eu, cars_world, transport, fashion_eu, fashion_world, tech, home, media, packaging, heritage, modern_misc, world_a, world_b.
+Style detail notes: docs/styledetail_<group>.txt (lineage, medium, photo_eras, photo_optics, photo_finish, photo_light, photo_sig).
+Brief used for the writers: docs/BRIEF_v83.txt and BRIEF_v83_detail.txt.

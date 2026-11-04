@@ -1,5 +1,5 @@
-texture overlaid globally
-texture in the shadows only
-texture in the fills only
-texture on the edges only
-texture on selected objects only
+texture overlaid globally, one uniform grain or paper texture covering the whole image evenly, binding all elements together with the same tactile surface
+texture in the shadows only, grain, hatching or noise concentrated in dark areas while lit areas stay smooth and clean, adding moody depth to the darker tones
+texture in the fills only, colour areas showing speckle, brush marks or grain inside shapes while the outlines remain clean and sharp
+texture on the edges only, rough, ragged or grainy borders along the outlines and image perimeter while the interior stays smooth, like a worn vignette frame
+texture on selected objects only, a few key items such as fur, fabric or rock rendered with strong tactile detail while everything else stays clean and flat
