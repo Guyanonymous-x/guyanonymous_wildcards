@@ -1,0 +1,7 @@
+v84 index
+Adult content (adults only, consensual): adult_l1..l5_<genre> where genre = pose, body, setting, object, group, location.
+Levels: L1 suggestive, L2 sensual, L3 partial nudity, L4 explicit nudity, L5 explicit acts (clinical wording).
+adult_<genre> mixes all five levels. adult_lN_prompt / adult_prompt / adult_solo_prompt / adult_group_prompt build prompts.
+Existing sex, BDSM and fetish object files moved to adult_ (adult_acc_dildo, adult_acc_vibrator, adult_acc_buttplug, adult_acc_adulttoy, adult_acc_pasties, adult_acc_merkin, adult_acc_gag, adult_acc_sensation, adult_acc_chastity, adult_chastity_*). Normal clothing and underwear stay where they were.
+Brand styles (maker_bs_*) rewritten as transferable essence descriptions with no exact products.
+ADULT_QUESTIONS_v84.txt lists open choices for review.

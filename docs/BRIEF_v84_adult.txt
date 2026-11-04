@@ -1,0 +1,25 @@
+ADULT WILDCARDS BRIEF (v84) - adult-only visual vocabulary for text-to-image prompts
+Audience and scope: a private library for adults making adult imagery with natural-language txt2img models. Every person described is an adult. Everything is consensual. NEVER: minors or anything youthful-coded, non-consent, coercion framed as real, violence beyond consensual play, bestiality, incest, real people or brands, illegal acts. If an idea is unsure, leave it out and add it to the QUESTIONS file.
+You write ONE GENRE for all five explicitness levels. Output one plain-text wildcard file per level (one option per line, no blank lines, no numbering) plus a questions file.
+LEVELS
+L1 Suggestive - clothed, implied, mood and tension only
+L2 Sensual - underwear or lingerie, skin shown, nothing explicit
+L3 Partial nudity - topless or bottomless but covered, cropped or draped, no genitals shown
+L4 Explicit nudity - full nudity with genitals visible, toys, restraints and devices present or displayed, no sex act
+L5 Explicit acts - sex acts and bodily detail shown plainly. Use clinical wording (penis, vagina, anus, penetration, oral sex, ejaculate), not slang.
+FILES (write into /home/claude/w/_tools_in/adult/, create the dir)
+adult_l1_<genre>.txt, adult_l2_<genre>.txt, adult_l3_<genre>.txt, adult_l4_<genre>.txt, adult_l5_<genre>.txt, and /home/claude/w/docs/adult_questions_<genre>.txt (questions for the owner, one per line, unresolved choices, gaps, things you were unsure to include).
+SIZE AND STYLE
+- 60 to 100 lines per level file (more is fine if varied). Each line is a self-contained, fully visual description of 10 to 35 words that a model can render without prior knowledge: what is seen, where, how the body and objects are placed, light/skin/fabric details as relevant. Vary scale, framing, bodies, genders, orientations and pairings (women, men, nonbinary, same-sex and mixed) evenly. No repeated sentence skeletons - vary grammar.
+- Describe, do not narrate. No names of people or brands. No colons, semicolons, braces, pipes, double quotes, double underscores or non-ASCII characters. Plain commas and dashes.
+- The visible-through-clothing rule from the owner: lower levels can show an object or arousal only through fabric, for example the outline and texture of a ring or device pressing through trousers, a soft versus a hard bulge through pants, nipples through thin cotton or a wet shirt, a plug or vibrator outline under a tight skirt. Write those explicitly in L1 to L3 where appropriate.
+- Everything must match its level: nothing at L1 to L3 may show genitals bare or sex acts; L4 shows no sex act; L5 shows acts plainly.
+- Only include content that fits YOUR genre (below). Do not duplicate another genre.
+Genre definitions
+pose: body positions and gestures of one or two adults (standing, sitting, kneeling, lying, bending, stretching, held, carried, restrained positions at L4-L5 only).
+body: body-part focus and framing (what part of the body is the subject, how it is framed, skin, shape, state, e.g. clothed, covered, bare, aroused, wet), including detail through fabric at lower levels.
+setting: the room or immediate scene around the people (furniture, light, props in the space, mood) - indoor rooms and set-ups, not whole venues.
+object: objects, toys, devices, accessories and clothing-as-erotic-object worn or displayed (lingerie, harnesses, collars, restraints, ropes, gags, toys, cock rings, chastity devices, plugs, clamps, lubricant, etc.), how they are worn, seen through clothing, or used. Existing library has toy and chastity object files, so describe usage and visibility instead of listing models.
+group: interactions between two or more adults (dancing, kissing, touching, undressing each other, massage, play, sex in groups at L5). Mix pairings and numbers (2, 3, 4+).
+location: whole venues and places (bars, clubs, bathhouses, saunas, resorts, studios, hotels, outdoor places, adult venues, private parties) with what the people there are doing at that level.
+Final report: one line (lines per file, any trouble). Verify with python3: file counts, line counts, no forbidden characters.

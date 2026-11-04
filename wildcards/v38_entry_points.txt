@@ -14,7 +14,7 @@ __acc_tiehw_prompt__
 __hair_state_prompt__
 __acc_medwrap_prompt__
 __body_wound_prompt__
-__acc_chastity_prompt__
+__adult_acc_chastity_prompt__
 __wx_outfit_prompt__
 __skin_tan_level__
 __condition_prompt__

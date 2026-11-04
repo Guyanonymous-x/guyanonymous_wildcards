@@ -27,7 +27,11 @@ def load():
             t = clean(text)
             if not t.lower().startswith('in the style of'): t = 'In the style of %s, %s' % (name, t)
             B.append((clean(name), region, era, ind, t, grp))
-    return B
+    ES = {}
+    for fn in (sorted(glob.glob(HERE + '/data/v83_es/out_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out2_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out3_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out4_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out5_*.py'))):
+        ns = {}; exec(open(fn, encoding='utf8').read(), ns)
+        for name, region, era, ind, text in ns['B']: ES[slug(name)] = clean(text)
+    return [(n, r, e, i, ES.get(slug(n), t), g) for n, r, e, i, t, g in B]
 
 def P(x): return [i.strip() for i in x.split(';') if i.strip()]
 SUBJ = {
@@ -46,32 +50,51 @@ GROUP_SUBJ = {'cars_eu': 'vehicle', 'cars_world': 'vehicle', 'transport': 'trans
 VIEW = P('shown in a clean studio photograph with soft even light; shown outdoors in natural daylight; shown in a warm indoor setting with window light; shown on a plain pale backdrop with a soft shadow; shown in a detailed close-up that fills the frame; shown in a wide view with its surroundings; shown at a three-quarter angle with a softly blurred background; shown in a styled magazine-like layout with plenty of space around it')
 def build(final=None):
     B = load(); G = {}
+    NAT = re.compile(r'^(American|British|English|Finnish|Swedish|Danish|Norwegian|Italian|French|German|Dutch|Swiss|Japanese|Chinese|Korean|Indian|Mexican|Russian|Soviet|Scandinavian|Nordic|Victorian|Edwardian|Georgian|Art|Bauhaus|Mid|Hungarian|Czech|Polish|Turkish|Persian|Iranian|Ottoman|Islamic|African|Brazilian|Peruvian|Australian|Canadian|Thai|Vietnamese|Indonesian|Balinese|Spanish|Portuguese|Greek|Irish|Scottish|Welsh|Austrian|Belgian)\b')
+    LOW = set(w for x in B for w in re.findall(r'[a-z]+', x[4]))
+    def unnamed(n, t):
+        body = re.sub(r'^In the style of [^,]*, ', '', t)
+        if not NAT.match(body): body = body[0].lower() + body[1:]
+        for part in sorted({n} | {p for p in re.split(r'[ -]+', n) if len(p) > 3}, key=len, reverse=True):
+            if part != n and (part.lower() in LOW or NAT.match(part)): continue
+            body = re.sub(r'(?<![A-Za-z])' + re.escape(part) + r'(?![A-Za-z])', 'this brand', body)
+        return 'Styled in a design language of ' + body
+    U = {x[0]: unnamed(x[0], x[4]) for x in B}
+    # plain name = style only (brand name not included), _named = starts with 'In the style of <Brand>,'
     for name, region, era, ind, t, grp in B:
-        G['maker_bs_' + slug(name)] = [t]
-    G['maker_brand_style'] = [x[4] for x in B]
-    for grp in sorted({x[5] for x in B}): G['maker_brand_style_' + grp] = [x[4] for x in B if x[5] == grp]
-    for r in sorted({x[1] for x in B}): G['maker_brand_style_region_' + slug(r)] = [x[4] for x in B if x[1] == r]
-    for e in ('before_1900', '1900_1945', '1946_1979', '1980_present'): G['maker_brand_style_era_' + e] = [x[4] for x in B if era_bucket(x[2]) == e]
+        G['maker_bs_' + slug(name)] = [U[name]]
+        G['maker_bs_' + slug(name) + '_named'] = [t]
+    def agg(key, rows):
+        G['maker_brand_style' + key] = [U[x[0]] for x in rows]
+        G['maker_brand_style' + key + '_named'] = [x[4] for x in rows]
+    agg('', B)
+    for grp in sorted({x[5] for x in B}): agg('_' + grp, [x for x in B if x[5] == grp])
+    for r in sorted({x[1] for x in B}): agg('_region_' + slug(r), [x for x in B if x[1] == r])
+    for e in ('before_1900', '1900_1945', '1946_1979', '1980_present'): agg('_era_' + e, [x for x in B if era_bucket(x[2]) == e])
     for i in sorted({x[3] for x in B}):
-        L = [x[4] for x in B if x[3] == i]
-        if len(L) >= 4: G['maker_brand_style_industry_' + slug(i)] = L
+        L = [x for x in B if x[3] == i]
+        if len(L) >= 4: agg('_industry_' + slug(i), L)
     for name, region, era, ind, t, grp in B:   # enrich thin existing make files
         fn = os.path.join(FINAL, 'maker_%s_style.txt' % slug(name))
         if os.path.exists(fn):
-            old = [l.strip() for l in open(fn, encoding='utf8') if l.strip()]
+            old = [l.strip() for l in open(fn, encoding='utf8') if l.strip() and '__maker_bs_' not in l]
             G['maker_%s_style' % slug(name)] = old + ['__maker_bs_%s__' % slug(name)]
     for name, region, era, ind, t, grp in B:
         body = re.sub(r'^In the style of [^,]*, ', '', t); w = body.split()[:26]; cut = ' '.join(w)
         if ',' in cut and len(w) >= 26: cut = cut[:cut.rfind(',')]
-        G['bs_cell_' + slug(name)] = ['a typical product in the style of %s, %s' % (name, cut.rstrip(' ,.'))]
+        cut = cut.rstrip(' ,.'); sj = '__bs_subject_%s__' % GROUP_SUBJ.get(grp, 'any')
+        G['bs_cell_' + slug(name)] = ['%s in a style of %s' % (sj, unnamed(name, cut)[len('Styled in a design language of '):])]
+        G['bs_cell_' + slug(name) + '_named'] = ['%s in the style of %s, %s' % (sj, name, cut)]
     for k, v in SUBJ.items(): G['bs_subject_' + k] = P(v)
     G['bs_view'] = VIEW
     grps = sorted({x[5] for x in B})
     for g in grps:
         sk = GROUP_SUBJ.get(g, 'any')
-        G['bs_%s_prompt' % g] = ['__maker_brand_style_%s__ The subject is __bs_subject_%s__, designed completely in that style and __bs_view__.' % (g, sk)]
+        for sfx in ('', '_named'):
+            G['bs_%s_prompt%s' % (g, sfx)] = ['__maker_brand_style_%s%s__ The subject is __bs_subject_%s__, designed completely in that style and __bs_view__.' % (g, sfx, sk)]
     G['bs_prompt'] = ['__bs_%s_prompt__' % g for g in grps]
-    G['v83_bs_entry_points'] = ['bs_prompt', 'maker_brand_style'] + ['bs_%s_prompt' % g for g in grps]
+    G['bs_prompt_named'] = ['__bs_%s_prompt_named__' % g for g in grps]
+    G['v83_bs_entry_points'] = ['bs_prompt', 'bs_prompt_named', 'maker_brand_style', 'maker_brand_style_named'] + ['bs_%s_prompt' % g for g in grps]
     return G
 if __name__ == '__main__':
     G = build(); print(len(G), len(load()))
