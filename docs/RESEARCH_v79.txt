@@ -1,0 +1,9 @@
+RESEARCH NOTES v79 (2026-11-04)
+Topics searched: film noir visual style, Golden Age of Piracy ships and dress, early e-readers (Kindle 2007, Sony PRS-500, Kobo). Search returned titles only, so descriptions rest on general knowledge checked against those pages' topics.
+Sources consulted (titles/URLs from the search):
+- Film noir style: https://howtofilmschool.com/film-noir/ ; https://ltx.studio/glossary/film-noir ; https://vectree.io/pdf/c/classic-noir-lighting-mechanics
+- Pirates: https://goldenageofpiracy.org/pirate-ships/pirate-ship-types ; https://www.historyhit.com/what-did-pirates-really-wear/ ; https://www.worldhistory.org/Golden_Age_of_Piracy/
+- E-readers: https://techcrunch.com/2017/11/20/how-the-kindle-was-designed-through-10-years-and-15-generations/amp/ ; https://kevinboone.me/prs-500.html ; https://www.slashgear.com/1767902/amazon-kindle-transformation-history-2007-to-now
+Rules applied: every item described by looks, not by name alone; all text on screens, signs and papers given in quotation marks, one quoted line each; invented names only (M. HALE, J. MARLOW, LUNN & SONS); no real brands outside maker_ files (maker_ereader_models and maker_phone_models now carry full physical descriptions); adults only.
+Weak spots: noir/spy/pirate pools are generic (no era variety except the Cold War style); e-reader and phone model details are from memory and may be slightly off for exact bezel sizes.
+Also changed in v79: v78 cyberpunk files now spell out screen text (cy_screen_text); v76 pools ereader_screen, phone_screen, phone_screen_old, phone_screen_future now give each line of text in quotes.

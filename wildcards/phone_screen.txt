@@ -1,8 +1,8 @@
-a lock screen with a large clock
-a map with a route line
-a grid of coloured app icons
-a text conversation with short messages
-a photograph of a landscape
-a blank dark screen
-a green monochrome screen with a number
-a dial pad with a number being entered
+a lock screen with the large clock "09:41" and the line "Tuesday 12 March"
+a map with a route line and the text "12 min" and "Turn left on Mill Road"
+a grid of coloured app icons with the labels "Mail", "Maps", "Photos" and "Music"
+a text conversation with the messages "Are you free tonight?" and "Yes, see you at eight"
+a photograph of a landscape with the caption "Lake Day" under it
+a dark screen with the single line "Low battery" in small white letters
+a dial pad with the number "555 0142" being entered
+a notification list with the lines "Meeting at 3" and "2 new messages"

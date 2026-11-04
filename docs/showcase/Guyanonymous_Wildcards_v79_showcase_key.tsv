@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+S01	classic noir scene	16:9	1360x768	1872x1056	624	7900	ok 
+S02	rainy city street	3:2	1248x848	1728x1152	558	7911	ok 
+S03	private detective	4:5	912x1152	1264x1568	356	7922	ok 
+S04	detective office	3:2	1248x848	1728x1152	456	7933	ok check the lettering M. HALE, INVESTIGATIONS renders
+S05	empty all-night diner	3:2	1248x848	1728x1152	240	7944	ok 
+S06	black sedan	16:9	1360x768	1872x1056	216	7955	ok 
+S07	club matchbook	1:1	1024x1024	1408x1408	159	7966	ok check THE BLUE ROOM renders
+S08	golden age pirates	16:9	1360x768	1872x1056	535	7977	ok 
+S09	storm at sea	3:2	1248x848	1728x1152	539	7988	ok 
+S10	pirate captain	4:5	912x1152	1264x1568	399	7999	ok 
+S11	captain's cabin	3:2	1248x848	1728x1152	357	8010	ok 
+S12	empty treasure cave	2:3	832x1264	1152x1728	213	8021	ok 
+S13	galleon	16:9	1360x768	1872x1056	242	8032	ok 
+S14	captain's log	1:1	1024x1024	1408x1408	180	8043	ok check LOG OF THE SEA WOLF renders
+S15	treasure map	4:5	912x1152	1264x1568	161	8054	ok 
+S16	Cold War spy scene	16:9	1360x768	1872x1056	506	8065	ok 
+S17	embassy gala	3:2	1248x848	1728x1152	533	8076	ok 
+S18	field agent	4:5	912x1152	1264x1568	390	8087	ok 
+S19	casino	3:2	1248x848	1728x1152	359	8098	ok 
+S20	sports car	16:9	1360x768	1872x1056	235	8109	ok 
+S21	secret dossier	4:5	912x1152	1264x1568	149	8120	ok check TOP SECRET renders
+S22	coin	1:1	1024x1024	1408x1408	306	8131	ok 
+S23	banknote	3:2	1248x848	1728x1152	282	8142	ok 
+S24	copperware	3:2	1248x848	1728x1152	324	8153	ok 
+S25	silverware	4:5	912x1152	1264x1568	333	8164	ok 
+G01	noir characters grid	1:1	1024x1024	1408x1408	1345	8175	ok 
+G02	noir places grid	1:1	1024x1024	1408x1408	1253	8186	ok 
+G03	noir objects grid	1:1	1024x1024	1408x1408	538	8197	ok 
+G04	pirate characters grid	1:1	1024x1024	1408x1408	1379	8208	ok 
+G05	pirate places grid	1:1	1024x1024	1408x1408	1071	8219	ok 
+G06	pirate objects grid	1:1	1024x1024	1408x1408	551	8230	ok 
+G07	pirate ships grid	1:1	1024x1024	1408x1408	537	8241	ok 
+G08	spy characters grid	1:1	1024x1024	1408x1408	1345	8252	ok 
+G09	spy places grid	1:1	1024x1024	1408x1408	1341	8263	ok 
+G10	spy objects grid	1:1	1024x1024	1408x1408	583	8274	ok 
+G11	coins grid	1:1	1024x1024	1408x1408	1052	8285	ok 
+G12	banknotes and cheques grid	1:1	1024x1024	1408x1408	586	8296	ok 
+G13	metalware grid	1:1	1024x1024	1408x1408	1110	8307	ok 
+G14	e-reader models grid	1:1	1024x1024	1408x1408	1245	8318	ok four e-reader designs, check each differs
+G15	mobile phone models grid	1:1	1024x1024	1408x1408	1104	8329	ok four phone designs, check each differs

@@ -1,0 +1,8 @@
+__pt_veh_galleon_prompt__
+__pt_veh_sloop_prompt__
+__pt_veh_schooner_prompt__
+__pt_veh_frigate_prompt__
+__pt_veh_rowboat_prompt__
+__pt_veh_longboat_prompt__
+__pt_veh_ghost_galleon_prompt__
+__pt_veh_raft_prompt__

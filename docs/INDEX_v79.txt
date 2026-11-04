@@ -1,0 +1,7 @@
+Guyanonymous' Wildcards v79 - index of new files
+================================================
+FILM NOIR (nr_), PIRATES (pt_), SPY THRILLER (sy_). Same layout as v78: styles, characters, places, objects and vehicles, each with _prompt, _look, _short (places also _empty), pools nr_pose / _shot / _mood / _light / _vset / _rest (and sy_screen_text).
+  Mixes: nr_prompt, nr_style_prompt, nr_class_prompt, nr_loc_prompt, nr_loc_empty, nr_item_prompt, nr_veh_prompt, nr_pair_prompt, nr_group_prompt (same names with pt_ and sy_).
+MONEY (mo_) 8 kinds: coin, note (banknote), purse, box (money box), cheque, chip, ledger, till (counting equipment), bar (bullion). Each mo_<kind>_prompt / _look / _short / _group_prompt; mixes mo_prompt, mo_group_prompt, mo_short.
+METALWARE (mt_) 9 kinds: brass, copper, pewter, silver, iron, tin, lock, tool, bronze. Same pattern as mo_ (mt_finish pool).
+FIXES: maker_ereader_models and maker_phone_models (27 lines) now fully described. ereader_screen, phone_screen, phone_screen_old, phone_screen_future now quote each line of screen text. cy_screen_text added to v78 cyberpunk.

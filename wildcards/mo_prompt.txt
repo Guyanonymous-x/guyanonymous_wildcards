@@ -1,0 +1,9 @@
+__mo_coin_prompt__
+__mo_note_prompt__
+__mo_purse_prompt__
+__mo_box_prompt__
+__mo_cheque_prompt__
+__mo_chip_prompt__
+__mo_ledger_prompt__
+__mo_till_prompt__
+__mo_bar_prompt__

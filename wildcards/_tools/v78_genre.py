@@ -6,18 +6,19 @@ def A(l): return 'an' if l[0].lower() in 'aeio' or (l[0].lower() == 'u' and not 
 def rows(t): return [r.split('|') for r in t.strip().split('\n')]
 
 CY = dict(noun='cyberpunk', pre='cy',
-STYLES="""neon_noir|neon noir|wet streets, pink and cyan neon, deep black shadows and cigarette smoke|rain-slick reflections of neon signs|a flickering holographic ad overhead
+SCREEN="""the lines \"ACCESS GRANTED\" and \"WELCOME BACK\"; the lines \"SIGNAL LOST\" and \"RECONNECTING\"; the lines \"TRANSFER 4 OF 9 COMPLETE\" and \"DO NOT DISCONNECT\"; the line \"BUY NOW, PAY NEVER\"; the lines \"LOGIN\" and \"PASSWORD\"; the lines \"WARNING\" and \"UNKNOWN USER\"; the lines \"NEW MESSAGE\" and \"MEET AT MIDNIGHT\"; the line \"SYSTEM FAILURE 0042\"; the lines \"TRAIN DELAYED\" and \"PLEASE WAIT\"; the line \"STAY CONNECTED\"""",
+STYLES="""neon_noir|neon noir|wet streets, pink and cyan neon, deep black shadows and cigarette smoke|rain-slick reflections of neon signs|a flickering holographic ad overhead showing __cy_screen_text__
 corporate_dystopia|corporate dystopia|glass towers, clean white lobbies, drones and identical uniformed workers under a grey sky|cold white light with a hazy sky|a huge corporate logo glowing on a tower
 street_grit|street grit|cluttered alleys, hand-painted signs, tangled cables, steam vents and patched clothing|dirty orange sodium light|a pile of discarded machine parts
-retro_cyberpunk|retro cyberpunk|chunky screens, green text, big shoulder pads, grids and visible cables|purple and teal glow from old monitors|a heap of old cassette tapes
+retro_cyberpunk|retro cyberpunk|chunky screens showing __cy_screen_text__ in green text, big shoulder pads, grids and visible cables|purple and teal glow from old monitors|a heap of old cassette tapes
 rain_megacity|rain megacity|endless towers, flying traffic lanes, rain streaks and umbrellas below|blue-grey light with glowing windows|a crowd of umbrellas on a walkway
 biohack|biohacker|glass tanks, glowing implants, grafted limbs and clinical green light|green and white lab light|a tray of tiny implants
-hacker_den|hacker den|a cramped room of stacked screens, cables, energy drink cans and dim glow|blue-white screen light in a dark room|a coffee-stained keyboard
+hacker_den|hacker den|a cramped room of stacked screens showing __cy_screen_text__, cables, energy drink cans and dim glow|blue-white screen light in a dark room|a coffee-stained keyboard
 night_market|night market|dense hanging signs, steaming food stalls, bargain tech and crowds in the rain|warm lantern light with neon edges|a stall of glowing gadgets""",
 CLASS="""netrunner|netrunner|a long hooded coat with glowing seams, a visor and cables from the neck|a worn cyberdeck on the forearm
 street_samurai|street samurai|an armoured coat, a cyber arm with exposed pistons and a mirrored visor|a glowing blade at the hip
-fixer|fixer|a sharp long coat, tinted glasses and rings that glow|a tablet of contacts and a pocket of data chips
-exec|corporate executive|a pressed silver suit, a slim glowing earpiece and polished boots|a thin glass tablet
+fixer|fixer|a sharp long coat, tinted glasses and rings that glow|a tablet showing __cy_screen_text__ and a pocket of data chips
+exec|corporate executive|a pressed silver suit, a slim glowing earpiece and polished boots|a thin glass tablet showing __cy_screen_text__
 ripperdoc|ripperdoc|a stained surgical apron, magnifying goggles and a tool belt|a tray of chrome limbs and eyes
 courier|courier|a padded jacket, a rain mask and a bag strapped across the chest|a stack of sealed parcels
 gang_member|gang member|a studded jacket with painted shoulders, dyed spikes of hair and glowing tattoos|a chain and a baseball bat with lights
@@ -36,19 +37,19 @@ LOC="""noodle_stall|neon noodle stall|a narrow steaming stall under a buzzing ne
 neon_alley|neon alley|a narrow alley of stacked signs, dripping pipes and puddles that glow
 tower_lobby|megatower lobby|a vast white lobby with a hovering logo, drones and a polished floor
 rooftop|rooftop|a wet rooftop with antennas, a water tank and a view of endless lit towers
-data_den|data den|a cramped room of mismatched screens, cables on the floor and a hammock
+data_den|data den|a cramped room of mismatched screens showing __cy_screen_text__, cables on the floor and a hammock
 clinic|back-alley clinic|a glowing green room with a reclining chair, tools and jars of parts
-night_market|night market|crowded lanes under tangled cables, food smoke, hanging screens and signs
+night_market|night market|crowded lanes under tangled cables, food smoke, hanging screens showing __cy_screen_text__ and signs
 arcade|arcade|rows of glowing machines in the dark, carpet with stains and flickering lights
-subway|underground platform|a tiled platform with graffiti, a digital board and a humming train
+subway|underground platform|a tiled platform with graffiti, a digital board showing __cy_screen_text__ and a humming train
 hab_corridor|hab block corridor|a low corridor of stacked metal doors, cables, laundry and a flickering strip light
 hacker_lab|hacker lab|workbenches covered in open machines, a server rack and a soldering iron
 nightclub|nightclub|a packed floor of bodies, laser beams, a raised booth and haze
 harbour|container harbour|towering cranes, stacked containers with painted marks and wet concrete
 server_farm|server farm|endless rows of humming racks, blue lights and cold fog on the floor
-micro_flat|micro apartment|a tiny room with a fold-down bed, a wall screen and a rain-streaked window
+micro_flat|micro apartment|a tiny room with a fold-down bed, a wall screen showing __cy_screen_text__ and a rain-streaked window
 under_highway|street under the highway|concrete pillars, tents, burning barrels and a rumble overhead
-boardroom|corporate boardroom|a long glass table, a skyline wall and a hovering projection
+boardroom|corporate boardroom|a long glass table, a skyline wall and a hovering projection showing __cy_screen_text__
 scrapyard|scrapyard|mountains of broken machines, a crane and a glowing fire
 taxi_rank|hover taxi rank|a rooftop pad of parked flying cabs, puddles and a ticket booth
 garden|rooftop garden|rows of grow lights, hydroponic tubes and a view of the city
@@ -56,13 +57,13 @@ bar|dive bar|a dim bar with a chrome counter, a flickering sign and mismatched s
 vending_alley|vending alley|a wall of glowing vending machines and a puddle full of cans
 bridge|rain-soaked bridge|a long steel bridge between towers, lit with red warning lights
 cargo_dock|cargo dock|loading drones, conveyor belts and a hanging crane at night""",
-ITEM="""cyberdeck|cyberdeck|a chunky portable computer with a keyboard, a tiny screen, ports and stickers
+ITEM="""cyberdeck|cyberdeck|a chunky portable computer with a keyboard, a tiny screen showing __cy_screen_text__, ports and stickers
 implant|neural implant|a tiny silver chip with glowing gold traces on a velvet pad
 cyberarm|cybernetic arm|a chrome arm with exposed pistons, plated fingers and blue light under the plates
 hologram|hologram projector|a small disc projecting a rotating blue figure in the air
-smart_pistol|smart pistol|a boxy pistol with a glowing sight, a small screen and a worn grip
+smart_pistol|smart pistol|a boxy pistol with a glowing sight, a small screen showing __cy_screen_text__ and a worn grip
 datachip|data chip|a tiny black chip with gold contacts and a handwritten label
-visor|visor|a sleek curved visor with a glowing amber display
+visor|visor|a sleek curved visor with a glowing amber display showing __cy_screen_text__
 jacket|neon jacket|a black jacket with light-up piping and a large glowing back panel
 drone|drone|a small four-rotor drone with a camera eye and a blinking light
 sign|neon sign|a crooked neon sign with some letters burnt out
@@ -72,7 +73,7 @@ mask|rain mask|a sealed face mask with glowing filter rings
 boots|light-up boots|chunky boots with glowing soles and metal buckles
 eye|cyber eye|a loose mechanical eye with a glowing iris on a tray
 umbrella|neon umbrella|an umbrella with glowing ribs and a transparent canopy
-phone|handset|a thin flexible handset with a cracked, glowing screen
+phone|handset|a thin flexible handset with a cracked, glowing screen showing __cy_screen_text__
 deck_case|equipment case|a battered hard case with stickers and a glowing lock""",
 VEH="""hovercar|hover car|a low sleek car floating on glowing thrusters with tinted glass and neon underlights
 bike|motorcycle|a wide-tyred motorcycle with glowing rims, a low seat and a bright headlamp
@@ -259,10 +260,15 @@ GENRES = [CY, SP, WE]
 def one(g):
     pre = g['pre']; n = g['noun']; G = {}
     for k in ('POSE', 'SHOT', 'MOOD', 'LIGHT'): G['%s_%s' % (pre, k.lower())] = P(g[k])
+    G['%s_shot_place' % pre] = P(g.get('SHOT_PLACE', 'in a wide view; from a low angle; from a high angle; in a centred view; in a close view with the setting filling the frame; from far away'))
     sk = []; ck = []; lk = []; ik = []; vk = []
     for k, label, look, light, detail in rows(g['STYLES']):
         G['%s_style_%s_prompt' % (pre, k)] = ['A %s scene in the %s manner, with %s. The place is __%s_loc_look__. In it is __%s_class_look__, __%s_pose__. The scene has %s. Also in view is %s. It is shown __%s_shot__, __%s_mood__.' % (n, label, look, pre, pre, pre, light, detail, pre, pre)]
         G['%s_style_%s_scene' % (pre, k)] = ['A %s scene in the %s manner, with %s. The place is __%s_loc_look__. The scene has %s. Also in view is %s. It is shown __%s_shot__, __%s_mood__.' % (n, label, look, pre, light, detail, pre, pre)]
+        if k in g.get('SLOC', {}):
+            for suf in ('prompt', 'scene'):
+                nm = '%s_style_%s_%s' % (pre, k, suf); G[nm] = [G[nm][0].replace('__%s_loc_look__' % pre, '__%s_style_%s_place__' % (pre, k))]
+            G['%s_style_%s_place' % (pre, k)] = ['__%s_loc_%s_look__' % (pre, x) for x in g['SLOC'][k].split()]
         sk.append(k)
     for k, label, outfit, gear in rows(g['CLASS']):
         G['%s_class_%s_look' % (pre, k)] = ['%s %s in %s, with %s' % (A(label), label, outfit, gear)]
@@ -272,7 +278,7 @@ def one(g):
     for k, label, look in rows(g['LOC']):
         G['%s_loc_%s_look' % (pre, k)] = ['%s %s, %s' % (A(label), label, look)]
         G['%s_loc_%s_prompt' % (pre, k)] = ['A %s scene set in __%s_loc_%s_look__. In the foreground is __%s_class_look__, __%s_pose__. It is shown __%s_shot__, __%s_light__, __%s_mood__.' % (n, pre, k, pre, pre, pre, pre, pre)]
-        G['%s_loc_%s_empty' % (pre, k)] = ['A %s scene with no people in it, set in __%s_loc_%s_look__. It is shown __%s_shot__, __%s_light__, __%s_mood__.' % (n, pre, k, pre, pre, pre)]
+        G['%s_loc_%s_empty' % (pre, k)] = ['A %s scene with no people in it, set in __%s_loc_%s_look__. It is shown __%s_shot_place__, __%s_light__, __%s_mood__.' % (n, pre, k, pre, pre, pre)]
         G['%s_loc_%s_short' % (pre, k)] = ['__%s_loc_%s_look__.' % (pre, k)]
         lk.append(k)
     for k, label, look in rows(g['ITEM']):
@@ -282,9 +288,10 @@ def one(g):
         ik.append(k)
     for k, label, look in rows(g['VEH']):
         G['%s_veh_%s_look' % (pre, k)] = ['%s %s, %s' % (A(label), label, look)]
-        G['%s_veh_%s_prompt' % (pre, k)] = ['The subject is __%s_veh_%s_look__. Its surroundings are __%s_vset__. It is shown __%s_shot__, __%s_light__, __%s_mood__.' % (pre, k, pre, pre, pre, pre)]
+        G['%s_veh_%s_prompt' % (pre, k)] = ['The subject is __%s_veh_%s_look__. Its surroundings are __%s_vset__. It is shown __%s_shot_place__, __%s_light__, __%s_mood__.' % (pre, k, pre, pre, pre, pre)]
         G['%s_veh_%s_short' % (pre, k)] = ['__%s_veh_%s_look__.' % (pre, k)]
         vk.append(k)
+    if g.get('SCREEN'): G['%s_screen_text' % pre] = P(g['SCREEN'])
     G['%s_vset' % pre] = P(g['VSET'])
     G['%s_rest' % pre] = P("a worn wooden table; a dark workbench; a pale cloth; a crate; a metal tray; a stone ledge; a folded coat; a stack of papers")
     for p, ks in (('style', sk), ('class', ck), ('loc', lk), ('item', ik), ('veh', vk)):

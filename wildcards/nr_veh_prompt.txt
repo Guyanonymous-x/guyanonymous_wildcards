@@ -1,0 +1,8 @@
+__nr_veh_sedan_prompt__
+__nr_veh_taxi_prompt__
+__nr_veh_police_car_prompt__
+__nr_veh_convertible_prompt__
+__nr_veh_tram_prompt__
+__nr_veh_train_prompt__
+__nr_veh_delivery_prompt__
+__nr_veh_motorbike_prompt__

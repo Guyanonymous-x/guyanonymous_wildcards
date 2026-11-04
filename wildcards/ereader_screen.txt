@@ -1,8 +1,10 @@
-a page of a novel with a large chapter heading
-a page of dense small print
-a book cover thumbnail grid
-a page of a cookbook with a photograph
-the sleep screen showing a quiet drawing
-a library list with progress bars
-a page with a highlighted sentence and a small note
-the text of a newspaper article in two columns
+a page of a novel with the heading "Chapter One" and the lines "The rain had not stopped since morning." and "She left the key on the table."
+a page of dense small print with the lines "It was a quiet town, and the people kept to themselves." and "Nobody asked where the river went."
+a grid of book cover thumbnails with the titles "The Long Way Home", "A Quiet Season" and "Salt and Smoke" under them
+a page of a cookbook with the heading "Lentil Soup" and the lines "Two cups of lentils." and "One onion, chopped fine."
+the sleep screen showing a quiet line drawing with the words "Sleeping" and "Tap to wake" at the bottom
+a library list with the lines "The Long Way Home - 80%" and "A Quiet Season - 12%" beside progress bars
+a page with the highlighted sentence "The sea does not keep its promises." and a small note reading "Check this quote"
+the text of a newspaper article in two columns, with the headline "Harbour Opens Early" and the first line "Boats were out before dawn."
+a contents page with the lines "Prologue", "Part One", "Part Two" and "Notes" and page numbers beside them
+a settings page with the lines "Brightness", "Warmth" and "Font size" beside small slider bars

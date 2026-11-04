@@ -1,0 +1,8 @@
+__nr_veh_sedan_short__
+__nr_veh_taxi_short__
+__nr_veh_police_car_short__
+__nr_veh_convertible_short__
+__nr_veh_tram_short__
+__nr_veh_train_short__
+__nr_veh_delivery_short__
+__nr_veh_motorbike_short__
