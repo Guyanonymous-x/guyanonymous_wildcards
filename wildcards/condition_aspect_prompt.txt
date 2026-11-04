@@ -1,0 +1,9 @@
+Details, __condition_stain__.
+Details, __condition_mark__.
+Details, __condition_wear__.
+Details, __condition_dirt__.
+Details, __condition_age__.
+Details, __condition_damage__.
+Details, __condition_repair__.
+Details, __condition_finish__.
+Details, __condition_finish_poor__.

@@ -1,0 +1,11 @@
+__cond_sign_damage_light__
+__cond_sign_missing_light__
+__cond_sign_wear_light__
+__cond_sign_dirt_light__
+__cond_sign_graffiti_light__
+__cond_sign_faded_light__
+__cond_sign_burnt_light__
+__cond_sign_decay_light__
+__cond_sign_repair_light__
+__cond_sign_fine_light__
+__cond_sign_cheap_light__

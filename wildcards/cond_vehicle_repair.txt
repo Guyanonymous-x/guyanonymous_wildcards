@@ -1,0 +1,3 @@
+__cond_vehicle_repair_light__
+__cond_vehicle_repair_moderate__
+__cond_vehicle_repair_heavy__

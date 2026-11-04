@@ -1,0 +1,11 @@
+__cond_book_damage_light__
+__cond_book_missing_light__
+__cond_book_wear_light__
+__cond_book_dirt_light__
+__cond_book_graffiti_light__
+__cond_book_faded_light__
+__cond_book_burnt_light__
+__cond_book_decay_light__
+__cond_book_repair_light__
+__cond_book_fine_light__
+__cond_book_cheap_light__

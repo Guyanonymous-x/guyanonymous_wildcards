@@ -1,0 +1,8 @@
+Costume, __costume_char_cosplay__.
+A fursuit, __costume_char_fursuit__, with __costume_char_fursuit_detail__.
+Live-action roleplay kit, __costume_char_larp__.
+Faire costume, __costume_char_faire__.
+Historical reenactment kit, __costume_char_reenact__.
+Sci-fi costume, __costume_char_scifi__.
+Fantasy costume, __costume_char_fantasy__.
+Stage or drag costume, __costume_char_drag__.
