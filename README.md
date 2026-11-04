@@ -2,13 +2,13 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v75**
+**Current version: v76**
 
-**Contents:** [Introduction](#introduction) · [What's New in v75](#whats-new-in-v75) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v76](#whats-new-in-v76) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 30,500 wildcard text files (30,525 `.txt` files in [`wildcards/`](wildcards/) at v75, plus 830 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 31,400 wildcard text files (31,366 `.txt` files in [`wildcards/`](wildcards/) at v76, plus 830 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
@@ -16,22 +16,20 @@ People files describe adults aged 18 to 120. Some families are adult-themed: cli
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
 
-## What's New in v75
+## What's New in v76
 
-v75 adds legendary creatures, sacred figures, the first converted locations and a first set of object builders ([docs/README_v75.txt](docs/README_v75.txt), [docs/INDEX_v75.txt](docs/INDEX_v75.txt)). Since v74 it adds:
+v76 adds science fiction, e-reader and phone timelines and eight collections ([docs/README_v76.txt](docs/README_v76.txt), [docs/INDEX_v76.txt](docs/INDEX_v76.txt), research notes in [docs/RESEARCH_v76.txt](docs/RESEARCH_v76.txt)). Since v75 it adds:
 
-- **Legendary creatures (`leg_`):** 121 creatures from folklore on every continent, described by looks only. Each has `leg_<key>_look`, `_habitat`, `_prompt`, `_scene` (adds time and weather), `_encounter` (a small witness in the foreground), `_art` (as a painting, relief, tapestry and so on) and `_short`. Mix files: `leg_prompt`, `leg_scene`, `leg_encounter`, `leg_art`, `leg_short`, `leg_pair_prompt` (two beings facing each other). Regional mixes: `leg_europe_*`, `leg_mediterranean_*`, `leg_middle_east_*`, `leg_south_asia_*`, `leg_east_asia_*`, `leg_southeast_asia_*`, `leg_africa_*`, `leg_americas_*`.
-- **Sacred and divine archetypes (`leg_sacred_`):** 18 figures (sun-lord, sea-mother, storm-father, trickster, underworld queen and others). No named deities.
-- **Locations (`loc_`):** a pilot conversion of the Location Inventory. 325 places: home interiors (80) and exteriors (50), workplaces (85), circulation spaces (20), bathrooms (20), food and hospitality (50), unusual places (20). Each has item, furniture, installed feature, signature detail, material, palette, light, human trace and condition pools, a clean scene (`loc_<id>_clean`), a full scene (`_scene`) and a scene that adds items from the shared anywhere pools (`_scene_plus`). Entry points: `loc_scene`, `loc_scene_plus`, `loc_clean`, `loc_<category>_scene` with category `home`, `ext`, `work`, `circ`, `bath`, `food` or `odd`. Tag indexes `loc_tag_<tag>_<value>` list scenes by era, light, scale and more. Anywhere pools: `loc_anywhere_items`, `_furniture`, `_installed`, `_traces`, `_light`.
-- **Object builders (`ob_`):** 66 everyday objects from the locations that had no builder (ticket, locker, napkin, radiator, fridge, jar, trolley, microphone, projector and more). Each has `_type`, `_material`, `_wear`, `_detail`, `_era`, `_short`, `_phrase`, `_full`. Mix files: `ob_any_short`, `ob_any_phrase`, `ob_any_full`.
-- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v75_showcase.py`.
-- All Options Once includes the new families.
+- **Science fiction (`sf_`):** 15 visual styles (`sf_style_<key>_prompt`: space opera, retro-futurism, biopunk, solarpunk, space western and more), 52 alien species (`sf_alien_<key>_prompt`; sentient species wear and carry things, animals and swarms have a habitat), 48 locations (`sf_loc_<key>_prompt`), 32 vehicles (`sf_veh_<key>_prompt`), 16 robots and 10 spacesuits. Entry points: `sf_prompt`, `sf_style_prompt`, `sf_alien_prompt`, `sf_alien_pair_prompt`, `sf_loc_prompt`, `sf_veh_prompt`, `sf_robot_prompt`, `sf_suit_prompt`.
+- **E-reader and phone timelines:** `ereader_<key>_prompt` (18 generations, late 1990s to a 2026 foldable e-ink book) and `phone_<key>_prompt` (31 generations, the 1983 brick to rollable and future phones), plus `ereader_timeline` and `phone_timeline`. Real device names appear only in `maker_ereader_*` and `maker_phone_*`.
+- **Collections (`col_`):** watches, clocks, scientific instruments, cameras, typewriters, radios and early electronics, telephones and musical instruments. Entry points: `col_prompt`, `col_prompt_fill`, `col_group_prompt`, `col_short`, `col_<name>_prompt`. Makers' names on dials and plates are invented and in quotation marks. Type and era are independent, so an anachronism can occur.
+- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v76_showcase.py`.
 
-The full list of v75 entry points is in `wildcards/v75_entry_points.txt`.
+The full list of v76 entry points is in `wildcards/v76_entry_points.txt`.
 
 ## Features
 
-- **Large drop-in library.** One flat folder of 30,525 `.txt` files using the common `__name__` wildcard syntax. You need no Python to use it.
+- **Large drop-in library.** One flat folder of 31,366 `.txt` files using the common `__name__` wildcard syntax. You need no Python to use it.
 - **Women and men in one folder.** `f_` files are female, `m_` files are male and unprefixed files are shared. `any_` files are gender-neutral (they/their). At v74 there are 1,466 `f_`, 1,457 `m_` and 1,246 `any_` files.
 - **Character creation system (v42).** `f_create_random_woman`, `m_create_random_man`, `any_create_random_person` and fixed identities (trans, intersex, non-binary, androgynous, in transition). It has three age modes (realistic, mismatched, unlinked), clothing states (none, `_w_clothes`, `_nude`, `_topless`, `_bottomless`), `_short` versions and an optional `_traits` suffix.
 - **Conditioned layers.** In the master prompts the age bracket is chosen first. Body type, hair type, clothing, accessories, mobility aids, settings and poses then follow from it:
@@ -333,11 +331,14 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
 
+### v76
+Science fiction (`sf_`), e-reader and phone timelines, and eight timekeeping and instrument collections (`col_`). Showcase prompts and sample prompts in `docs/showcase/`. See [What's New in v76](#whats-new-in-v76).
+
 ### v75
-Legendary creatures (`leg_`), sacred figure archetypes, the pilot conversion of 325 Location Inventory records (`loc_`) with tag indexes and anywhere pools, and 66 object builders (`ob_`). Showcase prompts and sample prompts for the release are in `docs/showcase/`. See [What's New in v75](#whats-new-in-v75).
+Legendary creatures (`leg_`), sacred figure archetypes, the pilot conversion of 325 Location Inventory records (`loc_`) with tag indexes and anywhere pools, and 66 object builders (`ob_`). Showcase prompts and sample prompts for the release are in `docs/showcase/`. See [What's New in v76](#whats-new-in-v76).
 
 ### v74
-"Foundation release": reading matter, signage and lettering engine, ads and labelled containers, vehicle interiors (`vint2_`), architecture upgrade (`bld_`), creature body-plan and hybrid builders, powers, paper and print collections, and `_fill` placeholder files. Also the showcase prompts and the first git-tracked version. See [What's New in v75](#whats-new-in-v75).
+"Foundation release": reading matter, signage and lettering engine, ads and labelled containers, vehicle interiors (`vint2_`), architecture upgrade (`bld_`), creature body-plan and hybrid builders, powers, paper and print collections, and `_fill` placeholder files. Also the showcase prompts and the first git-tracked version. See [What's New in v76](#whats-new-in-v76).
 
 ### v73 (2026-11-03)
 - **Expression intensity tiers:** 68 emotions × mild, strong and extreme, each described physically. `facialExpressionsFor_v10` and `pose_emotion` were rebuilt, and `expr_mild` / `expr_strong` / `expr_extreme` were added.
