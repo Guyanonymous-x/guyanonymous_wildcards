@@ -1,0 +1,8 @@
+rendering with light scattering inside the surface
+backlighting thin parts so they glow
+blurring the lighting across the surface
+rendering with a soft rim light
+lighting from behind and above
+rendering with a very soft shadow edge
+adding a faint inner glow
+shading with smooth gradients

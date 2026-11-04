@@ -443,3 +443,11 @@ ROADMAP REORDER (user): v81 = robots, v82 = non-illustrative / non-photographic 
 USER ADDITION: v81 also includes gadgets and tech devices (phones, wearables, ebook readers, tablets, portable computers, computers) researched and structured like robots (full parts-based descriptions, no brand names in wildcards, names only in maker_ files). Research notes: docs/gadgets_handheld.txt, gadgets_computers.txt, robots_real.txt, robots_fiction.txt.
 
 V80 RELEASED: 7 collection families (treasure, cards, minerals, sound, screens, art, nature); library 35,201; main + release/v80 pushed (28226efc).
+
+V81 RELEASED: robots (rb_, 25 types), gadgets (gd_, 42 types), maker reference files; library 36,001; main + release/v81 pushed. NEXT: v82 non-illustrative art styles, v83 adult update.
+
+USER: forget the question about renaming the six '50' prompt files - leave them as they are.
+
+USER ADDITION (planned v84, after v83 adult): BRAND STYLE WILDCARDS. Research globally the companies/brands with the most consistent and distinctive product styling (made by X -> people say "that looks like X made it"; X is a placeholder for any company, any industry: cars, electronics, furniture, fashion, toys, appliances, packaging, etc.). For each: distil the character/unique traits/qualities of the brand's styling in UNDER 250 words, and create a style wildcard line of the form "In the style of <Company>, " + the distilled detailed style description that explains and applies the style. Real company names are wanted here by the user; keep them in maker_ prefixed files (e.g. maker_brand_style_<industry>) per the standing real-name rule. Describe looks only (shapes, proportions, materials, finishes, colours, details, typography, signature features) so the model can apply them; research with fetched sources, notes with URLs in docs/RESEARCH_v84.txt; fully described, text in quotes, adults only.
+USER NOTE: vehicle brand styling already exists (maker_car_style -> maker_<make>_style, 43 makes) but is too thin; v84 must IMPROVE it to the same standard (under-250-word distilled style, "In the style of <Company>, ..."), and extend the approach to all other industries.
+ROADMAP REORDER (user, 15:09): brand style wildcards go BEFORE the adult version. Order: v82 = art forms (in progress), v83 = brand styles (incl. improving vehicles), v84 = combined adult update.

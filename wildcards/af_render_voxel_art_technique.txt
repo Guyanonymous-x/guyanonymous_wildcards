@@ -1,0 +1,8 @@
+placing cubes one at a time
+building up layers slice by slice
+stacking blocks on a regular grid
+rendering with soft shadow between blocks
+colouring each cube separately
+lighting with a gentle top-down sun
+rendering with a slight ambient glow
+arranging blocks in an angled view

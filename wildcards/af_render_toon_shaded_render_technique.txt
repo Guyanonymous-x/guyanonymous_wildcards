@@ -1,0 +1,8 @@
+reducing lighting to a few flat tones
+drawing a black outline around the silhouette
+rendering with hard shadow steps
+adding a faint paper-like texture
+placing a bright rim light on one side
+using edge lines for interior details
+keeping highlights as flat white shapes
+shading in clean bands

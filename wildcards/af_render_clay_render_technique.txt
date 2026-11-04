@@ -1,0 +1,8 @@
+rendering with soft global illumination
+rendering with gentle ambient occlusion in the creases
+lighting with one large soft source
+rendering with a single overcast-style dome light
+shading with smooth contact shadows
+sculpting a digital model and rendering it without textures
+rendering with a shallow depth of field
+baking soft shadow into every corner

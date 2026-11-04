@@ -1,0 +1,8 @@
+drawing only the edges of a model
+showing every polygon outline
+rendering with hidden lines visible
+plotting vertices joined by straight lines
+displaying a mesh without surfaces
+overlaying lines on a solid shape
+projecting a grid over a form
+rendering a skeleton of the geometry

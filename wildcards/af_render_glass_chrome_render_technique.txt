@@ -1,0 +1,8 @@
+tracing rays for true reflections
+bending light through thick glass
+rendering bright caustic patterns
+lighting with large softbox reflections
+rendering with a gradient environment
+adding fringed colour at the edges
+reflecting a checker floor in the shapes
+using a smooth studio gradient

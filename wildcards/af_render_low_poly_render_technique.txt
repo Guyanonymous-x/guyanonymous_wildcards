@@ -1,0 +1,8 @@
+rendering with flat shading
+building shapes from a few connected points
+lighting with one simple directional light
+colouring each facet by its angle
+rendering with a smooth sky gradient behind
+reducing a form to a minimal mesh
+shading faces without smoothing
+rendering with soft ambient light

@@ -1,0 +1,8 @@
+viewing from a fixed corner angle
+rendering with parallel projection
+lighting with soft baked shadows
+placing props on a tile grid
+rendering with warm lamp glow
+cutting away two walls to show the inside
+using a high three-quarter camera
+rendering with gentle ambient occlusion

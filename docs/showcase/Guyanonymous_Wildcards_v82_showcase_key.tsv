@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+S01	marble statue	4:5	912x1152	1264x1568	518	8200	ok check statue shape
+S02	bronze figure	4:5	912x1152	1264x1568	455	8211	ok 
+S03	chainsaw carving	4:5	912x1152	1264x1568	442	8222	ok 
+S04	ice carving	4:5	912x1152	1264x1568	454	8233	ok 
+S05	wire sculpture	3:2	1248x848	1728x1152	394	8244	ok 
+S06	stoneware pottery	1:1	1024x1024	1408x1408	484	8255	ok 
+S07	kintsugi bowl	1:1	1024x1024	1408x1408	477	8266	ok 
+S08	blown glass vessel	4:5	912x1152	1264x1568	445	8277	ok 
+S09	glass mosaic	3:2	1248x848	1728x1152	460	8288	ok 
+S10	marquetry panel	3:2	1248x848	1728x1152	420	8299	ok 
+S11	lacquerware	3:2	1248x848	1728x1152	476	8310	ok 
+S12	woven tapestry	3:2	1248x848	1728x1152	498	8321	ok check tapestry
+S13	patchwork quilt	3:2	1248x848	1728x1152	503	8332	ok 
+S14	felted wool art	1:1	1024x1024	1408x1408	464	8343	ok 
+S15	crochet toy	4:5	912x1152	1264x1568	491	8354	ok 
+S16	origami	1:1	1024x1024	1408x1408	441	8365	ok 
+S17	paper cutting	4:5	912x1152	1264x1568	464	8376	ok 
+S18	diorama	3:2	1248x848	1728x1152	466	8387	ok 
+S19	ship in a bottle	3:2	1248x848	1728x1152	492	8398	ok 
+S20	clay render	1:1	1024x1024	1408x1408	444	8409	ok 
+S21	low-poly render	3:2	1248x848	1728x1152	394	8420	ok 
+S22	claymation scene	3:2	1248x848	1728x1152	439	8431	ok 
+S23	neon sign	4:5	912x1152	1264x1568	396	8442	ok check neon text
+S24	mirrored room	3:2	1248x848	1728x1152	440	8453	ok 
+S25	sand mandala	1:1	1024x1024	1408x1408	412	8464	ok 
+G01	marble and granite grid	1:1	1024x1024	1408x1408	741	8475	ok 
+G02	bronze and steel grid	1:1	1024x1024	1408x1408	697	8486	ok 
+G03	wood carvings grid	1:1	1024x1024	1408x1408	661	8497	ok 
+G04	pottery grid	1:1	1024x1024	1408x1408	1558	8508	ok 
+G05	glass grid	1:1	1024x1024	1408x1408	737	8519	ok 
+G06	tile and mosaic grid	1:1	1024x1024	1408x1408	766	8530	ok 
+G07	embroidery grid	1:1	1024x1024	1408x1408	753	8541	ok 
+G08	quilts and tapestries grid	1:1	1024x1024	1408x1408	769	8552	ok 
+G09	paper art grid	1:1	1024x1024	1408x1408	1504	8563	ok 
+G10	puppets grid	1:1	1024x1024	1408x1408	682	8574	ok 
+G11	toy renders grid	1:1	1024x1024	1408x1408	769	8585	ok 
+G12	3D render looks grid	1:1	1024x1024	1408x1408	701	8596	ok 
+G13	light installations grid	1:1	1024x1024	1408x1408	708	8607	ok 
+G14	food and flower art grid	1:1	1024x1024	1408x1408	704	8618	ok 
+G15	mixed art forms grid	1:1	1024x1024	1408x1408	1336	8629	ok 

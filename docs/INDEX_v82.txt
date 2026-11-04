@@ -1,0 +1,9 @@
+Guyanonymous' Wildcards v82 - index of new files
+================================================
+ART FORMS (af_): four families of art that is neither illustration nor photography. Per form: af_<family>_<form>_subject, _material, _technique, _finish, _colour, _scale, _wear, _display (where a form has its own), _look, _prompt, _short, _group_prompt.
+Family mixes: af_sculpt_prompt, af_craft_prompt, af_fibre_prompt, af_render_prompt (each also _group_prompt and _short). All-family mixes: af_prompt, af_group_prompt, af_short, af_forms.
+Shared per family: af_<family>_display, af_<family>_light, af_<family>_shot; af_render_marks; af_marks (plaque and label text in quotes).
+SCULPT: marble, bronze, granite, soapstone, alabaster, wood, chainsaw, totem, terracotta, plaster, steel, wire, assemblage, mobile, ice, sand, relief, topiary, cairn.
+CRAFT: stoneware, porcelain, raku, celadon, majolica, delft, kintsugi, slipware, terracotta, blackfigure, glassvessel, stainedglass, millefiori, glassmosaic, cloisonne, lacquer, marquetry, pyrography, scrimshaw, leather, azulejo, stucco, terrazzo, lampwork, fusedglass.
+FIBRE: tapestry, quilt, crewel, cross_stitch, goldwork, sashiko, felted, amigurumi, macrame, lace, batik, quilling, origami, papercut, papier_mache, lantern, diorama, dollhouse_room, model_railway, shadow_puppet, marionette, ship_in_bottle.
+RENDER: clay_render, photoreal_product_render, low_poly_render, voxel_art, isometric_diorama, wireframe_render, toon_shaded_render, soft_translucent_render, glass_chrome_render, claymation_scene, felt_puppet_scene, brick_build, vinyl_toy, resin_figurine, action_figure, neon_sign, led_installation, projection_mapping, infinity_mirror_room, sand_mandala, chalk_pavement_art, ice_sculpture, sugar_sculpture, fireworks_display, floral_arrangement, balloon_sculpture, holographic_display, fruit_carving, kinetic_sculpture, land_art.

@@ -1,0 +1,8 @@
+rendering with physically based materials
+tracing light paths for sharp reflections
+lighting with large studio softboxes
+rendering with an environment of bright reflections
+polishing every edge with a thin highlight
+rendering with a gradient studio backdrop
+compositing a soft floor reflection
+rendering with crisp depth of field
