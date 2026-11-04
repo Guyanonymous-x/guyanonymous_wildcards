@@ -2,19 +2,31 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v76**
+**Current version: v77**
 
-**Contents:** [Introduction](#introduction) · [What's New in v76](#whats-new-in-v76) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v77](#whats-new-in-v77) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 31,400 wildcard text files (31,366 `.txt` files in [`wildcards/`](wildcards/) at v76, plus 830 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 31,400 wildcard text files (0 `.txt` files in [`wildcards/`](wildcards/) at v77, plus 830 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v77
+
+v77 adds fantasy, horror, people interacting, toys and die-cast models ([docs/INDEX_v77.txt](docs/INDEX_v77.txt), research notes in [docs/RESEARCH_v77.txt](docs/RESEARCH_v77.txt)). Since v76 it adds:
+
+- **Fantasy (`fa_`):** 12 styles, 24 folk, 20 character types, 30 places, 20 objects, plus `fa_party_prompt` and `fa_duel_prompt`. Entry point: `fa_prompt`.
+- **Horror (`ho_`):** 11 styles, 24 entities, 16 survivor types, 30 places, 20 objects. Atmosphere only, no gore. Entry points: `ho_prompt`, `ho_ent_alone`.
+- **People interacting (`pi_`):** 46 adult pair actions (`pi_<action>_prompt`) and 14 group scenes of 4 to 6 people (`pi_group_<key>_prompt`), positions left to right. These need the person generator files, so they are not in All Options Once.
+- **Toys and models (`toy_`, `dc_`):** figures, dolls, plush, playsets, games, toy packaging by era and condition, and die-cast models. Entry points: `toy_prompt`, `toy_pack_prompt`, `dc_prompt`, `dc_boxed`. Packaging era and contents are independent.
+- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v77_showcase.py`.
+
+The full list of v77 entry points is in `wildcards/v77_entry_points.txt`.
 
 ## What's New in v76
 
@@ -29,7 +41,7 @@ The full list of v76 entry points is in `wildcards/v76_entry_points.txt`.
 
 ## Features
 
-- **Large drop-in library.** One flat folder of 31,366 `.txt` files using the common `__name__` wildcard syntax. You need no Python to use it.
+- **Large drop-in library.** One flat folder of 0 `.txt` files using the common `__name__` wildcard syntax. You need no Python to use it.
 - **Women and men in one folder.** `f_` files are female, `m_` files are male and unprefixed files are shared. `any_` files are gender-neutral (they/their). At v74 there are 1,466 `f_`, 1,457 `m_` and 1,246 `any_` files.
 - **Character creation system (v42).** `f_create_random_woman`, `m_create_random_man`, `any_create_random_person` and fixed identities (trans, intersex, non-binary, androgynous, in transition). It has three age modes (realistic, mismatched, unlinked), clothing states (none, `_w_clothes`, `_nude`, `_topless`, `_bottomless`), `_short` versions and an optional `_traits` suffix.
 - **Conditioned layers.** In the master prompts the age bracket is chosen first. Body type, hair type, clothing, accessories, mobility aids, settings and poses then follow from it:
@@ -330,6 +342,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v77
+Fantasy (`fa_`), horror (`ho_`), people interacting (`pi_`), toys (`toy_`) and die-cast models (`dc_`). See [What's New in v77](#whats-new-in-v77).
 
 ### v76
 Science fiction (`sf_`), e-reader and phone timelines, and eight timekeeping and instrument collections (`col_`). Showcase prompts and sample prompts in `docs/showcase/`. See [What's New in v76](#whats-new-in-v76).
