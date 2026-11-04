@@ -1,0 +1,3 @@
+Her hair has __hair_line__ with __hair_baby__, and she wears it as __hair_style__ with __hair_curl__. The strands are __hair_texture__, with __hair_volume__ and __hair_shine__.{ Her hair is moving: __hair_motion__.|||}
+She wears __hair_style__ with __hair_curl__, and the hair itself shows __hair_texture__, __hair_volume__ and __hair_shine__. At the forehead there is __hair_line__ with __hair_baby__.
+Her hairstyle is __hair_style__. The curl pattern is __hair_curl__, the texture is __hair_texture__, and the hair has __hair_volume__ with __hair_shine__; the hairline shows __hair_line__.{ Her hair is moving: __hair_motion__.||||}

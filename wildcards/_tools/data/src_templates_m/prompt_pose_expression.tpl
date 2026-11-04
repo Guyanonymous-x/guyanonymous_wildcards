@@ -1,0 +1,4 @@
+He is posed in __pose_action__, with __pose_weight__ and __pose_twist__. His hands show __pose_hands__, his gaze is __pose_gaze__, and his expression is __facialExpressionsFor_v10__.
+His posture: __pose_action__, with __pose_weight__. His hands show __pose_hands__ and his gaze is __pose_gaze__, with __pose_emotion__.
+His pose, in a few words: __poses_extended__. His expression is __facialExpressionsFor_v10__ and his gaze is __pose_gaze__.
+His pose, in a few words: __poses__. His expression is __facialExpressionsFor_v10__, with __pose_hands__.

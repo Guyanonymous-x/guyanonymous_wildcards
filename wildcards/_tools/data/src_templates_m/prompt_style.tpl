@@ -1,0 +1,6 @@
+A candid, photorealistic photograph with __styl_color__ and __styl_detail__. Photographic approach: __style_photographers_portrait__.
+A documentary-style photograph with __styl_color__. Surface quality: __styl_detail__.
+A natural, unposed photograph with __styl_color__ and __styl_detail__.
+A medium-format portrait photograph with __styl_color__ and __styl_detail__. Photographic approach: __style_photographers_portrait__.
+A realistic photograph with __styl_color__.
+Rendered as __styl_medium__ with __styl_color__ and __styl_detail__.

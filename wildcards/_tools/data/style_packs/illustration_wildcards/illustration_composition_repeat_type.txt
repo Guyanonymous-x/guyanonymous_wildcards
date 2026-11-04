@@ -1,0 +1,6 @@
+a simple block repeat pattern
+a half-drop repeat pattern offset by half a tile
+a brick-offset repeat pattern
+a mirror repeat
+a tossed scatter repeat
+a border stripe repeat

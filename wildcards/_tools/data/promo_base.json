@@ -1,0 +1,142 @@
+{
+ "head": [
+  "Every kind of adult, from every corner of the world, dressed in anything from a 5,000-year-old tunic to a plush hot-dog costume.",
+  "Guyanonymous' Wildcards gives your text-to-image prompts the whole world to draw from: more than 12,300 drop-in .txt files and 3.6 million lines covering adult characters of every age, body, ancestry and gender identity, plus garments and costumes from the Palaeolithic to today, accessories, footwear, makeup, tattoos, weapons, armour, surfboards and the places they stand in.",
+  "Most wildcard packs repeat the same faces, clothes and colours. Guyanonymous' Wildcards is built to do the opposite. It is a folder of plain .txt files that you drop into any wildcard-aware image tool and call with a name wrapped in double underscores. Build adult characters aged 18 to 120 with weighted bodies, hair, skin and clothing, or let one prompt pick a person in proportion to the world's adult population, by region or by country. Dress them from garment families that run from ballet to biker, flapper to festival, swimwear to formal wear, corsets to onesies; uniforms and costumes; 37 eras of dress; more than 35 accessory families; a full footwear system; and costumes for fursuiters, cosplayers, LARP and drag. Control sunburn and tan against each person's natural skin tone, dress them for any season or weather, add makeup, nails, piercings and body art, and set the scene in buildings, rooms and landscapes from every region. Everything is for making adult characters only, original wording, and written to embrace global diversity."
+ ],
+ "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
+ "features": [
+  "Whole-world characters. Adults aged 18 to 120 in nine age brackets, with weighted body types, hair, eyes, skin and clothing. One prompt can pick a person by real world population shares, by region or by country. Ethnicity lines now always state a skin colour that fits the group.",
+  "Women's and men's sets. Matching female (f_) and male (m_) files, plus shared files, and demographic layers for cisgender, trans, non-binary, androgynous, intersex and individualized-transition identities, described by who people are.",
+  "Garments. Families by type, era and subculture (about 560 files) with optional _detail versions that describe front, back, coverage and cut so the name is not doing all the work. Includes swimwear, lingerie, sleepwear, corsets, onesies, modest and revealing lines, and rave, festival and counterculture clothing.",
+  "Uniforms and costumes. Hundreds of uniforms, ceremonial dress and cosplay archetypes, Halloween masks and costumes, and character costume for fursuit, cosplay, LARP, faire, reenactment, sci-fi, fantasy and drag.",
+  "Accessories and footwear. More than 50 accessory families in six grades from basic to showpiece, about 430 shoe types, and assistive and adaptive items. Footwear now has quality files that run from cheap to absurdly expensive, with no prices. A wardrobe_ index sorts items into worn dress, adornment and carried items.",
+  "Body and skin. Makeup, nails, piercings, body art, tattoos and skin features, a clinical wound and injury overlay (body_wound_*, by severity and by category: puncture, fracture, burn, contagion, bite and sting, and more) with matching casts, splints and bandages (acc_medwrap_*), plus skin_tan_* files that apply a tan (faint to deepest) or sunburn (pink to blistered to peeling) in a way that is realistic for the person's natural skin tone.",
+  "Condition. condition_* files describe any item's state, from pristine and brand new to old, worn, stained, marked and ruined, so they can be applied to anything in the library.",
+  "Weather and seasons. 20 weather conditions with matching outfits, from heatwave to blizzard.",
+  "Period dress. 37 eras from the Palaeolithic to the 2010s, mixing every region of the world.",
+  "Objects, places and poses. Weapons of the world, armour, surfboards, 13 object families, buildings, rooms, landscapes, and solo and shared poses.",
+  "Art, logos and style packs. Hundreds of original styles for images on objects, fictional logos and tattoos, plus illustration and photographic style packs.",
+  "Two editions. The full weighted set, and an All Options Once edition with every option listed a single time.",
+  "A library map. docs/Library_Map.html shows how the file names fit together and what each group adds.",
+  "Adults only, original wording. No brands, no real people, no prices, and no minors in any prompt."
+ ],
+ "naming": [
+  "Version 36 unified the file names. A name now reads family, group, variant:",
+  "f_ / m_: female and male person files. Files with no prefix are shared.",
+  "age##_##_: one layer per age bracket. bt_: body-type layers.",
+  "clothing_garment_, clothing_uniform_, clothing_onesie_, clothing_period_: all clothing, under one prefix.",
+  "acc_<family>_: accessories, with footwear as acc_shoe_. Tiers are basic, standard, fine, luxury, showpiece and practical.",
+  "costume_: Halloween and character costume. obj_: objects, weapons, armour and surfboards.",
+  "body_, skin_tan_, tattoo_: makeup, nails, piercings, tan and body art.",
+  "scene_, pose_, wx_: places, poses and weather outfits. world_ and countries_: people by region and country.",
+  "aoo_ in front of any name: the All Options Once edition.",
+  "If you used earlier versions, filename_changes.txt lists every old name and its new name. Some entry points changed: __garment_prompt__ is now __clothing_garment_prompt__, and __period_prompt__ is now __clothing_period_prompt__."
+ ],
+ "start": [
+  "Unzip and copy. Unzip Guyanonymous_Wildcards_v38.zip and copy the wildcards folder into your image tool's wildcard folder. Python is not needed to use it.",
+  "Call a file. Put the file name between double underscores in a prompt, for example __f_prompt_master_by_age__ for a woman or __m_prompt_master_by_age__ for a man.",
+  "Try a layer. Use __world_person__ for a random person in world proportions, __acc_prompt__ for an accessory, __clothing_garment_prompt__ for a garment, __clothing_period_prompt__ for period dress, __wx_outfit_prompt__ for a weather outfit, or __skin_tan_level__ for a tan or sunburn.",
+  "Mix and match. Combine them in one prompt, for example a person, then a garment, then an accessory. A blank line in any file means \"none\". __v38_entry_points__ lists a starting file for each new section.",
+  "Optional: run python3 tools/expand.py f_prompt_master_by_age to preview sample prompts, and python3 tools/build_all.py to rebuild everything (about 10 to 15 minutes). The All Options Once edition uses the same names with an aoo_ prefix."
+ ],
+ "warning": [
+  "Many prompt files in this package are templates. Their lines contain references to other wildcard files, and those files can contain further references. A prompt can therefore be several layers deep, for example __world_person__ calls a region file, which calls a country file, which calls the age, body and clothing files.",
+  "This can cause problems. If your image tool does not resolve nested wildcards fully, or stops at a fixed depth, some references may be left in the final prompt as raw text such as __f_age25_34_prompt_char_face__ instead of being replaced. Check a few generated prompts before a big batch, and make sure your tool's wildcard depth or recursion setting is on.",
+  "To manage complex, layered prompts, the creator of this package uses Offline Wildcard Prompt Studio, which works with any prompting system. It is a handy way to build and check nested prompts before you run them. The package also includes python3 tools/expand.py to preview prompts and python3 tools/expand.py --check to confirm every reference points to a real file."
+ ],
+ "old": [
+  [
+   "Version 41",
+   [
+    "Text-trigger cleanup. Some prompts began a phrase with a label and a colon, such as \"Printed or worked on it:\", and image tools printed the words after the colon as text at the bottom of the picture. The artwork and logo lines on keychains, lighters and every other accessory are now plain sentences (\"Its surface is decorated with…\"), and about 2,500 files across the library had their label-and-colon openers turned into natural clauses.",
+    "One banned descriptor removed. A phrase that must not appear in lighter descriptions was replaced everywhere with \"sealed fuel reservoir\", and the build now checks for it.",
+    "Eyewear in the person files. The \"She wears…\" and \"He wears…\" eyeglass lines in the woman's, man's and age-bracket files now use the fully described frames, so each frame is explained by its shape, rims, bridge, arms and lenses.",
+    "Plastic and novelty lighters and keychains. Both families were missing whole ranges. Lighters now include 20 plastic types (disposable, child-proof, clear, glitter, glow-in-the-dark, marbled, rubberised, utility, electric and more) and 30 novelty types (animal, food, skull, sneaker, camera, telephone, car, rocket, lipstick, robot, mushroom and more). Keychains now include 23 plastic types (acrylic, epoxy-dome, PVC rubber, silicone, foam, bottle-opener, torch, whistle and more) and 30 novelty types (miniature books, shoes, foods, instruments, globes, bells, dice, puzzles, compasses and more). Each is described by shape, parts and material. Brand-style words in the lighter files were replaced with plain descriptions. Files: acc_lighter_plastic*, acc_lighter_novelty*, acc_keychain_plastic*, acc_keychain_novelty*.",
+    "Library map. The map page now covers couture, outerwear, extreme-weather, diving and trades tools."
+   ]
+  ],
+  [
+   "Version 40",
+   [
+    "Haute couture and silly fashion. About 60 of the strangest, hugest, most surreal and most impractical creations (cage-skirt gowns, a six-metre floating train, a skirt too wide for a door, a dress of living moss, a mirror-tile gown, a balloon dress, a swan-neck gown, a tower headdress, a shoe-shaped hat) and about 30 comic pieces (trousers pulled up to the chest, several pairs of jeans at once, a cowboy hat with udder-like bulges, boots with flip-flop soles, gloves with very long extra fingers). Files: clothing_couture_haute*, clothing_couture_silly*.",
+    "Outerwear. About 50 coats, jackets, cloaks, capes and wraps, old and modern, each with cut, collar, closure and fabric. Files: clothing_outerwear*.",
+    "Extreme-weather gear. About 45 pieces for polar cold, mountains, desert, monsoon, storm, heat and hazards. Files: clothing_weather_extreme*.",
+    "Scuba and diving. About 37 pieces: wetsuits, drysuits, masks, fins, regulators, tanks, rebreathers, the copper hard-hat helmet and an atmospheric suit. Files: clothing_diving*.",
+    "Trades tools and equipment. About 235 tools in 17 trades, each described by shape, parts, materials and use, plus hand, power and gear groupings. Files: tool_<trade>*, tool_all*, tool_hand*, tool_power*, tool_gear*.",
+    "Purses, and only purses. The purse family no longer holds clutches, totes, satchels, crossbody bags or other handbags; it has 25 true purses (coin, change, frame, drawstring, beaded, a sporran and more). Files: acc_purse*."
+   ]
+  ],
+  [
+   "Version 39",
+   [
+    "Fully described eyeglasses, about 50 frame forms with rim shape, bridge, arms, hinges, nose pads, materials and lens tints in plain words. Files: acc_eyewear*.",
+    "Fully described collars, about 40 forms from leather and locking collars to chokers, medical collars, ruffs, torcs and ceremonial bead collars. Files: acc_collar*.",
+    "An accessory audit. About 2,000 thin lines for unusual forms in 24 families gained a second sentence on build and use, and body-part words that had leaked in from the shoe files (such as \"across the ankle\" on scarves, ties, gloves, fans and handkerchiefs) were replaced with a part the item really has."
+   ]
+  ],
+  [
+   "Version 38",
+   [
+    "A clinical, detached injury overlay of about 225 injury types, from paper cuts and stings to fractures, burns, infections and amputations (body_wound_*), and casts, splints and bandages (acc_medwrap_*).",
+    "Condition descriptors for any item, from pristine to ruined (condition_*).",
+    "Tie pins, clips, bars and bolo ties (acc_tiehw_*, acc_bolo*); bed-head and messy hair (hair_state_*).",
+    "Fuller chastity-device descriptions; fuller descriptions of about 100 regional and formal garments.",
+    "Quality files instead of price files for footwear, from cheap to absurdly expensive (acc_shoe_quality_*)."
+   ]
+  ],
+  [
+   "Version 37",
+   [
+    "Assistive and adaptive items (acc_assist_*); makeup, nails, piercings, body art and skin features (body_*); eyewear; character costume (costume_char_*); subject objects (obj_<subject>_*); buildings, rooms and landscapes (scene_*); activity and interaction poses.",
+    "Body-change, cold-weather, formal and regional garments.",
+    "Ethnicity tied to skin colour, so a skin colour is always stated; manual tan and sunburn by natural skin tone (skin_tan_*); season and weather outfits (wx_*); the wardrobe role index (wardrobe_*); optional detail files for garment families."
+   ]
+  ],
+  [
+   "Version 36",
+   [
+    "All file names unified under one structure (clothing_*, costume_*, obj_*; filename_changes.txt maps every old name to its new one).",
+    "Halloween masks and costumes in five quality tiers across 1920s to 2020s; corsets and neck corsets; collars and mouth gags; and a gap assessment (docs/ASSESSMENT.txt)."
+   ]
+  ],
+  [
+   "Versions 33 to 35",
+   [
+    "Nightwear, robes, undergarments and lingerie in many families, plus shop-style sections of about 1,500 detailed garment descriptions (front, back, coverage, cut, fabric and trim).",
+    "Rave, festival and counterculture dress across the 1920s to 2020s in 21 families, from flapper and mod to punk, goth, rave and drag.",
+    "Swimwear in many cuts, including odd and extreme styles and fabric that turns translucent when wet.",
+    "Non-gunpowder weapons, armour and costume pieces, surfboards of every era, and chastity devices as accessories.",
+    "Printed and sewn T-shirt costumes gained extra costume pieces (insignia, props, belts, headwear emblems); onesies gained a novelty-embellishment layer."
+   ]
+  ],
+  [
+   "Versions 28 to 32",
+   [
+    "Version 28: one-piece garments (coveralls, zip suits, bodysuits, overalls) and dance, performance and wrestling wear (leotards, singlets, ballet, ballroom, folk dance and more), each with 300 named options.",
+    "Version 29: printed-tee prompts rewritten in positive wording (what the shirt is, rather than lists of things to avoid), and adult bodysuit-tee and romper-tee onesies.",
+    "Version 30: printed rompers and one-piece zipper leisure suits.",
+    "Version 31: sewn onesies (real cut-and-sew garments), 184 creature onesies (every one hooded and carrying the features that identify the animal), and hoods that always match a uniform's headwear.",
+    "Version 32: sewn T-shirts and ugly-sweater takes (sweater, cardigan, vest, dress and onesie versions of every uniform)."
+   ]
+  ],
+  [
+   "Version 27",
+   [
+    "Tee and onesie fixes: tees no longer print the lower garment, no scenery or backdrop on sleeves and shoulders, the outfit is enlarged to the real collar and armholes, and printed onesies are cloth wrapped over every sleeve and leg."
+   ]
+  ]
+ ],
+ "footer": "Since version 36 the files follow one naming structure. See the naming guide below, and filename_changes.txt for every old and new name.",
+ "releases": {
+  "42": [
+   "Plain-named character creation. New prompts with names that say what they do: f_create_random_woman, m_create_random_man, any_create_random_person, and fixed identities such as f_create_random_trans_woman, m_create_random_trans_man, any_create_random_intersex_person and any_create_random_nonbinary_person. The any_ files use they/their wording and cover male, female, intersex, trans, non-binary and in-transition adults.",
+   "Clothing kept separate from the person. Every prompt comes as person only, _w_clothes, _nude, _topless or _bottomless, and as a full or _short version for token limits. Optional _traits versions add scars and hormone-related traits. About 810 files in all.",
+   "Three ways to treat age. Realistic (age drives the look), _mismatched (looks decades older or younger than the stated age) and _unlinked (a fit, smooth-skinned 100-year-old or a wrinkled 18-year-old).",
+   "Better old age. Models under-age people over 50, so each age is now stated as a number, an age word and visible features, with a short closing reminder for older ages.",
+   "Fewer contradictions. Shaved and bald styles no longer get curl patterns, hair and eye colours come only from the colour files, build words no longer fight with stature, young brackets lose aged-skin lines and old brackets lose youthful-skin lines. A contradiction test script (_tools/v42_contra.py) is included.",
+   "Clean-up. Emphasis weights such as (word:1.5) became plain wording, health conditions were removed from the random-person templates (the files stay), blank-line odds were made explicit so tools that strip blank lines keep the intended proportions, and openings such as \"The subject is a woman\" became \"A woman, 34 years old, ...\".",
+   "Sample prompts for this version are included: about 9,000 completed prompts in random order, covering every category."
+  ]
+ }
+}
