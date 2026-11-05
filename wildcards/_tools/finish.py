@@ -26,7 +26,7 @@ for a, t in S:
     rows.append((a, ' '.join(clean(expand(files, t, rng)).split())))
 rows = rows[:100]
 o = f'/mnt/user-data/outputs/Guyanonymous_Wildcards_v{N}_sample_prompts'
-open(o + '.txt', 'w').write('\n'.join(r[1] for r in rows) + '\n'); open(o + '_labelled.tsv', 'w').write('label\tprompt\n' + '\n'.join(f'{a}\t{b}' for a, b in rows) + '\n')
+open(o + '.txt', 'w').write('\n'.join(r[1] for r in rows)); open(o + '_labelled.tsv', 'w').write('label\tprompt\n' + '\n'.join(f'{a}\t{b}' for a, b in rows))
 print('samples', len(rows), 'leaks', sum(1 for r in rows if '__' in r[1] or re.search(r'[{}|]', r[1])))
 json.dump(M.BULLETS, open(f'{V}/b{N}.json', 'w'), indent=1); open(f'{V}/r{N}.txt', 'w').write(M.README)
 rd = '/tmp/pkg14_main/README.txt'; t = open(rd).read(); open(rd, 'w').write(f'v{N}: {M.ONELINE}\n' + t)

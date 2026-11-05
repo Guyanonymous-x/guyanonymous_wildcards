@@ -1,0 +1,23 @@
+RESEARCH v85 top brands (20 entries) - output /home/claude/w/_tools_in/es/out6_01.py
+Method: Bing image grid (built-in browser, one screenshot grid per brand, query tailored to a mix of product/identity/ad style; Jeep had two queries). Wikipedia WebFetch was NOT done (time); notes rest on image grids plus prior knowledge. Library name for IKEA is IKEA, Chanel is Chanel (a separate Chanel No 5 packaging entry exists, untouched).
+Old text per brand was not diffed line by line; all were rewritten to remove product/part references and lead with strongest cross-category traits.
+Jeep: grids show olive/khaki, boxy flat panels, seven-slot motif, watches and apparel with stencil lettering, rugged matte. Changed: dropped vehicle parts, added cross-category materials and palette.
+Nike: swoosh curves, black/white plus volt/orange accent, huge heavy italic type, gritty dramatic photography. Changed: speed/aero shape language and graphic treatment.
+Adidas: three parallel stripes, trefoil/triangle, white/black/navy/blue, retro plus grid layouts. Changed: stripes as repetition principle, colour-block piping.
+Coca-Cola: red/white, flowing script, ribbon wave, contour curves, nostalgic smiling-people art. Changed: palette use, script feel, sunny illustration mood.
+Apple: seamless rounded forms, aluminium/glass, silver/space grey, white backdrops with soft shadow. Changed: general reduction, finish, photography.
+Sony: vintage grids show compact rectangular, matte black/silver, small neat controls, some bright primary accents. Changed: miniaturised precision, finishes.
+Levi Strauss: indigo, orange stitching, red tab, leather-patch badge with two-horse imagery, faded wear. Changed: wear, stitching, badge graphics.
+Chanel: black/white monochrome, gold, pearls, quilting, tweed, interlocked double-C, thin type. Changed: restraint and monochrome emphasis.
+Burberry: tan check with black/white/red, trench gabardine, knight emblem, serif caps, muted rainy palette. Changed: check pattern as design language.
+Porsche: low sloping rounded forms, round lamps, carbon/titanium/black/silver, design objects and eyewear in grids, moody lighting. Changed: dropped car parts, kept proportion and finish.
+Ferrari: rosso red, prancing horse on yellow shield, flowing italic script, glossy dramatic photography. Changed: sensual curve language, red/yellow/black use.
+Studio Ghibli: painted cloud-filled skies, lush greens, rustic cosy details, soft outlines. Changed: background painting and palette.
+Disney classic: model sheets and cels show round bouncy forms, ink outline, pastel painted backgrounds, storybook lettering. Changed: squash/stretch, ornament.
+Pixar: chunky rounded characters, volumetric warm light, colour scripts, shallow depth of field. Changed: lighting and surface emphasis.
+Patagonia: mountain-skyline badge, bold colour blocks, retro faded tones, vast photography. Changed: earthy utility and palette.
+Barbour: waxed olive/sage jackets, corduroy collars, tartan lining, misty rural photography. Changed: finish/ageing, pattern.
+Zippo: metal cases with enamel pinups/flames/retro geometric prints, chrome, red/black/teal. Changed: engraved-graphic language, vintage Americana.
+Muji: unbranded off-white/beige/kraft packaging and wood, small plain sans labels. Changed: no-logo, raw materials, empty space.
+Olivetti: red/blue/mint glossy moulded forms, abstract dot-and-line graphics, lowercase type. Changed: sculptural plastic, colour use.
+IKEA: bright interiors, birch/white, blue/yellow, bold pattern, tidy lived-in photography. Changed: modular practicality, palette.

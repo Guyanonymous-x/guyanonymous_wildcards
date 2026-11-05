@@ -28,7 +28,7 @@ def load():
             if not t.lower().startswith('in the style of'): t = 'In the style of %s, %s' % (name, t)
             B.append((clean(name), region, era, ind, t, grp))
     ES = {}
-    for fn in (sorted(glob.glob(HERE + '/data/v83_es/out_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out2_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out3_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out4_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out5_*.py'))):
+    for fn in (sorted(glob.glob(HERE + '/data/v83_es/out_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out2_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out3_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out4_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out5_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out6_*.py'))):
         ns = {}; exec(open(fn, encoding='utf8').read(), ns)
         for name, region, era, ind, text in ns['B']: ES[slug(name)] = clean(text)
     return [(n, r, e, i, ES.get(slug(n), t), g) for n, r, e, i, t, g in B]

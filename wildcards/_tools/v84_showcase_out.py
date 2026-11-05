@@ -15,7 +15,7 @@ for n,(i,t,ratio,text) in enumerate(S):
     for k in (0,1):
         w,h=sz[k]; lines[k].append('--prompt "%s" --steps 50 --cfg_scale 3.75 --seed %d --width %d --height %d'%(text.replace('"','\\"'),sd,w,h))
     key.append('\t'.join([i,t,'%d:%d'%ratio,'%dx%d'%sz[0],'%dx%d'%sz[1],str(len(text)),str(sd),'; '.join(chk) or 'ok '+NOTE.get(i,'')]))
-open(od+'Guyanonymous_Wildcards_v84_showcase_1024.txt','w').write('\n'.join(lines[0])+'\n')
-open(od+'Guyanonymous_Wildcards_v84_showcase_1408.txt','w').write('\n'.join(lines[1])+'\n')
-open(od+'Guyanonymous_Wildcards_v84_showcase_key.tsv','w').write('\n'.join(key)+'\n')
+open(od+'Guyanonymous_Wildcards_v84_showcase_1024.txt','w').write('\n'.join(lines[0]))
+open(od+'Guyanonymous_Wildcards_v84_showcase_1408.txt','w').write('\n'.join(lines[1]))
+open(od+'Guyanonymous_Wildcards_v84_showcase_key.tsv','w').write('\n'.join(key))
 print('\n'.join(key))

@@ -1,0 +1,8 @@
+v85 index
+adult_l6_<genre>: ejaculate, squirting (described plainly) and groups of five or more adults. L1-L5 are four adults or fewer.
+adult_lN_expression / adult_lN_bodychange (N 1-6): optional modifiers appended to any scene.
+adult_lN_messy / adult_lN_wrestling (N 1-6): wet and messy play, and staged consensual play-fighting. adult_lN_messy_prompt / adult_lN_wrestling_prompt add modifiers.
+adult_lN_full_prompt: a scene plus expression and body change. adult_l6_prompt for L6.
+adult_gear_*: materials, garments, uniforms, kilts, tailoring, pony, furniture, roleplay, fetish focus. adult_gear mixes all.
+Standing rules: adults only and consensual, no urine or feces, no school uniforms, knives and needles as objects only, jargon always described in plain words, kink reactions allowed as consensual play.
+Brands: 20 top brands rewritten after image checks (docs/RESEARCH_v85_brands_top25.txt). The remaining 726 are parked for a later image pass.
