@@ -36,3 +36,4 @@ Source: MOSS_IMAGE_NOTES (our tests + OpenMOSS technical report). The model (tex
 - SAMPLE vs SHOWCASE FILES (user 2026-11-04): in every version zip/release, the sample prompt files must be samples of EVERYTHING the package can do (spread across all prompt families and entry points, not just this version's additions). The showcase files focus on version-specific additions and improvements. Build samples from all entry points, weighted so every major family appears.
 
 DOCUMENT WORDING (each version): accompanying documents (README, index, promo, release notes) say that SHOWCASE files highlight the features that are new or changed in that version, while SAMPLE files are representative of everything the model can do.
+- SEMEN VOLUME (user 2026-11-05): keep semen amounts small and realistic (about a teaspoon, rarely a tablespoon); describe small streaks and beads, never pools, drenching or heavy loads.

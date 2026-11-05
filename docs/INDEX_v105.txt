@@ -1,0 +1,7 @@
+v105 index
+Library-wide text audit. textfix.py rewrites trigger nouns that make the model print words (about 63,000 lines in 2,587 files) and turns engraved names, initials and monograms into quoted invented text. Rules: docs/STANDING_RULES.txt section 0.
+
+
+Showcase and sample files: the showcase files highlight what is new or changed in this version, while the sample files are representative of everything the model can do.
+
+v105 contents: level panels (woman and man, two women, two men) for levels 1 to 6; typed sexual acts at levels 5 and 6 (vaginal, oral, anal, scissoring, strap-on, fingering, mutual masturbation); named positions from the Wikipedia list written as physical placement; kink panels (bondage, collars, impact, chastity, latex and leather); visible penis outlines under clothes at levels 2 and 3; smaller realistic semen wording.
