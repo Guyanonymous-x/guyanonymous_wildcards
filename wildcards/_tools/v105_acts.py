@@ -107,14 +107,14 @@ def build(final):
             put('adult_l%d_panel_%s' % (L, nm), [line(t, c, f) for t, c, f in mk(lst, W=PF, M=PM)])
         def ww(t, cam='The shot is from the side showing both bodies.'):
             s = t + ' Both women are nude.'
-            if L == 6 and 'vulva' in t and 'strap-on' not in t: s += ' ' + SQ.replace('her vaginal opening',"the first woman's vaginal opening").replace('beneath her','beneath her')
+            pass
             return s + TAIL + cam
         put('adult_l%d_panel_ww_oral' % L, [ww(t.format(W=PF, W2=PF2)) for t in WW_ORAL])
         put('adult_l%d_panel_ww_scissor' % L, [ww(t.format(W=PF, W2=PF2)) for t in WW_SCISSOR])
         put('adult_l%d_panel_ww_other' % L, [ww(t.format(W=PF, W2=PF2)) for t in WW_OTHER])
         def mm(t):
             s = t + ' Both men are nude.'
-            if L == 6 and 'right hand is around the second man' in t: s += FIN_MM
+            pass
             return s + TAIL + 'The shot is from the side showing both bodies.'
         put('adult_l%d_panel_mm_oral' % L, [mm(t.format(M=PM, M2=PM2)) for t in MM_ORAL])
         put('adult_l%d_panel_mm_anal' % L, [mm(t.format(M=PM, M2=PM2)) for t in MM_ANAL])
