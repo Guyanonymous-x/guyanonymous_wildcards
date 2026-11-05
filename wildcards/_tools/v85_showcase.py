@@ -26,7 +26,7 @@ def build(off=0):
     for g in ['kilts', 'tailoring', 'uniforms', 'materials', 'garments', 'furniture', 'roleplay', 'fetish_focus']:
         add('gear ' + g, RATIOS[n % 8], up(one('__adult_gear_%s__' % g, sd()).rstrip('.')) + '. ' + light(sd() + 3))
     for L in (1, 2, 3, 4, 5, 1, 3, 5):
-        g = ['pose', 'body', 'setting', 'object', 'group', 'location'][n % 6]
+        g = ['pose', 'body', 'group', 'object', 'pose', 'body', 'group', 'object'][n % 8]
         add('L%d %s + modifiers' % (L, g), RATIOS[n % 8], up(one('__adult_l%d_%s__' % (L, g), sd()).rstrip('.')) + ', ' + one('__adult_l%d_expression__' % L, sd() + 1) + ', ' + one('__adult_l%d_bodychange__' % L, sd() + 2) + '. ' + light(sd() + 3))
     return S
 if __name__ == '__main__':

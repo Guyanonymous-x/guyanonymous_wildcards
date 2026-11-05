@@ -16,7 +16,7 @@ def build(final=None):
         G['adult_l6_solo_prompt'] = ['__adult_l6_%s__' % g for g in ('pose', 'body', 'setting', 'object')]
         G['adult_l6_group_prompt'] = ['__adult_l6_%s__' % g for g in ('group', 'location')]
         G['adult_l6_prompt'] = ['__adult_l6_solo_prompt__', '__adult_l6_group_prompt__']
-    for kind in ('expression', 'bodychange', 'messy', 'wrestling'):
+    for kind in ('expression', 'bodychange', 'expression_scene', 'bodychange_scene', 'messy', 'wrestling'):
         refs = ['__adult_l%d_%s__' % (L, kind) for L in range(1, 7) if have('adult_l%d_%s' % (L, kind))]
         if refs: G['adult_' + kind] = refs
     for L in range(1, 7):

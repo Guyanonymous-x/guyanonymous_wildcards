@@ -6,7 +6,7 @@
    "Version 85",
    [
     "Adult level 6 (`adult_l6_<pose|body|setting|object|group|location>`, 418 lines): ejaculate, squirting described plainly, and groups of five or more adults. Levels 1 to 5 stay at four adults or fewer.",
-    "Optional modifiers for every level, L1 to L6: `adult_lN_expression` and `adult_lN_bodychange` (608 lines) - faces, flushing, sweat, trembling, calm or tolerant looks, intensity within consensual play.",
+    "Optional modifiers for every level, L1 to L6: `adult_lN_expression` and `adult_lN_bodychange` (544 lines) - faces, flushing, sweat, trembling, calm or tolerant looks, intensity within consensual play.",
     "Messy play and staged play-fighting: `adult_lN_messy` and `adult_lN_wrestling` for L1 to L6 (611 lines), plus per-level prompts.",
     "Gear (604 lines): `adult_gear_materials`, `_garments`, `_uniforms`, `_kilts`, `_tailoring`, `_pony`, `_furniture`, `_roleplay`, `_fetish_focus`, all in `adult_gear`.",
     "Existing L1-L5 adult lines audited: jargon replaced with plain visual descriptions, ejaculate and large-group lines moved to L6, urine, school, sleeping or drunk partner lines removed.",
