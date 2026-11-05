@@ -218,6 +218,13 @@ def wiring(final):
     return G
 LIGHT_OUT = ['soft overcast daylight', 'warm low evening light', 'bright midday sun with crisp shadows', 'blue dusk with the sign lit', 'early morning light', 'gentle light after rain']
 LIGHT_IN = ['soft even window light', 'warm indoor lamp light', 'bright shop lighting', 'cool daylight from a skylight', 'a single warm overhead light with soft falloff', 'soft diffused light with a plain background']
+import re as _re
+_PAT = [(r' No other words or letters appear( on the card)?\.', ''), (r',? and (nothing else|no other (readable )?words( or letters)?)(?=[.,])', ''), (r' and nothing else(?=[.,])', ''), (r' with no other readable text', ''),
+ (r'(,| with| and) no words( or letters)?(?=[,.]| and the)', ' as a purely pictorial mark'), (r' among small paper notes with no readable text', ' among small blank paper notes'),
+ (r' Nothing else is printed on the front\.', ' The rest of the front is plain and empty.')]
+def positive(line):
+    for a, b in _PAT: line = _re.sub(a, b, line)
+    return line
 def build(final=None):
     import v94_names2
     P = G_parts(); G = dict(P); N = G_names(P); G.update(N); G.update(G_prompts())
@@ -225,6 +232,9 @@ def build(final=None):
     G['name_light_night'] = ['night light with the sign glowing and a wet street reflecting it', 'night light with the sign glowing against a dark sky', 'night light with warm window glow and the sign lit']; G['name_light_outdoor'] = LIGHT_OUT; G['name_light_indoor'] = LIGHT_IN
     top = ['name_sign_shopfront_prompt', 'name_sign_company_prompt', 'name_sign_restaurant_prompt', 'name_label_product_prompt', 'name_label_price_prompt', 'name_tag_person_prompt', 'name_tag_clothing_prompt', 'name_vehicle_livery_prompt', 'name_poster_prompt', 'name_receipt_prompt', 'name_blank_text_prompt', 'name_business_sign_prompt', 'name_media_prompt', 'name_business_card_prompt', 'name_logo_prompt', 'name_merch_prompt']
     G['name_any_prompt'] = ['__%s__' % k for k in top]
+    G['name_blank_text_prompt'] = ['A shop sign, label or package with plain unmarked surfaces, decorated only with simple shapes and patterns.', 'A product package with plain unmarked surfaces, decorated only with colours and simple pictures.', 'A storefront with a painted sign showing only a simple emblem on a plain ground.']
+    for k in list(G):
+        if not k.endswith('_entry_points'): G[k] = list(dict.fromkeys(positive(l) for l in G[k]))
     G['v94n_entry_points'] = [k for k in G if k.endswith('_prompt') and not k.startswith('text_')] + ['name_company', 'name_shop', 'name_restaurant', 'name_pub', 'name_product', 'name_person', 'name_address', 'name_brand']
     return G
 if __name__ == '__main__':

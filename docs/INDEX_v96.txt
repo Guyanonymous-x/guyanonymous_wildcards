@@ -1,0 +1,2 @@
+v96 index
+Prompts say what is on a surface instead of denying text. Rules from MOSS_IMAGE_NOTES: negations did not help; words like label, banner, badge draw lettering; training captions quote visible text verbatim.

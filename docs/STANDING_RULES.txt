@@ -1,0 +1,23 @@
+# Guyanonymous' Wildcards - STANDING RULES (check before writing ANY prompt, wildcard, showcase or release)
+
+## 0. TEXT RULES (highest priority, set by the user 2026-11-04, repeated many times - never skip)
+Source: MOSS_IMAGE_NOTES (our tests + OpenMOSS technical report). The model (text encoder Qwen3.5-9B) draws any word it is shown, and the user's prompt prefix `<lora:...>, Sh4rpD3tails.` is itself read as text.
+1. If text SHOULD appear on a sign, label, tag, packaging, badge, cap, t-shirt, card, book cover, poster, screen: write it verbatim in quotes, one line per text, say where it is ("on the first line", "on the second line"). Use the fake name system (name_* files) so the text is invented, not a real brand.
+2. If text should NOT appear: do NOT mention it at all. Never write "no other words", "no readable text", "no lettering", "nothing else", "unlettered". Negations did not help in tests and the words invite lettering. Describe the surface positively: plain, unmarked, blank, decorated with shapes and patterns only.
+3. Never mention label, tag, badge, sign, banner, wordmark, logo, slogan, caption, packaging text unless the text on it is defined in quotes.
+4. Before every release, scan new/changed lines for undefined text mentions and for text negations. Report what was checked.
+5. Brand styles are objects STYLED like a brand, never branded products: the file name carries the brand (maker_bs_heinz); the prompt text never names the brand, never says "in the style of <Brand>", and puts no logo/wordmark on every object. Style = colour, shape, material, pattern. A logo may appear small on packaging, labels or signs only. The object is already bought; it is not selling itself.
+6. Fake names only: websites end in .example, phones use 555, no real brands/people outside maker_ files.
+
+## 1. Content rules
+- Natural-language prompts for txt2img (Moss Image). Everything fully described, never relying on a name or jargon alone; jargon described visually.
+- All content from the wildcard system plus only joining words.
+- Adult content: adults only, consensual; no minors or youth-coded wording (no school/student), no animals, diapers, real hate insignia, non-consent, NO urine/feces; knives/needles as objects only, never in use. Levels L1-L6 (L1-L5 four adults or fewer; L6 ejaculate/squirting/groups of five+); no crowds/audiences in L1-L5. Leave the six "...50..." prompt files as is.
+
+## 2. Release rules
+- Every version gets a 40-prompt showcase at 1024 and 1408 pixel-equivalent sizes (varied ratios, multiples of 16), steps 50, cfg 3.75; review every prompt (read it) before sending.
+- Showcase / sample / key files must NOT end with a trailing newline. Library files end with one newline, no trailing blank line.
+- Promo text includes the GitHub reference line (https://github.com/Guyanonymous-x/guyanonymous_wildcards).
+- Git: cloud clone, push main directly, release/vNN branches, never force-push/reset main. Commit trailers: Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com> and Claude-Session line.
+- Zips over 30 MB go via SendUserFile only; small files also to the user's !Releases\vNN folder.
+- Short answers, start work in the first reply, tell the user what was checked.

@@ -18,7 +18,7 @@ def build(off=0):
         ref = '__%s_prompt__' % it
         base = one(ref, seed)
         light = one('__name_light_night__' if ('neon' in base or 'night' in base.lower()) else '__name_light_%sdoor__' % ('out' if m == 'out' else 'in'), seed + 3)
-        text = base + ' The lettering is sharp, clearly legible and correctly spelled. Photographed in ' + light.rstrip('.').lstrip() + '.'
+        text = base + ' Photographed in ' + light.rstrip('.').lstrip() + '.'
         S.append(('K%02d' % n, it.replace('name_', ''), RATIOS[n % 8], text))
     return S
 if __name__ == '__main__':

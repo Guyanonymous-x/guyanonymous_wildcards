@@ -1,7 +1,7 @@
-A hardback book standing upright, its cover printed with the title "__name_book_title_any__" and the author "__name_author__" and no other words or letters.
-A paperback novel on a table, the cover reading "__name_book_title_thriller__" on the first line and "__name_author__" on the second line. No other words or letters appear.
-A cookbook lying open beside a bowl, its cover reading "__name_book_title_cookbook__" and "__name_author__". No other words or letters appear.
-A fantasy novel with a painted cover, the title "__name_book_title_fantasy__" in gold letters and the author "__name_author__" at the bottom. No other words or letters appear.
+A hardback book standing upright, its cover printed with the title "__name_book_title_any__" and the author "__name_author__".
+A paperback novel on a table, the cover reading "__name_book_title_thriller__" on the first line and "__name_author__" on the second line.
+A cookbook lying open beside a bowl, its cover reading "__name_book_title_cookbook__" and "__name_author__".
+A fantasy novel with a painted cover, the title "__name_book_title_fantasy__" in gold letters and the author "__name_author__" at the bottom.
 A shelf of three books whose spines read "__name_book_title_any__", "__name_book_title_any__" and "__name_book_title_any__", with author names omitted.
-A book with a plain cloth cover, spine reading "__name_book_title_literary__" and "__name_publisher__" at the foot. No other words or letters appear.
-A paperback with a cover reading "__name_series__" at the top, "__name_book_title_scifi__" in the middle and "__name_author__" at the bottom. No other words or letters appear.
+A book with a plain cloth cover, spine reading "__name_book_title_literary__" and "__name_publisher__" at the foot.
+A paperback with a cover reading "__name_series__" at the top, "__name_book_title_scifi__" in the middle and "__name_author__" at the bottom.

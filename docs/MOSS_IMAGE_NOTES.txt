@@ -105,3 +105,10 @@ BATCH-FLAGS FORMAT: one line per image, --prompt "TEXT" --steps 50 --cfg_scale X
 SIZES at about 2 megapixels, multiples of 16: 1:1 1408x1408, 4:3 1632x1216, 3:2 1728x1152, 16:9 1856x1056, 2:1 1984x992, 5:4 1568x1264 and the portrait versions. Moss takes arbitrary ratios in multiples of 16 from 1 to 2 megapixels.
 
 SHOWCASE GRIDS (user note 2026-11-03): when generating showcase prompts, a grid of up to 3x3 (nine small views or variants in one image) is acceptable for some objects (for example accessories, shoes, hats, tools, food). Use it where showing the variety of an object matters more than one big picture; describe the grid physically (three rows of three, each cell a separate item on a plain background, evenly spaced) and keep text-in-quotes for any labels.
+
+--- 2026-11-04 TEXT RULES (user insisted; apply to every prompt) ---
+1. Text that should appear: quote it verbatim, one line per text, say where it is (first line, second line). Technical report: training captions transcribe visible text verbatim in quotes.
+2. Text that should NOT appear: do not mention it. No 'no other words', 'no readable text', 'no lettering'. Negations did not help in our tests and the words themselves invite lettering. Describe the surface positively instead (plain, unmarked, blank).
+3. Do not mention label, tag, badge, sign, banner, wordmark, logo, slogan unless the text on it is defined in quotes.
+4. Brand styles are objects in a style, not branded products: no logo on every object; the file name carries the brand, the prompt never says it.
+5. The user's prefix '<lora:...>, Sh4rpD3tails.' is read as text by the encoder; undefined text surfaces get it printed.
