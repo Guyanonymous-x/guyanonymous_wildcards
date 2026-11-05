@@ -6,10 +6,10 @@ PF = 'a woman __apose_person_f__,'
 PM = 'a man __apose_person_m__,'
 PF2 = 'a second woman __apose_person_f__,'
 PM2 = 'a second man __apose_person_m__,'
-CLW = ['a fitted knee-length dress', 'a loose blouse and a long skirt', 'a soft sweater and jeans', 'a wrap dress']
-CLM = ['a button-up shirt and trousers', 'a t-shirt and jeans', 'a jumper and chinos', 'a linen shirt and shorts']
-UNW = ['a lace bra and matching briefs', 'a silk slip', 'a camisole and lace shorts', 'a satin bra and high-cut briefs']
-UNM = ['tight cotton briefs', 'boxer shorts', 'fitted boxer briefs', 'a low-cut brief']
+CLW = ['a fitted knee-length dress', 'a loose blouse and a long skirt', 'a soft sweater and jeans', 'a wrap dress', 'a leather jacket and black jeans', 'a flowered sundress', 'a pleated skirt and a cardigan', 'a white linen jumpsuit', 'a red raincoat and tights', 'a striped shirt and a denim skirt', 'a knitted tunic and wide trousers', 'a satin blouse and tailored shorts']
+CLM = ['a button-up shirt and trousers', 'a t-shirt and jeans', 'a jumper and chinos', 'a linen shirt and shorts', 'a hoodie and joggers', 'a denim jacket and jeans', 'a checked flannel shirt and corduroys', 'a polo shirt and shorts', 'a suit jacket over a t-shirt and dark trousers', 'a football shirt and tracksuit bottoms', 'a cable-knit jumper and trousers', 'a leather jacket and black jeans']
+UNW = ['a lace bra and matching briefs', 'a silk slip', 'a camisole and lace shorts', 'a satin bra and high-cut briefs', 'a sports bra and cotton briefs', 'a mesh bodysuit', 'a cotton vest and high-waisted briefs', 'a balconette bra and a thong', 'a ribbed bralette and briefs']
+UNM = ['tight cotton briefs', 'boxer shorts', 'fitted boxer briefs', 'a low-cut brief', 'a jockstrap', 'silk boxer shorts', 'long cotton boxers', 'thin swim trunks']
 COVER = ['a white bath towel wrapped once around the hips and tucked in at the waist, hanging straight down to the upper thighs', 'a patterned cotton sarong tied at one hip, hanging straight down to mid-thigh', 'a white bedsheet wrapped around the hips toga-style and tucked at the waist, falling to mid-thigh', 'a denim jacket tied around the waist by its sleeves, the body of the jacket hanging down over the groin', 'a short satin robe pulled down to the waist and tied with its belt, hanging to the upper thighs', 'a chunky knitted throw wrapped around the hips and tucked at the side, falling to the knees', 'a long linen shirt tied around the waist by its sleeves, the shirt hanging down over the groin', 'a dark wool scarf-blanket wrapped around the hips and tucked at the waist, falling to mid-thigh']
 def lvl_state(L, sex, k):
     """returns (attire sentence about 'she'/'he'). """
