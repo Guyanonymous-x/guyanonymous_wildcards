@@ -48,6 +48,7 @@ SUBJ = {
 }
 GROUP_SUBJ = {'cars_eu': 'vehicle', 'cars_world': 'vehicle', 'transport': 'transport', 'fashion_eu': 'fashion', 'fashion_world': 'fashion', 'tech': 'tech', 'home': 'home', 'media': 'media', 'packaging': 'packaging', 'heritage': 'heritage', 'modern_misc': 'modern_misc'}
 VIEW = P('shown in a clean studio photograph with soft even light; shown in natural daylight; shown in soft window light; shown on a plain pale backdrop with a soft shadow; shown in a detailed close-up that fills the frame; shown as a full view of the whole object; shown at a three-quarter angle with a softly blurred background; shown centred with plenty of empty space around it')
+NOTEXT = 'Any label, tab, tag, badge, packaging or sign on the object carries no readable words or letters, only the marks, shapes and patterns described.'
 MOOD_START = re.compile(r'^(Photography|Photographs?|Photos?|Imagery|Graphic advertising|Advertising|Advertisements?|Graphics|Campaigns?|Layouts?|Ads?|Print ads?|Posters?|Shop|Stores?|Interiors?|Storefronts?|Settings?|Scenes?|Film|Films|Cinematography|Lighting|Mood)\b')
 MOOD_ANY = re.compile(r'\b(photograph\w*|backdrops?|campaigns?|advertis\w*|storefronts?|cinematic|camera|shot low|photos?|ramps?|graffiti|landscapes?|interiors?|showrooms?|skate-park|street-level|pubs?|cafes?|kitchens?|crowds?|models?|city streets?|shopfronts?|scenes?|settings?|rooms?)\b', re.I)
 def split_mood(t):
@@ -68,12 +69,12 @@ def build(final=None):
         for part in sorted({n} | {p for p in re.split(r'[ -]+', n) if len(p) > 3}, key=len, reverse=True):
             if part != n and (part.lower() in LOW or NAT.match(part)): continue
             body = re.sub(r'(?<![A-Za-z])' + re.escape(part) + r'(?![A-Za-z])', 'this brand', body)
-        return 'Styled in a design language of ' + body.rstrip() + ' This styling applies to the object itself and not to its surroundings.'
+        return 'Styled in a design language of ' + body.rstrip() + ' ' + NOTEXT + ' This styling applies to the object itself and not to its surroundings.'
     U = {x[0]: unnamed(x[0], x[4]) for x in B}
     # plain name = style only (brand name not included), _named = starts with 'In the style of <Brand>,'
     for name, region, era, ind, t, grp in B:
         G['maker_bs_' + slug(name)] = [U[name]]
-        G['maker_bs_' + slug(name) + '_named'] = [t + ' This styling applies to the object itself and not to its surroundings.']
+        G['maker_bs_' + slug(name) + '_named'] = [t + ' Any label, tab, tag, badge, packaging or sign on the object carries only the words %s in that lettering style and no other words. This styling applies to the object itself and not to its surroundings.' % name]
         if MOOD[name]: G['maker_bs_' + slug(name) + '_mood'] = [MOOD[name]]
     def agg(key, rows):
         G['maker_brand_style' + key] = [U[x[0]] for x in rows]
@@ -98,15 +99,23 @@ def build(final=None):
         G['bs_cell_' + slug(name) + '_named'] = ['%s in the style of %s, %s' % (sj, name, cut)]
     BADSUBJ = re.compile(r'\b(person|people|woman|women|man|men|friends|adventurer|hero|characters?|crowd|child|children|riders?|driver|passengers?|interior|cabin|lobby|platform|stadium|landscape|street|shop front|storefront|station|entrance|room|rooms|runway|cafe|scene|parked|port|harbour|hangar|garage|showroom|kitchen interior|stands|field)\b', re.I)
     for k, v in SUBJ.items(): G['bs_subject_' + k] = P('; '.join(x.strip() for x in v.split(';') if x.strip() and not BADSUBJ.search(x)))
+    BUILD = 'a small kiosk with a canopy; a two-storey house seen from the front; a market stall; a gatehouse with a pitched roof; a small chapel; a lighthouse; a corner shop building; a garden pavilion; a tall narrow townhouse; a roadside fuel-station canopy; a railway halt building; a boathouse; a barn; a bandstand; a small museum building; a bus shelter'
+    ACC = 'a leather belt; a pair of sunglasses; a wallet; a hat; a pair of gloves; a scarf; a tote bag; an umbrella; a backpack; a pair of earrings; a wristwatch on a cushion; a keyring; a phone case; a water bottle; a lunch box; a pair of socks'
+    VEH = 'a made-up two-door coupe; an imaginary delivery van; a fictional motorcycle; a made-up bus; an imaginary tram; a fictional bicycle; a made-up small aircraft; an imaginary boat; a fictional tractor; a made-up sports car; an imaginary scooter; a fictional lorry'
+    G['bs_subject_building'] = P(BUILD); G['bs_subject_accessory'] = P(ACC); G['bs_subject_madeup_vehicle'] = P(VEH)
+    G['bs_subject_any'] = P('; '.join(x.strip() for x in SUBJ['any'].split(';') if x.strip() and not BADSUBJ.search(x)) + '; ' + BUILD + '; ' + ACC + '; ' + VEH)
     G['bs_view'] = VIEW
     grps = sorted({x[5] for x in B})
     for g in grps:
         sk = GROUP_SUBJ.get(g, 'any')
         for sfx in ('', '_named'):
             G['bs_%s_prompt%s' % (g, sfx)] = ['__maker_brand_style_%s%s__ The subject is __bs_subject_%s__, with the object itself designed in that style, the setting kept plain and neutral, and __bs_view__.' % (g, sfx, sk)]
-    G['bs_prompt'] = ['__bs_%s_prompt__' % g for g in grps]
-    G['bs_prompt_named'] = ['__bs_%s_prompt_named__' % g for g in grps]
-    G['v83_bs_entry_points'] = ['bs_prompt', 'bs_prompt_named', 'maker_brand_style', 'maker_brand_style_named'] + ['bs_%s_prompt' % g for g in grps]
+    for kind in ('building', 'accessory', 'madeup_vehicle'):
+        for sfx in ('', '_named'):
+            G['bs_%s_prompt%s' % (kind, sfx)] = ['__maker_brand_style%s__ The subject is __bs_subject_%s__, with the object itself designed in that style, the setting kept plain and neutral, and __bs_view__.' % (sfx, kind)]
+    G['bs_prompt'] = ['__bs_%s_prompt__' % g for g in grps] + ['__bs_%s_prompt__' % k for k in ('building', 'accessory', 'madeup_vehicle')]
+    G['bs_prompt_named'] = ['__bs_%s_prompt_named__' % g for g in grps] + ['__bs_%s_prompt_named__' % k for k in ('building', 'accessory', 'madeup_vehicle')]
+    G['v83_bs_entry_points'] = ['bs_prompt', 'bs_prompt_named', 'maker_brand_style', 'maker_brand_style_named'] + ['bs_%s_prompt' % g for g in grps] + ['bs_building_prompt', 'bs_accessory_prompt', 'bs_madeup_vehicle_prompt', 'bs_building_prompt_named', 'bs_accessory_prompt_named', 'bs_madeup_vehicle_prompt_named']
     return G
 if __name__ == '__main__':
     G = build(); print(len(G), len(load()))

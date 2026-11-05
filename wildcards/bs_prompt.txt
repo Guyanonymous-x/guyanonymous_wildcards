@@ -11,3 +11,6 @@ __bs_tech_prompt__
 __bs_transport_prompt__
 __bs_world_a_prompt__
 __bs_world_b_prompt__
+__bs_building_prompt__
+__bs_accessory_prompt__
+__bs_madeup_vehicle_prompt__
