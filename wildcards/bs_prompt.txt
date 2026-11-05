@@ -7,6 +7,7 @@ __bs_home_prompt__
 __bs_media_prompt__
 __bs_modern_misc_prompt__
 __bs_packaging_prompt__
+__bs_past_prompt__
 __bs_tech_prompt__
 __bs_transport_prompt__
 __bs_world_a_prompt__
