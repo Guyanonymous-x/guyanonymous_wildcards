@@ -2,19 +2,29 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v95**
+**Current version: v96**
 
-**Contents:** [Introduction](#introduction) · [What's New in v95](#whats-new-in-v95) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v96](#whats-new-in-v96) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 41,100 wildcard text files (41115 `.txt` files in [`wildcards/`](wildcards/) at v95, plus 734 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 41,100 wildcard text files (41116 `.txt` files in [`wildcards/`](wildcards/) at v96, plus 734 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v96
+
+v96 replaces text denials with positive wording: quoted text where text should appear, plain unmarked surfaces where it should not. ([docs/INDEX_v96.txt](docs/INDEX_v96.txt), research notes in [docs/RESEARCH_v96.txt](docs/RESEARCH_v96.txt)). Since v95 it adds:
+
+- - **Text:** no more 'no other words' lines; surfaces described positively.
+- - **Rules:** standing rules saved in docs/STANDING_RULES.txt.
+- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v96_showcase.py`.
+
+The full list of v96 entry points is in `wildcards/v96_entry_points.txt`.
 
 ## What's New in v95
 
@@ -25,17 +35,6 @@ v95 makes brand styles describe the object only: no logos, no brand names in pro
 - **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v95_showcase.py`.
 
 The full list of v95 entry points is in `wildcards/v95_entry_points.txt`.
-
-## What's New in v94
-
-v94 adds a fake name system for signs, labels, packaging, business cards, logos, caps, t-shirts, books and comics, with all text defined in quotes. ([docs/INDEX_v94.txt](docs/INDEX_v94.txt), research notes in [docs/RESEARCH_v94.txt](docs/RESEARCH_v94.txt)). Since v93 it adds:
-
-- - **Names:** invented brand, company, shop, person, hero and book names built from parts.
-- - **Business cards and logos:** positioned layouts with consistent details; fake logo builder.
-- - **Merch:** caps, t-shirts, hoodies and bags with quoted text.
-- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v94_showcase.py`.
-
-The full list of v94 entry points is in `wildcards/v94_entry_points.txt`.
 
 ## Features
 
@@ -341,59 +340,62 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
 
+### v96
+positive text wording, no text denials See [What's New in v96](#whats-new-in-v96).
+
 ### v95
-brand styles describe the object, no logos or brand names in prompts See [What's New in v95](#whats-new-in-v95).
+brand styles describe the object, no logos or brand names in prompts See [What's New in v96](#whats-new-in-v96).
 
 ### v94
-fake name system, business cards, logos, caps and t-shirts See [What's New in v95](#whats-new-in-v95).
+fake name system, business cards, logos, caps and t-shirts See [What's New in v96](#whats-new-in-v96).
 
 ### v93
-150 more image-checked brand styles, wider subjects, defined label text See [What's New in v95](#whats-new-in-v95).
+150 more image-checked brand styles, wider subjects, defined label text See [What's New in v96](#whats-new-in-v96).
 
 ### v92
-object-only brand styles, 100 more brands See [What's New in v95](#whats-new-in-v95).
+object-only brand styles, 100 more brands See [What's New in v96](#whats-new-in-v96).
 
 ### v89
-Vans, Converse, Land Rover product-neutral See [What's New in v95](#whats-new-in-v95).
+Vans, Converse, Land Rover product-neutral See [What's New in v96](#whats-new-in-v96).
 
 ### v88
-25 more image-checked brand styles See [What's New in v95](#whats-new-in-v95).
+25 more image-checked brand styles See [What's New in v96](#whats-new-in-v96).
 
 ### v87
-male wrestling, brand fixes, deduplicated badges, lighting fit See [What's New in v95](#whats-new-in-v95).
+male wrestling, brand fixes, deduplicated badges, lighting fit See [What's New in v96](#whats-new-in-v96).
 
 ### v86
-pinback buttons, insignia, adult achievements, kilts, pony, torn clothing See [What's New in v95](#whats-new-in-v95).
+pinback buttons, insignia, adult achievements, kilts, pony, torn clothing See [What's New in v96](#whats-new-in-v96).
 
 ### v85
-v85: adult L6, modifiers, messy, wrestling, gear, kilts and tailoring, top brands image-checked See [What's New in v95](#whats-new-in-v95).
+v85: adult L6, modifiers, messy, wrestling, gear, kilts and tailoring, top brands image-checked See [What's New in v96](#whats-new-in-v96).
 
 ### v85
-v85: adult L6, modifiers (scene-neutral), messy, wrestling, gear, kilts and tailoring, top brands image-checked See [What's New in v95](#whats-new-in-v95).
+v85: adult L6, modifiers (scene-neutral), messy, wrestling, gear, kilts and tailoring, top brands image-checked See [What's New in v96](#whats-new-in-v96).
 
 ### v84
-v84: adult levels and adult_ prefix, brand styles as design essence (style-only plus _named) See [What's New in v95](#whats-new-in-v95).
+v84: adult levels and adult_ prefix, brand styles as design essence (style-only plus _named) See [What's New in v96](#whats-new-in-v96).
 
 ### v83
-v83: 746 global brand styles across all eras and regions; richer illustration and photography style lists (59 files) See [What's New in v95](#whats-new-in-v95).
+v83: 746 global brand styles across all eras and regions; richer illustration and photography style lists (59 files) See [What's New in v96](#whats-new-in-v96).
 
 ### v82
-v82: art forms that are neither illustration nor photography: sculpture, craft, fibre and render/installation (96 forms, 1,158 files) See [What's New in v95](#whats-new-in-v95).
+v82: art forms that are neither illustration nor photography: sculpture, craft, fibre and render/installation (96 forms, 1,158 files) See [What's New in v96](#whats-new-in-v96).
 
 ### v81
-v81: robots (25 types), gadgets and tech devices (42 types) and maker reference files (801 new files) See [What's New in v95](#whats-new-in-v95).
+v81: robots (25 types), gadgets and tech devices (42 types) and maker reference files (801 new files) See [What's New in v96](#whats-new-in-v96).
 
 ### v80
-v80: treasure, card, mineral, sound, screen, art and nature collections (571 new files) See [What's New in v95](#whats-new-in-v95).
+v80: treasure, card, mineral, sound, screen, art and nature collections (571 new files) See [What's New in v96](#whats-new-in-v96).
 
 ### v79
-Noir (`nr_`), pirate (`pt_`) and spy (`sy_`) genres, money (`mo_`) and metalware (`mt_`) collections, full descriptions for named e-reader and phone models, and screen text given in quotation marks. See [What's New in v95](#whats-new-in-v95).
+Noir (`nr_`), pirate (`pt_`) and spy (`sy_`) genres, money (`mo_`) and metalware (`mt_`) collections, full descriptions for named e-reader and phone models, and screen text given in quotation marks. See [What's New in v96](#whats-new-in-v96).
 
 ### v78
-Cyberpunk (`cy_`), steampunk (`sp_`) and western (`we_`) genres, steampunk phones (`spp_`) and home and decorative collections (`hd_`). See [What's New in v95](#whats-new-in-v95).
+Cyberpunk (`cy_`), steampunk (`sp_`) and western (`we_`) genres, steampunk phones (`spp_`) and home and decorative collections (`hd_`). See [What's New in v96](#whats-new-in-v96).
 
 ### v77
-Fantasy (`fa_`), horror (`ho_`), people interacting (`pi_`), toys (`toy_`) and die-cast models (`dc_`). See [What's New in v95](#whats-new-in-v95).
+Fantasy (`fa_`), horror (`ho_`), people interacting (`pi_`), toys (`toy_`) and die-cast models (`dc_`). See [What's New in v96](#whats-new-in-v96).
 
 ### v76
 Science fiction (`sf_`), e-reader and phone timelines, and eight timekeeping and instrument collections (`col_`). Showcase prompts and sample prompts in `docs/showcase/`. See [What's New in v76](#whats-new-in-v76).
