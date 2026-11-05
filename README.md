@@ -20,11 +20,11 @@ Each release gets a `release/vNN` branch (v74 is the first version tracked in gi
 
 v101 makes brand-style prompts object-first, adds optional brand marks and makes the sample files cover every family ([docs/INDEX_v101.txt](docs/INDEX_v101.txt), research notes in [docs/RESEARCH_v101.txt](docs/RESEARCH_v101.txt)). Since v100 it adds:
 
-- - **Object-first:** brand-style prompts now read 'A wallet done in a design language of ...', give the style, and repeat the object once at the end.
-- - **Marks:** new `__bs_mark__` add-on builds a small random mark from shape, material, outline, size and position with a fake logo and name; `bs_marked_prompt` uses it.
-- - **Object-neutral styles:** 122 styles lost sentences about one kind of object; Converse is now linework, curves, materials and palette.
-- - **Cleaner subjects:** shops, kiosks, stations, posters and signs were removed from subject lists.
-- - **Samples:** the 100 sample prompts now draw from every family of the package (about 86 families); showcase files cover what is new.
+- **Object-first:** brand-style prompts now read 'A wallet done in a design language of ...', give the style, and repeat the object once at the end.
+- **Marks:** new `__bs_mark__` add-on builds a small random mark from shape, material, outline, size and position with a fake logo and name; `bs_marked_prompt` uses it.
+- **Object-neutral styles:** 122 styles lost sentences about one kind of object; Converse is now linework, curves, materials and palette.
+- **Cleaner subjects:** shops, kiosks, stations, posters and signs were removed from subject lists.
+- **Samples:** the 100 sample prompts now draw from every family of the package (about 86 families); showcase files cover what is new.
 - **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v101_showcase.py`.
 
 The full list of v101 entry points is in `wildcards/v101_entry_points.txt`.
@@ -33,7 +33,7 @@ The full list of v101 entry points is in `wildcards/v101_entry_points.txt`.
 
 v100 is a polish release: brand-style prompts now pick from 24 views and lighting set-ups instead of 8, and brand descriptions open more smoothly. ([docs/INDEX_v100.txt](docs/INDEX_v100.txt), research notes in [docs/RESEARCH_v100.txt](docs/RESEARCH_v100.txt)). Since v99 it adds:
 
-- - **Views:** 24 lighting and angle options (late-afternoon sun, overcast, single lamp, low angle, flat lay, gallery plinth and more).
+- **Views:** 24 lighting and angle options (late-afternoon sun, overcast, single lamp, low angle, flat lay, gallery plinth and more).
 - **Openings:** noun-phrase brand descriptions now read 'Styled after a ...'.
 - **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v100_showcase.py`.
 
