@@ -3,6 +3,13 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 89",
+   [
+    "Vans, Converse and Land Rover brand styles rewritten so no shoe parts or vehicle parts remain: they apply to any product.",
+    "A 40-image prompt showcase at 1024 and 1408 pixel counts, steps 50, cfg 3.75, no trailing blank line, and 100 random sample prompts."
+   ]
+  ],
+  [
    "Version 88",
    [
     "25 more brand styles rewritten after checking image grids: Rolls-Royce, Mini, Land Rover, Volkswagen, BMW, Mercedes-Benz, Toyota, Tesla, Louis Vuitton, Gucci, Hermes, Ralph Lauren, Lacoste, Tiffany and Co, Lego, Vans, Converse, Pepsi, Guinness, Starbucks, McDonalds, Braun, Nintendo, Rolex, Harley-Davidson.",

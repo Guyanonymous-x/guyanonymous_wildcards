@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+F01	brand vans	4:5	912x1152	1264x1568	938	8900	ok 
+F02	brand converse	3:2	1248x848	1728x1152	908	8911	ok 
+F03	brand land_rover	1:1	1024x1024	1408x1408	805	8922	ok 
+F04	brand vans named	4:5	912x1152	1264x1568	913	8933	ok 
+F05	brand converse named	3:2	1248x848	1728x1152	919	8944	ok 
+F06	brand land_rover named	2:3	832x1264	1152x1728	809	8955	ok 
+F07	brand vans	1:1	1024x1024	1408x1408	924	8966	ok 
+F08	brand converse	3:2	1248x848	1728x1152	920	8977	ok 
+F09	brand land_rover	4:5	912x1152	1264x1568	820	8988	ok 
+F10	brand vans named	3:2	1248x848	1728x1152	900	8999	ok 
+F11	brand converse named	1:1	1024x1024	1408x1408	919	9010	ok 
+F12	brand land_rover named	4:5	912x1152	1264x1568	800	9021	ok 
+F13	brand vans	3:2	1248x848	1728x1152	931	9032	ok 
+F14	brand converse	2:3	832x1264	1152x1728	916	9043	ok 
+F15	brand land_rover	1:1	1024x1024	1408x1408	790	9054	ok 
+F16	brand vans named	3:2	1248x848	1728x1152	921	9065	ok 
+F17	brand converse named	4:5	912x1152	1264x1568	904	9076	ok 
+F18	brand land_rover named	3:2	1248x848	1728x1152	802	9087	ok 
+F19	brand vans	1:1	1024x1024	1408x1408	944	9098	ok 
+F20	brand converse	4:5	912x1152	1264x1568	886	9109	ok 
+F21	brand land_rover	3:2	1248x848	1728x1152	841	9120	ok 
+F22	brand vans named	2:3	832x1264	1152x1728	911	9131	ok 
+F23	brand converse named	1:1	1024x1024	1408x1408	896	9142	ok 
+F24	brand land_rover named	3:2	1248x848	1728x1152	810	9153	ok 
+F25	brand vans	4:5	912x1152	1264x1568	916	9164	ok 
+F26	brand converse	3:2	1248x848	1728x1152	911	9175	ok 
+F27	brand land_rover	1:1	1024x1024	1408x1408	827	9186	ok 
+F28	brand vans named	4:5	912x1152	1264x1568	917	9197	ok 
+F29	brand converse named	3:2	1248x848	1728x1152	899	9208	ok 
+F30	brand land_rover named	2:3	832x1264	1152x1728	794	9219	ok 
+F31	brand vans	1:1	1024x1024	1408x1408	958	9230	ok 
+F32	brand converse	3:2	1248x848	1728x1152	894	9241	ok 
+F33	brand land_rover	4:5	912x1152	1264x1568	811	9252	ok 
+F34	brand vans named	3:2	1248x848	1728x1152	901	9263	ok 
+F35	brand converse named	1:1	1024x1024	1408x1408	903	9274	ok 
+F36	brand land_rover named	4:5	912x1152	1264x1568	795	9285	ok 
+F37	brand vans	3:2	1248x848	1728x1152	958	9296	ok 
+F38	brand converse	2:3	832x1264	1152x1728	902	9307	ok 
+F39	brand land_rover	1:1	1024x1024	1408x1408	811	9318	ok 
+F40	brand vans named	3:2	1248x848	1728x1152	907	9329	ok 
