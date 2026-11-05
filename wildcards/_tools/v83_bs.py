@@ -49,23 +49,27 @@ SUBJ = {
 GROUP_SUBJ = {'cars_eu': 'vehicle', 'cars_world': 'vehicle', 'transport': 'transport', 'fashion_eu': 'fashion', 'fashion_world': 'fashion', 'tech': 'tech', 'home': 'home', 'media': 'media', 'packaging': 'packaging', 'heritage': 'heritage', 'modern_misc': 'modern_misc'}
 VIEW = P('shown in a clean studio photograph with soft even light; shown in natural daylight; shown in soft window light; shown on a plain pale backdrop with a soft shadow; shown in a detailed close-up that fills the frame; shown as a full view of the whole object; shown at a three-quarter angle with a softly blurred background; shown centred with plenty of empty space around it')
 NOTEXT = 'The surfaces are plain and unmarked, and the style is carried by colour, shape, material and pattern alone.'
-TEXTRE = re.compile(r'\b(wordmarks?|logos?|lettering|lettered|capitals?|capital letters|uppercase|lowercase|fine print|tiny text|slogans?|typefaces?|typography|serif|sans-serif|italic|monograms?|signage|text|words?|wording|initials|script|calligraphy|legends?|captions?|titles?|headlines?|names?|numerals?|numbers?|digits?|figures|numbered)\b', re.I)
+TEXTRE = re.compile(r'\b(wordmarks?|logos?|lettering|lettered|capitals?|capital letters|uppercase|lowercase|fine print|tiny text|slogans?|typefaces?|typography|serif|sans-serif|italic|monograms?|signage|text|words?|wording|initials|script|calligraphy|legends?|captions?|titles?|headlines?|names?|numerals?|numbers?|digits?|figures|numbered|badges?|tags?|labels?|signs?|banners?|emblems?|crests?|insignia|stamps?|seals?|plaques?|placards?|posters?|billboards?|stickers?|patches)\b', re.I)
 MOOD_START = re.compile(r'^(Photography|Photographs?|Photos?|Imagery|Graphic advertising|Advertising|Advertisements?|Graphics|Campaigns?|Layouts?|Ads?|Print ads?|Posters?|Shop|Stores?|Interiors?|Storefronts?|Settings?|Scenes?|Film|Films|Cinematography|Lighting|Mood)\b')
 MOOD_ANY = re.compile(r'\b(photograph\w*|backdrops?|campaigns?|advertis\w*|storefronts?|cinematic|camera|shot low|photos?|ramps?|graffiti|landscapes?|interiors?|showrooms?|skate-park|street-level|pubs?|cafes?|kitchens?|crowds?|models?|city streets?|shopfronts?|scenes?|settings?|rooms?)\b', re.I)
+def clean_sents(sents):
+    out = []
+    for x in sents:
+        if TEXTRE.search(x):
+            allp = re.split(r',\s+', x.rstrip('.'))
+            if TEXTRE.search(allp[0]): continue
+            parts = [q for q in allp if not TEXTRE.search(q)]
+            if len(' '.join(parts).split()) < 5: continue
+            x = ', '.join(parts) + '.'
+            x = re.sub(r',\s+(and|or)\s*\.$', '.', x)
+        out.append(x)
+    return out
 def split_mood(t):
     sents = re.split(r'(?<=[.])\s+', t.strip()); obj = []; mood = []
     for j, x in enumerate(sents):
         (mood if j and ( (MOOD_START.match(x) or MOOD_ANY.search(x))) else obj).append(x)
-    if len(' '.join(obj).split()) < 45: return t.strip(), ''
-    keep = []
-    for x in obj:
-        if TEXTRE.search(x):
-            parts = re.split(r',\s+', x.rstrip('.')); hit = [i for i, q in enumerate(parts) if TEXTRE.search(q)]; first = hit[0]
-            if first >= 1 and hit == list(range(first, len(parts))) and len(' '.join(parts[:first]).split()) >= 5: x = ', '.join(parts[:first]) + '.'
-            else: continue
-        keep.append(x)
-    if len(' '.join(keep).split()) >= 30: obj = keep
-    return ' '.join(obj), ' '.join(mood)
+    if len(' '.join(obj).split()) < 45: return ' '.join(clean_sents(sents)).strip(), ''
+    return ' '.join(clean_sents(obj)), ' '.join(mood)
 def build(final=None):
     B = load(); G = {}
     B = [(x[0], x[1], x[2], x[3], split_mood(x[4])[0], x[5], split_mood(x[4])[1]) for x in B]
@@ -73,22 +77,26 @@ def build(final=None):
     NAT = re.compile(r'^(American|British|English|Finnish|Swedish|Danish|Norwegian|Italian|French|German|Dutch|Swiss|Japanese|Chinese|Korean|Indian|Mexican|Russian|Soviet|Scandinavian|Nordic|Victorian|Edwardian|Georgian|Art|Bauhaus|Mid|Hungarian|Czech|Polish|Turkish|Persian|Iranian|Ottoman|Islamic|African|Brazilian|Peruvian|Australian|Canadian|Thai|Vietnamese|Indonesian|Balinese|Spanish|Portuguese|Greek|Irish|Scottish|Welsh|Austrian|Belgian)\b')
     LOW = set(w for x in B for w in re.findall(r'[a-z]+', x[4]))
     def unnamed(n, t):
-        body = re.sub(r'^In the style of [^,]*, ', '', t)
-        if not NAT.match(body): body = body[0].lower() + body[1:]
+        body = t[len('In the style of ' + n):].lstrip(' ,.') if t.startswith('In the style of ' + n) else re.sub(r'^In the style of [^,.]*[,.]\s+', '', t)
+        HEADS = re.match(r'^(Palette|Materials?|Surfaces|Forms?|Shapes?|Colou?rs?|Finishes|Details)\b', body)
+        if not NAT.match(body) and not HEADS: body = body[0].lower() + body[1:]
         for part in sorted({n} | {p for p in re.split(r'[ -]+', n) if len(p) > 3}, key=len, reverse=True):
             if part != n and (part.lower() in LOW or NAT.match(part)): continue
             body = re.sub(r'(?<![A-Za-z])' + re.escape(part) + r'(?![A-Za-z])', 'this brand', body)
         body = re.sub(r' this brand (red|blue|green|yellow|orange|pink|gold|brown|black|white)', r' \1', body)
-        return 'Styled in a design language of ' + body.rstrip() + ' ' + NOTEXT + ' This styling applies to the object itself and not to its surroundings.'
+        body = body.rstrip(' ,;')
+        if not body.endswith('.'): body += '.'
+        return ('Styled in a design language. ' if HEADS else 'Styled in a design language of ') + body + ' ' + NOTEXT + ' This styling applies to the object itself and not to its surroundings.'
     U = {x[0]: unnamed(x[0], x[4]) for x in B}
     # plain name = style only (brand name not included), _named = starts with 'In the style of <Brand>,'
     for name, region, era, ind, t, grp in B:
         G['maker_bs_' + slug(name)] = [U[name]]
         G['maker_bs_' + slug(name) + '_named'] = [U[name]]  # same text: the file name carries the brand, the prompt does not
-        if MOOD[name]: G['maker_bs_' + slug(name) + '_mood'] = [MOOD[name]]
+        _m = ' '.join(clean_sents(re.split(r'(?<=[.])\s+', MOOD[name].strip()))) if MOOD[name] else ''
+        if _m: G['maker_bs_' + slug(name) + '_mood'] = [_m]
     def agg(key, rows):
         G['maker_brand_style' + key] = [U[x[0]] for x in rows]
-        G['maker_brand_style' + key + '_named'] = [x[4] for x in rows]
+        G['maker_brand_style' + key + '_named'] = [U[x[0]] for x in rows]
     agg('', B)
     for grp in sorted({x[5] for x in B}): agg('_' + grp, [x for x in B if x[5] == grp])
     for r in sorted({x[1] for x in B}): agg('_region_' + slug(r), [x for x in B if x[1] == r])
@@ -102,11 +110,16 @@ def build(final=None):
             old = [l.strip() for l in open(fn, encoding='utf8') if l.strip() and '__maker_bs_' not in l]
             G['maker_%s_style' % slug(name)] = old + ['__maker_bs_%s__' % slug(name)]
     for name, region, era, ind, t, grp in B:
-        body = re.sub(r'^In the style of [^,]*, ', '', t); w = body.split()[:26]; cut = ' '.join(w)
-        if ',' in cut and len(w) >= 26: cut = cut[:cut.rfind(',')]
+        body = t[len('In the style of ' + name):].lstrip(' ,.') if t.startswith('In the style of ' + name) else re.sub(r'^In the style of [^,.]*[,.]\s+', '', t); w = body.split()[:40]; cut = ' '.join(w)
+        if len(w) >= 40:
+            k = cut.rfind('.')
+            if k > 90: cut = cut[:k + 1]
+            else:
+                w = w[:26]; cut = ' '.join(w)
+                if ',' in cut: cut = cut[:cut.rfind(',')]
         cut = cut.rstrip(' ,.'); sj = '__bs_subject_%s__' % GROUP_SUBJ.get(grp, 'any')
-        G['bs_cell_' + slug(name)] = ['%s in a style of %s' % (sj, unnamed(name, cut)[len('Styled in a design language of '):])]
-        G['bs_cell_' + slug(name) + '_named'] = ['%s in the style of %s, %s' % (sj, name, cut)]
+        _u = unnamed(name, cut); G['bs_cell_' + slug(name)] = ['%s %s' % (sj, _u[0].lower() + _u[1:])]
+        G['bs_cell_' + slug(name) + '_named'] = list(G['bs_cell_' + slug(name)])
     BADSUBJ = re.compile(r'\b(person|people|woman|women|man|men|friends|adventurer|hero|characters?|crowd|child|children|riders?|driver|passengers?|interior|cabin|lobby|platform|stadium|landscape|street|shop front|storefront|station|entrance|room|rooms|runway|cafe|scene|parked|port|harbour|hangar|garage|showroom|kitchen interior|stands|field)\b', re.I)
     for k, v in SUBJ.items(): G['bs_subject_' + k] = P('; '.join(x.strip() for x in v.split(';') if x.strip() and not BADSUBJ.search(x)))
     BUILD = 'a small kiosk with a canopy; a two-storey house seen from the front; a market stall; a gatehouse with a pitched roof; a small chapel; a lighthouse; a corner shop building; a garden pavilion; a tall narrow townhouse; a roadside fuel-station canopy; a railway halt building; a boathouse; a barn; a bandstand; a small museum building; a bus shelter'

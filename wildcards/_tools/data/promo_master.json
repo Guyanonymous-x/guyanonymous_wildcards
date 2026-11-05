@@ -3,6 +3,15 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 98",
+   [
+    "The 746 bs_cell_*_named files no longer say 'in the style of <Brand>'; they carry the same design-language text as the plain cell files (the file name carries the brand).",
+    "Brand style descriptions drop clauses mentioning badges, tags, labels, signs, banners, emblems, crests, stamps and similar, so no undefined text or marks appear.",
+    "About 6,000 unquoted phrases such as the words Steamy Car Windows in badge, medal, pin and insignia files are now quoted.",
+    "A 40-image prompt showcase at 1024 and 1408 pixel counts, steps 50, cfg 3.75, no trailing blank line, and 100 random sample prompts."
+   ]
+  ],
+  [
    "Version 97",
    [
     "Library-wide text audit (STANDING_RULES section 0): about 63,000 lines in 2,587 files mentioned signs, posters, banners, graffiti, labels, tags, badges, logos, lettering, inscriptions or slogans without saying what text appears, so the image model invented words. They now use plain visual nouns (lit panel, picture panel, cloth pennant, spray-painted shapes, tab, patch, motif, stitched border).",
