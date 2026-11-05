@@ -21,3 +21,16 @@ Source: MOSS_IMAGE_NOTES (our tests + OpenMOSS technical report). The model (tex
 - Git: cloud clone, push main directly, release/vNN branches, never force-push/reset main. Commit trailers: Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com> and Claude-Session line.
 - Zips over 30 MB go via SendUserFile only; small files also to the user's !Releases\vNN folder.
 - Short answers, start work in the first reply, tell the user what was checked.
+
+- Test prompts for the user are always given in the showcase line format: --prompt "<lora:MOSSwSh4rpD3tails:0.5> ..." --steps 50 --cfg_scale 3.75 --seed N --width W --height H (in the reply and in the file).
+
+- Text on products is fine and wanted: define it in quotes, one line each with position, using the random name system (name_brand, name_type_<group>, name_variant_<group>, name_weight_<group>); do not use the "plain and unmarked" sentence when text is meant to appear.
+
+- Brand styles are about design mentality and styling trends, never about one object type: no shoe, bag, car etc. words in a style unless the brand is only ever that object; describe linework, curves, proportions, materials and palette that can apply to any object.
+
+- FEATURE-GRID SHOWCASE (user 2026-11-04, a SEPARATE showcase set, not part of the normal 40-prompt release showcase): 2 to 3 prompts for EACH distinct body feature of men and women (including hair), each prompt a grid of 4 to 9 cells showing the variability the wildcard system gives that feature, with nothing else changing between cells and the feature dominating the frame (for example nose: 2-3 grid prompts of various noses). Covers every distinct body part, including clinical three-quarter views of genitals, breasts, buttocks and anuses, and expressions (a range of expressions, including those from the adult components of the system). Not every variant needs showing, only 4 to 9 per prompt. Adults only, all existing adult rules apply. Describe the grid physically (rows and columns, each cell a separate view on a plain background, evenly spaced). Pull cell content from the feature wildcards, not hand-written.
+- BRAND-STYLE PROMPT STRUCTURE (user 2026-11-04, supported by the technical report: training captions run subject, then environment, then style): put the object first and tie the style to it ("A wallet done in a design language of ..."), keep the style clause short, repeat the object once at the end; no "The subject is X" tail. Brand marks are an optional add-on (__bs_mark__) built from random shape, material, outline, size, place plus a fake logo and name from the name system.
+
+- The body-feature grid showcase files are NEVER committed or pushed to GitHub (user 2026-11-04): deliver them in chat and to the local !Releases folder only, keep them out of the repo, release branches and the library zip.
+
+- SAMPLE vs SHOWCASE FILES (user 2026-11-04): in every version zip/release, the sample prompt files must be samples of EVERYTHING the package can do (spread across all prompt families and entry points, not just this version's additions). The showcase files focus on version-specific additions and improvements. Build samples from all entry points, weighted so every major family appears.

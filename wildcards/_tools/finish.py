@@ -20,10 +20,24 @@ def chk(d):
 b1, b2 = chk(FINAL), chk(AOO); print('unresolved library', len(b1), b1[:3], 'aoo', len(b2), b2[:3])
 if b1 or b2: sys.exit('unresolved references')
 rng = random.Random(N * 101); S = []
-for label, tpl, n in M.SAMPLES: S += [(label, tpl)] * n
+# samples cover EVERYTHING the package can do: one entry point from every family (prefix), adult only as L1, plus the version staples
+eps = sorted({l.strip() for fn in glob.glob(FINAL + '/v*_entry_points.txt') for l in open(fn, encoding='utf8') if l.strip()})
+eps = [e for e in eps if e in files]
+fam = collections.defaultdict(list)
+for e in eps: fam[e.split('_')[0]].append(e)
+for p in sorted(fam):
+    if p == 'adult': continue
+    c = [e for e in fam[p] if e.endswith('_prompt')] or fam[p]
+    S.append(('family ' + p + ': ' + (e := rng.choice(c)), '__%s__' % e))
+S += [('adult L1', '__adult_l1_full_prompt__')] * 3
+for label, tpl, n in M.SAMPLES:
+    if label != 'adult L1': S.append((label, tpl))
 rng.shuffle(S); rows = []
 for a, t in S:
     rows.append((a, ' '.join(clean(expand(files, t, rng)).split())))
+k = 0
+while len(rows) < 100:
+    rows.append(('brand style any', ' '.join(clean(expand(files, '__bs_prompt__', rng)).split()))); k += 1
 rows = rows[:100]
 o = f'/mnt/user-data/outputs/Guyanonymous_Wildcards_v{N}_sample_prompts'
 open(o + '.txt', 'w').write('\n'.join(r[1] for r in rows)); open(o + '_labelled.tsv', 'w').write('label\tprompt\n' + '\n'.join(f'{a}\t{b}' for a, b in rows))

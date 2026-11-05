@@ -30,7 +30,7 @@ def load():
     ES = {}
     for fn in (sorted(glob.glob(HERE + '/data/v83_es/out_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out2_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out3_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out4_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out5_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out6_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out7_*.py')) + sorted(glob.glob(HERE + '/data/v83_es/out8_*.py'))):
         ns = {}; exec(open(fn, encoding='utf8').read(), ns)
-        for name, region, era, ind, text in ns['B']: ES[slug(name)] = clean(text)
+        for name, region, era, ind, text in ns['B']: ES[slug(name)] = re.sub(r'@@([a-z0-9_]+)@@', r'__\1__', clean(re.sub(r'__([a-z0-9_]+)__', r'@@\1@@', text)))
     return [(n, r, e, i, ES.get(slug(n), t), g) for n, r, e, i, t, g in B]
 
 def P(x): return [i.strip() for i in x.split(';') if i.strip()]
@@ -52,6 +52,12 @@ NOTEXT = 'The surfaces are plain and unmarked, and the style is carried by colou
 TEXTRE = re.compile(r'\b(wordmarks?|logos?|lettering|lettered|capitals?|capital letters|uppercase|lowercase|fine print|tiny text|slogans?|typefaces?|typography|serif|sans-serif|italic|monograms?|signage|text|words?|wording|initials|script|calligraphy|legends?|captions?|titles?|headlines?|names?|numerals?|numbers?|digits?|figures|numbered|badges?|tags?|labels?|signs?|banners?|emblems?|crests?|insignia|stamps?|seals?|plaques?|placards?|posters?|billboards?|stickers?|patches)\b', re.I)
 MOOD_START = re.compile(r'^(Photography|Photographs?|Photos?|Imagery|Graphic advertising|Advertising|Advertisements?|Graphics|Campaigns?|Layouts?|Ads?|Print ads?|Posters?|Shop|Stores?|Interiors?|Storefronts?|Settings?|Scenes?|Film|Films|Cinematography|Lighting|Mood)\b')
 MOOD_ANY = re.compile(r'\b(photograph\w*|backdrops?|campaigns?|advertis\w*|storefronts?|cinematic|camera|shot low|photos?|ramps?|graffiti|landscapes?|interiors?|showrooms?|skate-park|street-level|pubs?|cafes?|kitchens?|crowds?|models?|city streets?|shopfronts?|scenes?|settings?|rooms?)\b', re.I)
+OBJRE = re.compile(r"\b(shoes?|sneakers?|trainers?|boots?|soles?|laces?|eyelets?|toe caps?|heels?|cars?|coupes?|saloons?|sedans?|estates?|hatchbacks?|vehicles?|lorr(?:y|ies)|trucks?|vans?|buses|bus|trams?|trains?|locomotives?|carriages?|aircraft|aeroplanes?|airliners?|jets?|ships?|boats?|yachts?|bonnets?|grilles?|bumpers?|headlamps?|headlights?|wheels?|tyres?|tires?|fenders?|wings|tail fins?|dashboards?|cabins?|engines?|bicycles?|bikes?|motorcycles?|scooters?|handbags?|purses?|wallets?|watch(?:es)?|cameras?|lenses|radios?|televisions?|computers?|keyboards?|telephones?|phones?|bottles?|cans?|packets?|jars?|tins?|cartons?|chairs?|sofas?|tables?|desks?|lamps?|kettles?|toasters?|stores?|shops?|shopfronts?|storefronts?|forecourts?|pumps?|petrol|stations?|terminals?|restaurants?|cafes?|kitchens?|jackets?|coats?|dresses|skirts?|trousers|jeans|shirts?|t-shirts?|knitwear|hats?|caps?|gloves?|scarves|scarf|bags?|backpacks?|rucksacks?|luggage|suitcases?|toys?|dolls?|figures?|consoles?|controllers?|joysticks?|typewriters?|records?|cameras?|film)\b", re.I)
+def obj_clean(body):
+    sents = re.split(r'(?<=[.])\s+', body.strip())
+    keep = [x for x in sents if not OBJRE.search(x)]
+    if len(' '.join(keep).split()) >= 30: return ' '.join(keep), True
+    return body, False
 def clean_sents(sents):
     out = []
     for x in sents:
@@ -78,6 +84,7 @@ def build(final=None):
     LOW = set(w for x in B for w in re.findall(r'[a-z]+', x[4]))
     def unnamed(n, t):
         body = t[len('In the style of ' + n):].lstrip(' ,.') if t.startswith('In the style of ' + n) else re.sub(r'^In the style of [^,.]*[,.]\s+', '', t)
+        body = obj_clean(body)[0]
         HEADS = re.match(r'^(Palette|Materials?|Surfaces|Forms?|Shapes?|Colou?rs?|Finishes|Details)\b', body)
         if not NAT.match(body) and not HEADS: body = body[0].lower() + body[1:]
         for part in sorted({n} | {p for p in re.split(r'[ -]+', n) if len(p) > 3}, key=len, reverse=True):
@@ -87,6 +94,14 @@ def build(final=None):
         body = body.rstrip(' ,;')
         if not body.endswith('.'): body += '.'
         return ('Styled in a design language. ' if HEADS else ('Styled after ' if re.match(r'(?i)(a|an|the)\b', body) else 'Styled in a design language of ')) + body + ' ' + NOTEXT + ' This styling applies to the object itself and not to its surroundings.'
+    def core(n, t):
+        u = unnamed(n, t)
+        heads = u.startswith('Styled in a design language. ')
+        b = u
+        for p in ('Styled in a design language. ', 'Styled after ', 'Styled in a design language of '):
+            if b.startswith(p): b = b[len(p):]; break
+        b = b.replace(' ' + NOTEXT, '').replace(' This styling applies to the object itself and not to its surroundings.', '')
+        return heads, b
     U = {x[0]: unnamed(x[0], x[4]) for x in B}
     # plain name = style only (brand name not included), _named = starts with 'In the style of <Brand>,'
     for name, region, era, ind, t, grp in B:
@@ -94,6 +109,8 @@ def build(final=None):
         G['maker_bs_' + slug(name) + '_named'] = [U[name]]  # same text: the file name carries the brand, the prompt does not
         _m = ' '.join(clean_sents(re.split(r'(?<=[.])\s+', MOOD[name].strip()))) if MOOD[name] else ''
         if _m: G['maker_bs_' + slug(name) + '_mood'] = [_m]
+    MK = 'The style is carried by colour, shape, material and line work.'
+    G['maker_brand_style_marked'] = [U[x[0]].replace(NOTEXT, MK) for x in B]
     def agg(key, rows):
         G['maker_brand_style' + key] = [U[x[0]] for x in rows]
         G['maker_brand_style' + key + '_named'] = [U[x[0]] for x in rows]
@@ -110,7 +127,7 @@ def build(final=None):
             old = [l.strip() for l in open(fn, encoding='utf8') if l.strip() and '__maker_bs_' not in l]
             G['maker_%s_style' % slug(name)] = old + ['__maker_bs_%s__' % slug(name)]
     for name, region, era, ind, t, grp in B:
-        body = t[len('In the style of ' + name):].lstrip(' ,.') if t.startswith('In the style of ' + name) else re.sub(r'^In the style of [^,.]*[,.]\s+', '', t); w = body.split()[:40]; cut = ' '.join(w)
+        body = t[len('In the style of ' + name):].lstrip(' ,.') if t.startswith('In the style of ' + name) else re.sub(r'^In the style of [^,.]*[,.]\s+', '', t); body = obj_clean(body)[0]; w = body.split()[:40]; cut = ' '.join(w)
         if len(w) >= 40:
             k = cut.rfind('.')
             if k > 90: cut = cut[:k + 1]
@@ -120,25 +137,58 @@ def build(final=None):
         cut = cut.rstrip(' ,.'); sj = '__bs_subject_%s__' % GROUP_SUBJ.get(grp, 'any')
         _u = unnamed(name, cut); G['bs_cell_' + slug(name)] = ['%s %s' % (sj, _u[0].lower() + _u[1:])]
         G['bs_cell_' + slug(name) + '_named'] = list(G['bs_cell_' + slug(name)])
-    BADSUBJ = re.compile(r'\b(person|people|woman|women|man|men|friends|adventurer|hero|characters?|crowd|child|children|riders?|driver|passengers?|interior|cabin|lobby|platform|stadium|landscape|street|shop front|storefront|station|entrance|room|rooms|runway|cafe|scene|parked|port|harbour|hangar|garage|showroom|kitchen interior|stands|field)\b', re.I)
+    BADSUBJ = re.compile(r'\b(person|people|woman|women|man|men|friends|adventurer|hero|characters?|crowd|child|children|riders?|driver|passengers?|interior|cabin|lobby|platform|stadium|landscape|street|shop front|storefront|station|entrance|room|rooms|runway|cafe|scene|parked|port|harbour|hangar|garage|showroom|kitchen interior|stands|field|kiosk|stall|shop|fuel|railway|museum|shelter|postal|poster|cover|sleeve|page|sign|cinema|theatre|market|station)\b', re.I)
     for k, v in SUBJ.items(): G['bs_subject_' + k] = P('; '.join(x.strip() for x in v.split(';') if x.strip() and not BADSUBJ.search(x)))
-    BUILD = 'a small kiosk with a canopy; a two-storey house seen from the front; a market stall; a gatehouse with a pitched roof; a small chapel; a lighthouse; a corner shop building; a garden pavilion; a tall narrow townhouse; a roadside fuel-station canopy; a railway halt building; a boathouse; a barn; a bandstand; a small museum building; a bus shelter'
+    BUILD = 'a windmill; a two-storey house seen from the front; a stone cottage; a gatehouse with a pitched roof; a small chapel; a lighthouse; a clock tower; a garden pavilion; a tall narrow townhouse; a greenhouse; a lakeside cabin; a boathouse; a barn; a bandstand; a dovecote; a bridge-keeper\'s lodge'
     ACC = 'a leather belt; a pair of sunglasses; a wallet; a hat; a pair of gloves; a scarf; a tote bag; an umbrella; a backpack; a pair of earrings; a wristwatch on a cushion; a keyring; a phone case; a water bottle; a lunch box; a pair of socks'
     VEH = 'a made-up two-door coupe; an imaginary delivery van; a fictional motorcycle; a made-up bus; an imaginary tram; a fictional bicycle; a made-up small aircraft; an imaginary boat; a fictional tractor; a made-up sports car; an imaginary scooter; a fictional lorry'
     G['bs_subject_building'] = P(BUILD); G['bs_subject_accessory'] = P(ACC); G['bs_subject_madeup_vehicle'] = P(VEH)
     G['bs_subject_any'] = P('; '.join(x.strip() for x in SUBJ['any'].split(';') if x.strip() and not BADSUBJ.search(x)) + '; ' + BUILD + '; ' + ACC + '; ' + VEH)
     G['bs_view'] = VIEW
     grps = sorted({x[5] for x in B})
+    import random as _rnd
+    def noun(sj): return 'the ' + re.sub(r'^(a|an)\s+', '', re.sub(r' (on|in|at|beside|against|with|seen|leaning|standing|from|set) .*$', '', sj))
+    def Cap(x): return x[0].upper() + x[1:]
+    def objline(name, t, sj, mark=False):
+        heads, body = core(name, t)
+        head = Cap(sj) + (' done in a design language. ' if heads else ' done in a design language of ') + body
+        return head + (' __bs_mark__' if mark else '') + ' Only that design language is used for %s, in a plain neutral setting, __bs_view__.' % noun(sj)
+    POOL = {k: [x for x in G['bs_subject_' + k]] for k in list(SUBJ) + ['building', 'accessory', 'madeup_vehicle']}
+    POOL['mark'] = [x for x in G['bs_subject_any'] if x not in set(BUILD.split('; ')) | set(VEH.split('; '))]
+    NEUTRAL = {x[0] for x in B if obj_clean(re.sub(r'^In the style of [^,.]*[,.]\s+', '', x[4]))[1]}
+    print('object-neutral styles', len(NEUTRAL))
     for g in grps:
-        sk = GROUP_SUBJ.get(g, 'any')
-        for sfx in ('', '_named'):
-            G['bs_%s_prompt%s' % (g, sfx)] = ['__maker_brand_style_%s%s__ The subject is __bs_subject_%s__, with the object itself designed in that style, the setting kept plain and neutral, and __bs_view__.' % (g, sfx, sk)]
+        L = []
+        for name, region, era, ind, t, grp in B:
+            if grp != g: continue
+            if GROUP_SUBJ.get(grp, 'any') == 'any' and name not in NEUTRAL: continue
+            pool = POOL[GROUP_SUBJ.get(grp, 'any')]; r = _rnd.Random(slug(name)); k = min(6, len(pool))
+            L += [objline(name, t, sj) for sj in r.sample(pool, k)]
+        G['bs_obj_' + g] = L
     for kind in ('building', 'accessory', 'madeup_vehicle'):
-        for sfx in ('', '_named'):
-            G['bs_%s_prompt%s' % (kind, sfx)] = ['__maker_brand_style%s__ The subject is __bs_subject_%s__, with the object itself designed in that style, the setting kept plain and neutral, and __bs_view__.' % (sfx, kind)]
+        L = []
+        for name, region, era, ind, t, grp in B:
+            if name not in NEUTRAL: continue
+            r = _rnd.Random(slug(name) + kind); L += [objline(name, t, sj) for sj in r.sample(POOL[kind], 3)]
+        G['bs_objk_' + kind] = L
+    L = []
+    for name, region, era, ind, t, grp in B:
+        if name not in NEUTRAL: continue
+        r = _rnd.Random(slug(name) + 'mk'); L += [objline(name, t, sj, True) for sj in r.sample(POOL['mark'], 3)]
+    G['bs_objm'] = L
+    for name, region, era, ind, t, grp in B:
+        if slug(name) == 'converse':
+            r = _rnd.Random('conv'); pool = POOL['mark']
+            G['bs_obj_converse'] = [objline(name, t, sj) for sj in r.sample(pool, min(12, len(pool)))]
+            G['bs_objm_converse'] = [objline(name, t, sj, True).replace('__bs_mark__', '__maker_bs_converse_mark__') for sj in r.sample(pool, min(12, len(pool)))]
+    for g in grps:
+        for sfx in ('', '_named'): G['bs_%s_prompt%s' % (g, sfx)] = ['__bs_obj_%s__' % g]
+    for kind in ('building', 'accessory', 'madeup_vehicle'):
+        for sfx in ('', '_named'): G['bs_%s_prompt%s' % (kind, sfx)] = ['__bs_objk_%s__' % kind]
+    G['bs_marked_prompt'] = ['__bs_objm__']
     G['bs_prompt'] = ['__bs_%s_prompt__' % g for g in grps] + ['__bs_%s_prompt__' % k for k in ('building', 'accessory', 'madeup_vehicle')]
     G['bs_prompt_named'] = ['__bs_%s_prompt_named__' % g for g in grps] + ['__bs_%s_prompt_named__' % k for k in ('building', 'accessory', 'madeup_vehicle')]
-    G['v83_bs_entry_points'] = ['bs_prompt', 'bs_prompt_named', 'maker_brand_style', 'maker_brand_style_named'] + ['bs_%s_prompt' % g for g in grps] + ['bs_building_prompt', 'bs_accessory_prompt', 'bs_madeup_vehicle_prompt', 'bs_building_prompt_named', 'bs_accessory_prompt_named', 'bs_madeup_vehicle_prompt_named']
+    G['v83_bs_entry_points'] = ['bs_prompt', 'bs_prompt_named', 'bs_marked_prompt', 'maker_brand_style', 'maker_brand_style_named'] + ['bs_%s_prompt' % g for g in grps] + ['bs_building_prompt', 'bs_accessory_prompt', 'bs_madeup_vehicle_prompt', 'bs_building_prompt_named', 'bs_accessory_prompt_named', 'bs_madeup_vehicle_prompt_named']
     return G
 if __name__ == '__main__':
     G = build(); print(len(G), len(load()))
