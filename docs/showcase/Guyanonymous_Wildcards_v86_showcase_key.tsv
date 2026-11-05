@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+C01	pinback slogans	4:5	912x1152	1264x1568	273	8600	ok 
+C02	pinback music	3:2	1248x848	1728x1152	340	8611	ok 
+C03	pinback fandom	1:1	1024x1024	1408x1408	329	8622	ok 
+C04	pinback cause	4:5	912x1152	1264x1568	283	8633	ok 
+C05	pinback identity	3:2	1248x848	1728x1152	302	8644	ok 
+C06	pinback event	2:3	832x1264	1152x1728	244	8655	ok 
+C07	pinback adult	1:1	1024x1024	1408x1408	261	8666	ok 
+C08	pinback designs	3:2	1248x848	1728x1152	281	8677	ok 
+C09	pinback slogans	4:5	912x1152	1264x1568	278	8688	ok 
+C10	pinback music	3:2	1248x848	1728x1152	266	8699	ok 
+C11	insignia police	1:1	1024x1024	1408x1408	222	8710	ok 
+C12	insignia medal_police	4:5	912x1152	1264x1568	303	8721	ok 
+C13	insignia pin_police	3:2	1248x848	1728x1152	315	8732	ok 
+C14	insignia fire	2:3	832x1264	1152x1728	171	8743	ok 
+C15	insignia medal_fire	1:1	1024x1024	1408x1408	303	8754	ok 
+C16	insignia pin_fire	3:2	1248x848	1728x1152	319	8765	ok 
+C17	insignia ambulance	4:5	912x1152	1264x1568	199	8776	ok 
+C18	insignia medal_ambulance	3:2	1248x848	1728x1152	292	8787	ok 
+C19	insignia pin_ambulance	1:1	1024x1024	1408x1408	350	8798	ok 
+C20	insignia military	4:5	912x1152	1264x1568	159	8809	ok 
+C21	insignia medal_military	3:2	1248x848	1728x1152	339	8820	ok 
+C22	insignia pin_military	2:3	832x1264	1152x1728	320	8831	ok 
+C23	insignia badge_ambulance	1:1	1024x1024	1408x1408	345	8842	ok 
+C24	insignia badge_fire	3:2	1248x848	1728x1152	230	8853	ok 
+C25	achievement meritbadge dating	4:5	912x1152	1264x1568	308	8864	ok 
+C26	achievement meritbadge kink	3:2	1248x848	1728x1152	321	8875	ok 
+C27	achievement meritbadge sex	1:1	1024x1024	1408x1408	319	8886	ok 
+C28	achievement meritbadge fetish	4:5	912x1152	1264x1568	311	8897	ok 
+C29	achievement medal dating	3:2	1248x848	1728x1152	278	8908	ok 
+C30	achievement medal kink	2:3	832x1264	1152x1728	301	8919	ok 
+C31	achievement medal sex	1:1	1024x1024	1408x1408	286	8930	ok 
+C32	achievement medal fetish	3:2	1248x848	1728x1152	314	8941	ok 
+C33	achievement pin dating	4:5	912x1152	1264x1568	361	8952	ok 
+C34	achievement pin kink	3:2	1248x848	1728x1152	294	8963	ok 
+C35	L4 kilts	1:1	1024x1024	1408x1408	388	8974	ok 
+C36	L5 kilts	4:5	912x1152	1264x1568	356	8985	ok 
+C37	L6 kilts	3:2	1248x848	1728x1152	394	8996	ok 
+C38	L1 pony	2:3	832x1264	1152x1728	373	9007	ok 
+C39	L3 pony	1:1	1024x1024	1408x1408	334	9018	ok 
+C40	L5 torn	3:2	1248x848	1728x1152	343	9029	ok 

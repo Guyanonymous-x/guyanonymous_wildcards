@@ -1,0 +1,6 @@
+v86 index
+Pinback buttons: pinback_prompt and eight theme files (slogans, music, fandom, cause, identity, event, adult, designs). Each line gives size, border, print finish, colour, picture, words in quotes-free "with the words X" form, and safety-pin back.
+Insignia: police, fire, ambulance, military with invented towns, units and names; as patches (insignia_<service>), medals, enamel pins and badges.
+Adult achievements: acc_<meritbadge|medal|pin|badge>_adult_<dating|kink|sex|fetish> and prompts.
+Adult gear: adult_lN_kilts (L4-L6), adult_lN_pony and adult_lN_torn (L1-L6), adult_l6_ejaculate_extras.
+Rules kept: adults only, consensual, no urine or feces, no knife or needle use, no school or student wording, jargon described in plain words.
