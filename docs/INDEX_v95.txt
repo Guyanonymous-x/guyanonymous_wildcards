@@ -1,0 +1,3 @@
+v95 index
+Brand styles describe the object, not a logo. Cause found from the image metadata of the v92 showcase images: the user's setup puts "Sh4rpD3tails." before the prompt, and brand descriptions mentioned wordmarks, labels and lettering without saying what they read, so the model printed the trigger word, and in the named versions the real brand name.
+Fixes: text clauses removed from the style descriptions; no 'In the style of <Brand>' in any prompt (the file name carries the brand); no large logo; any label or tag is small and its only words are an invented name from name_brand_invented.

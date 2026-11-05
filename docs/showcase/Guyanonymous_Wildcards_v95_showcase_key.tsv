@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+J01	brand windows_95_era_interface building	4:5	912x1152	1264x1568	1097	9500	ok 
+J02	brand grundig accessory named	3:2	1248x848	1728x1152	849	9511	ok 
+J03	brand lotus madeup_vehicle	1:1	1024x1024	1408x1408	1016	9522	ok 
+J04	brand meccano any named	4:5	912x1152	1264x1568	821	9533	ok 
+J05	brand opel fashion	3:2	1248x848	1728x1152	916	9544	ok 
+J06	brand kia home named	2:3	832x1264	1152x1728	944	9555	ok 
+J07	brand nissan tech	1:1	1024x1024	1408x1408	1005	9566	ok 
+J08	brand fujifilm packaging named	3:2	1248x848	1728x1152	909	9577	ok 
+J09	brand lanvin building	4:5	912x1152	1264x1568	1018	9588	ok 
+J10	brand pocky_glico accessory named	3:2	1248x848	1728x1152	1090	9599	ok 
+J11	brand stanley madeup_vehicle	1:1	1024x1024	1408x1408	1082	9610	ok 
+J12	brand parker_pens any named	4:5	912x1152	1264x1568	1080	9621	ok 
+J13	brand technics fashion	3:2	1248x848	1728x1152	1026	9632	ok 
+J14	brand motorola home named	2:3	832x1264	1152x1728	969	9643	ok 
+J15	brand mary_quant tech	1:1	1024x1024	1408x1408	983	9654	ok 
+J16	brand chris_craft packaging named	3:2	1248x848	1728x1152	998	9665	ok 
+J17	brand coleman building	4:5	912x1152	1264x1568	998	9676	ok 
+J18	brand brompton accessory named	3:2	1248x848	1728x1152	981	9687	ok 
+J19	brand fjallraven madeup_vehicle	1:1	1024x1024	1408x1408	927	9698	ok 
+J20	brand steinway_and_sons any named	4:5	912x1152	1264x1568	1117	9709	ok 
+J21	brand lenovo_thinkpad fashion	3:2	1248x848	1728x1152	993	9720	ok 
+J22	brand nikon home named	2:3	832x1264	1152x1728	869	9731	ok 
+J23	brand a_bathing_ape tech	1:1	1024x1024	1408x1408	921	9742	ok 
+J24	brand the_body_shop packaging named	3:2	1248x848	1728x1152	1040	9753	ok 
+J25	brand rickenbacker building	4:5	912x1152	1264x1568	1001	9764	ok 
+J26	brand swissair accessory named	3:2	1248x848	1728x1152	911	9775	ok 
+J27	brand schiaparelli madeup_vehicle	1:1	1024x1024	1408x1408	1308	9786	ok 
+J28	brand xiaomi any named	4:5	912x1152	1264x1568	993	9797	ok 
+J29	brand telefunken fashion	3:2	1248x848	1728x1152	865	9808	ok 
+J30	brand schwinn home named	2:3	832x1264	1152x1728	890	9819	ok 
+J31	brand opinel tech	1:1	1024x1024	1408x1408	962	9830	ok 
+J32	brand bottega_veneta packaging named	3:2	1248x848	1728x1152	1241	9841	ok 
+J33	brand sonos building	4:5	912x1152	1264x1568	1051	9852	ok 
+J34	brand peugeot accessory named	3:2	1248x848	1728x1152	1121	9863	ok 
+J35	brand quiksilver madeup_vehicle	1:1	1024x1024	1408x1408	898	9874	ok 
+J36	brand google_material_design any named	4:5	912x1152	1264x1568	1124	9885	ok 
+J37	brand in_n_out fashion	3:2	1248x848	1728x1152	971	9896	ok 
+J38	brand sas home named	2:3	832x1264	1152x1728	1044	9907	ok 
+J39	brand rip_curl tech	1:1	1024x1024	1408x1408	1061	9918	ok 
+J40	brand selfridges packaging named	3:2	1248x848	1728x1152	1059	9929	ok 

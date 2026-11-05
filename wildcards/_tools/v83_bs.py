@@ -48,7 +48,8 @@ SUBJ = {
 }
 GROUP_SUBJ = {'cars_eu': 'vehicle', 'cars_world': 'vehicle', 'transport': 'transport', 'fashion_eu': 'fashion', 'fashion_world': 'fashion', 'tech': 'tech', 'home': 'home', 'media': 'media', 'packaging': 'packaging', 'heritage': 'heritage', 'modern_misc': 'modern_misc'}
 VIEW = P('shown in a clean studio photograph with soft even light; shown in natural daylight; shown in soft window light; shown on a plain pale backdrop with a soft shadow; shown in a detailed close-up that fills the frame; shown as a full view of the whole object; shown at a three-quarter angle with a softly blurred background; shown centred with plenty of empty space around it')
-NOTEXT = 'Any label, tab, tag, badge, packaging or sign on the object carries no readable words or letters, only the marks, shapes and patterns described.'
+NOTEXT = 'There is no large logo, wordmark or lettering on the main surfaces, because the style is carried by colour, shape, material and pattern. Any label, tag, badge, packaging or sign that appears is small and discreet, and the only words on it are "__name_brand_invented__", with no other words or letters anywhere.'
+TEXTRE = re.compile(r'\b(wordmarks?|logos?|lettering|lettered|capitals?|capital letters|uppercase|lowercase|fine print|tiny text|slogans?|typefaces?|typography|serif|sans-serif|italic|monograms?|signage|text|words?|wording|initials|script|calligraphy|legends?|captions?|titles?|headlines?|names?|numerals?|numbers?|digits?|figures|numbered)\b', re.I)
 MOOD_START = re.compile(r'^(Photography|Photographs?|Photos?|Imagery|Graphic advertising|Advertising|Advertisements?|Graphics|Campaigns?|Layouts?|Ads?|Print ads?|Posters?|Shop|Stores?|Interiors?|Storefronts?|Settings?|Scenes?|Film|Films|Cinematography|Lighting|Mood)\b')
 MOOD_ANY = re.compile(r'\b(photograph\w*|backdrops?|campaigns?|advertis\w*|storefronts?|cinematic|camera|shot low|photos?|ramps?|graffiti|landscapes?|interiors?|showrooms?|skate-park|street-level|pubs?|cafes?|kitchens?|crowds?|models?|city streets?|shopfronts?|scenes?|settings?|rooms?)\b', re.I)
 def split_mood(t):
@@ -56,6 +57,14 @@ def split_mood(t):
     for j, x in enumerate(sents):
         (mood if j and ( (MOOD_START.match(x) or MOOD_ANY.search(x))) else obj).append(x)
     if len(' '.join(obj).split()) < 45: return t.strip(), ''
+    keep = []
+    for x in obj:
+        if TEXTRE.search(x):
+            parts = re.split(r',\s+', x.rstrip('.')); hit = [i for i, q in enumerate(parts) if TEXTRE.search(q)]; first = hit[0]
+            if first >= 1 and hit == list(range(first, len(parts))) and len(' '.join(parts[:first]).split()) >= 5: x = ', '.join(parts[:first]) + '.'
+            else: continue
+        keep.append(x)
+    if len(' '.join(keep).split()) >= 30: obj = keep
     return ' '.join(obj), ' '.join(mood)
 def build(final=None):
     B = load(); G = {}
@@ -69,12 +78,13 @@ def build(final=None):
         for part in sorted({n} | {p for p in re.split(r'[ -]+', n) if len(p) > 3}, key=len, reverse=True):
             if part != n and (part.lower() in LOW or NAT.match(part)): continue
             body = re.sub(r'(?<![A-Za-z])' + re.escape(part) + r'(?![A-Za-z])', 'this brand', body)
+        body = re.sub(r' this brand (red|blue|green|yellow|orange|pink|gold|brown|black|white)', r' \1', body)
         return 'Styled in a design language of ' + body.rstrip() + ' ' + NOTEXT + ' This styling applies to the object itself and not to its surroundings.'
     U = {x[0]: unnamed(x[0], x[4]) for x in B}
     # plain name = style only (brand name not included), _named = starts with 'In the style of <Brand>,'
     for name, region, era, ind, t, grp in B:
         G['maker_bs_' + slug(name)] = [U[name]]
-        G['maker_bs_' + slug(name) + '_named'] = [t + ' Any label, tab, tag, badge, packaging or sign on the object carries only the words %s in that lettering style and no other words. This styling applies to the object itself and not to its surroundings.' % name]
+        G['maker_bs_' + slug(name) + '_named'] = [U[name]]  # same text: the file name carries the brand, the prompt does not
         if MOOD[name]: G['maker_bs_' + slug(name) + '_mood'] = [MOOD[name]]
     def agg(key, rows):
         G['maker_brand_style' + key] = [U[x[0]] for x in rows]
