@@ -48,8 +48,18 @@ SUBJ = {
 }
 GROUP_SUBJ = {'cars_eu': 'vehicle', 'cars_world': 'vehicle', 'transport': 'transport', 'fashion_eu': 'fashion', 'fashion_world': 'fashion', 'tech': 'tech', 'home': 'home', 'media': 'media', 'packaging': 'packaging', 'heritage': 'heritage', 'modern_misc': 'modern_misc'}
 VIEW = P('shown in a clean studio photograph with soft even light; shown outdoors in natural daylight; shown in a warm indoor setting with window light; shown on a plain pale backdrop with a soft shadow; shown in a detailed close-up that fills the frame; shown in a wide view with its surroundings; shown at a three-quarter angle with a softly blurred background; shown in a styled magazine-like layout with plenty of space around it')
+MOOD_START = re.compile(r'^(Photography|Photographs?|Photos?|Imagery|Graphic advertising|Advertising|Advertisements?|Graphics|Campaigns?|Layouts?|Ads?|Print ads?|Posters?|Shop|Stores?|Interiors?|Storefronts?|Settings?|Scenes?|Film|Films|Cinematography|Lighting|Mood)\b')
+MOOD_ANY = re.compile(r'\b(photograph\w*|backdrops?|campaigns?|advertis\w*|storefronts?|cinematic|camera|shot low|photos?|ramps?|graffiti|landscapes?|interiors?|showrooms?|skate-park|street-level|pubs?|cafes?|kitchens?|crowds?|models?|city streets?|shopfronts?|scenes?|settings?|rooms?)\b', re.I)
+def split_mood(t):
+    sents = re.split(r'(?<=[.])\s+', t.strip()); obj = []; mood = []
+    for j, x in enumerate(sents):
+        (mood if j and ( (MOOD_START.match(x) or MOOD_ANY.search(x))) else obj).append(x)
+    if len(' '.join(obj).split()) < 45: return t.strip(), ''
+    return ' '.join(obj), ' '.join(mood)
 def build(final=None):
     B = load(); G = {}
+    B = [(x[0], x[1], x[2], x[3], split_mood(x[4])[0], x[5], split_mood(x[4])[1]) for x in B]
+    MOOD = {x[0]: x[6] for x in B}; B = [x[:6] for x in B]
     NAT = re.compile(r'^(American|British|English|Finnish|Swedish|Danish|Norwegian|Italian|French|German|Dutch|Swiss|Japanese|Chinese|Korean|Indian|Mexican|Russian|Soviet|Scandinavian|Nordic|Victorian|Edwardian|Georgian|Art|Bauhaus|Mid|Hungarian|Czech|Polish|Turkish|Persian|Iranian|Ottoman|Islamic|African|Brazilian|Peruvian|Australian|Canadian|Thai|Vietnamese|Indonesian|Balinese|Spanish|Portuguese|Greek|Irish|Scottish|Welsh|Austrian|Belgian)\b')
     LOW = set(w for x in B for w in re.findall(r'[a-z]+', x[4]))
     def unnamed(n, t):
@@ -58,12 +68,13 @@ def build(final=None):
         for part in sorted({n} | {p for p in re.split(r'[ -]+', n) if len(p) > 3}, key=len, reverse=True):
             if part != n and (part.lower() in LOW or NAT.match(part)): continue
             body = re.sub(r'(?<![A-Za-z])' + re.escape(part) + r'(?![A-Za-z])', 'this brand', body)
-        return 'Styled in a design language of ' + body
+        return 'Styled in a design language of ' + body.rstrip() + ' This styling applies to the object itself and not to its surroundings.'
     U = {x[0]: unnamed(x[0], x[4]) for x in B}
     # plain name = style only (brand name not included), _named = starts with 'In the style of <Brand>,'
     for name, region, era, ind, t, grp in B:
         G['maker_bs_' + slug(name)] = [U[name]]
-        G['maker_bs_' + slug(name) + '_named'] = [t]
+        G['maker_bs_' + slug(name) + '_named'] = [t + ' This styling applies to the object itself and not to its surroundings.']
+        if MOOD[name]: G['maker_bs_' + slug(name) + '_mood'] = [MOOD[name]]
     def agg(key, rows):
         G['maker_brand_style' + key] = [U[x[0]] for x in rows]
         G['maker_brand_style' + key + '_named'] = [x[4] for x in rows]
@@ -85,13 +96,14 @@ def build(final=None):
         cut = cut.rstrip(' ,.'); sj = '__bs_subject_%s__' % GROUP_SUBJ.get(grp, 'any')
         G['bs_cell_' + slug(name)] = ['%s in a style of %s' % (sj, unnamed(name, cut)[len('Styled in a design language of '):])]
         G['bs_cell_' + slug(name) + '_named'] = ['%s in the style of %s, %s' % (sj, name, cut)]
-    for k, v in SUBJ.items(): G['bs_subject_' + k] = P(v)
+    BADSUBJ = re.compile(r'\b(person|people|woman|women|man|men|friends|adventurer|hero|characters?|crowd|child|children|riders?|driver|passengers?|interior|cabin|lobby|platform|stadium|landscape|street|shop front|storefront|station|entrance|room|rooms|runway|cafe|scene|parked|port|harbour|hangar|garage|showroom|kitchen interior|stands|field)\b', re.I)
+    for k, v in SUBJ.items(): G['bs_subject_' + k] = P('; '.join(x.strip() for x in v.split(';') if x.strip() and not BADSUBJ.search(x)))
     G['bs_view'] = VIEW
     grps = sorted({x[5] for x in B})
     for g in grps:
         sk = GROUP_SUBJ.get(g, 'any')
         for sfx in ('', '_named'):
-            G['bs_%s_prompt%s' % (g, sfx)] = ['__maker_brand_style_%s%s__ The subject is __bs_subject_%s__, designed completely in that style and __bs_view__.' % (g, sfx, sk)]
+            G['bs_%s_prompt%s' % (g, sfx)] = ['__maker_brand_style_%s%s__ The subject is __bs_subject_%s__, with the object itself designed in that style, the setting kept plain and neutral, and __bs_view__.' % (g, sfx, sk)]
     G['bs_prompt'] = ['__bs_%s_prompt__' % g for g in grps]
     G['bs_prompt_named'] = ['__bs_%s_prompt_named__' % g for g in grps]
     G['v83_bs_entry_points'] = ['bs_prompt', 'bs_prompt_named', 'maker_brand_style', 'maker_brand_style_named'] + ['bs_%s_prompt' % g for g in grps]

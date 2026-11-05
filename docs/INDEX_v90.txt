@@ -1,0 +1,2 @@
+v90 index
+Brand styles split: object design language (maker_bs_<brand>) versus photography/setting (maker_bs_<brand>_mood). Reason: styles were being applied to whole scenes (user report with Vans image).
