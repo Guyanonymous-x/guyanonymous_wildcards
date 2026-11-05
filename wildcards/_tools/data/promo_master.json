@@ -3,6 +3,14 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 92",
+   [
+    "80 more brand styles rewritten after checking image grids, as object design language only (no photography, advertising, settings or people): Carhartt, Puma, Uniqlo, Vivienne Westwood, Swatch, Marimekko, Hunter, Stetson, New Balance, The North Face, Supreme, Salomon, Yeti, Victorinox, Columbia Sportswear, Canada Goose, Playmobil, Hot Wheels, Barbie house style, Mattel, Fisher-Price, Sanrio, Aardman, Hanna-Barbera, Taschen, Blue Note Records, Heineken, Cadbury, Toblerone, Haribo, Heinz, Campbell, Tabasco, Marmite, Hershey, Nescafe, Kikkoman, Milo, Bang & Olufsen, Leica, Polaroid, Canon, Casio, Seiko, Omega, Dyson, Smeg, KitchenAid, Fender, Gibson, Marshall Amplification, Samsung, Ducati, Vespa, Royal Enfield, Pan Am, British Airways, Lufthansa, Emirates, NASA, London Underground posters, Routemaster, Shinkansen, Herman Miller, Knoll, Vitra, Alessi, Kartell, Le Creuset, Wedgwood, Meissen, Lalique, Georg Jensen, Iittala, Anglepoise, Liberty, Morris and Co, Pyrex, Tupperware, Chevrolet.",
+    "Each brand has `maker_bs_<brand>` (style only), `maker_bs_<brand>_named` and the research notes are in docs/RESEARCH_v92_brands_batch4.txt.",
+    "A 40-image prompt showcase at 1024 and 1408 pixel counts, steps 50, cfg 3.75, no trailing blank line, and 100 random sample prompts."
+   ]
+  ],
+  [
    "Version 91",
    [
     "20 more image-checked brand styles: Bentley, Jaguar, Aston Martin, Audi, Citroen, Renault, Alfa Romeo, Lamborghini, Volvo, Ford, Cadillac, Honda, Subaru, Mazda, Dior, Prada, Versace, Fendi, Dr Martens, Fred Perry (notes in docs/RESEARCH_v91_brands_batch3.txt).",

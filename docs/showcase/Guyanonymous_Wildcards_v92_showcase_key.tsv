@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+I01	brand carhartt	4:5	912x1152	1264x1568	943	9200	ok 
+I02	brand uniqlo named	3:2	1248x848	1728x1152	912	9211	ok 
+I03	brand swatch	1:1	1024x1024	1408x1408	950	9222	ok 
+I04	brand hunter named	4:5	912x1152	1264x1568	877	9233	ok 
+I05	brand new_balance	3:2	1248x848	1728x1152	884	9244	ok 
+I06	brand supreme named	2:3	832x1264	1152x1728	839	9255	ok 
+I07	brand yeti	1:1	1024x1024	1408x1408	933	9266	ok 
+I08	brand columbia_sportswear named	3:2	1248x848	1728x1152	901	9277	ok 
+I09	brand playmobil	4:5	912x1152	1264x1568	913	9288	ok 
+I10	brand barbie_house_style named	3:2	1248x848	1728x1152	901	9299	ok 
+I11	brand fisher_price	1:1	1024x1024	1408x1408	933	9310	ok 
+I12	brand aardman named	4:5	912x1152	1264x1568	956	9321	ok 
+I13	brand taschen	3:2	1248x848	1728x1152	829	9332	ok 
+I14	brand heineken named	2:3	832x1264	1152x1728	792	9343	ok 
+I15	brand toblerone	1:1	1024x1024	1408x1408	960	9354	ok 
+I16	brand heinz named	3:2	1248x848	1728x1152	819	9365	ok 
+I17	brand tabasco	4:5	912x1152	1264x1568	841	9376	ok 
+I18	brand hershey named	3:2	1248x848	1728x1152	835	9387	ok 
+I19	brand kikkoman	1:1	1024x1024	1408x1408	877	9398	ok 
+I20	brand bang_olufsen named	4:5	912x1152	1264x1568	907	9409	ok 
+I21	brand polaroid	3:2	1248x848	1728x1152	916	9420	ok 
+I22	brand casio named	2:3	832x1264	1152x1728	914	9431	ok 
+I23	brand omega	1:1	1024x1024	1408x1408	861	9442	ok 
+I24	brand smeg named	3:2	1248x848	1728x1152	790	9453	ok 
+I25	brand fender	4:5	912x1152	1264x1568	818	9464	ok 
+I26	brand marshall_amplification named	3:2	1248x848	1728x1152	917	9475	ok 
+I27	brand ducati	1:1	1024x1024	1408x1408	943	9486	ok 
+I28	brand royal_enfield named	4:5	912x1152	1264x1568	921	9497	ok 
+I29	brand british_airways	3:2	1248x848	1728x1152	777	9508	ok 
+I30	brand emirates named	2:3	832x1264	1152x1728	819	9519	ok 
+I31	brand london_underground_posters	1:1	1024x1024	1408x1408	766	9530	ok 
+I32	brand shinkansen named	3:2	1248x848	1728x1152	985	9541	ok 
+I33	brand knoll	4:5	912x1152	1264x1568	991	9552	ok 
+I34	brand alessi named	3:2	1248x848	1728x1152	961	9563	ok 
+I35	brand le_creuset	1:1	1024x1024	1408x1408	830	9574	ok 
+I36	brand meissen named	4:5	912x1152	1264x1568	866	9585	ok 
+I37	brand georg_jensen	3:2	1248x848	1728x1152	879	9596	ok 
+I38	brand anglepoise named	2:3	832x1264	1152x1728	888	9607	ok 
+I39	brand morris_and_co	1:1	1024x1024	1408x1408	885	9618	ok 
+I40	brand tupperware named	3:2	1248x848	1728x1152	657	9629	ok 
