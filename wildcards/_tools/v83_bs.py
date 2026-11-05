@@ -48,7 +48,7 @@ SUBJ = {
 }
 GROUP_SUBJ = {'cars_eu': 'vehicle', 'cars_world': 'vehicle', 'transport': 'transport', 'fashion_eu': 'fashion', 'fashion_world': 'fashion', 'tech': 'tech', 'home': 'home', 'media': 'media', 'packaging': 'packaging', 'heritage': 'heritage', 'modern_misc': 'modern_misc'}
 VIEW = P('shown in a clean studio photograph with soft even light; shown in natural daylight; shown in soft window light; shown on a plain pale backdrop with a soft shadow; shown in a detailed close-up that fills the frame; shown as a full view of the whole object; shown at a three-quarter angle with a softly blurred background; shown centred with plenty of empty space around it; shown in warm late-afternoon sun with long gentle shadows; shown in cool overcast light on a pale grey surface; shown under a single warm lamp with the background fading to dark; shown from slightly above on a plain wooden table; shown from a low angle against a clear sky; shown in bright morning light with a crisp shadow beside it; shown in the glow of early evening with a softly lit background; shown on a plain painted wall in even daylight; shown from the side in a simple profile view; shown straight on, centred and symmetrical; shown in dappled light through leaves; shown beside a window on a cloudy day; shown on a plain concrete floor in cool even light; shown against a deep solid colour backdrop with a gentle rim light; shown from above in a flat lay on a neutral surface; shown in warm gallery lighting on a simple plinth')
-NOTEXT = 'The surfaces are plain and unmarked, and the style is carried by colour, shape, material and pattern alone.'
+NOTEXT = 'The surfaces are smooth and plain, and the style is carried by colour, shape, material and pattern alone.'
 TEXTRE = re.compile(r'\b(wordmarks?|logos?|lettering|lettered|capitals?|capital letters|uppercase|lowercase|fine print|tiny text|slogans?|typefaces?|typography|serif|sans-serif|italic|monograms?|signage|text|words?|wording|initials|script|calligraphy|legends?|captions?|titles?|headlines?|names?|numerals?|numbers?|digits?|figures|numbered|badges?|tags?|labels?|signs?|banners?|emblems?|crests?|insignia|stamps?|seals?|plaques?|placards?|posters?|billboards?|stickers?|patches)\b', re.I)
 MOOD_START = re.compile(r'^(Photography|Photographs?|Photos?|Imagery|Graphic advertising|Advertising|Advertisements?|Graphics|Campaigns?|Layouts?|Ads?|Print ads?|Posters?|Shop|Stores?|Interiors?|Storefronts?|Settings?|Scenes?|Film|Films|Cinematography|Lighting|Mood)\b')
 MOOD_ANY = re.compile(r'\b(photograph\w*|backdrops?|campaigns?|advertis\w*|storefronts?|cinematic|camera|shot low|photos?|ramps?|graffiti|landscapes?|interiors?|showrooms?|skate-park|street-level|pubs?|cafes?|kitchens?|crowds?|models?|city streets?|shopfronts?|scenes?|settings?|rooms?)\b', re.I)
@@ -58,6 +58,30 @@ def obj_clean(body):
     keep = [x for x in sents if not OBJRE.search(x)]
     if len(' '.join(keep).split()) >= 30: return ' '.join(keep), True
     return body, False
+
+TEXMARK = re.compile(r'\b(tool|burn|finger|chisel|tick|baton|machining|question|check|blush|scuff|wear|brush|pen|hammer|chatter|drill|knife|texture|grain|ink)\s+marks?\b', re.I)
+IDMARK = re.compile(r"\b(marks?|nameplates?|hallmarks?|monograms?|initials|branding)\b", re.I)
+def mark_fix(body):
+    """Identity marks (logos, nameplates, hallmarks) are described by random wildcards instead: drop those phrases and add a __bs_motif__ sentence."""
+    flag = False
+    b2 = re.sub(r',?\s*(?:with|and)\s+(?:a few |some )?(?:small |sharp |tiny |discreet )?stamped marks\b', '', body)
+    if b2 != body: flag = True; body = b2
+    out = []
+    for sent in re.split(r'(?<=[.])\s+', body.strip()):
+        if IDMARK.search(sent) and not TEXMARK.search(sent) and not re.search(r'\bmarks\s+(top|the|each|every)\b', sent):
+            parts = re.split(r',\s+', sent.rstrip('.'))
+            keep = [p for p in parts if not IDMARK.search(p)]
+            flag = True
+            if len(' '.join(keep).split()) >= 6 and keep: out.append(re.sub(r',\s+(and|or)\s*$', '', ', '.join(keep)).rstrip(' ,') + '.')
+            continue
+        out.append(sent)
+    return ' '.join(out), flag
+def commaize(b):
+    mid = set(re.findall(r'(?<=[a-z,] )([A-Z][a-z]+)', b))
+    def f(m):
+        w = m.group(1); return ', ' + (w if w in mid or w == 'I' else w[0].lower() + w[1:])
+    b = re.sub(r'\.\s+([A-Z][A-Za-z\-]*)', f, b)
+    return b.replace('. __bs_motif__', ', __bs_motif_c__').rstrip()
 def clean_sents(sents):
     out = []
     for x in sents:
@@ -82,9 +106,12 @@ def build(final=None):
     MOOD = {x[0]: x[6] for x in B}; B = [x[:6] for x in B]
     NAT = re.compile(r'^(American|British|English|Finnish|Swedish|Danish|Norwegian|Italian|French|German|Dutch|Swiss|Japanese|Chinese|Korean|Indian|Mexican|Russian|Soviet|Scandinavian|Nordic|Victorian|Edwardian|Georgian|Art|Bauhaus|Mid|Hungarian|Czech|Polish|Turkish|Persian|Iranian|Ottoman|Islamic|African|Brazilian|Peruvian|Australian|Canadian|Thai|Vietnamese|Indonesian|Balinese|Spanish|Portuguese|Greek|Irish|Scottish|Welsh|Austrian|Belgian)\b')
     LOW = set(w for x in B for w in re.findall(r'[a-z]+', x[4]))
+    MOTIF = set()
     def unnamed(n, t):
         body = t[len('In the style of ' + n):].lstrip(' ,.') if t.startswith('In the style of ' + n) else re.sub(r'^In the style of [^,.]*[,.]\s+', '', t)
         body = obj_clean(body)[0]
+        body, _mf = mark_fix(body)
+        if _mf: body = body.rstrip() + ' __bs_motif__'; MOTIF.add(n)
         HEADS = re.match(r'^(Palette|Materials?|Surfaces|Forms?|Shapes?|Colou?rs?|Finishes|Details)\b', body)
         if not NAT.match(body) and not HEADS: body = body[0].lower() + body[1:]
         for part in sorted({n} | {p for p in re.split(r'[ -]+', n) if len(p) > 3}, key=len, reverse=True):
@@ -150,7 +177,7 @@ def build(final=None):
     def noun(sj): return 'the ' + re.sub(r'^(a|an)\s+', '', re.sub(r' (on|in|at|beside|against|with|seen|leaning|standing|from|set) .*$', '', sj))
     def Cap(x): return x[0].upper() + x[1:]
     def objline(name, t, sj, mark=False):
-        heads, body = core(name, t)
+        heads, body = core(name, t); body = commaize(body); body = body if body.endswith('.') else body + '.'
         head = Cap(sj) + (' done in a design language. ' if heads else ' done in a design language of ') + body
         return head + (' __bs_mark__' if mark else '') + ' Only that design language is used for %s, in a plain neutral setting, __bs_view__.' % noun(sj)
     POOL = {k: [x for x in G['bs_subject_' + k]] for k in list(SUBJ) + ['building', 'accessory', 'madeup_vehicle']}

@@ -3,6 +3,16 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 102",
+   [
+    "Object-first brand-style prompts now use commas instead of periods inside the style text, so the style reads as one unified description (your A/B tests favoured commas).",
+    "Brand logos, nameplates, hallmarks and monograms inside style texts are replaced by a random quiet motif (__bs_motif__): a random simple shape in a random kind of mark (stamped, embossed, engraved, etched, printed, woven, stitched, enamelled and more).",
+    "__bs_mark__ now pairs a mark kind with its material (stamped leather, enamelled metal, woven cloth ...) and can show short capital-letter initials.",
+    "The 'plain and unmarked' wording was removed from style texts (text rule: do not mention what should not appear).",
+    "A 40-image prompt showcase at 1024 and 1408 pixel counts, steps 50, cfg 3.75, and 100 sample prompts."
+   ]
+  ],
+  [
    "Version 101",
    [
     "New __bs_mark__ add-on: a small mark built from random shape, material, outline, size and position, carrying a fake logo and name from the name system. Add it by hand to any prompt or use bs_marked_prompt for a random one.",
