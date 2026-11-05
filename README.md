@@ -27,16 +27,16 @@ Adult update 2 (adults only, consensual): Level 6, optional expression and body-
 
 The full list of v85 entry points is in `wildcards/v85_entry_points.txt`.
 
-## What's New in v84
+## What's New in v85
 
-Adult update (adults only, consensual): five explicitness levels x six genres, sex/BDSM/fetish files under adult_, and brand styles rewritten as transferable design essence. ([docs/INDEX_v84.txt](docs/INDEX_v84.txt), research notes in [docs/RESEARCH_v84.txt](docs/RESEARCH_v84.txt)). Since v83 it adds:
+Adult update 2 (adults only, consensual): Level 6, scene-neutral expression and body-change modifiers, messy play, staged play-fighting, gear (materials, garments, uniforms, kilts, tailoring, pony, furniture, roleplay), 20 top brand styles image-checked. ([docs/INDEX_v85.txt](docs/INDEX_v85.txt), research notes in [docs/RESEARCH_v85.txt](docs/RESEARCH_v85.txt)). Since v84 it adds:
 
-- adult_l1..l5 x pose, body, setting, object, group, location, mixed sets and prompts
-- 286 existing sex/BDSM/fetish object files moved under adult_
-- maker_bs_<brand> is style only, maker_bs_<brand>_named includes the brand name; same pairing for maker_brand_style*, bs_cell_* and bs_prompt
-- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v84_showcase.py`.
+- adult_l6_<genre>, adult_lN_expression and adult_lN_bodychange (scene-neutral), _scene variants, adult_lN_messy, adult_lN_wrestling, adult_gear_*
+- Existing adult L1-L5 lines audited: jargon described, ejaculate and large-group lines moved to L6
+- 20 top brand styles rewritten after checking product images
+- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v85_showcase.py`.
 
-The full list of v84 entry points is in `wildcards/v84_entry_points.txt`.
+The full list of v85 entry points is in `wildcards/v85_entry_points.txt`.
 
 ## Features
 
@@ -344,6 +344,9 @@ Summarised from the notes in [docs/](docs/), newest first. Dates are shown only 
 
 ### v85
 v85: adult L6, modifiers, messy, wrestling, gear, kilts and tailoring, top brands image-checked See [What's New in v85](#whats-new-in-v85).
+
+### v85
+v85: adult L6, modifiers (scene-neutral), messy, wrestling, gear, kilts and tailoring, top brands image-checked See [What's New in v85](#whats-new-in-v85).
 
 ### v84
 v84: adult levels and adult_ prefix, brand styles as design essence (style-only plus _named) See [What's New in v85](#whats-new-in-v85).
