@@ -1,0 +1,8 @@
+__name_label_product_soft_prompt__
+__name_label_product_sweet_prompt__
+__name_label_product_savoury_prompt__
+__name_label_product_spirit_prompt__
+__name_label_product_household_prompt__
+__name_label_product_other_prompt__
+A shipping carton with a stencilled line reading "__name_company__" and a second line reading "__name_batch__". No other words or letters appear.
+A jar with a round lid label reading "__name_product_brand__" on the first line and "__name_flavour__" on the second line, and a small paper tag reading "__name_batch__". No other words or letters appear.

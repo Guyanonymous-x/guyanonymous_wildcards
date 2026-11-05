@@ -1,0 +1,36 @@
+FAKE NAME SYSTEM (v94)
+
+Everything that appears as text in a prompt (shop signs, labels, packaging, business cards, caps, t-shirts, book covers, comic covers, posters) comes from name files. The text shows up in quotes in the finished prompt, one line per item, with "No other words or letters appear." so the image model does not invent words. To customise, expand the prompt, then change the quoted text.
+
+PARTS (change these to change every name built from them)
+  name_stem_latin / nordic / german / tech / japanese   invented brand stems (Velova, Salby, Dorfeld, Zenon, Nutaro)
+  name_surname, name_first, name_word                   invented surnames, first names, nature/object words
+  name_trade_shop / food / corp, name_trade_<business>  Hardware, Bakery, Diner, Industries, Liquors...
+  name_suffix_corp / shop                               Inc., Ltd., GmbH, & Sons / Store, Market, Emporium
+  name_type_<group>, name_weight_<group>, name_variant_<group>   soft, sweet, savoury, spirit, household, other
+  name_street, name_street_type, name_hours, name_tagline, name_year, name_phone, name_price, name_batch
+
+BUILDERS (parts joined into names)
+  name_brand, name_brand_invented, name_brand_wordpair, name_brand_surname, name_brand_initials, name_brand_upper
+  name_company, name_shop, name_restaurant, name_pub, name_product, name_person, name_address, name_established
+  name_<business>   one per business type (liquor_store, bar, pharmacy, bookshop, bakery, butcher, grocery, cafe, diner, pizzeria, hotel, bank, garage, petrol_station, gym, hair_salon, laundromat, cinema, arcade, record_store, toy_shop, hardware_store, flower_shop, tattoo_studio, pawn_shop, pub)
+  name_hero, name_hero_team, name_villain, name_comic_title, name_author, name_book_title_<genre>, name_series, name_publisher, name_band, name_album, name_movie, name_magazine, name_newspaper, name_game_title
+
+PROMPTS (use these as entry points)
+  name_any_prompt            one of everything below
+  name_<business>_sign_prompt   a sign for that business type, with a matching extra line (OPEN, Cold Beer, Prescriptions...)
+  name_business_sign_prompt  any business type
+  name_sign_shopfront_prompt, name_sign_company_prompt, name_sign_restaurant_prompt
+  name_label_product_<group>_prompt   packaging whose name, product type and weight agree
+  name_label_price_prompt, name_tag_person_prompt, name_tag_clothing_prompt, name_vehicle_livery_prompt, name_poster_prompt, name_receipt_prompt
+  name_business_card_prompt, name_business_card_simple_prompt   8 positioned layouts with company, web, email, phone and address baked in so they agree
+  name_logo_prompt, name_logo_description   invented logos: symbol + style + colour + layout + wordmark
+  name_cap_prompt, name_tshirt_prompt, name_merch_other_prompt, name_merch_prompt
+  name_book_cover_prompt, name_comic_cover_prompt, name_record_prompt, name_movie_prompt, name_print_prompt, name_game_prompt, name_hero_prompt, name_media_prompt
+  name_blank_text_prompt     signs and packaging with no readable text
+
+EXISTING FILES REWIRED
+  text_brand, text_shop_name, text_pub_name, text_ship_name, text_card_name, text_map_name now draw from this system; text_slogan keeps its old lines and adds new ones. So the roughly 170 older sign, advert and label prompts get defined, invented names automatically.
+
+NOTES
+  Websites and emails end in .example and phone numbers use 555 so they cannot be real. No real brands: stems were generated, not copied.

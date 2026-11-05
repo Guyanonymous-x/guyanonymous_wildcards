@@ -1,0 +1,7 @@
+__name_book_cover_prompt__
+__name_comic_cover_prompt__
+__name_record_prompt__
+__name_movie_prompt__
+__name_print_prompt__
+__name_game_prompt__
+__name_hero_prompt__

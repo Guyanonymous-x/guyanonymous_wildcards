@@ -1,0 +1,3 @@
+v94 index
+Fake name system: parts, builders and prompts for signs, labels, packaging, business cards, logos, caps, t-shirts, book and comic covers, heroes, bands. See NAME_SYSTEM.txt.
+Older text_brand, text_shop_name, text_pub_name, text_ship_name, text_card_name, text_map_name now use it.

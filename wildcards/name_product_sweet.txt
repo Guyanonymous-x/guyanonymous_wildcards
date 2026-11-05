@@ -1,0 +1,4 @@
+__name_product_brand__ __name_type_sweet__
+__name_product_brand__ __name_type_sweet__ __name_variant_sweet__
+__name_product_brand__ __name_variant_sweet__ __name_type_sweet__
+__name_product_brand__ __name_flavour__ __name_type_sweet__

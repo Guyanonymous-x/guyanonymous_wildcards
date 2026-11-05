@@ -1,0 +1,4 @@
+__name_product_brand__ __name_type_soft__
+__name_product_brand__ __name_type_soft__ __name_variant_soft__
+__name_product_brand__ __name_variant_soft__ __name_type_soft__
+__name_product_brand__ __name_flavour__ __name_type_soft__
