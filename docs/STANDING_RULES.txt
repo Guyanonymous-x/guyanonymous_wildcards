@@ -1,7 +1,7 @@
 # Guyanonymous' Wildcards - STANDING RULES (check before writing ANY prompt, wildcard, showcase or release)
 
 ## 0. TEXT RULES (highest priority, set by the user 2026-11-04, repeated many times - never skip)
-Source: MOSS_IMAGE_NOTES (our tests + OpenMOSS technical report). The model (text encoder Qwen3.5-9B) draws any word it is shown, and the user's prompt prefix `<lora:...>, Sh4rpD3tails.` is itself read as text.
+Source: MOSS_IMAGE_NOTES (our tests + OpenMOSS technical report). The model (text encoder Qwen3.5-9B) draws any word it is shown.
 1. If text SHOULD appear on a sign, label, tag, packaging, badge, cap, t-shirt, card, book cover, poster, screen: write it verbatim in quotes, one line per text, say where it is ("on the first line", "on the second line"). Use the fake name system (name_* files) so the text is invented, not a real brand.
 2. If text should NOT appear: do NOT mention it at all. Never write "no other words", "no readable text", "no lettering", "nothing else", "unlettered". Negations did not help in tests and the words invite lettering. Describe the surface positively: plain, unmarked, blank, decorated with shapes and patterns only.
 3. Never mention label, tag, badge, sign, banner, wordmark, logo, slogan, caption, packaging text unless the text on it is defined in quotes.
@@ -22,7 +22,7 @@ Source: MOSS_IMAGE_NOTES (our tests + OpenMOSS technical report). The model (tex
 - Zips over 30 MB go via SendUserFile only; small files also to the user's !Releases\vNN folder.
 - Short answers, start work in the first reply, tell the user what was checked.
 
-- Test prompts for the user are always given in the showcase line format: --prompt "<lora:MOSSwSh4rpD3tails:0.5> ..." --steps 50 --cfg_scale 3.75 --seed N --width W --height H (in the reply and in the file).
+- Test prompts for the user are always given in the showcase line format: --prompt "..." --steps 50 --cfg_scale 3.75 --seed N --width W --height H (in the reply and in the file).
 
 - Text on products is fine and wanted: define it in quotes, one line each with position, using the random name system (name_brand, name_type_<group>, name_variant_<group>, name_weight_<group>); do not use the "plain and unmarked" sentence when text is meant to appear.
 
@@ -34,3 +34,5 @@ Source: MOSS_IMAGE_NOTES (our tests + OpenMOSS technical report). The model (tex
 - The body-feature grid showcase files are NEVER committed or pushed to GitHub (user 2026-11-04): deliver them in chat and to the local !Releases folder only, keep them out of the repo, release branches and the library zip.
 
 - SAMPLE vs SHOWCASE FILES (user 2026-11-04): in every version zip/release, the sample prompt files must be samples of EVERYTHING the package can do (spread across all prompt families and entry points, not just this version's additions). The showcase files focus on version-specific additions and improvements. Build samples from all entry points, weighted so every major family appears.
+
+DOCUMENT WORDING (each version): accompanying documents (README, index, promo, release notes) say that SHOWCASE files highlight the features that are new or changed in that version, while SAMPLE files are representative of everything the model can do.

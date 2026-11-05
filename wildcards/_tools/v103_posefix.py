@@ -125,6 +125,11 @@ def build(final):
                 if re.search(r'\bwoman\b', t): t = sub('woman', 'apose_person_f', t)
                 if re.search(r'\bman\b', t): t = sub('man', 'apose_person_m', t)
             t = re.sub(r',\s*,', ',', t)
+            if re.search(r'\bpenis\b', t) and not re.search(r'foreskin|circumcis|\buncut\b|outline|bulge|beneath|under|through|fabric|chastity|cage|condom|\bring\b|sleeve|trouser|brief|underwear|boxer|thong|jock|pants|harness|strap|plug|sheath', t, re.I):
+                _tok = 'penis_look_erect' if re.search(r'erect|hard|semi|stiff|rigid', t, re.I) else 'penis_look'
+                t = re.sub(r'\bpenis\b', 'penis, __%s__,' % _tok, t, count=1)
+                t = re.sub(r',\s*,', ',', t)
+                t = re.sub(r'(__penis_look(?:_erect)?__),(?=\s*(?:\.|$))', r'\1', t)
             # the person clause lives inside commas, so the comma after the token closes it
             a.append(t)
             closeup = re.search(r'close-up|crop|extreme|detail|macro|only the|from (above|below|behind|the side|overhead)|\\bview\\b|angle|\\bshot\\b|framed|frame|photograph|seen\\b|silhouett', l, re.I)

@@ -9,6 +9,7 @@ def build(n, counts=''):
     rel = M['releases']; cur = rel[0]; prev = int(re.search(r'\d+', cur[0]).group()) - 1
     out = [M['head'].replace('v43', f'v{n}').replace('v42', f'v{n}'), '', 'This wildcard project is managed on GitHub, for anyone who wants the most current versions: https://github.com/Guyanonymous-x/guyanonymous_wildcards', '', '## Short descriptions', '', counts_fix(M['short'], counts), '', f"## What's new since V{prev}", '', f"### {cur[0]} (this release)", '']
     out += ['- ' + bold(b) for b in cur[1]]
+    out += ['', 'Showcase and sample files: the showcase files highlight what is new or changed in this version, while the sample files are representative of everything the model can do.']
     out += ['', '## Features at a glance', '']
     out += [('- ' + bold(re.sub(r'^- ', '', l))) if l.strip() else l for l in M['features'].split('\n')]
     out += ['', '## Naming guide', '', M['naming'], '', '## Getting started', '', re.sub(r'Guyanonymous_Wildcards_v\d+\.zip', f'Guyanonymous_Wildcards_v{n}.zip', M['start']), '', '## Warning: files that point to other files', '', M['warning'], '', '## Social posts and release note', '', re.sub(r'\bv4\d\b', f'v{n}', M['social']), '', '## Full Changelog since V27', '']
