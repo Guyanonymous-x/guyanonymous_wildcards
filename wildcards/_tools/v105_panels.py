@@ -10,11 +10,14 @@ CLW = ['a fitted knee-length dress', 'a loose blouse and a long skirt', 'a soft 
 CLM = ['a button-up shirt and trousers', 'a t-shirt and jeans', 'a jumper and chinos', 'a linen shirt and shorts', 'a hoodie and joggers', 'a denim jacket and jeans', 'a checked flannel shirt and corduroys', 'a polo shirt and shorts', 'a suit jacket over a t-shirt and dark trousers', 'a football shirt and tracksuit bottoms', 'a cable-knit jumper and trousers', 'a leather jacket and black jeans']
 UNW = ['a lace bra and matching briefs', 'a silk slip', 'a camisole and lace shorts', 'a satin bra and high-cut briefs', 'a sports bra and cotton briefs', 'a mesh bodysuit', 'a cotton vest and high-waisted briefs', 'a balconette bra and a thong', 'a ribbed bralette and briefs']
 UNM = ['tight cotton briefs', 'boxer shorts', 'fitted boxer briefs', 'a low-cut brief', 'a jockstrap', 'silk boxer shorts', 'long cotton boxers', 'thin swim trunks']
+BOTF = ['low-rise jeans','a knee-length cotton skirt','pyjama bottoms','high-waisted linen trousers','a denim miniskirt','soft grey leggings','a satin skirt','cotton shorts','a long floral skirt']
+BOTM = ['faded jeans','dark suit trousers','board shorts','pyjama trousers','grey joggers','chinos','swim trunks','linen trousers','cotton shorts']
 COVER = ['a white bath towel wrapped once around the hips and tucked in at the waist, hanging straight down to the upper thighs', 'a patterned cotton sarong tied at one hip, hanging straight down to mid-thigh', 'a white bedsheet wrapped around the hips toga-style and tucked at the waist, falling to mid-thigh', 'a denim jacket tied around the waist by its sleeves, the body of the jacket hanging down over the groin', 'a short satin robe pulled down to the waist and tied with its belt, hanging to the upper thighs', 'a chunky knitted throw wrapped around the hips and tucked at the side, falling to the knees', 'a long linen shirt tied around the waist by its sleeves, the shirt hanging down over the groin', 'a dark wool scarf-blanket wrapped around the hips and tucked at the waist, falling to mid-thigh']
 def lvl_state(L, sex, k):
     """returns (attire sentence about 'she'/'he'). """
     if L == 1: return {'f': 'She wears ' + R.choice(CLW) + '.', 'm': 'He wears ' + R.choice(CLM) + '.'}[sex]
     if L == 2: return {'f': 'She wears ' + R.choice(UNW) + '.', 'm': 'He wears ' + R.choice(UNM) + '.'}[sex]
+    if L == 3: return ''
     return {'f': 'She is nude.', 'm': 'He is nude.'}[sex]
 # posture skeletons for woman+man: (text with {W},{M} intros, camera)
 WM = [
@@ -30,7 +33,7 @@ EXPR = ['She is smiling and he is looking at her.', 'Her eyes are closed and he 
 def wm_exposed(L, i):
     if L == 1: return ''
     if L == 2: return ' The fabric over his groin shows __male_bulge_clothed__.'
-    if L == 3: return ' Their pelvises are hidden by ' + R.choice(COVER) + '; her breasts and his chest are bare. The wrap over his groin shows __male_bulge_covered__.'
+    if L == 3: return ' Her breasts and his chest are bare. She wears ' + R.choice(BOTF) + ' and he wears ' + R.choice(BOTM) + '. The fabric over his groin shows __male_bulge_clothed__.'
     return ' Her breasts and her vulva are in view, and his penis hangs soft over his scrotum and is in view.'
 ACTS_WM = [
  ("{W} lies on her back on a bed with her knees bent and her legs wrapped around the waist of {M}, her hands gripping his upper arms. He kneels between her thighs, leaning over her with his hands on the mattress beside her shoulders. His erect penis is inside her vagina, and the join between his pelvis and hers is in view.", 'The shot is from the foot of the bed showing both bodies.', ('belly', 1)),
@@ -54,7 +57,7 @@ WW = [
 def ww_att(L):
     if L == 1: return ' The first woman wears ' + R.choice(CLW) + ' and the second woman wears ' + R.choice(CLW) + '.'
     if L == 2: return ' The first woman wears ' + R.choice(UNW) + ' and the second woman wears ' + R.choice(UNW) + '.'
-    if L == 3: return ' Both women are nude with their breasts bare and their pelvises hidden by ' + R.choice(COVER) + '.'
+    if L == 3: return ' Both women are topless. The first woman wears ' + R.choice(BOTF) + ' and the second woman wears ' + R.choice(BOTF) + '.'
     return ' Both women are nude, with both their breasts and their vulvas in view.'
 ACTS_WW = [
  "{W} lies on her back on a bed with her thighs apart and her hands in the hair of {W2}. The second woman lies on her stomach between the first woman's thighs with her face at the first woman's vulva and her hands holding the first woman's thighs. The second woman's tongue is on the first woman's vulva.",
@@ -72,7 +75,7 @@ MM = [
 def mm_att(L):
     if L == 1: return ' The first man wears ' + R.choice(CLM) + ' and the second man wears ' + R.choice(CLM) + '.'
     if L == 2: return ' The first man wears ' + R.choice(UNM) + ' and the second man wears ' + R.choice(UNM) + '. The fabric over the first man\'s groin shows __male_bulge_clothed__, and the fabric over the second man\'s groin shows __male_bulge_clothed__.'
-    if L == 3: return ' Both men are nude with their chests bare and their pelvises hidden by ' + R.choice(COVER) + '. The wrap over the first man\'s groin shows __male_bulge_covered__, and the wrap over the second man\'s groin shows __male_bulge_covered__.'
+    if L == 3: return ' Both men are shirtless. The first man wears ' + R.choice(BOTM) + ' and the second man wears ' + R.choice(BOTM) + '. The fabric over the first man\'s groin shows __male_bulge_clothed__, and the fabric over the second man\'s groin shows __male_bulge_clothed__.'
     return ' Both men are nude, with both their chests and their penises and scrotums in view, the penises hanging soft.'
 ACTS_MM = [
  "{M} sits on the edge of a bed with his knees apart, and {M2} kneels on the floor between his knees. The second man's right hand is around the base of the first man's erect penis and the first man's penis is in the second man's mouth, while the first man's hands rest in the second man's hair.",
@@ -89,7 +92,7 @@ def build(final):
             for i, (t, cam) in enumerate(WM):
                 for k in range(2):
                     s = t.format(W=PF, M=PM) + ' ' + lvl_state(L, 'f', k) + ' ' + lvl_state(L, 'm', k) + wm_exposed(L, i) + ' ' + exp() + ' The scene is in __apose_place__. The light is __apose_light__. ' + cam
-                    s = s.replace('She is nude. He is nude.', 'Both are nude.') if L >= 3 else s
+                    s = s.replace('She is nude. He is nude.', 'Both are nude.') if L >= 4 else s
                     wm.append(s)
             for i, (t, cam) in enumerate(WW):
                 for k in range(2): ww.append(t.format(W=PF, W2=PF2) + ww_att(L) + ' The scene is in __apose_place__. The light is __apose_light__. ' + cam)
