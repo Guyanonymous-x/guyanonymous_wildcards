@@ -2,13 +2,13 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v85**
+**Current version: v86**
 
-**Contents:** [Introduction](#introduction) · [What's New in v85](#whats-new-in-v85) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v86](#whats-new-in-v86) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 40,500 wildcard text files (40484 `.txt` files in [`wildcards/`](wildcards/) at v85, plus 660 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 40,600 wildcard text files (40570 `.txt` files in [`wildcards/`](wildcards/) at v86, plus 731 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
@@ -16,22 +16,23 @@ People files describe adults aged 18 to 120. Some families are adult-themed: cli
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
 
+## What's New in v86
+
+Pinback buttons, police/fire/ambulance/military insignia with invented places, adult achievement badges, adult kilts L4-L6, pony and torn clothing L1-L6. ([docs/INDEX_v86.txt](docs/INDEX_v86.txt), research notes in [docs/RESEARCH_v86.txt](docs/RESEARCH_v86.txt)). Since v85 it adds:
+
+- - **Pinback buttons:** eight themes (slogans, music, fandom, causes, identity, events, adult, designs), `pinback_prompt`.
+- - **Insignia:** police, fire, ambulance, military as patches, medals, pins and badges, with invented towns and units.
+- - **Adult achievements:** merit badges, medals, pins and badges for dating, kink, sex and fetish.
+- - **Adult gear:** kilts L4-L6, pony and torn clothing L1-L6, L6 ejaculate extras.
+- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v86_showcase.py`.
+
+The full list of v86 entry points is in `wildcards/v86_entry_points.txt`.
+
 ## What's New in v85
 
 Adult update 2 (adults only, consensual): Level 6, optional expression and body-change modifiers, messy play, staged play-fighting, gear (materials, garments, uniforms, kilts, tailoring, pony, furniture, roleplay), 20 top brand styles image-checked. ([docs/INDEX_v85.txt](docs/INDEX_v85.txt), research notes in [docs/RESEARCH_v85.txt](docs/RESEARCH_v85.txt)). Since v84 it adds:
 
 - adult_l6_<genre>, adult_lN_expression and adult_lN_bodychange, adult_lN_messy, adult_lN_wrestling, adult_gear_*
-- Existing adult L1-L5 lines audited: jargon described, ejaculate and large-group lines moved to L6
-- 20 top brand styles rewritten after checking product images
-- **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v85_showcase.py`.
-
-The full list of v85 entry points is in `wildcards/v85_entry_points.txt`.
-
-## What's New in v85
-
-Adult update 2 (adults only, consensual): Level 6, scene-neutral expression and body-change modifiers, messy play, staged play-fighting, gear (materials, garments, uniforms, kilts, tailoring, pony, furniture, roleplay), 20 top brand styles image-checked. ([docs/INDEX_v85.txt](docs/INDEX_v85.txt), research notes in [docs/RESEARCH_v85.txt](docs/RESEARCH_v85.txt)). Since v84 it adds:
-
-- adult_l6_<genre>, adult_lN_expression and adult_lN_bodychange (scene-neutral), _scene variants, adult_lN_messy, adult_lN_wrestling, adult_gear_*
 - Existing adult L1-L5 lines audited: jargon described, ejaculate and large-group lines moved to L6
 - 20 top brand styles rewritten after checking product images
 - **Showcase:** 40 prompts at 1024 and 1408 sizes, a key file and 100 sample prompts in [docs/showcase/](docs/showcase/), built by `_tools/v85_showcase.py`.
@@ -342,35 +343,38 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
 
-### v85
-v85: adult L6, modifiers, messy, wrestling, gear, kilts and tailoring, top brands image-checked See [What's New in v85](#whats-new-in-v85).
+### v86
+pinback buttons, insignia, adult achievements, kilts, pony, torn clothing See [What's New in v86](#whats-new-in-v86).
 
 ### v85
-v85: adult L6, modifiers (scene-neutral), messy, wrestling, gear, kilts and tailoring, top brands image-checked See [What's New in v85](#whats-new-in-v85).
+v85: adult L6, modifiers, messy, wrestling, gear, kilts and tailoring, top brands image-checked See [What's New in v86](#whats-new-in-v86).
+
+### v85
+v85: adult L6, modifiers (scene-neutral), messy, wrestling, gear, kilts and tailoring, top brands image-checked See [What's New in v86](#whats-new-in-v86).
 
 ### v84
-v84: adult levels and adult_ prefix, brand styles as design essence (style-only plus _named) See [What's New in v85](#whats-new-in-v85).
+v84: adult levels and adult_ prefix, brand styles as design essence (style-only plus _named) See [What's New in v86](#whats-new-in-v86).
 
 ### v83
-v83: 746 global brand styles across all eras and regions; richer illustration and photography style lists (59 files) See [What's New in v85](#whats-new-in-v85).
+v83: 746 global brand styles across all eras and regions; richer illustration and photography style lists (59 files) See [What's New in v86](#whats-new-in-v86).
 
 ### v82
-v82: art forms that are neither illustration nor photography: sculpture, craft, fibre and render/installation (96 forms, 1,158 files) See [What's New in v85](#whats-new-in-v85).
+v82: art forms that are neither illustration nor photography: sculpture, craft, fibre and render/installation (96 forms, 1,158 files) See [What's New in v86](#whats-new-in-v86).
 
 ### v81
-v81: robots (25 types), gadgets and tech devices (42 types) and maker reference files (801 new files) See [What's New in v85](#whats-new-in-v85).
+v81: robots (25 types), gadgets and tech devices (42 types) and maker reference files (801 new files) See [What's New in v86](#whats-new-in-v86).
 
 ### v80
-v80: treasure, card, mineral, sound, screen, art and nature collections (571 new files) See [What's New in v85](#whats-new-in-v85).
+v80: treasure, card, mineral, sound, screen, art and nature collections (571 new files) See [What's New in v86](#whats-new-in-v86).
 
 ### v79
-Noir (`nr_`), pirate (`pt_`) and spy (`sy_`) genres, money (`mo_`) and metalware (`mt_`) collections, full descriptions for named e-reader and phone models, and screen text given in quotation marks. See [What's New in v85](#whats-new-in-v85).
+Noir (`nr_`), pirate (`pt_`) and spy (`sy_`) genres, money (`mo_`) and metalware (`mt_`) collections, full descriptions for named e-reader and phone models, and screen text given in quotation marks. See [What's New in v86](#whats-new-in-v86).
 
 ### v78
-Cyberpunk (`cy_`), steampunk (`sp_`) and western (`we_`) genres, steampunk phones (`spp_`) and home and decorative collections (`hd_`). See [What's New in v85](#whats-new-in-v85).
+Cyberpunk (`cy_`), steampunk (`sp_`) and western (`we_`) genres, steampunk phones (`spp_`) and home and decorative collections (`hd_`). See [What's New in v86](#whats-new-in-v86).
 
 ### v77
-Fantasy (`fa_`), horror (`ho_`), people interacting (`pi_`), toys (`toy_`) and die-cast models (`dc_`). See [What's New in v85](#whats-new-in-v85).
+Fantasy (`fa_`), horror (`ho_`), people interacting (`pi_`), toys (`toy_`) and die-cast models (`dc_`). See [What's New in v86](#whats-new-in-v86).
 
 ### v76
 Science fiction (`sf_`), e-reader and phone timelines, and eight timekeeping and instrument collections (`col_`). Showcase prompts and sample prompts in `docs/showcase/`. See [What's New in v76](#whats-new-in-v76).
