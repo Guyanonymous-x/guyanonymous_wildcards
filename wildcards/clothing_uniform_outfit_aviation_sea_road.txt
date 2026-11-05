@@ -17,12 +17,12 @@ A pale blue flight suit with a ribbed collar, a soft flight cap, boots, the full
 A person dressed as a 1960s cabin crew member (jet age), which is a fitted jacket with a hat, a mini skirt, a pillbox hat and go-go boots
 A person dressed as a Formula One driver (racing), which is a fireproof racing suit with sponsor-free patches, a helmet and racing boots
 A person dressed as a London black cab driver (modern), which is a jumper and a flat cap, trousers, a flat cap and shoes
-A person dressed as a bus driver (modern), which is a waistcoat shirt with a tie and a badge, dark trousers and black shoes
+A person dressed as a bus driver (modern), which is a waistcoat shirt with a tie and a patch, dark trousers and black shoes
 A person dressed as a cosmonaut (space program), which is a pale blue flight suit with a ribbed collar, a soft flight cap and boots
 A person dressed as a cycle courier (city), which is a cycling jersey with a courier bag, cycling shorts, a cycling cap and cycling shoes
 A person dressed as a doorman (grand hotel), which is a long coat with gold braid and epaulettes, trousers, a top hat and black shoes
 A person dressed as a fisherman (North Atlantic), which is a thick Aran sweater with an oilskin smock, waders, a sou'wester and rubber boots
-A person dressed as a flight attendant (modern airline), which is a tailored jacket and neckerchief with a name badge, a pencil skirt, a pillbox hat and court shoes
+A person dressed as a flight attendant (modern airline), which is a tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat and court shoes
 A person dressed as a gondolier (Venice), which is a striped boat-neck shirt and a sash, dark trousers, a flat straw boater with a ribbon and rope-soled shoes
 A person dressed as a hot-air balloon pilot (ballooning), which is a windbreaker, cargo trousers, a baseball cap and boots
 A person dressed as a hotel bellhop (1930s), which is a short red jacket with gold braid, trousers with a stripe, a pillbox hat with a chin strap and black shoes
@@ -45,10 +45,10 @@ A shirt with headset and a lanyard, trousers, shoes, the full outfit of an air t
 A short red jacket with gold braid, trousers with a stripe, a pillbox hat with a chin strap, black shoes, the full outfit of a hotel bellhop
 A striped boat-neck shirt and a sash, dark trousers, a flat straw boater with a ribbon, rope-soled shoes, the full outfit of a gondolier
 A striped shirt with a neckerchief and a short jacket, slops, a knitted cap, bare feet, the full outfit of a sea shanty sailor
-A tailored jacket and neckerchief with a name badge, a pencil skirt, a pillbox hat, court shoes, the full outfit of a flight attendant
+A tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat, court shoes, the full outfit of a flight attendant
 A thick Aran sweater with an oilskin smock, waders, a sou'wester, rubber boots, the full outfit of a fisherman
 A vest and a loose shirt, short trousers, a conical straw hat, sandals, the full outfit of a rickshaw puller
-A waistcoat shirt with a tie and a badge, dark trousers, black shoes, the full outfit of a bus driver
+A waistcoat shirt with a tie and a patch, dark trousers, black shoes, the full outfit of a bus driver
 A white shirt with epaulettes and a dark jacket with gold stripes, dark trousers, a peaked cap, black shoes, the full outfit of an airline pilot
 A windbreaker, cargo trousers, a baseball cap, boots, the full outfit of a hot-air balloon pilot
 An orange pressure suit or a blue flight suit with mission patches, a white helmet with a gold visor, boots, the full outfit of an astronaut
@@ -66,10 +66,10 @@ a London black cab driver (modern), in a jumper and a flat cap and trousers and 
 a London black cab driver (modern), wearing a jumper and a flat cap, trousers, a flat cap and shoes
 a London black cab driver (modern), wearing a jumper and a flat cap, trousers, a flat cap and shoes and carrying a map
 a London black cab driver, dressed in a jumper and a flat cap with trousers
-a bus driver (modern), in a waistcoat shirt with a tie and a badge and dark trousers and black shoes
-a bus driver (modern), wearing a waistcoat shirt with a tie and a badge, dark trousers and black shoes
-a bus driver (modern), wearing a waistcoat shirt with a tie and a badge, dark trousers and black shoes and carrying a ticket machine
-a bus driver, dressed in a waistcoat shirt with a tie and a badge with dark trousers
+a bus driver (modern), in a waistcoat shirt with a tie and a patch and dark trousers and black shoes
+a bus driver (modern), wearing a waistcoat shirt with a tie and a patch, dark trousers and black shoes
+a bus driver (modern), wearing a waistcoat shirt with a tie and a patch, dark trousers and black shoes and carrying a ticket machine
+a bus driver, dressed in a waistcoat shirt with a tie and a patch with dark trousers
 a cosmonaut (space program), in a pale blue flight suit with a ribbed collar and a soft flight cap
 a cosmonaut (space program), in a pale blue flight suit with a ribbed collar and boots
 a cosmonaut (space program), wearing a pale blue flight suit with a ribbed collar, a soft flight cap and boots
@@ -89,11 +89,11 @@ a fisherman (North Atlantic), in a thick Aran sweater with an oilskin smock and 
 a fisherman (North Atlantic), wearing a thick Aran sweater with an oilskin smock, waders, a sou'wester and rubber boots
 a fisherman (North Atlantic), wearing a thick Aran sweater with an oilskin smock, waders, a sou'wester and rubber boots and carrying a net
 a fisherman, dressed in a thick Aran sweater with an oilskin smock with waders
-a flight attendant (modern airline), in a tailored jacket and neckerchief with a name badge and a pencil skirt and court shoes
-a flight attendant (modern airline), in a tailored jacket and neckerchief with a name badge and a pillbox hat
-a flight attendant (modern airline), wearing a tailored jacket and neckerchief with a name badge, a pencil skirt, a pillbox hat and court shoes
-a flight attendant (modern airline), wearing a tailored jacket and neckerchief with a name badge, a pencil skirt, a pillbox hat and court shoes and carrying a trolley
-a flight attendant, dressed in a tailored jacket and neckerchief with a name badge with a pencil skirt
+a flight attendant (modern airline), in a tailored jacket and neckerchief with a name patch and a pencil skirt and court shoes
+a flight attendant (modern airline), in a tailored jacket and neckerchief with a name patch and a pillbox hat
+a flight attendant (modern airline), wearing a tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat and court shoes
+a flight attendant (modern airline), wearing a tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat and court shoes and carrying a trolley
+a flight attendant, dressed in a tailored jacket and neckerchief with a name patch with a pencil skirt
 a gondolier (Venice), in a striped boat-neck shirt and a sash and a flat straw boater with a ribbon
 a gondolier (Venice), in a striped boat-neck shirt and a sash and dark trousers and rope-soled shoes
 a gondolier (Venice), wearing a striped boat-neck shirt and a sash, dark trousers, a flat straw boater with a ribbon and rope-soled shoes

@@ -4,7 +4,7 @@ __acc_adj_fine__ Maori carved lanyard, made of __acc_lanyard_mat_all_fine__. It 
 __acc_adj_fine__ Mexican woven lanyard, made of __acc_lanyard_mat_all_fine__. It is a bright woven cord.
 __acc_adj_fine__ Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine__. It is a beaded or quilled strap.
 __acc_adj_fine__ Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid.
-__acc_adj_fine__ badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
+__acc_adj_fine__ patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
 __acc_adj_fine__ beaded lanyard, made of __acc_lanyard_mat_all_fine__. It is a string of beads.
 __acc_adj_fine__ braided cord lanyard, made of __acc_lanyard_mat_all_fine__. It is a plaited cord.
 __acc_adj_fine__ breakaway lanyard, made of __acc_lanyard_mat_all_fine__. It has a clasp that releases under force.
@@ -48,8 +48,8 @@ a beautifully finished tool lanyard, made of __acc_lanyard_mat_all_fine__. It is
 a beautifully finished tool lanyard, made of __acc_lanyard_mat_all_fine__. It is a strap with a clip for a tool. It also includes __acc_lanyard_practical__.
 a crisp Mexican woven lanyard, made of __acc_lanyard_mat_all_fine__. It is a bright woven cord.
 a crisp Mexican woven lanyard, made of __acc_lanyard_mat_all_fine__. It is a bright woven cord. It also includes __acc_lanyard_practical__.
-a crisp badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-a crisp badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+a crisp patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+a crisp patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 a crisp chain lanyard, made of __acc_lanyard_mat_all_fine__. It is a thin metal chain.
 a crisp chain lanyard, made of __acc_lanyard_mat_all_fine__. It is a thin metal chain. It also includes __acc_lanyard_practical__.
 a crisp clip-on lanyard, made of __acc_lanyard_mat_all_fine__. It clips at the belt.
@@ -86,8 +86,8 @@ a deft Maori carved lanyard, made of __acc_lanyard_mat_all_fine__. It is a cord 
 a deft Maori carved lanyard, made of __acc_lanyard_mat_all_fine__. It is a cord with a carved bone toggle. It also includes __acc_lanyard_practical__.
 a deft Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine__. It is a beaded or quilled strap.
 a deft Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine__. It is a beaded or quilled strap. It also includes __acc_lanyard_practical__.
-a deft badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-a deft badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+a deft patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+a deft patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 a deft breakaway lanyard, made of __acc_lanyard_mat_all_fine__. It has a clasp that releases under force.
 a deft breakaway lanyard, made of __acc_lanyard_mat_all_fine__. It has a clasp that releases under force. It also includes __acc_lanyard_practical__.
 a deft paracord lanyard, made of __acc_lanyard_mat_all_fine__. It is a woven cord.
@@ -132,8 +132,8 @@ a distinguished Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine
 a distinguished Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine__. It is a beaded or quilled strap. It also includes __acc_lanyard_practical__.
 a distinguished Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid.
 a distinguished Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid. It also includes __acc_lanyard_practical__.
-a distinguished badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-a distinguished badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+a distinguished patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+a distinguished patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 a distinguished breakaway lanyard, made of __acc_lanyard_mat_all_fine__. It has a clasp that releases under force.
 a distinguished breakaway lanyard, made of __acc_lanyard_mat_all_fine__. It has a clasp that releases under force. It also includes __acc_lanyard_practical__.
 a distinguished camera-free key lanyard, made of __acc_lanyard_mat_all_fine__. It is a strap with a swivel hook for keys.
@@ -172,8 +172,8 @@ a finely made silk-cord lanyard, made of __acc_lanyard_mat_all_fine__. It is a t
 a finely made silk-cord lanyard, made of __acc_lanyard_mat_all_fine__. It is a thin cord of braided silk. It also includes __acc_lanyard_practical__.
 a finely made whistle lanyard, made of __acc_lanyard_mat_all_fine__. It has a whistle on the end.
 a finely made whistle lanyard, made of __acc_lanyard_mat_all_fine__. It has a whistle on the end. It also includes __acc_lanyard_practical__.
-a graceful badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-a graceful badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+a graceful patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+a graceful patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 a graceful camera-free key lanyard, made of __acc_lanyard_mat_all_fine__. It is a strap with a swivel hook for keys.
 a graceful camera-free key lanyard, made of __acc_lanyard_mat_all_fine__. It is a strap with a swivel hook for keys. It also includes __acc_lanyard_practical__.
 a graceful nylon webbing lanyard, made of __acc_lanyard_mat_all_fine__. It is a flat tough strap.
@@ -288,8 +288,8 @@ a polished Maori carved lanyard, made of __acc_lanyard_mat_all_fine__. It is a c
 a polished Maori carved lanyard, made of __acc_lanyard_mat_all_fine__. It is a cord with a carved bone toggle. It also includes __acc_lanyard_practical__.
 a polished Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid.
 a polished Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid. It also includes __acc_lanyard_practical__.
-a polished badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-a polished badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+a polished patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+a polished patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 a polished breakaway lanyard, made of __acc_lanyard_mat_all_fine__. It has a clasp that releases under force.
 a polished breakaway lanyard, made of __acc_lanyard_mat_all_fine__. It has a clasp that releases under force. It also includes __acc_lanyard_practical__.
 a polished camera-free key lanyard, made of __acc_lanyard_mat_all_fine__. It is a strap with a swivel hook for keys.
@@ -312,8 +312,8 @@ a premium-feeling Japanese kumihimo lanyard, made of __acc_lanyard_mat_all_fine_
 a premium-feeling Japanese kumihimo lanyard, made of __acc_lanyard_mat_all_fine__. It is a braided silk cord. It also includes __acc_lanyard_practical__.
 a premium-feeling Mexican woven lanyard, made of __acc_lanyard_mat_all_fine__. It is a bright woven cord.
 a premium-feeling Mexican woven lanyard, made of __acc_lanyard_mat_all_fine__. It is a bright woven cord. It also includes __acc_lanyard_practical__.
-a premium-feeling badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-a premium-feeling badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+a premium-feeling patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+a premium-feeling patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 a premium-feeling braided cord lanyard, made of __acc_lanyard_mat_all_fine__. It is a plaited cord.
 a premium-feeling braided cord lanyard, made of __acc_lanyard_mat_all_fine__. It is a plaited cord. It also includes __acc_lanyard_practical__.
 a premium-feeling chain lanyard, made of __acc_lanyard_mat_all_fine__. It is a thin metal chain.
@@ -332,8 +332,8 @@ a refined Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine__. It
 a refined Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine__. It is a beaded or quilled strap. It also includes __acc_lanyard_practical__.
 a refined Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid.
 a refined Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid. It also includes __acc_lanyard_practical__.
-a refined badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-a refined badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+a refined patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+a refined patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 a refined camera-free key lanyard, made of __acc_lanyard_mat_all_fine__. It is a strap with a swivel hook for keys.
 a refined camera-free key lanyard, made of __acc_lanyard_mat_all_fine__. It is a strap with a swivel hook for keys. It also includes __acc_lanyard_practical__.
 a refined hemp lanyard, made of __acc_lanyard_mat_all_fine__. It is a twisted cord of hemp.
@@ -356,8 +356,8 @@ a skilfully made Andean woven lanyard, made of __acc_lanyard_mat_all_fine__. It 
 a skilfully made Andean woven lanyard, made of __acc_lanyard_mat_all_fine__. It is a woven band with small patterns. It also includes __acc_lanyard_practical__.
 a skilfully made Maori carved lanyard, made of __acc_lanyard_mat_all_fine__. It is a cord with a carved bone toggle.
 a skilfully made Maori carved lanyard, made of __acc_lanyard_mat_all_fine__. It is a cord with a carved bone toggle. It also includes __acc_lanyard_practical__.
-a skilfully made badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-a skilfully made badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+a skilfully made patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+a skilfully made patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 a skilfully made breakaway lanyard, made of __acc_lanyard_mat_all_fine__. It has a clasp that releases under force.
 a skilfully made breakaway lanyard, made of __acc_lanyard_mat_all_fine__. It has a clasp that releases under force. It also includes __acc_lanyard_practical__.
 a skilfully made elastic lanyard, made of __acc_lanyard_mat_all_fine__. It is a stretchy cord.
@@ -408,8 +408,8 @@ a sophisticated Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine
 a sophisticated Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine__. It is a beaded or quilled strap. It also includes __acc_lanyard_practical__.
 a sophisticated Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid.
 a sophisticated Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid. It also includes __acc_lanyard_practical__.
-a sophisticated badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-a sophisticated badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+a sophisticated patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+a sophisticated patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 a sophisticated braided cord lanyard, made of __acc_lanyard_mat_all_fine__. It is a plaited cord.
 a sophisticated braided cord lanyard, made of __acc_lanyard_mat_all_fine__. It is a plaited cord. It also includes __acc_lanyard_practical__.
 a sophisticated camera-free key lanyard, made of __acc_lanyard_mat_all_fine__. It is a strap with a swivel hook for keys.
@@ -592,8 +592,8 @@ an artful Japanese kumihimo lanyard, made of __acc_lanyard_mat_all_fine__. It is
 an artful Japanese kumihimo lanyard, made of __acc_lanyard_mat_all_fine__. It is a braided silk cord. It also includes __acc_lanyard_practical__.
 an artful Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine__. It is a beaded or quilled strap.
 an artful Native-style quilled lanyard, made of __acc_lanyard_mat_all_fine__. It is a beaded or quilled strap. It also includes __acc_lanyard_practical__.
-an artful badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-an artful badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+an artful patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+an artful patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 an artful beaded lanyard, made of __acc_lanyard_mat_all_fine__. It is a string of beads.
 an artful beaded lanyard, made of __acc_lanyard_mat_all_fine__. It is a string of beads. It also includes __acc_lanyard_practical__.
 an artful braided cord lanyard, made of __acc_lanyard_mat_all_fine__. It is a plaited cord.
@@ -694,8 +694,8 @@ an exquisitely proportioned Mexican woven lanyard, made of __acc_lanyard_mat_all
 an exquisitely proportioned Mexican woven lanyard, made of __acc_lanyard_mat_all_fine__. It is a bright woven cord. It also includes __acc_lanyard_practical__.
 an exquisitely proportioned Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid.
 an exquisitely proportioned Sami braided lanyard, made of __acc_lanyard_mat_all_fine__. It is a leather cord with a pewter-thread braid. It also includes __acc_lanyard_practical__.
-an exquisitely proportioned badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-an exquisitely proportioned badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+an exquisitely proportioned patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+an exquisitely proportioned patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 an exquisitely proportioned leather lanyard, made of __acc_lanyard_mat_all_fine__. It is a stitched leather strap.
 an exquisitely proportioned leather lanyard, made of __acc_lanyard_mat_all_fine__. It is a stitched leather strap. It also includes __acc_lanyard_practical__.
 an exquisitely proportioned nylon webbing lanyard, made of __acc_lanyard_mat_all_fine__. It is a flat tough strap.
@@ -708,8 +708,8 @@ an exquisitely proportioned whistle lanyard, made of __acc_lanyard_mat_all_fine_
 an exquisitely proportioned whistle lanyard, made of __acc_lanyard_mat_all_fine__. It has a whistle on the end. It also includes __acc_lanyard_practical__.
 an exquisitely proportioned wrist lanyard, made of __acc_lanyard_mat_all_fine__. It is a short strap worn at the wrist.
 an exquisitely proportioned wrist lanyard, made of __acc_lanyard_mat_all_fine__. It is a short strap worn at the wrist. It also includes __acc_lanyard_practical__.
-an immaculate badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge.
-an immaculate badge lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a badge. It also includes __acc_lanyard_practical__.
+an immaculate patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch.
+an immaculate patch lanyard, made of __acc_lanyard_mat_all_fine__. It has a clip for a patch. It also includes __acc_lanyard_practical__.
 an immaculate braided cord lanyard, made of __acc_lanyard_mat_all_fine__. It is a plaited cord.
 an immaculate braided cord lanyard, made of __acc_lanyard_mat_all_fine__. It is a plaited cord. It also includes __acc_lanyard_practical__.
 an immaculate camera-free key lanyard, made of __acc_lanyard_mat_all_fine__. It is a strap with a swivel hook for keys.

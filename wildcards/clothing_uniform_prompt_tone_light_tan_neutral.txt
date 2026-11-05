@@ -10,7 +10,7 @@ A bright coloured robe with a sash, wide trousers, a black horsehair hat, boots,
 A bright shirt with a protective vest, chaps over jeans, a cowboy hat, boots, the full outfit of a rodeo cowboy, with light tan skin
 A brocade cape, a plumed hat and a mask, shoes, the full outfit of a Carnival of Venice reveller, with light tan skin
 A bronze breastplate, the full outfit of a centaur trainer, with light tan skin
-A colourful scrub top with an ID badge and a stethoscope round the neck, scrub trousers, white trainers, the full outfit of a hospital nurse, with light tan skin
+A colourful scrub top with an ID patch and a stethoscope round the neck, scrub trousers, white trainers, the full outfit of a hospital nurse, with light tan skin
 A crimson velvet jacket, trousers, curved horns, boots, the full outfit of a horned noble, with light tan skin
 A dark green jacket with reflective stripes, a high-visibility vest and a radio on the shoulder, dark cargo trousers, black work boots, the full outfit of a paramedic, with light tan skin
 A dark robe with a mask and scarf, trousers, a headband, sandals, the full outfit of a ninja clan leader, with light tan skin
@@ -114,7 +114,7 @@ A person dressed as a marching band member (parade), which is a braided tunic wi
 A person dressed as a medieval jester (Europe), which is a patchwork tunic, tights, a hat with bells and curled shoes, with light tan skin
 A person dressed as a mothman-style cryptid (folklore), which is a dark furry suit with wings and red eyes, with light tan skin
 A person dressed as a news anchor (studio), which is a tailored jacket and blouse or shirt and tie and shoes, with light tan skin
-A person dressed as a park ranger (national park), which is a green shirt with a badge and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, with light tan skin
+A person dressed as a park ranger (national park), which is a green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, with light tan skin
 A person dressed as a phoenix (myth), which is a feathered flame costume and a feathered crest, with light tan skin
 A person dressed as a powered-armour engineer hero (superhero), with a segmented metal armour suit with glowing vents, a helmet and boots, with light tan skin
 A person dressed as a prison guard (modern), which is a pale blue shirt with a duty belt, dark trousers and boots, with light tan skin
@@ -182,7 +182,7 @@ A teal scaled armour with fins, a crown, boots, the full outfit of an ocean cham
 A team jersey, white breeches, a helmet, tall boots, the full outfit of a polo player, with light tan skin
 A thick coat and a scarf, trousers, a hat, boots, the full outfit of an amateur astronomer, with light tan skin
 A torn bloodied shirt, torn trousers, the full outfit of a zombie, with light tan skin
-A tunic with a name badge, trousers, comfortable shoes, the full outfit of a housekeeper, with light tan skin
+A tunic with a name patch, trousers, comfortable shoes, the full outfit of a housekeeper, with light tan skin
 A velvet jacket with a plaid, a kilt, a glengarry, ghillie brogues, the full outfit of a Highland dancer, with light tan skin
 A waistcoat with a tape measure round the neck and pins on the lapel, trousers, shoes, the full outfit of a tailor, with light tan skin
 A white and gold robe with a horned crown, a crown, sandals, the full outfit of a spirit shrine guardian, with light tan skin
@@ -211,7 +211,7 @@ a Bollywood dancer, dressed in a sparkling blouse with a flared skirt, with ligh
 a Brazilian samba dancer (Carnival), in a feathered bodysuit and heels, with light tan skin
 a British bobby (London, 20th century), wearing a dark tunic with silver buttons and a whistle chain, dark trousers, a tall custodian helmet and black boots, with light tan skin
 a Catholic priest (church), in a black cassock with a white clerical collar and a biretta, with light tan skin
-a Chinese imperial court official (Qing dynasty), wearing a long silk robe with a mandarin square badge, a hat with a button and cloth boots, with light tan skin
+a Chinese imperial court official (Qing dynasty), wearing a long silk robe with a mandarin square patch, a hat with a button and cloth boots, with light tan skin
 a Cold War astronaut trainer (1960s), in a pressure suit and boots, with light tan skin
 a Cossack, dressed in a long coat with cartridge pouches across the chest with wide trousers, with light tan skin
 a Day of the Dead catrina (Mexico), in a long ruffled dress and a flowered hat with face paint, with light tan skin
@@ -246,7 +246,7 @@ a Scottish Highland soldier (ceremonial), wearing a doublet with a plaid sash, a
 a Shinto priest (Japan), in a white robe with a pale blue hakama and a tall black hat, with light tan skin
 a Spartan-inspired warrior (fantasy), in a red cloak and a bronze breastplate and a crested helmet, with light tan skin
 a Sufi dervish, dressed in a white wide-skirted robe with a black cloak, with light tan skin
-a Texas ranger (American West), in a vest with a star badge, a long coat and a string tie and a cream Stetson, with light tan skin
+a Texas ranger (American West), in a vest with a star patch, a long coat and a string tie and a cream Stetson, with light tan skin
 a Thai classical dancer, dressed in a gold-embroidered silk top with a sash with a wrapped skirt, with light tan skin
 a Tour de France climber (road race), wearing a polka-dot jersey, bib shorts, a helmet and cycling shoes and carrying a bidon, with light tan skin
 a Tour de France spectator (roadside), wearing a polka-dot costume and a flag and a cap and carrying a flag, with light tan skin
@@ -284,7 +284,7 @@ a bog witch (folklore), in a muddy cloak with reeds and boots, with light tan sk
 a bomb disposal technician (modern), wearing a heavy blast suit, a blast helmet with a visor and heavy boots, with light tan skin
 a bullfighter (Spain), wearing a short embroidered jacket in gold thread with a sash, tight breeches, a montera hat and slippers, with light tan skin
 a bunker dweller (wasteland), in a grey jumpsuit with patches and boots, with light tan skin
-a bus driver (modern), wearing a waistcoat shirt with a tie and a badge, dark trousers and black shoes and carrying a ticket machine, with light tan skin
+a bus driver (modern), wearing a waistcoat shirt with a tie and a patch, dark trousers and black shoes and carrying a ticket machine, with light tan skin
 a business suit wearer (office), in a navy two-piece suit jacket, a white shirt and a silk tie with a pocket square and suit trousers and oxford shoes, with light tan skin
 a butcher (shop), wearing a striped apron over a white coat, trousers, a straw boater and clogs, with light tan skin
 a butler (stately home), wearing a black tailcoat with a white shirt and a white bow tie, striped trousers and black shoes, with light tan skin
@@ -299,7 +299,7 @@ a casino croupier, dressed in a waistcoat and bow tie with black trousers, with 
 a chauffeur (1930s), in a double-breasted jacket with leather gaiters and a peaked cap, with light tan skin
 a cheerleader, dressed in a pleated uniform top with a pleated skirt, with light tan skin
 a cheese rolling competitor, dressed in a padded jumper with shorts, with light tan skin
-a chess club champion (club), wearing a blazer with a club badge, trousers and shoes, with light tan skin
+a chess club champion (club), wearing a blazer with a club patch, trousers and shoes, with light tan skin
 a chicken suit wearer (promotion), wearing a feathered chicken suit, a beaked hood and yellow feet, with light tan skin
 a chocolatier (shop), in a white jacket with a hat and a cap, with light tan skin
 a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes, with light tan skin
@@ -350,7 +350,7 @@ a fisherman (North Atlantic), in a thick Aran sweater with an oilskin smock and 
 a fishmonger, dressed in a rubber apron over a waterproof smock with waders, with light tan skin
 a flamenco dancer (Spain), in a ruffled dress and heeled shoes, with light tan skin
 a fleet pilot (sci-fi), in a teal flight suit with a vest and boots, with light tan skin
-a flight attendant (modern airline), in a tailored jacket and neckerchief with a name badge and a pencil skirt and court shoes, with light tan skin
+a flight attendant (modern airline), in a tailored jacket and neckerchief with a name patch and a pencil skirt and court shoes, with light tan skin
 a football goalkeeper, dressed in a long-sleeved padded jersey and gloves with shorts, with light tan skin
 a football supporter (stadium), in a team shirt with a scarf and jeans and trainers, with light tan skin
 a forester (woodland), wearing a plaid shirt with chainsaw-protective chaps, work trousers, a hard hat with a visor and boots and carrying a chainsaw, with light tan skin
@@ -377,7 +377,7 @@ a grapple-line scout, dressed in a brown cloak over a harness with grappling gea
 a graveyard keeper (gothic), in a patched coat and a hat, with light tan skin
 a grim reaper (folklore), wearing a black hooded robe and a hood and carrying a scythe, with light tan skin
 a gymnast (competition), wearing a sparkling leotard and bare feet, with light tan skin
-a hanbok-wearing court official (Joseon), wearing a blue robe with a rank badge, a black winged hat and shoes and carrying a tablet, with light tan skin
+a hanbok-wearing court official (Joseon), wearing a blue robe with a rank patch, a black winged hat and shoes and carrying a tablet, with light tan skin
 a harvest king (folklore), wearing a straw cape and a crown of wheat and carrying a sickle, with light tan skin
 a haunted house butler (gothic), in a tattered tailcoat and trousers and shoes, with light tan skin
 a head chef (restaurant), in a white double-breasted jacket with a neckerchief and an apron and a tall pleated toque, with light tan skin
@@ -437,7 +437,7 @@ a museum guide, dressed in a blazer with a lanyard with trousers, with light tan
 a mushroom forager (forest), wearing a wicker basket and a coat, trousers, a hat and boots, with light tan skin
 a necromancer (fantasy), wearing a tattered black robe with bone clasps and a hooded cloak, a horned skull circlet and boots, with light tan skin
 a neon street samurai (cyberpunk), wearing a glowing trench coat, trousers, a visor and boots, with light tan skin
-a newspaper vendor, dressed in a flat cap, a waistcoat and rolled sleeves with trousers, with light tan skin
+a folded paper sheet vendor, dressed in a flat cap, a waistcoat and rolled sleeves with trousers, with light tan skin
 a night vigilante (superhero), wearing a charcoal hooded armoured jacket with a short cape, a half mask and boots, with light tan skin
 a ninja (cosplay), wearing a black wrap tunic, trousers, a hood and mask and split-toe shoes and carrying a short sword, with light tan skin
 a painter, dressed in a smock splattered with paint with trousers, with light tan skin
@@ -447,14 +447,14 @@ a pantomime horse (theatre), wearing a two-person horse suit, a horse head and h
 a paratrooper, dressed in a camouflage smock, webbing and a parachute harness with baggy trousers, with light tan skin
 a pastry chef (bakery), in a white jacket with a small cravat and a skull cap, with light tan skin
 a patterned-haori swordsperson (anime-inspired), wearing a patterned haori over a plain kimono, trousers and sandals and carrying a sword, with light tan skin
-a pharmacist, dressed in a white lab coat over a shirt with a name badge with dark trousers, with light tan skin
-a physiotherapist, dressed in a polo shirt with a clinic logo-free badge and a tape measure round the neck with athletic trousers, with light tan skin
+a pharmacist, dressed in a white lab coat over a shirt with a name patch with dark trousers, with light tan skin
+a physiotherapist, dressed in a polo shirt with a clinic motif-free patch and a tape measure round the neck with athletic trousers, with light tan skin
 a pirate crew member (pirate), wearing a laced bodice with a blouse, a patched skirt, a bandana and boots and carrying a flagon, with light tan skin
 a pit crew mechanic (racing), wearing a fireproof overall, a helmet and boots, with light tan skin
 a plague knight (fantasy), in dark plate armour with a beaked helmet and armoured boots, with light tan skin
 a planet colonist (sci-fi), in a padded jumpsuit with patches and boots, with light tan skin
 a plumber (call-out), in a work shirt and a knee-padded trouser set and a cap, with light tan skin
-a police officer, dressed in a dark shirt with a badge, shoulder patches, an utility belt and a radio with dark trousers, with light tan skin
+a police officer, dressed in a dark shirt with a patch, shoulder patches, an utility belt and a radio with dark trousers, with light tan skin
 a post-apocalyptic scavenger, dressed in patched armour of scrap and leather with ragged trousers, with light tan skin
 a postal worker (city), wearing a uniform shirt with a bag across the body, shorts, a pith helmet and shoes, with light tan skin
 a postmaster (village), in a double-breasted jacket and a peaked cap, with light tan skin
@@ -479,7 +479,7 @@ a samurai-inspired warrior (fantasy), in lacquered plate armour with a silk cord
 a satyr (myth), in a goat-fur kilt and hooves, with light tan skin
 a scarecrow (autumn), wearing a patched shirt with straw, patched trousers, a straw hat and boots, with light tan skin
 a scarecrow king (horror), wearing a straw-stuffed jacket, a sack mask and boots, with light tan skin
-a scrap queen (wasteland), wearing armour made from road signs and tyres, a gas mask and boots and carrying a pipe, with light tan skin
+a scrap queen (wasteland), wearing armour made from road lit panels and tyres, a gas mask and boots and carrying a pipe, with light tan skin
 a sea shanty sailor (18th century), wearing a striped shirt with a neckerchief and a short jacket, slops, a knitted cap and bare feet, with light tan skin
 a sea witch (fantasy), in a robe of fishing net and shells and a coral crown, with light tan skin
 a search and rescue dog handler, dressed in a high-visibility vest with a harness with cargo trousers, with light tan skin
@@ -490,7 +490,7 @@ a shaman (Siberia), wearing a robe hung with ribbons and bells, a feathered head
 a shapeshifting hero (superhero), in a skin-tight patterned suit and boots, with light tan skin
 a shark onesie wearer (home), in a grey plush shark onesie and a shark hood, with light tan skin
 a shepherd, dressed in a wool smock and a long cloak with wool trousers, with light tan skin
-a sheriff (American West), in a vest with a star badge over a plaid shirt and jeans and spurred boots, with light tan skin
+a sheriff (American West), in a vest with a star patch over a plaid shirt and jeans and spurred boots, with light tan skin
 a sheriff's deputy, dressed in a tan uniform shirt with a star with dark green trousers, with light tan skin
 a ship captain (merchant navy), in a navy double-breasted jacket with four gold stripes and trousers and black shoes, with light tan skin
 a ship's captain (sci-fi), wearing a fitted tunic with a gold sash, trousers and boots and carrying a data pad, with light tan skin

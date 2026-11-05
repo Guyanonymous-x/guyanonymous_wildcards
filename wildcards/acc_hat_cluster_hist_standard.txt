@@ -136,8 +136,8 @@ a comfortable kepi, made of __acc_hat_mat_hist_standard__. It is a flat-topped c
 a comfortable kepi, made of __acc_hat_mat_hist_standard__. It is a flat-topped cap with a stiff visor. __acc_hat_trim_standard__
 a comfortable pillbox with a veil, made of __acc_hat_mat_hist_standard__. It is a small flat-topped drum with a net veil.
 a comfortable pillbox with a veil, made of __acc_hat_mat_hist_standard__. It is a small flat-topped drum with a net veil. __acc_hat_trim_standard__
-a comfortable shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge.
-a comfortable shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_standard__
+a comfortable shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch.
+a comfortable shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_standard__
 a comfortable tam o' shanter, made of __acc_hat_mat_hist_standard__. It is a wide flat wool beret with a pom-pom.
 a comfortable tam o' shanter, made of __acc_hat_mat_hist_standard__. It is a wide flat wool beret with a pom-pom. __acc_hat_trim_standard__
 a comfortable turban, made of __acc_hat_mat_hist_standard__. It is a long cloth wound around the head in neat folds.
@@ -188,8 +188,8 @@ a considered peach-basket hat, made of __acc_hat_mat_hist_standard__. It is an u
 a considered peach-basket hat, made of __acc_hat_mat_hist_standard__. It is an upturned basket shape lavishly trimmed with flowers. __acc_hat_trim_standard__
 a considered printer's paper hat, made of __acc_hat_mat_hist_standard__. It is a folded newsprint hat with a point.
 a considered printer's paper hat, made of __acc_hat_mat_hist_standard__. It is a folded newsprint hat with a point. __acc_hat_trim_standard__
-a considered shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge.
-a considered shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_standard__
+a considered shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch.
+a considered shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_standard__
 a considered sombrero, made of __acc_hat_mat_hist_standard__. It is a tall crown on a huge saucer-shaped brim, trimmed with embroidery.
 a considered sombrero, made of __acc_hat_mat_hist_standard__. It is a tall crown on a huge saucer-shaped brim, trimmed with embroidery. __acc_hat_trim_standard__
 a considered sou'wester, made of __acc_hat_mat_hist_standard__. It is a brimmed oilskin rain hat, longer at the back.
@@ -280,8 +280,8 @@ a good-looking papakha, made of __acc_hat_mat_hist_standard__. It is a tall, sha
 a good-looking papakha, made of __acc_hat_mat_hist_standard__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_standard__
 a good-looking pith helmet, made of __acc_hat_mat_hist_standard__. It is a domed, cork-like sun helmet with a puggaree band.
 a good-looking pith helmet, made of __acc_hat_mat_hist_standard__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_standard__
-a good-looking shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge.
-a good-looking shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_standard__
+a good-looking shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch.
+a good-looking shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_standard__
 a good-looking tubeteika, made of __acc_hat_mat_hist_standard__. It is a small embroidered four-sided cap.
 a good-looking tubeteika, made of __acc_hat_mat_hist_standard__. It is a small embroidered four-sided cap. __acc_hat_trim_standard__
 a good-looking ushanka, made of __acc_hat_mat_hist_standard__. It is a fur hat with ear flaps that tie up on top.
@@ -386,8 +386,8 @@ a nicely finished mortarboard, made of __acc_hat_mat_hist_standard__. It is a fl
 a nicely finished mortarboard, made of __acc_hat_mat_hist_standard__. It is a flat square board on a skullcap with a tassel. __acc_hat_trim_standard__
 a nicely finished peach-basket hat, made of __acc_hat_mat_hist_standard__. It is an upturned basket shape lavishly trimmed with flowers.
 a nicely finished peach-basket hat, made of __acc_hat_mat_hist_standard__. It is an upturned basket shape lavishly trimmed with flowers. __acc_hat_trim_standard__
-a nicely finished shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge.
-a nicely finished shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_standard__
+a nicely finished shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch.
+a nicely finished shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_standard__
 a nicely finished snood, made of __acc_hat_mat_hist_standard__. It is a net bag that holds the hair at the back.
 a nicely finished snood, made of __acc_hat_mat_hist_standard__. It is a net bag that holds the hair at the back. __acc_hat_trim_standard__
 a personable Balmoral bonnet, made of __acc_hat_mat_hist_standard__. It is a flat soft round cap with a pom-pom and ribbon.
@@ -598,8 +598,8 @@ a shapely mobcap, made of __acc_hat_mat_hist_standard__. It is a gathered, ruffl
 a shapely mobcap, made of __acc_hat_mat_hist_standard__. It is a gathered, ruffled indoor bonnet. __acc_hat_trim_standard__
 a shapely mortarboard, made of __acc_hat_mat_hist_standard__. It is a flat square board on a skullcap with a tassel.
 a shapely mortarboard, made of __acc_hat_mat_hist_standard__. It is a flat square board on a skullcap with a tassel. __acc_hat_trim_standard__
-a shapely shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge.
-a shapely shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_standard__
+a shapely shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch.
+a shapely shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_standard__
 a shapely songkok, made of __acc_hat_mat_hist_standard__. It is a rigid velvet cap with a flat top.
 a shapely songkok, made of __acc_hat_mat_hist_standard__. It is a rigid velvet cap with a flat top. __acc_hat_trim_standard__
 a shapely turban, made of __acc_hat_mat_hist_standard__. It is a long cloth wound around the head in neat folds.
@@ -650,8 +650,8 @@ a solid poke bonnet, made of __acc_hat_mat_hist_standard__. It is a bonnet with 
 a solid poke bonnet, made of __acc_hat_mat_hist_standard__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_standard__
 a solid printer's paper hat, made of __acc_hat_mat_hist_standard__. It is a folded newsprint hat with a point.
 a solid printer's paper hat, made of __acc_hat_mat_hist_standard__. It is a folded newsprint hat with a point. __acc_hat_trim_standard__
-a solid shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge.
-a solid shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_standard__
+a solid shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch.
+a solid shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_standard__
 a solid smoking cap, made of __acc_hat_mat_hist_standard__. It is a small tasselled cap embroidered with a pattern.
 a solid smoking cap, made of __acc_hat_mat_hist_standard__. It is a small tasselled cap embroidered with a pattern. __acc_hat_trim_standard__
 a solid tengkolok, made of __acc_hat_mat_hist_standard__. It is a folded and tied patterned cloth headdress.
@@ -810,8 +810,8 @@ a well-built papakha, made of __acc_hat_mat_hist_standard__. It is a tall, shagg
 a well-built papakha, made of __acc_hat_mat_hist_standard__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_standard__
 a well-built pith helmet, made of __acc_hat_mat_hist_standard__. It is a domed, cork-like sun helmet with a puggaree band.
 a well-built pith helmet, made of __acc_hat_mat_hist_standard__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_standard__
-a well-built shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge.
-a well-built shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_standard__
+a well-built shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch.
+a well-built shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_standard__
 a well-built shtreimel-style fur hat, made of __acc_hat_mat_hist_standard__. It is a wide, round, fur-trimmed velvet hat.
 a well-built shtreimel-style fur hat, made of __acc_hat_mat_hist_standard__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_standard__
 a well-built snood, made of __acc_hat_mat_hist_standard__. It is a net bag that holds the hair at the back.
@@ -994,8 +994,8 @@ an orderly kofia, made of __acc_hat_mat_hist_standard__. It is a flat-topped cyl
 an orderly kofia, made of __acc_hat_mat_hist_standard__. It is a flat-topped cylindrical embroidered cap. __acc_hat_trim_standard__
 an orderly montera, made of __acc_hat_mat_hist_standard__. It is a black two-lobed cap with ears, worn by bullfighters.
 an orderly montera, made of __acc_hat_mat_hist_standard__. It is a black two-lobed cap with ears, worn by bullfighters. __acc_hat_trim_standard__
-an orderly shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge.
-an orderly shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_standard__
+an orderly shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch.
+an orderly shako, made of __acc_hat_mat_hist_standard__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_standard__
 an orderly shtreimel-style fur hat, made of __acc_hat_mat_hist_standard__. It is a wide, round, fur-trimmed velvet hat.
 an orderly shtreimel-style fur hat, made of __acc_hat_mat_hist_standard__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_standard__
 an orderly snood, made of __acc_hat_mat_hist_standard__. It is a net bag that holds the hair at the back.

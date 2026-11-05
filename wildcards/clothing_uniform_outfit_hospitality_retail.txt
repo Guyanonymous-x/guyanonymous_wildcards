@@ -27,7 +27,7 @@ A person dressed as a diner server in the 1950s (diner), which is a short sleeve
 A person dressed as a florist (shop), which is a green apron over a blouse, trousers and clogs
 A person dressed as a graduate (graduation), which is a gown with a hood, a mortarboard and shoes
 A person dressed as a head chef (restaurant), which is a white double-breasted jacket with a neckerchief and an apron, checked trousers, a tall pleated toque and clogs
-A person dressed as a housekeeper (hotel), which is a tunic with a name badge, trousers and comfortable shoes
+A person dressed as a housekeeper (hotel), which is a tunic with a name patch, trousers and comfortable shoes
 A person dressed as a judge (court), which is a scarlet robe with an ermine collar, a full-bottomed wig and shoes
 A person dressed as a lawyer (court), which is a black robe with white bands, a horsehair wig and shoes
 A person dressed as a librarian (library), which is a cardigan with a chain of glasses, a skirt and shoes
@@ -54,7 +54,7 @@ A shirt and tie with a vest, trousers, shoes, the full outfit of a bank teller
 A short sleeve dress with an apron, a paper cap, sneakers, the full outfit of a diner server in the 1950s
 A short sleeve shirt and thin tie with a pocket protector, trousers, shoes, the full outfit of an office worker
 A striped shirt with sleeve garters and a vest, trousers, a bowler hat, boots, the full outfit of a saloon barkeep
-A tunic with a name badge, trousers, comfortable shoes, the full outfit of a housekeeper
+A tunic with a name patch, trousers, comfortable shoes, the full outfit of a housekeeper
 A tweed jacket with chalk-dusted elbow patches, trousers, shoes, the full outfit of a teacher
 A waistcoat and bow tie, black trousers, shoes, the full outfit of a casino croupier
 A waistcoat with sleeve garters over a white shirt, trousers, shoes, the full outfit of a bartender
@@ -119,10 +119,10 @@ a head chef (restaurant), in a white double-breasted jacket with a neckerchief a
 a head chef (restaurant), wearing a white double-breasted jacket with a neckerchief and an apron, checked trousers, a tall pleated toque and clogs
 a head chef (restaurant), wearing a white double-breasted jacket with a neckerchief and an apron, checked trousers, a tall pleated toque and clogs and carrying a chef's knife
 a head chef, dressed in a white double-breasted jacket with a neckerchief and an apron with checked trousers
-a housekeeper (hotel), in a tunic with a name badge and trousers and comfortable shoes
-a housekeeper (hotel), wearing a tunic with a name badge, trousers and comfortable shoes
-a housekeeper (hotel), wearing a tunic with a name badge, trousers and comfortable shoes and carrying a trolley
-a housekeeper, dressed in a tunic with a name badge with trousers
+a housekeeper (hotel), in a tunic with a name patch and trousers and comfortable shoes
+a housekeeper (hotel), wearing a tunic with a name patch, trousers and comfortable shoes
+a housekeeper (hotel), wearing a tunic with a name patch, trousers and comfortable shoes and carrying a trolley
+a housekeeper, dressed in a tunic with a name patch with trousers
 a judge (court), in a scarlet robe with an ermine collar and a full-bottomed wig
 a judge (court), in a scarlet robe with an ermine collar and shoes
 a judge (court), wearing a scarlet robe with an ermine collar, a full-bottomed wig and shoes
@@ -158,7 +158,7 @@ a professor, dressed in a flowing academic gown with a hood
 a road crossing guard (road), in a high-visibility coat and a cap
 a road crossing guard (road), in a high-visibility coat and trousers and shoes
 a road crossing guard (road), wearing a high-visibility coat, trousers, a cap and shoes
-a road crossing guard (road), wearing a high-visibility coat, trousers, a cap and shoes and carrying a stop sign
+a road crossing guard (road), wearing a high-visibility coat, trousers, a cap and shoes and carrying a stop lit panel
 a road crossing guard, dressed in a high-visibility coat with trousers
 a saloon barkeep (Old West), in a striped shirt with sleeve garters and a vest and a bowler hat
 a saloon barkeep (Old West), in a striped shirt with sleeve garters and a vest and trousers and boots

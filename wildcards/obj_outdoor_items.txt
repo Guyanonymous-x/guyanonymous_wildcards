@@ -27,18 +27,18 @@ a goat tied to a rail and a tram stop
 a stray dog sleeping and a plastic stool beside a stall
 a plastic stool beside a stall and a satellite dish
 a cat on a wall and a scaffolding of bamboo
-a flower stall and a newspaper kiosk
+a flower stall and a folded paper sheet kiosk
 a wooden bench and a scaffolding of bamboo
 a line of washing and a phone box
 a charcoal grill and a rooftop water tank
 a row of payphones and a rickshaw waiting
 a bin overflowing with leaflets and a rack of kebabs
 a minaret and a spice stall
-a hand-painted sign and a stray dog sleeping
+a hand-painted lit panel and a stray dog sleeping
 a stack of sandbags and a flower stall
 a fruit stall with crates and a stone wall
 a street piano and a drying rack of fish
-a newspaper kiosk and a tricycle taxi
+a folded paper sheet kiosk and a tricycle taxi
 a fishing boat pulled up on the shore and a busker's guitar case
 a scaffolding of bamboo and a roadside shrine
 a donkey cart
@@ -58,8 +58,8 @@ a market scale and a cash machine
 a temple bell and a skateboard ramp
 a manhole cover steaming and a tricycle taxi
 a line of washing and a line of washing
-a newspaper kiosk and a prayer flag
-a newspaper kiosk and a flower stall
+a folded paper sheet kiosk and a prayer flag
+a folded paper sheet kiosk and a flower stall
 a tricycle taxi
 a taxi rank and a shuttered shop front
 a camel resting and a red lantern
@@ -70,7 +70,7 @@ a rusty gate and a pile of firewood
 a tuk-tuk and a temple bell
 a taxi rank and a pile of coconuts
 a food truck and a cat on a wall
-a graffiti-covered shutter and a bird on a wire
+a spray-painted shapes-covered shutter and a bird on a wire
 a cash machine and a fruit stall with crates
 a fruit stall with crates and a food truck
 a stone lantern and a rack of kebabs
@@ -81,18 +81,18 @@ a farm gate and a pile of coconuts
 a bird on a wire and a flag fluttering
 a row of parked scooters and a flock of pigeons
 a mural and a flag fluttering
-a manhole cover steaming and a chalk-written menu board
+a manhole cover steaming and a chalk-written glowing panel
 a goat tied to a rail and a bird on a wire
 a pile of firewood and a skateboard ramp
 a shrine with offerings and a mailbox
-a newspaper kiosk and a bin overflowing with leaflets
-a bus stop sign and a puddle
+a folded paper sheet kiosk and a bin overflowing with leaflets
+a bus stop lit panel and a puddle
 a bin overflowing with leaflets and a stack of woven baskets
 a mural and a crate of live crabs
 a rack of kebabs and a fruit stall with crates
 a lamppost with peeling paint and a cracked pavement
 a fruit stall with crates and a manhole cover steaming
-a plastic stool beside a stall and a graffiti-covered shutter
+a plastic stool beside a stall and a spray-painted shapes-covered shutter
 a pile of building materials and a drainpipe with moss
 a cracked pavement and a row of colourful umbrellas
 a camel resting and a donkey cart
@@ -110,17 +110,17 @@ a pile of coconuts and a lamppost with peeling paint
 a clothesline between balconies and a hot-dog cart
 a cat on a wall and a war memorial
 a delivery van parked at the kerb and a clothesline between balconies
-a chalk-written menu board
+a chalk-written glowing panel
 a handcart loaded with boxes and a vending machine glowing
 a mailbox and a drying rack of fish
 a stack of tyres and a food truck
-a chalk-written menu board and a flag fluttering
+a chalk-written glowing panel and a flag fluttering
 a cash machine and a clothesline between balconies
 a spice stall and a goat tied to a rail
 a wheelbarrow and a plastic stool beside a stall
 a temple bell and a war memorial
 a flock of pigeons and a row of recycling bins
-a line of washing and a newspaper kiosk
+a line of washing and a folded paper sheet kiosk
 a flag fluttering and a wooden fence
 a pagoda roof and a pagoda roof
 a red lantern and a stone lantern
@@ -139,7 +139,7 @@ a rack of kebabs and a church bell tower
 a bird on a wire and a phone box
 a rack of kebabs and a pagoda roof
 a well with a bucket and a wooden fence
-a graffiti-covered shutter and a hot-dog cart
+a spray-painted shapes-covered shutter and a hot-dog cart
 a rickshaw waiting and a bale of hay
 a market clock and a stone lantern
 a pile of firewood and a war memorial
@@ -155,7 +155,7 @@ a fruit stall with crates and a wooden bench
 a roadside shrine and a food truck
 a bale of hay and a vending machine glowing
 a handcart loaded with boxes and a stack of lobster pots
-a chalk-written menu board and a prayer flag
+a chalk-written glowing panel and a prayer flag
 a handcart loaded with boxes and a stone lantern
 a lighthouse in the distance and a stack of tyres
 a lighthouse in the distance and a pile of building materials
@@ -164,16 +164,16 @@ a rack of kebabs and a rack of kebabs
 a minaret and a wooden bench
 a row of recycling bins and a skateboard ramp
 a vending machine glowing and a lamppost with peeling paint
-a war memorial and a graffiti-covered shutter
+a war memorial and a spray-painted shapes-covered shutter
 a charcoal grill and a scaffolding of bamboo
 a charcoal grill and a mailbox
 a stack of woven baskets and a tricycle taxi
 a stack of sandbags and a stack of lobster pots
-a chalk-written menu board and a tuk-tuk
+a chalk-written glowing panel and a tuk-tuk
 a satellite dish
 a donkey cart and a pagoda roof
 a flock of pigeons and a lighthouse in the distance
-a newspaper kiosk and a stone fountain
+a folded paper sheet kiosk and a stone fountain
 a market umbrella and a bus shelter with a faded timetable
 a shrine with offerings and a line of washing
 a rusty gate and a fruit stall with crates
@@ -187,12 +187,12 @@ a parked bicycle and a scaffolding of bamboo
 a pile of firewood
 a busker's guitar case and a delivery van parked at the kerb
 a market umbrella and a farm gate
-a pile of building materials and a hand-painted sign
+a pile of building materials and a hand-painted lit panel
 a stack of lobster pots and a pile of building materials
 a church bell tower and a mailbox
 a pile of coconuts and a market clock
 a row of payphones and a mural
-a crate of live crabs and a graffiti-covered shutter
+a crate of live crabs and a spray-painted shapes-covered shutter
 a water pump and a chained-up bike
 a row of colourful umbrellas and a horse tied to a post
 a hot-dog cart and a cash machine
@@ -212,7 +212,7 @@ a pagoda roof and a bin overflowing with leaflets
 a cash machine and a cat on a wall
 a horse tied to a post and a drainpipe with moss
 a fishing boat pulled up on the shore and a market clock
-a hand-painted sign and a street piano
+a hand-painted lit panel and a street piano
 a tricycle taxi and a clothesline between balconies
 a market scale and a bin overflowing with leaflets
 a fruit stall with crates and a crate of live crabs
@@ -222,14 +222,14 @@ a clothesline between balconies and a clothesline between balconies
 a skateboard ramp and a row of recycling bins
 a farm gate and a line of washing
 a war memorial and a water pump
-a graffiti-covered shutter and a rusty gate
+a spray-painted shapes-covered shutter and a rusty gate
 a rack of kebabs and a cart of oranges
 a vending machine glowing and a taxi rank
 a cash machine and a temple bell
 a scaffolding of bamboo and a taxi rank
-a war memorial and a hand-painted sign
-a graffiti-covered shutter and a chained-up bike
-a lighthouse in the distance and a chalk-written menu board
+a war memorial and a hand-painted lit panel
+a spray-painted shapes-covered shutter and a chained-up bike
+a lighthouse in the distance and a chalk-written glowing panel
 a rusty gate and a bus shelter with a faded timetable
 a cracked pavement and a fishing boat pulled up on the shore
 a skateboard ramp and a market scale
@@ -237,7 +237,7 @@ a wooden fence and a tricycle taxi
 a tricycle taxi and a torii gate
 a water pump and a donkey cart
 a scaffolding of bamboo and a flag fluttering
-a hand-painted sign and a statue on a plinth
+a hand-painted lit panel and a statue on a plinth
 a pile of building materials and a taxi rank
 a war memorial and a bale of hay
 a shrine with offerings and a stray dog sleeping
@@ -256,7 +256,7 @@ a statue on a plinth and a tuk-tuk
 a pile of building materials and a mural
 a pile of building materials and a minaret
 a row of recycling bins and a plastic stool beside a stall
-a vending machine glowing and a hand-painted sign
+a vending machine glowing and a hand-painted lit panel
 a church bell tower and a flag fluttering
 a flag fluttering and a minaret
 a flock of pigeons and a row of colourful umbrellas
@@ -264,46 +264,46 @@ a delivery van parked at the kerb and a handcart loaded with boxes
 a rickshaw waiting and a minaret
 a phone box and a stack of lobster pots
 a rooftop water tank and a crate of live crabs
-a market scale and a newspaper kiosk
+a market scale and a folded paper sheet kiosk
 a donkey cart and a satellite dish
 a stone wall and a pile of coconuts
 a bin overflowing with leaflets and a pile of coconuts
-a bus stop sign and a camel resting
+a bus stop lit panel and a camel resting
 a drying rack of fish and a shrine with offerings
 a church bell tower and a row of payphones
-a food truck and a hand-painted sign
+a food truck and a hand-painted lit panel
 a statue on a plinth and a stone lantern
 a stack of tyres and a cracked pavement
 a rooftop water tank and a hot-dog cart
 a wheelbarrow and a line of washing
 a lamppost with peeling paint and a plastic stool beside a stall
 a market clock and a rack of kebabs
-a graffiti-covered shutter and a shuttered shop front
+a spray-painted shapes-covered shutter and a shuttered shop front
 a row of colourful umbrellas and a rickshaw waiting
 a bale of hay and a tuk-tuk
 a tuk-tuk and a scaffolding of bamboo
-a bus stop sign
+a bus stop lit panel
 a stack of sandbags and a crate of live crabs
 a rack of kebabs and a roadside shrine
-a bus stop sign and a tram stop
+a bus stop lit panel and a tram stop
 a stack of tyres and a charcoal grill
 a well with a bucket and a rack of kebabs
 a well with a bucket and a war memorial
 a wooden fence and a row of colourful umbrellas
 a tricycle taxi and a roadside shrine
 a vending machine glowing and a pile of coconuts
-a goat tied to a rail and a bus stop sign
+a goat tied to a rail and a bus stop lit panel
 a bus shelter with a faded timetable and a drying rack of fish
 a well with a bucket and a well with a bucket
 a donkey cart and a spice stall
-a newspaper kiosk and a stone lantern
+a folded paper sheet kiosk and a stone lantern
 a wheelbarrow and a crate of live crabs
 a street piano and a horse tied to a post
-a chalk-written menu board and a stack of lobster pots
+a chalk-written glowing panel and a stack of lobster pots
 a stack of lobster pots and a pagoda roof
 a stack of tyres and a stack of tyres
 a vending machine glowing and a water pump
-a taxi rank and a chalk-written menu board
+a taxi rank and a chalk-written glowing panel
 a bus shelter with a faded timetable and a clothesline between balconies
 a stack of sandbags and a rack of kebabs
 a well with a bucket and a stone wall
@@ -315,16 +315,16 @@ a bus shelter with a faded timetable and a row of parked scooters
 a cash machine and a fishing boat pulled up on the shore
 a delivery van parked at the kerb and a fishing boat pulled up on the shore
 a taxi rank and a wooden fence
-a bus stop sign and a wheelbarrow
+a bus stop lit panel and a wheelbarrow
 a shrine with offerings and a tricycle taxi
 a vending machine glowing and a stray dog sleeping
 a wooden fence and a pile of building materials
-a graffiti-covered shutter and a pile of building materials
+a spray-painted shapes-covered shutter and a pile of building materials
 a charcoal grill and a crate of live crabs
-a red lantern and a chalk-written menu board
+a red lantern and a chalk-written glowing panel
 a crate of live crabs and a phone box
 a stack of woven baskets and a well with a bucket
-a drying rack of fish and a graffiti-covered shutter
+a drying rack of fish and a spray-painted shapes-covered shutter
 a rickshaw waiting and a phone box
 a minaret
 a scaffolding of bamboo and a clothesline between balconies
@@ -336,7 +336,7 @@ a flock of pigeons and a charcoal grill
 a drainpipe with moss and a camel resting
 a cash machine and a rooftop water tank
 a chained-up bike and a lighthouse in the distance
-a chalk-written menu board and a pagoda roof
+a chalk-written glowing panel and a pagoda roof
 a manhole cover steaming and a pile of firewood
 a delivery van parked at the kerb and a cat on a wall
 a fruit stall with crates and a street piano
@@ -349,7 +349,7 @@ a cart of oranges and a cash machine
 a flock of pigeons and a stack of lobster pots
 a delivery van parked at the kerb and a tricycle taxi
 a market umbrella and a parked bicycle
-a wheelbarrow and a chalk-written menu board
+a wheelbarrow and a chalk-written glowing panel
 a wheelbarrow and a hot-dog cart
 a food truck and a drying rack of fish
 a fishing boat pulled up on the shore and a stack of sandbags
@@ -359,19 +359,19 @@ a bin overflowing with leaflets and a hot-dog cart
 a prayer flag and a pile of firewood
 a bird on a wire and a handcart loaded with boxes
 a wooden fence and a donkey cart
-a bus stop sign and a street piano
+a bus stop lit panel and a street piano
 a stack of sandbags and a fruit stall with crates
 a shuttered shop front and a stone lantern
 a delivery van parked at the kerb and a stack of lobster pots
-a shrine with offerings and a hand-painted sign
+a shrine with offerings and a hand-painted lit panel
 a pagoda roof and a handcart loaded with boxes
-a spice stall and a bus stop sign
+a spice stall and a bus stop lit panel
 a skateboard ramp and a lamppost with peeling paint
 a row of payphones and a stone wall
 a well with a bucket and a market scale
 a mailbox and a delivery van parked at the kerb
 a church bell tower and a goat tied to a rail
-a water pump and a hand-painted sign
+a water pump and a hand-painted lit panel
 a phone box and a rickshaw waiting
 a cracked pavement and a food truck
 a skateboard ramp and a line of washing
@@ -404,7 +404,7 @@ a cart of oranges and a minaret
 a cat on a wall and a charcoal grill
 a bin overflowing with leaflets and a stack of lobster pots
 a temple bell and a flower stall
-a lighthouse in the distance and a bus stop sign
+a lighthouse in the distance and a bus stop lit panel
 a stray dog sleeping and a stone lantern
 a pile of firewood and a lamppost with peeling paint
 a cracked pavement and a clothesline between balconies
@@ -420,10 +420,10 @@ a bird on a wire
 a fishing boat pulled up on the shore and a phone box
 a horse tied to a post and a puddle
 a street piano and a statue on a plinth
-a graffiti-covered shutter and a wooden fence
+a spray-painted shapes-covered shutter and a wooden fence
 a vending machine glowing and a cracked pavement
 a flag fluttering and a rickshaw waiting
-a newspaper kiosk and a water pump
+a folded paper sheet kiosk and a water pump
 a lighthouse in the distance and a market clock
 a wheelbarrow and a cracked pavement
 a phone box
@@ -438,9 +438,9 @@ a parked bicycle and a charcoal grill
 a lighthouse in the distance and a clothesline between balconies
 a statue on a plinth and a pile of firewood
 a market clock and a row of colourful umbrellas
-a chalk-written menu board and a food truck
+a chalk-written glowing panel and a food truck
 a stack of lobster pots and a mural
-a newspaper kiosk and a handcart loaded with boxes
+a folded paper sheet kiosk and a handcart loaded with boxes
 a church bell tower and a puddle
 a bin overflowing with leaflets and a prayer flag
 a tram stop and a puddle
@@ -454,12 +454,12 @@ a handcart loaded with boxes and a wooden bench
 a rickshaw waiting and a war memorial
 a market umbrella and a busker's guitar case
 a row of payphones and a stack of sandbags
-a newspaper kiosk
+a folded paper sheet kiosk
 a cash machine
 a cat on a wall and a line of washing
-a chalk-written menu board and a farm gate
+a chalk-written glowing panel and a farm gate
 a bale of hay and a bale of hay
-a clothesline between balconies and a chalk-written menu board
+a clothesline between balconies and a chalk-written glowing panel
 a stack of sandbags and a cracked pavement
 a stray dog sleeping and a rack of kebabs
 a manhole cover steaming and a bin overflowing with leaflets
@@ -483,7 +483,7 @@ a prayer flag and a bale of hay
 a puddle and a charcoal grill
 a wheelbarrow and a rickshaw waiting
 a row of payphones and a spice stall
-a bale of hay and a graffiti-covered shutter
+a bale of hay and a spray-painted shapes-covered shutter
 a stack of woven baskets and a phone box
 a pile of building materials and a line of washing
 a puddle and a church bell tower
@@ -491,7 +491,7 @@ a war memorial and a wheelbarrow
 a pile of building materials and a bird on a wire
 a tuk-tuk and a stack of sandbags
 a busker's guitar case and a cash machine
-a bus stop sign and a bird on a wire
+a bus stop lit panel and a bird on a wire
 a line of washing and a row of parked scooters
 a flower stall and a bus shelter with a faded timetable
 a stone fountain and a farm gate
@@ -502,7 +502,7 @@ a row of colourful umbrellas and a goat tied to a rail
 a stone fountain and a parked bicycle
 a camel resting and a rack of kebabs
 a parked bicycle and a shrine with offerings
-a graffiti-covered shutter and a stack of lobster pots
+a spray-painted shapes-covered shutter and a stack of lobster pots
 a statue on a plinth and a vending machine glowing
 a cat on a wall and a stone lantern
 a well with a bucket and a row of parked scooters
@@ -518,7 +518,7 @@ a parked bicycle and a delivery van parked at the kerb
 a rusty gate and a torii gate
 a rickshaw waiting and a stone lantern
 a bus shelter with a faded timetable and a wooden bench
-a hand-painted sign and a row of colourful umbrellas
+a hand-painted lit panel and a row of colourful umbrellas
 a rooftop water tank and a lighthouse in the distance
 a stack of lobster pots and a stone wall
 a mailbox and a parked bicycle
@@ -526,15 +526,15 @@ a chained-up bike and a pile of firewood
 a pile of coconuts and a market umbrella
 a chained-up bike and a stone fountain
 a parked bicycle and a puddle
-a newspaper kiosk and a busker's guitar case
+a folded paper sheet kiosk and a busker's guitar case
 a drying rack of fish and a spice stall
 a charcoal grill
 a flock of pigeons and a puddle
 a tram stop and a fishing boat pulled up on the shore
-a newspaper kiosk and a minaret
+a folded paper sheet kiosk and a minaret
 a fishing boat pulled up on the shore and a flag fluttering
 a cracked pavement and a stack of woven baskets
-a cart of oranges and a bus stop sign
+a cart of oranges and a bus stop lit panel
 a tuk-tuk and a market clock
 a cat on a wall and a bus shelter with a faded timetable
 a pile of firewood and a bus shelter with a faded timetable
@@ -544,7 +544,7 @@ a busker's guitar case and a bale of hay
 a market clock and a stone wall
 a tricycle taxi and a rusty gate
 a charcoal grill and a handcart loaded with boxes
-a newspaper kiosk and a row of colourful umbrellas
+a folded paper sheet kiosk and a row of colourful umbrellas
 a flag fluttering and a stack of lobster pots
 a fishing boat pulled up on the shore and a stone wall
 a row of recycling bins and a manhole cover steaming
@@ -568,13 +568,13 @@ a rack of kebabs and a statue on a plinth
 a stack of tyres and a goat tied to a rail
 a crate of live crabs and a horse tied to a post
 a prayer flag and a fishing boat pulled up on the shore
-a manhole cover steaming and a graffiti-covered shutter
-a chalk-written menu board and a goat tied to a rail
+a manhole cover steaming and a spray-painted shapes-covered shutter
+a chalk-written glowing panel and a goat tied to a rail
 a camel resting and a crate of live crabs
 a tricycle taxi and a flock of pigeons
 a charcoal grill and a donkey cart
 a war memorial and a war memorial
-a row of recycling bins and a chalk-written menu board
+a row of recycling bins and a chalk-written glowing panel
 a cash machine and a row of parked scooters
 a row of parked scooters and a stone wall
 a puddle and a horse tied to a post
@@ -588,13 +588,13 @@ a goat tied to a rail and a shuttered shop front
 a stray dog sleeping and a puddle
 a war memorial and a camel resting
 a hot-dog cart and a tuk-tuk
-a newspaper kiosk and a row of payphones
+a folded paper sheet kiosk and a row of payphones
 a delivery van parked at the kerb and a temple bell
 a spice stall and a pile of firewood
 a line of washing and a flock of pigeons
 a prayer flag and a statue on a plinth
-a tuk-tuk and a chalk-written menu board
-a fruit stall with crates and a graffiti-covered shutter
+a tuk-tuk and a chalk-written glowing panel
+a fruit stall with crates and a spray-painted shapes-covered shutter
 a flock of pigeons and a cart of oranges
 a hot-dog cart and a stray dog sleeping
 a delivery van parked at the kerb and a bale of hay
@@ -604,11 +604,11 @@ a cracked pavement and a war memorial
 a rooftop water tank and a flower stall
 a bale of hay and a rickshaw waiting
 a goat tied to a rail and a tuk-tuk
-a chalk-written menu board and a statue on a plinth
+a chalk-written glowing panel and a statue on a plinth
 a shuttered shop front and a minaret
-a satellite dish and a bus stop sign
+a satellite dish and a bus stop lit panel
 a cart of oranges and a market clock
-a prayer flag and a bus stop sign
+a prayer flag and a bus stop lit panel
 a clothesline between balconies and a bale of hay
 a water pump and a cat on a wall
 a roadside shrine and a statue on a plinth
@@ -635,11 +635,11 @@ a bale of hay and a stone lantern
 a pile of building materials and a cash machine
 a shrine with offerings and a scaffolding of bamboo
 a pile of building materials and a row of recycling bins
-a handcart loaded with boxes and a hand-painted sign
+a handcart loaded with boxes and a hand-painted lit panel
 a drainpipe with moss and a spice stall
 a stack of tyres and a camel resting
 a water pump and a parked bicycle
-a stone fountain and a bus stop sign
+a stone fountain and a bus stop lit panel
 a farm gate and a fruit stall with crates
 a stone fountain and a church bell tower
 a lighthouse in the distance and a bird on a wire
@@ -649,7 +649,7 @@ a row of recycling bins and a church bell tower
 a crate of live crabs and a handcart loaded with boxes
 a handcart loaded with boxes and a cat on a wall
 a manhole cover steaming and a pagoda roof
-a pagoda roof and a newspaper kiosk
+a pagoda roof and a folded paper sheet kiosk
 a taxi rank and a rooftop water tank
 a fruit stall with crates and a temple bell
 a street piano and a stone lantern
@@ -657,27 +657,27 @@ a roadside shrine and a cat on a wall
 a market umbrella and a stone wall
 a vending machine glowing and a statue on a plinth
 a church bell tower and a rooftop water tank
-a bus stop sign and a torii gate
+a bus stop lit panel and a torii gate
 a bird on a wire and a war memorial
 a shuttered shop front
 a donkey cart and a lamppost with peeling paint
 a drainpipe with moss and a charcoal grill
-a farm gate and a hand-painted sign
+a farm gate and a hand-painted lit panel
 a vending machine glowing and a war memorial
 a street piano and a bus shelter with a faded timetable
 a busker's guitar case and a flock of pigeons
 a mailbox and a red lantern
-a horse tied to a post and a newspaper kiosk
+a horse tied to a post and a folded paper sheet kiosk
 a pile of coconuts and a drying rack of fish
 a bus shelter with a faded timetable and a crate of live crabs
 a stone fountain and a tuk-tuk
 a chained-up bike and a fishing boat pulled up on the shore
 a cracked pavement and a mailbox
-a hand-painted sign and a shuttered shop front
+a hand-painted lit panel and a shuttered shop front
 a flag fluttering and a satellite dish
 a market umbrella and a food truck
 a shuttered shop front and a stack of tyres
-a stack of woven baskets and a bus stop sign
+a stack of woven baskets and a bus stop lit panel
 a temple bell and a hot-dog cart
 a shrine with offerings and a flower stall
 a parked bicycle and a street piano
@@ -690,7 +690,7 @@ a bin overflowing with leaflets and a shuttered shop front
 a street piano and a rusty gate
 a scaffolding of bamboo and a goat tied to a rail
 a taxi rank and a shrine with offerings
-a newspaper kiosk and a tuk-tuk
+a folded paper sheet kiosk and a tuk-tuk
 a bale of hay and a scaffolding of bamboo
 a temple bell and a drying rack of fish
 a stray dog sleeping and a bus shelter with a faded timetable
@@ -716,13 +716,13 @@ a lighthouse in the distance and a fishing boat pulled up on the shore
 a puddle and a spice stall
 a skateboard ramp and a stack of woven baskets
 a donkey cart and a stone fountain
-a bus stop sign and a vending machine glowing
+a bus stop lit panel and a vending machine glowing
 a cracked pavement and a crate of live crabs
 a chained-up bike and a row of recycling bins
 a manhole cover steaming and a drainpipe with moss
 a farm gate and a food truck
 a phone box and a donkey cart
-a hand-painted sign and a camel resting
+a hand-painted lit panel and a camel resting
 a phone box and a row of colourful umbrellas
 a stone wall and a war memorial
 a row of recycling bins and a shrine with offerings
@@ -732,20 +732,20 @@ a camel resting and a rickshaw waiting
 a rusty gate and a red lantern
 a pagoda roof and a wooden bench
 a flag fluttering and a stone wall
-a bus stop sign and a chained-up bike
+a bus stop lit panel and a chained-up bike
 a puddle and a chained-up bike
 a hot-dog cart and a bus shelter with a faded timetable
 a rickshaw waiting and a church bell tower
 a tram stop and a minaret
 a shrine with offerings and a skateboard ramp
-a cart of oranges and a graffiti-covered shutter
+a cart of oranges and a spray-painted shapes-covered shutter
 a mailbox and a cash machine
 a rickshaw waiting and a delivery van parked at the kerb
 a pile of coconuts and a flag fluttering
 a rack of kebabs and a red lantern
 a cart of oranges and a flock of pigeons
 a pagoda roof and a flock of pigeons
-a shuttered shop front and a newspaper kiosk
+a shuttered shop front and a folded paper sheet kiosk
 a horse tied to a post and a pile of firewood
 a torii gate and a bus shelter with a faded timetable
 a camel resting
@@ -764,14 +764,14 @@ a flower stall and a busker's guitar case
 a manhole cover steaming and a market umbrella
 a stone lantern and a farm gate
 a prayer flag and a flower stall
-a hand-painted sign and a skateboard ramp
+a hand-painted lit panel and a skateboard ramp
 a mailbox and a horse tied to a post
 a red lantern and a cash machine
 a taxi rank and a crate of live crabs
 a row of recycling bins and a prayer flag
 a well with a bucket and a stone lantern
 a prayer flag and a crate of live crabs
-a graffiti-covered shutter and a rickshaw waiting
+a spray-painted shapes-covered shutter and a rickshaw waiting
 a handcart loaded with boxes and a rack of kebabs
 a pile of coconuts and a water pump
 a row of colourful umbrellas and a scaffolding of bamboo
@@ -782,8 +782,8 @@ a water pump
 a flock of pigeons and a goat tied to a rail
 a cart of oranges and a war memorial
 a goat tied to a rail and a cart of oranges
-a newspaper kiosk and a temple bell
-a hand-painted sign and a manhole cover steaming
+a folded paper sheet kiosk and a temple bell
+a hand-painted lit panel and a manhole cover steaming
 a tram stop and a taxi rank
 a stray dog sleeping and a spice stall
 a rusty gate and a scaffolding of bamboo
@@ -796,8 +796,8 @@ a temple bell and a lighthouse in the distance
 a bus shelter with a faded timetable and a phone box
 a row of payphones and a tuk-tuk
 a stack of lobster pots and a parked bicycle
-a rack of kebabs and a graffiti-covered shutter
-a hand-painted sign and a plastic stool beside a stall
+a rack of kebabs and a spray-painted shapes-covered shutter
+a hand-painted lit panel and a plastic stool beside a stall
 a rack of kebabs and a torii gate
 a drainpipe with moss and a minaret
 a war memorial and a line of washing
@@ -816,7 +816,7 @@ a prayer flag and a tricycle taxi
 a roadside shrine and a phone box
 a cash machine and a row of recycling bins
 a bus shelter with a faded timetable and a flock of pigeons
-a chalk-written menu board and a bin overflowing with leaflets
+a chalk-written glowing panel and a bin overflowing with leaflets
 a torii gate and a tuk-tuk
 a shrine with offerings and a manhole cover steaming
 a row of colourful umbrellas and a shrine with offerings
@@ -846,12 +846,12 @@ a stone wall and a row of parked scooters
 a cart of oranges and a handcart loaded with boxes
 a pile of coconuts
 a cracked pavement and a statue on a plinth
-a hand-painted sign and a scaffolding of bamboo
+a hand-painted lit panel and a scaffolding of bamboo
 a bin overflowing with leaflets and a stray dog sleeping
 a red lantern and a wheelbarrow
 a cat on a wall
 a stack of tyres and a temple bell
-a row of parked scooters and a graffiti-covered shutter
+a row of parked scooters and a spray-painted shapes-covered shutter
 a horse tied to a post and a shrine with offerings
 a well with a bucket and a food truck
 a satellite dish and a market umbrella
@@ -882,11 +882,11 @@ a mural and a handcart loaded with boxes
 a pile of firewood and a rooftop water tank
 a bin overflowing with leaflets and a satellite dish
 a stone wall and a phone box
-a newspaper kiosk and a phone box
+a folded paper sheet kiosk and a phone box
 a donkey cart and a tram stop
 a stack of sandbags and a roadside shrine
 a tricycle taxi and a busker's guitar case
-a row of recycling bins and a newspaper kiosk
+a row of recycling bins and a folded paper sheet kiosk
 a vending machine glowing and a crate of live crabs
 a stray dog sleeping and a clothesline between balconies
 a pile of firewood and a stone wall
@@ -921,33 +921,33 @@ a camel resting and a row of payphones
 a bus shelter with a faded timetable and a tuk-tuk
 a rack of kebabs and a puddle
 a stack of lobster pots and a skateboard ramp
-a cat on a wall and a newspaper kiosk
+a cat on a wall and a folded paper sheet kiosk
 a wheelbarrow
 a plastic stool beside a stall and a well with a bucket
 a statue on a plinth and a stack of lobster pots
 a row of payphones and a pile of coconuts
 a farm gate and a flower stall
 a mural and a cat on a wall
-a statue on a plinth and a chalk-written menu board
+a statue on a plinth and a chalk-written glowing panel
 a stone lantern and a plastic stool beside a stall
 a mural and a temple bell
 a temple bell and a temple bell
 a lighthouse in the distance and a tricycle taxi
-a phone box and a graffiti-covered shutter
+a phone box and a spray-painted shapes-covered shutter
 a bird on a wire and a row of recycling bins
 a farm gate and a mural
 a flower stall and a handcart loaded with boxes
-a hand-painted sign and a satellite dish
+a hand-painted lit panel and a satellite dish
 a stone lantern and a stone wall
 a roadside shrine and a manhole cover steaming
-a bus stop sign and a stack of woven baskets
+a bus stop lit panel and a stack of woven baskets
 a row of parked scooters and a stack of lobster pots
 a hot-dog cart and a rusty gate
 a lighthouse in the distance and a cat on a wall
 a rusty gate and a lamppost with peeling paint
 a charcoal grill and a church bell tower
 a rusty gate and a market umbrella
-a farm gate and a bus stop sign
+a farm gate and a bus stop lit panel
 a mural and a parked bicycle
 a handcart loaded with boxes and a goat tied to a rail
 a camel resting and a pile of coconuts
@@ -962,17 +962,17 @@ a church bell tower and a bus shelter with a faded timetable
 a tricycle taxi and a temple bell
 a rooftop water tank and a bin overflowing with leaflets
 a chained-up bike and a stack of tyres
-a bus stop sign and a donkey cart
+a bus stop lit panel and a donkey cart
 a pile of building materials and a flower stall
 a stack of lobster pots and a stone lantern
 a roadside shrine and a tuk-tuk
-a drainpipe with moss and a newspaper kiosk
+a drainpipe with moss and a folded paper sheet kiosk
 a torii gate and a donkey cart
 a temple bell and a tuk-tuk
 a wooden fence and a market clock
 a scaffolding of bamboo and a rooftop water tank
 a tricycle taxi and a bale of hay
-a stone wall and a graffiti-covered shutter
+a stone wall and a spray-painted shapes-covered shutter
 a food truck and a tricycle taxi
 a mailbox and a pagoda roof
 a stray dog sleeping and a delivery van parked at the kerb
@@ -987,18 +987,18 @@ a handcart loaded with boxes and a stone wall
 a flock of pigeons and a market scale
 a rack of kebabs and a camel resting
 a shuttered shop front and a war memorial
-a newspaper kiosk and a shuttered shop front
+a folded paper sheet kiosk and a shuttered shop front
 a red lantern and a row of colourful umbrellas
 a drying rack of fish and a taxi rank
-a satellite dish and a hand-painted sign
+a satellite dish and a hand-painted lit panel
 a bin overflowing with leaflets and a well with a bucket
 a stack of tyres and a manhole cover steaming
 a wooden bench and a busker's guitar case
-a chalk-written menu board and a line of washing
+a chalk-written glowing panel and a line of washing
 a rack of kebabs and a shuttered shop front
 a row of colourful umbrellas
 a pagoda roof and a row of payphones
-a manhole cover steaming and a newspaper kiosk
+a manhole cover steaming and a folded paper sheet kiosk
 a rusty gate and a stone fountain
 a minaret and a pile of coconuts
 a food truck and a spice stall
@@ -1024,8 +1024,8 @@ a crate of live crabs and a bin overflowing with leaflets
 a rickshaw waiting and a clothesline between balconies
 a stack of lobster pots and a minaret
 a puddle
-a bus stop sign and a pile of firewood
-a newspaper kiosk and a market clock
+a bus stop lit panel and a pile of firewood
+a folded paper sheet kiosk and a market clock
 a line of washing and a shuttered shop front
 a shrine with offerings and a food truck
 a pile of building materials and a goat tied to a rail
@@ -1033,11 +1033,11 @@ a statue on a plinth and a drainpipe with moss
 a crate of live crabs and a vending machine glowing
 a pagoda roof
 a stack of tyres and a busker's guitar case
-a newspaper kiosk and a delivery van parked at the kerb
+a folded paper sheet kiosk and a delivery van parked at the kerb
 a camel resting and a delivery van parked at the kerb
-a bus stop sign and a charcoal grill
+a bus stop lit panel and a charcoal grill
 a plastic stool beside a stall and a rusty gate
-a charcoal grill and a chalk-written menu board
+a charcoal grill and a chalk-written glowing panel
 a delivery van parked at the kerb and a pile of building materials
 a row of colourful umbrellas and a wooden bench
 a wooden bench and a pile of coconuts
@@ -1056,7 +1056,7 @@ a rickshaw waiting and a lighthouse in the distance
 a flower stall and a fishing boat pulled up on the shore
 a minaret and a crate of live crabs
 a donkey cart and a plastic stool beside a stall
-a wooden bench and a graffiti-covered shutter
+a wooden bench and a spray-painted shapes-covered shutter
 a crate of live crabs and a donkey cart
 a flock of pigeons and a water pump
 a bin overflowing with leaflets and a stack of tyres
@@ -1073,24 +1073,24 @@ a cat on a wall and a tram stop
 a delivery van parked at the kerb and a hot-dog cart
 a drainpipe with moss and a mailbox
 a prayer flag and a stack of lobster pots
-a hand-painted sign and a row of recycling bins
+a hand-painted lit panel and a row of recycling bins
 a delivery van parked at the kerb and a manhole cover steaming
-a row of colourful umbrellas and a newspaper kiosk
+a row of colourful umbrellas and a folded paper sheet kiosk
 a pagoda roof and a fishing boat pulled up on the shore
 a roadside shrine and a bus shelter with a faded timetable
 a wooden bench and a plastic stool beside a stall
 a farm gate and a stone fountain
-a graffiti-covered shutter and a statue on a plinth
+a spray-painted shapes-covered shutter and a statue on a plinth
 a rusty gate and a chained-up bike
 a drying rack of fish and a street piano
 a wheelbarrow and a market clock
-a flock of pigeons and a graffiti-covered shutter
+a flock of pigeons and a spray-painted shapes-covered shutter
 a torii gate and a taxi rank
 a market scale and a row of parked scooters
 a bale of hay and a temple bell
 a pagoda roof and a clothesline between balconies
 a rooftop water tank and a plastic stool beside a stall
-a graffiti-covered shutter and a chalk-written menu board
+a spray-painted shapes-covered shutter and a chalk-written glowing panel
 a market umbrella and a taxi rank
 a horse tied to a post
 a pile of coconuts and a mural
@@ -1098,7 +1098,7 @@ a spice stall and a lamppost with peeling paint
 a red lantern and a flower stall
 a bale of hay and a horse tied to a post
 a tuk-tuk and a crate of live crabs
-a hand-painted sign and a lamppost with peeling paint
+a hand-painted lit panel and a lamppost with peeling paint
 a spice stall and a stone wall
 a farm gate and a rickshaw waiting
 a crate of live crabs and a food truck
@@ -1106,8 +1106,8 @@ a stone fountain and a stack of lobster pots
 a bin overflowing with leaflets
 a plastic stool beside a stall and a minaret
 a rusty gate and a flag fluttering
-a newspaper kiosk and a clothesline between balconies
-a graffiti-covered shutter
+a folded paper sheet kiosk and a clothesline between balconies
+a spray-painted shapes-covered shutter
 a wheelbarrow and a drying rack of fish
 a stone wall and a drying rack of fish
 a rooftop water tank and a lamppost with peeling paint
@@ -1124,15 +1124,15 @@ a war memorial and a clothesline between balconies
 a row of parked scooters and a stack of tyres
 a delivery van parked at the kerb and a roadside shrine
 a food truck and a stone lantern
-a bus stop sign and a minaret
+a bus stop lit panel and a minaret
 a fishing boat pulled up on the shore and a cat on a wall
 a manhole cover steaming and a rack of kebabs
 a line of washing and a roadside shrine
-a fishing boat pulled up on the shore and a chalk-written menu board
+a fishing boat pulled up on the shore and a chalk-written glowing panel
 a pagoda roof and a delivery van parked at the kerb
 a statue on a plinth and a camel resting
 a well with a bucket and a market clock
-a hand-painted sign and a bus shelter with a faded timetable
+a hand-painted lit panel and a bus shelter with a faded timetable
 a stack of lobster pots and a wooden fence
 a tram stop and a goat tied to a rail
 a spice stall and a delivery van parked at the kerb
@@ -1149,10 +1149,10 @@ a handcart loaded with boxes and a row of payphones
 a rooftop water tank and a puddle
 a stone lantern and a flock of pigeons
 a satellite dish and a spice stall
-a stone lantern and a hand-painted sign
+a stone lantern and a hand-painted lit panel
 a spice stall and a mural
 a stone wall and a bale of hay
-a graffiti-covered shutter and a vending machine glowing
+a spray-painted shapes-covered shutter and a vending machine glowing
 a flock of pigeons and a pile of firewood
 a statue on a plinth and a flower stall
 a stack of sandbags and a food truck
@@ -1180,7 +1180,7 @@ a church bell tower and a stack of lobster pots
 a pile of firewood and a chained-up bike
 a manhole cover steaming and a church bell tower
 a camel resting and a scaffolding of bamboo
-a mailbox and a chalk-written menu board
+a mailbox and a chalk-written glowing panel
 a stack of woven baskets and a market scale
 a bin overflowing with leaflets and a church bell tower
 a market scale and a tuk-tuk
@@ -1197,23 +1197,23 @@ a tricycle taxi and a drainpipe with moss
 a red lantern and a bale of hay
 a torii gate and a lighthouse in the distance
 a charcoal grill and a pile of coconuts
-a parked bicycle and a chalk-written menu board
+a parked bicycle and a chalk-written glowing panel
 a goat tied to a rail and a wooden bench
 a flock of pigeons and a rooftop water tank
 a cracked pavement and a cash machine
 a spice stall and a satellite dish
-a newspaper kiosk and a stone wall
+a folded paper sheet kiosk and a stone wall
 a hot-dog cart and a row of recycling bins
 a lighthouse in the distance and a puddle
 a shrine with offerings and a street piano
-a torii gate and a bus stop sign
+a torii gate and a bus stop lit panel
 a drying rack of fish and a horse tied to a post
 a tuk-tuk and a stray dog sleeping
 a row of parked scooters and a skateboard ramp
 a tricycle taxi and a line of washing
 a row of colourful umbrellas and a wheelbarrow
 a market scale and a market umbrella
-a pile of firewood and a hand-painted sign
+a pile of firewood and a hand-painted lit panel
 a drainpipe with moss and a bird on a wire
 a stack of lobster pots and a lighthouse in the distance
 a bird on a wire and a camel resting
@@ -1241,7 +1241,7 @@ a handcart loaded with boxes and a bale of hay
 a manhole cover steaming and a rooftop water tank
 a lighthouse in the distance and a taxi rank
 a bird on a wire and a manhole cover steaming
-a clothesline between balconies and a hand-painted sign
+a clothesline between balconies and a hand-painted lit panel
 a tricycle taxi and a pile of firewood
 a row of recycling bins and a cat on a wall
 a line of washing and a rack of kebabs
@@ -1251,9 +1251,9 @@ a bin overflowing with leaflets and a tricycle taxi
 a taxi rank and a roadside shrine
 a rusty gate and a rickshaw waiting
 a flower stall and a market clock
-a fishing boat pulled up on the shore and a hand-painted sign
-a farm gate and a chalk-written menu board
-a bus stop sign and a drying rack of fish
+a fishing boat pulled up on the shore and a hand-painted lit panel
+a farm gate and a chalk-written glowing panel
+a bus stop lit panel and a drying rack of fish
 a wooden bench and a satellite dish
 a clothesline between balconies and a tuk-tuk
 a stone wall and a bus shelter with a faded timetable
@@ -1268,15 +1268,15 @@ a farm gate and a market umbrella
 a stack of lobster pots and a market clock
 a row of recycling bins and a clothesline between balconies
 a flower stall and a wheelbarrow
-a tram stop and a hand-painted sign
-a newspaper kiosk and a puddle
+a tram stop and a hand-painted lit panel
+a folded paper sheet kiosk and a puddle
 a market scale and a war memorial
 a prayer flag and a stack of woven baskets
 a pile of building materials and a bus shelter with a faded timetable
 a rack of kebabs and a cash machine
 a stone fountain and a well with a bucket
 a water pump and a bale of hay
-a bus stop sign and a hand-painted sign
+a bus stop lit panel and a hand-painted lit panel
 a wheelbarrow and a stack of tyres
 a market scale and a street piano
 a fruit stall with crates and a well with a bucket
@@ -1285,7 +1285,7 @@ a chained-up bike and a skateboard ramp
 a bin overflowing with leaflets and a tram stop
 a lighthouse in the distance and a row of colourful umbrellas
 a cash machine and a water pump
-a newspaper kiosk and a hand-painted sign
+a folded paper sheet kiosk and a hand-painted lit panel
 a bus shelter with a faded timetable and a shuttered shop front
 a street piano and a market clock
 a farm gate and a clothesline between balconies
@@ -1306,30 +1306,30 @@ a market scale and a statue on a plinth
 a skateboard ramp and a torii gate
 a tram stop and a flag fluttering
 a drying rack of fish and a tram stop
-a line of washing and a bus stop sign
-a chalk-written menu board and a horse tied to a post
+a line of washing and a bus stop lit panel
+a chalk-written glowing panel and a horse tied to a post
 a satellite dish and a goat tied to a rail
 a bin overflowing with leaflets and a bale of hay
 a tuk-tuk
 a pile of building materials and a fishing boat pulled up on the shore
 a bale of hay and a pile of building materials
-a hand-painted sign and a flower stall
+a hand-painted lit panel and a flower stall
 a manhole cover steaming and a pile of coconuts
 a stack of lobster pots and a water pump
 a vending machine glowing and a busker's guitar case
 a handcart loaded with boxes and a flag fluttering
-a newspaper kiosk and a lighthouse in the distance
+a folded paper sheet kiosk and a lighthouse in the distance
 a pile of coconuts and a horse tied to a post
 a wheelbarrow and a stray dog sleeping
 a pile of firewood and a pile of firewood
 a stone wall and a wooden bench
 a crate of live crabs and a cart of oranges
 a parked bicycle and a stray dog sleeping
-a crate of live crabs and a bus stop sign
+a crate of live crabs and a bus stop lit panel
 a phone box and a hot-dog cart
 a stone lantern and a tram stop
 a wooden bench and a camel resting
-a bus stop sign and a flower stall
+a bus stop lit panel and a flower stall
 a church bell tower and a drying rack of fish
 a row of recycling bins and a row of parked scooters
 a fishing boat pulled up on the shore and a stone fountain
@@ -1353,7 +1353,7 @@ a lighthouse in the distance and a farm gate
 a water pump and a drainpipe with moss
 a plastic stool beside a stall and a manhole cover steaming
 a stray dog sleeping and a lighthouse in the distance
-a delivery van parked at the kerb and a chalk-written menu board
+a delivery van parked at the kerb and a chalk-written glowing panel
 a lighthouse in the distance and a stray dog sleeping
 a wheelbarrow and a roadside shrine
 a tricycle taxi and a statue on a plinth
@@ -1362,8 +1362,8 @@ a stack of lobster pots and a well with a bucket
 a skateboard ramp and a tricycle taxi
 a rooftop water tank and a stack of woven baskets
 a wooden fence and a stone fountain
-a chalk-written menu board and a hot-dog cart
-a hand-painted sign and a stack of tyres
+a chalk-written glowing panel and a hot-dog cart
+a hand-painted lit panel and a stack of tyres
 a flower stall and a wooden fence
 a skateboard ramp and a rickshaw waiting
 a row of recycling bins and a stone fountain
@@ -1393,24 +1393,24 @@ a fishing boat pulled up on the shore and a bale of hay
 a torii gate and a tricycle taxi
 a pagoda roof and a shuttered shop front
 a wooden fence and a pile of firewood
-a chalk-written menu board and a hand-painted sign
+a chalk-written glowing panel and a hand-painted lit panel
 a food truck and a stone fountain
 a tram stop and a tram stop
 a pagoda roof and a water pump
-a graffiti-covered shutter and a market scale
-a bus stop sign and a statue on a plinth
+a spray-painted shapes-covered shutter and a market scale
+a bus stop lit panel and a statue on a plinth
 a pagoda roof and a row of recycling bins
 a goat tied to a rail and a bale of hay
 a plastic stool beside a stall and a camel resting
 a pile of building materials and a wooden bench
-a street piano and a chalk-written menu board
+a street piano and a chalk-written glowing panel
 a row of recycling bins and a fishing boat pulled up on the shore
 a food truck and a water pump
 a camel resting and a skateboard ramp
 a market clock and a well with a bucket
 a row of recycling bins and a stray dog sleeping
 a row of colourful umbrellas and a stack of sandbags
-a minaret and a chalk-written menu board
+a minaret and a chalk-written glowing panel
 a puddle and a cash machine
 a stone lantern and a pile of building materials
 a scaffolding of bamboo and a row of recycling bins
@@ -1419,7 +1419,7 @@ a rack of kebabs and a well with a bucket
 a cash machine and a puddle
 a market scale
 a drainpipe with moss and a delivery van parked at the kerb
-a chalk-written menu board and a skateboard ramp
+a chalk-written glowing panel and a skateboard ramp
 a stone fountain and a satellite dish
 a well with a bucket and a torii gate
 a lighthouse in the distance and a fruit stall with crates
@@ -1429,12 +1429,12 @@ a drainpipe with moss and a stone fountain
 a bus shelter with a faded timetable
 a stone fountain and a hot-dog cart
 a wheelbarrow and a cash machine
-a rickshaw waiting and a hand-painted sign
+a rickshaw waiting and a hand-painted lit panel
 a pile of coconuts and a shrine with offerings
 a stone wall and a stack of lobster pots
 a stack of tyres and a plastic stool beside a stall
 a goat tied to a rail and a bus shelter with a faded timetable
-a market scale and a bus stop sign
+a market scale and a bus stop lit panel
 a shrine with offerings and a cart of oranges
 a lighthouse in the distance and a minaret
 a puddle and a roadside shrine
@@ -1449,7 +1449,7 @@ a red lantern
 a market umbrella and a stack of sandbags
 a scaffolding of bamboo and a bird on a wire
 a tuk-tuk and a satellite dish
-a newspaper kiosk and a wooden fence
+a folded paper sheet kiosk and a wooden fence
 a taxi rank and a torii gate
 a temple bell and a horse tied to a post
 a flock of pigeons and a rickshaw waiting
@@ -1476,7 +1476,7 @@ a satellite dish and a delivery van parked at the kerb
 a skateboard ramp and a cat on a wall
 a wheelbarrow and a flock of pigeons
 a flag fluttering and a bale of hay
-a bale of hay and a hand-painted sign
+a bale of hay and a hand-painted lit panel
 a market umbrella and a flock of pigeons
 a shrine with offerings and a flock of pigeons
 a cracked pavement and a stone fountain
@@ -1493,7 +1493,7 @@ a street piano and a wooden bench
 a pile of building materials and a farm gate
 a stack of lobster pots and a statue on a plinth
 a cash machine and a mailbox
-a fruit stall with crates and a chalk-written menu board
+a fruit stall with crates and a chalk-written glowing panel
 a clothesline between balconies and a prayer flag
 a row of recycling bins and a rickshaw waiting
 a temple bell and a street piano
@@ -1507,7 +1507,7 @@ a war memorial and a torii gate
 a busker's guitar case and a well with a bucket
 a vending machine glowing and a shrine with offerings
 a parked bicycle and a war memorial
-a lighthouse in the distance and a graffiti-covered shutter
+a lighthouse in the distance and a spray-painted shapes-covered shutter
 a crate of live crabs and a bale of hay
 a fishing boat pulled up on the shore and a taxi rank
 a crate of live crabs and a street piano
@@ -1516,7 +1516,7 @@ a cash machine and a pile of coconuts
 a pile of building materials and a wheelbarrow
 a handcart loaded with boxes and a market umbrella
 a stack of lobster pots and a row of parked scooters
-a bird on a wire and a bus stop sign
+a bird on a wire and a bus stop lit panel
 a stack of woven baskets and a handcart loaded with boxes
 a mural and a chained-up bike
 a well with a bucket and a donkey cart
@@ -1536,7 +1536,7 @@ a charcoal grill and a fishing boat pulled up on the shore
 a flock of pigeons and a bird on a wire
 a tuk-tuk and a stone wall
 a scaffolding of bamboo
-a graffiti-covered shutter and a stone lantern
+a spray-painted shapes-covered shutter and a stone lantern
 a farm gate and a bale of hay
 a plastic stool beside a stall and a bin overflowing with leaflets
 a puddle and a statue on a plinth
@@ -1552,18 +1552,18 @@ a drying rack of fish and a row of recycling bins
 a temple bell and a wheelbarrow
 a shrine with offerings and a minaret
 a market scale and a water pump
-a phone box and a hand-painted sign
-a pile of building materials and a newspaper kiosk
+a phone box and a hand-painted lit panel
+a pile of building materials and a folded paper sheet kiosk
 a market umbrella and a puddle
 a bird on a wire and a bird on a wire
 a row of parked scooters and a red lantern
 a flag fluttering and a flag fluttering
-a torii gate and a newspaper kiosk
-a camel resting and a bus stop sign
+a torii gate and a folded paper sheet kiosk
+a camel resting and a bus stop lit panel
 a lamppost with peeling paint and a handcart loaded with boxes
 a crate of live crabs and a cash machine
 a donkey cart and a flock of pigeons
-a cart of oranges and a hand-painted sign
+a cart of oranges and a hand-painted lit panel
 a row of parked scooters and a pile of firewood
 a plastic stool beside a stall and a bus shelter with a faded timetable
 a pile of firewood and a mural
@@ -1578,7 +1578,7 @@ a stack of sandbags and a hot-dog cart
 a lighthouse in the distance and a row of recycling bins
 a market clock and a mural
 a fishing boat pulled up on the shore and a manhole cover steaming
-a chalk-written menu board and a bus shelter with a faded timetable
+a chalk-written glowing panel and a bus shelter with a faded timetable
 a wooden bench and a street piano
 a hot-dog cart and a satellite dish
 a drying rack of fish and a bird on a wire
@@ -1600,10 +1600,10 @@ a row of payphones and a temple bell
 a rusty gate and a temple bell
 a street piano and a roadside shrine
 a cracked pavement and a rack of kebabs
-a chalk-written menu board and a wheelbarrow
+a chalk-written glowing panel and a wheelbarrow
 a roadside shrine
 a delivery van parked at the kerb and a delivery van parked at the kerb
-a horse tied to a post and a hand-painted sign
+a horse tied to a post and a hand-painted lit panel
 a bus shelter with a faded timetable and a row of payphones
 a pagoda roof and a crate of live crabs
 a phone box and a chained-up bike
@@ -1621,7 +1621,7 @@ a rack of kebabs and a rooftop water tank
 a stack of sandbags and a skateboard ramp
 a stack of tyres and a delivery van parked at the kerb
 a well with a bucket and a line of washing
-a bus stop sign and a stray dog sleeping
+a bus stop lit panel and a stray dog sleeping
 a tram stop and a drainpipe with moss
 a temple bell
 a market clock and a hot-dog cart
@@ -1629,14 +1629,14 @@ a bird on a wire and a rooftop water tank
 a row of recycling bins and a red lantern
 a pile of coconuts and a roadside shrine
 a stone lantern and a pagoda roof
-a tricycle taxi and a graffiti-covered shutter
+a tricycle taxi and a spray-painted shapes-covered shutter
 a market clock
 a minaret and a bird on a wire
 a crate of live crabs and a spice stall
 a fishing boat pulled up on the shore and a chained-up bike
 a prayer flag and a drainpipe with moss
 a rack of kebabs
-a graffiti-covered shutter and a fruit stall with crates
+a spray-painted shapes-covered shutter and a fruit stall with crates
 a pile of firewood and a handcart loaded with boxes
 a hot-dog cart and a camel resting
 a minaret and a shrine with offerings
@@ -1655,7 +1655,7 @@ a cracked pavement and a charcoal grill
 a rack of kebabs and a goat tied to a rail
 a spice stall and a taxi rank
 a row of payphones and a torii gate
-a stone fountain and a newspaper kiosk
+a stone fountain and a folded paper sheet kiosk
 a stone fountain and a market clock
 a rusty gate and a rusty gate
 a taxi rank and a pagoda roof
@@ -1679,11 +1679,11 @@ a market clock and a stack of tyres
 a well with a bucket and a lighthouse in the distance
 a food truck
 a lamppost with peeling paint and a rickshaw waiting
-a hand-painted sign and a rickshaw waiting
+a hand-painted lit panel and a rickshaw waiting
 a shuttered shop front and a cash machine
 a stack of lobster pots and a stray dog sleeping
 a vending machine glowing and a prayer flag
-a market clock and a newspaper kiosk
+a market clock and a folded paper sheet kiosk
 a stack of lobster pots and a tram stop
 a satellite dish and a war memorial
 a cat on a wall and a drying rack of fish
@@ -1691,12 +1691,12 @@ a horse tied to a post and a bird on a wire
 a satellite dish and a wheelbarrow
 a cat on a wall and a vending machine glowing
 a parked bicycle and a lamppost with peeling paint
-a newspaper kiosk and a street piano
+a folded paper sheet kiosk and a street piano
 a roadside shrine and a torii gate
 a hot-dog cart and a stone wall
 a food truck and a pile of building materials
 a lamppost with peeling paint and a rusty gate
-a tuk-tuk and a newspaper kiosk
+a tuk-tuk and a folded paper sheet kiosk
 a flower stall and a drainpipe with moss
 a delivery van parked at the kerb and a flower stall
 a stack of lobster pots and a chained-up bike
@@ -1710,14 +1710,14 @@ a tuk-tuk and a tuk-tuk
 a water pump and a minaret
 a chained-up bike and a pagoda roof
 a drying rack of fish and a tuk-tuk
-a newspaper kiosk and a war memorial
+a folded paper sheet kiosk and a war memorial
 a busker's guitar case and a puddle
 a statue on a plinth and a row of colourful umbrellas
 a scaffolding of bamboo and a rusty gate
 a mural and a cracked pavement
-a crate of live crabs and a hand-painted sign
+a crate of live crabs and a hand-painted lit panel
 a skateboard ramp and a taxi rank
-a newspaper kiosk and a spice stall
+a folded paper sheet kiosk and a spice stall
 a food truck and a temple bell
 a rooftop water tank and a stone fountain
 a food truck and a delivery van parked at the kerb
@@ -1734,8 +1734,8 @@ a bale of hay and a fishing boat pulled up on the shore
 a tram stop and a pile of coconuts
 a stack of tyres and a drying rack of fish
 a market clock and a farm gate
-a graffiti-covered shutter and a drying rack of fish
-a flag fluttering and a newspaper kiosk
+a spray-painted shapes-covered shutter and a drying rack of fish
+a flag fluttering and a folded paper sheet kiosk
 a stack of woven baskets and a market umbrella
 a cash machine and a row of colourful umbrellas
 a lamppost with peeling paint and a rack of kebabs
@@ -1749,9 +1749,9 @@ a spice stall and a torii gate
 a rusty gate and a stack of lobster pots
 a stone wall and a shrine with offerings
 a vending machine glowing
-a bus stop sign and a manhole cover steaming
+a bus stop lit panel and a manhole cover steaming
 a stack of tyres and a pile of building materials
-a fruit stall with crates and a hand-painted sign
+a fruit stall with crates and a hand-painted lit panel
 a phone box and a spice stall
 a flock of pigeons and a statue on a plinth
 a fishing boat pulled up on the shore and a food truck
@@ -1766,7 +1766,7 @@ a shuttered shop front and a tuk-tuk
 a row of payphones and a wooden fence
 a wheelbarrow and a stone fountain
 a temple bell and a stack of lobster pots
-a graffiti-covered shutter and a tricycle taxi
+a spray-painted shapes-covered shutter and a tricycle taxi
 a goat tied to a rail and a stone lantern
 a crate of live crabs and a hot-dog cart
 a water pump and a flower stall
@@ -1776,11 +1776,11 @@ a market clock and a shuttered shop front
 a drainpipe with moss and a busker's guitar case
 a charcoal grill and a row of payphones
 a bird on a wire and a cat on a wall
-a chalk-written menu board and a church bell tower
+a chalk-written glowing panel and a church bell tower
 a market clock and a rusty gate
 a taxi rank and a scaffolding of bamboo
 a lighthouse in the distance and a flock of pigeons
-a bus stop sign and a phone box
+a bus stop lit panel and a phone box
 a wheelbarrow and a wooden bench
 a wheelbarrow and a rusty gate
 a taxi rank and a food truck
@@ -1788,8 +1788,8 @@ a shuttered shop front and a temple bell
 a stone lantern and a clothesline between balconies
 a bale of hay
 a mural and a red lantern
-a goat tied to a rail and a graffiti-covered shutter
-a graffiti-covered shutter and a prayer flag
+a goat tied to a rail and a spray-painted shapes-covered shutter
+a spray-painted shapes-covered shutter and a prayer flag
 a drying rack of fish and a crate of live crabs
 a satellite dish and a skateboard ramp
 a tricycle taxi and a market clock
@@ -1805,7 +1805,7 @@ a rooftop water tank and a delivery van parked at the kerb
 a hot-dog cart and a flower stall
 a market umbrella and a lighthouse in the distance
 a roadside shrine and a cracked pavement
-a row of recycling bins and a bus stop sign
+a row of recycling bins and a bus stop lit panel
 a market clock and a food truck
 a wooden fence and a stone lantern
 a shuttered shop front and a lamppost with peeling paint
@@ -1814,7 +1814,7 @@ a pile of coconuts and a spice stall
 a puddle and a bale of hay
 a taxi rank and a row of colourful umbrellas
 a lamppost with peeling paint and a farm gate
-a graffiti-covered shutter and a tram stop
+a spray-painted shapes-covered shutter and a tram stop
 a farm gate
 a bale of hay and a cart of oranges
 a wooden bench and a crate of live crabs
@@ -1836,41 +1836,41 @@ a cash machine and a spice stall
 a bus shelter with a faded timetable and a flower stall
 a shuttered shop front and a horse tied to a post
 a temple bell and a torii gate
-a chalk-written menu board and a flock of pigeons
+a chalk-written glowing panel and a flock of pigeons
 a mailbox and a wooden bench
 a row of payphones and a shuttered shop front
 a hot-dog cart and a crate of live crabs
 a stack of sandbags and a chained-up bike
-a graffiti-covered shutter and a drainpipe with moss
-a newspaper kiosk and a cash machine
+a spray-painted shapes-covered shutter and a drainpipe with moss
+a folded paper sheet kiosk and a cash machine
 a pile of coconuts and a wooden bench
 a cart of oranges and a phone box
 a stray dog sleeping and a food truck
 a drainpipe with moss and a war memorial
 a market umbrella and a roadside shrine
 a handcart loaded with boxes and a water pump
-a chalk-written menu board and a stack of woven baskets
+a chalk-written glowing panel and a stack of woven baskets
 a stack of sandbags and a market scale
 a tricycle taxi and a street piano
-a food truck and a graffiti-covered shutter
-a graffiti-covered shutter and a pagoda roof
+a food truck and a spray-painted shapes-covered shutter
+a spray-painted shapes-covered shutter and a pagoda roof
 a handcart loaded with boxes and a pagoda roof
 a shrine with offerings and a busker's guitar case
 a vending machine glowing and a tricycle taxi
 a war memorial and a puddle
 a rooftop water tank and a prayer flag
-a temple bell and a newspaper kiosk
+a temple bell and a folded paper sheet kiosk
 a cat on a wall and a plastic stool beside a stall
 a stone fountain and a row of payphones
 a cracked pavement and a delivery van parked at the kerb
 a flag fluttering and a street piano
-a shuttered shop front and a bus stop sign
+a shuttered shop front and a bus stop lit panel
 a stone wall and a wheelbarrow
 a spice stall and a red lantern
 a cash machine and a hot-dog cart
 a taxi rank and a spice stall
 a church bell tower and a stone wall
-a cash machine and a graffiti-covered shutter
+a cash machine and a spray-painted shapes-covered shutter
 a goat tied to a rail and a stone wall
 a line of washing and a food truck
 a prayer flag and a busker's guitar case
@@ -1884,17 +1884,17 @@ a roadside shrine and a stack of tyres
 a charcoal grill and a roadside shrine
 a row of recycling bins and a pile of building materials
 a stone wall and a prayer flag
-a hand-painted sign
+a hand-painted lit panel
 a torii gate and a torii gate
 a row of payphones and a stray dog sleeping
-a newspaper kiosk and a mural
+a folded paper sheet kiosk and a mural
 a puddle and a stone wall
 a flag fluttering and a shrine with offerings
 a rooftop water tank
 a market umbrella and a pagoda roof
 a statue on a plinth and a manhole cover steaming
 a wheelbarrow and a water pump
-a plastic stool beside a stall and a hand-painted sign
+a plastic stool beside a stall and a hand-painted lit panel
 a chained-up bike
 a church bell tower and a food truck
 a food truck and a bird on a wire
@@ -1904,7 +1904,7 @@ a church bell tower and a rusty gate
 a water pump and a street piano
 a charcoal grill and a phone box
 a plastic stool beside a stall and a wheelbarrow
-a bus stop sign and a shrine with offerings
+a bus stop lit panel and a shrine with offerings
 a street piano and a pile of firewood
 a stone fountain and a water pump
 a line of washing and a parked bicycle
@@ -1912,7 +1912,7 @@ a torii gate and a bin overflowing with leaflets
 a statue on a plinth and a busker's guitar case
 a flag fluttering and a lighthouse in the distance
 a busker's guitar case and a flower stall
-a chalk-written menu board and a drainpipe with moss
+a chalk-written glowing panel and a drainpipe with moss
 a stray dog sleeping and a prayer flag
 a cash machine and a rack of kebabs
 a busker's guitar case and a fruit stall with crates
@@ -1942,7 +1942,7 @@ a plastic stool beside a stall and a stone fountain
 a manhole cover steaming and a stone wall
 a drainpipe with moss and a wheelbarrow
 a cart of oranges and a parked bicycle
-a charcoal grill and a newspaper kiosk
+a charcoal grill and a folded paper sheet kiosk
 a busker's guitar case and a bin overflowing with leaflets
 a fruit stall with crates and a rickshaw waiting
 a well with a bucket and a water pump
@@ -1954,14 +1954,14 @@ a row of colourful umbrellas and a bird on a wire
 a pile of coconuts and a handcart loaded with boxes
 a plastic stool beside a stall
 a row of colourful umbrellas and a mural
-a graffiti-covered shutter and a water pump
+a spray-painted shapes-covered shutter and a water pump
 a stack of woven baskets and a stack of sandbags
 a mural
 a stack of woven baskets and a scaffolding of bamboo
 a rooftop water tank and a rack of kebabs
 a tricycle taxi and a wheelbarrow
 a drainpipe with moss and a bale of hay
-a bird on a wire and a newspaper kiosk
+a bird on a wire and a folded paper sheet kiosk
 a puddle and a busker's guitar case
 a handcart loaded with boxes and a puddle
 a drying rack of fish and a stone fountain
@@ -1969,7 +1969,7 @@ a shrine with offerings and a bin overflowing with leaflets
 a skateboard ramp and a temple bell
 a manhole cover steaming and a bale of hay
 a fishing boat pulled up on the shore and a rack of kebabs
-a chalk-written menu board and a fishing boat pulled up on the shore
+a chalk-written glowing panel and a fishing boat pulled up on the shore
 a stack of lobster pots and a wooden bench
 a mailbox and a plastic stool beside a stall
 a red lantern and a stone wall
@@ -2000,7 +2000,7 @@ a pile of building materials and a war memorial
 a scaffolding of bamboo and a market scale
 a lamppost with peeling paint and a camel resting
 a row of parked scooters and a roadside shrine
-a bus stop sign and a row of parked scooters
+a bus stop lit panel and a row of parked scooters
 a rack of kebabs and a fishing boat pulled up on the shore
 a rusty gate and a parked bicycle
 a red lantern and a well with a bucket
@@ -2012,7 +2012,7 @@ a pile of firewood and a phone box
 a cash machine and a roadside shrine
 a satellite dish and a flag fluttering
 a stack of lobster pots and a scaffolding of bamboo
-a chalk-written menu board and a rooftop water tank
+a chalk-written glowing panel and a rooftop water tank
 a stray dog sleeping and a row of colourful umbrellas
 a cat on a wall and a camel resting
 a market scale and a plastic stool beside a stall
@@ -2021,10 +2021,10 @@ a skateboard ramp and a lighthouse in the distance
 a handcart loaded with boxes and a parked bicycle
 a lamppost with peeling paint and a taxi rank
 a drainpipe with moss and a goat tied to a rail
-a bus stop sign and a cracked pavement
+a bus stop lit panel and a cracked pavement
 a parked bicycle and a row of colourful umbrellas
-a row of colourful umbrellas and a chalk-written menu board
-a pile of coconuts and a chalk-written menu board
+a row of colourful umbrellas and a chalk-written glowing panel
+a pile of coconuts and a chalk-written glowing panel
 a cart of oranges and a lighthouse in the distance
 a shuttered shop front and a water pump
 a bird on a wire and a pile of building materials
@@ -2037,7 +2037,7 @@ a phone box and a pagoda roof
 a fruit stall with crates and a stack of woven baskets
 a wooden fence and a crate of live crabs
 a mailbox and a shrine with offerings
-a stray dog sleeping and a bus stop sign
+a stray dog sleeping and a bus stop lit panel
 a wooden bench and a wooden fence
 a shrine with offerings and a market clock
 a shrine with offerings and a fishing boat pulled up on the shore
@@ -2065,7 +2065,7 @@ a flag fluttering and a statue on a plinth
 a clothesline between balconies and a camel resting
 a stack of woven baskets and a manhole cover steaming
 a tuk-tuk and a mural
-a cart of oranges and a chalk-written menu board
+a cart of oranges and a chalk-written glowing panel
 a market clock and a cart of oranges
 a minaret and a cat on a wall
 a stone wall and a rickshaw waiting
@@ -2076,10 +2076,10 @@ a mailbox
 a wooden bench and a cart of oranges
 a mural and a lighthouse in the distance
 a stack of tyres
-a graffiti-covered shutter and a stone wall
+a spray-painted shapes-covered shutter and a stone wall
 a well with a bucket and a tram stop
-a donkey cart and a graffiti-covered shutter
-a war memorial and a bus stop sign
+a donkey cart and a spray-painted shapes-covered shutter
+a war memorial and a bus stop lit panel
 a wooden fence and a charcoal grill
 a line of washing and a pile of firewood
 a fishing boat pulled up on the shore and a roadside shrine
@@ -2088,7 +2088,7 @@ a clothesline between balconies and a cracked pavement
 a stone wall and a pile of firewood
 a rack of kebabs and a taxi rank
 a stone lantern and a stone fountain
-a hand-painted sign and a donkey cart
+a hand-painted lit panel and a donkey cart
 a flag fluttering and a mailbox
 a flower stall and a food truck
 a cash machine and a cart of oranges
@@ -2103,7 +2103,7 @@ a goat tied to a rail and a cash machine
 a parked bicycle and a market umbrella
 a scaffolding of bamboo and a fruit stall with crates
 a clothesline between balconies and a donkey cart
-a chalk-written menu board and a temple bell
+a chalk-written glowing panel and a temple bell
 a tram stop and a manhole cover steaming
 a prayer flag and a minaret
 a mural and a wheelbarrow
@@ -2119,7 +2119,7 @@ a mural and a street piano
 a cart of oranges
 a pile of firewood and a wooden bench
 a shrine with offerings and a cash machine
-a scaffolding of bamboo and a newspaper kiosk
+a scaffolding of bamboo and a folded paper sheet kiosk
 a donkey cart and a row of colourful umbrellas
 a fruit stall with crates and a farm gate
 a clothesline between balconies and a taxi rank
@@ -2155,12 +2155,12 @@ a war memorial and a rusty gate
 a war memorial and a fruit stall with crates
 a donkey cart and a street piano
 a wooden fence and a stack of lobster pots
-a chained-up bike and a chalk-written menu board
+a chained-up bike and a chalk-written glowing panel
 a delivery van parked at the kerb and a farm gate
 a clothesline between balconies and a food truck
 a market clock and a red lantern
 a busker's guitar case and a busker's guitar case
-a busker's guitar case and a bus stop sign
+a busker's guitar case and a bus stop lit panel
 a war memorial and a stack of woven baskets
 a pile of firewood and a rusty gate
 a drying rack of fish and a scaffolding of bamboo
@@ -2173,7 +2173,7 @@ a red lantern and a spice stall
 a temple bell and a fruit stall with crates
 a donkey cart and a line of washing
 a phone box and a fruit stall with crates
-a graffiti-covered shutter and a flower stall
+a spray-painted shapes-covered shutter and a flower stall
 a food truck and a mural
 a cart of oranges and a hot-dog cart
 a stack of lobster pots and a spice stall
@@ -2191,7 +2191,7 @@ a vending machine glowing and a minaret
 a drainpipe with moss and a water pump
 a lamppost with peeling paint and a stack of woven baskets
 a donkey cart and a stone wall
-a rooftop water tank and a newspaper kiosk
+a rooftop water tank and a folded paper sheet kiosk
 a water pump and a pile of coconuts
 a church bell tower and a pile of building materials
 a phone box and a fishing boat pulled up on the shore
@@ -2201,20 +2201,20 @@ a rickshaw waiting
 a food truck and a stray dog sleeping
 a statue on a plinth and a mailbox
 a cart of oranges and a pagoda roof
-a clothesline between balconies and a bus stop sign
+a clothesline between balconies and a bus stop lit panel
 a shrine with offerings and a vending machine glowing
 a pagoda roof and a drainpipe with moss
 a cracked pavement and a flag fluttering
 a line of washing
 a red lantern and a parked bicycle
-a temple bell and a graffiti-covered shutter
+a temple bell and a spray-painted shapes-covered shutter
 a stack of lobster pots and a line of washing
 a flag fluttering and a cash machine
 a cracked pavement and a fruit stall with crates
 a roadside shrine and a hot-dog cart
 a handcart loaded with boxes and a plastic stool beside a stall
 a plastic stool beside a stall and a row of payphones
-a graffiti-covered shutter and a minaret
+a spray-painted shapes-covered shutter and a minaret
 a pile of building materials and a tram stop
 a scaffolding of bamboo and a temple bell
 a pile of firewood and a market clock
@@ -2222,18 +2222,18 @@ a plastic stool beside a stall and a tram stop
 a camel resting and a war memorial
 a cat on a wall and a bale of hay
 a market scale and a chained-up bike
-a hand-painted sign and a charcoal grill
+a hand-painted lit panel and a charcoal grill
 a stone lantern and a bale of hay
 a stack of sandbags and a phone box
 a mailbox and a row of parked scooters
 a food truck and a roadside shrine
-a bus shelter with a faded timetable and a graffiti-covered shutter
+a bus shelter with a faded timetable and a spray-painted shapes-covered shutter
 a pile of building materials and a row of colourful umbrellas
-a hand-painted sign and a mailbox
+a hand-painted lit panel and a mailbox
 a camel resting and a lamppost with peeling paint
 a goat tied to a rail and a shrine with offerings
 a flower stall
-a camel resting and a graffiti-covered shutter
+a camel resting and a spray-painted shapes-covered shutter
 a satellite dish and a rusty gate
 a donkey cart and a cart of oranges
 a cracked pavement and a stack of sandbags
@@ -2254,7 +2254,7 @@ a phone box and a tricycle taxi
 a rickshaw waiting and a roadside shrine
 a stack of woven baskets and a fishing boat pulled up on the shore
 a clothesline between balconies and a mailbox
-a graffiti-covered shutter and a stack of tyres
+a spray-painted shapes-covered shutter and a stack of tyres
 a puddle and a stack of tyres
 a temple bell and a tram stop
 a handcart loaded with boxes and a food truck
@@ -2266,7 +2266,7 @@ a wooden fence and a stack of tyres
 a line of washing and a market clock
 a cash machine and a stone fountain
 a drainpipe with moss and a line of washing
-a graffiti-covered shutter and a skateboard ramp
+a spray-painted shapes-covered shutter and a skateboard ramp
 a row of payphones and a bin overflowing with leaflets
 a parked bicycle and a pile of firewood
 a wooden bench and a flower stall
@@ -2275,15 +2275,15 @@ a prayer flag and a stack of sandbags
 a church bell tower and a market clock
 a wooden bench
 a skateboard ramp and a horse tied to a post
-a hand-painted sign and a puddle
+a hand-painted lit panel and a puddle
 a mailbox and a hot-dog cart
 a tuk-tuk and a pile of coconuts
 a plastic stool beside a stall and a crate of live crabs
 a horse tied to a post and a red lantern
-a line of washing and a hand-painted sign
+a line of washing and a hand-painted lit panel
 a church bell tower and a chained-up bike
 a delivery van parked at the kerb and a minaret
-a flag fluttering and a graffiti-covered shutter
+a flag fluttering and a spray-painted shapes-covered shutter
 a cracked pavement and a vending machine glowing
 a war memorial
 a manhole cover steaming and a chained-up bike
@@ -2293,25 +2293,25 @@ a tricycle taxi and a donkey cart
 a bale of hay and a pile of firewood
 a drainpipe with moss
 a well with a bucket and a flower stall
-a satellite dish and a chalk-written menu board
+a satellite dish and a chalk-written glowing panel
 a row of recycling bins
 a phone box and a mural
 a cracked pavement and a temple bell
 a lamppost with peeling paint and a hot-dog cart
-a vending machine glowing and a chalk-written menu board
+a vending machine glowing and a chalk-written glowing panel
 a horse tied to a post and a donkey cart
 a pagoda roof and a row of colourful umbrellas
 a minaret and a drying rack of fish
 a roadside shrine and a puddle
-a chained-up bike and a hand-painted sign
+a chained-up bike and a hand-painted lit panel
 a flag fluttering and a shuttered shop front
 a clothesline between balconies and a cart of oranges
 a rusty gate and a shrine with offerings
-a statue on a plinth and a graffiti-covered shutter
+a statue on a plinth and a spray-painted shapes-covered shutter
 a market umbrella
 a taxi rank and a drainpipe with moss
 a donkey cart and a pile of coconuts
-a newspaper kiosk and a rusty gate
+a folded paper sheet kiosk and a rusty gate
 a flower stall and a bale of hay
 a lamppost with peeling paint and a pile of firewood
 a wheelbarrow and a tuk-tuk
@@ -2327,8 +2327,8 @@ a temple bell and a water pump
 a stack of sandbags and a row of parked scooters
 a hot-dog cart and a horse tied to a post
 a well with a bucket and a tuk-tuk
-a horse tied to a post and a bus stop sign
-a chalk-written menu board and a rickshaw waiting
+a horse tied to a post and a bus stop lit panel
+a chalk-written glowing panel and a rickshaw waiting
 a row of recycling bins and a food truck
 a stone wall and a row of payphones
 a pile of firewood and a cracked pavement
@@ -2344,23 +2344,23 @@ a donkey cart and a wooden fence
 a delivery van parked at the kerb and a camel resting
 a farm gate and a donkey cart
 a flag fluttering and a wooden bench
-a bus stop sign and a rack of kebabs
+a bus stop lit panel and a rack of kebabs
 a camel resting and a row of colourful umbrellas
 a rickshaw waiting and a flock of pigeons
 a stone lantern and a skateboard ramp
 a farm gate and a farm gate
 a bird on a wire and a row of parked scooters
 a water pump and a wooden bench
-a donkey cart and a bus stop sign
+a donkey cart and a bus stop lit panel
 a manhole cover steaming and a bus shelter with a faded timetable
 a farm gate and a cash machine
-a chalk-written menu board and a vending machine glowing
+a chalk-written glowing panel and a vending machine glowing
 a delivery van parked at the kerb and a parked bicycle
 a taxi rank and a pile of firewood
 a war memorial and a stone wall
 a stone fountain and a clothesline between balconies
 a crate of live crabs
-a drainpipe with moss and a graffiti-covered shutter
+a drainpipe with moss and a spray-painted shapes-covered shutter
 a spice stall and a tricycle taxi
 a goat tied to a rail and a flag fluttering
 a bin overflowing with leaflets and a cart of oranges
@@ -2380,27 +2380,27 @@ a horse tied to a post and a stone lantern
 a hot-dog cart and a stack of tyres
 a cracked pavement and a torii gate
 a skateboard ramp and a bus shelter with a faded timetable
-a pagoda roof and a chalk-written menu board
+a pagoda roof and a chalk-written glowing panel
 a crate of live crabs and a parked bicycle
-a phone box and a chalk-written menu board
+a phone box and a chalk-written glowing panel
 a shrine with offerings and a pagoda roof
 a bird on a wire and a hot-dog cart
 a camel resting and a vending machine glowing
 a shuttered shop front and a pile of firewood
 a statue on a plinth and a phone box
 a red lantern and a vending machine glowing
-a market clock and a hand-painted sign
+a market clock and a hand-painted lit panel
 a vending machine glowing and a parked bicycle
 a plastic stool beside a stall and a stack of tyres
 a lighthouse in the distance and a flag fluttering
 a pile of firewood and a minaret
-a torii gate and a graffiti-covered shutter
+a torii gate and a spray-painted shapes-covered shutter
 a farm gate and a cracked pavement
-a graffiti-covered shutter and a bin overflowing with leaflets
+a spray-painted shapes-covered shutter and a bin overflowing with leaflets
 a fishing boat pulled up on the shore and a row of recycling bins
 a flock of pigeons and a flower stall
 a tuk-tuk and a vending machine glowing
-a war memorial and a newspaper kiosk
+a war memorial and a folded paper sheet kiosk
 a temple bell and a row of parked scooters
 a skateboard ramp and a row of payphones
 a market scale and a scaffolding of bamboo
@@ -2421,7 +2421,7 @@ a wooden fence and a cart of oranges
 a roadside shrine and a camel resting
 a row of recycling bins and a war memorial
 a parked bicycle and a cracked pavement
-a prayer flag and a newspaper kiosk
+a prayer flag and a folded paper sheet kiosk
 a vending machine glowing and a row of recycling bins
 a flock of pigeons and a clothesline between balconies
 a street piano and a line of washing
@@ -2433,16 +2433,16 @@ a stone wall and a street piano
 a row of payphones and a rusty gate
 a fruit stall with crates and a rusty gate
 a donkey cart and a flag fluttering
-a roadside shrine and a hand-painted sign
+a roadside shrine and a hand-painted lit panel
 a row of recycling bins and a parked bicycle
 a fruit stall with crates and a stack of sandbags
 a stone wall
 a water pump and a satellite dish
 a spice stall and a vending machine glowing
-a roadside shrine and a chalk-written menu board
+a roadside shrine and a chalk-written glowing panel
 a busker's guitar case and a bird on a wire
 a drainpipe with moss and a bin overflowing with leaflets
-a chalk-written menu board and a bird on a wire
+a chalk-written glowing panel and a bird on a wire
 a donkey cart and a chained-up bike
 a rusty gate and a stack of tyres
 a bus shelter with a faded timetable and a parked bicycle
@@ -2457,13 +2457,13 @@ a shrine with offerings and a chained-up bike
 a stack of woven baskets and a stone lantern
 a tuk-tuk and a stone lantern
 a stray dog sleeping and a charcoal grill
-a bus stop sign and a wooden fence
+a bus stop lit panel and a wooden fence
 a row of parked scooters and a line of washing
 a cat on a wall and a clothesline between balconies
 a chained-up bike and a stone wall
 a pile of building materials and a prayer flag
 a stack of tyres and a crate of live crabs
-a newspaper kiosk and a goat tied to a rail
+a folded paper sheet kiosk and a goat tied to a rail
 a clothesline between balconies and a cash machine
 a row of recycling bins and a stack of lobster pots
 a prayer flag
@@ -2494,7 +2494,7 @@ a stack of sandbags and a wooden fence
 a tram stop and a vending machine glowing
 a lamppost with peeling paint and a torii gate
 a torii gate and a rusty gate
-a chalk-written menu board and a cash machine
+a chalk-written glowing panel and a cash machine
 a stone lantern and a torii gate
 a market scale and a horse tied to a post
-a stack of sandbags and a chalk-written menu board
+a stack of sandbags and a chalk-written glowing panel

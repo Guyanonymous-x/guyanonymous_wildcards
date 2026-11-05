@@ -3,7 +3,7 @@ A black cassock with a white clerical collar, a biretta, black shoes, the full o
 A black cassock with a white surplice, black shoes, the full outfit of an Anglican vicar in a feminine cut
 A black coat with a prayer shawl, trousers, a black hat, shoes, the full outfit of a rabbi in a feminine cut
 A black robe with a stole, a woven straw hat, straw sandals, the full outfit of a Zen monk in a feminine cut
-A blue robe with a rank badge, a black winged hat, shoes, the full outfit of a hanbok-wearing court official in a feminine cut
+A blue robe with a rank patch, a black winged hat, shoes, the full outfit of a hanbok-wearing court official in a feminine cut
 A bowling shirt, rolled jeans, a pompadour, shoes, the full outfit of a 1950s rockabilly in a feminine cut
 A bright blue tunic with red trim, trousers, a four-pointed hat, reindeer-fur boots, the full outfit of a Sami herder in a feminine cut
 A bright coloured robe with a sash, wide trousers, a black horsehair hat, boots, the full outfit of a Korean palace guard in a feminine cut
@@ -39,7 +39,7 @@ A long habit with a veil, a wimple and veil, sandals, the full outfit of a nun i
 A long indigo robe, an indigo veil, sandals, the full outfit of a Berber nomad in a feminine cut
 A long red cassock with a white ruff, shoes, the full outfit of a choir singer in a feminine cut
 A long robe with a cloak, a head cloth with a cord, sandals, the full outfit of a Bedouin chief in a feminine cut
-A long silk robe with a mandarin square badge, a hat with a button, cloth boots, the full outfit of a Chinese imperial court official in a feminine cut
+A long silk robe with a mandarin square patch, a hat with a button, cloth boots, the full outfit of a Chinese imperial court official in a feminine cut
 A long white robe with a blue sash, a large turban, the full outfit of a Sikh priest in a feminine cut
 A long white robe with a gold sickle, an oak-leaf crown, sandals, the full outfit of a druid in a feminine cut
 A long white thobe with a cloak, a turban, sandals, the full outfit of an imam in a feminine cut
@@ -64,7 +64,7 @@ A person dressed as a Brazilian samba dancer in a feminine cut (Carnival), with 
 A person dressed as a Buddhist monk in a feminine cut (Southeast Asia), with a saffron robe draped over one shoulder, a shaved head and sandals, in a feminine cut with shaped seams and a flattering line
 A person dressed as a Carnival of Venice reveller in a feminine cut (Venice), with a brocade cape, a plumed hat and a mask and shoes, tailored in a feminine cut with a nipped-in waist
 A person dressed as a Catholic priest in a feminine cut (church), with a black cassock with a white clerical collar, a biretta and black shoes, cut for a feminine figure with a fitted waist
-A person dressed as a Chinese imperial court official in a feminine cut (Qing dynasty), with a long silk robe with a mandarin square badge, a hat with a button and cloth boots, in a feminine cut with shaped seams and a flattering line
+A person dressed as a Chinese imperial court official in a feminine cut (Qing dynasty), with a long silk robe with a mandarin square patch, a hat with a button and cloth boots, in a feminine cut with shaped seams and a flattering line
 A person dressed as a Chinese opera performer in a feminine cut (Beijing), with a heavily embroidered robe with long water sleeves, an elaborate headdress and platform boots, cut for a feminine figure with a fitted waist
 A person dressed as a Dutch klompen wearer in a feminine cut (Netherlands), with a striped shirt, baggy trousers, a cap and wooden clogs, in a feminine cut with shaped seams and a flattering line
 A person dressed as a Ghanaian chief in a feminine cut (Ashanti), with a kente cloth draped over the shoulder, a gold crown and sandals, in a feminine cut with shaped seams and a flattering line
@@ -105,7 +105,7 @@ A person dressed as a choir singer in a feminine cut (cathedral), with a long re
 A person dressed as a druid in a feminine cut (ancient Britain), with a long white robe with a gold sickle, an oak-leaf crown and sandals, tailored in a feminine cut with a nipped-in waist
 A person dressed as a gaucho in a feminine cut (Argentina), which is a loose shirt with a poncho, baggy trousers, a black hat and riding boots, cut for a feminine figure with a fitted waist
 A person dressed as a geisha in a feminine cut (Kyoto), which is a silk kimono with a wide obi, an elaborate hair ornament and wooden sandals, cut for a feminine figure with a fitted waist
-A person dressed as a hanbok-wearing court official in a feminine cut (Joseon), with a blue robe with a rank badge, a black winged hat and shoes, tailored in a feminine cut with a nipped-in waist
+A person dressed as a hanbok-wearing court official in a feminine cut (Joseon), with a blue robe with a rank patch, a black winged hat and shoes, tailored in a feminine cut with a nipped-in waist
 A person dressed as a mariachi musician in a feminine cut (Mexico), with a short jacket with silver buttons, tight trousers with silver studs, a wide sombrero and boots, cut for a feminine figure with a fitted waist
 A person dressed as a medieval herald in a feminine cut (Europe), with a tabard with a coat of arms, hose, a feathered cap and boots, tailored in a feminine cut with a nipped-in waist
 A person dressed as a medieval jester in a feminine cut (Europe), with a patchwork tunic, tights, a hat with bells and curled shoes, cut for a feminine figure with a fitted waist
@@ -231,11 +231,11 @@ a Catholic priest in a feminine cut (church), in a black cassock with a white cl
 a Catholic priest in a feminine cut (church), wearing a black cassock with a white clerical collar, a biretta and black shoes, cut for a feminine figure with a fitted waist
 a Catholic priest in a feminine cut (church), wearing a black cassock with a white clerical collar, a biretta and black shoes, cut for a feminine figure with a fitted waist and carrying a prayer book
 a Catholic priest in a feminine cut, dressed in a black cassock with a white clerical collar
-a Chinese imperial court official in a feminine cut (Qing dynasty), in a long silk robe with a mandarin square badge and a hat with a button
-a Chinese imperial court official in a feminine cut (Qing dynasty), in a long silk robe with a mandarin square badge and cloth boots
-a Chinese imperial court official in a feminine cut (Qing dynasty), wearing a long silk robe with a mandarin square badge, a hat with a button and cloth boots, in a feminine cut with shaped seams and a flattering line
-a Chinese imperial court official in a feminine cut (Qing dynasty), wearing a long silk robe with a mandarin square badge, a hat with a button and cloth boots, in a feminine cut with shaped seams and a flattering line and carrying a bead necklace
-a Chinese imperial court official in a feminine cut, dressed in a long silk robe with a mandarin square badge
+a Chinese imperial court official in a feminine cut (Qing dynasty), in a long silk robe with a mandarin square patch and a hat with a button
+a Chinese imperial court official in a feminine cut (Qing dynasty), in a long silk robe with a mandarin square patch and cloth boots
+a Chinese imperial court official in a feminine cut (Qing dynasty), wearing a long silk robe with a mandarin square patch, a hat with a button and cloth boots, in a feminine cut with shaped seams and a flattering line
+a Chinese imperial court official in a feminine cut (Qing dynasty), wearing a long silk robe with a mandarin square patch, a hat with a button and cloth boots, in a feminine cut with shaped seams and a flattering line and carrying a bead necklace
+a Chinese imperial court official in a feminine cut, dressed in a long silk robe with a mandarin square patch
 a Chinese opera performer in a feminine cut (Beijing), in a heavily embroidered robe with long water sleeves and an elaborate headdress
 a Chinese opera performer in a feminine cut (Beijing), in a heavily embroidered robe with long water sleeves and platform boots
 a Chinese opera performer in a feminine cut (Beijing), wearing a heavily embroidered robe with long water sleeves, an elaborate headdress and platform boots, cut for a feminine figure with a fitted waist
@@ -415,11 +415,11 @@ a geisha in a feminine cut (Kyoto), in a silk kimono with a wide obi and wooden 
 a geisha in a feminine cut (Kyoto), wearing a silk kimono with a wide obi, an elaborate hair ornament and wooden sandals, cut for a feminine figure with a fitted waist
 a geisha in a feminine cut (Kyoto), wearing a silk kimono with a wide obi, an elaborate hair ornament and wooden sandals, cut for a feminine figure with a fitted waist and carrying a folding fan
 a geisha in a feminine cut, dressed in a silk kimono with a wide obi
-a hanbok-wearing court official in a feminine cut (Joseon), in a blue robe with a rank badge and a black winged hat
-a hanbok-wearing court official in a feminine cut (Joseon), in a blue robe with a rank badge and shoes
-a hanbok-wearing court official in a feminine cut (Joseon), wearing a blue robe with a rank badge, a black winged hat and shoes, tailored in a feminine cut with a nipped-in waist
-a hanbok-wearing court official in a feminine cut (Joseon), wearing a blue robe with a rank badge, a black winged hat and shoes, tailored in a feminine cut with a nipped-in waist and carrying a tablet
-a hanbok-wearing court official in a feminine cut, dressed in a blue robe with a rank badge
+a hanbok-wearing court official in a feminine cut (Joseon), in a blue robe with a rank patch and a black winged hat
+a hanbok-wearing court official in a feminine cut (Joseon), in a blue robe with a rank patch and shoes
+a hanbok-wearing court official in a feminine cut (Joseon), wearing a blue robe with a rank patch, a black winged hat and shoes, tailored in a feminine cut with a nipped-in waist
+a hanbok-wearing court official in a feminine cut (Joseon), wearing a blue robe with a rank patch, a black winged hat and shoes, tailored in a feminine cut with a nipped-in waist and carrying a tablet
+a hanbok-wearing court official in a feminine cut, dressed in a blue robe with a rank patch
 a mariachi musician in a feminine cut (Mexico), in a short jacket with silver buttons and a wide sombrero
 a mariachi musician in a feminine cut (Mexico), in a short jacket with silver buttons and tight trousers with silver studs and boots
 a mariachi musician in a feminine cut (Mexico), wearing a short jacket with silver buttons, tight trousers with silver studs, a wide sombrero and boots, cut for a feminine figure with a fitted waist
@@ -489,7 +489,7 @@ an Aztec jaguar warrior in a feminine cut, dressed in a jaguar-skin suit
 an Edwardian suffragette in a feminine cut (1900s), in a tailored jacket with a sash and a hat
 an Edwardian suffragette in a feminine cut (1900s), in a tailored jacket with a sash and a long skirt and boots
 an Edwardian suffragette in a feminine cut (1900s), wearing a tailored jacket with a sash, a long skirt, a hat and boots, cut for a feminine figure with a fitted waist
-an Edwardian suffragette in a feminine cut (1900s), wearing a tailored jacket with a sash, a long skirt, a hat and boots, cut for a feminine figure with a fitted waist and carrying a banner
+an Edwardian suffragette in a feminine cut (1900s), wearing a tailored jacket with a sash, a long skirt, a hat and boots, cut for a feminine figure with a fitted waist and carrying a cloth pennant
 an Edwardian suffragette in a feminine cut, dressed in a tailored jacket with a sash with a long skirt
 an Elizabethan courtier in a feminine cut (England), in a doublet with a ruff and a flat cap
 an Elizabethan courtier in a feminine cut (England), in a doublet with a ruff and slops and buckled shoes

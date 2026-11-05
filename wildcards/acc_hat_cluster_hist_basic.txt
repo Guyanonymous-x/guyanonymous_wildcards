@@ -120,8 +120,8 @@ a casual pith helmet, made of __acc_hat_mat_hist_basic__. It is a domed, cork-li
 a casual pith helmet, made of __acc_hat_mat_hist_basic__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_basic__
 a casual poke bonnet, made of __acc_hat_mat_hist_basic__. It is a bonnet with a small crown and a deep rounded front brim.
 a casual poke bonnet, made of __acc_hat_mat_hist_basic__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_basic__
-a casual shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge.
-a casual shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_basic__
+a casual shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch.
+a casual shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_basic__
 a casual sou'wester, made of __acc_hat_mat_hist_basic__. It is a brimmed oilskin rain hat, longer at the back.
 a casual sou'wester, made of __acc_hat_mat_hist_basic__. It is a brimmed oilskin rain hat, longer at the back. __acc_hat_trim_basic__
 a casual tam o' shanter, made of __acc_hat_mat_hist_basic__. It is a wide flat wool beret with a pom-pom.
@@ -178,8 +178,8 @@ a factory-made peach-basket hat, made of __acc_hat_mat_hist_basic__. It is an up
 a factory-made peach-basket hat, made of __acc_hat_mat_hist_basic__. It is an upturned basket shape lavishly trimmed with flowers. __acc_hat_trim_basic__
 a factory-made pith helmet, made of __acc_hat_mat_hist_basic__. It is a domed, cork-like sun helmet with a puggaree band.
 a factory-made pith helmet, made of __acc_hat_mat_hist_basic__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_basic__
-a factory-made shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge.
-a factory-made shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_basic__
+a factory-made shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch.
+a factory-made shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_basic__
 a factory-made tricorne, made of __acc_hat_mat_hist_basic__. It is a hat with the brim turned up on three sides.
 a factory-made tricorne, made of __acc_hat_mat_hist_basic__. It is a hat with the brim turned up on three sides. __acc_hat_trim_basic__
 a functional blangkon, made of __acc_hat_mat_hist_basic__. It is a batik-patterned cap with a knot at the back.
@@ -196,8 +196,8 @@ a functional peach-basket hat, made of __acc_hat_mat_hist_basic__. It is an uptu
 a functional peach-basket hat, made of __acc_hat_mat_hist_basic__. It is an upturned basket shape lavishly trimmed with flowers. __acc_hat_trim_basic__
 a functional poke bonnet, made of __acc_hat_mat_hist_basic__. It is a bonnet with a small crown and a deep rounded front brim.
 a functional poke bonnet, made of __acc_hat_mat_hist_basic__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_basic__
-a functional shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge.
-a functional shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_basic__
+a functional shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch.
+a functional shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_basic__
 a functional shtreimel-style fur hat, made of __acc_hat_mat_hist_basic__. It is a wide, round, fur-trimmed velvet hat.
 a functional shtreimel-style fur hat, made of __acc_hat_mat_hist_basic__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_basic__
 a functional songkok, made of __acc_hat_mat_hist_basic__. It is a rigid velvet cap with a flat top.
@@ -330,8 +330,8 @@ a low-key hennin, made of __acc_hat_mat_hist_basic__. It is a tall conical headd
 a low-key hennin, made of __acc_hat_mat_hist_basic__. It is a tall conical headdress with a trailing veil, in medieval style. __acc_hat_trim_basic__
 a low-key kalpak, made of __acc_hat_mat_hist_basic__. It is a conical lambskin hat.
 a low-key kalpak, made of __acc_hat_mat_hist_basic__. It is a conical lambskin hat. __acc_hat_trim_basic__
-a low-key shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge.
-a low-key shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_basic__
+a low-key shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch.
+a low-key shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_basic__
 a low-key shtreimel-style fur hat, made of __acc_hat_mat_hist_basic__. It is a wide, round, fur-trimmed velvet hat.
 a low-key shtreimel-style fur hat, made of __acc_hat_mat_hist_basic__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_basic__
 a low-key tubeteika, made of __acc_hat_mat_hist_basic__. It is a small embroidered four-sided cap.
@@ -410,8 +410,8 @@ a minimal pith helmet, made of __acc_hat_mat_hist_basic__. It is a domed, cork-l
 a minimal pith helmet, made of __acc_hat_mat_hist_basic__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_basic__
 a minimal printer's paper hat, made of __acc_hat_mat_hist_basic__. It is a folded newsprint hat with a point.
 a minimal printer's paper hat, made of __acc_hat_mat_hist_basic__. It is a folded newsprint hat with a point. __acc_hat_trim_basic__
-a minimal shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge.
-a minimal shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_basic__
+a minimal shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch.
+a minimal shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_basic__
 a minimal shtreimel-style fur hat, made of __acc_hat_mat_hist_basic__. It is a wide, round, fur-trimmed velvet hat.
 a minimal shtreimel-style fur hat, made of __acc_hat_mat_hist_basic__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_basic__
 a minimal smoking cap, made of __acc_hat_mat_hist_basic__. It is a small tasselled cap embroidered with a pattern.
@@ -564,8 +564,8 @@ a ready-to-wear barretina, made of __acc_hat_mat_hist_basic__. It is a long flop
 a ready-to-wear barretina, made of __acc_hat_mat_hist_basic__. It is a long floppy pull-on hat that flops over to one side. __acc_hat_trim_basic__
 a ready-to-wear jaapi, made of __acc_hat_mat_hist_basic__. It is a woven bamboo conical hat with a decorated cloth.
 a ready-to-wear jaapi, made of __acc_hat_mat_hist_basic__. It is a woven bamboo conical hat with a decorated cloth. __acc_hat_trim_basic__
-a ready-to-wear shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge.
-a ready-to-wear shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_basic__
+a ready-to-wear shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch.
+a ready-to-wear shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_basic__
 a ready-to-wear sombrero cordobés, made of __acc_hat_mat_hist_basic__. It is a flat-crowned hat with a flat brim in Andalusian style.
 a ready-to-wear sombrero cordobés, made of __acc_hat_mat_hist_basic__. It is a flat-crowned hat with a flat brim in Andalusian style. __acc_hat_trim_basic__
 a ready-to-wear sombrero, made of __acc_hat_mat_hist_basic__. It is a tall crown on a huge saucer-shaped brim, trimmed with embroidery.
@@ -712,8 +712,8 @@ a straightforward pith helmet, made of __acc_hat_mat_hist_basic__. It is a domed
 a straightforward pith helmet, made of __acc_hat_mat_hist_basic__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_basic__
 a straightforward printer's paper hat, made of __acc_hat_mat_hist_basic__. It is a folded newsprint hat with a point.
 a straightforward printer's paper hat, made of __acc_hat_mat_hist_basic__. It is a folded newsprint hat with a point. __acc_hat_trim_basic__
-a straightforward shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge.
-a straightforward shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_basic__
+a straightforward shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch.
+a straightforward shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_basic__
 a straightforward turban, made of __acc_hat_mat_hist_basic__. It is a long cloth wound around the head in neat folds.
 a straightforward turban, made of __acc_hat_mat_hist_basic__. It is a long cloth wound around the head in neat folds. __acc_hat_trim_basic__
 a straightforward ushanka, made of __acc_hat_mat_hist_basic__. It is a fur hat with ear flaps that tie up on top.
@@ -994,8 +994,8 @@ an utilitarian mortarboard, made of __acc_hat_mat_hist_basic__. It is a flat squ
 an utilitarian mortarboard, made of __acc_hat_mat_hist_basic__. It is a flat square board on a skullcap with a tassel. __acc_hat_trim_basic__
 an utilitarian papakha, made of __acc_hat_mat_hist_basic__. It is a tall, shaggy sheepskin hat.
 an utilitarian papakha, made of __acc_hat_mat_hist_basic__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_basic__
-an utilitarian shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge.
-an utilitarian shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_basic__
+an utilitarian shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch.
+an utilitarian shako, made of __acc_hat_mat_hist_basic__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_basic__
 an utilitarian sou'wester, made of __acc_hat_mat_hist_basic__. It is a brimmed oilskin rain hat, longer at the back.
 an utilitarian sou'wester, made of __acc_hat_mat_hist_basic__. It is a brimmed oilskin rain hat, longer at the back. __acc_hat_trim_basic__
 an utilitarian toque blanche, made of __acc_hat_mat_hist_basic__. It is a tall, white, pleated chef's hat.

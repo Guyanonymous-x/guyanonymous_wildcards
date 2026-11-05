@@ -44,8 +44,8 @@ a crisp octopus hat, made of __acc_hat_mat_nov_fine__. It is a bulbous cap with 
 a crisp octopus hat, made of __acc_hat_mat_nov_fine__. It is a bulbous cap with long dangling tentacles. __acc_hat_gimmick__
 a crisp penguin hat, made of __acc_hat_mat_nov_fine__. It is a knit hat with a beak, two eyes and little flipper flaps.
 a crisp penguin hat, made of __acc_hat_mat_nov_fine__. It is a knit hat with a beak, two eyes and little flipper flaps. __acc_hat_gimmick__
-a crisp pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge.
-a crisp pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a crisp pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch.
+a crisp pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a crisp propeller beanie, made of __acc_hat_mat_nov_fine__. It is a colourful panelled cap with a small spinning propeller on a stem at the top.
 a crisp propeller beanie, made of __acc_hat_mat_nov_fine__. It is a colourful panelled cap with a small spinning propeller on a stem at the top. __acc_hat_gimmick__
 a crisp reindeer antler hat, made of __acc_hat_mat_nov_fine__. It has soft plush antlers hung with tiny baubles.
@@ -118,8 +118,8 @@ a deft party-cone hat, made of __acc_hat_mat_nov_fine__. It is a tall cone with 
 a deft party-cone hat, made of __acc_hat_mat_nov_fine__. It is a tall cone with a pom-pom on the top and an elastic chin strap. __acc_hat_gimmick__
 a deft pilgrim hat, made of __acc_hat_mat_nov_fine__. It is a tall black hat with a buckled band and a wide brim.
 a deft pilgrim hat, made of __acc_hat_mat_nov_fine__. It is a tall black hat with a buckled band and a wide brim. __acc_hat_gimmick__
-a deft pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge.
-a deft pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a deft pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch.
+a deft pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a deft propeller beanie, made of __acc_hat_mat_nov_fine__. It is a colourful panelled cap with a small spinning propeller on a stem at the top.
 a deft propeller beanie, made of __acc_hat_mat_nov_fine__. It is a colourful panelled cap with a small spinning propeller on a stem at the top. __acc_hat_gimmick__
 a deft pumpkin hat, made of __acc_hat_mat_nov_fine__. It is a round orange gourd with a stem and curling vine.
@@ -234,8 +234,8 @@ a finely made mullet hat, made of __acc_hat_mat_nov_fine__. It is a baseball cap
 a finely made mullet hat, made of __acc_hat_mat_nov_fine__. It is a baseball cap with a long wig of hair attached at the back. __acc_hat_gimmick__
 a finely made pilgrim hat, made of __acc_hat_mat_nov_fine__. It is a tall black hat with a buckled band and a wide brim.
 a finely made pilgrim hat, made of __acc_hat_mat_nov_fine__. It is a tall black hat with a buckled band and a wide brim. __acc_hat_gimmick__
-a finely made pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge.
-a finely made pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a finely made pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch.
+a finely made pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a finely made shark-fin hat, made of __acc_hat_mat_nov_fine__. It is a soft cap with a tall fin on top and a toothy jaw over the forehead.
 a finely made shark-fin hat, made of __acc_hat_mat_nov_fine__. It is a soft cap with a tall fin on top and a toothy jaw over the forehead. __acc_hat_gimmick__
 a finely made teacup hat, made of __acc_hat_mat_nov_fine__. It is a floral porcelain-look cup on a saucer, worn tipped over one ear.
@@ -370,8 +370,8 @@ a high-grade mushroom-cap hat, made of __acc_hat_mat_nov_fine__. It is a wide re
 a high-grade mushroom-cap hat, made of __acc_hat_mat_nov_fine__. It is a wide red dome with white spots. __acc_hat_gimmick__
 a high-grade octopus hat, made of __acc_hat_mat_nov_fine__. It is a bulbous cap with long dangling tentacles.
 a high-grade octopus hat, made of __acc_hat_mat_nov_fine__. It is a bulbous cap with long dangling tentacles. __acc_hat_gimmick__
-a high-grade pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge.
-a high-grade pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a high-grade pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch.
+a high-grade pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a high-grade propeller beanie, made of __acc_hat_mat_nov_fine__. It is a colourful panelled cap with a small spinning propeller on a stem at the top.
 a high-grade propeller beanie, made of __acc_hat_mat_nov_fine__. It is a colourful panelled cap with a small spinning propeller on a stem at the top. __acc_hat_gimmick__
 a high-grade shark-fin hat, made of __acc_hat_mat_nov_fine__. It is a soft cap with a tall fin on top and a toothy jaw over the forehead.
@@ -882,8 +882,8 @@ a well-bred mullet hat, made of __acc_hat_mat_nov_fine__. It is a baseball cap w
 a well-bred mullet hat, made of __acc_hat_mat_nov_fine__. It is a baseball cap with a long wig of hair attached at the back. __acc_hat_gimmick__
 a well-bred pilgrim hat, made of __acc_hat_mat_nov_fine__. It is a tall black hat with a buckled band and a wide brim.
 a well-bred pilgrim hat, made of __acc_hat_mat_nov_fine__. It is a tall black hat with a buckled band and a wide brim. __acc_hat_gimmick__
-a well-bred pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge.
-a well-bred pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a well-bred pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch.
+a well-bred pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a well-bred teacup hat, made of __acc_hat_mat_nov_fine__. It is a floral porcelain-look cup on a saucer, worn tipped over one ear.
 a well-bred teacup hat, made of __acc_hat_mat_nov_fine__. It is a floral porcelain-look cup on a saucer, worn tipped over one ear. __acc_hat_gimmick__
 a well-bred unicorn hat, made of __acc_hat_mat_nov_fine__. It is a soft hood with a spiralled horn, small ears and a flowing mane.
@@ -968,8 +968,8 @@ an artful octopus hat, made of __acc_hat_mat_nov_fine__. It is a bulbous cap wit
 an artful octopus hat, made of __acc_hat_mat_nov_fine__. It is a bulbous cap with long dangling tentacles. __acc_hat_gimmick__
 an artful pilgrim hat, made of __acc_hat_mat_nov_fine__. It is a tall black hat with a buckled band and a wide brim.
 an artful pilgrim hat, made of __acc_hat_mat_nov_fine__. It is a tall black hat with a buckled band and a wide brim. __acc_hat_gimmick__
-an artful pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge.
-an artful pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+an artful pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch.
+an artful pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 an artful reindeer antler hat, made of __acc_hat_mat_nov_fine__. It has soft plush antlers hung with tiny baubles.
 an artful reindeer antler hat, made of __acc_hat_mat_nov_fine__. It has soft plush antlers hung with tiny baubles. __acc_hat_gimmick__
 an artful snow-globe hat, made of __acc_hat_mat_nov_fine__. It is a clear dome holding a tiny winter scene with falling flakes.
@@ -1008,8 +1008,8 @@ an assured mushroom-cap hat, made of __acc_hat_mat_nov_fine__. It is a wide red 
 an assured mushroom-cap hat, made of __acc_hat_mat_nov_fine__. It is a wide red dome with white spots. __acc_hat_gimmick__
 an assured pineapple hat, made of __acc_hat_mat_nov_fine__. It is a spiky green crown of leaves on a textured golden dome.
 an assured pineapple hat, made of __acc_hat_mat_nov_fine__. It is a spiky green crown of leaves on a textured golden dome. __acc_hat_gimmick__
-an assured pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge.
-an assured pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+an assured pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch.
+an assured pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 an assured pumpkin hat, made of __acc_hat_mat_nov_fine__. It is a round orange gourd with a stem and curling vine.
 an assured pumpkin hat, made of __acc_hat_mat_nov_fine__. It is a round orange gourd with a stem and curling vine. __acc_hat_gimmick__
 an assured rooster-comb hat, made of __acc_hat_mat_nov_fine__. It is a hat with a red scalloped comb and a wattle.
@@ -1180,8 +1180,8 @@ an immaculate octopus hat, made of __acc_hat_mat_nov_fine__. It is a bulbous cap
 an immaculate octopus hat, made of __acc_hat_mat_nov_fine__. It is a bulbous cap with long dangling tentacles. __acc_hat_gimmick__
 an immaculate penguin hat, made of __acc_hat_mat_nov_fine__. It is a knit hat with a beak, two eyes and little flipper flaps.
 an immaculate penguin hat, made of __acc_hat_mat_nov_fine__. It is a knit hat with a beak, two eyes and little flipper flaps. __acc_hat_gimmick__
-an immaculate pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge.
-an immaculate pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+an immaculate pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch.
+an immaculate pirate hat, made of __acc_hat_mat_nov_fine__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 an immaculate propeller beanie, made of __acc_hat_mat_nov_fine__. It is a colourful panelled cap with a small spinning propeller on a stem at the top.
 an immaculate propeller beanie, made of __acc_hat_mat_nov_fine__. It is a colourful panelled cap with a small spinning propeller on a stem at the top. __acc_hat_gimmick__
 an immaculate robot-head hat, made of __acc_hat_mat_nov_fine__. It is a boxy metal-look head with an antenna and dials.

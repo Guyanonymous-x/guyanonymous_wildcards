@@ -75,7 +75,7 @@ A person dressed as a butler (stately home), which is a black tailcoat with a wh
 A person dressed as a carabiniere (Italy), which is a black tunic with a red stripe and white cross-belts, dark trousers, a bicorne hat and boots, with very deep brown skin
 A person dressed as a cardboard robot costume (craft fair), which is a box costume with dials, a box helmet and boots, with very deep brown skin
 A person dressed as a cat burglar (villain), which is a black skin-tight suit, a mask and soft boots, with very deep brown skin
-A person dressed as a chess club champion (club), which is a blazer with a club badge, trousers and shoes, with very deep brown skin
+A person dressed as a chess club champion (club), which is a blazer with a club patch, trousers and shoes, with very deep brown skin
 A person dressed as a choir singer (cathedral), which is a long red cassock with a white ruff and shoes, with very deep brown skin
 A person dressed as a court jester of absurdity (party), which is a motley coat with oversized buttons, baggy pants, a floppy hat and oversized shoes, with very deep brown skin
 A person dressed as a cricketer (cricket), which is a cream sweater, cream trousers, a cap and white shoes, with very deep brown skin
@@ -93,9 +93,9 @@ A person dressed as a fortune teller (fair), which is a headscarf and a heavy sh
 A person dressed as a ghost bride (gothic), which is a faded wedding gown with a veil and a veil, with very deep brown skin
 A person dressed as a ghost pirate (folklore), which is a tattered coat with a glow, a tricorn and boots, with very deep brown skin
 A person dressed as a giant (folklore), which is a huge hide tunic, with very deep brown skin
-A person dressed as a hanbok-wearing court official (Joseon), which is a blue robe with a rank badge, a black winged hat and shoes, with very deep brown skin
+A person dressed as a hanbok-wearing court official (Joseon), which is a blue robe with a rank patch, a black winged hat and shoes, with very deep brown skin
 A person dressed as a highway raider (wasteland), which is a leather jacket with bandoliers, trousers, goggles and boots, with very deep brown skin
-A person dressed as a hospital nurse (modern ward), which is a colourful scrub top with an ID badge and a stethoscope round the neck, scrub trousers and white trainers, with very deep brown skin
+A person dressed as a hospital nurse (modern ward), which is a colourful scrub top with an ID patch and a stethoscope round the neck, scrub trousers and white trainers, with very deep brown skin
 A person dressed as a judge (court), which is a scarlet robe with an ermine collar, a full-bottomed wig and shoes, with very deep brown skin
 A person dressed as a karateka (dojo), which is a white gi with a black belt, a headband and bare feet, with very deep brown skin
 A person dressed as a kitsune spirit (folklore), which is a white kimono with fox tails, fox ears and sandals, with very deep brown skin
@@ -120,7 +120,7 @@ A person dressed as a postmaster (village), which is a double-breasted jacket, t
 A person dressed as a retired hero (superhero), which is a worn old suit under a cardigan, a mask and slippers, with very deep brown skin
 A person dressed as a saloon barkeep (Old West), which is a striped shirt with sleeve garters and a vest, trousers, a bowler hat and boots, with very deep brown skin
 A person dressed as a samurai (feudal Japan), which is a lacquered armour with a silk cord over a kimono, wide hakama, a kabuto helmet and straw sandals, with very deep brown skin
-A person dressed as a scrap queen (wasteland), armour made from road signs and tyres, a gas mask and boots, with very deep brown skin
+A person dressed as a scrap queen (wasteland), armour made from road lit panels and tyres, a gas mask and boots, with very deep brown skin
 A person dressed as a sculptor (studio), which is a dusty apron over a shirt, trousers and boots, with very deep brown skin
 A person dressed as a sea shanty sailor (18th century), which is a striped shirt with a neckerchief and a short jacket, slops, a knitted cap and bare feet, with very deep brown skin
 A person dressed as a selkie (folklore), which is a seal-skin cloak, with very deep brown skin
@@ -200,7 +200,7 @@ a Brazilian samba dancer (Carnival), in a feathered bodysuit and heels, with ver
 a British bobby, dressed in a dark tunic with silver buttons and a whistle chain with dark trousers, with very deep brown skin
 a Catholic priest (church), in a black cassock with a white clerical collar and black shoes, with very deep brown skin
 a Chinese barefoot doctor (1960s China), wearing a plain cotton jacket with a red cross medical bag, rolled trousers, a straw hat and cloth shoes and carrying a herbal kit, with very deep brown skin
-a Chinese imperial court official (Qing dynasty), wearing a long silk robe with a mandarin square badge, a hat with a button and cloth boots and carrying a bead necklace, with very deep brown skin
+a Chinese imperial court official (Qing dynasty), wearing a long silk robe with a mandarin square patch, a hat with a button and cloth boots and carrying a bead necklace, with very deep brown skin
 a Chinese opera performer (Beijing), in a heavily embroidered robe with long water sleeves and platform boots, with very deep brown skin
 a Cold War astronaut trainer, dressed in a pressure suit, with very deep brown skin
 a Cossack (Eastern Europe), in a long coat with cartridge pouches across the chest and wide trousers and high boots, with very deep brown skin
@@ -237,7 +237,7 @@ a Scottish piper (Highlands), wearing a velvet jacket with a plaid, a kilt, a fe
 a Shinto priest (Japan), in a white robe with a pale blue hakama and wooden sandals, with very deep brown skin
 a Sufi dervish, dressed in a white wide-skirted robe with a black cloak, with very deep brown skin
 a Swiss Guard, dressed in a puff-sleeved tunic in blue, red and yellow stripes and a white ruff with striped puffed breeches, with very deep brown skin
-a Texas ranger (American West), wearing a vest with a star badge, a long coat and a string tie, pressed trousers, a cream Stetson and boots and carrying a lasso, with very deep brown skin
+a Texas ranger (American West), wearing a vest with a star patch, a long coat and a string tie, pressed trousers, a cream Stetson and boots and carrying a lasso, with very deep brown skin
 a Tibetan monk, dressed in a maroon robe with a gold sash, with very deep brown skin
 a Tour de France spectator (roadside), in a polka-dot costume and a flag and a cap, with very deep brown skin
 a Tuareg nomad (Sahara), in a long blue robe and an indigo veil, with very deep brown skin
@@ -277,7 +277,7 @@ a bomb disposal technician (modern), in a heavy blast suit and heavy boots, with
 a bookseller (shop), wearing a cardigan and a lanyard, trousers and shoes, with very deep brown skin
 a boxer, dressed in a satin robe with satin shorts, with very deep brown skin
 a bricklayer (site), wearing a work shirt and high-visibility vest, work trousers, a hard hat and boots and carrying a trowel, with very deep brown skin
-a bus driver (modern), wearing a waistcoat shirt with a tie and a badge, dark trousers and black shoes, with very deep brown skin
+a bus driver (modern), wearing a waistcoat shirt with a tie and a patch, dark trousers and black shoes, with very deep brown skin
 a business suit wearer (office), in a navy two-piece suit jacket, a white shirt and a silk tie with a pocket square and suit trousers and oxford shoes, with very deep brown skin
 a camper, dressed in a flannel shirt and a fleece with trousers, with very deep brown skin
 a campfire storyteller, dressed in a plaid shirt with a bandana with jeans, with very deep brown skin
@@ -336,7 +336,7 @@ a fire mage (fantasy), wearing a red and orange robe with flame embroidery and a
 a firefighter (modern), wearing a heavy turnout coat with reflective bands and braces, fire-resistant overtrousers, a helmet with a visor and steel-toed boots, with very deep brown skin
 a fishmonger, dressed in a rubber apron over a waterproof smock with waders, with very deep brown skin
 a flamenco dancer (Spain), wearing a ruffled dress, a flower in the hair and heeled shoes and carrying castanets, with very deep brown skin
-a flight attendant (modern airline), wearing a tailored jacket and neckerchief with a name badge, a pencil skirt, a pillbox hat and court shoes and carrying a trolley, with very deep brown skin
+a flight attendant (modern airline), wearing a tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat and court shoes and carrying a trolley, with very deep brown skin
 a florist (shop), in a green apron over a blouse and trousers and clogs, with very deep brown skin
 a football goalkeeper (soccer), in a long-sleeved padded jersey and gloves and shorts and boots, with very deep brown skin
 a forester, dressed in a plaid shirt with chainsaw-protective chaps with work trousers, with very deep brown skin
@@ -374,7 +374,7 @@ a horned noble (fantasy), wearing a crimson velvet jacket, trousers, curved horn
 a hot dog costume wearer, dressed in a foam hot dog suit, with very deep brown skin
 a hot-air balloon pilot (ballooning), wearing a windbreaker, cargo trousers, a baseball cap and boots, with very deep brown skin
 a hotel bellhop (1930s), in a short red jacket with gold braid and trousers with a stripe and black shoes, with very deep brown skin
-a housekeeper (hotel), wearing a tunic with a name badge, trousers and comfortable shoes and carrying a trolley, with very deep brown skin
+a housekeeper (hotel), wearing a tunic with a name patch, trousers and comfortable shoes and carrying a trolley, with very deep brown skin
 a human cannonball (circus), in a shiny silver jumpsuit and boots, with very deep brown skin
 a human statue (street), wearing a silver painted bodysuit, with very deep brown skin
 a human taco costume wearer (party), wearing a foam taco suit, with very deep brown skin
@@ -434,20 +434,20 @@ a mutant wanderer (wasteland), in a ragged cloak over a tattered shirt and a hoo
 a necromancer (fantasy), in a tattered black robe with bone clasps and a hooded cloak and boots, with very deep brown skin
 a neon street samurai, dressed in a glowing trench coat with trousers, with very deep brown skin
 a news anchor (studio), wearing a tailored jacket and blouse or shirt and tie and shoes, with very deep brown skin
-a newspaper vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots and carrying a stack of papers, with very deep brown skin
+a folded paper sheet vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots and carrying a stack of papers, with very deep brown skin
 a ninja (cosplay), in a black wrap tunic and a hood and mask, with very deep brown skin
 a ninja clan leader (anime-inspired), in a dark robe with a mask and scarf and trousers and sandals, with very deep brown skin
 a nun (convent), wearing a long habit with a veil, a wimple and veil and sandals, with very deep brown skin
 a nurse in a traditional white uniform, dressed in a starched white dress with a belt and a breast pocket watch with a white skirt and white stockings, with very deep brown skin
-a park ranger (national park), in a green shirt with a badge and a flat-brimmed hat and olive trousers and hiking boots, with very deep brown skin
+a park ranger (national park), in a green shirt with a patch and a flat-brimmed hat and olive trousers and hiking boots, with very deep brown skin
 a pastry chef (bakery), in a white jacket with a small cravat and a skull cap, with very deep brown skin
-a pharmacist (pharmacy), wearing a white lab coat over a shirt with a name badge, dark trousers and black shoes and carrying a prescription tray, with very deep brown skin
-a physiotherapist (clinic), wearing a polo shirt with a clinic logo-free badge and a tape measure round the neck, athletic trousers and trainers and carrying a resistance band, with very deep brown skin
+a pharmacist (pharmacy), wearing a white lab coat over a shirt with a name patch, dark trousers and black shoes and carrying a prescription tray, with very deep brown skin
+a physiotherapist (clinic), wearing a polo shirt with a clinic motif-free patch and a tape measure round the neck, athletic trousers and trainers and carrying a resistance band, with very deep brown skin
 a pit crew mechanic (racing), in a fireproof overall and boots, with very deep brown skin
 a pizza costume wearer (party), wearing a round pizza suit, with very deep brown skin
 a plague doctor (17th-century Europe), in a long waxed black coat, a leather cape and gloves and a wide-brimmed hat and a beaked bird-shaped mask, with very deep brown skin
 a plumber (call-out), in a work shirt and a knee-padded trouser set and a cap, with very deep brown skin
-a police officer (modern), in a dark shirt with a badge, shoulder patches, an utility belt and a radio and a peaked cap, with very deep brown skin
+a police officer (modern), in a dark shirt with a patch, shoulder patches, an utility belt and a radio and a peaked cap, with very deep brown skin
 a possessed doll, dressed in a lace dress with cracked porcelain makeup, with very deep brown skin
 a post-apocalyptic scavenger (dystopian), wearing patched armour of scrap and leather, ragged trousers, a gas mask and boots and carrying a pipe, with very deep brown skin
 a potato sack racer, dressed in a hessian sack, with very deep brown skin
@@ -457,7 +457,7 @@ a professor (university), wearing a flowing academic gown with a hood, a mortarb
 a pullman porter (1930s), wearing a double-breasted jacket with brass buttons, trousers, a peaked cap and black shoes, with very deep brown skin
 a punk (1977 London), in a studded jacket with safety pins and torn trousers and boots, with very deep brown skin
 a rabbi (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes, with very deep brown skin
-a radiologist (hospital), wearing a lead apron over a scrub top, scrub trousers and clinical clogs and carrying a dosimeter badge, with very deep brown skin
+a radiologist (hospital), wearing a lead apron over a scrub top, scrub trousers and clinical clogs and carrying a dosimeter patch, with very deep brown skin
 a red-carpet gown wearer (gala), wearing a sequined strapless gown with a long train and heels, with very deep brown skin
 a reenactor of a Civil War soldier, dressed in a wool sack coat with wool trousers, with very deep brown skin
 a reenactor of a Roman soldier (field), wearing a red tunic with armour, a helmet and sandals, with very deep brown skin
@@ -481,7 +481,7 @@ a shadow elf assassin (fantasy), in a dark leather harness and a hood, with very
 a shaman (Siberia), wearing a robe hung with ribbons and bells, a feathered headdress and fur boots, with very deep brown skin
 a shapeshifting hero (superhero), in a skin-tight patterned suit and boots, with very deep brown skin
 a shark onesie wearer (home), in a grey plush shark onesie and slippers, with very deep brown skin
-a sheriff (American West), wearing a vest with a star badge over a plaid shirt, jeans, a wide-brimmed hat and spurred boots and carrying a lawman's rope, with very deep brown skin
+a sheriff (American West), wearing a vest with a star patch over a plaid shirt, jeans, a wide-brimmed hat and spurred boots and carrying a lawman's rope, with very deep brown skin
 a ship captain (merchant navy), wearing a navy double-breasted jacket with four gold stripes, trousers, a peaked cap and black shoes and carrying a telescope, with very deep brown skin
 a ship's captain, dressed in a fitted tunic with a gold sash with trousers, with very deep brown skin
 a skeleton, dressed in a black suit painted with bones, with very deep brown skin

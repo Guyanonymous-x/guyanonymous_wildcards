@@ -34,8 +34,8 @@ a capable kofia, made of __acc_hat_mat_hist_practical__. It is a flat-topped cyl
 a capable kofia, made of __acc_hat_mat_hist_practical__. It is a flat-topped cylindrical embroidered cap. __acc_hat_trim_practical__
 a capable pillbox with a veil, made of __acc_hat_mat_hist_practical__. It is a small flat-topped drum with a net veil.
 a capable pillbox with a veil, made of __acc_hat_mat_hist_practical__. It is a small flat-topped drum with a net veil. __acc_hat_trim_practical__
-a capable shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge.
-a capable shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_practical__
+a capable shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch.
+a capable shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_practical__
 a capable sombrero, made of __acc_hat_mat_hist_practical__. It is a tall crown on a huge saucer-shaped brim, trimmed with embroidery.
 a capable sombrero, made of __acc_hat_mat_hist_practical__. It is a tall crown on a huge saucer-shaped brim, trimmed with embroidery. __acc_hat_trim_practical__
 a capable ushanka, made of __acc_hat_mat_hist_practical__. It is a fur hat with ear flaps that tie up on top.
@@ -62,8 +62,8 @@ a dependable mobcap, made of __acc_hat_mat_hist_practical__. It is a gathered, r
 a dependable mobcap, made of __acc_hat_mat_hist_practical__. It is a gathered, ruffled indoor bonnet. __acc_hat_trim_practical__
 a dependable printer's paper hat, made of __acc_hat_mat_hist_practical__. It is a folded newsprint hat with a point.
 a dependable printer's paper hat, made of __acc_hat_mat_hist_practical__. It is a folded newsprint hat with a point. __acc_hat_trim_practical__
-a dependable shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge.
-a dependable shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_practical__
+a dependable shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch.
+a dependable shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_practical__
 a dependable smoking cap, made of __acc_hat_mat_hist_practical__. It is a small tasselled cap embroidered with a pattern.
 a dependable smoking cap, made of __acc_hat_mat_hist_practical__. It is a small tasselled cap embroidered with a pattern. __acc_hat_trim_practical__
 a dependable snood, made of __acc_hat_mat_hist_practical__. It is a net bag that holds the hair at the back.
@@ -146,8 +146,8 @@ a field-ready mobcap, made of __acc_hat_mat_hist_practical__. It is a gathered, 
 a field-ready mobcap, made of __acc_hat_mat_hist_practical__. It is a gathered, ruffled indoor bonnet. __acc_hat_trim_practical__
 a field-ready peach-basket hat, made of __acc_hat_mat_hist_practical__. It is an upturned basket shape lavishly trimmed with flowers.
 a field-ready peach-basket hat, made of __acc_hat_mat_hist_practical__. It is an upturned basket shape lavishly trimmed with flowers. __acc_hat_trim_practical__
-a field-ready shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge.
-a field-ready shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_practical__
+a field-ready shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch.
+a field-ready shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_practical__
 a field-ready tricorne, made of __acc_hat_mat_hist_practical__. It is a hat with the brim turned up on three sides.
 a field-ready tricorne, made of __acc_hat_mat_hist_practical__. It is a hat with the brim turned up on three sides. __acc_hat_trim_practical__
 a field-ready tubeteika, made of __acc_hat_mat_hist_practical__. It is a small embroidered four-sided cap.
@@ -206,8 +206,8 @@ a heavy-duty papakha, made of __acc_hat_mat_hist_practical__. It is a tall, shag
 a heavy-duty papakha, made of __acc_hat_mat_hist_practical__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_practical__
 a heavy-duty poke bonnet, made of __acc_hat_mat_hist_practical__. It is a bonnet with a small crown and a deep rounded front brim.
 a heavy-duty poke bonnet, made of __acc_hat_mat_hist_practical__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_practical__
-a heavy-duty shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge.
-a heavy-duty shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_practical__
+a heavy-duty shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch.
+a heavy-duty shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_practical__
 a heavy-duty shtreimel-style fur hat, made of __acc_hat_mat_hist_practical__. It is a wide, round, fur-trimmed velvet hat.
 a heavy-duty shtreimel-style fur hat, made of __acc_hat_mat_hist_practical__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_practical__
 a heavy-duty smoking cap, made of __acc_hat_mat_hist_practical__. It is a small tasselled cap embroidered with a pattern.
@@ -344,8 +344,8 @@ a practical pith helmet, made of __acc_hat_mat_hist_practical__. It is a domed, 
 a practical pith helmet, made of __acc_hat_mat_hist_practical__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_practical__
 a practical printer's paper hat, made of __acc_hat_mat_hist_practical__. It is a folded newsprint hat with a point.
 a practical printer's paper hat, made of __acc_hat_mat_hist_practical__. It is a folded newsprint hat with a point. __acc_hat_trim_practical__
-a practical shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge.
-a practical shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_practical__
+a practical shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch.
+a practical shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_practical__
 a practical tam o' shanter, made of __acc_hat_mat_hist_practical__. It is a wide flat wool beret with a pom-pom.
 a practical tam o' shanter, made of __acc_hat_mat_hist_practical__. It is a wide flat wool beret with a pom-pom. __acc_hat_trim_practical__
 a practical toque blanche, made of __acc_hat_mat_hist_practical__. It is a tall, white, pleated chef's hat.
@@ -468,8 +468,8 @@ a robust mortarboard, made of __acc_hat_mat_hist_practical__. It is a flat squar
 a robust mortarboard, made of __acc_hat_mat_hist_practical__. It is a flat square board on a skullcap with a tassel. __acc_hat_trim_practical__
 a robust pillbox with a veil, made of __acc_hat_mat_hist_practical__. It is a small flat-topped drum with a net veil.
 a robust pillbox with a veil, made of __acc_hat_mat_hist_practical__. It is a small flat-topped drum with a net veil. __acc_hat_trim_practical__
-a robust shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge.
-a robust shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_practical__
+a robust shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch.
+a robust shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_practical__
 a robust shtreimel-style fur hat, made of __acc_hat_mat_hist_practical__. It is a wide, round, fur-trimmed velvet hat.
 a robust shtreimel-style fur hat, made of __acc_hat_mat_hist_practical__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_practical__
 a robust snood, made of __acc_hat_mat_hist_practical__. It is a net bag that holds the hair at the back.
@@ -580,8 +580,8 @@ a solid kepi, made of __acc_hat_mat_hist_practical__. It is a flat-topped cap wi
 a solid kepi, made of __acc_hat_mat_hist_practical__. It is a flat-topped cap with a stiff visor. __acc_hat_trim_practical__
 a solid montera, made of __acc_hat_mat_hist_practical__. It is a black two-lobed cap with ears, worn by bullfighters.
 a solid montera, made of __acc_hat_mat_hist_practical__. It is a black two-lobed cap with ears, worn by bullfighters. __acc_hat_trim_practical__
-a solid shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge.
-a solid shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_practical__
+a solid shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch.
+a solid shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_practical__
 a solid sombrero cordobés, made of __acc_hat_mat_hist_practical__. It is a flat-crowned hat with a flat brim in Andalusian style.
 a solid sombrero cordobés, made of __acc_hat_mat_hist_practical__. It is a flat-crowned hat with a flat brim in Andalusian style. __acc_hat_trim_practical__
 a solid sou'wester, made of __acc_hat_mat_hist_practical__. It is a brimmed oilskin rain hat, longer at the back.
@@ -926,8 +926,8 @@ a well-used cavalier hat, made of __acc_hat_mat_hist_practical__. It is a wide-b
 a well-used cavalier hat, made of __acc_hat_mat_hist_practical__. It is a wide-brimmed hat with a sweeping plume. __acc_hat_trim_practical__
 a well-used jaapi, made of __acc_hat_mat_hist_practical__. It is a woven bamboo conical hat with a decorated cloth.
 a well-used jaapi, made of __acc_hat_mat_hist_practical__. It is a woven bamboo conical hat with a decorated cloth. __acc_hat_trim_practical__
-a well-used shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge.
-a well-used shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_practical__
+a well-used shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch.
+a well-used shako, made of __acc_hat_mat_hist_practical__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_practical__
 a well-used shtreimel-style fur hat, made of __acc_hat_mat_hist_practical__. It is a wide, round, fur-trimmed velvet hat.
 a well-used shtreimel-style fur hat, made of __acc_hat_mat_hist_practical__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_practical__
 a well-used sou'wester, made of __acc_hat_mat_hist_practical__. It is a brimmed oilskin rain hat, longer at the back.

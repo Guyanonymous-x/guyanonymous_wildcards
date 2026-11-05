@@ -5,12 +5,12 @@ a breathtaking luckenbooth brooch, made of __acc_brooch_mat_odd_showpiece__. It 
 a breathtaking mourning brooch, made of __acc_brooch_mat_odd_showpiece__. It is a dark brooch holding a lock of woven hair.
 a breathtaking sculptural brooch, made of __acc_brooch_mat_odd_showpiece__. It is a large, art-like pin in mixed metals.
 a ceremonial Russian enamel brooch, made of __acc_brooch_mat_odd_showpiece__. It is a brooch painted in bright shaded enamel.
-a ceremonial enamel pin badge, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
+a ceremonial enamel pin patch, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
 a ceremonial insect brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a beetle, bee or dragonfly.
 a collector-grade animal brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin in the shape of a small creature.
 a collector-grade bar brooch, made of __acc_brooch_mat_odd_showpiece__. It is a slim straight pin with a decorative front.
 a collector-grade bow brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a ribbon bow.
-a collector-grade button badge, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
+a collector-grade button patch, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
 a collector-grade mourning brooch, made of __acc_brooch_mat_odd_showpiece__. It is a dark brooch holding a lock of woven hair.
 a crown-jewel-grade Viking tortoise brooch, made of __acc_brooch_mat_odd_showpiece__. It is an oval dome brooch with a pierced openwork top.
 a crown-jewel-grade cameo brooch, made of __acc_brooch_mat_odd_showpiece__. It is an oval pin with a carved relief portrait.
@@ -51,7 +51,7 @@ a gala-worthy circle brooch, made of __acc_brooch_mat_odd_showpiece__. It is a r
 a gala-worthy cluster brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin set with a cluster of stones.
 a gala-worthy sculptural brooch, made of __acc_brooch_mat_odd_showpiece__. It is a large, art-like pin in mixed metals.
 a jaw-dropping bird brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a bird. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
-a jaw-dropping button badge, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
+a jaw-dropping button patch, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
 a jaw-dropping luckenbooth brooch, made of __acc_brooch_mat_odd_showpiece__. It is a heart-shaped brooch topped with a crown.
 a jaw-dropping patch pin, made of __acc_brooch_mat_odd_showpiece__. It is a woven patch with a pin back.
 a jaw-dropping shawl pin, made of __acc_brooch_mat_odd_showpiece__. It is a long pin used to fasten a wrap.
@@ -71,7 +71,7 @@ a magnificent sweetheart brooch, made of __acc_brooch_mat_odd_showpiece__. It is
 a monumental Georgian paste brooch, made of __acc_brooch_mat_odd_showpiece__. It is a brooch set with foil-backed paste stones.
 a monumental bar brooch, made of __acc_brooch_mat_odd_showpiece__. It is a slim straight pin with a decorative front.
 a monumental bird brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a bird. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
-a monumental enamel pin badge, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
+a monumental enamel pin patch, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
 a monumental patch pin, made of __acc_brooch_mat_odd_showpiece__. It is a woven patch with a pin back.
 a monumental stick pin, made of __acc_brooch_mat_odd_showpiece__. It is a long pin with a decorative head.
 a monumental sweetheart brooch, made of __acc_brooch_mat_odd_showpiece__. It is a brooch shaped like a heart, in the old style.
@@ -79,7 +79,7 @@ a museum-grade Art Nouveau brooch, made of __acc_brooch_mat_odd_showpiece__. It 
 a museum-grade Indian peacock brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a peacock with enamelled feathers.
 a museum-grade Mexican silver brooch, made of __acc_brooch_mat_odd_showpiece__. It is a hand-chased silver pin. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a museum-grade Scottish kilt pin, made of __acc_brooch_mat_odd_showpiece__. It is a large pin with a decorative head, worn on a kilt.
-a museum-grade enamel pin badge, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
+a museum-grade enamel pin patch, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
 a museum-grade feather brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a feather. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a museum-grade floral brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a flower. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a museum-grade luckenbooth brooch, made of __acc_brooch_mat_odd_showpiece__. It is a heart-shaped brooch topped with a crown.
@@ -95,7 +95,7 @@ a peerless insect brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin 
 a peerless star brooch, made of __acc_brooch_mat_odd_showpiece__. It is a star-shaped pin. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a peerless sweetheart brooch, made of __acc_brooch_mat_odd_showpiece__. It is a brooch shaped like a heart, in the old style.
 a priceless-looking bar brooch, made of __acc_brooch_mat_odd_showpiece__. It is a slim straight pin with a decorative front.
-a priceless-looking button badge, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
+a priceless-looking button patch, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
 a priceless-looking circle brooch, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with an open or filled centre.
 a priceless-looking floral brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a flower. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a priceless-looking mourning brooch, made of __acc_brooch_mat_odd_showpiece__. It is a dark brooch holding a lock of woven hair.
@@ -103,7 +103,7 @@ a priceless-looking patch pin, made of __acc_brooch_mat_odd_showpiece__. It is a
 a priceless-looking penannular brooch, made of __acc_brooch_mat_odd_showpiece__. It is an open ring brooch with a long pin, in the old Celtic style.
 a regal beyond reason Scottish kilt pin, made of __acc_brooch_mat_odd_showpiece__. It is a large pin with a decorative head, worn on a kilt.
 a regal beyond reason circle brooch, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with an open or filled centre.
-a regal beyond reason enamel pin badge, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
+a regal beyond reason enamel pin patch, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
 a regal beyond reason lapel pin, made of __acc_brooch_mat_odd_showpiece__. It is a small pin worn on a jacket collar.
 a regal beyond reason penannular brooch, made of __acc_brooch_mat_odd_showpiece__. It is an open ring brooch with a long pin, in the old Celtic style.
 a regal beyond reason tie tack, made of __acc_brooch_mat_odd_showpiece__. It is a short pin with a decorative head.
@@ -133,11 +133,11 @@ a sovereign fibula brooch, made of __acc_brooch_mat_odd_showpiece__. It is an an
 a sovereign insect brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a beetle, bee or dragonfly.
 a sovereign luckenbooth brooch, made of __acc_brooch_mat_odd_showpiece__. It is a heart-shaped brooch topped with a crown.
 a spectacular Indian peacock brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a peacock with enamelled feathers.
-a spectacular button badge, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
+a spectacular button patch, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
 a spectacular star brooch, made of __acc_brooch_mat_odd_showpiece__. It is a star-shaped pin. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a spectacular stick pin, made of __acc_brooch_mat_odd_showpiece__. It is a long pin with a decorative head.
 a tour-de-force Claddagh brooch, made of __acc_brooch_mat_odd_showpiece__. It is a brooch of two hands holding a crowned heart.
-a tour-de-force button badge, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
+a tour-de-force button patch, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
 a tour-de-force floral brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a flower. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a tour-de-force lapel pin, made of __acc_brooch_mat_odd_showpiece__. It is a small pin worn on a jacket collar.
 a tour-de-force sculptural brooch, made of __acc_brooch_mat_odd_showpiece__. It is a large, art-like pin in mixed metals.
@@ -154,7 +154,7 @@ an astonishingly lavish sculptural brooch, made of __acc_brooch_mat_odd_showpiec
 an awe-inspiring Indian peacock brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a peacock with enamelled feathers.
 an awe-inspiring bar brooch, made of __acc_brooch_mat_odd_showpiece__. It is a slim straight pin with a decorative front.
 an awe-inspiring bird brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a bird. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
-an awe-inspiring button badge, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
+an awe-inspiring button patch, made of __acc_brooch_mat_odd_showpiece__. It is a round pin with a printed design.
 an awe-inspiring stick pin, made of __acc_brooch_mat_odd_showpiece__. It is a long pin with a decorative head.
 an exhibition-worthy Claddagh brooch, made of __acc_brooch_mat_odd_showpiece__. It is a brooch of two hands holding a crowned heart.
 an exhibition-worthy Russian enamel brooch, made of __acc_brooch_mat_odd_showpiece__. It is a brooch painted in bright shaded enamel.
@@ -170,7 +170,7 @@ an extravagant lapel pin, made of __acc_brooch_mat_odd_showpiece__. It is a smal
 an extravagant shawl pin, made of __acc_brooch_mat_odd_showpiece__. It is a long pin used to fasten a wrap.
 an imperial Indian peacock brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a peacock with enamelled feathers.
 an imperial Scottish kilt pin, made of __acc_brooch_mat_odd_showpiece__. It is a large pin with a decorative head, worn on a kilt.
-an imperial enamel pin badge, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
+an imperial enamel pin patch, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
 an imperial leaf-spray brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin made of a spray of leaves.
 an imperial patch pin, made of __acc_brooch_mat_odd_showpiece__. It is a woven patch with a pin back.
 an one-of-a-kind Scottish kilt pin, made of __acc_brooch_mat_odd_showpiece__. It is a large pin with a decorative head, worn on a kilt.
@@ -189,7 +189,7 @@ an opulent penannular brooch, made of __acc_brooch_mat_odd_showpiece__. It is an
 an opulent star brooch, made of __acc_brooch_mat_odd_showpiece__. It is a star-shaped pin. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 an opulent stick pin, made of __acc_brooch_mat_odd_showpiece__. It is a long pin with a decorative head.
 an otherworldly cluster brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin set with a cluster of stones.
-an otherworldly enamel pin badge, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
+an otherworldly enamel pin patch, made of __acc_brooch_mat_odd_showpiece__. It is a small hard-enamel pin with a clasp.
 an otherworldly feather brooch, made of __acc_brooch_mat_odd_showpiece__. It is a pin shaped like a feather. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 an otherworldly fibula brooch, made of __acc_brooch_mat_odd_showpiece__. It is an ancient safety-pin-style brooch, used to clasp a cloak.
 an otherworldly hat pin, made of __acc_brooch_mat_odd_showpiece__. It is a long pin used to secure a hat.

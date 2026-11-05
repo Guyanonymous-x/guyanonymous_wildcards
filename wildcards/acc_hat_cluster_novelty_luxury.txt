@@ -144,8 +144,8 @@ a grand dragon hat, made of __acc_hat_mat_nov_luxury__. It is a scaled hood with
 a grand dragon hat, made of __acc_hat_mat_nov_luxury__. It is a scaled hood with horns, a crest and a snout. __acc_hat_gimmick__
 a grand light-up LED hat, made of __acc_hat_mat_nov_luxury__. It has a band of small lights that blink in changing patterns.
 a grand light-up LED hat, made of __acc_hat_mat_nov_luxury__. It has a band of small lights that blink in changing patterns. __acc_hat_gimmick__
-a grand pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge.
-a grand pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a grand pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch.
+a grand pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a grand reindeer antler hat, made of __acc_hat_mat_nov_luxury__. It has soft plush antlers hung with tiny baubles.
 a grand reindeer antler hat, made of __acc_hat_mat_nov_luxury__. It has soft plush antlers hung with tiny baubles. __acc_hat_gimmick__
 a grand sloth hat, made of __acc_hat_mat_nov_luxury__. It is a plush hood with a sleepy face and long arms that dangle.
@@ -216,8 +216,8 @@ a heirloom-quality party-cone hat, made of __acc_hat_mat_nov_luxury__. It is a t
 a heirloom-quality party-cone hat, made of __acc_hat_mat_nov_luxury__. It is a tall cone with a pom-pom on the top and an elastic chin strap. __acc_hat_gimmick__
 a heirloom-quality pineapple hat, made of __acc_hat_mat_nov_luxury__. It is a spiky green crown of leaves on a textured golden dome.
 a heirloom-quality pineapple hat, made of __acc_hat_mat_nov_luxury__. It is a spiky green crown of leaves on a textured golden dome. __acc_hat_gimmick__
-a heirloom-quality pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge.
-a heirloom-quality pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a heirloom-quality pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch.
+a heirloom-quality pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a heirloom-quality pizza-slice hat, made of __acc_hat_mat_nov_luxury__. It is a triangular slice of pizza with pepperoni, perched on the head.
 a heirloom-quality pizza-slice hat, made of __acc_hat_mat_nov_luxury__. It is a triangular slice of pizza with pepperoni, perched on the head. __acc_hat_gimmick__
 a heirloom-quality rainbow-tower hat, made of __acc_hat_mat_nov_luxury__. It is a stack of coloured rings rising high above the head.
@@ -342,8 +342,8 @@ a majestic penguin hat, made of __acc_hat_mat_nov_luxury__. It is a knit hat wit
 a majestic penguin hat, made of __acc_hat_mat_nov_luxury__. It is a knit hat with a beak, two eyes and little flipper flaps. __acc_hat_gimmick__
 a majestic pineapple hat, made of __acc_hat_mat_nov_luxury__. It is a spiky green crown of leaves on a textured golden dome.
 a majestic pineapple hat, made of __acc_hat_mat_nov_luxury__. It is a spiky green crown of leaves on a textured golden dome. __acc_hat_gimmick__
-a majestic pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge.
-a majestic pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a majestic pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch.
+a majestic pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a majestic pumpkin hat, made of __acc_hat_mat_nov_luxury__. It is a round orange gourd with a stem and curling vine.
 a majestic pumpkin hat, made of __acc_hat_mat_nov_luxury__. It is a round orange gourd with a stem and curling vine. __acc_hat_gimmick__
 a majestic rainbow-tower hat, made of __acc_hat_mat_nov_luxury__. It is a stack of coloured rings rising high above the head.
@@ -464,8 +464,8 @@ a painstaking mushroom-cap hat, made of __acc_hat_mat_nov_luxury__. It is a wide
 a painstaking mushroom-cap hat, made of __acc_hat_mat_nov_luxury__. It is a wide red dome with white spots. __acc_hat_gimmick__
 a painstaking penguin hat, made of __acc_hat_mat_nov_luxury__. It is a knit hat with a beak, two eyes and little flipper flaps.
 a painstaking penguin hat, made of __acc_hat_mat_nov_luxury__. It is a knit hat with a beak, two eyes and little flipper flaps. __acc_hat_gimmick__
-a painstaking pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge.
-a painstaking pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a painstaking pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch.
+a painstaking pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a painstaking pizza-slice hat, made of __acc_hat_mat_nov_luxury__. It is a triangular slice of pizza with pepperoni, perched on the head.
 a painstaking pizza-slice hat, made of __acc_hat_mat_nov_luxury__. It is a triangular slice of pizza with pepperoni, perched on the head. __acc_hat_gimmick__
 a painstaking pumpkin hat, made of __acc_hat_mat_nov_luxury__. It is a round orange gourd with a stem and curling vine.
@@ -526,8 +526,8 @@ a prestigious lighthouse hat, made of __acc_hat_mat_nov_luxury__. It is a stripe
 a prestigious lighthouse hat, made of __acc_hat_mat_nov_luxury__. It is a striped tower with a rotating beacon on top. __acc_hat_gimmick__
 a prestigious moose-antler hat, made of __acc_hat_mat_nov_luxury__. It is a hat with huge branching antlers.
 a prestigious moose-antler hat, made of __acc_hat_mat_nov_luxury__. It is a hat with huge branching antlers. __acc_hat_gimmick__
-a prestigious pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge.
-a prestigious pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a prestigious pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch.
+a prestigious pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a prestigious propeller beanie, made of __acc_hat_mat_nov_luxury__. It is a colourful panelled cap with a small spinning propeller on a stem at the top.
 a prestigious propeller beanie, made of __acc_hat_mat_nov_luxury__. It is a colourful panelled cap with a small spinning propeller on a stem at the top. __acc_hat_gimmick__
 a prestigious pumpkin hat, made of __acc_hat_mat_nov_luxury__. It is a round orange gourd with a stem and curling vine.
@@ -934,8 +934,8 @@ a velvety moose-antler hat, made of __acc_hat_mat_nov_luxury__. It is a hat with
 a velvety moose-antler hat, made of __acc_hat_mat_nov_luxury__. It is a hat with huge branching antlers. __acc_hat_gimmick__
 a velvety pineapple hat, made of __acc_hat_mat_nov_luxury__. It is a spiky green crown of leaves on a textured golden dome.
 a velvety pineapple hat, made of __acc_hat_mat_nov_luxury__. It is a spiky green crown of leaves on a textured golden dome. __acc_hat_gimmick__
-a velvety pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge.
-a velvety pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a velvety pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch.
+a velvety pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a velvety snow-globe hat, made of __acc_hat_mat_nov_luxury__. It is a clear dome holding a tiny winter scene with falling flakes.
 a velvety snow-globe hat, made of __acc_hat_mat_nov_luxury__. It is a clear dome holding a tiny winter scene with falling flakes. __acc_hat_gimmick__
 a velvety sombrero-sized party hat, made of __acc_hat_mat_nov_luxury__. It is a huge saucer brim with pom-pom fringe and a tall cone crown.
@@ -1080,8 +1080,8 @@ an exquisite party-cone hat, made of __acc_hat_mat_nov_luxury__. It is a tall co
 an exquisite party-cone hat, made of __acc_hat_mat_nov_luxury__. It is a tall cone with a pom-pom on the top and an elastic chin strap. __acc_hat_gimmick__
 an exquisite penguin hat, made of __acc_hat_mat_nov_luxury__. It is a knit hat with a beak, two eyes and little flipper flaps.
 an exquisite penguin hat, made of __acc_hat_mat_nov_luxury__. It is a knit hat with a beak, two eyes and little flipper flaps. __acc_hat_gimmick__
-an exquisite pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge.
-an exquisite pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+an exquisite pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch.
+an exquisite pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 an exquisite rubber-chicken hat, made of __acc_hat_mat_nov_luxury__. It is a hat with a rubber chicken lying along the top.
 an exquisite rubber-chicken hat, made of __acc_hat_mat_nov_luxury__. It is a hat with a rubber chicken lying along the top. __acc_hat_gimmick__
 an exquisite sombrero-sized party hat, made of __acc_hat_mat_nov_luxury__. It is a huge saucer brim with pom-pom fringe and a tall cone crown.
@@ -1218,8 +1218,8 @@ an opulent ice-cream-cone hat, made of __acc_hat_mat_nov_luxury__. It is a waffl
 an opulent ice-cream-cone hat, made of __acc_hat_mat_nov_luxury__. It is a waffle cone upturned with three scoops stacked on top. __acc_hat_gimmick__
 an opulent lampshade hat, made of __acc_hat_mat_nov_luxury__. It is a pleated fabric shade with a fringe.
 an opulent lampshade hat, made of __acc_hat_mat_nov_luxury__. It is a pleated fabric shade with a fringe. __acc_hat_gimmick__
-an opulent pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge.
-an opulent pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+an opulent pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch.
+an opulent pirate hat, made of __acc_hat_mat_nov_luxury__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 an opulent rooster-comb hat, made of __acc_hat_mat_nov_luxury__. It is a hat with a red scalloped comb and a wattle.
 an opulent rooster-comb hat, made of __acc_hat_mat_nov_luxury__. It is a hat with a red scalloped comb and a wattle. __acc_hat_gimmick__
 an opulent shark-fin hat, made of __acc_hat_mat_nov_luxury__. It is a soft cap with a tall fin on top and a toothy jaw over the forehead.

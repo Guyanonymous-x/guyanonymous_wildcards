@@ -9,7 +9,7 @@ unlined with a hanging loop
 viscose lining with a stitched pleat at the back
 padded with a quilted yoke
 half-lined with a stitched pleat at the back
-shearling-lined with a brand-free label
+shearling-lined with a brand-free tab
 half-lined with a hanging loop
 thermal lining with a removable liner
 wadded with a removable liner
@@ -43,7 +43,7 @@ thermal lining with an inner pocket
 boiled-wool lining with a lined hood
 insulated with an interior storm flap
 shearling-lined with an inner pocket
-cotton-lined with a brand-free label
+cotton-lined with a brand-free tab
 flannel-lined with a lined hood
 satin-lined with a quilted yoke
 water-repellent lining with a removable liner
@@ -52,7 +52,7 @@ jersey lining with a removable liner
 shearling-lined with a back vent
 viscose lining with a lined back
 jersey lining with a lined sleeve
-bonded with a brand-free label
+bonded with a brand-free tab
 contrast lining with a hanging loop
 interlined with a back vent
 half-lined with a quilted yoke
@@ -88,16 +88,16 @@ thermal lining with a lined sleeve
 printed lining with a hanging loop
 cotton-lined with a lined back
 fully bagged lining
-viscose lining with a brand-free label
+viscose lining with a brand-free tab
 shearling-lined
-interlined with a brand-free label
+interlined with a brand-free tab
 half-lined with a lined back
 bonded
 printed lining with a back vent
 cotton-lined with an inner pocket
 bonded with an interior storm flap
 interlined with a removable liner
-fully bagged lining with a brand-free label
+fully bagged lining with a brand-free tab
 insulated with a back vent
 viscose lining with a bound seam
 cotton-lined with a lined sleeve
@@ -123,9 +123,9 @@ jersey lining with an inner pocket
 silk lining with a bound seam
 bonded with a back vent
 padded with a back vent
-satin-lined with a brand-free label
+satin-lined with a brand-free tab
 viscose lining with a quilted yoke
-contrast lining with a brand-free label
+contrast lining with a brand-free tab
 down-filled with a stitched pleat at the back
 viscose lining
 unlined with an inner pocket
@@ -144,7 +144,7 @@ padded with a lined hood
 taped seams with a removable liner
 shearling-lined with a stitched pleat at the back
 taped seams with a lined sleeve
-flannel-lined with a brand-free label
+flannel-lined with a brand-free tab
 insulated with a lined sleeve
 flannel-lined
 shearling-lined with a lined hood
@@ -155,7 +155,7 @@ satin-lined
 contrast lining
 down-filled with a lined hood
 mesh-lined with a removable liner
-mesh-lined with a brand-free label
+mesh-lined with a brand-free tab
 contrast lining with a lined hood
 viscose lining with a lined hood
 taped seams with a stitched pleat at the back
@@ -180,7 +180,7 @@ insulated with a bound seam
 boiled-wool lining with a quilted yoke
 contrast lining with a lined sleeve
 printed lining
-silk lining with a brand-free label
+silk lining with a brand-free tab
 half-lined with a removable liner
 taped seams with a quilted yoke
 mesh-lined with a lined hood
@@ -188,13 +188,13 @@ mesh-lined with a bound seam
 quilted lining
 satin-lined with an inner pocket
 half-lined with a bound seam
-jersey lining with a brand-free label
+jersey lining with a brand-free tab
 wadded with a lined sleeve
 mesh-lined with an interior storm flap
 fleece lining
 unlined with a stitched pleat at the back
 viscose lining with a lined sleeve
-thermal lining with a brand-free label
+thermal lining with a brand-free tab
 shearling-lined with an interior storm flap
 jersey lining with a lined back
 water-repellent lining with a lined back
@@ -211,13 +211,13 @@ bonded with a lined sleeve
 cotton-lined with a removable liner
 interlined with a lined hood
 boiled-wool lining with a bound seam
-padded with a brand-free label
+padded with a brand-free tab
 water-repellent lining with a bound seam
 boiled-wool lining with an interior storm flap
 shearling-lined with a bound seam
-printed lining with a brand-free label
+printed lining with a brand-free tab
 flannel-lined with a lined back
-down-filled with a brand-free label
+down-filled with a brand-free tab
 taped seams with a bound seam
 water-repellent lining with a back vent
 water-repellent lining with a hanging loop
@@ -249,13 +249,13 @@ thermal lining with a stitched pleat at the back
 flannel-lined with a stitched pleat at the back
 quilted lining with a stitched pleat at the back
 half-lined with a lined sleeve
-boiled-wool lining with a brand-free label
+boiled-wool lining with a brand-free tab
 water-repellent lining with an inner pocket
 jersey lining with an interior storm flap
 silk lining with a quilted yoke
 silk lining with a back vent
 cotton-lined with a hanging loop
-half-lined with a brand-free label
+half-lined with a brand-free tab
 down-filled with an inner pocket
 unlined with a lined back
 interlined with a bound seam
@@ -263,7 +263,7 @@ boiled-wool lining with a lined sleeve
 half-lined
 boiled-wool lining with a back vent
 flannel-lined with a removable liner
-taped seams with a brand-free label
+taped seams with a brand-free tab
 jersey lining with a bound seam
 thermal lining
 padded with an inner pocket
@@ -271,13 +271,13 @@ contrast lining with a quilted yoke
 fleece lining with a quilted yoke
 interlined with a hanging loop
 fully bagged lining with a lined back
-fleece lining with a brand-free label
+fleece lining with a brand-free tab
 thermal lining with an interior storm flap
 thermal lining with a bound seam
 contrast lining with a removable liner
 flannel-lined with an interior storm flap
 mesh-lined with a lined sleeve
-quilted lining with a brand-free label
+quilted lining with a brand-free tab
 unlined with an interior storm flap
 bonded with a hanging loop
 silk lining with a lined hood

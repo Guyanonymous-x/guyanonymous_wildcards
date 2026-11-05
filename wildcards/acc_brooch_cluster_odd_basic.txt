@@ -22,7 +22,7 @@ a budget-weight mourning brooch, made of __acc_brooch_mat_odd_basic__. It is a d
 a budget-weight tie tack, made of __acc_brooch_mat_odd_basic__. It is a short pin with a decorative head.
 a casual Claddagh brooch, made of __acc_brooch_mat_odd_basic__. It is a brooch of two hands holding a crowned heart.
 a casual Russian enamel brooch, made of __acc_brooch_mat_odd_basic__. It is a brooch painted in bright shaded enamel.
-a casual button badge, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
+a casual button patch, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
 a casual insect brooch, made of __acc_brooch_mat_odd_basic__. It is a pin shaped like a beetle, bee or dragonfly.
 a casual lapel pin, made of __acc_brooch_mat_odd_basic__. It is a small pin worn on a jacket collar.
 a casual star brooch, made of __acc_brooch_mat_odd_basic__. It is a star-shaped pin. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
@@ -38,7 +38,7 @@ a factory-made fibula brooch, made of __acc_brooch_mat_odd_basic__. It is an anc
 a factory-made stick pin, made of __acc_brooch_mat_odd_basic__. It is a long pin with a decorative head.
 a factory-made sweetheart brooch, made of __acc_brooch_mat_odd_basic__. It is a brooch shaped like a heart, in the old style.
 a factory-made tie tack, made of __acc_brooch_mat_odd_basic__. It is a short pin with a decorative head.
-a functional button badge, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
+a functional button patch, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
 a functional cameo brooch, made of __acc_brooch_mat_odd_basic__. It is an oval pin with a carved relief portrait.
 a functional hat pin, made of __acc_brooch_mat_odd_basic__. It is a long pin used to secure a hat.
 a functional mourning brooch, made of __acc_brooch_mat_odd_basic__. It is a dark brooch holding a lock of woven hair.
@@ -86,12 +86,12 @@ a minimal Art Nouveau brooch, made of __acc_brooch_mat_odd_basic__. It is a flow
 a minimal animal brooch, made of __acc_brooch_mat_odd_basic__. It is a pin in the shape of a small creature.
 a minimal penannular brooch, made of __acc_brooch_mat_odd_basic__. It is an open ring brooch with a long pin, in the old Celtic style.
 a no-frills Indian peacock brooch, made of __acc_brooch_mat_odd_basic__. It is a pin shaped like a peacock with enamelled feathers.
-a no-frills button badge, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
+a no-frills button patch, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
 a no-frills insect brooch, made of __acc_brooch_mat_odd_basic__. It is a pin shaped like a beetle, bee or dragonfly.
 a no-frills mourning brooch, made of __acc_brooch_mat_odd_basic__. It is a dark brooch holding a lock of woven hair.
 a no-frills penannular brooch, made of __acc_brooch_mat_odd_basic__. It is an open ring brooch with a long pin, in the old Celtic style.
 a no-nonsense Scottish kilt pin, made of __acc_brooch_mat_odd_basic__. It is a large pin with a decorative head, worn on a kilt.
-a no-nonsense enamel pin badge, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
+a no-nonsense enamel pin patch, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
 a no-nonsense sculptural brooch, made of __acc_brooch_mat_odd_basic__. It is a large, art-like pin in mixed metals.
 a no-nonsense star brooch, made of __acc_brooch_mat_odd_basic__. It is a star-shaped pin. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a plain Georgian paste brooch, made of __acc_brooch_mat_odd_basic__. It is a brooch set with foil-backed paste stones.
@@ -112,7 +112,7 @@ a quick-made Scottish kilt pin, made of __acc_brooch_mat_odd_basic__. It is a la
 a quick-made bar brooch, made of __acc_brooch_mat_odd_basic__. It is a slim straight pin with a decorative front.
 a quick-made bird brooch, made of __acc_brooch_mat_odd_basic__. It is a pin shaped like a bird. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a quick-made circle brooch, made of __acc_brooch_mat_odd_basic__. It is a round pin with an open or filled centre.
-a quick-made enamel pin badge, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
+a quick-made enamel pin patch, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
 a quick-made feather brooch, made of __acc_brooch_mat_odd_basic__. It is a pin shaped like a feather. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a quick-made fibula brooch, made of __acc_brooch_mat_odd_basic__. It is an ancient safety-pin-style brooch, used to clasp a cloak.
 a quick-made floral brooch, made of __acc_brooch_mat_odd_basic__. It is a pin shaped like a flower. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
@@ -128,7 +128,7 @@ a rudimentary bow brooch, made of __acc_brooch_mat_odd_basic__. It is a pin shap
 a rudimentary shawl pin, made of __acc_brooch_mat_odd_basic__. It is a long pin used to fasten a wrap.
 a serviceable bar brooch, made of __acc_brooch_mat_odd_basic__. It is a slim straight pin with a decorative front.
 a serviceable cameo brooch, made of __acc_brooch_mat_odd_basic__. It is an oval pin with a carved relief portrait.
-a serviceable enamel pin badge, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
+a serviceable enamel pin patch, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
 a serviceable feather brooch, made of __acc_brooch_mat_odd_basic__. It is a pin shaped like a feather. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 a serviceable hat pin, made of __acc_brooch_mat_odd_basic__. It is a long pin used to secure a hat.
 a serviceable lapel pin, made of __acc_brooch_mat_odd_basic__. It is a small pin worn on a jacket collar.
@@ -162,7 +162,7 @@ a stripped-back sculptural brooch, made of __acc_brooch_mat_odd_basic__. It is a
 a stripped-back shawl pin, made of __acc_brooch_mat_odd_basic__. It is a long pin used to fasten a wrap.
 a stripped-back sweetheart brooch, made of __acc_brooch_mat_odd_basic__. It is a brooch shaped like a heart, in the old style.
 a workaday Russian enamel brooch, made of __acc_brooch_mat_odd_basic__. It is a brooch painted in bright shaded enamel.
-a workaday button badge, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
+a workaday button patch, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
 a workaday cluster brooch, made of __acc_brooch_mat_odd_basic__. It is a pin set with a cluster of stones.
 a workaday leaf-spray brooch, made of __acc_brooch_mat_odd_basic__. It is a pin made of a spray of leaves.
 a workaday mourning brooch, made of __acc_brooch_mat_odd_basic__. It is a dark brooch holding a lock of woven hair.
@@ -171,10 +171,10 @@ a workaday stick pin, made of __acc_brooch_mat_odd_basic__. It is a long pin wit
 an entry-level Scottish kilt pin, made of __acc_brooch_mat_odd_basic__. It is a large pin with a decorative head, worn on a kilt.
 an entry-level mourning brooch, made of __acc_brooch_mat_odd_basic__. It is a dark brooch holding a lock of woven hair.
 an entry-level stick pin, made of __acc_brooch_mat_odd_basic__. It is a long pin with a decorative head.
-an everyday enamel pin badge, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
+an everyday enamel pin patch, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
 an everyday luckenbooth brooch, made of __acc_brooch_mat_odd_basic__. It is a heart-shaped brooch topped with a crown.
-an off-the-shelf button badge, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
-an off-the-shelf enamel pin badge, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
+an off-the-shelf button patch, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
+an off-the-shelf enamel pin patch, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
 an off-the-shelf feather brooch, made of __acc_brooch_mat_odd_basic__. It is a pin shaped like a feather. It has a decorative face a few centimetres across and a pin on the back with a safety catch, so it fastens to the cloth of a garment.
 an off-the-shelf hat pin, made of __acc_brooch_mat_odd_basic__. It is a long pin used to secure a hat.
 an ordinary Art Nouveau brooch, made of __acc_brooch_mat_odd_basic__. It is a flowing-line brooch with a woman's profile or a dragonfly.
@@ -182,12 +182,12 @@ an ordinary Viking tortoise brooch, made of __acc_brooch_mat_odd_basic__. It is 
 an ordinary bar brooch, made of __acc_brooch_mat_odd_basic__. It is a slim straight pin with a decorative front.
 an ordinary luckenbooth brooch, made of __acc_brooch_mat_odd_basic__. It is a heart-shaped brooch topped with a crown.
 an understated bar brooch, made of __acc_brooch_mat_odd_basic__. It is a slim straight pin with a decorative front.
-an understated enamel pin badge, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
+an understated enamel pin patch, made of __acc_brooch_mat_odd_basic__. It is a small hard-enamel pin with a clasp.
 an understated insect brooch, made of __acc_brooch_mat_odd_basic__. It is a pin shaped like a beetle, bee or dragonfly.
 an understated leaf-spray brooch, made of __acc_brooch_mat_odd_basic__. It is a pin made of a spray of leaves.
 an understated sculptural brooch, made of __acc_brooch_mat_odd_basic__. It is a large, art-like pin in mixed metals.
 an unfussy Georgian paste brooch, made of __acc_brooch_mat_odd_basic__. It is a brooch set with foil-backed paste stones.
-an unfussy button badge, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
+an unfussy button patch, made of __acc_brooch_mat_odd_basic__. It is a round pin with a printed design.
 an unfussy circle brooch, made of __acc_brooch_mat_odd_basic__. It is a round pin with an open or filled centre.
 an unfussy cluster brooch, made of __acc_brooch_mat_odd_basic__. It is a pin set with a cluster of stones.
 an unfussy patch pin, made of __acc_brooch_mat_odd_basic__. It is a woven patch with a pin back.

@@ -48,8 +48,8 @@ a ceremonial pillbox with a veil, made of __acc_hat_mat_hist_showpiece__. It is 
 a ceremonial pillbox with a veil, made of __acc_hat_mat_hist_showpiece__. It is a small flat-topped drum with a net veil. __acc_hat_trim_showpiece__
 a ceremonial poke bonnet, made of __acc_hat_mat_hist_showpiece__. It is a bonnet with a small crown and a deep rounded front brim.
 a ceremonial poke bonnet, made of __acc_hat_mat_hist_showpiece__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_showpiece__
-a ceremonial shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge.
-a ceremonial shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_showpiece__
+a ceremonial shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch.
+a ceremonial shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_showpiece__
 a ceremonial sombrero cordobés, made of __acc_hat_mat_hist_showpiece__. It is a flat-crowned hat with a flat brim in Andalusian style.
 a ceremonial sombrero cordobés, made of __acc_hat_mat_hist_showpiece__. It is a flat-crowned hat with a flat brim in Andalusian style. __acc_hat_trim_showpiece__
 a ceremonial tam o' shanter, made of __acc_hat_mat_hist_showpiece__. It is a wide flat wool beret with a pom-pom.
@@ -78,8 +78,8 @@ a collector-grade montera, made of __acc_hat_mat_hist_showpiece__. It is a black
 a collector-grade montera, made of __acc_hat_mat_hist_showpiece__. It is a black two-lobed cap with ears, worn by bullfighters. __acc_hat_trim_showpiece__
 a collector-grade peach-basket hat, made of __acc_hat_mat_hist_showpiece__. It is an upturned basket shape lavishly trimmed with flowers.
 a collector-grade peach-basket hat, made of __acc_hat_mat_hist_showpiece__. It is an upturned basket shape lavishly trimmed with flowers. __acc_hat_trim_showpiece__
-a collector-grade shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge.
-a collector-grade shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_showpiece__
+a collector-grade shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch.
+a collector-grade shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_showpiece__
 a collector-grade sou'wester, made of __acc_hat_mat_hist_showpiece__. It is a brimmed oilskin rain hat, longer at the back.
 a collector-grade sou'wester, made of __acc_hat_mat_hist_showpiece__. It is a brimmed oilskin rain hat, longer at the back. __acc_hat_trim_showpiece__
 a collector-grade tengkolok, made of __acc_hat_mat_hist_showpiece__. It is a folded and tied patterned cloth headdress.
@@ -154,8 +154,8 @@ a fantastical pith helmet, made of __acc_hat_mat_hist_showpiece__. It is a domed
 a fantastical pith helmet, made of __acc_hat_mat_hist_showpiece__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_showpiece__
 a fantastical printer's paper hat, made of __acc_hat_mat_hist_showpiece__. It is a folded newsprint hat with a point.
 a fantastical printer's paper hat, made of __acc_hat_mat_hist_showpiece__. It is a folded newsprint hat with a point. __acc_hat_trim_showpiece__
-a fantastical shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge.
-a fantastical shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_showpiece__
+a fantastical shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch.
+a fantastical shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_showpiece__
 a fantastical sou'wester, made of __acc_hat_mat_hist_showpiece__. It is a brimmed oilskin rain hat, longer at the back.
 a fantastical sou'wester, made of __acc_hat_mat_hist_showpiece__. It is a brimmed oilskin rain hat, longer at the back. __acc_hat_trim_showpiece__
 a fantastical tubeteika, made of __acc_hat_mat_hist_showpiece__. It is a small embroidered four-sided cap.
@@ -230,8 +230,8 @@ a jaw-dropping cloche with feathers, made of __acc_hat_mat_hist_showpiece__. It 
 a jaw-dropping cloche with feathers, made of __acc_hat_mat_hist_showpiece__. It is a deep bell-shaped hat with a feather spray. __acc_hat_trim_showpiece__
 a jaw-dropping kepi, made of __acc_hat_mat_hist_showpiece__. It is a flat-topped cap with a stiff visor.
 a jaw-dropping kepi, made of __acc_hat_mat_hist_showpiece__. It is a flat-topped cap with a stiff visor. __acc_hat_trim_showpiece__
-a jaw-dropping shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge.
-a jaw-dropping shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_showpiece__
+a jaw-dropping shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch.
+a jaw-dropping shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_showpiece__
 a jaw-dropping shtreimel-style fur hat, made of __acc_hat_mat_hist_showpiece__. It is a wide, round, fur-trimmed velvet hat.
 a jaw-dropping shtreimel-style fur hat, made of __acc_hat_mat_hist_showpiece__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_showpiece__
 a jaw-dropping snood, made of __acc_hat_mat_hist_showpiece__. It is a net bag that holds the hair at the back.
@@ -402,8 +402,8 @@ a peerless kepi, made of __acc_hat_mat_hist_showpiece__. It is a flat-topped cap
 a peerless kepi, made of __acc_hat_mat_hist_showpiece__. It is a flat-topped cap with a stiff visor. __acc_hat_trim_showpiece__
 a peerless pith helmet, made of __acc_hat_mat_hist_showpiece__. It is a domed, cork-like sun helmet with a puggaree band.
 a peerless pith helmet, made of __acc_hat_mat_hist_showpiece__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_showpiece__
-a peerless shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge.
-a peerless shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_showpiece__
+a peerless shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch.
+a peerless shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_showpiece__
 a peerless toque blanche, made of __acc_hat_mat_hist_showpiece__. It is a tall, white, pleated chef's hat.
 a peerless toque blanche, made of __acc_hat_mat_hist_showpiece__. It is a tall, white, pleated chef's hat. __acc_hat_trim_showpiece__
 a peerless turban, made of __acc_hat_mat_hist_showpiece__. It is a long cloth wound around the head in neat folds.
@@ -734,8 +734,8 @@ an astonishingly lavish mobcap, made of __acc_hat_mat_hist_showpiece__. It is a 
 an astonishingly lavish mobcap, made of __acc_hat_mat_hist_showpiece__. It is a gathered, ruffled indoor bonnet. __acc_hat_trim_showpiece__
 an astonishingly lavish mortarboard, made of __acc_hat_mat_hist_showpiece__. It is a flat square board on a skullcap with a tassel.
 an astonishingly lavish mortarboard, made of __acc_hat_mat_hist_showpiece__. It is a flat square board on a skullcap with a tassel. __acc_hat_trim_showpiece__
-an astonishingly lavish shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge.
-an astonishingly lavish shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_showpiece__
+an astonishingly lavish shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch.
+an astonishingly lavish shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_showpiece__
 an astonishingly lavish smoking cap, made of __acc_hat_mat_hist_showpiece__. It is a small tasselled cap embroidered with a pattern.
 an astonishingly lavish smoking cap, made of __acc_hat_mat_hist_showpiece__. It is a small tasselled cap embroidered with a pattern. __acc_hat_trim_showpiece__
 an astonishingly lavish snood, made of __acc_hat_mat_hist_showpiece__. It is a net bag that holds the hair at the back.
@@ -924,8 +924,8 @@ an opulent conical rice-straw hat, made of __acc_hat_mat_hist_showpiece__. It is
 an opulent conical rice-straw hat, made of __acc_hat_mat_hist_showpiece__. It is a wide pointed hat of woven palm leaf with a chin tie. __acc_hat_trim_showpiece__
 an opulent papakha, made of __acc_hat_mat_hist_showpiece__. It is a tall, shaggy sheepskin hat.
 an opulent papakha, made of __acc_hat_mat_hist_showpiece__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_showpiece__
-an opulent shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge.
-an opulent shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_showpiece__
+an opulent shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch.
+an opulent shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_showpiece__
 an opulent vueltiao hat, made of __acc_hat_mat_hist_showpiece__. It is a hat of woven black-and-natural palm cane braids.
 an opulent vueltiao hat, made of __acc_hat_mat_hist_showpiece__. It is a hat of woven black-and-natural palm cane braids. __acc_hat_trim_showpiece__
 an opulent widow's cap, made of __acc_hat_mat_hist_showpiece__. It is a plain lace-edged cap.
@@ -970,8 +970,8 @@ an unparalleled mortarboard, made of __acc_hat_mat_hist_showpiece__. It is a fla
 an unparalleled mortarboard, made of __acc_hat_mat_hist_showpiece__. It is a flat square board on a skullcap with a tassel. __acc_hat_trim_showpiece__
 an unparalleled pillbox with a veil, made of __acc_hat_mat_hist_showpiece__. It is a small flat-topped drum with a net veil.
 an unparalleled pillbox with a veil, made of __acc_hat_mat_hist_showpiece__. It is a small flat-topped drum with a net veil. __acc_hat_trim_showpiece__
-an unparalleled shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge.
-an unparalleled shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_showpiece__
+an unparalleled shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch.
+an unparalleled shako, made of __acc_hat_mat_hist_showpiece__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_showpiece__
 an unparalleled sombrero cordobés, made of __acc_hat_mat_hist_showpiece__. It is a flat-crowned hat with a flat brim in Andalusian style.
 an unparalleled sombrero cordobés, made of __acc_hat_mat_hist_showpiece__. It is a flat-crowned hat with a flat brim in Andalusian style. __acc_hat_trim_showpiece__
 an unparalleled sombrero, made of __acc_hat_mat_hist_showpiece__. It is a tall crown on a huge saucer-shaped brim, trimmed with embroidery.

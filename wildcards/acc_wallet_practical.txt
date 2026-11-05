@@ -27,7 +27,7 @@ a compact scratch-resistant coating
 a compact secret pocket
 a compact thumb notch
 a compact tracker pocket
-a compact tracker-tag pocket
+a compact tracker-tab pocket
 a compact transparent photo window
 a compact water-resistant finish
 a concealed bill clip
@@ -87,7 +87,7 @@ a generously sized pen loop
 a generously sized pull-tab card slot
 a generously sized slim profile that fits a front pocket
 a generously sized snap closure
-a generously sized tracker-tag pocket
+a generously sized tracker-tab pocket
 a generously sized tuck-away key hook
 a generously sized wrist strap
 a gusseted bill compartment
@@ -103,7 +103,7 @@ a handy quick-pull card tab
 a handy removable passport sleeve
 a handy scratch-resistant coating
 a handy secret pocket
-a handy tracker-tag pocket
+a handy tracker-tab pocket
 a handy transparent photo window
 a handy zippered coin compartment
 a handy zippered compartment
@@ -151,7 +151,7 @@ a quietly useful receipt pocket
 a quietly useful secret pocket
 a quietly useful slim profile that fits a front pocket
 a quietly useful snap closure
-a quietly useful tracker-tag pocket
+a quietly useful tracker-tab pocket
 a quietly useful wrist strap
 a quietly useful zippered coin compartment
 a receipt pocket
@@ -185,14 +185,13 @@ a secure secret pocket
 a secure slim profile that fits a front pocket
 a secure snap closure
 a secure tracker pocket
-a secure tracker-tag pocket
+a secure tracker-tab pocket
 a secure transparent photo window
 a secure water-resistant finish
 a slim bill clip
 a slim profile that fits a front pocket
 a slim quick-access outer card slot
 a slim quick-pull card tab
-a slim profile that fits a front pocket
 a slim transparent photo window
 a slim tuck-away key hook
 a slim wrist strap
@@ -211,7 +210,7 @@ a sturdy coin pocket
 a sturdy key loop
 a sturdy magnetic closure
 a sturdy slim profile that fits a front pocket
-a sturdy tracker-tag pocket
+a sturdy tracker-tab pocket
 a sturdy wrist strap
 a sturdy zippered coin compartment
 a thumb notch
@@ -226,7 +225,7 @@ a tidy receipt pocket
 a tidy scratch-resistant coating
 a tidy slim profile that fits a front pocket
 a tidy snap closure
-a tidy tracker-tag pocket
+a tidy tracker-tab pocket
 a tidy water-resistant finish
 a tidy wrist strap
 a tidy zippered coin compartment
@@ -239,11 +238,11 @@ a tough hidden receipt pocket
 a tough pull-tab card slot
 a tough quick-access outer card slot
 a tough snap closure
-a tough tracker-tag pocket
+a tough tracker-tab pocket
 a tough tuck-away key hook
 a tough zippered coin compartment
 a tracker pocket
-a tracker-tag pocket
+a tracker-tab pocket
 a transparent photo window
 a tuck-away key hook
 a water-resistant finish
@@ -268,7 +267,7 @@ a well-positioned hidden receipt pocket
 a well-positioned magnetic closure
 a well-positioned slim profile that fits a front pocket
 a well-positioned snap closure
-a well-positioned tracker-tag pocket
+a well-positioned tracker-tab pocket
 a well-positioned transparent photo window
 a well-positioned tuck-away key hook
 a well-positioned water-resistant finish
@@ -308,7 +307,6 @@ handy RFID-blocking lining
 neatly finished RFID-blocking lining
 neatly finished reinforced stitching
 reinforced RFID-blocking lining
-reinforced stitching
 reinforced stitching
 roomy reinforced stitching
 secure reinforced stitching

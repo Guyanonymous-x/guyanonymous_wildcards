@@ -17,7 +17,7 @@ A cardigan with a chain of glasses, a skirt, shoes, the full outfit of a librari
 A dark blue tunic with a kepi, blue trousers, a kepi, black boots, the full outfit of a gendarme, with mid-tone brown tanned skin
 A dark coat and a cape, trousers, boots, the full outfit of a headless horseman, with mid-tone brown tanned skin
 A dark green jacket with reflective stripes, a high-visibility vest and a radio on the shoulder, dark cargo trousers, black work boots, the full outfit of a paramedic, with mid-tone brown tanned skin
-A dark shirt with a badge, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap, black boots, the full outfit of a police officer, with mid-tone brown tanned skin
+A dark shirt with a patch, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap, black boots, the full outfit of a police officer, with mid-tone brown tanned skin
 A dirndl with an apron, shoes, the full outfit of a Bavarian beer maid, with mid-tone brown tanned skin
 A double-breasted jacket with leather gaiters, breeches, a peaked cap, boots, the full outfit of a chauffeur, with mid-tone brown tanned skin
 A doublet with a ruff, slops, a flat cap, buckled shoes, the full outfit of an Elizabethan courtier, with mid-tone brown tanned skin
@@ -86,7 +86,7 @@ A person dressed as a carabiniere (Italy), which is a black tunic with a red str
 A person dressed as a cardboard robot costume (craft fair), which is a box costume with dials, a box helmet and boots, with mid-tone brown tanned skin
 A person dressed as a centaur trainer (myth), which is a bronze breastplate, with mid-tone brown tanned skin
 A person dressed as a cheese rolling competitor (England), which is a padded jumper, shorts, a helmet and trainers, with mid-tone brown tanned skin
-A person dressed as a chess club champion (club), which is a blazer with a club badge, trousers and shoes, with mid-tone brown tanned skin
+A person dressed as a chess club champion (club), which is a blazer with a club patch, trousers and shoes, with mid-tone brown tanned skin
 A person dressed as a clockwork automaton (steampunk), which is a brass-plated chest with gears, a brass face plate and boots, with mid-tone brown tanned skin
 A person dressed as a coal miner (early 20th century), which is a canvas jacket and a lamp battery on the belt, work trousers, a hard hat with a lamp and rubber boots, with mid-tone brown tanned skin
 A person dressed as a cruise ship entertainer (cruise), which is a sequined waistcoat, trousers, a bow tie and dance shoes, with mid-tone brown tanned skin
@@ -121,7 +121,7 @@ A person dressed as a mummy (horror), wrapped bandages, with mid-tone brown tann
 A person dressed as a mushroom forager (forest), which is a wicker basket and a coat, trousers, a hat and boots, with mid-tone brown tanned skin
 A person dressed as a mutant wanderer (wasteland), which is a ragged cloak over a tattered shirt, a hood and boots, with mid-tone brown tanned skin
 A person dressed as a patterned-haori swordsperson (anime-inspired), with a patterned haori over a plain kimono, trousers and sandals, with mid-tone brown tanned skin
-A person dressed as a pharmacist (pharmacy), which is a white lab coat over a shirt with a name badge, dark trousers and black shoes, with mid-tone brown tanned skin
+A person dressed as a pharmacist (pharmacy), which is a white lab coat over a shirt with a name patch, dark trousers and black shoes, with mid-tone brown tanned skin
 A person dressed as a pirate crew member (pirate), which is a laced bodice with a blouse, a patched skirt, a bandana and boots, with mid-tone brown tanned skin
 A person dressed as a pizza costume wearer (party), which is a round pizza suit, with mid-tone brown tanned skin
 A person dressed as a plague doctor (17th-century Europe), which is a long waxed black coat, a leather cape and gloves, dark trousers, a wide-brimmed hat and a beaked bird-shaped mask and dark boots, with mid-tone brown tanned skin
@@ -201,7 +201,7 @@ a Bedouin chief (desert), wearing a long robe with a cloak, a head cloth with a 
 a British bobby (London, 20th century), wearing a dark tunic with silver buttons and a whistle chain, dark trousers, a tall custodian helmet and black boots and carrying a truncheon, with mid-tone brown tanned skin
 a Carnival of Venice reveller, dressed in a brocade cape, with mid-tone brown tanned skin
 a Catholic priest (church), wearing a black cassock with a white clerical collar, a biretta and black shoes and carrying a prayer book, with mid-tone brown tanned skin
-a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square badge and cloth boots, with mid-tone brown tanned skin
+a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square patch and cloth boots, with mid-tone brown tanned skin
 a Chinese opera performer (Beijing), wearing a heavily embroidered robe with long water sleeves, an elaborate headdress and platform boots, with mid-tone brown tanned skin
 a Cold War astronaut trainer, dressed in a pressure suit, with mid-tone brown tanned skin
 a Cossack (Eastern Europe), in a long coat with cartridge pouches across the chest and wide trousers and high boots, with mid-tone brown tanned skin
@@ -239,7 +239,7 @@ a Santa-style festive gift-bringer (winter), in a red coat with white fur trim a
 a Scottish Highland soldier (ceremonial), wearing a doublet with a plaid sash, a kilt, a feather bonnet and buckled brogues and carrying bagpipes, with mid-tone brown tanned skin
 a Shinto priest (Japan), in a white robe with a pale blue hakama and a tall black hat, with mid-tone brown tanned skin
 a Spartan-inspired warrior (fantasy), in a red cloak and a bronze breastplate and a short kilt and sandals, with mid-tone brown tanned skin
-a Texas ranger (American West), in a vest with a star badge, a long coat and a string tie and pressed trousers and boots, with mid-tone brown tanned skin
+a Texas ranger (American West), in a vest with a star patch, a long coat and a string tie and pressed trousers and boots, with mid-tone brown tanned skin
 a Tibetan monk (Himalayas), in a maroon robe with a gold sash and a yellow crested hat, with mid-tone brown tanned skin
 a Tour de France climber (road race), wearing a polka-dot jersey, bib shorts, a helmet and cycling shoes and carrying a bidon, with mid-tone brown tanned skin
 a Tour de France spectator, dressed in a polka-dot costume and a flag, with mid-tone brown tanned skin
@@ -276,7 +276,7 @@ a boxer, dressed in a satin robe with satin shorts, with mid-tone brown tanned s
 a bricklayer (site), in a work shirt and high-visibility vest and work trousers and boots, with mid-tone brown tanned skin
 a bridal gown wearer (wedding), in a fitted lace bodice with a sweetheart neckline and a long veil and a full tulle skirt and satin shoes, with mid-tone brown tanned skin
 a bullfighter (Spain), in a short embroidered jacket in gold thread with a sash and a montera hat, with mid-tone brown tanned skin
-a bus driver (modern), wearing a waistcoat shirt with a tie and a badge, dark trousers and black shoes, with mid-tone brown tanned skin
+a bus driver (modern), wearing a waistcoat shirt with a tie and a patch, dark trousers and black shoes, with mid-tone brown tanned skin
 a butcher (shop), in a striped apron over a white coat and trousers and clogs, with mid-tone brown tanned skin
 a camper, dressed in a flannel shirt and a fleece with trousers, with mid-tone brown tanned skin
 a campfire storyteller (forest), in a plaid shirt with a bandana and jeans and boots, with mid-tone brown tanned skin
@@ -339,7 +339,7 @@ a fire mage (fantasy), wearing a red and orange robe with flame embroidery and a
 a firefighter (modern), wearing a heavy turnout coat with reflective bands and braces, fire-resistant overtrousers, a helmet with a visor and steel-toed boots, with mid-tone brown tanned skin
 a fisherman with a vest, dressed in a fishing vest covered in flies with waders, with mid-tone brown tanned skin
 a fishmonger (market), in a rubber apron over a waterproof smock and a hat, with mid-tone brown tanned skin
-a flight attendant (modern airline), in a tailored jacket and neckerchief with a name badge and a pillbox hat, with mid-tone brown tanned skin
+a flight attendant (modern airline), in a tailored jacket and neckerchief with a name patch and a pillbox hat, with mid-tone brown tanned skin
 a florist (shop), wearing a green apron over a blouse, trousers and clogs, with mid-tone brown tanned skin
 a football goalkeeper, dressed in a long-sleeved padded jersey and gloves with shorts, with mid-tone brown tanned skin
 a football supporter (stadium), in a team shirt with a scarf and a bobble hat, with mid-tone brown tanned skin
@@ -362,15 +362,15 @@ a golfer (golf), in a polo and a sweater vest and plus fours and golf shoes, wit
 a graduate (graduation), in a gown with a hood and shoes, with mid-tone brown tanned skin
 a grim reaper (folklore), wearing a black hooded robe and a hood and carrying a scythe, with mid-tone brown tanned skin
 a gymnast (competition), in a sparkling leotard and bare feet, with mid-tone brown tanned skin
-a hanbok-wearing court official (Joseon), wearing a blue robe with a rank badge, a black winged hat and shoes, with mid-tone brown tanned skin
+a hanbok-wearing court official (Joseon), wearing a blue robe with a rank patch, a black winged hat and shoes, with mid-tone brown tanned skin
 a haunted house butler (gothic), wearing a tattered tailcoat, trousers and shoes, with mid-tone brown tanned skin
 a head chef (restaurant), in a white double-breasted jacket with a neckerchief and an apron and a tall pleated toque, with mid-tone brown tanned skin
 a highway raider (wasteland), in a leather jacket with bandoliers and trousers and boots, with mid-tone brown tanned skin
 a horned noble (fantasy), in a crimson velvet jacket and curved horns, with mid-tone brown tanned skin
-a hospital nurse, dressed in a colourful scrub top with an ID badge and a stethoscope round the neck with scrub trousers, with mid-tone brown tanned skin
+a hospital nurse, dressed in a colourful scrub top with an ID patch and a stethoscope round the neck with scrub trousers, with mid-tone brown tanned skin
 a hot dog costume wearer, dressed in a foam hot dog suit, with mid-tone brown tanned skin
 a hotel bellhop, dressed in a short red jacket with gold braid with trousers with a stripe, with mid-tone brown tanned skin
-a housekeeper (hotel), wearing a tunic with a name badge, trousers and comfortable shoes, with mid-tone brown tanned skin
+a housekeeper (hotel), wearing a tunic with a name patch, trousers and comfortable shoes, with mid-tone brown tanned skin
 a human pretzel contortionist (circus), wearing a sparkling bodysuit, with mid-tone brown tanned skin
 a human statue, dressed in a silver painted bodysuit, with mid-tone brown tanned skin
 a human taco costume wearer (party), wearing a foam taco suit, with mid-tone brown tanned skin
@@ -426,7 +426,7 @@ a museum guide (museum), in a blazer with a lanyard and trousers and shoes, with
 a necromancer, dressed in a tattered black robe with bone clasps and a hooded cloak, with mid-tone brown tanned skin
 a neon street samurai (cyberpunk), wearing a glowing trench coat, trousers, a visor and boots, with mid-tone brown tanned skin
 a news anchor (studio), in a tailored jacket and blouse or shirt and tie and shoes, with mid-tone brown tanned skin
-a newspaper vendor (1920s), in a flat cap, a waistcoat and rolled sleeves and a flat cap, with mid-tone brown tanned skin
+a folded paper sheet vendor (1920s), in a flat cap, a waistcoat and rolled sleeves and a flat cap, with mid-tone brown tanned skin
 a night vigilante (superhero), wearing a charcoal hooded armoured jacket with a short cape, a half mask and boots and carrying a grappling line, with mid-tone brown tanned skin
 a ninja clan leader (anime-inspired), wearing a dark robe with a mask and scarf, trousers, a headband and sandals, with mid-tone brown tanned skin
 a nun (convent), in a long habit with a veil and sandals, with mid-tone brown tanned skin
@@ -434,10 +434,10 @@ a painter (studio), in a smock splattered with paint and trousers and shoes, wit
 a pantomime dame, dressed in a huge flowered dress with a bonnet, with mid-tone brown tanned skin
 a pantomime horse (theatre), wearing a two-person horse suit, a horse head and hooves, with mid-tone brown tanned skin
 a paratrooper (WWII-era), in a camouflage smock, webbing and a parachute harness and a helmet, with mid-tone brown tanned skin
-a park ranger (national park), wearing a green shirt with a badge and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, with mid-tone brown tanned skin
+a park ranger (national park), wearing a green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, with mid-tone brown tanned skin
 a pastry chef (bakery), in a white jacket with a small cravat and trousers and clogs, with mid-tone brown tanned skin
 a phoenix, dressed in a feathered flame costume, with mid-tone brown tanned skin
-a physiotherapist (clinic), in a polo shirt with a clinic logo-free badge and a tape measure round the neck and athletic trousers and trainers, with mid-tone brown tanned skin
+a physiotherapist (clinic), in a polo shirt with a clinic motif-free patch and a tape measure round the neck and athletic trousers and trainers, with mid-tone brown tanned skin
 a pirate captain, dressed in a long embroidered coat with a sash and cross-belt with breeches, with mid-tone brown tanned skin
 a pit crew mechanic (racing), wearing a fireproof overall, a helmet and boots and carrying an air wrench, with mid-tone brown tanned skin
 a planet colonist (sci-fi), wearing a padded jumpsuit with patches, a helmet and boots, with mid-tone brown tanned skin
@@ -470,14 +470,14 @@ a sauna-goer (Finland), wearing a felt hat and a towel and a felt hat and carryi
 a scaffolder, dressed in a harness and high-visibility vest with work trousers, with mid-tone brown tanned skin
 a scarecrow (autumn), in a patched shirt with straw and a straw hat, with mid-tone brown tanned skin
 a scarecrow king (horror), wearing a straw-stuffed jacket, a sack mask and boots and carrying a pitchfork, with mid-tone brown tanned skin
-a scrap queen, dressed in armour made from road signs and tyres, with mid-tone brown tanned skin
+a scrap queen, dressed in armour made from road lit panels and tyres, with mid-tone brown tanned skin
 a sculptor (studio), wearing a dusty apron over a shirt, trousers and boots, with mid-tone brown tanned skin
 a secretary (1950s), wearing a blouse with a bow and a cardigan, a pencil skirt and court shoes and carrying a steno pad, with mid-tone brown tanned skin
 a shadow elf assassin (fantasy), wearing a dark leather harness, leather trousers, a hood and boots and carrying twin daggers, with mid-tone brown tanned skin
 a shapeshifting hero (superhero), in a skin-tight patterned suit and a mask, with mid-tone brown tanned skin
 a shark onesie wearer, dressed in a grey plush shark onesie, with mid-tone brown tanned skin
 a shepherd (hill country), wearing a wool smock and a long cloak, wool trousers, a felt hat and boots, with mid-tone brown tanned skin
-a sheriff (American West), wearing a vest with a star badge over a plaid shirt, jeans, a wide-brimmed hat and spurred boots, with mid-tone brown tanned skin
+a sheriff (American West), wearing a vest with a star patch over a plaid shirt, jeans, a wide-brimmed hat and spurred boots, with mid-tone brown tanned skin
 a sheriff's deputy (modern), wearing a tan uniform shirt with a star, dark green trousers, a campaign hat and boots, with mid-tone brown tanned skin
 a ship captain (merchant navy), in a navy double-breasted jacket with four gold stripes and trousers and black shoes, with mid-tone brown tanned skin
 a shrine maiden-style priest, dressed in a white kimono top with a long scarf with a red hakama, with mid-tone brown tanned skin

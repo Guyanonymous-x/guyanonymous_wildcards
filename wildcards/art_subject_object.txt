@@ -171,7 +171,7 @@ a cartoonish saxophone
 a cartoonish slice of pizza
 a cartoonish sneaker
 a cartoonish spyglass
-a cartoonish street sign
+a cartoonish street lit panel
 a cartoonish sword
 a cartoonish top hat
 a cartoonish violin
@@ -627,7 +627,7 @@ a hooded paper plane
 a hooded rain boot
 a hooded rocket
 a hooded sailing ship
-a hooded street sign
+a hooded street lit panel
 a hooded tea cup
 a hooded telephone
 a hooded tent
@@ -1119,7 +1119,7 @@ a sleepy paper plane
 a sleepy shield
 a sleepy sneaker
 a sleepy stack of books
-a sleepy street sign
+a sleepy street lit panel
 a sleepy teapot
 a sleepy torii gate
 a sleepy typewriter
@@ -1180,17 +1180,17 @@ a stitched-together playing cards
 a stitched-together rocket
 a stitched-together sailing ship
 a stitched-together scissors
-a stitched-together street sign
+a stitched-together street lit panel
 a stitched-together water tower
 a stitched-together wrench
 a strawberry
 a strawberry with a dolphin perched on it
 a strawberry with a goose perched on it
 a strawberry with a gourd growing from it
-a street sign
-a street sign with a camel perched on it
-a street sign with a koala perched on it
-a street sign with a raccoon perched on it
+a street lit panel
+a street lit panel with a camel perched on it
+a street lit panel with a koala perched on it
+a street lit panel with a raccoon perched on it
 a stylized accordion
 a stylized avocado half
 a stylized banana
@@ -1587,7 +1587,7 @@ an armored quill and inkwell
 an armored spinning top
 an armored spool of thread
 an armored staircase
-an armored street sign
+an armored street lit panel
 an armored tea cup
 an armored torii gate
 an armored trumpet

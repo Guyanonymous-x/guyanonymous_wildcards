@@ -3,7 +3,7 @@ A black cassock with a white clerical collar, a biretta, black shoes, the full o
 A black cassock with a white surplice, black shoes, the full outfit of an Anglican vicar
 A black coat with a prayer shawl, trousers, a black hat, shoes, the full outfit of a rabbi
 A black robe with a stole, a woven straw hat, straw sandals, the full outfit of a Zen monk
-A blue robe with a rank badge, a black winged hat, shoes, the full outfit of a hanbok-wearing court official
+A blue robe with a rank patch, a black winged hat, shoes, the full outfit of a hanbok-wearing court official
 A bowling shirt, rolled jeans, a pompadour, shoes, the full outfit of a 1950s rockabilly
 A bright blue tunic with red trim, trousers, a four-pointed hat, reindeer-fur boots, the full outfit of a Sami herder
 A bright coloured robe with a sash, wide trousers, a black horsehair hat, boots, the full outfit of a Korean palace guard
@@ -39,7 +39,7 @@ A long habit with a veil, a wimple and veil, sandals, the full outfit of a nun
 A long indigo robe, an indigo veil, sandals, the full outfit of a Berber nomad
 A long red cassock with a white ruff, shoes, the full outfit of a choir singer
 A long robe with a cloak, a head cloth with a cord, sandals, the full outfit of a Bedouin chief
-A long silk robe with a mandarin square badge, a hat with a button, cloth boots, the full outfit of a Chinese imperial court official
+A long silk robe with a mandarin square patch, a hat with a button, cloth boots, the full outfit of a Chinese imperial court official
 A long white robe with a blue sash, a large turban, the full outfit of a Sikh priest
 A long white robe with a gold sickle, an oak-leaf crown, sandals, the full outfit of a druid
 A long white thobe with a cloak, a turban, sandals, the full outfit of an imam
@@ -64,7 +64,7 @@ A person dressed as a Brazilian samba dancer (Carnival), which is a feathered bo
 A person dressed as a Buddhist monk (Southeast Asia), which is a saffron robe draped over one shoulder, a shaved head and sandals
 A person dressed as a Carnival of Venice reveller (Venice), which is a brocade cape, a plumed hat and a mask and shoes
 A person dressed as a Catholic priest (church), which is a black cassock with a white clerical collar, a biretta and black shoes
-A person dressed as a Chinese imperial court official (Qing dynasty), with a long silk robe with a mandarin square badge, a hat with a button and cloth boots
+A person dressed as a Chinese imperial court official (Qing dynasty), with a long silk robe with a mandarin square patch, a hat with a button and cloth boots
 A person dressed as a Chinese opera performer (Beijing), which is a heavily embroidered robe with long water sleeves, an elaborate headdress and platform boots
 A person dressed as a Dutch klompen wearer (Netherlands), which is a striped shirt, baggy trousers, a cap and wooden clogs
 A person dressed as a Ghanaian chief (Ashanti), which is a kente cloth draped over the shoulder, a gold crown and sandals
@@ -105,7 +105,7 @@ A person dressed as a choir singer (cathedral), which is a long red cassock with
 A person dressed as a druid (ancient Britain), which is a long white robe with a gold sickle, an oak-leaf crown and sandals
 A person dressed as a gaucho (Argentina), which is a loose shirt with a poncho, baggy trousers, a black hat and riding boots
 A person dressed as a geisha (Kyoto), which is a silk kimono with a wide obi, an elaborate hair ornament and wooden sandals
-A person dressed as a hanbok-wearing court official (Joseon), which is a blue robe with a rank badge, a black winged hat and shoes
+A person dressed as a hanbok-wearing court official (Joseon), which is a blue robe with a rank patch, a black winged hat and shoes
 A person dressed as a mariachi musician (Mexico), which is a short jacket with silver buttons, tight trousers with silver studs, a wide sombrero and boots
 A person dressed as a medieval herald (Europe), which is a tabard with a coat of arms, hose, a feathered cap and boots
 A person dressed as a medieval jester (Europe), which is a patchwork tunic, tights, a hat with bells and curled shoes
@@ -231,11 +231,11 @@ a Catholic priest (church), in a black cassock with a white clerical collar and 
 a Catholic priest (church), wearing a black cassock with a white clerical collar, a biretta and black shoes
 a Catholic priest (church), wearing a black cassock with a white clerical collar, a biretta and black shoes and carrying a prayer book
 a Catholic priest, dressed in a black cassock with a white clerical collar
-a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square badge and a hat with a button
-a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square badge and cloth boots
-a Chinese imperial court official (Qing dynasty), wearing a long silk robe with a mandarin square badge, a hat with a button and cloth boots
-a Chinese imperial court official (Qing dynasty), wearing a long silk robe with a mandarin square badge, a hat with a button and cloth boots and carrying a bead necklace
-a Chinese imperial court official, dressed in a long silk robe with a mandarin square badge
+a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square patch and a hat with a button
+a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square patch and cloth boots
+a Chinese imperial court official (Qing dynasty), wearing a long silk robe with a mandarin square patch, a hat with a button and cloth boots
+a Chinese imperial court official (Qing dynasty), wearing a long silk robe with a mandarin square patch, a hat with a button and cloth boots and carrying a bead necklace
+a Chinese imperial court official, dressed in a long silk robe with a mandarin square patch
 a Chinese opera performer (Beijing), in a heavily embroidered robe with long water sleeves and an elaborate headdress
 a Chinese opera performer (Beijing), in a heavily embroidered robe with long water sleeves and platform boots
 a Chinese opera performer (Beijing), wearing a heavily embroidered robe with long water sleeves, an elaborate headdress and platform boots
@@ -415,11 +415,11 @@ a geisha (Kyoto), in a silk kimono with a wide obi and wooden sandals
 a geisha (Kyoto), wearing a silk kimono with a wide obi, an elaborate hair ornament and wooden sandals
 a geisha (Kyoto), wearing a silk kimono with a wide obi, an elaborate hair ornament and wooden sandals and carrying a folding fan
 a geisha, dressed in a silk kimono with a wide obi
-a hanbok-wearing court official (Joseon), in a blue robe with a rank badge and a black winged hat
-a hanbok-wearing court official (Joseon), in a blue robe with a rank badge and shoes
-a hanbok-wearing court official (Joseon), wearing a blue robe with a rank badge, a black winged hat and shoes
-a hanbok-wearing court official (Joseon), wearing a blue robe with a rank badge, a black winged hat and shoes and carrying a tablet
-a hanbok-wearing court official, dressed in a blue robe with a rank badge
+a hanbok-wearing court official (Joseon), in a blue robe with a rank patch and a black winged hat
+a hanbok-wearing court official (Joseon), in a blue robe with a rank patch and shoes
+a hanbok-wearing court official (Joseon), wearing a blue robe with a rank patch, a black winged hat and shoes
+a hanbok-wearing court official (Joseon), wearing a blue robe with a rank patch, a black winged hat and shoes and carrying a tablet
+a hanbok-wearing court official, dressed in a blue robe with a rank patch
 a mariachi musician (Mexico), in a short jacket with silver buttons and a wide sombrero
 a mariachi musician (Mexico), in a short jacket with silver buttons and tight trousers with silver studs and boots
 a mariachi musician (Mexico), wearing a short jacket with silver buttons, tight trousers with silver studs, a wide sombrero and boots
@@ -489,7 +489,7 @@ an Aztec jaguar warrior, dressed in a jaguar-skin suit
 an Edwardian suffragette (1900s), in a tailored jacket with a sash and a hat
 an Edwardian suffragette (1900s), in a tailored jacket with a sash and a long skirt and boots
 an Edwardian suffragette (1900s), wearing a tailored jacket with a sash, a long skirt, a hat and boots
-an Edwardian suffragette (1900s), wearing a tailored jacket with a sash, a long skirt, a hat and boots and carrying a banner
+an Edwardian suffragette (1900s), wearing a tailored jacket with a sash, a long skirt, a hat and boots and carrying a cloth pennant
 an Edwardian suffragette, dressed in a tailored jacket with a sash with a long skirt
 an Elizabethan courtier (England), in a doublet with a ruff and a flat cap
 an Elizabethan courtier (England), in a doublet with a ruff and slops and buckled shoes

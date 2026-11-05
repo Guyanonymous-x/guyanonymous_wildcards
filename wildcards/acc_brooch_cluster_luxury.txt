@@ -10,11 +10,11 @@ __acc_adj_luxury__ animal brooch, made of __acc_brooch_mat_all_luxury__. It is a
 __acc_adj_luxury__ bar brooch, made of __acc_brooch_mat_all_luxury__. It is a slim straight pin with a decorative front.
 __acc_adj_luxury__ bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird.
 __acc_adj_luxury__ bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a ribbon bow.
-__acc_adj_luxury__ button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+__acc_adj_luxury__ button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
 __acc_adj_luxury__ cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait.
 __acc_adj_luxury__ circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre.
 __acc_adj_luxury__ cluster brooch, made of __acc_brooch_mat_all_luxury__. It is a pin set with a cluster of stones.
-__acc_adj_luxury__ enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+__acc_adj_luxury__ enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
 __acc_adj_luxury__ feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather.
 __acc_adj_luxury__ fibula brooch, made of __acc_brooch_mat_all_luxury__. It is an ancient safety-pin-style brooch, used to clasp a cloak.
 __acc_adj_luxury__ floral brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a flower.
@@ -44,8 +44,8 @@ a bespoke animal brooch, made of __acc_brooch_mat_all_luxury__. It is a pin in t
 a bespoke animal brooch, made of __acc_brooch_mat_all_luxury__. It is a pin in the shape of a small creature. It also includes __acc_brooch_practical__.
 a bespoke bar brooch, made of __acc_brooch_mat_all_luxury__. It is a slim straight pin with a decorative front.
 a bespoke bar brooch, made of __acc_brooch_mat_all_luxury__. It is a slim straight pin with a decorative front. It also includes __acc_brooch_practical__.
-a bespoke button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-a bespoke button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+a bespoke button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+a bespoke button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
 a bespoke feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather.
 a bespoke feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather. It also includes __acc_brooch_practical__.
 a bespoke insect brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a beetle, bee or dragonfly.
@@ -58,8 +58,8 @@ a bespoke stick pin, made of __acc_brooch_mat_all_luxury__. It is a long pin wit
 a bespoke stick pin, made of __acc_brooch_mat_all_luxury__. It is a long pin with a decorative head. It also includes __acc_brooch_practical__.
 a couture Georgian paste brooch, made of __acc_brooch_mat_all_luxury__. It is a brooch set with foil-backed paste stones.
 a couture Georgian paste brooch, made of __acc_brooch_mat_all_luxury__. It is a brooch set with foil-backed paste stones. It also includes __acc_brooch_practical__.
-a couture button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-a couture button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+a couture button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+a couture button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
 a couture cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait.
 a couture cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait. It also includes __acc_brooch_practical__.
 a couture feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather.
@@ -84,10 +84,10 @@ a decadent animal brooch, made of __acc_brooch_mat_all_luxury__. It is a pin in 
 a decadent animal brooch, made of __acc_brooch_mat_all_luxury__. It is a pin in the shape of a small creature. It also includes __acc_brooch_practical__.
 a decadent bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird.
 a decadent bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird. It also includes __acc_brooch_practical__.
-a decadent button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-a decadent button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
-a decadent enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-a decadent enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+a decadent button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+a decadent button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+a decadent enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+a decadent enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 a decadent hat pin, made of __acc_brooch_mat_all_luxury__. It is a long pin used to secure a hat.
 a decadent hat pin, made of __acc_brooch_mat_all_luxury__. It is a long pin used to secure a hat. It also includes __acc_brooch_practical__.
 a decadent mourning brooch, made of __acc_brooch_mat_all_luxury__. It is a dark brooch holding a lock of woven hair.
@@ -178,8 +178,8 @@ a heirloom-quality Russian enamel brooch, made of __acc_brooch_mat_all_luxury__.
 a heirloom-quality Russian enamel brooch, made of __acc_brooch_mat_all_luxury__. It is a brooch painted in bright shaded enamel. It also includes __acc_brooch_practical__.
 a heirloom-quality bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a ribbon bow.
 a heirloom-quality bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a ribbon bow. It also includes __acc_brooch_practical__.
-a heirloom-quality button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-a heirloom-quality button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+a heirloom-quality button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+a heirloom-quality button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
 a heirloom-quality cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait.
 a heirloom-quality cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait. It also includes __acc_brooch_practical__.
 a heirloom-quality feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather.
@@ -206,8 +206,8 @@ a lavish bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped l
 a lavish bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a ribbon bow. It also includes __acc_brooch_practical__.
 a lavish cluster brooch, made of __acc_brooch_mat_all_luxury__. It is a pin set with a cluster of stones.
 a lavish cluster brooch, made of __acc_brooch_mat_all_luxury__. It is a pin set with a cluster of stones. It also includes __acc_brooch_practical__.
-a lavish enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-a lavish enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+a lavish enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+a lavish enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 a lavish fibula brooch, made of __acc_brooch_mat_all_luxury__. It is an ancient safety-pin-style brooch, used to clasp a cloak.
 a lavish fibula brooch, made of __acc_brooch_mat_all_luxury__. It is an ancient safety-pin-style brooch, used to clasp a cloak. It also includes __acc_brooch_practical__.
 a lavish floral brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a flower.
@@ -226,12 +226,12 @@ a luxurious Mexican silver brooch, made of __acc_brooch_mat_all_luxury__. It is 
 a luxurious Mexican silver brooch, made of __acc_brooch_mat_all_luxury__. It is a hand-chased silver pin. It also includes __acc_brooch_practical__.
 a luxurious bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a ribbon bow.
 a luxurious bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a ribbon bow. It also includes __acc_brooch_practical__.
-a luxurious button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-a luxurious button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+a luxurious button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+a luxurious button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
 a luxurious cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait.
 a luxurious cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait. It also includes __acc_brooch_practical__.
-a luxurious enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-a luxurious enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+a luxurious enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+a luxurious enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 a luxurious fibula brooch, made of __acc_brooch_mat_all_luxury__. It is an ancient safety-pin-style brooch, used to clasp a cloak.
 a luxurious fibula brooch, made of __acc_brooch_mat_all_luxury__. It is an ancient safety-pin-style brooch, used to clasp a cloak. It also includes __acc_brooch_practical__.
 a luxurious insect brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a beetle, bee or dragonfly.
@@ -280,14 +280,14 @@ a masterfully made bird brooch, made of __acc_brooch_mat_all_luxury__. It is a p
 a masterfully made bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird. It also includes __acc_brooch_practical__.
 a masterfully made bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a ribbon bow.
 a masterfully made bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a ribbon bow. It also includes __acc_brooch_practical__.
-a masterfully made button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-a masterfully made button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+a masterfully made button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+a masterfully made button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
 a masterfully made circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre.
 a masterfully made circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre. It also includes __acc_brooch_practical__.
 a masterfully made cluster brooch, made of __acc_brooch_mat_all_luxury__. It is a pin set with a cluster of stones.
 a masterfully made cluster brooch, made of __acc_brooch_mat_all_luxury__. It is a pin set with a cluster of stones. It also includes __acc_brooch_practical__.
-a masterfully made enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-a masterfully made enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+a masterfully made enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+a masterfully made enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 a masterfully made fibula brooch, made of __acc_brooch_mat_all_luxury__. It is an ancient safety-pin-style brooch, used to clasp a cloak.
 a masterfully made fibula brooch, made of __acc_brooch_mat_all_luxury__. It is an ancient safety-pin-style brooch, used to clasp a cloak. It also includes __acc_brooch_practical__.
 a masterfully made floral brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a flower.
@@ -356,8 +356,8 @@ a plush animal brooch, made of __acc_brooch_mat_all_luxury__. It is a pin in the
 a plush animal brooch, made of __acc_brooch_mat_all_luxury__. It is a pin in the shape of a small creature. It also includes __acc_brooch_practical__.
 a plush circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre.
 a plush circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre. It also includes __acc_brooch_practical__.
-a plush enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-a plush enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+a plush enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+a plush enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 a plush fibula brooch, made of __acc_brooch_mat_all_luxury__. It is an ancient safety-pin-style brooch, used to clasp a cloak.
 a plush fibula brooch, made of __acc_brooch_mat_all_luxury__. It is an ancient safety-pin-style brooch, used to clasp a cloak. It also includes __acc_brooch_practical__.
 a plush lapel pin, made of __acc_brooch_mat_all_luxury__. It is a small pin worn on a jacket collar.
@@ -386,8 +386,8 @@ a prestigious animal brooch, made of __acc_brooch_mat_all_luxury__. It is a pin 
 a prestigious animal brooch, made of __acc_brooch_mat_all_luxury__. It is a pin in the shape of a small creature. It also includes __acc_brooch_practical__.
 a prestigious circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre.
 a prestigious circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre. It also includes __acc_brooch_practical__.
-a prestigious enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-a prestigious enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+a prestigious enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+a prestigious enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 a prestigious lapel pin, made of __acc_brooch_mat_all_luxury__. It is a small pin worn on a jacket collar.
 a prestigious lapel pin, made of __acc_brooch_mat_all_luxury__. It is a small pin worn on a jacket collar. It also includes __acc_brooch_practical__.
 a prestigious sculptural brooch, made of __acc_brooch_mat_all_luxury__. It is a large, art-like pin in mixed metals.
@@ -468,8 +468,8 @@ a regal cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin w
 a regal cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait. It also includes __acc_brooch_practical__.
 a regal circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre.
 a regal circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre. It also includes __acc_brooch_practical__.
-a regal enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-a regal enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+a regal enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+a regal enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 a regal lapel pin, made of __acc_brooch_mat_all_luxury__. It is a small pin worn on a jacket collar.
 a regal lapel pin, made of __acc_brooch_mat_all_luxury__. It is a small pin worn on a jacket collar. It also includes __acc_brooch_practical__.
 a regal luckenbooth brooch, made of __acc_brooch_mat_all_luxury__. It is a heart-shaped brooch topped with a crown.
@@ -492,8 +492,8 @@ a resplendent bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin sh
 a resplendent bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird. It also includes __acc_brooch_practical__.
 a resplendent bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a ribbon bow.
 a resplendent bow brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a ribbon bow. It also includes __acc_brooch_practical__.
-a resplendent button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-a resplendent button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+a resplendent button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+a resplendent button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
 a resplendent hat pin, made of __acc_brooch_mat_all_luxury__. It is a long pin used to secure a hat.
 a resplendent hat pin, made of __acc_brooch_mat_all_luxury__. It is a long pin used to secure a hat. It also includes __acc_brooch_practical__.
 a resplendent shawl pin, made of __acc_brooch_mat_all_luxury__. It is a long pin used to fasten a wrap.
@@ -568,8 +568,8 @@ a sophisticated beyond measure Viking tortoise brooch, made of __acc_brooch_mat_
 a sophisticated beyond measure Viking tortoise brooch, made of __acc_brooch_mat_all_luxury__. It is an oval dome brooch with a pierced openwork top. It also includes __acc_brooch_practical__.
 a sophisticated beyond measure bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird.
 a sophisticated beyond measure bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird. It also includes __acc_brooch_practical__.
-a sophisticated beyond measure button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-a sophisticated beyond measure button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+a sophisticated beyond measure button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+a sophisticated beyond measure button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
 a sophisticated beyond measure cluster brooch, made of __acc_brooch_mat_all_luxury__. It is a pin set with a cluster of stones.
 a sophisticated beyond measure cluster brooch, made of __acc_brooch_mat_all_luxury__. It is a pin set with a cluster of stones. It also includes __acc_brooch_practical__.
 a sophisticated beyond measure feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather.
@@ -592,10 +592,10 @@ a sublime Scottish kilt pin, made of __acc_brooch_mat_all_luxury__. It is a larg
 a sublime Scottish kilt pin, made of __acc_brooch_mat_all_luxury__. It is a large pin with a decorative head, worn on a kilt. It also includes __acc_brooch_practical__.
 a sublime bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird.
 a sublime bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird. It also includes __acc_brooch_practical__.
-a sublime button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-a sublime button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
-a sublime enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-a sublime enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+a sublime button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+a sublime button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+a sublime enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+a sublime enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 a sublime feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather.
 a sublime feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather. It also includes __acc_brooch_practical__.
 a sublime luckenbooth brooch, made of __acc_brooch_mat_all_luxury__. It is a heart-shaped brooch topped with a crown.
@@ -732,16 +732,16 @@ an exclusive Indian peacock brooch, made of __acc_brooch_mat_all_luxury__. It is
 an exclusive Indian peacock brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a peacock with enamelled feathers. It also includes __acc_brooch_practical__.
 an exclusive Viking tortoise brooch, made of __acc_brooch_mat_all_luxury__. It is an oval dome brooch with a pierced openwork top.
 an exclusive Viking tortoise brooch, made of __acc_brooch_mat_all_luxury__. It is an oval dome brooch with a pierced openwork top. It also includes __acc_brooch_practical__.
-an exclusive button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-an exclusive button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+an exclusive button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+an exclusive button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
 an exclusive cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait.
 an exclusive cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait. It also includes __acc_brooch_practical__.
 an exclusive circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre.
 an exclusive circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre. It also includes __acc_brooch_practical__.
 an exclusive cluster brooch, made of __acc_brooch_mat_all_luxury__. It is a pin set with a cluster of stones.
 an exclusive cluster brooch, made of __acc_brooch_mat_all_luxury__. It is a pin set with a cluster of stones. It also includes __acc_brooch_practical__.
-an exclusive enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-an exclusive enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+an exclusive enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+an exclusive enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 an exclusive feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather.
 an exclusive feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather. It also includes __acc_brooch_practical__.
 an exclusive fibula brooch, made of __acc_brooch_mat_all_luxury__. It is an ancient safety-pin-style brooch, used to clasp a cloak.
@@ -760,8 +760,8 @@ an exquisite bar brooch, made of __acc_brooch_mat_all_luxury__. It is a slim str
 an exquisite bar brooch, made of __acc_brooch_mat_all_luxury__. It is a slim straight pin with a decorative front. It also includes __acc_brooch_practical__.
 an exquisite circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre.
 an exquisite circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre. It also includes __acc_brooch_practical__.
-an exquisite enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-an exquisite enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+an exquisite enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+an exquisite enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 an exquisite floral brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a flower.
 an exquisite floral brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a flower. It also includes __acc_brooch_practical__.
 an exquisite leaf-spray brooch, made of __acc_brooch_mat_all_luxury__. It is a pin made of a spray of leaves.
@@ -778,12 +778,12 @@ an extraordinary bar brooch, made of __acc_brooch_mat_all_luxury__. It is a slim
 an extraordinary bar brooch, made of __acc_brooch_mat_all_luxury__. It is a slim straight pin with a decorative front. It also includes __acc_brooch_practical__.
 an extraordinary bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird.
 an extraordinary bird brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a bird. It also includes __acc_brooch_practical__.
-an extraordinary button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-an extraordinary button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+an extraordinary button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+an extraordinary button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
 an extraordinary circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre.
 an extraordinary circle brooch, made of __acc_brooch_mat_all_luxury__. It is a round pin with an open or filled centre. It also includes __acc_brooch_practical__.
-an extraordinary enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-an extraordinary enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+an extraordinary enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+an extraordinary enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 an extraordinary feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather.
 an extraordinary feather brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a feather. It also includes __acc_brooch_practical__.
 an extraordinary floral brooch, made of __acc_brooch_mat_all_luxury__. It is a pin shaped like a flower.
@@ -834,12 +834,12 @@ an opulent Georgian paste brooch, made of __acc_brooch_mat_all_luxury__. It is a
 an opulent Georgian paste brooch, made of __acc_brooch_mat_all_luxury__. It is a brooch set with foil-backed paste stones. It also includes __acc_brooch_practical__.
 an opulent animal brooch, made of __acc_brooch_mat_all_luxury__. It is a pin in the shape of a small creature.
 an opulent animal brooch, made of __acc_brooch_mat_all_luxury__. It is a pin in the shape of a small creature. It also includes __acc_brooch_practical__.
-an opulent button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
-an opulent button badge, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
+an opulent button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design.
+an opulent button patch, made of __acc_brooch_mat_all_luxury__. It is a round pin with a printed design. It also includes __acc_brooch_practical__.
 an opulent cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait.
 an opulent cameo brooch, made of __acc_brooch_mat_all_luxury__. It is an oval pin with a carved relief portrait. It also includes __acc_brooch_practical__.
-an opulent enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
-an opulent enamel pin badge, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
+an opulent enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp.
+an opulent enamel pin patch, made of __acc_brooch_mat_all_luxury__. It is a small hard-enamel pin with a clasp. It also includes __acc_brooch_practical__.
 an opulent hat pin, made of __acc_brooch_mat_all_luxury__. It is a long pin used to secure a hat.
 an opulent hat pin, made of __acc_brooch_mat_all_luxury__. It is a long pin used to secure a hat. It also includes __acc_brooch_practical__.
 an opulent mourning brooch, made of __acc_brooch_mat_all_luxury__. It is a dark brooch holding a lock of woven hair.

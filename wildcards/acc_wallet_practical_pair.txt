@@ -48,7 +48,7 @@ a concealed coin pocket and a neatly finished key loop
 a concealed coin pocket and a well-positioned business-card pocket
 a concealed key loop and a tough hidden ID window
 a concealed quick-access outer card slot and a business-card pocket
-a concealed quick-access outer card slot and a well-positioned tracker-tag pocket
+a concealed quick-access outer card slot and a well-positioned tracker-tab pocket
 a concealed receipt pocket and a secure pen loop
 a concealed receipt pocket and a smoothly working thumb notch
 a concealed receipt pocket and a tidy built-in bottle opener
@@ -113,12 +113,12 @@ a generously sized pull-tab card slot and a compact transparent photo window
 a generously sized pull-tab card slot and a handy pull-tab card slot
 a generously sized pull-tab card slot and a neatly finished slim profile that fits a front pocket
 a generously sized pull-tab card slot and a padded RFID-blocking lining
-a generously sized pull-tab card slot and a sturdy tracker-tag pocket
+a generously sized pull-tab card slot and a sturdy tracker-tab pocket
 a generously sized snap closure and a carefully lined snap closure
 a generously sized snap closure and a firmly attached thumb notch
-a generously sized tracker-tag pocket and a double-stitched wrist strap
-a generously sized tracker-tag pocket and a padded zippered coin compartment
-a generously sized tracker-tag pocket and a quick-access outer card slot
+a generously sized tracker-tab pocket and a double-stitched wrist strap
+a generously sized tracker-tab pocket and a padded zippered coin compartment
+a generously sized tracker-tab pocket and a quick-access outer card slot
 a generously sized tuck-away key hook and a secure slim profile that fits a front pocket
 a generously sized tuck-away key hook and sturdy RFID-blocking lining
 a generously sized wrist strap and a double-stitched card ejector
@@ -144,14 +144,14 @@ a handy pull-tab card slot and a roomy SIM-card slot
 a handy quick-access outer card slot and a neatly finished gusseted bill compartment
 a handy quick-pull card tab and a compact water-resistant finish
 a handy quick-pull card tab and a sturdy cash pocket
-a handy quick-pull card tab and a sturdy tracker-tag pocket
+a handy quick-pull card tab and a sturdy tracker-tab pocket
 a handy removable passport sleeve and a discreet pull-tab card slot
 a handy scratch-resistant coating and a concealed scratch-resistant coating
 a handy scratch-resistant coating and a firmly attached receipt pocket
 a handy scratch-resistant coating and a reinforced quick-pull card tab
 a handy scratch-resistant coating and a well-positioned tuck-away key hook
-a handy tracker-tag pocket and a generously sized tracker-tag pocket
-a handy tracker-tag pocket and a quietly useful pull-tab card slot
+a handy tracker-tab pocket and a generously sized tracker-tab pocket
+a handy tracker-tab pocket and a quietly useful pull-tab card slot
 a handy transparent photo window and a compact secret pocket
 a handy transparent photo window and a scratch-resistant coating
 a handy transparent photo window and an easily reached cash pocket
@@ -169,12 +169,12 @@ a hidden pen loop and tidy RFID-blocking lining
 a hidden receipt pocket and a thumb notch
 a hidden removable passport sleeve and a concealed water-resistant finish
 a hidden transparent photo window and a handy bill clip
-a hidden transparent photo window and a tracker-tag pocket
+a hidden transparent photo window and a tracker-tab pocket
 a hidden zippered coin compartment and a handy removable passport sleeve
 a hidden zippered coin compartment and a padded secret pocket
 a hidden zippered coin compartment and tidy RFID-blocking lining
 a magnetic closure and a well-positioned bill clip
-a neatly finished coin pocket and a sturdy tracker-tag pocket
+a neatly finished coin pocket and a sturdy tracker-tab pocket
 a neatly finished gusseted bill compartment and a carefully lined pull-tab card slot
 a neatly finished gusseted bill compartment and a firmly attached tracker pocket
 a neatly finished gusseted bill compartment and a thumb notch
@@ -221,18 +221,18 @@ a quietly useful slim profile that fits a front pocket and a tidy water-resistan
 a quietly useful slim profile that fits a front pocket and reinforced stitching
 a quietly useful snap closure and a generously sized bill clip
 a quietly useful snap closure and a padded tracker pocket
-a quietly useful tracker-tag pocket and a handy scratch-resistant coating
-a quietly useful tracker-tag pocket and neatly finished RFID-blocking lining
+a quietly useful tracker-tab pocket and a handy scratch-resistant coating
+a quietly useful tracker-tab pocket and neatly finished RFID-blocking lining
 a quietly useful wrist strap and a built-in bottle opener
 a quietly useful wrist strap and a well-positioned business-card pocket
-a quietly useful zippered coin compartment and a tough tracker-tag pocket
+a quietly useful zippered coin compartment and a tough tracker-tab pocket
 a receipt pocket and a cash pocket
 a receipt pocket and a compact quick-pull card tab
 a receipt pocket and a double-stitched card ejector
 a reinforced RFID-blocking lining and a concealed bill clip
 a reinforced RFID-blocking lining and a firmly attached receipt pocket
 a reinforced RFID-blocking lining and easily reached reinforced stitching
-a reinforced gusseted bill compartment and a secure tracker-tag pocket
+a reinforced gusseted bill compartment and a secure tracker-tab pocket
 a reinforced hidden ID window and a compact scratch-resistant coating
 a reinforced pen loop and a secure receipt pocket
 a reinforced quick-pull card tab and a padded secret pocket
@@ -265,14 +265,14 @@ a secure quick-pull card tab and a reinforced quick-pull card tab
 a secure quick-pull card tab and a well-positioned business-card pocket
 a secure quick-pull card tab and reinforced RFID-blocking lining
 a secure receipt pocket and a carefully lined quick-pull card tab
-a secure receipt pocket and a tracker-tag pocket
+a secure receipt pocket and a tracker-tab pocket
 a secure secret pocket and a compact quick-pull card tab
 a secure secret pocket and a smoothly working bill clip
 a secure slim profile that fits a front pocket and a tough tuck-away key hook
 a secure tracker pocket and a discreet business-card pocket
 a secure tracker pocket and a well-placed card ejector
 a secure tracker pocket and a well-positioned snap closure
-a secure tracker-tag pocket and a hidden pen loop
+a secure tracker-tab pocket and a hidden pen loop
 a secure transparent photo window and a quietly useful wrist strap
 a secure water-resistant finish and a well-placed tracker pocket
 a slim profile that fits a front pocket and a handy removable passport sleeve
@@ -282,7 +282,7 @@ a slim quick-access outer card slot and a tough snap closure
 a slim quick-pull card tab and a firmly attached thumb notch
 a slim profile that fits a front pocket and a tough hidden receipt pocket
 a slim transparent photo window and a generously sized pull-tab card slot
-a slim transparent photo window and a handy tracker-tag pocket
+a slim transparent photo window and a handy tracker-tab pocket
 a slim tuck-away key hook and a secure tracker pocket
 a slim wrist strap and a handy secret pocket
 a slim wrist strap and a handy zippered compartment
@@ -311,9 +311,9 @@ a sturdy key loop and a hidden ID window
 a sturdy key loop and a hidden elastic cash band
 a sturdy key loop and a secure transparent photo window
 a sturdy slim profile that fits a front pocket and an RFID-blocking lining
-a sturdy tracker-tag pocket and a generously sized gusseted bill compartment
-a sturdy tracker-tag pocket and a well-placed cash pocket
-a sturdy tracker-tag pocket and a well-placed coin pocket
+a sturdy tracker-tab pocket and a generously sized gusseted bill compartment
+a sturdy tracker-tab pocket and a well-placed cash pocket
+a sturdy tracker-tab pocket and a well-placed coin pocket
 a sturdy wrist strap and a card ejector
 a sturdy wrist strap and a firmly attached tuck-away key hook
 a sturdy wrist strap and a sturdy SIM-card slot
@@ -327,7 +327,7 @@ a thumb notch and an elastic cash band
 a tidy built-in bottle opener and an unobtrusive bill clip
 a tidy cash pocket and a discreet scratch-resistant coating
 a tidy coin pocket and a carefully lined pull-tab card slot
-a tidy coin pocket and a compact tracker-tag pocket
+a tidy coin pocket and a compact tracker-tab pocket
 a tidy coin pocket and a concealed cash pocket
 a tidy pull-tab card slot and a bill clip
 a tidy pull-tab card slot and a discreet hidden receipt pocket
@@ -364,15 +364,15 @@ a tough pull-tab card slot and an easily reached gusseted bill compartment
 a tough quick-access outer card slot and a generously sized card ejector
 a tough quick-access outer card slot and a handy scratch-resistant coating
 a tough quick-access outer card slot and a tidy receipt pocket
-a tough quick-access outer card slot and a well-positioned tracker-tag pocket
+a tough quick-access outer card slot and a well-positioned tracker-tab pocket
 a tough snap closure and a reinforced quick-pull card tab
-a tough tracker-tag pocket and an easily reached pen loop
+a tough tracker-tab pocket and an easily reached pen loop
 a tracker pocket and a discreet scratch-resistant coating
 a tracker pocket and a tidy wrist strap
 a tracker pocket and a well-placed card ejector
 a tracker pocket and a well-positioned cash pocket
-a tracker-tag pocket and a hidden pull-tab card slot
-a tracker-tag pocket and a slim profile that fits a front pocket
+a tracker-tab pocket and a hidden pull-tab card slot
+a tracker-tab pocket and a slim profile that fits a front pocket
 a transparent photo window and a quietly useful wrist strap
 a transparent photo window and a well-positioned transparent photo window
 a transparent photo window and a well-positioned water-resistant finish
@@ -389,7 +389,7 @@ a well-placed business-card pocket and a discreet slim profile that fits a front
 a well-placed business-card pocket and a water-resistant finish
 a well-placed business-card pocket and a well-placed quick-pull card tab
 a well-placed cash pocket and a concealed key loop
-a well-placed coin pocket and a generously sized tracker-tag pocket
+a well-placed coin pocket and a generously sized tracker-tab pocket
 a well-placed coin pocket and a secret pocket
 a well-placed coin pocket and an easily reached gusseted bill compartment
 a well-placed elastic cash band and a neatly finished gusseted bill compartment
@@ -423,8 +423,8 @@ a well-positioned slim profile that fits a front pocket and a padded magnetic cl
 a well-positioned slim profile that fits a front pocket and a slim bill clip
 a well-positioned slim profile that fits a front pocket and an unobtrusive key loop
 a well-positioned snap closure and a firmly attached transparent photo window
-a well-positioned tracker-tag pocket and an easily reached removable passport sleeve
-a well-positioned tracker-tag pocket and handy RFID-blocking lining
+a well-positioned tracker-tab pocket and an easily reached removable passport sleeve
+a well-positioned tracker-tab pocket and handy RFID-blocking lining
 a well-positioned transparent photo window and a tidy water-resistant finish
 a well-positioned tuck-away key hook and a concealed tuck-away key hook
 a well-positioned tuck-away key hook and a roomy quick-access outer card slot
@@ -434,7 +434,7 @@ a well-positioned zippered coin compartment and a carefully lined card ejector
 a well-positioned zippered coin compartment and a carefully lined snap closure
 a well-positioned zippered coin compartment and a hidden pen loop
 a well-positioned zippered coin compartment and an easily reached key loop
-a wrist strap and a quietly useful tracker-tag pocket
+a wrist strap and a quietly useful tracker-tab pocket
 a zippered coin compartment and a roomy coin pocket
 a zippered compartment and a handy scratch-resistant coating
 an RFID-blocking lining and a carefully lined quick-access outer card slot
@@ -462,7 +462,7 @@ an elastic cash band and a well-positioned snap closure
 an elastic cash band and easily reached reinforced stitching
 an unobtrusive SIM-card slot and a firmly attached secret pocket
 an unobtrusive SIM-card slot and a roomy quick-access outer card slot
-an unobtrusive SIM-card slot and a sturdy tracker-tag pocket
+an unobtrusive SIM-card slot and a sturdy tracker-tab pocket
 an unobtrusive bill clip and a well-placed business-card pocket
 an unobtrusive pen loop and a concealed key loop
 an unobtrusive quick-access outer card slot and an easily reached key loop

@@ -1,23 +1,23 @@
-a banner at a festival, rainbow-coloured, hand-made and slightly uneven
-a banner at a festival, turquoise, freshly polished
-a banner on a pole, blue, wet with rain
-a banner on a pole, chrome, heavily worn and scratched
-a banner on a pole, two-tone, brand new and spotless
+a cloth pennant at a festival, rainbow-coloured, hand-made and slightly uneven
+a cloth pennant at a festival, turquoise, freshly polished
+a cloth pennant on a pole, blue, wet with rain
+a cloth pennant on a pole, chrome, heavily worn and scratched
+a cloth pennant on a pole, two-tone, brand new and spotless
 a barber pole, brown, wrapped in protective cover
 a barber pole, copper, rusted at the edges
 a barber pole, navy, dusty from storage
 a barber pole, teal, hand-made and slightly uneven
-a billboard, black, battered but working
-a billboard, gold, brand new and spotless
-a billboard, neon, covered in mud
-a billboard, pastel, dusty from storage
-a billboard, red, antique with a patina
-a bus-stop sign, blue, brand new and spotless
-a bus-stop sign, burgundy, wet with rain
-a bus-stop sign, grey, freshly polished
-a bus-stop sign, orange, wrapped in protective cover
-a bus-stop sign, purple, covered in mud
-a bus-stop sign, teal, decorated with stickers
+a large painted panel, black, battered but working
+a large painted panel, gold, brand new and spotless
+a large painted panel, neon, covered in mud
+a large painted panel, pastel, dusty from storage
+a large painted panel, red, antique with a patina
+a bus-stop lit panel, blue, brand new and spotless
+a bus-stop lit panel, burgundy, wet with rain
+a bus-stop lit panel, grey, freshly polished
+a bus-stop lit panel, orange, wrapped in protective cover
+a bus-stop lit panel, purple, covered in mud
+a bus-stop lit panel, teal, decorated with stickers
 a chalkboard menu, chrome, covered in frost
 a chalkboard menu, matte black, faded by sun
 a chalkboard menu, speckled, restored to showroom finish
@@ -34,17 +34,17 @@ a fabric shop flag, black, freshly polished
 a fabric shop flag, rainbow-coloured, faded by sun
 a flag on a mast, gold, covered in mud
 a flag on a mast, striped, wrapped in protective cover
-a graffiti tag, brown, brand new and spotless
-a graffiti tag, cream, hand-made and slightly uneven
-a graffiti tag, grey, wet with rain
-a graffiti tag, pink, decorated with stickers
-a graffiti tag, turquoise, dusty from storage
-a hand-painted shop sign, burgundy, antique with a patina
-a hand-painted shop sign, chrome, covered in mud
-a hand-painted shop sign, copper, restored to showroom finish
-a hand-painted shop sign, pastel, wet with rain
-a hand-painted shop sign, pink, freshly polished
-a hand-painted shop sign, two-tone, covered in frost
+a spray-painted shapes tab, brown, brand new and spotless
+a spray-painted shapes tab, cream, hand-made and slightly uneven
+a spray-painted shapes tab, grey, wet with rain
+a spray-painted shapes tab, pink, decorated with stickers
+a spray-painted shapes tab, turquoise, dusty from storage
+a hand-painted shop lit panel, burgundy, antique with a patina
+a hand-painted shop lit panel, chrome, covered in mud
+a hand-painted shop lit panel, copper, restored to showroom finish
+a hand-painted shop lit panel, pastel, wet with rain
+a hand-painted shop lit panel, pink, freshly polished
+a hand-painted shop lit panel, two-tone, covered in frost
 a lantern with a name, chrome, dusty from storage
 a lantern with a name, matte black, restored to showroom finish
 a lantern with a name, navy, faded by sun
@@ -53,47 +53,47 @@ a lantern with a name, pastel, antique with a patina
 a lantern with a name, pink, rusted at the edges
 a lantern with a name, purple, hand-made and slightly uneven
 a lantern with a name, teal, battered but working
-a menu board, grey, freshly polished
-a menu board, pastel, rusted at the edges
-a menu board, speckled, antique with a patina
-a menu board, white, faded by sun
-a menu board, yellow, dusty from storage
-a mural lettering, neon, faded by sun
-a mural lettering, purple, antique with a patina
-a neon open sign, purple, covered in frost
-a neon open sign, purple, restored to showroom finish
-a neon open sign, striped, heavily worn and scratched
-a neon open sign, white, hand-made and slightly uneven
-a no-entry sign, burgundy, rusted at the edges
-a no-entry sign, red, dusty from storage
-a no-entry sign, striped, hand-made and slightly uneven
-a no-entry sign, turquoise, faded by sun
+a glowing panel, grey, freshly polished
+a glowing panel, pastel, rusted at the edges
+a glowing panel, speckled, antique with a patina
+a glowing panel, white, faded by sun
+a glowing panel, yellow, dusty from storage
+a mural pattern, neon, faded by sun
+a mural pattern, purple, antique with a patina
+a neon open lit panel, purple, covered in frost
+a neon open lit panel, purple, restored to showroom finish
+a neon open lit panel, striped, heavily worn and scratched
+a neon open lit panel, white, hand-made and slightly uneven
+a no-entry lit panel, burgundy, rusted at the edges
+a no-entry lit panel, red, dusty from storage
+a no-entry lit panel, striped, hand-made and slightly uneven
+a no-entry lit panel, turquoise, faded by sun
 a pennant string, blue, wrapped in protective cover
 a pennant string, copper, covered in mud
 a pennant string, teal, hand-made and slightly uneven
-a pharmacy cross sign, blue, covered in frost
-a pharmacy cross sign, purple, well used with light wear
-a pharmacy cross sign, white, heavily worn and scratched
-a protest placard, cream, hand-made and slightly uneven
-a protest placard, red, faded by sun
-a protest placard, two-tone, rusted at the edges
-a pub hanging sign, green, dusty from storage
-a pub hanging sign, navy, wet with rain
-a pub hanging sign, pink, well used with light wear
-a pub hanging sign, red, wrapped in protective cover
-a pub hanging sign, white, rusted at the edges
-a pub hanging sign, yellow, restored to showroom finish
+a pharmacy cross lit panel, blue, covered in frost
+a pharmacy cross lit panel, purple, well used with light wear
+a pharmacy cross lit panel, white, heavily worn and scratched
+a protest plain board, cream, hand-made and slightly uneven
+a protest plain board, red, faded by sun
+a protest plain board, two-tone, rusted at the edges
+a pub hanging lit panel, green, dusty from storage
+a pub hanging lit panel, navy, wet with rain
+a pub hanging lit panel, pink, well used with light wear
+a pub hanging lit panel, red, wrapped in protective cover
+a pub hanging lit panel, white, rusted at the edges
+a pub hanging lit panel, yellow, restored to showroom finish
 a ship's nameplate, black, covered in mud
 a ship's nameplate, copper, rusted at the edges
 a ship's nameplate, matte black, decorated with stickers
 a ship's nameplate, matte black, well used with light wear
 a ship's nameplate, neon, faded by sun
-a stone engraved sign, black, dusty from storage
-a stone engraved sign, silver, brand new and spotless
-a street-name sign, brown, hand-made and slightly uneven
-a street-name sign, burgundy, covered in mud
-a street-name sign, chrome, freshly polished
-a street-name sign, green, dusty from storage
+a stone engraved lit panel, black, dusty from storage
+a stone engraved lit panel, silver, brand new and spotless
+a street-name lit panel, brown, hand-made and slightly uneven
+a street-name lit panel, burgundy, covered in mud
+a street-name lit panel, chrome, freshly polished
+a street-name lit panel, green, dusty from storage
 a vintage tin advertisement, black, battered but working
 a vintage tin advertisement, brown, dusty from storage
 a vintage tin advertisement, chrome, heavily worn and scratched
@@ -108,12 +108,12 @@ a window decal, black, well used with light wear
 a window decal, brown, heavily worn and scratched
 a window decal, purple, rusted at the edges
 a window decal, speckled, antique with a patina
-a wooden road sign, copper, covered in frost
-a wooden road sign, neon, heavily worn and scratched
-a wooden road sign, orange, covered in mud
-a wooden road sign, purple, rusted at the edges
-a wooden road sign, speckled, battered but working
-an exit sign, black, wrapped in protective cover
-an exit sign, neon, rusted at the edges
-an exit sign, pink, brand new and spotless
-an exit sign, silver, freshly polished
+a wooden road lit panel, copper, covered in frost
+a wooden road lit panel, neon, heavily worn and scratched
+a wooden road lit panel, orange, covered in mud
+a wooden road lit panel, purple, rusted at the edges
+a wooden road lit panel, speckled, battered but working
+an exit lit panel, black, wrapped in protective cover
+an exit lit panel, neon, rusted at the edges
+an exit lit panel, pink, brand new and spotless
+an exit lit panel, silver, freshly polished

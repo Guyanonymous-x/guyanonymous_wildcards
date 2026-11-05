@@ -1,10 +1,10 @@
 A black tunic with a red stripe and white cross-belts, dark trousers, a bicorne hat, boots, the full outfit of a carabiniere in a masculine cut
 A dark blue tunic with a kepi, blue trousers, a kepi, black boots, the full outfit of a gendarme in a masculine cut
 A dark robe over a suit, polished shoes, the full outfit of a bailiff in a masculine cut
-A dark shirt with a badge, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap, black boots, the full outfit of a police officer in a masculine cut
+A dark shirt with a patch, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap, black boots, the full outfit of a police officer in a masculine cut
 A dark tunic with silver buttons and a whistle chain, dark trousers, a tall custodian helmet, black boots, the full outfit of a British bobby in a masculine cut
 A double-breasted tunic with brass buttons and a wide belt, dark trousers, a tall leather helmet, boots, the full outfit of a Victorian fireman in a masculine cut
-A green shirt with a badge and a flat-brimmed hat, olive trousers, a flat-brimmed hat, hiking boots, the full outfit of a park ranger in a masculine cut
+A green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat, hiking boots, the full outfit of a park ranger in a masculine cut
 A heavy blast suit, a blast helmet with a visor, heavy boots, the full outfit of a bomb disposal technician in a masculine cut
 A heavy turnout coat with reflective bands and braces, fire-resistant overtrousers, a helmet with a visor, steel-toed boots, the full outfit of a firefighter in a masculine cut
 A high-visibility jacket with white gloves, dark trousers, a reflective cap, boots, the full outfit of a traffic officer in a masculine cut
@@ -18,7 +18,7 @@ A person dressed as a British bobby in a masculine cut (London, 20th century), w
 A person dressed as a Hong Kong colonial police in a masculine cut (1960s), with a khaki shirt with a Sam Browne belt, khaki shorts, a peaked cap and black shoes and long socks, in a masculine cut with a roomy chest and shoulders
 A person dressed as a Mountie in a masculine cut (Canada), which is a scarlet serge tunic with brass buttons and a Sam Browne belt, navy breeches with a yellow stripe, a broad-brimmed campaign hat and tall brown boots, in a masculine cut with a roomy chest and shoulders
 A person dressed as a SWAT team member in a masculine cut (modern), with a tactical vest with pouches, combat trousers, a helmet and balaclava and boots, cut for a masculine frame with broad shoulders
-A person dressed as a Texas ranger in a masculine cut (American West), with a vest with a star badge, a long coat and a string tie, pressed trousers, a cream Stetson and boots, in a masculine cut with a roomy chest and shoulders
+A person dressed as a Texas ranger in a masculine cut (American West), with a vest with a star patch, a long coat and a string tie, pressed trousers, a cream Stetson and boots, in a masculine cut with a roomy chest and shoulders
 A person dressed as a Victorian fireman in a masculine cut (19th century), with a double-breasted tunic with brass buttons and a wide belt, dark trousers, a tall leather helmet and boots, in a masculine cut with a roomy chest and shoulders
 A person dressed as a bailiff in a masculine cut (court), which is a dark robe over a suit and polished shoes, cut for a masculine frame with broad shoulders
 A person dressed as a bomb disposal technician in a masculine cut (modern), with a heavy blast suit, a blast helmet with a visor and heavy boots, tailored in a masculine cut with a straight waist
@@ -32,11 +32,11 @@ A person dressed as a gendarme in a masculine cut (France), which is a dark blue
 A person dressed as a lifeguard in a masculine cut (beach), which is a red swimsuit top with a whistle and a rescue vest, red shorts, a cap and bare feet, in a masculine cut with a roomy chest and shoulders
 A person dressed as a mountain rescue volunteer in a masculine cut (mountains), with an orange shell jacket with a harness, waterproof trousers, a climbing helmet and mountain boots, cut for a masculine frame with broad shoulders
 A person dressed as a mounted police in a masculine cut (ceremonial), with a scarlet tunic with gold braid, riding breeches, a peaked helmet and tall black boots, in a masculine cut with a roomy chest and shoulders
-A person dressed as a park ranger in a masculine cut (national park), with a green shirt with a badge and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, cut for a masculine frame with broad shoulders
-A person dressed as a police officer in a masculine cut (modern), with a dark shirt with a badge, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap and black boots, tailored in a masculine cut with a straight waist
+A person dressed as a park ranger in a masculine cut (national park), with a green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, cut for a masculine frame with broad shoulders
+A person dressed as a police officer in a masculine cut (modern), with a dark shirt with a patch, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap and black boots, tailored in a masculine cut with a straight waist
 A person dressed as a prison guard in a masculine cut (modern), with a pale blue shirt with a duty belt, dark trousers and boots, tailored in a masculine cut with a straight waist
 A person dressed as a search and rescue dog handler in a masculine cut (outdoors), with a high-visibility vest with a harness, cargo trousers, a bush hat and hiking boots, tailored in a masculine cut with a straight waist
-A person dressed as a sheriff in a masculine cut (American West), with a vest with a star badge over a plaid shirt, jeans, a wide-brimmed hat and spurred boots, cut for a masculine frame with broad shoulders
+A person dressed as a sheriff in a masculine cut (American West), with a vest with a star patch over a plaid shirt, jeans, a wide-brimmed hat and spurred boots, cut for a masculine frame with broad shoulders
 A person dressed as a sheriff's deputy in a masculine cut (modern), with a tan uniform shirt with a star, dark green trousers, a campaign hat and boots, cut for a masculine frame with broad shoulders
 A person dressed as a smoke jumper in a masculine cut (forest fire), with a padded jumpsuit with a harness, a helmet with a face mask and boots, tailored in a masculine cut with a straight waist
 A person dressed as a traffic officer in a masculine cut (road), with a high-visibility jacket with white gloves, dark trousers, a reflective cap and boots, cut for a masculine frame with broad shoulders
@@ -47,8 +47,8 @@ A scarlet serge tunic with brass buttons and a Sam Browne belt, navy breeches wi
 A scarlet tunic with gold braid, riding breeches, a peaked helmet, tall black boots, the full outfit of a mounted police in a masculine cut
 A tactical vest with pouches, combat trousers, a helmet and balaclava, boots, the full outfit of a SWAT team member in a masculine cut
 A tan uniform shirt with a star, dark green trousers, a campaign hat, boots, the full outfit of a sheriff's deputy in a masculine cut
-A vest with a star badge over a plaid shirt, jeans, a wide-brimmed hat, spurred boots, the full outfit of a sheriff in a masculine cut
-A vest with a star badge, a long coat and a string tie, pressed trousers, a cream Stetson, boots, the full outfit of a Texas ranger in a masculine cut
+A vest with a star patch over a plaid shirt, jeans, a wide-brimmed hat, spurred boots, the full outfit of a sheriff in a masculine cut
+A vest with a star patch, a long coat and a string tie, pressed trousers, a cream Stetson, boots, the full outfit of a Texas ranger in a masculine cut
 A white disposable coverall with gloves, a hood and mask, shoe covers, the full outfit of a crime scene investigator in a masculine cut
 A yellow flame-resistant shirt and a webbing harness, green flame-resistant trousers, a hard hat, leather boots, the full outfit of a wildland firefighter in a masculine cut
 An orange shell jacket with a harness, waterproof trousers, a climbing helmet, mountain boots, the full outfit of a mountain rescue volunteer in a masculine cut
@@ -70,11 +70,11 @@ a SWAT team member in a masculine cut (modern), in a tactical vest with pouches 
 a SWAT team member in a masculine cut (modern), wearing a tactical vest with pouches, combat trousers, a helmet and balaclava and boots, cut for a masculine frame with broad shoulders
 a SWAT team member in a masculine cut (modern), wearing a tactical vest with pouches, combat trousers, a helmet and balaclava and boots, cut for a masculine frame with broad shoulders and carrying a shield
 a SWAT team member in a masculine cut, dressed in a tactical vest with pouches with combat trousers
-a Texas ranger in a masculine cut (American West), in a vest with a star badge, a long coat and a string tie and a cream Stetson
-a Texas ranger in a masculine cut (American West), in a vest with a star badge, a long coat and a string tie and pressed trousers and boots
-a Texas ranger in a masculine cut (American West), wearing a vest with a star badge, a long coat and a string tie, pressed trousers, a cream Stetson and boots, in a masculine cut with a roomy chest and shoulders
-a Texas ranger in a masculine cut (American West), wearing a vest with a star badge, a long coat and a string tie, pressed trousers, a cream Stetson and boots, in a masculine cut with a roomy chest and shoulders and carrying a lasso
-a Texas ranger in a masculine cut, dressed in a vest with a star badge, a long coat and a string tie with pressed trousers
+a Texas ranger in a masculine cut (American West), in a vest with a star patch, a long coat and a string tie and a cream Stetson
+a Texas ranger in a masculine cut (American West), in a vest with a star patch, a long coat and a string tie and pressed trousers and boots
+a Texas ranger in a masculine cut (American West), wearing a vest with a star patch, a long coat and a string tie, pressed trousers, a cream Stetson and boots, in a masculine cut with a roomy chest and shoulders
+a Texas ranger in a masculine cut (American West), wearing a vest with a star patch, a long coat and a string tie, pressed trousers, a cream Stetson and boots, in a masculine cut with a roomy chest and shoulders and carrying a lasso
+a Texas ranger in a masculine cut, dressed in a vest with a star patch, a long coat and a string tie with pressed trousers
 a Victorian fireman in a masculine cut (19th century), in a double-breasted tunic with brass buttons and a wide belt and a tall leather helmet
 a Victorian fireman in a masculine cut (19th century), in a double-breasted tunic with brass buttons and a wide belt and dark trousers and boots
 a Victorian fireman in a masculine cut (19th century), wearing a double-breasted tunic with brass buttons and a wide belt, dark trousers, a tall leather helmet and boots, in a masculine cut with a roomy chest and shoulders
@@ -137,16 +137,16 @@ a mounted police in a masculine cut (ceremonial), in a scarlet tunic with gold b
 a mounted police in a masculine cut (ceremonial), wearing a scarlet tunic with gold braid, riding breeches, a peaked helmet and tall black boots, in a masculine cut with a roomy chest and shoulders
 a mounted police in a masculine cut (ceremonial), wearing a scarlet tunic with gold braid, riding breeches, a peaked helmet and tall black boots, in a masculine cut with a roomy chest and shoulders and carrying a lance
 a mounted police in a masculine cut, dressed in a scarlet tunic with gold braid with riding breeches
-a park ranger in a masculine cut (national park), in a green shirt with a badge and a flat-brimmed hat and a flat-brimmed hat
-a park ranger in a masculine cut (national park), in a green shirt with a badge and a flat-brimmed hat and olive trousers and hiking boots
-a park ranger in a masculine cut (national park), wearing a green shirt with a badge and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, cut for a masculine frame with broad shoulders
-a park ranger in a masculine cut (national park), wearing a green shirt with a badge and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, cut for a masculine frame with broad shoulders and carrying a field guide
-a park ranger in a masculine cut, dressed in a green shirt with a badge and a flat-brimmed hat with olive trousers
-a police officer in a masculine cut (modern), in a dark shirt with a badge, shoulder patches, an utility belt and a radio and a peaked cap
-a police officer in a masculine cut (modern), in a dark shirt with a badge, shoulder patches, an utility belt and a radio and dark trousers and black boots
-a police officer in a masculine cut (modern), wearing a dark shirt with a badge, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap and black boots, tailored in a masculine cut with a straight waist
-a police officer in a masculine cut (modern), wearing a dark shirt with a badge, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap and black boots, tailored in a masculine cut with a straight waist and carrying a notebook
-a police officer in a masculine cut, dressed in a dark shirt with a badge, shoulder patches, an utility belt and a radio with dark trousers
+a park ranger in a masculine cut (national park), in a green shirt with a patch and a flat-brimmed hat and a flat-brimmed hat
+a park ranger in a masculine cut (national park), in a green shirt with a patch and a flat-brimmed hat and olive trousers and hiking boots
+a park ranger in a masculine cut (national park), wearing a green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, cut for a masculine frame with broad shoulders
+a park ranger in a masculine cut (national park), wearing a green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, cut for a masculine frame with broad shoulders and carrying a field guide
+a park ranger in a masculine cut, dressed in a green shirt with a patch and a flat-brimmed hat with olive trousers
+a police officer in a masculine cut (modern), in a dark shirt with a patch, shoulder patches, an utility belt and a radio and a peaked cap
+a police officer in a masculine cut (modern), in a dark shirt with a patch, shoulder patches, an utility belt and a radio and dark trousers and black boots
+a police officer in a masculine cut (modern), wearing a dark shirt with a patch, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap and black boots, tailored in a masculine cut with a straight waist
+a police officer in a masculine cut (modern), wearing a dark shirt with a patch, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap and black boots, tailored in a masculine cut with a straight waist and carrying a notebook
+a police officer in a masculine cut, dressed in a dark shirt with a patch, shoulder patches, an utility belt and a radio with dark trousers
 a prison guard in a masculine cut (modern), in a pale blue shirt with a duty belt and dark trousers and boots
 a prison guard in a masculine cut (modern), wearing a pale blue shirt with a duty belt, dark trousers and boots, tailored in a masculine cut with a straight waist
 a prison guard in a masculine cut (modern), wearing a pale blue shirt with a duty belt, dark trousers and boots, tailored in a masculine cut with a straight waist and carrying a key ring
@@ -156,11 +156,11 @@ a search and rescue dog handler in a masculine cut (outdoors), in a high-visibil
 a search and rescue dog handler in a masculine cut (outdoors), wearing a high-visibility vest with a harness, cargo trousers, a bush hat and hiking boots, tailored in a masculine cut with a straight waist
 a search and rescue dog handler in a masculine cut (outdoors), wearing a high-visibility vest with a harness, cargo trousers, a bush hat and hiking boots, tailored in a masculine cut with a straight waist and carrying a long lead
 a search and rescue dog handler in a masculine cut, dressed in a high-visibility vest with a harness with cargo trousers
-a sheriff in a masculine cut (American West), in a vest with a star badge over a plaid shirt and a wide-brimmed hat
-a sheriff in a masculine cut (American West), in a vest with a star badge over a plaid shirt and jeans and spurred boots
-a sheriff in a masculine cut (American West), wearing a vest with a star badge over a plaid shirt, jeans, a wide-brimmed hat and spurred boots, cut for a masculine frame with broad shoulders
-a sheriff in a masculine cut (American West), wearing a vest with a star badge over a plaid shirt, jeans, a wide-brimmed hat and spurred boots, cut for a masculine frame with broad shoulders and carrying a lawman's rope
-a sheriff in a masculine cut, dressed in a vest with a star badge over a plaid shirt with jeans
+a sheriff in a masculine cut (American West), in a vest with a star patch over a plaid shirt and a wide-brimmed hat
+a sheriff in a masculine cut (American West), in a vest with a star patch over a plaid shirt and jeans and spurred boots
+a sheriff in a masculine cut (American West), wearing a vest with a star patch over a plaid shirt, jeans, a wide-brimmed hat and spurred boots, cut for a masculine frame with broad shoulders
+a sheriff in a masculine cut (American West), wearing a vest with a star patch over a plaid shirt, jeans, a wide-brimmed hat and spurred boots, cut for a masculine frame with broad shoulders and carrying a lawman's rope
+a sheriff in a masculine cut, dressed in a vest with a star patch over a plaid shirt with jeans
 a sheriff's deputy in a masculine cut (modern), in a tan uniform shirt with a star and a campaign hat
 a sheriff's deputy in a masculine cut (modern), in a tan uniform shirt with a star and dark green trousers and boots
 a sheriff's deputy in a masculine cut (modern), wearing a tan uniform shirt with a star, dark green trousers, a campaign hat and boots, cut for a masculine frame with broad shoulders

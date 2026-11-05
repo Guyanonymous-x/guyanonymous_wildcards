@@ -3,6 +3,16 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 97",
+   [
+    "Library-wide text audit (STANDING_RULES section 0): about 63,000 lines in 2,587 files mentioned signs, posters, banners, graffiti, labels, tags, badges, logos, lettering, inscriptions or slogans without saying what text appears, so the image model invented words. They now use plain visual nouns (lit panel, picture panel, cloth pennant, spray-painted shapes, tab, patch, motif, stitched border).",
+    "Engraved names, stamped initials and monograms in accessory files now carry quoted invented text from the name system, for example the name \"__name_person__\" or the letters \"__name_initial__ __name_initial__\", so a wildcard expands to real quoted text you can edit.",
+    "About 150 remaining text denials ('no text', 'no words') were removed.",
+    "Not changed on purpose: badge, pin, patch and sticker files (their items are meant to carry defined text), sign_* and text_* files, and the name system.",
+    "A 40-image prompt showcase at 1024 and 1408 pixel counts, steps 50, cfg 3.75, no trailing blank line, and 100 random sample prompts."
+   ]
+  ],
+  [
    "Version 96",
    [
     "Removed every 'no other words or letters', 'nothing else' and 'no readable text' style negation from the brand styles and the name system (about 5,900 lines). The model notes say negations did not help and that naming words, letters and labels invites lettering; the technical report says training captions quote visible text verbatim, so the prompts now quote the text that should appear and say nothing about text that should not.",

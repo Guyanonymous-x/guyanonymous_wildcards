@@ -8,7 +8,7 @@ A blazer with a lanyard, trousers, shoes, the full outfit of a museum guide, wit
 A blue military coat, trousers, boots, the full outfit of a blue-coat staff officer, with golden olive skin
 A braided jacket with a fur-trimmed pelisse, tight breeches, a shako, tall boots, the full outfit of a Napoleonic hussar, with golden olive skin
 A brass-buttoned waistcoat with goggles and gears, breeches, a top hat with goggles, boots, the full outfit of a steampunk inventor, with golden olive skin
-A dark shirt with a badge, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap, black boots, the full outfit of a police officer, with golden olive skin
+A dark shirt with a patch, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap, black boots, the full outfit of a police officer, with golden olive skin
 A denim jacket, a red neckerchief and pinstripe overalls, overalls, a striped engineer's cap, work boots, the full outfit of a steam locomotive engineer, with golden olive skin
 A dirndl with an apron, shoes, the full outfit of a Bavarian beer maid, with golden olive skin
 A doublet with a plaid sash, a kilt, a feather bonnet, buckled brogues, the full outfit of a Scottish Highland soldier, with golden olive skin
@@ -122,7 +122,7 @@ A person dressed as a paladin (fantasy), which is a shining breastplate with a t
 A person dressed as a pantomime dame (theatre), which is a huge flowered dress with a bonnet, a gaudy wig and boots, with golden olive skin
 A person dressed as a paratrooper (WWII-era), which is a camouflage smock, webbing and a parachute harness, baggy trousers, a helmet and jump boots, with golden olive skin
 A person dressed as a pastry chef (bakery), which is a white jacket with a small cravat, trousers, a skull cap and clogs, with golden olive skin
-A person dressed as a pharmacist (pharmacy), which is a white lab coat over a shirt with a name badge, dark trousers and black shoes, with golden olive skin
+A person dressed as a pharmacist (pharmacy), which is a white lab coat over a shirt with a name patch, dark trousers and black shoes, with golden olive skin
 A person dressed as a pizza costume wearer (party), which is a round pizza suit, with golden olive skin
 A person dressed as a postmaster (village), which is a double-breasted jacket, trousers, a peaked cap and shoes, with golden olive skin
 A person dressed as a powered-armour engineer hero (superhero), with a segmented metal armour suit with glowing vents, a helmet and boots, with golden olive skin
@@ -161,7 +161,7 @@ A plaid shirt with a bandana, jeans, a hat, boots, the full outfit of a campfire
 A plain cotton jacket with a red cross medical bag, rolled trousers, a straw hat, cloth shoes, the full outfit of a Chinese barefoot doctor, with golden olive skin
 A plush brown bear suit, a bear head, paws, the full outfit of a giant teddy bear, with golden olive skin
 A plush unicorn onesie with a horn, a horned hood, slippers, the full outfit of an unicorn onesie wearer, with golden olive skin
-A polo shirt with a clinic logo-free badge and a tape measure round the neck, athletic trousers, trainers, the full outfit of a physiotherapist, with golden olive skin
+A polo shirt with a clinic motif-free patch and a tape measure round the neck, athletic trousers, trainers, the full outfit of a physiotherapist, with golden olive skin
 A red and orange robe with flame embroidery and a leather belt, a hood, boots, the full outfit of a fire mage, with golden olive skin
 A red shuka, a beaded headband, sandals, the full outfit of a Maasai elder, with golden olive skin
 A red swimsuit top with a whistle and a rescue vest, red shorts, a cap, bare feet, the full outfit of a lifeguard, with golden olive skin
@@ -209,7 +209,7 @@ a British bobby, dressed in a dark tunic with silver buttons and a whistle chain
 a Buddhist monk (Southeast Asia), wearing a saffron robe draped over one shoulder, a shaved head and sandals, with golden olive skin
 a Carnival of Venice reveller (Venice), wearing a brocade cape, a plumed hat and a mask and shoes, with golden olive skin
 a Catholic priest (church), in a black cassock with a white clerical collar and black shoes, with golden olive skin
-a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square badge and a hat with a button, with golden olive skin
+a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square patch and a hat with a button, with golden olive skin
 a Cold War astronaut trainer (1960s), in a pressure suit and boots, with golden olive skin
 a Day of the Dead catrina (Mexico), in a long ruffled dress and a flowered hat with face paint, with golden olive skin
 a Dutch klompen wearer (Netherlands), in a striped shirt and a cap, with golden olive skin
@@ -247,7 +247,7 @@ a Sikh priest (gurdwara), in a long white robe with a blue sash and a large turb
 a Spartan-inspired warrior (fantasy), wearing a red cloak and a bronze breastplate, a short kilt, a crested helmet and sandals and carrying a spear, with golden olive skin
 a Sufi dervish, dressed in a white wide-skirted robe with a black cloak, with golden olive skin
 a Swiss Guard (Vatican), wearing a puff-sleeved tunic in blue, red and yellow stripes and a white ruff, striped puffed breeches, a plumed morion helmet and black shoes, with golden olive skin
-a Texas ranger (American West), wearing a vest with a star badge, a long coat and a string tie, pressed trousers, a cream Stetson and boots and carrying a lasso, with golden olive skin
+a Texas ranger (American West), wearing a vest with a star patch, a long coat and a string tie, pressed trousers, a cream Stetson and boots and carrying a lasso, with golden olive skin
 a Tibetan monk (Himalayas), in a maroon robe with a gold sash and boots, with golden olive skin
 a Tour de France climber (road race), in a polka-dot jersey and a helmet, with golden olive skin
 a Tuareg nomad (Sahara), in a long blue robe and an indigo veil, with golden olive skin
@@ -283,7 +283,7 @@ a bounty hunter (fantasy), in a patched leather cloak with a bandolier and trous
 a bricklayer (site), wearing a work shirt and high-visibility vest, work trousers, a hard hat and boots and carrying a trowel, with golden olive skin
 a bridal gown wearer (wedding), wearing a fitted lace bodice with a sweetheart neckline and a long veil, a full tulle skirt, a veil and satin shoes and carrying a bouquet, with golden olive skin
 a bullfighter (Spain), wearing a short embroidered jacket in gold thread with a sash, tight breeches, a montera hat and slippers and carrying a cape, with golden olive skin
-a bus driver, dressed in a waistcoat shirt with a tie and a badge with dark trousers, with golden olive skin
+a bus driver, dressed in a waistcoat shirt with a tie and a patch with dark trousers, with golden olive skin
 a business suit wearer (office), wearing a navy two-piece suit jacket, a white shirt and a silk tie with a pocket square, suit trousers and oxford shoes and carrying a briefcase, with golden olive skin
 a butcher (shop), in a striped apron over a white coat and trousers and clogs, with golden olive skin
 a caped vigilante (comics), wearing a dark armoured suit with a cape, a cowl and boots, with golden olive skin
@@ -296,7 +296,7 @@ a centaur trainer, dressed in a bronze breastplate, with golden olive skin
 a chauffeur (1930s), in a double-breasted jacket with leather gaiters and a peaked cap, with golden olive skin
 a cheerleader (pep rally), in a pleated uniform top and a pleated skirt and trainers, with golden olive skin
 a cheese rolling competitor, dressed in a padded jumper with shorts, with golden olive skin
-a chess club champion (club), in a blazer with a club badge and trousers and shoes, with golden olive skin
+a chess club champion (club), in a blazer with a club patch and trousers and shoes, with golden olive skin
 a chimney sweep, dressed in a soot-covered coat and a top hat with trousers, with golden olive skin
 a chocolatier (shop), in a white jacket with a hat and a cap, with golden olive skin
 a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes and carrying a hymn book, with golden olive skin
@@ -346,7 +346,7 @@ a fighter pilot (modern air force), wearing a green flight suit with patches and
 a film director (set), wearing a jacket with a scarf, breeches, a cap and boots, with golden olive skin
 a firefighter, dressed in a heavy turnout coat with reflective bands and braces with fire-resistant overtrousers, with golden olive skin
 a fisherman with a vest (river), wearing a fishing vest covered in flies, waders, a hat with flies and boots and carrying a rod, with golden olive skin
-a flight attendant (modern airline), in a tailored jacket and neckerchief with a name badge and a pillbox hat, with golden olive skin
+a flight attendant (modern airline), in a tailored jacket and neckerchief with a name patch and a pillbox hat, with golden olive skin
 a football goalkeeper (soccer), in a long-sleeved padded jersey and gloves and shorts and boots, with golden olive skin
 a forest druid, dressed in a leafy robe with vines and antlers on the shoulders, with golden olive skin
 a forester (woodland), in a plaid shirt with chainsaw-protective chaps and work trousers and boots, with golden olive skin
@@ -369,17 +369,17 @@ a gondolier (Venice), wearing a striped boat-neck shirt and a sash, dark trouser
 a graduate (graduation), wearing a gown with a hood, a mortarboard and shoes, with golden olive skin
 a grapple-line scout (anime-inspired), in a brown cloak over a harness with grappling gear and trousers and boots, with golden olive skin
 a gymnast (competition), in a sparkling leotard and bare feet, with golden olive skin
-a hanbok-wearing court official (Joseon), in a blue robe with a rank badge and a black winged hat, with golden olive skin
+a hanbok-wearing court official (Joseon), in a blue robe with a rank patch and a black winged hat, with golden olive skin
 a head chef (restaurant), in a white double-breasted jacket with a neckerchief and an apron and checked trousers and clogs, with golden olive skin
 a headless horseman (gothic), in a dark coat and a cape and trousers and boots, with golden olive skin
 a highway raider (wasteland), in a leather jacket with bandoliers and goggles, with golden olive skin
 a hiker (trail), wearing a lightweight shell jacket, hiking trousers, a sun hat and boots and carrying a pack, with golden olive skin
 a horned noble, dressed in a crimson velvet jacket with trousers, with golden olive skin
-a hospital nurse (modern ward), wearing a colourful scrub top with an ID badge and a stethoscope round the neck, scrub trousers and white trainers and carrying a pen light, with golden olive skin
+a hospital nurse (modern ward), wearing a colourful scrub top with an ID patch and a stethoscope round the neck, scrub trousers and white trainers and carrying a pen light, with golden olive skin
 a hot dog costume wearer (party), wearing a foam hot dog suit, with golden olive skin
 a hot-air balloon pilot (ballooning), in a windbreaker and cargo trousers and boots, with golden olive skin
 a hotel bellhop (1930s), wearing a short red jacket with gold braid, trousers with a stripe, a pillbox hat with a chin strap and black shoes and carrying a luggage trolley, with golden olive skin
-a housekeeper (hotel), wearing a tunic with a name badge, trousers and comfortable shoes, with golden olive skin
+a housekeeper (hotel), wearing a tunic with a name patch, trousers and comfortable shoes, with golden olive skin
 a human statue, dressed in a silver painted bodysuit, with golden olive skin
 a human taco costume wearer (party), wearing a foam taco suit, with golden olive skin
 a jack-o'-lantern, dressed in a pumpkin costume, with golden olive skin
@@ -429,7 +429,7 @@ a mutant wanderer (wasteland), wearing a ragged cloak over a tattered shirt, a h
 a necromancer (fantasy), in a tattered black robe with bone clasps and a hooded cloak and boots, with golden olive skin
 a neon street samurai (cyberpunk), wearing a glowing trench coat, trousers, a visor and boots and carrying a monofilament sword, with golden olive skin
 a news anchor (studio), in a tailored jacket and blouse or shirt and tie and shoes, with golden olive skin
-a newspaper vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots and carrying a stack of papers, with golden olive skin
+a folded paper sheet vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots and carrying a stack of papers, with golden olive skin
 a night vigilante (superhero), wearing a charcoal hooded armoured jacket with a short cape, a half mask and boots and carrying a grappling line, with golden olive skin
 a ninja (cosplay), in a black wrap tunic and a hood and mask, with golden olive skin
 a ninja clan leader (anime-inspired), wearing a dark robe with a mask and scarf, trousers, a headband and sandals, with golden olive skin
@@ -438,7 +438,7 @@ a nurse in a traditional white uniform (1950s Europe and North America), in a st
 a painter (studio), in a smock splattered with paint and a beret, with golden olive skin
 a pantomime horse, dressed in a two-person horse suit, with golden olive skin
 a paramedic, dressed in a dark green jacket with reflective stripes, a high-visibility vest and a radio on the shoulder with dark cargo trousers, with golden olive skin
-a park ranger (national park), in a green shirt with a badge and a flat-brimmed hat and a flat-brimmed hat, with golden olive skin
+a park ranger (national park), in a green shirt with a patch and a flat-brimmed hat and a flat-brimmed hat, with golden olive skin
 a patterned-haori swordsperson (anime-inspired), in a patterned haori over a plain kimono and trousers and sandals, with golden olive skin
 a pirate captain, dressed in a long embroidered coat with a sash and cross-belt with breeches, with golden olive skin
 a pit crew mechanic (racing), in a fireproof overall and a helmet, with golden olive skin
@@ -469,7 +469,7 @@ a saloon barkeep (Old West), wearing a striped shirt with sleeve garters and a v
 a samurai (feudal Japan), in a lacquered armour with a silk cord over a kimono and a kabuto helmet, with golden olive skin
 a scarecrow (autumn), in a patched shirt with straw and patched trousers and boots, with golden olive skin
 a scarecrow king (horror), in a straw-stuffed jacket and boots, with golden olive skin
-a scrap queen, dressed in armour made from road signs and tyres, with golden olive skin
+a scrap queen, dressed in armour made from road lit panels and tyres, with golden olive skin
 a sea shanty sailor, dressed in a striped shirt with a neckerchief and a short jacket with slops, with golden olive skin
 a sea witch (fantasy), wearing a robe of fishing net and shells and a coral crown, with golden olive skin
 a search and rescue dog handler (outdoors), wearing a high-visibility vest with a harness, cargo trousers, a bush hat and hiking boots, with golden olive skin
@@ -478,7 +478,7 @@ a shadow elf assassin, dressed in a dark leather harness with leather trousers, 
 a shaman (Siberia), wearing a robe hung with ribbons and bells, a feathered headdress and fur boots, with golden olive skin
 a shark onesie wearer (home), wearing a grey plush shark onesie, a shark hood and slippers, with golden olive skin
 a shepherd (hill country), wearing a wool smock and a long cloak, wool trousers, a felt hat and boots, with golden olive skin
-a sheriff (American West), wearing a vest with a star badge over a plaid shirt, jeans, a wide-brimmed hat and spurred boots and carrying a lawman's rope, with golden olive skin
+a sheriff (American West), wearing a vest with a star patch over a plaid shirt, jeans, a wide-brimmed hat and spurred boots and carrying a lawman's rope, with golden olive skin
 a sheriff's deputy (modern), in a tan uniform shirt with a star and a campaign hat, with golden olive skin
 a ship captain, dressed in a navy double-breasted jacket with four gold stripes with trousers, with golden olive skin
 a ship's captain (sci-fi), wearing a fitted tunic with a gold sash, trousers and boots, with golden olive skin

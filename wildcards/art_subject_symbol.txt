@@ -14,7 +14,7 @@ a Korean taegeuk beside a pennant
 a Korean taegeuk beside a skeletal crossed anchors
 a Maori koru spiral
 a Mayan glyph
-a Mayan glyph beside a burning peace sign
+a Mayan glyph beside a burning peace lit panel
 a Mayan glyph beside a gilded double-headed eagle
 a Mexican sugar skull
 a Moroccan tile star
@@ -26,7 +26,7 @@ a Star of David
 a Thai garland
 a Thor's hammer
 a Viking longship
-a banner
+a cloth pennant
 a bejeweled coat of arms
 a bejeweled crossed anchors
 a bejeweled pennant
@@ -34,12 +34,12 @@ a bold coat of arms
 a bold rampant stag
 a burning khanda
 a burning khanda beside a rusted fleur-de-lis
-a burning peace sign
+a burning peace lit panel
 a burning winged skull
 a burning winged skull beside a sleepy dharma wheel
-a cartoonish peace sign
-a cartoonish peace sign beside a mossy fleur-de-lis
-a cartoonish peace sign beside a triskele
+a cartoonish peace lit panel
+a cartoonish peace lit panel beside a mossy fleur-de-lis
+a cartoonish peace lit panel beside a triskele
 a cartoonish shield
 a cartouche
 a coat of arms
@@ -102,8 +102,8 @@ a gilded laurel wreath
 a gilded winged heart
 a gilded winged wheel
 a gilded winged wheel beside a winged crossed keys
-a glowing banner
-a glowing banner beside a delicate flaming sword
+a glowing cloth pennant
+a glowing cloth pennant beside a delicate flaming sword
 a glowing dharma wheel
 a glowing winged heart
 a glowing winged heart beside an olive branch
@@ -127,7 +127,7 @@ a lucky coin beside a minimal crossed axes
 a many-eyed Star of David
 a many-eyed crossed swords
 a many-eyed crowned lion
-a many-eyed crowned lion beside a radiant banner
+a many-eyed crowned lion beside a radiant cloth pennant
 a many-eyed double-headed eagle
 a many-eyed double-headed eagle beside a crossed arrows
 a many-eyed khanda
@@ -142,9 +142,9 @@ a mossy fleur-de-lis
 a mossy om symbol
 a mossy om symbol beside a fierce crossed arrows
 a mossy pennant
-a peace sign
+a peace lit panel
 a pennant
-a radiant banner
+a radiant cloth pennant
 a radiant crest
 a radiant olive branch
 a radiant winged wheel
@@ -188,7 +188,7 @@ a stylized rampant stag
 a stylized scarab
 a stylized yin-yang
 a tattered torii
-a tattered torii beside a glowing banner
+a tattered torii beside a glowing cloth pennant
 a thorn-wrapped lotus mandala
 a thorn-wrapped open hand
 a thorn-wrapped open hand beside a rampant stag
@@ -219,10 +219,10 @@ a weathered crowned lion
 a weathered olive branch
 a winged crossed keys
 a winged heart
-a winged peace sign
-a winged peace sign beside a mossy pennant
-a winged peace sign beside an Arabic geometric rosette
-a winged peace sign beside an enormous crossed keys
+a winged peace lit panel
+a winged peace lit panel beside a mossy pennant
+a winged peace lit panel beside an Arabic geometric rosette
+a winged peace lit panel beside an enormous crossed keys
 a winged skull
 a winged wheel
 a world-tree knot
@@ -244,8 +244,8 @@ an armored cross
 an armored cross beside a tiny crest
 an armored crossed oars
 an armored flaming sword
-an enormous banner
-an enormous banner beside a skeletal crossed anchors
+an enormous cloth pennant
+an enormous cloth pennant beside a skeletal crossed anchors
 an enormous crescent and star
 an enormous crossed arrows
 an enormous crossed keys

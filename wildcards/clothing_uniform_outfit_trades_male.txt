@@ -5,7 +5,7 @@ A checked shirt with a long apron, work trousers, a flat cap, rubber boots, the 
 A clay-stained apron over a loose shirt, trousers, clogs, the full outfit of a potter in a masculine cut
 A dusty smock, trousers, a cloth cap, clogs, the full outfit of a miller in a masculine cut
 A flannel shirt and denim overalls, overalls, a straw hat, rubber boots, the full outfit of a farmer in a masculine cut
-A flat cap, a waistcoat and rolled sleeves, trousers, a flat cap, boots, the full outfit of a newspaper vendor in a masculine cut
+A flat cap, a waistcoat and rolled sleeves, trousers, a flat cap, boots, the full outfit of a folded paper sheet vendor in a masculine cut
 A harness and high-visibility vest, work trousers, a hard hat, boots, the full outfit of a scaffolder in a masculine cut
 A heat-resistant apron and sleeves, trousers, boots, the full outfit of a glassblower in a masculine cut
 A high-necked blouse with a pin cushion on the wrist, trousers, button boots, the full outfit of a dressmaker in a masculine cut
@@ -44,7 +44,7 @@ A person dressed as a lamplighter in a masculine cut (Victorian), with a long co
 A person dressed as a lumberjack in a masculine cut (Canada), which is a red checked wool jacket and suspenders, work trousers, a wool toque and logging boots, in a masculine cut with a roomy chest and shoulders
 A person dressed as a mechanic in a masculine cut (garage), which is an oil-stained coverall with a name patch, a cap and work boots, tailored in a masculine cut with a straight waist
 A person dressed as a miller in a masculine cut (medieval), which is a dusty smock, trousers, a cloth cap and clogs, cut for a masculine frame with broad shoulders
-A person dressed as a newspaper vendor in a masculine cut (1920s), with a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a masculine cut with a roomy chest and shoulders
+A person dressed as a folded paper sheet vendor in a masculine cut (1920s), with a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a masculine cut with a roomy chest and shoulders
 A person dressed as a plumber in a masculine cut (call-out), which is a work shirt and a knee-padded trouser set, work trousers, a cap and boots, tailored in a masculine cut with a straight waist
 A person dressed as a postal worker in a masculine cut (city), with a uniform shirt with a bag across the body, shorts, a pith helmet and shoes, cut for a masculine frame with broad shoulders
 A person dressed as a potter in a masculine cut (studio), which is a clay-stained apron over a loose shirt, trousers and clogs, cut for a masculine frame with broad shoulders
@@ -191,11 +191,11 @@ a miller in a masculine cut (medieval), in a dusty smock and trousers and clogs
 a miller in a masculine cut (medieval), wearing a dusty smock, trousers, a cloth cap and clogs, cut for a masculine frame with broad shoulders
 a miller in a masculine cut (medieval), wearing a dusty smock, trousers, a cloth cap and clogs, cut for a masculine frame with broad shoulders and carrying a flour sack
 a miller in a masculine cut, dressed in a dusty smock with trousers
-a newspaper vendor in a masculine cut (1920s), in a flat cap, a waistcoat and rolled sleeves and a flat cap
-a newspaper vendor in a masculine cut (1920s), in a flat cap, a waistcoat and rolled sleeves and trousers and boots
-a newspaper vendor in a masculine cut (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a masculine cut with a roomy chest and shoulders
-a newspaper vendor in a masculine cut (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a masculine cut with a roomy chest and shoulders and carrying a stack of papers
-a newspaper vendor in a masculine cut, dressed in a flat cap, a waistcoat and rolled sleeves with trousers
+a folded paper sheet vendor in a masculine cut (1920s), in a flat cap, a waistcoat and rolled sleeves and a flat cap
+a folded paper sheet vendor in a masculine cut (1920s), in a flat cap, a waistcoat and rolled sleeves and trousers and boots
+a folded paper sheet vendor in a masculine cut (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a masculine cut with a roomy chest and shoulders
+a folded paper sheet vendor in a masculine cut (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a masculine cut with a roomy chest and shoulders and carrying a stack of papers
+a folded paper sheet vendor in a masculine cut, dressed in a flat cap, a waistcoat and rolled sleeves with trousers
 a plumber in a masculine cut (call-out), in a work shirt and a knee-padded trouser set and a cap
 a plumber in a masculine cut (call-out), in a work shirt and a knee-padded trouser set and work trousers and boots
 a plumber in a masculine cut (call-out), wearing a work shirt and a knee-padded trouser set, work trousers, a cap and boots, tailored in a masculine cut with a straight waist

@@ -10,5 +10,5 @@ a display cabinet, which is a tall cabinet with glass doors and glass shelves, m
 a shoe rack, which is a narrow stand with slanted shelves for shoes, made of __furn_storage_shoe_rack_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
 a blanket chest, which is a long wooden box with a hinged lid, at the foot of a bed, made of __furn_storage_blanket_chest_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
 a wall shelf, which is a single board fixed to a wall on two brackets, made of __furn_storage_wall_shelf_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__
-a filing cabinet, which is a metal cabinet with three deep drawers and a label holder, made of __furn_storage_filing_cabinet_material__, its surface is __comp_fin_metal__, and it has __comp_feat_furniture__
+a filing cabinet, which is a metal cabinet with three deep drawers and a tab holder, made of __furn_storage_filing_cabinet_material__, its surface is __comp_fin_metal__, and it has __comp_feat_furniture__
 a TV stand, which is a low wide unit with an open shelf and two cupboards, made of __furn_storage_tv_stand_material__, its surface is __comp_fin_wood__, and it has __comp_feat_furniture__

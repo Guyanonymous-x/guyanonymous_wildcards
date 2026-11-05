@@ -11,7 +11,7 @@ a bare-bones bar brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_
 a bare-bones cameo brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a bare-bones sweetheart brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a basic bow brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-a basic enamel pin badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a basic enamel pin patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a basic insect brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a basic lapel pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a beautifully finished Russian enamel brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
@@ -39,7 +39,7 @@ a built-to-last stick pin made of __acc_brooch_mat_all_practical__, coloured in 
 a capable Georgian paste brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a capable Indian peacock brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a capable Russian enamel brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a capable button badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a capable button patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a capable patch pin made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a capable tie tack made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a carefully made Georgian paste brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
@@ -52,7 +52,7 @@ a carefully made star brooch made of __acc_brooch_mat_all_standard__, coloured i
 a casual Georgian paste brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a casual fibula brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a casual shawl pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-a ceremonial enamel pin badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+a ceremonial enamel pin patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a ceremonial feather brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a ceremonial lapel pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a ceremonial leaf-spray brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
@@ -74,14 +74,14 @@ a collector-grade star brooch made of __acc_brooch_mat_all_showpiece__, coloured
 a comfortable Claddagh brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a comfortable Mexican silver brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a comfortable Russian enamel brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a comfortable button badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+a comfortable button patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a comfortable cluster brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a comfortable feather brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a comfortable penannular brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a comfortable sculptural brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a common Indian peacock brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a common bird brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-a common button badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a common button patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a common insect brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a common lapel pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a common sweetheart brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
@@ -101,14 +101,14 @@ a crisp fibula brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_col
 a crown-jewel-grade Claddagh brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a crown-jewel-grade Scottish kilt pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a crown-jewel-grade cameo brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
-a crown-jewel-grade enamel pin badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+a crown-jewel-grade enamel pin patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a crown-jewel-grade floral brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a crown-jewel-grade luckenbooth brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a crown-jewel-grade patch pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a crown-jewel-grade penannular brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a cultivated Art Nouveau brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a cultivated bird brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
-a cultivated button badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+a cultivated button patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a cultivated circle brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a cultivated cluster brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a dapper Art Nouveau brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
@@ -123,12 +123,12 @@ a dazzling Art Nouveau brooch made of __acc_brooch_mat_all_showpiece__, coloured
 a dazzling Georgian paste brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a dazzling shawl pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a decadent bird brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a decadent button badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+a decadent button patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a decadent star brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a decadent sweetheart brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a decadent tie tack made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a deft Viking tortoise brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
-a deft enamel pin badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+a deft enamel pin patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a deft fibula brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a deft leaf-spray brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a deft tie tack made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
@@ -166,7 +166,7 @@ a fantastical feather brooch made of __acc_brooch_mat_all_showpiece__, coloured 
 a fantastical tie tack made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a field-ready bow brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a field-ready cameo brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a field-ready enamel pin badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a field-ready enamel pin patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a field-ready floral brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a field-ready mourning brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a field-ready star brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
@@ -189,7 +189,7 @@ a flamboyantly ornate sweetheart brooch made of __acc_brooch_mat_all_showpiece__
 a functional Viking tortoise brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a functional insect brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a gala-worthy animal brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
-a gala-worthy enamel pin badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+a gala-worthy enamel pin patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a gala-worthy leaf-spray brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a gala-worthy sculptural brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a gala-worthy star brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
@@ -203,7 +203,7 @@ a good-looking circle brooch made of __acc_brooch_mat_all_standard__, coloured i
 a good-looking lapel pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a good-looking stick pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a good-looking sweetheart brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a graceful button badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+a graceful button patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a graceful feather brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a graceful sweetheart brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a gracefully detailed Georgian paste brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
@@ -214,9 +214,9 @@ a gracefully detailed leaf-spray brooch made of __acc_brooch_mat_all_fine__, col
 a gracefully detailed tie tack made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a grand Georgian paste brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a grand Indian peacock brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a grand button badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+a grand button patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a grand cameo brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a grand enamel pin badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+a grand enamel pin patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a grand penannular brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a grand stick pin made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a grand tie tack made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
@@ -235,7 +235,7 @@ a hard-wearing Russian enamel brooch made of __acc_brooch_mat_all_practical__, c
 a hard-wearing Scottish kilt pin made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a hard-wearing bird brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a hard-wearing circle brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a hard-wearing enamel pin badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a hard-wearing enamel pin patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a hard-wearing floral brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a hard-wearing sculptural brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a harmonious Claddagh brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
@@ -256,7 +256,7 @@ a heirloom-quality Claddagh brooch made of __acc_brooch_mat_all_luxury__, colour
 a heirloom-quality Scottish kilt pin made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a heirloom-quality bird brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a heirloom-quality bow brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a high-grade enamel pin badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+a high-grade enamel pin patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a high-grade lapel pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a high-grade sculptural brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a honest Scottish kilt pin made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
@@ -288,14 +288,14 @@ a jaw-dropping shawl pin made of __acc_brooch_mat_all_showpiece__, coloured in _
 a jaw-dropping stick pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a jaw-dropping sweetheart brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a lavish Viking tortoise brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a lavish button badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+a lavish button patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a lavish luckenbooth brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a lavish mourning brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a lavish sculptural brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a legendary Art Nouveau brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a legendary Mexican silver brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a legendary Russian enamel brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
-a legendary enamel pin badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+a legendary enamel pin patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a legendary lapel pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a legendary luckenbooth brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a legendary shawl pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
@@ -309,7 +309,7 @@ a light-duty sculptural brooch made of __acc_brooch_mat_all_basic__, coloured in
 a lightly built Claddagh brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a lightly built Georgian paste brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a lightly built bird brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-a lightly built button badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a lightly built button patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a lightly built feather brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a lightly built mourning brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a long-lasting Georgian paste brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
@@ -321,20 +321,20 @@ a long-lasting cameo brooch made of __acc_brooch_mat_all_practical__, coloured i
 a long-lasting leaf-spray brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a long-lasting star brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a long-lasting tie tack made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a low-key button badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a low-key button patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a low-key feather brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a low-key sculptural brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a lustrous Georgian paste brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a lustrous bow brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a lustrous circle brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
-a lustrous enamel pin badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+a lustrous enamel pin patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a lustrous penannular brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a lustrous shawl pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a lustrous star brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a lustrous sweetheart brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a luxurious Georgian paste brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a luxurious bow brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a luxurious enamel pin badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+a luxurious enamel pin patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a luxurious insect brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a luxurious penannular brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a luxurious sweetheart brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
@@ -342,10 +342,10 @@ a magnificent Art Nouveau brooch made of __acc_brooch_mat_all_showpiece__, colou
 a magnificent Viking tortoise brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a magnificent animal brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a magnificent bow brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
-a magnificent button badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+a magnificent button patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a magnificent cameo brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a magnificent circle brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
-a magnificent enamel pin badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+a magnificent enamel pin patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a magnificent fibula brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a magnificent lapel pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a majestic Art Nouveau brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
@@ -377,12 +377,12 @@ a meticulous animal brooch made of __acc_brooch_mat_all_fine__, coloured in __ac
 a meticulous feather brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a meticulous sculptural brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a meticulous shawl pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
-a minimal button badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a minimal button patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a minimal sweetheart brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a monumental Claddagh brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a monumental Indian peacock brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a monumental bar brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
-a monumental button badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+a monumental button patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a monumental circle brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a monumental fibula brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a monumental penannular brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
@@ -423,7 +423,7 @@ a no-fuss bird brooch made of __acc_brooch_mat_all_practical__, coloured in __ac
 a no-fuss bow brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a no-fuss fibula brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a no-fuss sweetheart brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a no-nonsense button badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a no-nonsense button patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a no-nonsense circle brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a noble bow brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a noble fibula brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
@@ -458,7 +458,7 @@ a plain sculptural brooch made of __acc_brooch_mat_all_basic__, coloured in __ac
 a plain star brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a plain-spun cameo brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a plain-spun cluster brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-a plain-spun enamel pin badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a plain-spun enamel pin patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a plain-spun stick pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a plain-spun tie tack made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a pleasing Georgian paste brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
@@ -503,7 +503,7 @@ a premium-feeling penannular brooch made of __acc_brooch_mat_all_fine__, coloure
 a prestigious shawl pin made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a prestigious stick pin made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a priceless-looking Indian peacock brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
-a priceless-looking button badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+a priceless-looking button patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a priceless-looking fibula brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a priceless-looking insect brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a priceless-looking luckenbooth brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
@@ -540,7 +540,7 @@ a refined Art Nouveau brooch made of __acc_brooch_mat_all_fine__, coloured in __
 a refined Georgian paste brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a refined Mexican silver brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a refined bow brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
-a refined button badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+a refined button patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a refined cluster brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a refined lapel pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a refined leaf-spray brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
@@ -574,18 +574,18 @@ a resilient animal brooch made of __acc_brooch_mat_all_practical__, coloured in 
 a resilient cameo brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a resilient stick pin made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a respectable bow brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a respectable button badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+a respectable button patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a respectable luckenbooth brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a respectable mourning brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a respectable sweetheart brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a resplendent Russian enamel brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a resplendent animal brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a resplendent button badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+a resplendent button patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a resplendent cameo brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a resplendent circle brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a resplendent hat pin made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a resplendently ornate Viking tortoise brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
-a resplendently ornate button badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+a resplendently ornate button patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a resplendently ornate hat pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a resplendently ornate insect brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a resplendently ornate sculptural brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
@@ -601,13 +601,13 @@ a robust Viking tortoise brooch made of __acc_brooch_mat_all_practical__, colour
 a rudimentary Art Nouveau brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a rudimentary Claddagh brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a rudimentary bow brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-a rudimentary button badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a rudimentary button patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a rudimentary fibula brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a rudimentary floral brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a rugged Art Nouveau brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a rugged animal brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a rugged bar brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a rugged button badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a rugged button patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a rugged fibula brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a rugged penannular brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a rugged star brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
@@ -621,7 +621,7 @@ a sensible star brooch made of __acc_brooch_mat_all_practical__, coloured in __a
 a sensible sweetheart brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a serviceable Claddagh brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a serviceable cluster brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a serviceable enamel pin badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a serviceable enamel pin patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a serviceable feather brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a serviceable fibula brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a serviceable fibula brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
@@ -629,12 +629,12 @@ a serviceable hat pin made of __acc_brooch_mat_all_basic__, coloured in __acc_co
 a serviceable luckenbooth brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a serviceable shawl pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a shapely bar brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a shapely enamel pin badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+a shapely enamel pin patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a silken Art Nouveau brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a silken Georgian paste brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a silken Mexican silver brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a silken Russian enamel brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a silken enamel pin badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+a silken enamel pin patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a silken mourning brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a silken star brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a simple Russian enamel brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
@@ -642,7 +642,7 @@ a simple bird brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_col
 a simple hat pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a simple leaf-spray brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a simple patch pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-a singular button badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+a singular button patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a singular floral brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a singular insect brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a singular tie tack made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
@@ -655,7 +655,7 @@ a skilfully made star brooch made of __acc_brooch_mat_all_fine__, coloured in __
 a skilfully made stick pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a sleek Georgian paste brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a sleek Viking tortoise brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
-a sleek button badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+a sleek button patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a sleek cluster brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a sleek leaf-spray brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a sleek luckenbooth brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
@@ -671,7 +671,7 @@ a solid Art Nouveau brooch made of __acc_brooch_mat_all_practical__, coloured in
 a solid Art Nouveau brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a solid Claddagh brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a solid circle brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a solid enamel pin badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a solid enamel pin patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a solid insect brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a solid lapel pin made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a solid lapel pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
@@ -695,7 +695,7 @@ a spectacular insect brooch made of __acc_brooch_mat_all_showpiece__, coloured i
 a standard-issue Viking tortoise brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a standard-issue animal brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a standard-issue bow brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-a standard-issue enamel pin badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a standard-issue enamel pin patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a standard-issue leaf-spray brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a standard-issue patch pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a standard-issue penannular brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
@@ -708,7 +708,7 @@ a straightforward Scottish kilt pin made of __acc_brooch_mat_all_basic__, colour
 a straightforward penannular brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a stripped-back bird brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a stripped-back circle brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-a stripped-back enamel pin badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a stripped-back enamel pin patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a stripped-back hat pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a stripped-back tie tack made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a strongly built bird brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
@@ -723,7 +723,7 @@ a sturdy hat pin made of __acc_brooch_mat_all_practical__, coloured in __acc_col
 a sturdy sweetheart brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a stylish Scottish kilt pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a stylish bow brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
-a stylish button badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+a stylish button patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a stylish cameo brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a stylish hat pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a stylish patch pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
@@ -748,11 +748,11 @@ a superior Art Nouveau brooch made of __acc_brooch_mat_all_fine__, coloured in _
 a superior Georgian paste brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a superior animal brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a superior bar brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
-a superior button badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+a superior button patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a superior hat pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a supremely refined Mexican silver brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a supremely refined circle brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a supremely refined enamel pin badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+a supremely refined enamel pin patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a supremely refined floral brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a supremely refined stick pin made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a supremely refined tie tack made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
@@ -764,7 +764,7 @@ a tailored mourning brooch made of __acc_brooch_mat_all_fine__, coloured in __ac
 a tailored shawl pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a tailored stick pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a tasteful Scottish kilt pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a tasteful enamel pin badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+a tasteful enamel pin patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a tasteful floral brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a tasteful luckenbooth brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a tasteful star brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
@@ -777,7 +777,7 @@ a thoughtfully designed Viking tortoise brooch made of __acc_brooch_mat_all_stan
 a thoughtfully designed bar brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a thoughtfully designed bow brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a thoughtfully designed circle brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a thoughtfully designed enamel pin badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+a thoughtfully designed enamel pin patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a thoughtfully designed feather brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a thoughtfully designed sculptural brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a thoughtfully finished Claddagh brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
@@ -788,7 +788,7 @@ a thoughtfully finished insect brooch made of __acc_brooch_mat_all_fine__, colou
 a tough Mexican silver brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a tough Russian enamel brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a tough animal brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a tough button badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a tough button patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a tough luckenbooth brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a tour-de-force Mexican silver brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a tour-de-force star brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
@@ -798,13 +798,13 @@ a trail-ready mourning brooch made of __acc_brooch_mat_all_practical__, coloured
 a trail-ready sweetheart brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a trail-ready tie tack made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a travel-ready circle brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a travel-ready enamel pin badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a travel-ready enamel pin patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a travel-ready lapel pin made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a travel-ready sculptural brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a travel-ready tie tack made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a tried-and-true Claddagh brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a tried-and-true Georgian paste brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a tried-and-true button badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a tried-and-true button patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a tried-and-true circle brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a tried-and-true cluster brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a tried-and-true hat pin made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
@@ -817,14 +817,14 @@ a trim Mexican silver brooch made of __acc_brooch_mat_all_standard__, coloured i
 a trim Russian enamel brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a trim Viking tortoise brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a trim bar brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a trim button badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+a trim button patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a trim cluster brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a trim star brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a trusty Indian peacock brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a trusty Mexican silver brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a trusty Russian enamel brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a trusty bar brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
-a trusty button badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a trusty button patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a trusty floral brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a trusty insect brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a trusty lapel pin made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
@@ -832,13 +832,13 @@ a trusty leaf-spray brooch made of __acc_brooch_mat_all_practical__, coloured in
 a velvety Art Nouveau brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a velvety Viking tortoise brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a velvety bar brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a velvety button badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+a velvety button patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a velvety cameo brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-a velvety enamel pin badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+a velvety enamel pin patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a velvety insect brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 a versatile Scottish kilt pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a versatile bar brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a versatile button badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+a versatile button patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a versatile hat pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a versatile lapel pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a versatile star brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
@@ -848,19 +848,19 @@ a virtuoso bird brooch made of __acc_brooch_mat_all_showpiece__, coloured in __a
 a virtuoso bow brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a virtuoso hat pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 a virtuoso sculptural brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
-a weatherproof button badge made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
+a weatherproof button patch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a well-bred Claddagh brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a well-bred Indian peacock brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a well-bred Scottish kilt pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a well-bred floral brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 a well-built Russian enamel brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-built circle brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a well-built enamel pin badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+a well-built enamel pin patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-built fibula brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-built insect brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-built penannular brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-crafted Scottish kilt pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a well-crafted button badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+a well-crafted button patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-crafted cluster brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-crafted floral brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-crafted lapel pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
@@ -873,7 +873,7 @@ a well-proportioned Art Nouveau brooch made of __acc_brooch_mat_all_standard__, 
 a well-proportioned Mexican silver brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-proportioned Russian enamel brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-proportioned Viking tortoise brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-a well-proportioned button badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+a well-proportioned button patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-proportioned penannular brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 a well-used bow brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 a well-used feather brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
@@ -893,7 +893,7 @@ a workaday Indian peacock brooch made of __acc_brooch_mat_all_basic__, coloured 
 a workaday animal brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a workaday bar brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a workaday cameo brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-a workaday enamel pin badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+a workaday enamel pin patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a workaday sculptural brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a workaday stick pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 a workmanlike Viking tortoise brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
@@ -908,7 +908,7 @@ a workmanlike star brooch made of __acc_brooch_mat_all_practical__, coloured in 
 a workmanlike sweetheart brooch made of __acc_brooch_mat_all_practical__, coloured in __acc_colour__
 an accomplished Art Nouveau brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 an accomplished bar brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
-an accomplished enamel pin badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+an accomplished enamel pin patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 an accomplished fibula brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 an accomplished insect brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 an accomplished star brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
@@ -920,7 +920,7 @@ an agreeable hat pin made of __acc_brooch_mat_all_standard__, coloured in __acc_
 an agreeable sweetheart brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 an appealing Mexican silver brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 an appealing animal brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-an appealing enamel pin badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+an appealing enamel pin patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 an appealing hat pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 an artful animal brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 an artful lapel pin made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
@@ -951,7 +951,7 @@ an attractive Georgian paste brooch made of __acc_brooch_mat_all_standard__, col
 an attractive Russian enamel brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 an attractive Scottish kilt pin made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 an attractive cameo brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
-an attractive enamel pin badge made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
+an attractive enamel pin patch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 an attractive fibula brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 an attractive sculptural brooch made of __acc_brooch_mat_all_standard__, coloured in __acc_colour__
 an awe-inspiring Viking tortoise brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
@@ -1014,16 +1014,16 @@ an exquisite shawl pin made of __acc_brooch_mat_all_luxury__, coloured in __acc_
 an exquisite star brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 an exquisite stick pin made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 an exquisitely proportioned bird brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
-an exquisitely proportioned enamel pin badge made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
+an exquisitely proportioned enamel pin patch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 an exquisitely proportioned insect brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 an exquisitely proportioned mourning brooch made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 an extraordinary Art Nouveau brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 an extraordinary cluster brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-an extraordinary enamel pin badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+an extraordinary enamel pin patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 an extraordinary lapel pin made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 an extravagant Georgian paste brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 an extravagant Mexican silver brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
-an extravagant button badge made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
+an extravagant button patch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 an extravagant leaf-spray brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 an extravagant mourning brooch made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 an extravagant stick pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
@@ -1041,7 +1041,7 @@ an impeccable fibula brooch made of __acc_brooch_mat_all_fine__, coloured in __a
 an impeccable tie tack made of __acc_brooch_mat_all_fine__, coloured in __acc_colour__
 an imperial shawl pin made of __acc_brooch_mat_all_showpiece__, coloured in __acc_colour__
 an indulgent bar brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
-an indulgent button badge made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
+an indulgent button patch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 an indulgent leaf-spray brooch made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 an indulgent tie tack made of __acc_brooch_mat_all_luxury__, coloured in __acc_colour__
 an off-the-shelf Art Nouveau brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
@@ -1106,7 +1106,7 @@ an understated stick pin made of __acc_brooch_mat_all_basic__, coloured in __acc
 an unfussy Claddagh brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 an unfussy Viking tortoise brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 an unfussy animal brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
-an unfussy enamel pin badge made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
+an unfussy enamel pin patch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 an unfussy insect brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 an unfussy leaf-spray brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 an unfussy mourning brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
@@ -1133,6 +1133,4 @@ an utilitarian patch pin made of __acc_brooch_mat_all_basic__, coloured in __acc
 an utilitarian star brooch made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 an utilitarian stick pin made of __acc_brooch_mat_all_basic__, coloured in __acc_colour__
 __acc_brooch_plastic_short__
-__acc_brooch_plastic_short__
-__acc_brooch_novelty_short__
 __acc_brooch_novelty_short__

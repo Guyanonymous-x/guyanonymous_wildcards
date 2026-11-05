@@ -126,8 +126,8 @@ a cleanly made penguin hat, made of __acc_hat_mat_nov_standard__. It is a knit h
 a cleanly made penguin hat, made of __acc_hat_mat_nov_standard__. It is a knit hat with a beak, two eyes and little flipper flaps. __acc_hat_gimmick__
 a cleanly made pineapple hat, made of __acc_hat_mat_nov_standard__. It is a spiky green crown of leaves on a textured golden dome.
 a cleanly made pineapple hat, made of __acc_hat_mat_nov_standard__. It is a spiky green crown of leaves on a textured golden dome. __acc_hat_gimmick__
-a cleanly made pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge.
-a cleanly made pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a cleanly made pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch.
+a cleanly made pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a cleanly made pizza-slice hat, made of __acc_hat_mat_nov_standard__. It is a triangular slice of pizza with pepperoni, perched on the head.
 a cleanly made pizza-slice hat, made of __acc_hat_mat_nov_standard__. It is a triangular slice of pizza with pepperoni, perched on the head. __acc_hat_gimmick__
 a cleanly made rooster-comb hat, made of __acc_hat_mat_nov_standard__. It is a hat with a red scalloped comb and a wattle.
@@ -226,8 +226,8 @@ a considered goldfish-bowl hat, made of __acc_hat_mat_nov_standard__. It is a cl
 a considered goldfish-bowl hat, made of __acc_hat_mat_nov_standard__. It is a clear bowl with a toy fish and plastic plants. __acc_hat_gimmick__
 a considered lampshade hat, made of __acc_hat_mat_nov_standard__. It is a pleated fabric shade with a fringe.
 a considered lampshade hat, made of __acc_hat_mat_nov_standard__. It is a pleated fabric shade with a fringe. __acc_hat_gimmick__
-a considered pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge.
-a considered pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a considered pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch.
+a considered pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a considered propeller beanie, made of __acc_hat_mat_nov_standard__. It is a colourful panelled cap with a small spinning propeller on a stem at the top.
 a considered propeller beanie, made of __acc_hat_mat_nov_standard__. It is a colourful panelled cap with a small spinning propeller on a stem at the top. __acc_hat_gimmick__
 a considered rainbow-tower hat, made of __acc_hat_mat_nov_standard__. It is a stack of coloured rings rising high above the head.
@@ -408,8 +408,8 @@ a honest party-cone hat, made of __acc_hat_mat_nov_standard__. It is a tall cone
 a honest party-cone hat, made of __acc_hat_mat_nov_standard__. It is a tall cone with a pom-pom on the top and an elastic chin strap. __acc_hat_gimmick__
 a honest pilgrim hat, made of __acc_hat_mat_nov_standard__. It is a tall black hat with a buckled band and a wide brim.
 a honest pilgrim hat, made of __acc_hat_mat_nov_standard__. It is a tall black hat with a buckled band and a wide brim. __acc_hat_gimmick__
-a honest pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge.
-a honest pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a honest pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch.
+a honest pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a honest reindeer antler hat, made of __acc_hat_mat_nov_standard__. It has soft plush antlers hung with tiny baubles.
 a honest reindeer antler hat, made of __acc_hat_mat_nov_standard__. It has soft plush antlers hung with tiny baubles. __acc_hat_gimmick__
 a honest rubber-chicken hat, made of __acc_hat_mat_nov_standard__. It is a hat with a rubber chicken lying along the top.
@@ -564,8 +564,8 @@ a pleasing party-cone hat, made of __acc_hat_mat_nov_standard__. It is a tall co
 a pleasing party-cone hat, made of __acc_hat_mat_nov_standard__. It is a tall cone with a pom-pom on the top and an elastic chin strap. __acc_hat_gimmick__
 a pleasing pilgrim hat, made of __acc_hat_mat_nov_standard__. It is a tall black hat with a buckled band and a wide brim.
 a pleasing pilgrim hat, made of __acc_hat_mat_nov_standard__. It is a tall black hat with a buckled band and a wide brim. __acc_hat_gimmick__
-a pleasing pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge.
-a pleasing pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a pleasing pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch.
+a pleasing pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a pleasing propeller beanie, made of __acc_hat_mat_nov_standard__. It is a colourful panelled cap with a small spinning propeller on a stem at the top.
 a pleasing propeller beanie, made of __acc_hat_mat_nov_standard__. It is a colourful panelled cap with a small spinning propeller on a stem at the top. __acc_hat_gimmick__
 a pleasing rooster-comb hat, made of __acc_hat_mat_nov_standard__. It is a hat with a red scalloped comb and a wattle.
@@ -666,8 +666,8 @@ a respectable giant cupcake hat, made of __acc_hat_mat_nov_standard__. It is a t
 a respectable giant cupcake hat, made of __acc_hat_mat_nov_standard__. It is a tall frosted cupcake with a cherry on top. __acc_hat_gimmick__
 a respectable light-up LED hat, made of __acc_hat_mat_nov_standard__. It has a band of small lights that blink in changing patterns.
 a respectable light-up LED hat, made of __acc_hat_mat_nov_standard__. It has a band of small lights that blink in changing patterns. __acc_hat_gimmick__
-a respectable pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge.
-a respectable pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a respectable pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch.
+a respectable pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a respectable rainbow-tower hat, made of __acc_hat_mat_nov_standard__. It is a stack of coloured rings rising high above the head.
 a respectable rainbow-tower hat, made of __acc_hat_mat_nov_standard__. It is a stack of coloured rings rising high above the head. __acc_hat_gimmick__
 a respectable rubber-chicken hat, made of __acc_hat_mat_nov_standard__. It is a hat with a rubber chicken lying along the top.
@@ -736,8 +736,8 @@ a smart lighthouse hat, made of __acc_hat_mat_nov_standard__. It is a striped to
 a smart lighthouse hat, made of __acc_hat_mat_nov_standard__. It is a striped tower with a rotating beacon on top. __acc_hat_gimmick__
 a smart mushroom-cap hat, made of __acc_hat_mat_nov_standard__. It is a wide red dome with white spots.
 a smart mushroom-cap hat, made of __acc_hat_mat_nov_standard__. It is a wide red dome with white spots. __acc_hat_gimmick__
-a smart pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge.
-a smart pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a smart pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch.
+a smart pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a smart robot-head hat, made of __acc_hat_mat_nov_standard__. It is a boxy metal-look head with an antenna and dials.
 a smart robot-head hat, made of __acc_hat_mat_nov_standard__. It is a boxy metal-look head with an antenna and dials. __acc_hat_gimmick__
 a smart stars-and-stripes top hat, made of __acc_hat_mat_nov_standard__. It is a tall top hat with bands and stars in bold patterns.
@@ -812,8 +812,8 @@ a tasteful party-cone hat, made of __acc_hat_mat_nov_standard__. It is a tall co
 a tasteful party-cone hat, made of __acc_hat_mat_nov_standard__. It is a tall cone with a pom-pom on the top and an elastic chin strap. __acc_hat_gimmick__
 a tasteful pineapple hat, made of __acc_hat_mat_nov_standard__. It is a spiky green crown of leaves on a textured golden dome.
 a tasteful pineapple hat, made of __acc_hat_mat_nov_standard__. It is a spiky green crown of leaves on a textured golden dome. __acc_hat_gimmick__
-a tasteful pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge.
-a tasteful pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a tasteful pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch.
+a tasteful pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a tasteful pumpkin hat, made of __acc_hat_mat_nov_standard__. It is a round orange gourd with a stem and curling vine.
 a tasteful pumpkin hat, made of __acc_hat_mat_nov_standard__. It is a round orange gourd with a stem and curling vine. __acc_hat_gimmick__
 a tasteful rooster-comb hat, made of __acc_hat_mat_nov_standard__. It is a hat with a red scalloped comb and a wattle.
@@ -968,8 +968,8 @@ a well-built hot-dog hat, made of __acc_hat_mat_nov_standard__. It is a long bun
 a well-built hot-dog hat, made of __acc_hat_mat_nov_standard__. It is a long bun with a sausage and a squiggle of mustard. __acc_hat_gimmick__
 a well-built light-up LED hat, made of __acc_hat_mat_nov_standard__. It has a band of small lights that blink in changing patterns.
 a well-built light-up LED hat, made of __acc_hat_mat_nov_standard__. It has a band of small lights that blink in changing patterns. __acc_hat_gimmick__
-a well-built pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge.
-a well-built pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones badge. __acc_hat_gimmick__
+a well-built pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch.
+a well-built pirate hat, made of __acc_hat_mat_nov_standard__. It is a black tricorn with a skull-and-crossbones patch. __acc_hat_gimmick__
 a well-built pumpkin hat, made of __acc_hat_mat_nov_standard__. It is a round orange gourd with a stem and curling vine.
 a well-built pumpkin hat, made of __acc_hat_mat_nov_standard__. It is a round orange gourd with a stem and curling vine. __acc_hat_gimmick__
 a well-built rainbow-tower hat, made of __acc_hat_mat_nov_standard__. It is a stack of coloured rings rising high above the head.

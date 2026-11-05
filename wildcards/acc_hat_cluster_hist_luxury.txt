@@ -48,8 +48,8 @@ a couture pith helmet, made of __acc_hat_mat_hist_luxury__. It is a domed, cork-
 a couture pith helmet, made of __acc_hat_mat_hist_luxury__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_luxury__
 a couture poke bonnet, made of __acc_hat_mat_hist_luxury__. It is a bonnet with a small crown and a deep rounded front brim.
 a couture poke bonnet, made of __acc_hat_mat_hist_luxury__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_luxury__
-a couture shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge.
-a couture shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_luxury__
+a couture shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch.
+a couture shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_luxury__
 a couture shtreimel-style fur hat, made of __acc_hat_mat_hist_luxury__. It is a wide, round, fur-trimmed velvet hat.
 a couture shtreimel-style fur hat, made of __acc_hat_mat_hist_luxury__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_luxury__
 a couture sou'wester, made of __acc_hat_mat_hist_luxury__. It is a brimmed oilskin rain hat, longer at the back.
@@ -286,8 +286,8 @@ a majestic kepi, made of __acc_hat_mat_hist_luxury__. It is a flat-topped cap wi
 a majestic kepi, made of __acc_hat_mat_hist_luxury__. It is a flat-topped cap with a stiff visor. __acc_hat_trim_luxury__
 a majestic montera, made of __acc_hat_mat_hist_luxury__. It is a black two-lobed cap with ears, worn by bullfighters.
 a majestic montera, made of __acc_hat_mat_hist_luxury__. It is a black two-lobed cap with ears, worn by bullfighters. __acc_hat_trim_luxury__
-a majestic shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge.
-a majestic shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_luxury__
+a majestic shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch.
+a majestic shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_luxury__
 a majestic smoking cap, made of __acc_hat_mat_hist_luxury__. It is a small tasselled cap embroidered with a pattern.
 a majestic smoking cap, made of __acc_hat_mat_hist_luxury__. It is a small tasselled cap embroidered with a pattern. __acc_hat_trim_luxury__
 a majestic tubeteika, made of __acc_hat_mat_hist_luxury__. It is a small embroidered four-sided cap.
@@ -324,8 +324,8 @@ a masterfully made pillbox with a veil, made of __acc_hat_mat_hist_luxury__. It 
 a masterfully made pillbox with a veil, made of __acc_hat_mat_hist_luxury__. It is a small flat-topped drum with a net veil. __acc_hat_trim_luxury__
 a masterfully made printer's paper hat, made of __acc_hat_mat_hist_luxury__. It is a folded newsprint hat with a point.
 a masterfully made printer's paper hat, made of __acc_hat_mat_hist_luxury__. It is a folded newsprint hat with a point. __acc_hat_trim_luxury__
-a masterfully made shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge.
-a masterfully made shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_luxury__
+a masterfully made shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch.
+a masterfully made shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_luxury__
 a masterfully made shtreimel-style fur hat, made of __acc_hat_mat_hist_luxury__. It is a wide, round, fur-trimmed velvet hat.
 a masterfully made shtreimel-style fur hat, made of __acc_hat_mat_hist_luxury__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_luxury__
 a masterfully made sombrero cordobés, made of __acc_hat_mat_hist_luxury__. It is a flat-crowned hat with a flat brim in Andalusian style.
@@ -388,8 +388,8 @@ a painstaking pillbox with a veil, made of __acc_hat_mat_hist_luxury__. It is a 
 a painstaking pillbox with a veil, made of __acc_hat_mat_hist_luxury__. It is a small flat-topped drum with a net veil. __acc_hat_trim_luxury__
 a painstaking pith helmet, made of __acc_hat_mat_hist_luxury__. It is a domed, cork-like sun helmet with a puggaree band.
 a painstaking pith helmet, made of __acc_hat_mat_hist_luxury__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_luxury__
-a painstaking shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge.
-a painstaking shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_luxury__
+a painstaking shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch.
+a painstaking shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_luxury__
 a painstaking snood, made of __acc_hat_mat_hist_luxury__. It is a net bag that holds the hair at the back.
 a painstaking snood, made of __acc_hat_mat_hist_luxury__. It is a net bag that holds the hair at the back. __acc_hat_trim_luxury__
 a painstaking sombrero, made of __acc_hat_mat_hist_luxury__. It is a tall crown on a huge saucer-shaped brim, trimmed with embroidery.
@@ -454,8 +454,8 @@ a prestigious mortarboard, made of __acc_hat_mat_hist_luxury__. It is a flat squ
 a prestigious mortarboard, made of __acc_hat_mat_hist_luxury__. It is a flat square board on a skullcap with a tassel. __acc_hat_trim_luxury__
 a prestigious poke bonnet, made of __acc_hat_mat_hist_luxury__. It is a bonnet with a small crown and a deep rounded front brim.
 a prestigious poke bonnet, made of __acc_hat_mat_hist_luxury__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_luxury__
-a prestigious shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge.
-a prestigious shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_luxury__
+a prestigious shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch.
+a prestigious shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_luxury__
 a prestigious songkok, made of __acc_hat_mat_hist_luxury__. It is a rigid velvet cap with a flat top.
 a prestigious songkok, made of __acc_hat_mat_hist_luxury__. It is a rigid velvet cap with a flat top. __acc_hat_trim_luxury__
 a princely Tyrolean hat, made of __acc_hat_mat_hist_luxury__. It is a felt hat with a corded band and a feather brush.
@@ -574,8 +574,8 @@ a resplendent peach-basket hat, made of __acc_hat_mat_hist_luxury__. It is an up
 a resplendent peach-basket hat, made of __acc_hat_mat_hist_luxury__. It is an upturned basket shape lavishly trimmed with flowers. __acc_hat_trim_luxury__
 a resplendent poke bonnet, made of __acc_hat_mat_hist_luxury__. It is a bonnet with a small crown and a deep rounded front brim.
 a resplendent poke bonnet, made of __acc_hat_mat_hist_luxury__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_luxury__
-a resplendent shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge.
-a resplendent shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_luxury__
+a resplendent shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch.
+a resplendent shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_luxury__
 a resplendent smoking cap, made of __acc_hat_mat_hist_luxury__. It is a small tasselled cap embroidered with a pattern.
 a resplendent smoking cap, made of __acc_hat_mat_hist_luxury__. It is a small tasselled cap embroidered with a pattern. __acc_hat_trim_luxury__
 a resplendent sombrero, made of __acc_hat_mat_hist_luxury__. It is a tall crown on a huge saucer-shaped brim, trimmed with embroidery.
@@ -804,8 +804,8 @@ an artisanal humao, made of __acc_hat_mat_hist_luxury__. It is a riding hat with
 an artisanal humao, made of __acc_hat_mat_hist_luxury__. It is a riding hat with fur trim and ear flaps. __acc_hat_trim_luxury__
 an artisanal jingasa, made of __acc_hat_mat_hist_luxury__. It is a flat conical lacquered hat.
 an artisanal jingasa, made of __acc_hat_mat_hist_luxury__. It is a flat conical lacquered hat. __acc_hat_trim_luxury__
-an artisanal shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge.
-an artisanal shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_luxury__
+an artisanal shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch.
+an artisanal shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_luxury__
 an artisanal shtreimel-style fur hat, made of __acc_hat_mat_hist_luxury__. It is a wide, round, fur-trimmed velvet hat.
 an artisanal shtreimel-style fur hat, made of __acc_hat_mat_hist_luxury__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_luxury__
 an artisanal smoking cap, made of __acc_hat_mat_hist_luxury__. It is a small tasselled cap embroidered with a pattern.
@@ -948,8 +948,8 @@ an immaculately hand-finished deerstalker, made of __acc_hat_mat_hist_luxury__. 
 an immaculately hand-finished deerstalker, made of __acc_hat_mat_hist_luxury__. It is a tweed cap with a brim at the front and back and tied ear flaps. __acc_hat_trim_luxury__
 an immaculately hand-finished mortarboard, made of __acc_hat_mat_hist_luxury__. It is a flat square board on a skullcap with a tassel.
 an immaculately hand-finished mortarboard, made of __acc_hat_mat_hist_luxury__. It is a flat square board on a skullcap with a tassel. __acc_hat_trim_luxury__
-an immaculately hand-finished shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge.
-an immaculately hand-finished shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_luxury__
+an immaculately hand-finished shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch.
+an immaculately hand-finished shako, made of __acc_hat_mat_hist_luxury__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_luxury__
 an immaculately hand-finished tengkolok, made of __acc_hat_mat_hist_luxury__. It is a folded and tied patterned cloth headdress.
 an immaculately hand-finished tengkolok, made of __acc_hat_mat_hist_luxury__. It is a folded and tied patterned cloth headdress. __acc_hat_trim_luxury__
 an immaculately hand-finished toque blanche, made of __acc_hat_mat_hist_luxury__. It is a tall, white, pleated chef's hat.

@@ -19,16 +19,16 @@ as a grid of squares each showing a different image; also as a small mark in one
 as a grid of squares each showing a different image; also in two mirrored halves, and in a rectangular frame with an ornamental border
 as a half-faded gradient
 as a half-faded gradient, and in a spiral arrangement
-as a half-faded gradient, and in a spiral arrangement; also in a rectangular frame with an ornamental border, and as a monogram of overlapping shapes
+as a half-faded gradient, and in a spiral arrangement; also in a rectangular frame with an ornamental border, and as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes
 as a half-faded gradient; also repeated in an all-over pattern
-as a monogram of overlapping shapes
-as a monogram of overlapping shapes, and as a tiled half-drop repeat
-as a monogram of overlapping shapes, and as a tiled half-drop repeat; also as a grid of squares each showing a different image, and as an overall collage of images
-as a monogram of overlapping shapes, and as a tiled half-drop repeat; also in two mirrored halves
-as a monogram of overlapping shapes, and as a tiled half-drop repeat; also peeking out from behind a flap, and as a single large graphic centered on the surface
-as a monogram of overlapping shapes; also as a repeated row of small icons
-as a monogram of overlapping shapes; also as a scattered field of small motifs, and cropped by the edge so only part shows
-as a monogram of overlapping shapes; also as a series of small framed panels, and rising from the bottom edge
+as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes
+as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes, and as a tiled half-drop repeat
+as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes, and as a tiled half-drop repeat; also as a grid of squares each showing a different image, and as an overall collage of images
+as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes, and as a tiled half-drop repeat; also in two mirrored halves
+as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes, and as a tiled half-drop repeat; also peeking out from behind a flap, and as a single large graphic centered on the surface
+as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes; also as a repeated row of small icons
+as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes; also as a scattered field of small motifs, and cropped by the edge so only part shows
+as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes; also as a series of small framed panels, and rising from the bottom edge
 as a repeated row of small icons
 as a repeated row of small icons, and inside an oval cartouche
 as a repeated row of small icons, and inside an oval cartouche; also as a symmetrical mirror image
@@ -59,12 +59,12 @@ as a single large graphic centered on the surface, and as a half-faded gradient;
 as a single large graphic centered on the surface, and as a half-faded gradient; also as a wrap-around panorama
 as a single large graphic centered on the surface, and as a half-faded gradient; also as one tall vertical stripe, and repeated in an all-over pattern
 as a single large graphic centered on the surface, and as a half-faded gradient; also bleeding off the edge, and radiating from a central point
-as a single large graphic centered on the surface; also as a monogram of overlapping shapes, and as a tiled half-drop repeat
+as a single large graphic centered on the surface; also as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes, and as a tiled half-drop repeat
 as a single large graphic centered on the surface; also as a repeated row of small icons
 as a single large graphic centered on the surface; also as a symmetrical mirror image, and as one tall vertical stripe
 as a small mark in one corner
 as a small mark in one corner, and peeking out from behind a flap
-as a small mark in one corner, and peeking out from behind a flap; also as a monogram of overlapping shapes, and as a tiled half-drop repeat
+as a small mark in one corner, and peeking out from behind a flap; also as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes, and as a tiled half-drop repeat
 as a small mark in one corner, and peeking out from behind a flap; also as a small mark in one corner
 as a small mark in one corner; also as a cluster of stickers overlapping each other
 as a small mark in one corner; also as an overall collage of images, and as a grid of squares each showing a different image
@@ -73,7 +73,7 @@ as a small mark in one corner; also hanging from the top, and split across a sea
 as a symmetrical mirror image
 as a symmetrical mirror image, and as one tall vertical stripe
 as a symmetrical mirror image, and as one tall vertical stripe; also as a wrap-around panorama, and as a series of small framed panels
-as a symmetrical mirror image, and as one tall vertical stripe; also in a rectangular frame with an ornamental border, and as a monogram of overlapping shapes
+as a symmetrical mirror image, and as one tall vertical stripe; also in a rectangular frame with an ornamental border, and as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes
 as a symmetrical mirror image, and as one tall vertical stripe; also in a spiral arrangement, and as a border running along the edges
 as a thin band around the middle
 as a thin band around the middle, and running diagonally across the surface
@@ -107,7 +107,7 @@ as one tall vertical stripe, and repeated in an all-over pattern; also as one ta
 as one tall vertical stripe, and repeated in an all-over pattern; also filling the whole surface edge to edge, and in two mirrored halves
 as one tall vertical stripe, and repeated in an all-over pattern; also running diagonally across the surface
 as one tall vertical stripe; also as a small mark in one corner, and peeking out from behind a flap
-as one tall vertical stripe; also in a rectangular frame with an ornamental border, and as a monogram of overlapping shapes
+as one tall vertical stripe; also in a rectangular frame with an ornamental border, and as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes
 bleeding off the edge
 bleeding off the edge, and radiating from a central point
 bleeding off the edge, and radiating from a central point; also as a cluster of stickers overlapping each other
@@ -123,7 +123,7 @@ cropped by the edge so only part shows, and filling the whole surface edge to ed
 cropped by the edge so only part shows, and filling the whole surface edge to edge; also as a scattered field of small motifs, and cropped by the edge so only part shows
 cropped by the edge so only part shows, and filling the whole surface edge to edge; also as a single large graphic centered on the surface, and as a half-faded gradient
 cropped by the edge so only part shows, and filling the whole surface edge to edge; also in a circular medallion
-cropped by the edge so only part shows, and filling the whole surface edge to edge; also in a rectangular frame with an ornamental border, and as a monogram of overlapping shapes
+cropped by the edge so only part shows, and filling the whole surface edge to edge; also in a rectangular frame with an ornamental border, and as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes
 cropped by the edge so only part shows; also in two mirrored halves
 filling the whole surface edge to edge
 filling the whole surface edge to edge, and in two mirrored halves
@@ -149,11 +149,11 @@ in a circular medallion, and in a shield-shaped frame; also as a thin band aroun
 in a circular medallion; also as a tiled half-drop repeat, and as a wrap-around panorama
 in a circular medallion; also with a large figure and small satellite details, and in an asymmetrical composition
 in a rectangular frame with an ornamental border
-in a rectangular frame with an ornamental border, and as a monogram of overlapping shapes
-in a rectangular frame with an ornamental border, and as a monogram of overlapping shapes; also as a tiled half-drop repeat, and as a wrap-around panorama
-in a rectangular frame with an ornamental border, and as a monogram of overlapping shapes; also cropped by the edge so only part shows
-in a rectangular frame with an ornamental border, and as a monogram of overlapping shapes; also in an asymmetrical composition
-in a rectangular frame with an ornamental border, and as a monogram of overlapping shapes; also split across a seam
+in a rectangular frame with an ornamental border, and as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes
+in a rectangular frame with an ornamental border, and as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes; also as a tiled half-drop repeat, and as a wrap-around panorama
+in a rectangular frame with an ornamental border, and as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes; also cropped by the edge so only part shows
+in a rectangular frame with an ornamental border, and as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes; also in an asymmetrical composition
+in a rectangular frame with an ornamental border, and as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes; also split across a seam
 in a rectangular frame with an ornamental border; also as a symmetrical mirror image
 in a rectangular frame with an ornamental border; also inside an oval cartouche
 in a rectangular frame with an ornamental border; also with a large figure and small satellite details, and in an asymmetrical composition
@@ -166,7 +166,7 @@ in a shield-shaped frame; also running diagonally across the surface, and as a r
 in a spiral arrangement
 in a spiral arrangement, and as a border running along the edges
 in a spiral arrangement, and as a border running along the edges; also as a half-faded gradient
-in a spiral arrangement, and as a border running along the edges; also as a monogram of overlapping shapes
+in a spiral arrangement, and as a border running along the edges; also as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes
 in a spiral arrangement, and as a border running along the edges; also as a series of small framed panels
 in a spiral arrangement, and as a border running along the edges; also as one tall vertical stripe, and repeated in an all-over pattern
 in a spiral arrangement, and as a border running along the edges; also in a circular medallion
@@ -175,7 +175,7 @@ in a spiral arrangement; also split across a seam, and as a scattered field of s
 in an asymmetrical composition
 in an asymmetrical composition, and as a symmetrical mirror image
 in an asymmetrical composition, and as a symmetrical mirror image; also filling the whole surface edge to edge
-in an asymmetrical composition, and as a symmetrical mirror image; also in a rectangular frame with an ornamental border, and as a monogram of overlapping shapes
+in an asymmetrical composition, and as a symmetrical mirror image; also in a rectangular frame with an ornamental border, and as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes
 in an asymmetrical composition; also as a grid of squares each showing a different image, and as an overall collage of images
 in an asymmetrical composition; also as a thin band around the middle
 in an asymmetrical composition; also in a circular medallion, and in a shield-shaped frame
@@ -225,7 +225,7 @@ repeated in an all-over pattern, and as a cluster of stickers overlapping each o
 repeated in an all-over pattern, and as a cluster of stickers overlapping each other; also as a half-faded gradient, and in a spiral arrangement
 repeated in an all-over pattern, and as a cluster of stickers overlapping each other; also as a small mark in one corner, and peeking out from behind a flap
 repeated in an all-over pattern, and as a cluster of stickers overlapping each other; also in a circular medallion
-repeated in an all-over pattern; also as a monogram of overlapping shapes, and as a tiled half-drop repeat
+repeated in an all-over pattern; also as a monogram of the letters "__name_initial__ __name_initial__" of overlapping shapes, and as a tiled half-drop repeat
 repeated in an all-over pattern; also as a scattered field of small motifs, and cropped by the edge so only part shows
 repeated in an all-over pattern; also as one tall vertical stripe, and repeated in an all-over pattern
 repeated in an all-over pattern; also in a rectangular frame with an ornamental border

@@ -1,5 +1,5 @@
 a desk tidy, which is an open box with sections for pens, made of __office_supplies_desk_tidy_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_stationery__
-a ring binder, which is a thick folder with two rings and a spine label, made of __office_supplies_ring_binder_material__, its surface is __comp_fin_hard__, and it has __comp_feat_stationery__
+a ring binder, which is a thick folder with two rings and a spine tab, made of __office_supplies_ring_binder_material__, its surface is __comp_fin_hard__, and it has __comp_feat_stationery__
 a fountain pen, which is a slim pen with a metal nib and a cap, made of __office_supplies_fountain_pen_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_stationery__
 a ballpoint pen, which is a plastic tube with a pocket clip and a click top, made of __office_supplies_ballpoint_pen_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_stationery__
 a tape dispenser, which is a heavy base with a roll of clear tape, made of __office_supplies_tape_dispenser_material__, its surface is __comp_fin_plastic__, and it has __comp_feat_stationery__

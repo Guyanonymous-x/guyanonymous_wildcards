@@ -18,7 +18,7 @@ a basic tassel lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_
 a basic whistle lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a basic woven lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a beautifully finished Native-style quilled lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
-a beautifully finished badge lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
+a beautifully finished patch lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a beautifully finished breakaway lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a beautifully finished camera-free key lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a beautifully finished neck lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
@@ -28,7 +28,7 @@ a bespoke Sami braided lanyard made of __acc_lanyard_mat_all_luxury__, coloured 
 a bespoke beaded lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a bespoke chain lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a bespoke padded lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
-a breathtaking badge lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
+a breathtaking patch lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a breathtaking camera-free key lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a breathtaking neck lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a breathtaking nylon webbing lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
@@ -39,7 +39,7 @@ a budget-weight braided cord lanyard made of __acc_lanyard_mat_all_basic__, colo
 a budget-weight padded lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a budget-weight silk-cord lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a built-to-last Andean woven lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
-a built-to-last badge lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
+a built-to-last patch lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a built-to-last beaded lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a built-to-last braided cord lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a built-to-last breakaway lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
@@ -81,7 +81,7 @@ a comfortable breakaway lanyard made of __acc_lanyard_mat_all_standard__, colour
 a comfortable hemp lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a comfortable macramé lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a common Maori carved lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
-a common badge lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
+a common patch lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a common elastic lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a common hemp lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a common leather lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
@@ -96,7 +96,7 @@ a considered braided cord lanyard made of __acc_lanyard_mat_all_standard__, colo
 a considered woven lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a couture Andean woven lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a couture Sami braided lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
-a couture badge lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
+a couture patch lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a couture braided cord lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a couture chain lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a couture leather lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
@@ -140,7 +140,7 @@ a deft silk-cord lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc
 a deft tool lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a dependable Andean woven lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a dependable Native-style quilled lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
-a dependable badge lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
+a dependable patch lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a dependable beaded lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a dependable camera-free key lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a dependable clip-on lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
@@ -164,7 +164,7 @@ a distinguished elastic lanyard made of __acc_lanyard_mat_all_fine__, coloured i
 a distinguished paracord lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a distinguished woven lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a durable Andean woven lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
-a durable badge lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
+a durable patch lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a durable hemp lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a factory-made Maori carved lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a factory-made Mexican woven lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
@@ -190,7 +190,7 @@ a finely made Sami braided lanyard made of __acc_lanyard_mat_all_fine__, coloure
 a finely made neck lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a finely made wrist lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a flamboyantly ornate Maori carved lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
-a flamboyantly ornate badge lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
+a flamboyantly ornate patch lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a flamboyantly ornate clip-on lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a flamboyantly ornate paracord lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a flamboyantly ornate ribbon lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
@@ -207,7 +207,7 @@ a gala-worthy retractable lanyard made of __acc_lanyard_mat_all_showpiece__, col
 a gala-worthy silk-cord lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a gala-worthy tool lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a gilded Maori carved lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
-a gilded badge lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
+a gilded patch lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a gilded macramé lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a gilded nylon webbing lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a gilded paracord lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
@@ -258,7 +258,7 @@ a harmonious ribbon lanyard made of __acc_lanyard_mat_all_fine__, coloured in __
 a harmonious silk-cord lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a harmonious whistle lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a heavy-duty Japanese kumihimo lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
-a heavy-duty badge lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
+a heavy-duty patch lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a heavy-duty camera-free key lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a heavy-duty chain lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a heavy-duty leather lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
@@ -266,7 +266,7 @@ a heavy-duty macramé lanyard made of __acc_lanyard_mat_all_practical__, coloure
 a heavy-duty tassel lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a heirloom-quality Japanese kumihimo lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a heirloom-quality Maori carved lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
-a heirloom-quality badge lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
+a heirloom-quality patch lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a heirloom-quality leather lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a heirloom-quality padded lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a heirloom-quality silk-cord lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
@@ -317,7 +317,7 @@ a lustrous Native-style quilled lanyard made of __acc_lanyard_mat_all_fine__, co
 a lustrous beaded lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a lustrous macramé lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a lustrous retractable lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
-a luxurious badge lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
+a luxurious patch lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a luxurious breakaway lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a luxurious camera-free key lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a luxurious retractable lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
@@ -341,13 +341,13 @@ a masterfully made Mexican woven lanyard made of __acc_lanyard_mat_all_luxury__,
 a masterfully made breakaway lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a masterfully made chain lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a matter-of-fact Andean woven lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
-a matter-of-fact badge lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
+a matter-of-fact patch lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a matter-of-fact beaded lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a matter-of-fact hemp lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a matter-of-fact nylon webbing lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a matter-of-fact ribbon lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a meticulous Japanese kumihimo lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
-a meticulous badge lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
+a meticulous patch lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a meticulous clip-on lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a meticulous nylon webbing lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a meticulous tassel lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
@@ -396,7 +396,7 @@ a noble nylon webbing lanyard made of __acc_lanyard_mat_all_luxury__, coloured i
 a noble ribbon lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a noble woven lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a painstaking Sami braided lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
-a painstaking badge lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
+a painstaking patch lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a painstaking camera-free key lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a painstaking chain lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a painstaking hemp lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
@@ -491,7 +491,7 @@ a rarefied tool lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __ac
 a ready-to-wear breakaway lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a ready-to-wear clip-on lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a ready-to-wear woven lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
-a refined badge lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
+a refined patch lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a refined chain lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a refined paracord lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a regal Maori carved lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
@@ -513,7 +513,7 @@ a resilient chain lanyard made of __acc_lanyard_mat_all_practical__, coloured in
 a resilient reflective lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a resilient wrist lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a respectable Sami braided lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
-a respectable badge lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
+a respectable patch lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a respectable chain lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a respectable clip-on lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a respectable paracord lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
@@ -563,7 +563,7 @@ a sensational retractable lanyard made of __acc_lanyard_mat_all_showpiece__, col
 a sensational tool lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a sensational whistle lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a sensible Sami braided lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
-a sensible badge lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
+a sensible patch lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a sensible paracord lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a sensible reflective lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a serviceable Andean woven lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
@@ -584,7 +584,7 @@ a simple elastic lanyard made of __acc_lanyard_mat_all_basic__, coloured in __ac
 a simple padded lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a singular Mexican woven lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a singular Sami braided lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
-a singular badge lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
+a singular patch lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a singular chain lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a singular ribbon lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a singular tassel lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
@@ -597,7 +597,7 @@ a skilfully made tassel lanyard made of __acc_lanyard_mat_all_fine__, coloured i
 a sleek ribbon lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a sleek wrist lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a smart Native-style quilled lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
-a smart badge lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
+a smart patch lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a smart braided cord lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a smart breakaway lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a smart camera-free key lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
@@ -605,14 +605,14 @@ a smart paracord lanyard made of __acc_lanyard_mat_all_standard__, coloured in _
 a smart retractable lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a smart tool lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a solid Sami braided lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
-a solid badge lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
+a solid patch lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a solid neck lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a solid neck lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a solid nylon webbing lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a solid nylon webbing lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a solid paracord lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a solid whistle lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
-a sophisticated badge lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
+a sophisticated patch lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a sophisticated beyond measure Andean woven lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a sophisticated beyond measure elastic lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a sophisticated beyond measure padded lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
@@ -641,7 +641,7 @@ a steadfast neck lanyard made of __acc_lanyard_mat_all_practical__, coloured in 
 a steadfast nylon webbing lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a steadfast silk-cord lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a steadfast wrist lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
-a straightforward badge lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
+a straightforward patch lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a straightforward chain lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a straightforward tassel lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 a straightforward tool lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
@@ -680,7 +680,7 @@ a sumptuous tool lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __a
 a sumptuous wrist lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a superior leather lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a superior padded lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
-a supremely refined badge lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
+a supremely refined patch lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a supremely refined neck lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a supremely refined retractable lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 a tailored braided cord lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
@@ -692,7 +692,7 @@ a tasteful camera-free key lanyard made of __acc_lanyard_mat_all_standard__, col
 a tasteful ribbon lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a tasteful tassel lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a thoroughly tested Sami braided lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
-a thoroughly tested badge lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
+a thoroughly tested patch lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a thoroughly tested braided cord lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a thoroughly tested leather lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a thoroughly tested retractable lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
@@ -752,7 +752,7 @@ a virtuoso breakaway lanyard made of __acc_lanyard_mat_all_showpiece__, coloured
 a virtuoso nylon webbing lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 a weatherproof Maori carved lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a weatherproof Sami braided lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
-a weatherproof badge lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
+a weatherproof patch lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a weatherproof nylon webbing lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a weatherproof ribbon lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
 a weatherproof silk-cord lanyard made of __acc_lanyard_mat_all_practical__, coloured in __acc_colour__
@@ -768,7 +768,7 @@ a well-bred retractable lanyard made of __acc_lanyard_mat_all_fine__, coloured i
 a well-bred tool lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 a well-built Japanese kumihimo lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a well-built Sami braided lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
-a well-built badge lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
+a well-built patch lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a well-built beaded lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a well-built camera-free key lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 a well-built ribbon lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
@@ -816,7 +816,7 @@ an agreeable ribbon lanyard made of __acc_lanyard_mat_all_standard__, coloured i
 an agreeable whistle lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 an appealing Native-style quilled lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 an appealing Sami braided lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
-an appealing badge lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
+an appealing patch lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 an appealing braided cord lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 an appealing silk-cord lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
 an appealing tool lanyard made of __acc_lanyard_mat_all_standard__, coloured in __acc_colour__
@@ -829,7 +829,7 @@ an artisanal Andean woven lanyard made of __acc_lanyard_mat_all_luxury__, colour
 an artisanal nylon webbing lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 an artisanal paracord lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 an assured Andean woven lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
-an assured badge lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
+an assured patch lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 an assured breakaway lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 an assured macramé lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 an assured padded lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
@@ -879,7 +879,7 @@ an entry-level macramé lanyard made of __acc_lanyard_mat_all_basic__, coloured 
 an entry-level padded lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an entry-level tassel lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an everyday Sami braided lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
-an everyday badge lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
+an everyday patch lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an everyday neck lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an everyday nylon webbing lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an everyday silk-cord lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
@@ -925,7 +925,7 @@ an extraordinary leather lanyard made of __acc_lanyard_mat_all_luxury__, coloure
 an extraordinary whistle lanyard made of __acc_lanyard_mat_all_luxury__, coloured in __acc_colour__
 an extravagant Mexican woven lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 an extravagant Native-style quilled lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
-an extravagant badge lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
+an extravagant patch lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 an immaculate hemp lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 an immaculate paracord lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
 an immaculate ribbon lanyard made of __acc_lanyard_mat_all_fine__, coloured in __acc_colour__
@@ -947,7 +947,7 @@ an off-the-shelf ribbon lanyard made of __acc_lanyard_mat_all_basic__, coloured 
 an off-the-shelf silk-cord lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an off-the-shelf tassel lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an off-the-shelf tool lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
-an one-of-a-kind badge lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
+an one-of-a-kind patch lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 an one-of-a-kind breakaway lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 an one-of-a-kind hemp lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 an one-of-a-kind nylon webbing lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
@@ -986,7 +986,7 @@ an understated braided cord lanyard made of __acc_lanyard_mat_all_basic__, colou
 an understated camera-free key lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an understated leather lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an understated ribbon lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
-an unfussy badge lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
+an unfussy patch lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an unfussy woven lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an unparalleled Andean woven lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 an unparalleled neck lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
@@ -1001,7 +1001,7 @@ an unrepeatable elastic lanyard made of __acc_lanyard_mat_all_showpiece__, colou
 an unrepeatable macramé lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 an unrepeatable woven lanyard made of __acc_lanyard_mat_all_showpiece__, coloured in __acc_colour__
 an utilitarian Sami braided lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
-an utilitarian badge lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
+an utilitarian patch lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an utilitarian camera-free key lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an utilitarian retractable lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__
 an utilitarian tool lanyard made of __acc_lanyard_mat_all_basic__, coloured in __acc_colour__

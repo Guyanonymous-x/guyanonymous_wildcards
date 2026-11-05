@@ -1,7 +1,7 @@
 1950s diner
 1950s diner meets pencil crosshatch
 1960s psychedelic
-1960s psychedelic meets circus poster
+1960s psychedelic meets circus picture panel
 1970s disco
 1970s disco meets astronomical chart
 1980s neon synthwave
@@ -23,7 +23,7 @@ Alpine folk painting meets Chinese ink wash
 Andean textile
 Andean textile meets copperplate engraving
 Arts and Crafts woodcut
-Arts and Crafts woodcut meets wildstyle lettering
+Arts and Crafts woodcut meets wildstyle pattern
 Aztec codex
 Aztec codex meets needlepoint
 Bauhaus geometry
@@ -40,8 +40,8 @@ Delft blue
 Delft blue meets Persian miniature
 Dutch Golden Age still life
 Dutch Golden Age still life meets Mexican folk art
-Edwardian poster
-Edwardian poster meets expressionist
+Edwardian picture panel
+Edwardian picture panel meets expressionist
 Egyptian tomb painting
 Egyptian tomb painting meets skate deck graphic
 Ethiopian icon
@@ -115,7 +115,7 @@ Renaissance engraving meets Greek vase painting
 Roman mosaic
 Roman mosaic meets Portuguese azulejo
 Russian constructivist
-Russian constructivist meets propaganda poster
+Russian constructivist meets propaganda picture panel
 Russian lacquer painting
 Russian lacquer painting meets linocut
 Scandinavian folk art
@@ -134,8 +134,8 @@ Victorian botanical plate
 Victorian botanical plate meets sci-fi pulp cover
 Victorian trade card
 Victorian trade card meets Kuba cloth
-WPA poster
-WPA poster meets street art stencil
+WPA picture panel
+WPA picture panel meets street art stencil
 Warli tribal art
 Warli tribal art meets space opera
 William Morris-style repeat
@@ -145,7 +145,7 @@ Y2K chrome meets Renaissance engraving
 abstract expressionist drips
 abstract expressionist drips meets solarpunk
 airbrushed chrome
-airbrushed chrome meets matchbox label
+airbrushed chrome meets matchbox tab
 alchemical diagram
 alchemical diagram meets art deco
 anatomical plate
@@ -171,21 +171,21 @@ beadwork meets scientific diagram
 biker patch
 biker patch meets blueprint
 blueprint
-blueprint meets cyberpunk graffiti
+blueprint meets cyberpunk spray-painted shapes
 botanical cross-section
 botanical cross-section meets Islamic geometric
-brutalist poster
-brutalist poster meets crayon child-like marks
+brutalist picture panel
+brutalist picture panel meets crayon child-like marks
 charcoal sketch
 charcoal sketch meets scrimshaw-style engraving
 chibi
 chibi meets Haida formline
 circuit schematic
 circuit schematic meets Russian lacquer painting
-circus poster
-circus poster meets vintage photograph
+circus picture panel
+circus picture panel meets vintage photograph
 collage of magazine cutouts
-collage of magazine cutouts meets surf poster
+collage of magazine cutouts meets surf picture panel
 comic book inking
 comic book inking meets Rajasthani miniature
 copperplate engraving
@@ -195,13 +195,13 @@ crayon child-like marks meets medieval bestiary
 creepy-cute
 creepy-cute meets aura airbrush
 crewel embroidery
-crewel embroidery meets psychedelic poster art
+crewel embroidery meets psychedelic picture panel art
 cross-stitch sampler
 cross-stitch sampler meets rockabilly flash
 cubist
-cubist meets graffiti tag
-cyberpunk graffiti
-cyberpunk graffiti meets isometric illustration
+cubist meets spray-painted shapes tab
+cyberpunk spray-painted shapes
+cyberpunk spray-painted shapes meets isometric illustration
 deconstructed typography
 deconstructed typography meets Bauhaus geometry
 dieselpunk
@@ -236,8 +236,8 @@ gothic horror
 gothic horror meets art nouveau
 gouache
 gouache meets watercolor wash
-graffiti tag
-graffiti tag meets holographic gradient
+spray-painted shapes tab
+spray-painted shapes tab meets holographic gradient
 heraldic crest
 heraldic crest meets Indian block print
 holographic gradient
@@ -245,7 +245,7 @@ holographic gradient meets Victorian trade card
 hyperreal oil painting
 hyperreal oil painting meets lithograph
 impressionist brushwork
-impressionist brushwork meets Edwardian poster
+impressionist brushwork meets Edwardian picture panel
 isometric illustration
 isometric illustration meets kawaii cute
 kawaii cute
@@ -264,8 +264,8 @@ macramé knot
 macramé knot meets 1970s disco
 manga screentone
 manga screentone meets Aboriginal dot painting
-matchbox label
-matchbox label meets Byzantine mosaic
+matchbox tab
+matchbox tab meets Byzantine mosaic
 medieval bestiary
 medieval bestiary meets Ndebele geometry
 mid-century atomic
@@ -299,17 +299,17 @@ pencil crosshatch meets botanical cross-section
 photorealistic airbrush
 photorealistic airbrush meets baroque ornament
 pixel art
-pixel art meets vintage travel poster
+pixel art meets vintage travel picture panel
 playing-card face
 playing-card face meets ballpoint doodle
 pointillist dots
 pointillist dots meets Turkish ebru marbling
 pop art
 pop art meets ASCII art
-propaganda poster
-propaganda poster meets vaporwave
-psychedelic poster art
-psychedelic poster art meets Memphis Group
+propaganda picture panel
+propaganda picture panel meets vaporwave
+psychedelic picture panel art
+psychedelic picture panel art meets Memphis Group
 punk zine cut-and-paste
 punk zine cut-and-paste meets tiki lounge
 quilt block
@@ -319,7 +319,7 @@ retro cartoon meets Victorian botanical plate
 retro-futurism
 retro-futurism meets pop art
 risograph overprint
-risograph overprint meets brutalist poster
+risograph overprint meets brutalist picture panel
 rockabilly flash
 rockabilly flash meets Arts and Crafts woodcut
 rococo scroll
@@ -347,11 +347,11 @@ steampunk engraving meets seed packet illustration
 stencil spray
 stencil spray meets rococo scroll
 sticker bomb collage
-sticker bomb collage meets WPA poster
+sticker bomb collage meets WPA picture panel
 street art stencil
 street art stencil meets 1980s neon synthwave
-surf poster
-surf poster meets impressionist brushwork
+surf picture panel
+surf picture panel meets impressionist brushwork
 surrealist dreamscape
 surrealist dreamscape meets theatre playbill
 tarot card
@@ -372,13 +372,13 @@ vintage ad illustration
 vintage ad illustration meets appliqué
 vintage photograph
 vintage photograph meets airbrushed chrome
-vintage travel poster
-vintage travel poster meets op art
+vintage travel picture panel
+vintage travel picture panel meets op art
 voxel art
 voxel art meets crewel embroidery
 watercolor wash
 watercolor wash meets low-poly mesh
-wildstyle lettering
-wildstyle lettering meets German woodcut
+wildstyle pattern
+wildstyle pattern meets German woodcut
 woodcut chiaroscuro
 woodcut chiaroscuro meets gothic horror
