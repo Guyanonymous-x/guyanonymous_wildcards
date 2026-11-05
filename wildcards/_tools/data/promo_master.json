@@ -3,6 +3,19 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 103",
+   [
+    "Adult poses now come with people: `__adult_l1_pose_person__` ... `__adult_l6_pose_person__` give every pose line a distinct adult (age 20s-70s, heritage, skin, build, hair, facial hair) from `__apose_person_f__` and `__apose_person_m__` (1,600 each).",
+    "`__adult_l1_pose_scene__` ... `__adult_l6_pose_scene__` add a place, a light and a framing clause (`__apose_place__`, `__apose_light__`, `__apose_frame__`), so the grids no longer look like one warm lamp-lit room.",
+    "Vague device phrases ('a small remote', 'a buzzing tube', 'a ring that buzzes') were rewritten as concrete shapes and colours so the model draws them as intended.",
+    "Age pools cleaned: young skin, glow, hair colour and strenuous poses removed from the 65+ brackets, aged skin removed from the youngest brackets.",
+    "Age ladders: `__age_step1_body_skin__` ... `__age_step9_body_skin__` and `__age_step1_hand_skin__` ... `__age_step9_hand_skin__` give an evenly graded body and hand ageing for age grids.",
+    "Hand pools no longer bake in 'swollen', 'knobby' or 'arthritic' (the model drew these as round balls). Joint conditions are now an optional modifier: `__hand_condition_mild__`, `__hand_condition_marked__` or `__hand_condition__`, described by concrete shapes, to add to any hand prompt.",
+    "Pubic hair: new `__pubic_hair_stubble__` and `__pubic_hair_patchy__` pools, and a separate `__pubic_hair_shape__` modifier for hair shaved or trimmed into shapes (heart, arrow, line, triangle, diamond, star, lightning bolt and more). `__f_pubichair_all__` and `__m_pubichair_all__` combine them with the existing pools.",
+    "A 40-image prompt showcase at 1024 and 1408 pixel counts, steps 50, cfg 3.75, and 100 sample prompts."
+   ]
+  ],
+  [
    "Version 102",
    [
     "Object-first brand-style prompts now use commas instead of periods inside the style text, so the style reads as one unified description (your A/B tests favoured commas).",

@@ -1,0 +1,2 @@
+v103 index
+Library-wide text audit. textfix.py rewrites trigger nouns that make the model print words (about 63,000 lines in 2,587 files) and turns engraved names, initials and monograms into quoted invented text. Rules: docs/STANDING_RULES.txt section 0.
