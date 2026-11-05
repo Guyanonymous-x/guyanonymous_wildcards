@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+E01	brand rolls_royce	4:5	912x1152	1264x1568	867	8800	ok 
+E02	brand mini named	3:2	1248x848	1728x1152	779	8811	ok 
+E03	brand land_rover	1:1	1024x1024	1408x1408	809	8822	ok 
+E04	brand volkswagen named	4:5	912x1152	1264x1568	746	8833	ok 
+E05	brand bmw	3:2	1248x848	1728x1152	858	8844	ok 
+E06	brand mercedes_benz named	2:3	832x1264	1152x1728	855	8855	ok 
+E07	brand toyota	1:1	1024x1024	1408x1408	877	8866	ok 
+E08	brand tesla named	3:2	1248x848	1728x1152	882	8877	ok 
+E09	brand louis_vuitton	4:5	912x1152	1264x1568	855	8888	ok 
+E10	brand gucci named	3:2	1248x848	1728x1152	848	8899	ok 
+E11	brand hermes	1:1	1024x1024	1408x1408	914	8910	ok 
+E12	brand ralph_lauren named	4:5	912x1152	1264x1568	897	8921	ok 
+E13	brand lacoste	3:2	1248x848	1728x1152	859	8932	ok 
+E14	brand tiffany_and_co named	2:3	832x1264	1152x1728	853	8943	ok 
+E15	brand lego	1:1	1024x1024	1408x1408	853	8954	ok 
+E16	brand vans named	3:2	1248x848	1728x1152	842	8965	ok 
+E17	brand converse	4:5	912x1152	1264x1568	904	8976	ok 
+E18	brand pepsi named	3:2	1248x848	1728x1152	813	8987	ok 
+E19	brand guinness	1:1	1024x1024	1408x1408	858	8998	ok 
+E20	brand starbucks named	4:5	912x1152	1264x1568	833	9009	ok 
+E21	brand mcdonalds	3:2	1248x848	1728x1152	846	9020	ok 
+E22	brand braun named	2:3	832x1264	1152x1728	858	9031	ok 
+E23	brand nintendo	1:1	1024x1024	1408x1408	840	9042	ok 
+E24	brand rolex named	3:2	1248x848	1728x1152	809	9053	ok 
+E25	brand harley_davidson	4:5	912x1152	1264x1568	868	9064	ok 
+E26	brand rolls_royce again	3:2	1248x848	1728x1152	837	9075	ok 
+E27	brand mini again	1:1	1024x1024	1408x1408	751	9086	ok 
+E28	brand land_rover again	4:5	912x1152	1264x1568	809	9097	ok 
+E29	brand volkswagen again	3:2	1248x848	1728x1152	756	9108	ok 
+E30	brand bmw again	2:3	832x1264	1152x1728	864	9119	ok 
+E31	brand mercedes_benz again	1:1	1024x1024	1408x1408	855	9130	ok 
+E32	brand toyota again	3:2	1248x848	1728x1152	894	9141	ok 
+E33	brand tesla again	4:5	912x1152	1264x1568	890	9152	ok 
+E34	brand louis_vuitton again	3:2	1248x848	1728x1152	889	9163	ok 
+E35	brand gucci again	1:1	1024x1024	1408x1408	862	9174	ok 
+E36	brand hermes again	4:5	912x1152	1264x1568	935	9185	ok 
+E37	brand ralph_lauren again	3:2	1248x848	1728x1152	897	9196	ok 
+E38	brand lacoste again	2:3	832x1264	1152x1728	874	9207	ok 
+E39	brand tiffany_and_co again	1:1	1024x1024	1408x1408	885	9218	ok 
+E40	brand lego again	3:2	1248x848	1728x1152	878	9229	ok 

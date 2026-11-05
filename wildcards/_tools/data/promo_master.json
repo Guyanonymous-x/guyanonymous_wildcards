@@ -3,6 +3,15 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 88",
+   [
+    "25 more brand styles rewritten after checking image grids: Rolls-Royce, Mini, Land Rover, Volkswagen, BMW, Mercedes-Benz, Toyota, Tesla, Louis Vuitton, Gucci, Hermes, Ralph Lauren, Lacoste, Tiffany and Co, Lego, Vans, Converse, Pepsi, Guinness, Starbucks, McDonalds, Braun, Nintendo, Rolex, Harley-Davidson.",
+    "Each style describes transferable design language (shapes, materials, finish, palette, lettering, photography) usable on any product, with no named parts or models.",
+    "Default `maker_bs_<brand>` gives the style only; `_named` adds the name. Research notes are in docs/RESEARCH_v88_brands_batch2.txt.",
+    "A 40-image prompt showcase at 1024 and 1408 pixel counts, steps 50, cfg 3.75, no trailing blank line, and 100 random sample prompts."
+   ]
+  ],
+  [
    "Version 87",
    [
     "Men-only staged play-fighting for levels 1 to 3 (`adult_wrestling_mm`, `adult_lN_wrestling_mm_prompt`, 90 lines): pillows, sauna, mud, oil, gym mat and ring.",
