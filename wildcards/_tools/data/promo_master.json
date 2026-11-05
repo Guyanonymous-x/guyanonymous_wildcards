@@ -3,6 +3,14 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 100",
+   [
+    "Brand-style prompts now pick from 24 views and lighting set-ups (late-afternoon sun, overcast, a single warm lamp, low angle, flat lay, gallery plinth and more) instead of 8, so showcases and samples no longer repeat the same studio light.",
+    "Brand descriptions that begin with a noun phrase now read 'Styled after a ...' instead of 'Styled in a design language of a ...'.",
+    "A 40-image prompt showcase at 1024 and 1408 pixel counts, steps 50, cfg 3.75, and 100 random sample prompts."
+   ]
+  ],
+  [
    "Version 99",
    [
     "70 new brand styles of defunct or historic brands, from Saab and Pontiac to Pan Am, Braniff, Biba, Dansette, Trabant, Sinclair, Agfa and Woolworths, each written as an object style: colours, forms, materials and patterns only.",
