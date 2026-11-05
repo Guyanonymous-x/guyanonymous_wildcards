@@ -3,6 +3,17 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 87",
+   [
+    "Men-only staged play-fighting for levels 1 to 3 (`adult_wrestling_mm`, `adult_lN_wrestling_mm_prompt`, 90 lines): pillows, sauna, mud, oil, gym mat and ring.",
+    "Off-White, Bosch Professional, Makita and SodaStream brand styles rewritten as product-neutral essence descriptions.",
+    "Pinback and adult achievement files deduplicated: no picture or wording repeated across files.",
+    "Levels 1 to 5 cleaned of crowd, audience and spectator mentions, so no scene implies five or more adults.",
+    "Showcase lighting now matches the scene (indoor, outdoor, or neutral); place-specific lighting lines are left out.",
+    "A 40-image prompt showcase at 1024 and 1408 pixel counts, steps 50, cfg 3.75, no trailing blank line, and 100 random sample prompts."
+   ]
+  ],
+  [
    "Version 86",
    [
     "Pinback buttons (`pinback_prompt`, 676 lines): slogans, music, fandom, causes, identity, events, adult, plain designs - each a round button with size, border, print finish, picture, words and safety-pin back.",

@@ -1,5 +1,5 @@
 """v86 showcase: 40 prompts - pinbacks, insignia, adult achievements, kilts, pony, torn clothing."""
-import sys, os, random
+import sys, os, random, re
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import expand as E
 from paths import FINAL
@@ -8,13 +8,18 @@ files = E.load([FINAL])
 RATIOS = [(4, 5), (3, 2), (1, 1), (4, 5), (3, 2), (2, 3), (1, 1), (3, 2)]
 def one(ref, seed):
     r = random.Random(seed); return ' '.join(E.clean(E.expand(files, ref, r)).split())
+import lightfit
 def light(seed):
-    s = one('__photostyle_lighting__', seed).rstrip('.'); return 'Photographed with ' + s[0].lower() + s[1:] + '.'
+    return '@@L%d@@' % seed
 def up(t): return t[0].upper() + t[1:]
 def build(off=0):
     S = []; n = 0
     def add(title, ratio, text):
-        nonlocal n; n += 1; S.append(('C%02d' % n, title, ratio, text))
+        nonlocal n; n += 1
+        m = re.search(r'@@L(\d+)@@', text)
+        if m:
+            ls = lightfit.pick(text[:m.start()], one, int(m.group(1))); text = text[:m.start()] + 'Photographed with ' + ls[0].lower() + ls[1:] + '.'
+        S.append(('C%02d' % n, title, ratio, text))
     sd = lambda: 8600 + off + n * 7
     def item(ref): return up(one(ref, sd()).rstrip('.')) + '.'
     for k in ['slogans', 'music', 'fandom', 'cause', 'identity', 'event', 'adult', 'designs', 'slogans', 'music']:
