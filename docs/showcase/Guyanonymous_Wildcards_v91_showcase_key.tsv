@@ -1,0 +1,41 @@
+id	title	ratio	size_1024eq	size_1408eq	chars	seed	check
+H01	brand jeep	4:5	912x1152	1264x1568	774	9100	ok 
+H02	brand nike named	3:2	1248x848	1728x1152	724	9111	ok 
+H03	brand adidas	1:1	1024x1024	1408x1408	852	9122	ok 
+H04	brand vans named	4:5	912x1152	1264x1568	916	9133	ok 
+H05	brand converse	3:2	1248x848	1728x1152	816	9144	ok 
+H06	brand levi_strauss named	2:3	832x1264	1152x1728	600	9155	ok 
+H07	brand chanel	1:1	1024x1024	1408x1408	760	9166	ok 
+H08	brand burberry named	3:2	1248x848	1728x1152	797	9177	ok 
+H09	brand porsche	4:5	912x1152	1264x1568	723	9188	ok 
+H10	brand ferrari named	3:2	1248x848	1728x1152	744	9199	ok 
+H11	brand patagonia	1:1	1024x1024	1408x1408	661	9210	ok 
+H12	brand barbour named	4:5	912x1152	1264x1568	747	9221	ok 
+H13	brand zippo	3:2	1248x848	1728x1152	786	9232	ok 
+H14	brand muji named	2:3	832x1264	1152x1728	757	9243	ok 
+H15	brand olivetti	1:1	1024x1024	1408x1408	834	9254	ok 
+H16	brand ikea named	3:2	1248x848	1728x1152	782	9265	ok 
+H17	brand rolls_royce	4:5	912x1152	1264x1568	703	9276	ok 
+H18	brand mini named	3:2	1248x848	1728x1152	743	9287	ok 
+H19	brand land_rover	1:1	1024x1024	1408x1408	800	9298	ok 
+H20	brand volkswagen named	4:5	912x1152	1264x1568	665	9309	ok 
+H21	brand bmw	3:2	1248x848	1728x1152	850	9320	ok 
+H22	brand lego named	2:3	832x1264	1152x1728	882	9331	ok 
+H23	brand rolex	1:1	1024x1024	1408x1408	800	9342	ok 
+H24	brand braun named	3:2	1248x848	1728x1152	882	9353	ok 
+H25	brand nintendo	4:5	912x1152	1264x1568	832	9364	ok 
+H26	brand harley_davidson named	3:2	1248x848	1728x1152	869	9375	ok 
+H27	brand lacoste	1:1	1024x1024	1408x1408	676	9386	ok 
+H28	brand tiffany_and_co named	4:5	912x1152	1264x1568	968	9397	ok 
+H29	brand gucci	3:2	1248x848	1728x1152	855	9408	ok 
+H30	brand hermes named	2:3	832x1264	1152x1728	998	9419	ok 
+H31	brand ralph_lauren	1:1	1024x1024	1408x1408	804	9430	ok 
+H32	brand pepsi named	3:2	1248x848	1728x1152	838	9441	ok 
+H33	brand guinness	4:5	912x1152	1264x1568	758	9452	ok 
+H34	brand starbucks named	3:2	1248x848	1728x1152	899	9463	ok 
+H35	brand sony	1:1	1024x1024	1408x1408	716	9474	ok 
+H36	brand apple named	4:5	912x1152	1264x1568	758	9485	ok 
+H37	brand louis_vuitton	3:2	1248x848	1728x1152	905	9496	ok 
+H38	brand toyota named	2:3	832x1264	1152x1728	901	9507	ok 
+H39	brand tesla	1:1	1024x1024	1408x1408	901	9518	ok 
+H40	brand mercedes_benz named	3:2	1248x848	1728x1152	765	9529	ok 
