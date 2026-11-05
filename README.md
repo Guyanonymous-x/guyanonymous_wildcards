@@ -25,7 +25,6 @@ Penis stages and modifiers, physical fluid wording, masturbation by level and be
 - Pubic hair stubble, patchy and shaved shapes; masturbation pools for levels 1 to 6.
 - New Beauty and Grooming section: female and male hygiene, grooming, beauty and unisex care objects, about 575 descriptions.
 - **Showcase and sample files:** the showcase files (40 prompts at 1024 and 1408 sizes, plus a key file) highlight what is new or changed in this version, while the 100 sample prompts are representative of everything the model can do. Both are in [docs/showcase/](docs/showcase/), built by `_tools/v104_showcase.py`.
-- **Showcase and sample files:** the showcase files (40 prompts at 1024 and 1408 sizes, plus a key file) highlight what is new or changed in this version, while the 100 sample prompts are representative of everything the model can do. Both are in [docs/showcase/](docs/showcase/), built by `_tools/v104_showcase.py`.
 
 The full list of v104 entry points is in `wildcards/v104_entry_points.txt`.
 
