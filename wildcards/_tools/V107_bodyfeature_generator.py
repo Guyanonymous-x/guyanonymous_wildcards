@@ -269,11 +269,23 @@ def identity0(sp, sex, r):
     if not key.startswith('skin'):
         tone = re.sub(r' that is slightly darker on the hands and neck', '', B.g('__dem_tone__', r)); t = re.split(r', with | with ', tone)[0]; parts.append(t if 'skin' in t else t + ' skin')
     clinical = sp['group'] == 'adult' and not key.startswith('expr')
-    if not clinical and not key.startswith('hair') and key not in ('hair_volume_line', 'facial_hair'):
+    if not clinical and not key.startswith('hair') and key not in ('hair_volume_line', 'facial_hair') and key not in CROP:
         parts.append(r.choice(HAIR_P) if sex == B.W or key not in HEADK else r.choice(HAIR_P).replace('pulled back off the face', 'cut short'))
     return ', '.join(parts)
+CROP = {
+ 'eyes': 'An extreme close-up macro photograph of the eyes alone, filling the whole panel edge to edge: the frame runs from just above the eyebrows to just below the lower eyelids, both eyes large and sharp across the full width',
+ 'eyelashes': 'An extreme close-up macro photograph of one eye alone, filling the whole panel edge to edge: the frame runs from the eyebrow to the top of the cheek, the lashes and lids large and sharp',
+ 'eyebrows': 'An extreme close-up photograph of the eyebrows alone, filling the whole panel edge to edge: the frame runs from the hairline down to the upper eyelids, both brows large and sharp across the full width',
+ 'nose': 'An extreme close-up photograph of the nose alone, filling the whole panel: the frame runs from between the eyes down to the upper lip, the nose large and sharp in the centre, turned slightly toward the left of the frame',
+ 'nose_profile': 'An extreme close-up photograph of the nose alone in exact side profile, filling the whole panel: the frame runs from the brow down to the upper lip, the outline of the nose large and sharp',
+ 'lips': 'An extreme close-up photograph of the mouth alone, filling the whole panel edge to edge: the frame runs from just below the nose to just below the lower lip, the lips large and sharp across the full width',
+ 'teeth': 'An extreme close-up photograph of the open, smiling mouth alone, filling the whole panel edge to edge: the frame runs from just below the nose to the chin, the teeth and gums large and sharp',
+ 'ears': 'An extreme close-up photograph of one ear alone, seen from the side and filling the whole panel: the frame runs from just above the ear to just below the earlobe, the ear large and sharp in the centre',
+ 'chin': 'An extreme close-up photograph of the chin and jaw alone, filling the whole panel: the frame runs from the lower lip down to the top of the neck, turned slightly toward the left of the frame',
+ 'cheeks_jaw': 'A close-up photograph of the lower two-thirds of the face, filling the whole panel: the frame runs from the cheekbones down to the jaw, turned slightly toward the left of the frame'}
 def view(sp, frame):
     key = sp['key']
+    if key in CROP: return CROP[key]
     if key == 'nose_profile': return 'A tight side-profile close-up of the nose'
     if 'clinical' in frame: return cap(frame_phrase(frame, 'the same person')) if False else None
     if key.startswith('hair') or key == 'hair_volume_line': return 'A head and shoulders view with the head turned about thirty degrees toward the left side of the frame, so that the front and the side of the hair are both in view'
@@ -282,7 +294,7 @@ def view(sp, frame):
     if key in HEADK or key == 'neck': return 'A tight close-up of %s with the head turned about thirty degrees toward the left side of the frame, so that the front of %s and a little of the side profile are both in view' % (part, part)
     return 'A close-up of %s, turned partly toward the left side of the frame so that the front and a little of the side contour are both in view' % part
 USED = {}
-SAME = {'eyes': 'age, skin colour, hair colour, the same dark brown eye colour, the same short natural eyelashes and bare, unpainted eyelids and skin', 'skin': 'age, hair colour, eye colour, face and build'}
+SAME = {'eyes': 'age and skin colour, the same dark brown eye colour, the same short natural eyelashes and bare, unpainted eyelids and skin', 'skin': 'age, hair colour, eye colour, face and build'}
 CAP = {}
 for sp in B.SPECS:
     for k, (sex, frame, subj) in enumerate(sp['frames']):
@@ -326,12 +338,12 @@ for sp in B.SPECS:
             picks = pool_[:n_] if (sp['key'] in CLS or sp['key'] in CLASSPICK or sp['key'] == 'expr_adult') else diverse(pool_, n_, r, tr); used.update(picks); CAP[(sp['key'], sex)] = CAP.get((sp['key'], sex), 0) + 1
             for c in picks:
                 ex = LIMB if sp['key'] in LIMBKEYS else ' The hand has five fingers and belongs to one arm.' if sp['key'] in ('hands', 'nails') else ' The foot has five toes.' if sp['key'] == 'feet' else ''
-                cells.append('(%s: %s. %s of the same %s, completely nude, %s.%s)' % (lab, c, v, ident, GREYBG, ex))
-            same = SAME.get(sp['key'][:4] if sp['key'].startswith('skin') else sp['key'], 'age, skin colour, hair colour and eye colour')
+                cells.append(('(%s: %s. %s, of the same %s.%s)' % (lab, c, v, ident, ex)) if sp['key'] in CROP else ('(%s: %s. %s of the same %s, completely nude, %s.%s)' % (lab, c, v, ident, GREYBG, ex)))
+            same = SAME.get(sp['key'][:4] if sp['key'].startswith('skin') else sp['key'], 'age and skin colour' if sp['key'] in CROP else 'age, skin colour, hair colour and eye colour')
             head = ('A grid of %d equal photographic panels arranged in two rows of %s columns, separated by thin plain white gaps. ' % (n_, 'three' if n_ == 6 else 'two')
-                    + 'Every panel shows the same person, completely nude and wearing no clothing at all, with the same %s, in the same light against the same plain background. ' % same
-                    + 'Only the %s changes, and it changes clearly and visibly from panel to panel, exactly as each panel describes; ' % ll
-                    + 'neighbouring parts of the body change in shape to match' + ('' if sp['key'].startswith('skin') else ', never in skin colour') + '. Each panel is a separate photograph.')
+                    + (('Every panel is an extreme close-up of the same person, with the same %s, in the same soft light. ' % same) if sp['key'] in CROP else ('Every panel shows the same person, completely nude and wearing no clothing at all, with the same %s, in the same light against the same plain background. ' % same))
+                    + 'Only this feature changes: the %s. It changes clearly and visibly from panel to panel, exactly as each panel describes; ' % ll
+                    + ('nothing else changes' if sp['key'] in CROP else 'neighbouring parts of the body change in shape to match' + ('' if sp['key'].startswith('skin') else ', never in skin colour')) + '. Each panel is a separate photograph.')
             rows.append((sp['key'], sex, 'feature', ' '.join((head + ' ' + ' '.join('The %s panel: %s' % (ORD[i], c) for i, c in enumerate(cells))).split()), seed, False))
 # ---- age progression (same person across panels)
 AG = B.AGES

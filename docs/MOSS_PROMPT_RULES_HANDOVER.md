@@ -65,3 +65,4 @@
 - Eye grids: changing eye colour, lashes or adding makeup swamps the shape. Fix eye colour, lashes and bare lids in the header; vary only shape and lids (hooded, monolid, puffy under-eye bags, deep-set, downturned, upturned, large round).
 - Leading each panel with the changing feature and stating the shared person once in the header makes differences far more visible than repeating ~90 words of "same person" text per panel.
 - A gaunt face clause ages the person unless "still young, smooth young skin" is added.
+- Small facial features (eyes, lashes, brows, nose, lips, teeth, ears, chin): 'tight close-up' plus hair and 'nude, plain background' gives whole faces. Use 'extreme close-up ... filling the whole panel edge to edge: the frame runs from X to Y', drop hair and nudity/background text for those grids.
