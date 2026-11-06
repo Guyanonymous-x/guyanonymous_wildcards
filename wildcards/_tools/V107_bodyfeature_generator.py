@@ -131,9 +131,12 @@ CLS = {
           (r'small|bow-shaped|rosebud|petite', 'a very small, short, rounded mouth barely wider than the nostrils, the lips gathered into a small bud'),
           (r'fuller lower|thin bottom|top lip thin|pout|uneven|asymmetric|crooked', 'a thin upper lip over a very heavy, thick, pouting lower lip that juts forward and hangs slightly down'),
           (r'.', "a deep, sharply pointed Cupid's bow, two high, sharp peaks on the upper lip with a deep notch between them and a pronounced groove running up to the nose, on medium lips")],
- 'cheeks_jaw': [(r'hollow|sunken|lean|narrow', 'deeply hollow, sunken cheeks, the skin pulled in under the cheekbones'), (r'plump|fleshy|full|padded|rounded', 'round, full, padded cheeks'),
-          (r'high|prominent|sculpted|bony', 'very high, prominent cheekbones that jut out sharply under the eyes'), (r'square|wide jaw|disproportionate|broad thick', 'a wide, square jaw with sharp corners'),
-          (r'asymmetric|uneven', 'cheeks uneven in height from side to side'), (r'broad|flat|wide', 'wide, flat cheeks across a broad face'), (r'V-shaped|pointed|slender tapered|delicate', 'a narrow jaw that tapers to the chin'), (r'.', 'a soft, rounded jaw with no sharp angle')],
+ 'cheeks_jaw': [(r'hollow|sunken|lean|narrow', 'very gaunt, deeply hollow cheeks, the skin sucked in under the cheekbones, a thin, bony jaw'),
+          (r'plump|fleshy|full|padded|rounded', 'very chubby, round, puffed-out cheeks, like a baby face, with a soft round jaw'),
+          (r'high|prominent|sculpted|bony', 'very high, sharp cheekbones casting a dark shadow line beneath them, with a slim jaw'),
+          (r'square|wide jaw|disproportionate|broad thick|strong', 'a very wide, square jaw with hard corners and a muscle bulging at each corner'),
+          (r'jowl|sag|soft|relaxed|heavy', 'heavy, sagging jowls hanging down below the jawline on both sides'),
+          (r'dimple|smil|.', 'a deep dimple in the middle of each cheek, clearly visible with a slight smile')],
  'hands': [(r'calloused|rough|dirty|hard-working|cracked', 'rough, calloused, work-worn hands'), (r'long|slender|graceful|narrow|elegant|thin|bony|gaunt|slim', 'long, slender fingers on a narrow hand'),
           (r'thick|broad|square|stubby|chunky', 'big, broad, meaty hands with short, thick, sausage-like fingers'), (r'small|compact|petite|short', 'a very small, delicate hand with slim, short fingers'), (r'crooked|bent|asymmetric', 'fingers with crooked, bent joints'), (r'manicured|smooth|soft', 'smooth, soft, carefully manicured hands'), (r'.', 'a bony, veiny hand with prominent knuckles and tendons')]}
 CLS['face_shape'] = [(rx, cl) for rx, cl in COORD['face_shape']]
@@ -148,9 +151,9 @@ CLS.update({
  'ears': [(r'cauliflower|battered|damaged', 'a swollen, lumpy cauliflower ear, the upper ear thick and crumpled'),
           (r'pointed|elf', 'a tall elf-like ear rising to a long, sharp point at the top'),
           (r'large ears|large|big|prominent', 'a huge ear, almost twice normal size, reaching from the eyebrow down to below the jaw'),
-          (r'small|compact|tiny|tucked', 'a tiny ear, barely the size of a thumb, tucked tight against the head'),
-          (r'several piercings|piercings', 'an ear with a row of six silver rings and studs pierced all along the outer rim and the lobe'),
-          (r'protruding|sticking|cupped|stick', 'an ear sticking straight out from the side of the head at a right angle, like an open door')],
+          (r'attached', 'an ear with no hanging lobe at all, the bottom edge of the ear joined straight into the cheek'),
+          (r'free-hanging|detached|heavy earlobes|long', 'an ear with a long, heavy, free-hanging earlobe dangling well below the ear like a teardrop'),
+          (r'several piercings|piercings', 'an ear with a row of six silver rings and studs pierced all along the outer rim and the lobe')],
  'feet': [(r'wide|broad|thick', 'a very wide, flat, broad foot with the toes splayed far apart'),
           (r'narrow|slender|long toes|elegant', 'a long, narrow, slender foot with long, thin toes'),
           (r'high|arch', 'a foot with a very high, curved arch, the middle of the sole lifted well off the floor'),
@@ -237,8 +240,91 @@ CLS['nipples'] = [(r'inverted', 'an inverted nipple sunk into the centre of a me
 CLS['pecs_nipples_m'] = [(r'lean|ribs', 'a lean chest with the ribs showing and small, flat nipples'), (r'muscular', 'big, hard, muscular pecs with small nipples on their lower edge'),
                          (r'soft|rounded|full', 'a soft, full, rounded chest with puffy, wide nipples'), (r'broad and flat', 'a broad, flat chest with wide, flat nipples'),
                          (r'barrel|thick', 'a thick, deep, barrel-shaped chest with dark, wide nipples'), (r'.', 'a narrow, sunken, concave chest with small nipples')]
+# ---- hand-reviewed types (v107): each one judged for how it reads in a still photo at this framing
+_HAND = {
+ 'face_shape': ['a round, chubby face with full, fleshy cheeks and a soft double chin, on a heavy build',
+                'a gaunt, bony face with deep hollows under the cheekbones, on a very thin build, still young with smooth skin',
+                'a very long, narrow face, much taller than it is wide, with a tall forehead and a long chin',
+                'a broad, blocky square face with a massive, heavy jaw as wide as the forehead and a thick neck',
+                'a heart-shaped face with very wide cheekbones and a tiny, sharply pointed chin, the lower face small and narrow',
+                'a pear-shaped face with a narrow forehead and a very wide, heavy jaw with full jowls'],
+ 'eyelashes': ['extremely long, thick, curled lashes sweeping up past the crease',
+               'almost no eyelashes at all, only a few short, sparse hairs along bare lid edges',
+               'very short, straight, stubby lashes, barely visible',
+               'lashes so dense and dark they form a thick black line along the lid',
+               'long lashes pointing straight down, shading the eye',
+               'pale, white-blonde lashes that almost disappear against the skin'],
+ 'nose': ['a crooked nose that bends clearly to one side',
+          'a nose with a swollen, red, bulbous tip',
+          'a large hooked nose with a big bump on the bridge',
+          'a very broad, flat nose with wide, flaring nostrils',
+          'a small, upturned nose, the nostrils showing from the front',
+          'a very narrow, thin, pinched nose with tiny nostrils'],
+ 'nose_profile': ['in profile, a large Roman nose with a high bump on the bridge',
+                  'in profile, a scooped ski-slope bridge and a tip that turns sharply up',
+                  'in profile, a big, round, ball-like tip',
+                  'in profile, a very long nose with the tip hanging down below the nostrils',
+                  'in profile, a perfectly straight line from the forehead to the tip with no dip at the brow',
+                  'in profile, a tiny, short button nose barely sticking out from the face'],
+ 'lips': ['very thin lips, the upper lip almost invisible as a narrow line, the lower lip barely thicker',
+          'extremely full, thick, pillowy lips, the lower lip as thick as a thumb and rolled outward',
+          'a very wide mouth stretching far out toward the cheeks, much wider than the nose',
+          'a very small, short mouth barely wider than the nostrils, the lips gathered into a small bud',
+          'a thin upper lip over a very heavy, thick lower lip that juts forward and hangs down',
+          'a very full upper lip that overhangs a thin lower lip'],
+ 'teeth': ['a wide black gap where one upper front tooth is missing completely',
+           'two shiny gold caps covering the upper front teeth',
+           'large buck teeth, the upper front teeth jutting far forward over the lower lip',
+           'badly crowded, crooked teeth, several overlapping and pointing in different directions',
+           'a strong underbite, the lower teeth sitting well in front of the upper teeth',
+           'all the teeth stained dark yellow-brown, one canine capped in shiny silver metal'],
+ 'chin': ['a sharp, narrow, V-shaped pointed chin',
+          'a very wide, flat-bottomed square chin as wide as the mouth',
+          'a weak chin that slopes far back under the lower lip into the neck',
+          'a soft, rounded double chin with a heavy fold of flesh beneath it',
+          'a small round chin with a single small dimple in the middle of its tip, a soft spot of shadow with no vertical line',
+          'a big chin that pushes far forward, well in front of the lips'],
+ 'neck': ['a very long, slender swan neck', 'a very short neck, the head sitting close on the shoulders', 'a thick, wide, muscular neck as wide as the jaw',
+          'a thin neck with the tendons and collarbones standing out sharply', 'a neck ringed with deep, dark horizontal creases', 'a soft neck with a heavy double chin folding over it'],
+ 'hair_volume_line': ['thin, flat, sparse hair lying close to the scalp', 'enormous, teased, voluminous hair standing far out from the head', 'a hairline receding far back at both temples',
+                      "a sharp widow's-peak point at the centre of the hairline", 'a very low hairline only two fingers above the eyebrows', 'a very high hairline above a very tall, bare forehead'],
+ 'hands': ['a rough, work-worn hand with thick yellow calluses, small cuts and dirt in the creases',
+           'very long, thin, spidery fingers, far longer than the palm',
+           'a broad, thick, meaty hand with a wide palm and thick, sausage-like fingers',
+           'a hand with swollen, knobbly arthritic knuckles and fingers bent sideways',
+           'a thin, bony hand with big veins and tendons standing out on the back',
+           'a hand with dark blue ink stains on the fingertips and the side of the palm'],
+ 'feet': ['a very wide, flat foot with the toes splayed far apart', 'a long, narrow, slender foot with long, thin toes',
+          'a foot with a very high, curved arch, the middle of the sole lifted well off the floor', 'a foot with curled, clawed toes and a large bunion at the base of the big toe',
+          'a foot with thick, cracked, yellowed calluses on the heel and toes', 'a foot whose second toe is much longer than the big toe'],
+ 'legs_hips': ['very thin, stick-like legs and narrow, bony hips', 'heavy, thick, soft legs with wide, fleshy hips', 'thick, sharply muscular thighs and calves',
+               'knock-knees, the knees touching while the feet stay well apart', 'bow legs curving outward, a wide gap between the knees while the feet touch',
+               'very wide, curving hips and full, rounded thighs tapering to slim ankles'],
+ 'body_build': ['a very thin, bony frame with the ribs and hip bones showing', 'an athletic build with toned, clearly defined muscles',
+                'a huge, bodybuilder build with massive, bulging muscles', 'a curvy build with a full bust, a small waist and wide hips and thighs',
+                'a stocky, thick-set, solid build with short, thick limbs', 'a chubby build with a soft, rounded belly and soft limbs',
+                'an extremely large, obese build with heavy rolls of fat'],
+ 'stomach': ['a hard, flat stomach with a clearly visible six-pack', 'a thin, hollow stomach with the lower ribs showing', 'a soft, small, rounded pot belly',
+             'a huge, heavy belly protruding far out and hanging over the waist', 'loose, wrinkled, sagging skin hanging in a fold over the lower belly',
+             'a stomach marked with wide, silvery stretch marks across the lower belly'],
+ 'navel': ['an outie navel, a small knot of skin pushing outward', 'a long, narrow, vertical slit navel', 'a hooded navel with a fold of skin over the top',
+           'a navel stretched into a wide horizontal slit across a heavy stomach', 'a deep, round, dark hole of a navel', 'a navel with a small silver ring piercing through the top'],
+ 'arms': ['very thin, bony arms with narrow wrists', 'big, bulging, muscular arms with large biceps', 'lean, wiry arms with veins standing out',
+          'thick, soft, heavy arms with fleshy upper arms', 'arms with loose, soft skin hanging beneath the upper arm', 'arms covered in thick, dark hair'],
+ 'breasts': ['an almost flat chest with very small breasts', 'clearly uneven breasts, one noticeably larger than the other', 'very large, heavy breasts hanging low on the chest',
+             'large, high, firm, round breasts', 'medium breasts set wide apart with a broad gap between them', 'conical, pointed breasts that narrow to the nipple'],
+ 'nipples': ['an inverted nipple sunk into the centre of the areola', 'a tiny areola barely the width of a thumbnail around a small, flat nipple',
+             'a very long, prominent nipple sticking far out from a small areola', 'a very wide, puffy, domed areola rising like a second small mound',
+             'a very wide, flat areola about seven centimetres across, covering much of the front of the breast', 'a nipple pierced with a small silver bar'],
+ 'buttocks_f': ['a flat, narrow behind with almost no curve, on straight, narrow hips', 'very large, round, protruding buttocks with very wide hips and heavy thighs',
+                'hard, muscular, lifted buttocks over strong, toned thighs', 'soft, heavy buttocks hanging low over the thighs',
+                'buttocks covered in dimpled cellulite', 'a wide, heart-shaped behind on very broad, flared hips'],
+ 'pubic_hair_f': ['smoothly shaved with no hair at all', 'a thin, trimmed vertical strip of hair', 'a small, neat, trimmed triangle of hair',
+                  'a natural, full bush of thick, curly hair', 'sparse, fine, light hair over the mons', 'thick hair spreading wide onto the inner thighs and up toward the navel']}
+for _k, _v in _HAND.items():
+    CLS[_k] = [(r'.', c) for c in _v]   # any library line belongs to the feature; the grid shows these types in order
+CLASSPICK.pop('pubic_hair_f', None) if 'CLASSPICK' in globals() else None
 CLASSPICK = {
- 'pubic_hair_f': [r'shav|no visible', r'strip', r'bikini|small natural triangle', r'full bush|dense|coarse|thick', r'sparse|fine, light', r'trimmed short|grey'],
  'expr_general': [r'joy|laugh|love|delight|happy', r'anger|irritation|fury|rage', r'sad|disappoint|grief|melanchol', r'surprise|shock|fear|alarm', r'calm|bored|relief', r'smug|suspicion|doubt|contempt'],
  'chin': [r'pointed', r'square', r'receding', r'double', r'dimple', r'long']}
 TRAITS.update({
@@ -380,6 +466,8 @@ CROP = {
  'arms': 'A close-up photograph of one bare arm alone, held slightly away from the body, filling the whole panel: the frame runs from the shoulder to the wrist',
  'armpits': 'A close-up photograph of one armpit alone, the arm raised over the head, filling the whole panel',
  'scrotum': 'A clinical close-up photograph of the genitals from the front, the man standing, filling the whole panel with the scrotum large and sharp in the centre',
+ 'face_shape': 'A front-facing portrait of the head and neck, filling the whole panel, the whole outline of the face from the hairline to the chin and from ear to ear clearly visible, the hair pulled back off the face',
+ 'hair_volume_line': 'A front-facing head-and-shoulders portrait, filling the whole panel, the hairline and the full shape of the hair clearly visible',
  'cheeks_jaw': 'A close-up photograph of the lower two-thirds of the face, filling the whole panel: the frame runs from the cheekbones down to the jaw, turned slightly toward the left of the frame'}
 def view(sp, frame):
     key = sp['key']
@@ -408,16 +496,16 @@ for sp in B.SPECS:
             used = USED.setdefault((sp['key'], sex), set()); tr = list(TRAITS.get(sp['key'], [])); r.shuffle(tr)
             allc = list(dict.fromkeys(cands_for(sp, sex, r))); pool_ = [c for c in allc if c not in used]
             pool_ = allc   # spread across classes matters more than never repeating a wording
-            if len(pool_) < 4:
+            if len(pool_) < 4 and sp['key'] not in CLS:
                 if rep == 1: continue
                 pool_ = allc
-            n_ = 6 if len(pool_) >= 6 else 4 if len(pool_) >= 4 else 0
+            n_ = 6 if (len(pool_) >= 6 or sp['key'] in CLS) else 4 if len(pool_) >= 4 else 0
             if not n_: continue
             if sp['key'] == 'vulva':
                 seen2 = {}; [seen2.setdefault(c.split(';')[1].strip() if ';' in c else c, c) for c in r.sample(pool_, len(pool_))]; pool_ = list(seen2.values())
                 n_ = 6 if len(pool_) >= 6 else 4 if len(pool_) >= 4 else n_
             if sp['key'] in CLS or sp['key'] in CLASSPICK:
-                _skip = {('body_build', B.W): 'stocky', ('body_build', B.M): 'curvy', ('body_ratio', B.W): 'rectangular', ('body_ratio', B.M): 'hourglass'}.get((sp['key'], sex))
+                _skip = {('body_build', B.W): 'stocky', ('body_build', B.M): 'curvy build', ('body_ratio', B.W): 'rectangular', ('body_ratio', B.M): 'hourglass'}.get((sp['key'], sex))
                 cls_ = [re.escape(x[1]) for x in CLS[sp['key']]] if sp['key'] in CLS else CLASSPICK[sp['key']]
                 bk = {}
                 for c in r.sample(pool_, len(pool_)):
@@ -531,7 +619,7 @@ for who in ('woman', 'man'):
         seed += 5; r = random.Random(seed); ident = pid(who, r, key='makeup'); cells = []; seen = set()
         while len(cells) < 6:
             c = re.sub(r'^Special makeup, ', '', B.g('__body_makeup__', r), flags=re.I).rstrip('.')
-            if re.search(r'no makeup|bare face|without', c, re.I) or c in seen: continue
+            if re.search(r'no makeup|bare face|without|no obvious|sheer|natural skin|skin tint|soft neutral|nude beige', c, re.I) or not re.search(r'neon|glitter|graphic|cut-crease|metallic|holographic|red|black|gold|UV|paint|rhinestone|halo|winged|colour-blocked|bold|frosted|duochrome|navy|green|blue|purple|lavender|plum|alien|drawn', c, re.I) or c in seen: continue
             seen.add(c); cells.append(pan(ident, 'A tight close-up of the face with the head turned about thirty degrees toward the left side of the frame, so that the front of the face and a little of its side are both in view. The makeup: %s.' % c, NUDE, 'makeup'))
         addrow('makeup_' + who, who, 'makeup', cells, nude=True)
 # ---- poses (last): solo, two-person and three-person grids; the same people in the same outfits in every panel, outfits chosen to suit the pose
