@@ -68,6 +68,7 @@ TRAITS = {'nipples': [r'width of a thumbnail', r'two centimetres', r'three and a
  'penis_flaccid': [r'small|short|below', r'above|large|long', r'uncircumcised', r'\\bcircumcised', r'average', r'vein'],
  'penis_erect': [r'shorter', r'longer|longer than', r'uncircumcised', r'\\bcircumcised', r'average', r'curv|upward|upright'],
  'pecs_nipples_m': [r'small|tiny', r'large|broad|wide', r'flat', r'puffy', r'hairy|hair', r'smooth'],
+ 'face_shape': [r'full, soft, rounded face', r'gaunt, bony face', r'narrows sharply to a small pointed chin', r'long, narrow face', r'broad, square face', r'balanced oval face|widens to a broad heavy jaw'],
  'anus_f': [r'small, tight rosette', r'wide rosette', r'flat, smooth rosette', r'ring of dense dark hair|dense dark', r'few scattered fine hairs|light dusting|pale hairs', r'puckered|raised ring|off the centre line'],
  'anus_m': [r'small, tight rosette', r'wide rosette', r'smooth, hairless rosette', r'dense, dark, curly hair|thick hair', r'light scatter of fine hairs|sparse hairs|pale hairs', r'puckered|raised ring|deep in a long crease']}
 def diverse(cands, n, r, traits=None):
@@ -99,7 +100,15 @@ COORD['anus_f'] = [(r'wide|deep|loosely', 'the buttocks around it are full and r
                    (r'tight|tightly|small|flat|neat|puckered', 'the buttocks around it are firm and compact, with a narrow crease between them')]
 COORD['anus_m'] = [(r'wide|deep|loosely', 'the buttocks around it are heavy and muscular, with a long deep crease between them'),
                    (r'tight|tightly|small|flat|neat|puckered', 'the buttocks around it are hard and flat, with a shallow crease between them')]
+COORD['face_shape'] = [(r'puffy|bloated|heavy-jowled|round|pear', 'a full, soft, rounded face with fleshy cheeks, a soft fold under the jaw and a thick soft neck'),
+                      (r'emaciated|sunken|hollow|gaunt|thin', 'a gaunt, bony face with hollow cheeks, a thin neck with visible tendons and sharp collarbones'),
+                      (r'inverted|inverted-triangle|heart-shaped|heart|V-shaped|kite-shaped|kite|diamond-shaped|diamond', 'a face wide at the temples that narrows sharply to a small pointed chin, on a slim neck'),
+                      (r'triangular|triangle', 'a face narrow across the forehead that widens to a broad heavy jaw, on a thick neck'),
+                      (r'long|oblong|elongated-oval|elongated|lantern-shaped|lantern|rectangular|narrow|compressed', 'a long, narrow face, clearly taller than it is wide, on a long slender neck'),
+                      (r'square|rounded-square|block|boxy|wide|angular', 'a broad, square face, almost as wide as it is tall, with a wide angular jaw on a thick strong neck'),
+                      (r'oval|egg-shaped|egg|symmetrical', 'a balanced oval face, a little taller than it is wide, on a medium neck')]
 def shape_cell(key, c):
+    if key == 'face_shape': c = c.split(';')[0].strip()
     if key in ('anus_f', 'anus_m') and re.search(r'cheek', c, re.I): return c
     if key in ('buttocks_f', 'buttocks_m'): c = c.split(';')[0].strip()
     elif key == 'vulva': c = '; '.join(x.strip() for x in c.split(';')[:2])
@@ -117,6 +126,7 @@ def cands_for(sp, sex, r, tries=150):
     for _ in range(tries):
         c = shape_cell(sp['key'], strip_skin(tidy(B.clean_cell(B.cell(sp, sex, r))), sp['key']))
         if c and not re.search(r'reconstruct|mastectomy|resection|implant|surgical|scar|tattoo|prosthe', c, re.I): out.append(c)
+    if sp['key'] == 'face_shape': out = [c for c in out if '; ' in c]
     if sp['key'] == 'nipples':
         lad = list(dict.fromkeys(c for c in out if LADDER.search(c)))
         if len(lad) >= 6: return lad
@@ -196,7 +206,7 @@ for sp in B.SPECS:
             for c in picks:
                 ex = LIMB if sp['key'] in LIMBKEYS else ' The hand has five fingers and belongs to one arm.' if sp['key'] in ('hands', 'nails') else ' The foot has five toes.' if sp['key'] == 'feet' else ''
                 inner = '%s. %s: %s.' % (v, lab, c)
-                cells.append(('(This panel is a photograph of exactly one person, the same %s, %s, and nothing else from any other panel appears in it. %s%s' + NUDE + ' This is the same person in every panel, with the same face, skin colour and hair colour. Any neighbouring parts of the body in the frame, such as the hips, waist, thighs, torso or limbs, change naturally to suit the feature listed under %s, in shape and proportion but never in skin colour.)') % (ident, GREYBG, inner, ex, lab))
+                cells.append(('(This panel is a photograph of exactly one person, the same %s, %s, and nothing else from any other panel appears in it. %s%s' + NUDE + ' This is the same person in every panel, with the same skin colour, hair colour and eye colour; only the feature listed under %s changes. Any neighbouring parts of the body in the frame, such as the hips, waist, thighs, torso or limbs, change naturally to suit the feature listed under %s, in shape and proportion but never in skin colour.)') % (ident, GREYBG, inner, ex, lab, lab))
             head = ('A grid of %d equal photographic panels arranged in two rows of %s columns,' % (n_, 'three' if n_ == 6 else 'two')) + ' separated by thin plain white gaps. Every panel shows the same person in the same light against the same background; only the feature listed under %s changes from panel to panel.' % lab
             rows.append((sp['key'], sex, 'feature', ' '.join((head + ' ' + ' '.join('The %s panel: %s' % (ORD[i], c) for i, c in enumerate(cells))).split()), seed, False))
 # ---- age progression (same person across panels)
