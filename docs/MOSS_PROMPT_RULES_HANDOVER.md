@@ -66,3 +66,4 @@
 - Leading each panel with the changing feature and stating the shared person once in the header makes differences far more visible than repeating ~90 words of "same person" text per panel.
 - A gaunt face clause ages the person unless "still young, smooth young skin" is added.
 - Small facial features (eyes, lashes, brows, nose, lips, teeth, ears, chin): 'tight close-up' plus hair and 'nude, plain background' gives whole faces. Use 'extreme close-up ... filling the whole panel edge to edge: the frame runs from X to Y', drop hair and nudity/background text for those grids.
+- Full-length nude grids: the model covers the groin with clasped hands and smooths genitals away unless told: 'Both arms hang straight down at the sides... the groin fully uncovered. His penis and testicles hang clearly visible.' Nails/feet need dramatic types (stiletto red, bitten to the quick, clawed toes with bunion, cracked calluses), not short/medium/average.

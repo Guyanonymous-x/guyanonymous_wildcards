@@ -143,14 +143,27 @@ CLS.update({
           (r'gaunt|tendons|jutting|sharp|protruding|frail', 'a thin neck with the tendons and collarbones standing out sharply'), (r'padded|soft', 'a soft, padded neck with a smooth fold'), (r'.', 'an average neck')],
  'ears': [(r'cauliflower|battered|damaged', 'a swollen, lumpy cauliflower ear'), (r'pointed|elf', 'an ear with a clearly pointed tip'), (r'large|cupped|protruding|prominent|big', 'a large ear that sticks out from the head'),
           (r'small|compact|tucked|short', 'a small ear lying flat against the head'), (r'torn|split|pierc|lobe', 'an ear whose lobe is the main feature, long and fleshy'), (r'.', 'an average ear')],
- 'feet': [(r'wide|broad|thick', 'a very wide, broad foot with spread toes'), (r'narrow|slender|small|elegant', 'a narrow, slender foot with neat toes'), (r'high|arch', 'a foot with a very high, curved arch'),
-          (r'flat|collapsed', 'a completely flat foot with no arch, the whole sole touching the floor'), (r'calloused|rough|dirty|heel', 'a rough, calloused foot with thick hard skin on the heel'), (r'long toes|second toe|missing', 'a foot with long toes, the second toe longest'), (r'.', 'an average foot')],
- 'nails': [(r'coffin|stiletto|almond|long', 'long, shaped nails extending well past the fingertips'), (r'bitten|short', 'very short, bitten-down nails'), (r'paint|art|polish|shine|gloss', 'nails painted in a bright glossy colour'),
-           (r'brittle|split|flak|peel|stain|thick', 'damaged nails, split, flaking and discoloured'), (r'matte|natural|neat|filed|cuticle', 'short, neat, natural unpainted nails'), (r'.', 'medium natural nails')],
+ 'feet': [(r'wide|broad|thick', 'a very wide, flat, broad foot with the toes splayed far apart'),
+          (r'narrow|slender|long toes|elegant', 'a long, narrow, slender foot with long, thin toes'),
+          (r'high|arch', 'a foot with a very high, curved arch, the middle of the sole lifted well off the floor'),
+          (r'bunion|crooked|hammer|bent|claw', 'a foot with curled, clawed toes bent up at the joints and a large bunion at the base of the big toe'),
+          (r'calloused|rough|dirty|heel|crack', 'a foot with thick, cracked, yellowed calluses on the heel and the toes'),
+          (r'small|short|chubby|flat|collapsed', 'a small, short, chubby, flat foot with short, round toes')],
+ 'nails': [(r'coffin|stiletto|almond|long', 'very long, pointed stiletto nails, every nail painted glossy bright red'),
+           (r'french', 'long, square nails with bright white French tips on every nail'),
+           (r'bitten|short', 'nails bitten right down to the quick, with ragged, torn, reddened cuticles'),
+           (r'thick|stain|yellow|ridge', 'thick, yellowed, ridged nails curving down over the fingertips'),
+           (r'chip|polish|paint|art|shine|gloss', 'short nails with chipped, half-worn black polish on every nail'),
+           (r'brittle|split|flak|peel', 'split, peeling, flaking nails with white spots')],
  'legs_hips': [(r'skinny|thin|stick|frail', 'very thin, stick-like legs and narrow bony hips'), (r'heavy|plump|rolls|fleshy|thick', 'heavy, thick, soft legs and wide fleshy hips'), (r'muscular|sculpted|powerful|toned|strong', 'thick, sharply muscular thighs and calves'),
                (r'knock|bow', 'legs that bow clearly inward at the knees'), (r'wide|broad|developed|sturdy|pelvi', 'very wide hips and a broad pelvis'), (r'.', 'average legs and hips')],
- 'body_ratio': [(r'pear|broad-hipped|low hip', 'a pear shape, the hips much wider than the shoulders'), (r'inverted|V-shaped|wide-shouldered|athletic', 'an inverted triangle, the shoulders much wider than the hips'),
-                (r'long-torso', 'a very long torso on short legs'), (r'long legs', 'very long legs and a short torso'), (r'slender|narrow', 'a very slim, narrow, straight frame'), (r'.', 'an hourglass, shoulders and hips equal with a narrow waist')],
+ 'body_ratio': [(r'pear|broad-hipped|low hip', 'a pronounced pear shape: narrow, sloping shoulders and hips far wider than the shoulders, with heavy thighs'),
+                (r'inverted|V-shaped|wide-shouldered|athletic', 'a pronounced inverted triangle: very broad shoulders almost twice the width of the narrow hips'),
+                (r'long-torso', 'a very long torso on very short legs, the legs clearly shorter than the torso'),
+                (r'long legs|leggy', 'very long legs and a short torso, the legs making up well over half the height'),
+                (r'slender|narrow', 'a very thin, narrow, straight frame with no curve at the waist or hips'),
+                (r'hourglass|curv', 'an hourglass: shoulders and hips equally wide with a very narrow, pinched waist'),
+                (r'balanced|equal|rectang|thick', 'a thick, rectangular frame, the waist as wide as the shoulders and hips')],
  'chest_hair': [(r'dense|mat|thick|full', 'a thick, dense mat of hair across the whole chest'), (r'line|sternum|trail', 'one thin line of hair down the centre of the chest only'), (r'shaved|hairless|smooth|stubble', 'a completely hairless, smooth chest'),
                 (r'moderate|natural|trimmed', 'a light, even covering of short chest hair'), (r'patch|stubble', 'patchy, uneven chest hair with bare gaps'), (r'.', 'a light covering of chest hair')],
  'skin_tone': [(r'very pale|porcelain|alabaster|pale|white', 'very pale, almost white skin'), (r'fair|light|pink|rosy|sunburn', 'fair, light skin with pink undertones'), (r'olive', 'olive skin with greenish-golden undertones'),
@@ -386,13 +399,14 @@ for sp in B.SPECS:
                 seen2 = {}; [seen2.setdefault(c.split(';')[1].strip() if ';' in c else c, c) for c in r.sample(pool_, len(pool_))]; pool_ = list(seen2.values())
                 n_ = 6 if len(pool_) >= 6 else 4 if len(pool_) >= 4 else n_
             if sp['key'] in CLS or sp['key'] in CLASSPICK:
-                _skip = {('body_build', B.W): 'stocky', ('body_build', B.M): 'curvy'}.get((sp['key'], sex))
+                _skip = {('body_build', B.W): 'stocky', ('body_build', B.M): 'curvy', ('body_ratio', B.W): 'rectangular', ('body_ratio', B.M): 'hourglass'}.get((sp['key'], sex))
                 cls_ = [re.escape(x[1]) for x in CLS[sp['key']]] if sp['key'] in CLS else CLASSPICK[sp['key']]
                 bk = {}
                 for c in r.sample(pool_, len(pool_)):
                     i = next((i for i, rx in enumerate(cls_) if re.search(rx, c, re.I)), None)
-                    dk = (lambda x: x.split(';')[0][:45])
+                    dk = (lambda x: x) if sp['key'] == 'nipples' else (lambda x: x.split(';')[0][:45])
                     if i is not None and dk(c) not in [dk(v) for v in bk.values()]: bk.setdefault(i, c)
+                if _skip: bk = {i: v for i, v in bk.items() if _skip not in v}
                 if sp['key'] in CLS:   # every class shown: a class the library has but this draw missed is written as its plain description
                     for i, (rx, cl) in enumerate(CLS[sp['key']]):
                         if i not in bk and len(bk) < 6 and not (_skip and _skip in cl): bk[i] = cl
@@ -407,6 +421,8 @@ for sp in B.SPECS:
             picks = pool_[:n_] if (sp['key'] in CLS or sp['key'] in CLASSPICK or sp['key'] == 'expr_adult') else diverse(pool_, n_, r, tr); used.update(picks); CAP[(sp['key'], sex)] = CAP.get((sp['key'], sex), 0) + 1
             for c in picks:
                 ex = LIMB if sp['key'] in LIMBKEYS else ' The hand has five fingers and belongs to one arm.' if sp['key'] in ('hands', 'nails') else ' The foot has five toes.' if sp['key'] == 'feet' else ''
+                if sp['key'] in ('body_ratio', 'legs_hips', 'body_build'):
+                    ex = ex + ' Both arms hang straight down at the sides with the hands resting against the outer thighs, the front of the body and the groin fully uncovered.' + (' Her breasts, nipples and pubic hair are clearly visible.' if sex == B.W else ' His penis and testicles hang clearly visible below his pubic hair.')
                 cells.append(('(%s: %s. %s, of the same %s.%s)' % (lab, c, v, ident, ex)) if sp['key'] in CROP else ('(%s: %s. %s of the same %s, completely nude, %s.%s)' % (lab, c, v, ident, GREYBG, ex)))
             same = SAME.get(sp['key'][:4] if sp['key'].startswith('skin') else sp['key'], 'age and skin colour' if sp['key'] in CROP else 'age, skin colour, hair colour and eye colour')
             head = ('A grid of %d equal photographic panels arranged in two rows of %s columns, separated by thin plain white gaps. ' % (n_, 'three' if n_ == 6 else 'two')
