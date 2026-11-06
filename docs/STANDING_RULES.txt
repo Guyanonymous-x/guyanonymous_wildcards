@@ -42,3 +42,6 @@ DOCUMENT WORDING (each version): accompanying documents (README, index, promo, r
 - CHIN (user 2026-11-05): never write a deep cleft; a cleft chin is a small shallow dimple low on the chin tip with the outline unbroken.
 
 Body-feature showcase clothing (v107): every body-part and feature grid (features, age, skin marks, tattoos, makeup) shows the person completely nude, stated in every panel. Only pose grids (solo, two-person, three-person, and the yoga, dance and martial-arts activity grids) have clothing, the same outfit in every panel, chosen to suit the activity.
+
+
+Body-feature showcase size and layout (v107, user rule): ONE grid per body part per gender, and one per pose type. Keep the whole set near the original ~100 prompts; never multiply grids per feature. Output as separate files for women, men and group poses, with each feature's grid kept together. Every panel in a grid must be a clearly different type (one panel per class, plain exaggerated wording such as "deeply hooded eyes, a heavy fold of skin hanging over the upper lids so that no lid shows at all"), never subtle wording variants. The part that changes leads each panel; "same person, nude, same background" is said once in the grid header. Anything that is not the feature (eye colour, lashes, makeup on an eye grid; skin colour elsewhere) is fixed in the header.
