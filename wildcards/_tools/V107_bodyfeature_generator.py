@@ -155,15 +155,33 @@ CLS.update({
                 (r'moderate|natural|trimmed', 'a light, even covering of short chest hair'), (r'patch|stubble', 'patchy, uneven chest hair with bare gaps'), (r'.', 'a light covering of chest hair')],
  'skin_tone': [(r'very pale|porcelain|alabaster|pale|white', 'very pale, almost white skin'), (r'fair|light|pink|rosy|sunburn', 'fair, light skin with pink undertones'), (r'olive', 'olive skin with greenish-golden undertones'),
                (r'tan|golden|beige|honey|yellow', 'light golden-tan skin'), (r'very deep|dark|ebony|espresso|deep', 'very dark, deep brown skin'), (r'.', 'medium brown skin')]})
+CLS.update({
+ 'teeth': [(r'missing|gap', 'a clear black gap where an upper front tooth is missing'), (r'snaggle|jutting|canine|pointed|fang', 'one canine tooth jutting forward out of line'),
+           (r'crooked|crowded|irregular|rotated|uneven|overlap', 'crowded, crooked teeth overlapping each other'), (r'yellow|stain|grey|brown|discolo|filling', 'yellowed, stained teeth'),
+           (r'gummy', 'a gummy smile showing a wide band of pink gum above the teeth'), (r'worn|short|grinding|chip', 'short, worn-down, flat-edged teeth'), (r'.', 'perfectly straight, even, bright white teeth')],
+ 'hair_volume_line': [(r'flat|thin|limp|sparse|patchy|low-density', 'thin, flat, sparse hair lying close to the scalp'), (r'massive|halo|teased|puffed|big|voluminous', 'enormous, teased, voluminous hair standing far out from the head'),
+           (r'recession|receding|recede', 'a hairline receding far back at both temples'), (r'widow', "a sharp widow's-peak point at the centre of the hairline"),
+           (r'low hairline', 'a very low hairline close to the eyebrows'), (r'high|broad hairline', 'a very high hairline above a tall forehead'), (r'.', 'medium hair volume and a straight hairline')],
+ 'breasts': [(r'tiny|nearly flat|flat|shallow', 'an almost flat chest with very small breasts, on a slim, narrow ribcage'), (r'asymmetr', 'clearly uneven breasts, one noticeably larger than the other'),
+           (r'pendulous|drop|hang|sag|droop|low', 'large, heavy breasts hanging low on the chest, on a broad, full torso'), (r'high-set|lifted|perky|firm|dense', 'large, high, firm, round breasts, on a full torso with a narrow waist'),
+           (r'wide-set|apart', 'medium breasts set wide apart with a broad gap between them'), (r'small|petite|modest', 'small, round, high breasts, on a slim torso'), (r'.', 'medium, round breasts')],
+ 'buttocks_f': [(r'flat|lean', 'a flat, narrow behind with almost no curve, on straight narrow hips and slim thighs'), (r'very large|extraordinar|voluptuous|bubble|sweeping', 'very large, round, protruding buttocks, with a small waist, very wide hips and heavy thighs'),
+           (r'muscular|athletic|toned|sprinter|shelf', 'hard, muscular, lifted buttocks, with strong toned thighs'), (r'low-slung|pendulous|sag|droop|low', 'soft, heavy buttocks hanging low over the thighs, with soft wide hips'),
+           (r'small|compact|petite|slender', 'small, compact, high buttocks, on slim hips'), (r'wide|broad|flared', 'a wide, heart-shaped behind on very broad, flared hips'), (r'.', 'medium, round buttocks')],
+ 'buttocks_m': [(r'flat|narrow|dished', 'a flat, narrow behind with almost no curve, on narrow hips and slim thighs'), (r'shelf|jutting', 'buttocks jutting out sharply behind a deeply hollowed lower back'),
+           (r'muscular|athletic|round|hard', 'hard, round, muscular buttocks, with thick muscular thighs'), (r'sag|drooping|low|soft and heavy|heavy', 'soft, heavy buttocks drooping over the thighs, with a thick soft waist'),
+           (r'small|tight|compact', 'small, tight, high buttocks, on a slim frame'), (r'asymmetr', 'clearly uneven buttocks, one cheek fuller and higher than the other'), (r'.', 'medium, rounded buttocks')]})
+def _pen(st):
+    return [(r'clearly long.*\buncircumcised', 'a long, heavy %s penis, uncircumcised, the foreskin covering the tip, on broad hips and thick thighs' % st),
+            (r'clearly long.*\bcircumcised', 'a long, heavy %s penis, circumcised, the bare head fully exposed, on broad hips and thick thighs' % st),
+            (r'clearly short.*\buncircumcised', 'a short, small %s penis, uncircumcised, the foreskin covering the tip, on slim hips and lean thighs' % st),
+            (r'clearly short.*\bcircumcised', 'a short, small %s penis, circumcised, the bare head fully exposed, on slim hips and lean thighs' % st),
+            (r'\buncircumcised', 'an average %s penis, uncircumcised, the foreskin covering the tip' % st), (r'.', 'an average %s penis, circumcised, the bare head fully exposed' % st)]
+CLS['penis_flaccid'] = _pen('soft'); CLS['penis_erect'] = _pen('erect')
 CLASSPICK = {
- 'breasts': [r'tiny|nearly flat|flat chest|shallow', r'small|petite', r'modest|medium', r'pendulous|drop|hang|sag|droop|low', r'high-set|lifted|perky|dense|compact', r'full|large|heavy|big'],
- 'buttocks_f': [r'flat|lean', r'small|compact|petite|slender', r'muscular|athletic|toned|sprinter|shelf', r'pendulous|sag|low|droop', r'very large|bubble|sweeping|voluptuous', r'wide|broad|full|round'],
- 'buttocks_m': [r'flat|narrow|dished', r'small|tight|compact', r'muscular|athletic|round', r'sag|drooping|low', r'heavy|soft|pear', r'inverted-heart|wide'],
  'nipples': [r'inverted', r'width of a thumbnail', r'two centimetres', r'three and a half centimetres', r'five centimetres', r'seven centimetres'],
  'vulva': [r'fully tucked|thin pink line', r'just visible|few millimetres', r'peek out', r'one side and sit tucked', r'one and a half|fine wrinkles', r'medium length|wavy|long|extend well'],
  'pubic_hair_f': [r'shav|no visible', r'strip', r'bikini|small natural triangle', r'full bush|dense|coarse|thick', r'sparse|fine, light', r'trimmed short|grey'],
- 'penis_flaccid': [r'clearly long.*\buncircumcised', r'clearly long.*\bcircumcised', r'clearly short.*\buncircumcised', r'clearly short.*\bcircumcised', r'average.*\buncircumcised', r'average.*\bcircumcised'],
- 'penis_erect': [r'clearly long.*\buncircumcised', r'clearly long.*\bcircumcised', r'clearly short.*\buncircumcised', r'clearly short.*\bcircumcised', r'average.*\buncircumcised', r'average.*\bcircumcised'],
  'pecs_nipples_m': [r'lean|ribs', r'firmly muscular|muscular', r'soft and rounded|soft', r'broad and flat', r'barrel|thick', r'narrow|concave'],
  'anus_f': TRAITS['anus_f'], 'anus_m': TRAITS['anus_m'],
  'expr_general': [r'joy|laugh|love|delight|happy', r'anger|irritation|fury|rage', r'sad|disappoint|grief|melanchol', r'surprise|shock|fear|alarm', r'calm|bored|relief', r'smug|suspicion|doubt|contempt'],
@@ -188,9 +206,11 @@ def audit_cell(key, c):
     if key in ('penis_flaccid', 'penis_erect'):
         c = re.sub(r', with (?:a few faint veins|a pronounced vein pattern|smooth shaft skin and almost no visible veins)[^,;]*', '', c); c = re.sub(r',? with an? [^;]*?scrotum(?: slightly darker than the surrounding skin)?', '', c); c = c.replace(' slightly darker than the surrounding skin', '')
         c = re.sub(r'\b(slightly below average|small|shorter but thick)\b', r'\1, clearly short', c, 1); c = re.sub(r'\b(large|longer than average)\b', r'\1, clearly long and heavy', c, 1)
+    if key == 'vulva' and ';' in c:
+        sg = [x.strip() for x in c.split(';')]; c = '; '.join([sg[1], sg[0]] + sg[2:])
     if key in CLS:
         sg = [re.split(r', | with | under | framed | in a ', x.strip())[0] for x in c.split(';')]
-        probe = sg[0] if key in ('eyes', 'cheeks_jaw', 'face_shape') else ' '.join(sg)
+        probe = sg[0] if key in ('eyes', 'cheeks_jaw', 'face_shape') else c if key in ('teeth', 'hair_volume_line', 'breasts', 'buttocks_f', 'buttocks_m', 'penis_flaccid', 'penis_erect') else ' '.join(sg)
         cl = next((cl for rx, cl in CLS[key] if re.search(r'\b(?:%s)' % rx, probe, re.I)), None)
         if cl is None: return ''
         c = cl
@@ -282,6 +302,11 @@ CROP = {
  'teeth': 'An extreme close-up photograph of the open, smiling mouth alone, filling the whole panel edge to edge: the frame runs from just below the nose to the chin, the teeth and gums large and sharp',
  'ears': 'An extreme close-up photograph of one ear alone, seen from the side and filling the whole panel: the frame runs from just above the ear to just below the earlobe, the ear large and sharp in the centre',
  'chin': 'An extreme close-up photograph of the chin and jaw alone, filling the whole panel: the frame runs from the lower lip down to the top of the neck, turned slightly toward the left of the frame',
+ 'hands': 'An extreme close-up photograph of one hand alone, held open, filling the whole panel: the frame runs from the wrist to the fingertips',
+ 'nails': 'An extreme close-up photograph of the fingertips and nails of one hand alone, fingers spread, filling the whole panel edge to edge',
+ 'feet': 'An extreme close-up photograph of one bare foot alone, filling the whole panel: the frame runs from the ankle to the tips of the toes, seen from above and a little to the side',
+ 'facial_hair': 'A close-up photograph of the lower face alone, filling the whole panel: the frame runs from the nose down to the throat, turned slightly toward the left of the frame',
+ 'chest_hair': 'A close-up photograph of the bare chest alone, filling the whole panel: the frame runs from the collarbones down to the bottom of the ribs',
  'cheeks_jaw': 'A close-up photograph of the lower two-thirds of the face, filling the whole panel: the frame runs from the cheekbones down to the jaw, turned slightly toward the left of the frame'}
 def view(sp, frame):
     key = sp['key']
@@ -323,7 +348,7 @@ for sp in B.SPECS:
                 bk = {}
                 for c in r.sample(pool_, len(pool_)):
                     i = next((i for i, rx in enumerate(cls_) if re.search(rx, c, re.I)), None)
-                    dk = (lambda x: (x.split(';')[1] if ';' in x else x)[:45]) if sp['key'] == 'vulva' else (lambda x: x[:45])
+                    dk = (lambda x: x.split(';')[0][:45])
                     if i is not None and dk(c) not in [dk(v) for v in bk.values()]: bk.setdefault(i, c)
                 if sp['key'] in CLS:   # every class shown: a class the library has but this draw missed is written as its plain description
                     for i, (rx, cl) in enumerate(CLS[sp['key']]):
@@ -400,13 +425,12 @@ def posegrid(key, who, pool):
             seen.add(c)
             cells.append(pan(ident, 'A full-length view in plain fitted %s sportswear, %s. The pose: %s.' % (col, TURN, c.rstrip('.')), LIMB, 'pose'))
         addrow(key, who, 'pose', cells)
+MARKS = ['dense freckles covering the nose and both cheeks', 'one large, raised, dark brown mole on the cheek', 'a cluster of several small dark moles on the cheek',
+         'a large, flat, reddish-brown birthmark the size of a palm across one cheek', 'scattered dark sun spots across the cheeks and forehead', 'a single small dark beauty mark just above the corner of the lip']
 for who in ('woman', 'man'):
     for rep in range(1):
-        seed += 7; r = random.Random(seed); ident = pid(who, r, hair=False, key='skin_marks'); cells = []; seen = set()
-        while len(cells) < 6:
-            c = re.sub(r', that .*$', '', B.g('__age25_34_skin_marks__', r)).rstrip('.')
-            if c in seen: continue
-            seen.add(c); cells.append(pan(ident, 'A close-up of the bare skin where the mark is, %s. The skin mark: %s.' % (TURN, c), NUDE, 'skin mark'))
+        seed += 7; r = random.Random(seed); ident = pid(who, r, hair=False, key='skin_marks')
+        cells = [pan(ident, 'A tight close-up of the face, filling the whole panel, %s. The skin mark: %s.' % (TURN, c), NUDE, 'skin mark') for c in MARKS]
         addrow('skin_marks_' + who, who, 'skin mark', cells, nude=True)
     for rep in range(1):
         seed += 7; r = random.Random(seed); ident = pid(who, r, hair=False, key='tattoo'); cells = []; seen = set()
