@@ -15,3 +15,6 @@ Released. Built by `v107_build.py` (overlay of `v107_stage.py` on v106), package
 ## Not done
 - Men's nipple file (`m_body_nipples`) not given a size ladder.
 - Body-feature showcase not image-tested yet.
+
+## Pending for the next release
+- `body_navel` (10 belly-button lines, no skin colour) added to the working library; used by the body-feature showcase now, ships in the next package.

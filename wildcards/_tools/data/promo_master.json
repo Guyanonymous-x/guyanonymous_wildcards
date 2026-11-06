@@ -3,6 +3,19 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 108",
+   [
+    "Level 6 same-sex panels: every `adult_l6_panel_mm*` and `adult_l6_panel_ww*` line now has a level-6 ending (semen for men, clear fluid for women) that fits the pose, so level 6 differs from level 5.",
+    "Level 1: the bent-forward-at-a-table pose is removed from `adult_l1_panel_wm` (it stays at level 2 and above).",
+    "Locations: level 1 and level 3 scenes at wet places (shower, steam room, sauna, plunge pool, hot tub, lake dock) now dress people in swimwear.",
+    "Panels and groups: hidden-body wording removed where the pose covers it, 69 geometry tidied, impossible floor position replaced, three-person nude sentences matched to who is in the scene, and duplicate group lines removed.",
+    "Fluid wording: 'not white' negations replaced with 'clear and transparent' in `adult_l6_location`, `adult_l6_panel_wm` and `fluid_scene_squirt`.",
+    "Activities: all 51 `act_*_scene_prompt` files start each sentence with a capital ('The scene includes ...'); `act_*_frame_prompt` uses the new `act_frame_style` (six on-location photo styles) so a studio backdrop no longer clashes with the place.",
+    "Body features: `f_body_nipples` reworded per breast, `head_chin` garbled and 'cleft' lines fixed, new `body_navel` (10 navel shapes).",
+    "Showcase files (40 prompts at 1024 and 1408 pixel counts, steps 50, cfg 3.75) and 100 sample prompts are included."
+   ]
+  ],
+  [
    "Version 107",
    [
     "Nipples: `f_body_nipples` gains 35 lines that pair five areola sizes (thumbnail-small to very wide) with seven nipple forms (flat, small, medium, long, thick, inverted, puffy dome) and a surface note, with no skin colour.",

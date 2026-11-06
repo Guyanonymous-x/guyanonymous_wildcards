@@ -2,19 +2,34 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v107**
+**Current version: v108**
 
-**Contents:** [Introduction](#introduction) · [What's New in v107](#whats-new-in-v107) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v108](#whats-new-in-v108) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 41,600 wildcard text files (41661 `.txt` files in [`wildcards/`](wildcards/) at v107, plus 1311 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 41,600 wildcard text files (41664 `.txt` files in [`wildcards/`](wildcards/) at v108, plus 1311 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v108
+
+Review fixes, level-6 endings for same-sex scenes, place-friendly activity photo styles and a navel file ([docs/INDEX_v108.txt](docs/INDEX_v108.txt), notes in [wildcards/_tools/V108_CHANGES.md](wildcards/_tools/V108_CHANGES.md)). Since v107:
+
+- **Level 6, two men and two women:** every `adult_l6_panel_mm*` and `adult_l6_panel_ww*` line now ends with a level-6 ending that fits the pose, so level 6 is no longer the same as level 5.
+- **Level 1:** the bent-forward-at-a-table pose moves out of `adult_l1_panel_wm`; it stays at level 2 and above.
+- **Wet places:** level 1 and level 3 location scenes at a shower, steam room, sauna, plunge pool, hot tub or lake dock now put people in swimwear.
+- **Panels and groups:** wording about body parts the pose hides is removed, 69 positions are tidied, an impossible floor position is replaced, three-person nude sentences match who is in the scene, and group scenes read "This scene shows three adults. They are ...".
+- **Fluid wording:** "not white" is replaced with "clear and transparent".
+- **Activities:** every `act_*_scene_prompt` sentence starts with a capital ("The scene includes ..."), and `act_*_frame_prompt` now draws its photo style from the new `act_frame_style` (six on-location styles), so no studio backdrop appears in a dojo or on a beach.
+- **Body features:** `f_body_nipples` and `head_chin` wording fixes, and a new `body_navel` (10 navel shapes).
+- **Showcase and sample files:** 40 showcase prompts at 1024 and 1408 sizes plus a key file, and 100 sample prompts, in [docs/showcase/](docs/showcase/), built by `_tools/v108_showcase.py`.
+
+The full list of v108 entry points is in `wildcards/v108_entry_points.txt`.
 
 ## What's New in v107
 
@@ -372,6 +387,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v108
+Review fixes, level-6 endings for same-sex scenes, on-location activity photo styles, swimwear at wet places, navel file. See [What's New in v108](#whats-new-in-v108).
 
 ### v107
 Areola and nipple size ladder, anal-area files for women and men, fuller yoga, dance-class and martial-arts lists. See [What's New in v107](#whats-new-in-v107).

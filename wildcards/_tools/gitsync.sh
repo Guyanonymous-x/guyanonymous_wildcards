@@ -4,7 +4,7 @@ N=$1; MSG=$2; R=/home/claude/guyanonymous_wildcards; S=/home/claude/w
 cd $R || exit 1
 find wildcards -maxdepth 1 -name "*.txt" -delete
 (cd $S/wildcards && find . -maxdepth 1 -name "*.txt" -print0 | tar cf - --null -T -) | tar xf - -C wildcards/
-(cd $S/wildcards/_tools && tar cf - --exclude='backup_*' --exclude=audit --exclude=__pycache__ --exclude='*.bak' --exclude=work .) | tar xf - -C wildcards/_tools
+(cd $S/wildcards/_tools && tar cf - --exclude='backup_*' --exclude=audit --exclude=__pycache__ --exclude='*.bak' --exclude=work --exclude='*bodyfeature*' --exclude='*body_showcase*' --exclude='V10*_showcase_generator.py' .) | tar xf - -C wildcards/_tools
 cp -r $S/docs/. docs/; mkdir -p docs/showcase
 cp /mnt/user-data/outputs/Guyanonymous_Wildcards_v${N}_showcase_* /mnt/user-data/outputs/Guyanonymous_Wildcards_v${N}_sample_prompts.txt docs/showcase/ 2>/dev/null
 git add -A

@@ -43,7 +43,8 @@ o = f'/mnt/user-data/outputs/Guyanonymous_Wildcards_v{N}_sample_prompts'
 open(o + '.txt', 'w').write('\n'.join(r[1] for r in rows)); open(o + '_labelled.tsv', 'w').write('label\tprompt\n' + '\n'.join(f'{a}\t{b}' for a, b in rows))
 print('samples', len(rows), 'leaks', sum(1 for r in rows if '__' in r[1] or re.search(r'[{}|]', r[1])))
 json.dump(M.BULLETS, open(f'{V}/b{N}.json', 'w'), indent=1); open(f'{V}/r{N}.txt', 'w').write(M.README)
-rd = '/tmp/pkg14_main/README.txt'; t = open(rd).read(); open(rd, 'w').write(f'v{N}: {M.ONELINE}\n' + t)
+rd = '/tmp/pkg14_main/README.txt'; t = open(rd).read()
+if not t.startswith(f'v{N}: '): open(rd, 'w').write(f'v{N}: {M.ONELINE}\n' + t)   # never add the version line twice on a re-run
 g = open(f'{SCR}/gen.py').read(); anchor = ' ("room_<type>_prompt_brief/_full'
 if M.GEN_ROW not in g: open(f'{SCR}/gen.py', 'w').write(g.replace(anchor, ' ' + M.GEN_ROW + '\n' + anchor, 1))
 subprocess.run(['python3', 'gen.py'], cwd=SCR, check=True, capture_output=True)
