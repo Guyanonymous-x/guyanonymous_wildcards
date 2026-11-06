@@ -2,19 +2,35 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v108**
+**Current version: v109**
 
-**Contents:** [Introduction](#introduction) · [What's New in v108](#whats-new-in-v108) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v109](#whats-new-in-v109) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 41,600 wildcard text files (41664 `.txt` files in [`wildcards/`](wildcards/) at v108, plus 1311 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 82,800 wildcard text files (82823 `.txt` files in [`wildcards/`](wildcards/) at v109, plus 508 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v109
+
+Locations, objects, era looks, fixtures, trading cards, card and board games, activities and medical scenes ([docs/INDEX_v109.txt](docs/INDEX_v109.txt), notes in [wildcards/_tools/V109_CHANGES.md](wildcards/_tools/V109_CHANGES.md)). Since v108:
+
+- **Locations:** the 350 Locations inventory becomes 1,422 places in 20 groups (`loc_<group>_<place>_*`) with scene, people, time, era and regional prompts (`loc_scene`, `loc_people`, `loc_era_scene`). Real brands are replaced by descriptions of their look, child-related places are never sexual, and measurements are left out.
+- **Objects:** every object kind named in the inventory has its own wildcards (`ob_<object>_type/_material/_wear/_detail/_full/_text`), with quoted text where text belongs; city signs quote names from the name system.
+- **Era objects and fixtures:** 230 objects have period looks from before 1800 to today (`ob_<object>_era_<period>`), and 79 architectural fixtures are added (doors, windows, staircases, lifts, roofs and more).
+- **Trading cards (`tc_`):** sports, film, artist, creature, wildlife, vehicle and more in seven decade styles, five grades of visible condition, graded cases, packs and boxes, albums, sleeves and displays. Team names and numbers on shirts are quoted (`name_team`, `name_jersey_number`).
+- **Card and board games (`cg_`, `bg_`):** 20 kinds of special-deck card game and 36 board and tabletop games, unbranded and described by look and rules, with boxes, parts, every text area on a card quoted, stages from set-up to finished, and top-down views.
+- **Activities (`adv_`):** 71 adventure, extreme, solo outdoor and workout activities with outfits, equipment, poses and freely mixed places.
+- **Medical scenes (`med_`):** clinical, nonsexual examinations, treatments and surgery for the health locations, in seven decades.
+- **Library fixes:** body builds follow the person's age, "no visible signs of aging" is rewritten positively, and numbers and names on sportswear and uniforms are quoted.
+- **Showcase and sample files:** the 40 showcase prompts (1024 and 1408 sizes plus a key file) highlight what is new in this version; the 100 sample prompts are representative of everything the library can do. Both are in [docs/showcase/](docs/showcase/), built by `_tools/v109_showcase.py`.
+
+The full list of v109 entry points is in `wildcards/v109_entry_points.txt` and `wildcards/v109_loc_entry_points.txt`.
 
 ## What's New in v108
 
@@ -387,6 +403,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v109
+350-location conversion, object builders with era looks and fixtures, trading cards, card and board games, activities, medical scenes, quoted sportswear text. See [What's New in v109](#whats-new-in-v109).
 
 ### v108
 Review fixes, level-6 endings for same-sex scenes, on-location activity photo styles, swimwear at wet places, navel file. See [What's New in v108](#whats-new-in-v108).
