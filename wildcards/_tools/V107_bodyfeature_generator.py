@@ -125,24 +125,28 @@ CLS = {
           (r'long|drooping|downward', 'a long nose whose tip points down'), (r'.', 'a narrow, straight nose with a fine tip')],
  'nose_profile': [(r'crooked|deviated|asymmetric|lean|bent', 'a bridge that leans visibly to one side'), (r'aquiline|hooked|roman|humped|bump|convex', 'in profile a clear hump on the bridge'), (r'upturned|button|upward', 'in profile a scooped bridge and a tip that turns up'),
           (r'bulbous|round heavy|blunt|wide|thick|fleshy|swollen', 'in profile a heavy rounded tip'), (r'drooping|downward|long', 'in profile a long bridge and a tip that hangs down'), (r'.', 'in profile a straight, flat bridge')],
- 'lips': [(r'plump top|fuller lower|top lip thin|thin bottom', 'one lip clearly fuller than the other'), (r'asymmetric|crooked|uneven', 'lips that are uneven from side to side'),
-          (r'thin|narrow|subtle|delicate|small', 'thin lips, the upper lip a narrow line'), (r'full|thick|lush|large|generous|heavy|broad|plump|voluminous|fleshy|massive|puffy|pillowy|cosmetic', 'very full, thick, pillowy lips'), (r'bow', "a sharply peaked Cupid's bow on medium lips"), (r'.', 'medium lips')],
- 'cheeks_jaw': [(r'hollow|sunken|lean|narrow', 'hollow cheeks below sharp cheekbones'), (r'plump|fleshy|full|padded|rounded', 'round, full, padded cheeks'),
-          (r'high|prominent|sculpted|bony', 'high, sharp cheekbones'), (r'square|wide jaw|disproportionate|broad thick', 'a wide, square jaw with sharp corners'),
+ 'lips': [(r'thin|narrow|subtle|delicate|tight', 'very thin lips, the upper lip almost invisible as a narrow line, the lower lip barely thicker, a flat, tight mouth'),
+          (r'full|thick|lush|large|generous|heavy|plump|voluminous|fleshy|massive|puffy|pillowy|cosmetic', 'extremely full, thick, pillowy lips, both lips swollen and rounded, the lower lip as thick as a thumb and rolled outward'),
+          (r'wide|broad', 'a very wide mouth stretching far out toward the cheeks, much wider than the nose, with lips of medium thickness'),
+          (r'small|bow-shaped|rosebud|petite', 'a very small, short, rounded mouth barely wider than the nostrils, the lips gathered into a small bud'),
+          (r'fuller lower|thin bottom|top lip thin|pout|uneven|asymmetric|crooked', 'a thin upper lip over a very heavy, thick, pouting lower lip that juts forward and hangs slightly down'),
+          (r'.', "a deep, sharply pointed Cupid's bow, two high, sharp peaks on the upper lip with a deep notch between them and a pronounced groove running up to the nose, on medium lips")],
+ 'cheeks_jaw': [(r'hollow|sunken|lean|narrow', 'deeply hollow, sunken cheeks, the skin pulled in under the cheekbones'), (r'plump|fleshy|full|padded|rounded', 'round, full, padded cheeks'),
+          (r'high|prominent|sculpted|bony', 'very high, prominent cheekbones that jut out sharply under the eyes'), (r'square|wide jaw|disproportionate|broad thick', 'a wide, square jaw with sharp corners'),
           (r'asymmetric|uneven', 'cheeks uneven in height from side to side'), (r'broad|flat|wide', 'wide, flat cheeks across a broad face'), (r'V-shaped|pointed|slender tapered|delicate', 'a narrow jaw that tapers to the chin'), (r'.', 'a soft, rounded jaw with no sharp angle')],
  'hands': [(r'calloused|rough|dirty|hard-working|cracked', 'rough, calloused, work-worn hands'), (r'long|slender|graceful|narrow|elegant|thin|bony|gaunt|slim', 'long, slender fingers on a narrow hand'),
-          (r'thick|broad|square|stubby|chunky', 'short, thick fingers on a broad hand'), (r'small|compact|petite|short', 'a small hand with short fingers'), (r'crooked|bent|asymmetric', 'fingers with crooked, bent joints'), (r'manicured|smooth|soft', 'smooth, soft, carefully manicured hands'), (r'.', 'a medium hand with even fingers')]}
+          (r'thick|broad|square|stubby|chunky', 'big, broad, meaty hands with short, thick, sausage-like fingers'), (r'small|compact|petite|short', 'a very small, delicate hand with slim, short fingers'), (r'crooked|bent|asymmetric', 'fingers with crooked, bent joints'), (r'manicured|smooth|soft', 'smooth, soft, carefully manicured hands'), (r'.', 'a bony, veiny hand with prominent knuckles and tendons')]}
 CLS['face_shape'] = [(rx, cl) for rx, cl in COORD['face_shape']]
 CLS['chest_hair'] = CLS.get('chest_hair', [])
 CLS.update({
  'eyebrows': [(r'shaved|bald', 'eyebrows shaved off completely, smooth bare skin where the brows would be'), (r'thick|full|bushy|heavy|untamed|long', 'very thick, bushy, dark eyebrows'),
-              (r'sparse|thin|faint|gap', 'very thin, sparse, barely visible eyebrows'), (r'arched|peak', 'high, sharply arched eyebrows'), (r'straight|flat', 'dead-straight, flat horizontal eyebrows'), (r'.', 'medium eyebrows with a soft curve')],
+              (r'sparse|thin|faint|gap', 'very thin, sparse, barely visible eyebrows'), (r'arched|peak', 'high, sharply arched eyebrows'), (r'straight|flat', 'dead-straight, flat horizontal eyebrows'), (r'.', 'a single joined unibrow running across the bridge of the nose')],
  'eyelashes': [(r'long|curl|flare|fluttery|doll|feathery', 'very long, curled, sweeping eyelashes'), (r'sparse|thin|gappy', 'very sparse, thin eyelashes with gaps'), (r'short', 'very short, stubby eyelashes'),
-               (r'dense|thick|clump', 'thick, dense, dark eyelashes in a heavy fringe'), (r'down', 'straight eyelashes that point downward'), (r'.', 'fine, natural, medium eyelashes')],
+               (r'dense|thick|clump', 'thick, dense, dark eyelashes in a heavy fringe'), (r'down', 'straight eyelashes that point downward'), (r'.', 'eyelashes clumped together into thick, spiky points')],
  'neck': [(r'long|swan|elegant', 'a very long, slender swan neck'), (r'short|squat', 'a very short neck, the head close to the shoulders'), (r'thick|stocky|broad|strong', 'a thick, wide, muscular neck as wide as the jaw'),
-          (r'gaunt|tendons|jutting|sharp|protruding|frail', 'a thin neck with the tendons and collarbones standing out sharply'), (r'padded|soft', 'a soft, padded neck with a smooth fold'), (r'.', 'an average neck')],
+          (r'gaunt|tendons|jutting|sharp|protruding|frail', 'a thin neck with the tendons and collarbones standing out sharply'), (r'padded|soft', 'a neck with deep horizontal rings of creases across the front'), (r'.', 'a soft neck with a heavy double chin folding over it')],
  'ears': [(r'cauliflower|battered|damaged', 'a swollen, lumpy cauliflower ear'), (r'pointed|elf', 'an ear with a clearly pointed tip'), (r'large|cupped|protruding|prominent|big', 'a large ear that sticks out from the head'),
-          (r'small|compact|tucked|short', 'a small ear lying flat against the head'), (r'torn|split|pierc|lobe', 'an ear whose lobe is the main feature, long and fleshy'), (r'.', 'an average ear')],
+          (r'small|compact|tucked|short', 'a small ear lying flat against the head'), (r'torn|split|pierc|lobe', 'an ear whose lobe is the main feature, long and fleshy'), (r'.', 'an ear with no hanging lobe at all, the bottom of the ear joined straight into the cheek')],
  'feet': [(r'wide|broad|thick', 'a very wide, flat, broad foot with the toes splayed far apart'),
           (r'narrow|slender|long toes|elegant', 'a long, narrow, slender foot with long, thin toes'),
           (r'high|arch', 'a foot with a very high, curved arch, the middle of the sole lifted well off the floor'),
@@ -156,7 +160,7 @@ CLS.update({
            (r'chip|polish|paint|art|shine|gloss', 'short nails with chipped, half-worn black polish on every nail'),
            (r'brittle|split|flak|peel', 'split, peeling, flaking nails with white spots')],
  'legs_hips': [(r'skinny|thin|stick|frail', 'very thin, stick-like legs and narrow bony hips'), (r'heavy|plump|rolls|fleshy|thick', 'heavy, thick, soft legs and wide fleshy hips'), (r'muscular|sculpted|powerful|toned|strong', 'thick, sharply muscular thighs and calves'),
-               (r'knock|bow', 'legs that bow clearly inward at the knees'), (r'wide|broad|developed|sturdy|pelvi', 'very wide hips and a broad pelvis'), (r'.', 'average legs and hips')],
+               (r'knock|bow', 'legs that bow clearly inward at the knees'), (r'wide|broad|developed|sturdy|pelvi', 'very wide hips and a broad pelvis'), (r'.', 'long, slim legs with a wide gap between the thighs')],
  'body_ratio': [(r'pear|broad-hipped|low hip', 'a pronounced pear shape: narrow, sloping shoulders and hips far wider than the shoulders, with heavy thighs'),
                 (r'inverted|V-shaped|wide-shouldered|athletic', 'a pronounced inverted triangle: very broad shoulders almost twice the width of the narrow hips'),
                 (r'long-torso', 'a very long torso on very short legs, the legs clearly shorter than the torso'),
@@ -165,7 +169,7 @@ CLS.update({
                 (r'hourglass|curv', 'an hourglass: shoulders and hips equally wide with a very narrow, pinched waist'),
                 (r'balanced|equal|rectang|thick', 'a thick, rectangular frame, the waist as wide as the shoulders and hips')],
  'chest_hair': [(r'dense|mat|thick|full', 'a thick, dense mat of hair across the whole chest'), (r'line|sternum|trail', 'one thin line of hair down the centre of the chest only'), (r'shaved|hairless|smooth|stubble', 'a completely hairless, smooth chest'),
-                (r'moderate|natural|trimmed', 'a light, even covering of short chest hair'), (r'patch|stubble', 'patchy, uneven chest hair with bare gaps'), (r'.', 'a light covering of chest hair')],
+                (r'moderate|natural|trimmed', 'a light, even covering of short chest hair'), (r'patch|stubble', 'patchy, uneven chest hair with bare gaps'), (r'.', 'a very hairy chest with the hair spreading up onto the shoulders and down the stomach')],
  'skin_tone': [(r'very pale|porcelain|alabaster|pale|white', 'very pale, almost white skin'), (r'fair|light|pink|rosy|sunburn', 'fair, light skin with pink undertones'), (r'olive', 'olive skin with greenish-golden undertones'),
                (r'tan|golden|beige|honey|yellow', 'light golden-tan skin'), (r'very deep|dark|ebony|espresso|deep', 'very dark, deep brown skin'), (r'.', 'medium brown skin')]})
 CLS.update({
@@ -174,7 +178,7 @@ CLS.update({
            (r'gummy', 'a gummy smile showing a wide band of pink gum above the teeth'), (r'worn|short|grinding|chip', 'short, worn-down, flat-edged teeth'), (r'.', 'perfectly straight, even, bright white teeth')],
  'hair_volume_line': [(r'flat|thin|limp|sparse|patchy|low-density', 'thin, flat, sparse hair lying close to the scalp'), (r'massive|halo|teased|puffed|big|voluminous', 'enormous, teased, voluminous hair standing far out from the head'),
            (r'recession|receding|recede', 'a hairline receding far back at both temples'), (r'widow', "a sharp widow's-peak point at the centre of the hairline"),
-           (r'low hairline', 'a very low hairline close to the eyebrows'), (r'high|broad hairline', 'a very high hairline above a tall forehead'), (r'.', 'medium hair volume and a straight hairline')],
+           (r'low hairline', 'a very low hairline close to the eyebrows'), (r'high|broad hairline', 'a very high hairline above a tall forehead'), (r'.', 'very thick, coarse hair with a hairline cut straight across like a ruler')],
  'breasts': [(r'tiny|nearly flat|flat|shallow', 'an almost flat chest with very small breasts, on a slim, narrow ribcage'), (r'asymmetr', 'clearly uneven breasts, one noticeably larger than the other'),
            (r'pendulous|drop|hang|sag|droop|low', 'large, heavy breasts hanging low on the chest, on a broad, full torso'), (r'high-set|lifted|perky|firm|dense', 'large, high, firm, round breasts, on a full torso with a narrow waist'),
            (r'wide-set|apart', 'medium breasts set wide apart with a broad gap between them'), (r'small|petite|modest', 'small, round, high breasts, on a slim torso'), (r'.', 'medium, round breasts')],
@@ -204,23 +208,30 @@ CLS.update({
                 (r'heavy|plump|large|fat|obese|round|soft', 'a heavy, large build with a big, soft belly and thick limbs')],
  'stomach': [(r'six-pack|defined|obliques|ripped|chiselled|etched', 'a hard, flat stomach with a clearly visible six-pack'), (r'thin|hollow|concave|sunken|ribs', 'a thin, hollow stomach with the lower ribs showing'),
              (r'tight|toned|compact|flat|firm', 'a flat, toned stomach with a faint line down the centre'), (r'heavy|protruding|fat|big|large|developed', 'a large, heavy, protruding belly hanging over the waist'),
-             (r'soft|rounded|fold|padded|gentle', 'a soft, slightly rounded stomach with a gentle fold at the waist'), (r'.', 'an average, smooth stomach')],
+             (r'soft|rounded|fold|padded|gentle', 'a soft, slightly rounded stomach with a gentle fold at the waist'), (r'.', 'a stomach with loose, wrinkled, sagging skin hanging in a fold')],
  'navel': [(r'outie|pushing outward', 'an outie navel, a small knot of skin pushing outward'), (r'vertical slit|long and narrow', 'a long, narrow, vertical slit navel'),
            (r'hooded|T-shaped|fold of skin over|fold across', 'a hooded navel with a fold of skin over the top'), (r'horizontal', 'a navel stretched into a wide horizontal slit across a heavy stomach'),
-           (r'shallow|level with', 'a shallow, round navel almost level with the skin'), (r'deep', 'a small, deep, round navel set in a firm stomach'), (r'.', 'a small, neat, round navel')],
+           (r'shallow|level with', 'a shallow, round navel almost level with the skin'), (r'deep', 'a small, deep, round navel set in a firm stomach'), (r'.', 'a navel with a small silver ring piercing through the top')],
  'shoulders': [(r'boxy|square|broad|wide', 'very broad, square shoulders'), (r'narrow|slight|slop', 'narrow, sloping shoulders'), (r'muscular|developed|rounded caps|athletic|defined|powerful', 'big, rounded, muscular shoulders'),
-               (r'bony|thin|wiry|frail', 'thin, bony shoulders with the collarbones and shoulder bones showing'), (r'soft|fleshy|padded', 'soft, rounded, fleshy shoulders'), (r'.', 'average shoulders')],
+               (r'bony|thin|wiry|frail', 'thin, bony shoulders with the collarbones and shoulder bones showing'), (r'soft|fleshy|padded', 'soft, rounded, fleshy shoulders'), (r'.', 'uneven shoulders, one clearly higher than the other')],
  'arms': [(r'thin|skinny|bony|slight|frail', 'very thin, bony arms with narrow wrists'), (r'defined biceps|muscular|bulging|developed|powerful|big', 'big, bulging, muscular arms with large biceps'),
           (r'wiry|vein|sinewy', 'lean, wiry arms with veins standing out'), (r'soft|fleshy|flabby|heavy|thick', 'thick, soft, heavy arms with fleshy upper arms'),
-          (r'toned|tricep|athletic|firm|slim', 'slim, toned arms with a visible triceps line'), (r'.', 'average arms')],
+          (r'toned|tricep|athletic|firm|slim', 'slim, toned arms with a visible triceps line'), (r'.', 'arms with loose, soft skin hanging beneath the upper arm')],
  'armpits': [(r'no hair|smooth|shaved', 'a completely smooth, shaved armpit'), (r'very hairy|dense', 'a very hairy armpit with long, thick hair'), (r'short', 'an armpit with short, stubbly hair'), (r'hairy|natural', 'an armpit with a natural tuft of hair')],
  'scrotum': [(r'small, tight|drawn-up', 'a small, tight scrotum held close to the body'), (r'large, low-hanging|relaxed hanging', 'a large, low-hanging scrotum'), (r'one testicle', 'one testicle hanging clearly lower than the other'),
              (r'heavy, deeply wrinkled|loosely wrinkled', 'a heavy, deeply wrinkled scrotum'), (r'shaved', 'a smooth, shaved, hairless scrotum'), (r'haired', 'a scrotum covered in curly hair')]})
+_AN = [(r'small, tight|tightly closed|tight rosette', 'a small, tight, closed rosette, smooth and hairless around it'), (r'wide|deep', 'a wide rosette with deep, clearly visible radial folds'),
+       (r'dense|thick hair|ring of dense', 'a rosette ringed by thick, dense, dark hair spreading along the crease'), (r'raised|puckered|swollen', 'a puckered rosette with a raised, swollen ring of skin around it'),
+       (r'full|round|heavy', 'a rosette set deep in a long crease between very full, round cheeks'), (r'.', 'a rosette between flat, narrow cheeks with only a shallow crease')]
+CLS['anus_f'] = _AN; CLS['anus_m'] = _AN
+CLS['nipples'] = [(r'inverted', 'an inverted nipple sunk into the centre of a medium areola'), (r'thumbnail', 'a tiny areola barely the width of a thumbnail around a small, flat nipple'),
+                  (r'two centimetres', 'a small, tight, puckered areola about two centimetres across around a long, prominent nipple'), (r'three and a half', 'a medium, round areola about three and a half centimetres across around a medium nipple'),
+                  (r'five centimetres', 'a wide areola about five centimetres across around a thick, wide nipple'), (r'seven centimetres', 'a very wide, puffy, domed areola about seven centimetres across, covering much of the front of the breast')]
+CLS['pecs_nipples_m'] = [(r'lean|ribs', 'a lean chest with the ribs showing and small, flat nipples'), (r'muscular', 'big, hard, muscular pecs with small nipples on their lower edge'),
+                         (r'soft|rounded|full', 'a soft, full, rounded chest with puffy, wide nipples'), (r'broad and flat', 'a broad, flat chest with wide, flat nipples'),
+                         (r'barrel|thick', 'a thick, deep, barrel-shaped chest with dark, wide nipples'), (r'.', 'a narrow, sunken, concave chest with small nipples')]
 CLASSPICK = {
- 'nipples': [r'inverted', r'width of a thumbnail', r'two centimetres', r'three and a half centimetres', r'five centimetres', r'seven centimetres'],
  'pubic_hair_f': [r'shav|no visible', r'strip', r'bikini|small natural triangle', r'full bush|dense|coarse|thick', r'sparse|fine, light', r'trimmed short|grey'],
- 'pecs_nipples_m': [r'lean|ribs', r'firmly muscular|muscular', r'soft and rounded|soft', r'broad and flat', r'barrel|thick', r'narrow|concave'],
- 'anus_f': TRAITS['anus_f'], 'anus_m': TRAITS['anus_m'],
  'expr_general': [r'joy|laugh|love|delight|happy', r'anger|irritation|fury|rage', r'sad|disappoint|grief|melanchol', r'surprise|shock|fear|alarm', r'calm|bored|relief', r'smug|suspicion|doubt|contempt'],
  'chin': [r'pointed', r'square', r'receding', r'double', r'dimple', r'long']}
 TRAITS.update({
@@ -245,7 +256,7 @@ def audit_cell(key, c):
         c = re.sub(r'\b(slightly below average|small|shorter but thick)\b', r'\1, clearly short', c, 1); c = re.sub(r'\b(large|longer than average)\b', r'\1, clearly long and heavy', c, 1)
     if key in CLS:
         sg = [re.split(r', | with | under | framed | in a ', x.strip())[0] for x in c.split(';')]
-        probe = sg[0] if key in ('eyes', 'cheeks_jaw', 'face_shape') else c if key in ('teeth', 'hair_volume_line', 'breasts', 'buttocks_f', 'buttocks_m', 'penis_flaccid', 'penis_erect', 'vulva') else ' '.join(sg)
+        probe = sg[0] if key in ('eyes', 'cheeks_jaw', 'face_shape') else c if key in ('teeth', 'hair_volume_line', 'breasts', 'buttocks_f', 'buttocks_m', 'penis_flaccid', 'penis_erect', 'vulva', 'lips', 'anus_f', 'anus_m', 'pecs_nipples_m', 'nipples') else ' '.join(sg)
         cl = next((cl for rx, cl in CLS[key] if re.search(r'\b(?:%s)' % rx, probe, re.I)), None)
         if cl is None: return ''
         c = cl
@@ -424,11 +435,12 @@ for sp in B.SPECS:
                 if sp['key'] in ('buttocks_m', 'anus_m'): ex = ex + ' His scrotum hangs naturally visible between his thighs.'
                 if sp['key'] in ('body_ratio', 'legs_hips', 'body_build'):
                     ex = ex + ' Both arms hang straight down at the sides with the hands resting against the outer thighs, the front of the body and the groin fully uncovered.' + (' Her breasts, nipples and pubic hair are clearly visible.' if sex == B.W else ' A full, normal adult penis and testicles hang clearly visible below his pubic hair, in proportion to his build.')
-                cells.append(('(%s: %s. %s, of the same %s.%s)' % (lab, c, v, ident, ex)) if sp['key'] in CROP else ('(%s: %s. %s of the same %s, completely nude, %s.%s)' % (lab, c, v, ident, GREYBG, ex)))
+                cells.append('(%s: %s.)' % (lab, c))
             same = SAME.get(sp['key'][:4] if sp['key'].startswith('skin') else sp['key'], 'age and skin colour' if sp['key'] in CROP else 'age, skin colour, hair colour and eye colour')
+            shot = ('%s, of the same %s, with the same %s, in the same soft light.' % (v, ident, same)) if sp['key'] in CROP else ('%s of the same %s, completely nude and wearing no clothing at all, with the same %s, %s.' % (v, ident, same, GREYBG))
             head = ('A grid of %d equal photographic panels arranged in two rows of %s columns, separated by thin plain white gaps. ' % (n_, 'three' if n_ == 6 else 'two')
-                    + (('Every panel is an extreme close-up of the same person, with the same %s, in the same soft light. ' % same) if sp['key'] in CROP else ('Every panel shows the same person, completely nude and wearing no clothing at all, with the same %s, in the same light against the same plain background. ' % same))
-                    + 'Only this feature changes: the %s. It changes clearly and visibly from panel to panel, exactly as each panel describes; ' % ll
+                    + 'Every panel: ' + shot + ex + ' '
+                    + 'Only the %s change, and they change dramatically from panel to panel, exactly as each panel describes; ' % ll
                     + ('nothing else changes' if sp['key'] in CROP else 'neighbouring parts of the body change in shape to match' + ('' if sp['key'].startswith('skin') else ', never in skin colour')) + '. Each panel is a separate photograph.')
             rows.append((sp['key'], sex, 'feature', ' '.join((head + ' ' + ' '.join('The %s panel: %s' % (ORD[i], c) for i, c in enumerate(cells))).split()), seed, False))
 # ---- age progression (same person across panels)
@@ -448,8 +460,9 @@ for sex, kind in ((B.W, 'face'), (B.M, 'face'), (B.W, 'hands'), (B.M, 'hands')):
             if kind == 'face': c = '%s; %s; eyes: %s; hair: %s' % (yrs, tidy(B.g('__%s_%s_aging_summary__' % (sx, a), r)), B.g('__%s_eye_lid__' % a, r), B.g('__%s_%s_hair_line__' % (sx, a), r))
             else: c = '%s; %s hand: %s; %s; %s' % (yrs, tshort, HS[AG.index(a)], B.g('__%s_hand_fingers__' % a, r), B.g('__%s_hand_knuckl__' % a, r))
             fr = 'a tight close-up of the face and hair with the head turned about thirty degrees toward the left side of the frame' if kind == 'face' else 'a close-up of one bare hand held open'
-            cells.append('(Age: %s. %s of the same adult %s with %s and %s, completely nude, %s.)' % (re.sub(r'\.$', '', c), cap(fr), who, tshort if kind == 'face' else tone, 'the same eye colour and bone structure' if kind == 'face' else 'the same hand shape', GREYBG))
-        rows.append(('age_%s_%s_%d' % (kind, who, si + 1), who, 'age', assemble(cells), seed, False))
+            cells.append('(Age: %s.)' % re.sub(r'\.$', '', c))
+        ahead = 'A grid of 6 equal photographic panels arranged in two rows of three columns, separated by thin plain white gaps. Every panel: %s of the same adult %s with %s and %s, completely nude, %s. Only the age changes, clearly from panel to panel, exactly as each panel describes. Each panel is a separate photograph.' % (cap(fr), who, tshort if kind == 'face' else tone, 'the same eye colour and bone structure' if kind == 'face' else 'the same hand shape', GREYBG)
+        rows.append(('age_%s_%s_%d' % (kind, who, si + 1), who, 'age', ' '.join((ahead + ' ' + ' '.join('The %s panel: %s' % (ORD[i], c) for i, c in enumerate(cells))).split()), seed, False))
 # ---- poses, skin marks, tattoos, makeup: ONE person per grid, only the feature in focus changes
 COL = ['navy', 'forest green', 'burgundy', 'mustard yellow', 'charcoal', 'teal', 'plum']
 PROP = re.compile(r'\b(balcony|scooter|bicycle|bike|counter|table|umbrella|bus|curb|kerb|stairs?|steps|car|doorway|doorframe|door|chair|bench|wall|window|seat|sofa|couch|bed|desk|railing|fence|rail|tree|bag|phone|camera|cup|mug|coffee|drink|book|newspaper|map|ladder|stool|crate|box|rock|boulder|log|shopping|dog|ball|guitar)\b', re.I)
@@ -465,17 +478,21 @@ def pid0(who, r, hair=True):
     tone = re.sub(r' that is slightly darker on the hands and neck', '', B.g('__dem_tone__', r)); t = re.split(r', with | with ', tone)[0]; t = t if 'skin' in t else t + ' skin'
     h = (', ' + r.choice(HAIR_P if who == 'woman' else [x.replace('pulled back off the face', 'cut short') for x in HAIR_P])) if hair else ''
     return 'adult %s in %s %s, %s%s' % (who, 'her' if who == 'woman' else 'his', age, t, h)
+SHARED = {}
 def gridhead(focus, nude=False):
-    who = 'the same completely nude person, wearing no clothing at all,' if nude else 'the same person in the same plain clothing,'
-    return 'A grid of 6 equal photographic panels arranged in two rows of three columns, separated by thin plain white gaps. Every panel shows %s in the same light against the same background; only the %s changes, and it changes clearly and visibly from panel to panel, exactly as each panel describes. Each panel is a separate photograph.' % (who, focus)
+    who = 'the same completely nude person, wearing no clothing at all' if nude else 'the same person in the same clothing'
+    sh = SHARED.get('v', '')
+    return ('A grid of 6 equal photographic panels arranged in two rows of three columns, separated by thin plain white gaps. Every panel: %s of %s, %s, %s.%s '
+            'Only the %s changes, and it changes dramatically from panel to panel, exactly as each panel describes. Each panel is a separate photograph.') % (sh or 'A photograph', who, SHARED.get('ident', ''), GREYBG, SHARED.get('ex', ''), focus)
 def pan(ident, inner, extra='', focus=''):
-    # the part that changes leads the panel; "same person" is said once in the grid header
+    # only the changing part goes in the panel; the view, person and extras go once in the grid header
     m = re.match(r'^(.*?)\. (The (?:pose|skin mark|tattoo|makeup): .*)$', inner)
-    if m: inner = m.group(2) + ' ' + m.group(1) + '.'
-    return '(%s The same %s, %s.%s)' % (inner, ident, GREYBG, extra)
+    if m: SHARED.update(v=m.group(1), ident=ident, ex=extra); inner = m.group(2)
+    return '(%s)' % inner.strip()
 def addrow(key, sex, focus, cells, nude=False):
     global seed
     rows.append((key, sex, 'pose', ' '.join((gridhead(focus, nude) + ' ' + ' '.join('The %s panel: %s' % (ORD[i], c) for i, c in enumerate(cells))).split()), seed, True))
+    SHARED.clear()
 def posegrid(key, who, pool):
     global seed
     for rep in range(3):
@@ -494,10 +511,12 @@ for who in ('woman', 'man'):
         cells = [pan(ident, 'A tight close-up of the face, filling the whole panel, %s. The skin mark: %s.' % (TURN, c), NUDE, 'skin mark') for c in MARKS]
         addrow('skin_marks_' + who, who, 'skin mark', cells, nude=True)
     for rep in range(1):
-        seed += 7; r = random.Random(seed); ident = pid(who, r, hair=False, key='tattoo'); cells = []; seen = set()
+        seed += 7; r = random.Random(seed); ident = pid(who, r, hair=False, key='tattoo'); cells = []; seen = set(); TZ = []
         while len(cells) < 6:
             c = re.sub(r'^(They have|He has|She has) ', '', B.g('__any_age25_34_opt_tattoo__', r)).rstrip('.')
-            if c in seen: continue
+            zone = next((z for z, rx in enumerate([r'face|eye|cheek|forehead|lip', r'neck|ear|throat', r'hand|finger|wrist|knuckle', r'arm|sleeve|shoulder|elbow|bicep', r'leg|calf|ankle|thigh|foot|knee', r'back|chest|rib|stomach|hip|spine|collarbone']) if re.search(rx, c)), None)
+            if c in seen or zone is None or zone in {z for z, _ in TZ}: continue
+            TZ.append((zone, c))
             seen.add(c); cells.append(pan(ident, 'A close-up of the tattooed area of bare skin, %s. The tattoo: %s.' % (TURN, c), NUDE, 'tattoo'))
         addrow('tattoos_' + who, who, 'tattoo', cells, nude=True)
 for who in ('woman', 'man'):
