@@ -184,6 +184,25 @@ CLS['vulva'] = [(r'fully tucked|thin pink line', 'inner labia fully hidden betwe
                 (r'one side|left-right|asymmetr', 'clearly uneven inner labia, one side much longer than the other'),
                 (r'one and a half|fine wrinkles|long|extend well', 'long inner labia hanging well past the outer labia, with wrinkled edges'),
                 (r'.', 'short, neat inner labia with smooth, wavy edges between slim outer labia')]
+CLS.update({
+ 'body_build': [(r'thin|frail|slender|wiry|skinny|bony', 'a very thin, bony frame with the ribs and hip bones showing'), (r'slim|lean|willowy|petite', 'a slim, lean build with narrow limbs'),
+                (r'athletic|toned|fit', 'an athletic build with toned, clearly defined muscles'), (r'muscular|bodybuilder|bulky|powerful|broad shoulder', 'a very muscular build with big, hard, bulky muscles'),
+                (r'curvy|hourglass|voluptuous', 'a curvy build with a full bust, a small waist and wide hips and thighs'), (r'stocky|thick-set|solid|sturdy', 'a stocky, thick-set, solid build with short, thick limbs'),
+                (r'heavy|plump|large|fat|obese|round|soft', 'a heavy, large build with a big, soft belly and thick limbs')],
+ 'stomach': [(r'six-pack|defined|obliques|ripped|chiselled|etched', 'a hard, flat stomach with a clearly visible six-pack'), (r'thin|hollow|concave|sunken|ribs', 'a thin, hollow stomach with the lower ribs showing'),
+             (r'tight|toned|compact|flat|firm', 'a flat, toned stomach with a faint line down the centre'), (r'heavy|protruding|fat|big|large|developed', 'a large, heavy, protruding belly hanging over the waist'),
+             (r'soft|rounded|fold|padded|gentle', 'a soft, slightly rounded stomach with a gentle fold at the waist'), (r'.', 'an average, smooth stomach')],
+ 'navel': [(r'outie|pushing outward', 'an outie navel, a small knot of skin pushing outward'), (r'vertical slit|long and narrow', 'a long, narrow, vertical slit navel'),
+           (r'hooded|T-shaped|fold of skin over|fold across', 'a hooded navel with a fold of skin over the top'), (r'horizontal', 'a navel stretched into a wide horizontal slit across a heavy stomach'),
+           (r'shallow|level with', 'a shallow, round navel almost level with the skin'), (r'deep', 'a small, deep, round navel set in a firm stomach'), (r'.', 'a small, neat, round navel')],
+ 'shoulders': [(r'boxy|square|broad|wide', 'very broad, square shoulders'), (r'narrow|slight|slop', 'narrow, sloping shoulders'), (r'muscular|developed|rounded caps|athletic|defined|powerful', 'big, rounded, muscular shoulders'),
+               (r'bony|thin|wiry|frail', 'thin, bony shoulders with the collarbones and shoulder bones showing'), (r'soft|fleshy|padded', 'soft, rounded, fleshy shoulders'), (r'.', 'average shoulders')],
+ 'arms': [(r'thin|skinny|bony|slight|frail', 'very thin, bony arms with narrow wrists'), (r'defined biceps|muscular|bulging|developed|powerful|big', 'big, bulging, muscular arms with large biceps'),
+          (r'wiry|vein|sinewy', 'lean, wiry arms with veins standing out'), (r'soft|fleshy|flabby|heavy|thick', 'thick, soft, heavy arms with fleshy upper arms'),
+          (r'toned|tricep|athletic|firm|slim', 'slim, toned arms with a visible triceps line'), (r'.', 'average arms')],
+ 'armpits': [(r'no hair|smooth|shaved', 'a completely smooth, shaved armpit'), (r'very hairy|dense', 'a very hairy armpit with long, thick hair'), (r'short', 'an armpit with short, stubbly hair'), (r'hairy|natural', 'an armpit with a natural tuft of hair')],
+ 'scrotum': [(r'small, tight|drawn-up', 'a small, tight scrotum held close to the body'), (r'large, low-hanging|relaxed hanging', 'a large, low-hanging scrotum'), (r'one testicle', 'one testicle hanging clearly lower than the other'),
+             (r'heavy, deeply wrinkled|loosely wrinkled', 'a heavy, deeply wrinkled scrotum'), (r'shaved', 'a smooth, shaved, hairless scrotum'), (r'haired', 'a scrotum covered in curly hair')]})
 CLASSPICK = {
  'nipples': [r'inverted', r'width of a thumbnail', r'two centimetres', r'three and a half centimetres', r'five centimetres', r'seven centimetres'],
  'pubic_hair_f': [r'shav|no visible', r'strip', r'bikini|small natural triangle', r'full bush|dense|coarse|thick', r'sparse|fine, light', r'trimmed short|grey'],
@@ -269,6 +288,20 @@ F2['head_chin_show'] = ['a sharp pointed chin, narrow and V-shaped', 'a heavy sq
 B.SPECS[:] = [x for x in B.SPECS if x['key'] not in ('skin_face', 'skin_body', 'skin_heritage', 'expr_adult_l34', 'expr_adult_l56')]
 for _sp in B.SPECS:
     if _sp['key'] == 'expr_adult_l12': _sp['key'] = 'expr_adult'; _sp['label'] = 'adult expression'
+_NEW = [B.S('body_build', 'body build', 'general', '__sc_build_SEXX__', [(B.W, 'full', 'an adult woman'), (B.M, 'full', 'an adult man')]),
+        B.S('stomach', 'stomach', 'general', '__sc_abs__', [(B.W, 'x', 'an adult woman'), (B.M, 'x', 'an adult man')]),
+        B.S('navel', 'navel', 'general', '__sc_navel__', [(B.W, 'x', 'an adult woman'), (B.M, 'x', 'an adult man')]),
+        B.S('shoulders', 'shoulders', 'general', '__sc_shldr__', [(B.W, 'x', 'an adult woman'), (B.M, 'x', 'an adult man')]),
+        B.S('arms', 'arms', 'general', '__sc_arms__', [(B.W, 'x', 'an adult woman'), (B.M, 'x', 'an adult man')]),
+        B.S('armpits', 'armpit hair', 'general', '__sc_armpit__', [(B.W, 'x', 'an adult woman'), (B.M, 'x', 'an adult man')])]
+_at = next(i for i, x in enumerate(B.SPECS) if x['key'] == 'legs_hips') + 1
+B.SPECS[_at:_at] = _NEW
+_at = next(i for i, x in enumerate(B.SPECS) if x['key'] == 'penis_erect') + 1
+B.SPECS.insert(_at, B.S('scrotum', 'scrotum', 'adult', '__sc_scrotum__', [(B.M, 'x', 'an adult man')]))
+_cell0 = B.cell
+def _cell(sp, sex, r):
+    return _cell0(dict(sp, tpl=sp['tpl'].replace('SEXX', 'f' if sex == B.W else 'm')), sex, r)
+B.cell = _cell
 B.SPECS.insert(10, B.S('chin', 'chin', 'general', '__head_chin_show__', B.FACEF[:2] + B.FACEF[2:3]))
 for _sp in B.SPECS:
     if _sp['key'] == 'anus_f': _sp['tpl'] = '__f_body_anus__'
@@ -310,6 +343,12 @@ CROP = {
  'feet': 'An extreme close-up photograph of one bare foot alone, filling the whole panel: the frame runs from the ankle to the tips of the toes, seen from above and a little to the side',
  'facial_hair': 'A close-up photograph of the lower face alone, filling the whole panel: the frame runs from the nose down to the throat, turned slightly toward the left of the frame',
  'chest_hair': 'A close-up photograph of the bare chest alone, filling the whole panel: the frame runs from the collarbones down to the bottom of the ribs',
+ 'stomach': 'A close-up photograph of the bare stomach alone, filling the whole panel: the frame runs from the bottom of the ribs down to the hips, the navel in the centre, turned slightly toward the left of the frame',
+ 'navel': 'An extreme close-up photograph of the belly button alone, filling the whole panel: the frame runs a hand-width around the navel, which sits large and sharp in the centre',
+ 'shoulders': 'A close-up photograph of the bare shoulders alone, from the front, filling the whole panel: the frame runs across both shoulders from the base of the neck to the tops of the arms',
+ 'arms': 'A close-up photograph of one bare arm alone, held slightly away from the body, filling the whole panel: the frame runs from the shoulder to the wrist',
+ 'armpits': 'A close-up photograph of one armpit alone, the arm raised over the head, filling the whole panel',
+ 'scrotum': 'A clinical close-up photograph of the genitals from the front, the man standing, filling the whole panel with the scrotum large and sharp in the centre',
  'cheeks_jaw': 'A close-up photograph of the lower two-thirds of the face, filling the whole panel: the frame runs from the cheekbones down to the jaw, turned slightly toward the left of the frame'}
 def view(sp, frame):
     key = sp['key']
@@ -317,7 +356,7 @@ def view(sp, frame):
     if key == 'nose_profile': return 'A tight side-profile close-up of the nose'
     if 'clinical' in frame: return cap(frame_phrase(frame, 'the same person')) if False else None
     if key.startswith('hair') or key == 'hair_volume_line': return 'A head and shoulders view with the head turned about thirty degrees toward the left side of the frame, so that the front and the side of the hair are both in view'
-    if key in ('body_ratio', 'legs_hips'): return 'A full-length view of the whole nude body turned partly toward the left side of the frame, so that the front and a little of the side contour are both in view'
+    if key in ('body_ratio', 'legs_hips', 'body_build'): return 'A full-length view of the whole nude body turned partly toward the left side of the frame, so that the front and a little of the side contour are both in view'
     part = PARTS.get(key, 'the ' + sp['label'])
     if key in HEADK or key == 'neck': return 'A tight close-up of %s with the head turned about thirty degrees toward the left side of the frame, so that the front of %s and a little of the side profile are both in view' % (part, part)
     return 'A close-up of %s, turned partly toward the left side of the frame so that the front and a little of the side contour are both in view' % part
@@ -347,6 +386,7 @@ for sp in B.SPECS:
                 seen2 = {}; [seen2.setdefault(c.split(';')[1].strip() if ';' in c else c, c) for c in r.sample(pool_, len(pool_))]; pool_ = list(seen2.values())
                 n_ = 6 if len(pool_) >= 6 else 4 if len(pool_) >= 4 else n_
             if sp['key'] in CLS or sp['key'] in CLASSPICK:
+                _skip = {('body_build', B.W): 'stocky', ('body_build', B.M): 'curvy'}.get((sp['key'], sex))
                 cls_ = [re.escape(x[1]) for x in CLS[sp['key']]] if sp['key'] in CLS else CLASSPICK[sp['key']]
                 bk = {}
                 for c in r.sample(pool_, len(pool_)):
@@ -355,7 +395,8 @@ for sp in B.SPECS:
                     if i is not None and dk(c) not in [dk(v) for v in bk.values()]: bk.setdefault(i, c)
                 if sp['key'] in CLS:   # every class shown: a class the library has but this draw missed is written as its plain description
                     for i, (rx, cl) in enumerate(CLS[sp['key']]):
-                        if i not in bk and len(bk) < 6: bk[i] = cl
+                        if i not in bk and len(bk) < 6 and not (_skip and _skip in cl): bk[i] = cl
+                if _skip: bk = {i: v for i, v in bk.items() if _skip not in v}
                 pool_ = [bk[i] for i in sorted(bk)]; n_ = 6 if len(pool_) >= 6 else 4 if len(pool_) >= 4 else 0
                 if not n_: continue
             if sp['key'] == 'expr_adult':
@@ -521,7 +562,7 @@ def caplabel(key):
     for pre, l in (('pose_pair', 'Two-Person Pose'), ('pose_trio', 'Three-Person Pose'), ('pose_', 'Pose'), ('skin_marks', 'Skin marks'), ('tattoos', 'Tattoos'), ('makeup', 'Makeup'), ('age_face', 'Age: face'), ('age_hands', 'Age: hands'), ('adult_pose_', 'Pose scene'), ('adult_scene', 'Scene')):
         if key.startswith(pre): return l
     return None
-TITLES = {'Face shape': 'Face Shape', 'Eyes': 'Eye', 'Eyelashes and lids': 'Eyelash', 'Eyebrows and forehead': 'Eyebrow', 'Nose': 'Nose', 'Nose in profile': 'Nose Profile', 'Lips and mouth': 'Lip',
+TITLES = {'Body build': 'Body Build', 'Stomach': 'Stomach', 'Navel': 'Belly Button', 'Shoulders': 'Shoulder', 'Arms': 'Arm', 'Armpit hair': 'Armpit Hair', 'Scrotum': 'Scrotum', 'Face shape': 'Face Shape', 'Eyes': 'Eye', 'Eyelashes and lids': 'Eyelash', 'Eyebrows and forehead': 'Eyebrow', 'Nose': 'Nose', 'Nose in profile': 'Nose Profile', 'Lips and mouth': 'Lip',
  'Teeth and gums': 'Teeth', 'Ears': 'Ear', 'Cheeks, jaw and temples': 'Cheek and Jaw', 'Chin': 'Chin', 'Neck and collarbones': 'Neck', 'Skin tone': 'Skin Tone', 'Hairstyle': 'Hairstyle',
  'Hair volume and hairline': 'Hairline', 'Facial hair': 'Facial Hair', 'Chest hair': 'Chest Hair', 'Hands and fingers': 'Hand', 'Fingernails': 'Fingernail', 'Feet and toes': 'Foot',
  'Body proportions': 'Body Proportion', 'Legs and hips': 'Leg and Hip', 'Facial expressions': 'Expression', 'Expression': 'Expression', 'Skin colour': 'Skin Colour', 'Skin colour and undertone': 'Skin Colour',
