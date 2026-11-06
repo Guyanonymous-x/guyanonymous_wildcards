@@ -48,3 +48,11 @@
 - Change one variable at a time and keep the seed fixed when comparing.
 - Review every prompt before use, and send test prompts as ready-to-run command lines.
 - When results look wrong, look for the cause in the wording first: abstract terms, conflicting clauses, random attributes that should be fixed, or repeated features that should be stated once.
+
+## 9. Learnings from the v106 image tests
+- Grids: 2x2 and 2x3 render reliably; 3x3 and 1x6 drop or duplicate panels. Wrap each panel in its own bracketed, self-contained description.
+- Colours and props that are named are followed. Hands go into pockets when hand placement is not stated, so state hands and free arms.
+- Two-person scenes: say "Both people in this panel are men" (or women), otherwise a man and woman appear. Facing poses need "Their torsos are turned toward each other and not toward the camera, and the camera sees them in three-quarter view from one side." Named positions fail unless the geometry is spelled out.
+- Clothed bulges depend on fabric. Anatomy nouns with size or shape words (rounded, swell, prominent, subtle tent) are drawn as objects; use plain "bulge" or "outline showing through the fabric". Tight stretch fabric holds the penis flat against the belly and shows it from the front only; briefs outline it; a jockstrap is a modest close pouch no larger than a hand; medium fabric (linen, jeans) softens the outline; loose fabric needs a clear tent about a hand wide and a hand and a half long. Give length against the body (crotch seam to navel).
+- Chin: a "deep cleft" splits the chin into two lobes and runs toward the lip, and even a shallow vertical groove looked like buttocks. Use a small shallow dimple low on the chin tip, outline unbroken.
+- Feature showcases: one person per feature, close-up of only the part, subtle options (chin shapes) need clearly different shapes to show at all, and one quoted title per image gives readable text.

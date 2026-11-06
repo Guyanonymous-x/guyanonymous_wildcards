@@ -2,19 +2,35 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v105**
+**Current version: v106**
 
-**Contents:** [Introduction](#introduction) · [What's New in v105](#whats-new-in-v105) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v106](#whats-new-in-v106) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 41,600 wildcard text files (41649 `.txt` files in [`wildcards/`](wildcards/) at v105, plus 1288 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 41,600 wildcard text files (41658 `.txt` files in [`wildcards/`](wildcards/) at v106, plus 1304 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v106
+
+Clothed bulges by fabric, structured group, wrestling and location scenes, and a chin fix ([docs/INDEX_v106.txt](docs/INDEX_v106.txt), notes in [wildcards/_tools/V106_CHANGES.md](wildcards/_tools/V106_CHANGES.md)). Since v105 it adds:
+
+- Clothed men: `male_bulge_tight`, `_brief`, `_jock`, `_medium`, `_loose`, `_clothed` and `_covered`, written from image tests. Tight stretch fabric holds the penis flat against the belly, briefs outline it, a jockstrap has a modest close pouch, medium fabric softens the outline and loose fabric only tents over an erect penis.
+- Level panels `adult_lN_panel_wm/_ww/_mm` rewritten with full geometry: who faces whom, torsos turned toward each other, a three-quarter camera, placed hands, and both people stated as men or women where needed.
+- Structured three-person scenes at levels 1 to 6 (`adult_lN_group`), with explicit acts at levels 5 and 6.
+- New `adult_l4_wrestling_mm`, `adult_l5_wrestling_mm` and `adult_l6_wrestling_mm`.
+- Ten structured venues for a woman and a man at every level (`adult_lN_location`).
+- Level 3 solo scenes use topless or shirtless in real bottoms; hand-on-stomach lines for women at levels 1 and 2 now use hand on hip or inner thigh.
+- Chin: `head_chin` no longer has a deep cleft, which drew a split chin. A cleft is now a small shallow dimple low on the chin tip.
+- **Showcase and sample files:** the showcase files (40 prompts at 1024 and 1408 sizes, plus a key file) highlight what is new or changed in this version, while the 100 sample prompts are representative of everything the model can do. Both are in [docs/showcase/](docs/showcase/), built by `_tools/v106_showcase.py`.
+- Tools: `_tools/V106_showcase_generator.py` and `_tools/convert_list.py` build the body-feature grids (2x2 or 2x3, one person per feature, close-ups of the part, one title per image). Those grid files are not stored in this repository.
+
+The full list of v106 entry points is in `wildcards/v106_entry_points.txt`.
 
 ## What's New in v105
 
@@ -345,6 +361,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v106
+Bulge classes by fabric, structured group, wrestling and location scenes, rewritten level panels, shallow chin dimple. See [What's New in v106](#whats-new-in-v106).
 
 ### v105
 Full range of sexual acts at levels 5 and 6, kink panels, named positions, clothed bulges, realistic semen. See [What's New in v105](#whats-new-in-v105).
