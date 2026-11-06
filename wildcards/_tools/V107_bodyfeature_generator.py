@@ -178,9 +178,14 @@ def _pen(st):
             (r'clearly short.*\bcircumcised', 'a short, small %s penis, circumcised, the bare head fully exposed, on slim hips and lean thighs' % st),
             (r'\buncircumcised', 'an average %s penis, uncircumcised, the foreskin covering the tip' % st), (r'.', 'an average %s penis, circumcised, the bare head fully exposed' % st)]
 CLS['penis_flaccid'] = _pen('soft'); CLS['penis_erect'] = _pen('erect')
+CLS['vulva'] = [(r'fully tucked|thin pink line', 'inner labia fully hidden between full, closed outer labia, only a thin line showing'),
+                (r'just visible|few millimetres', 'inner labia just visible at the edge of the outer labia'),
+                (r'peek out|extend about a centimetre as', 'inner labia that clearly extend past the outer labia as smooth, soft folds'),
+                (r'one side|left-right|asymmetr', 'clearly uneven inner labia, one side much longer than the other'),
+                (r'one and a half|fine wrinkles|long|extend well', 'long inner labia hanging well past the outer labia, with wrinkled edges'),
+                (r'.', 'short, neat inner labia with smooth, wavy edges between slim outer labia')]
 CLASSPICK = {
  'nipples': [r'inverted', r'width of a thumbnail', r'two centimetres', r'three and a half centimetres', r'five centimetres', r'seven centimetres'],
- 'vulva': [r'fully tucked|thin pink line', r'just visible|few millimetres', r'peek out', r'one side and sit tucked', r'one and a half|fine wrinkles', r'medium length|wavy|long|extend well'],
  'pubic_hair_f': [r'shav|no visible', r'strip', r'bikini|small natural triangle', r'full bush|dense|coarse|thick', r'sparse|fine, light', r'trimmed short|grey'],
  'pecs_nipples_m': [r'lean|ribs', r'firmly muscular|muscular', r'soft and rounded|soft', r'broad and flat', r'barrel|thick', r'narrow|concave'],
  'anus_f': TRAITS['anus_f'], 'anus_m': TRAITS['anus_m'],
@@ -206,11 +211,9 @@ def audit_cell(key, c):
     if key in ('penis_flaccid', 'penis_erect'):
         c = re.sub(r', with (?:a few faint veins|a pronounced vein pattern|smooth shaft skin and almost no visible veins)[^,;]*', '', c); c = re.sub(r',? with an? [^;]*?scrotum(?: slightly darker than the surrounding skin)?', '', c); c = c.replace(' slightly darker than the surrounding skin', '')
         c = re.sub(r'\b(slightly below average|small|shorter but thick)\b', r'\1, clearly short', c, 1); c = re.sub(r'\b(large|longer than average)\b', r'\1, clearly long and heavy', c, 1)
-    if key == 'vulva' and ';' in c:
-        sg = [x.strip() for x in c.split(';')]; c = '; '.join([sg[1], sg[0]] + sg[2:])
     if key in CLS:
         sg = [re.split(r', | with | under | framed | in a ', x.strip())[0] for x in c.split(';')]
-        probe = sg[0] if key in ('eyes', 'cheeks_jaw', 'face_shape') else c if key in ('teeth', 'hair_volume_line', 'breasts', 'buttocks_f', 'buttocks_m', 'penis_flaccid', 'penis_erect') else ' '.join(sg)
+        probe = sg[0] if key in ('eyes', 'cheeks_jaw', 'face_shape') else c if key in ('teeth', 'hair_volume_line', 'breasts', 'buttocks_f', 'buttocks_m', 'penis_flaccid', 'penis_erect', 'vulva') else ' '.join(sg)
         cl = next((cl for rx, cl in CLS[key] if re.search(r'\b(?:%s)' % rx, probe, re.I)), None)
         if cl is None: return ''
         c = cl
