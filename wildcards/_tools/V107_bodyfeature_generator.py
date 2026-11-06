@@ -356,7 +356,7 @@ CROP = {
  'feet': 'An extreme close-up photograph of one bare foot alone, filling the whole panel: the frame runs from the ankle to the tips of the toes, seen from above and a little to the side',
  'facial_hair': 'A close-up photograph of the lower face alone, filling the whole panel: the frame runs from the nose down to the throat, turned slightly toward the left of the frame',
  'chest_hair': 'A close-up photograph of the bare chest alone, filling the whole panel: the frame runs from the collarbones down to the bottom of the ribs',
- 'stomach': 'A close-up photograph of the bare stomach alone, filling the whole panel: the frame runs from the bottom of the ribs down to the hips, the navel in the centre, turned slightly toward the left of the frame',
+ 'stomach': 'A close-up photograph of the bare stomach alone, filling the whole panel: the frame runs from the bottom of the ribs down to just above the pubic hair, the navel in the centre, turned slightly toward the left of the frame',
  'navel': 'An extreme close-up photograph of the belly button alone, filling the whole panel: the frame runs a hand-width around the navel, which sits large and sharp in the centre',
  'shoulders': 'A close-up photograph of the bare shoulders alone, from the front, filling the whole panel: the frame runs across both shoulders from the base of the neck to the tops of the arms',
  'arms': 'A close-up photograph of one bare arm alone, held slightly away from the body, filling the whole panel: the frame runs from the shoulder to the wrist',
@@ -421,8 +421,9 @@ for sp in B.SPECS:
             picks = pool_[:n_] if (sp['key'] in CLS or sp['key'] in CLASSPICK or sp['key'] == 'expr_adult') else diverse(pool_, n_, r, tr); used.update(picks); CAP[(sp['key'], sex)] = CAP.get((sp['key'], sex), 0) + 1
             for c in picks:
                 ex = LIMB if sp['key'] in LIMBKEYS else ' The hand has five fingers and belongs to one arm.' if sp['key'] in ('hands', 'nails') else ' The foot has five toes.' if sp['key'] == 'feet' else ''
+                if sp['key'] in ('buttocks_m', 'anus_m'): ex = ex + ' His scrotum hangs naturally visible between his thighs.'
                 if sp['key'] in ('body_ratio', 'legs_hips', 'body_build'):
-                    ex = ex + ' Both arms hang straight down at the sides with the hands resting against the outer thighs, the front of the body and the groin fully uncovered.' + (' Her breasts, nipples and pubic hair are clearly visible.' if sex == B.W else ' His penis and testicles hang clearly visible below his pubic hair.')
+                    ex = ex + ' Both arms hang straight down at the sides with the hands resting against the outer thighs, the front of the body and the groin fully uncovered.' + (' Her breasts, nipples and pubic hair are clearly visible.' if sex == B.W else ' A full, normal adult penis and testicles hang clearly visible below his pubic hair, in proportion to his build.')
                 cells.append(('(%s: %s. %s, of the same %s.%s)' % (lab, c, v, ident, ex)) if sp['key'] in CROP else ('(%s: %s. %s of the same %s, completely nude, %s.%s)' % (lab, c, v, ident, GREYBG, ex)))
             same = SAME.get(sp['key'][:4] if sp['key'].startswith('skin') else sp['key'], 'age and skin colour' if sp['key'] in CROP else 'age, skin colour, hair colour and eye colour')
             head = ('A grid of %d equal photographic panels arranged in two rows of %s columns, separated by thin plain white gaps. ' % (n_, 'three' if n_ == 6 else 'two')
@@ -603,7 +604,9 @@ def write(od):
         for name in ('1024', '1408'):
             out = []
             for key, sex, kind, t, sd, lora in sel:
-                w, h = B.sizes(*((1, 1) if 'grid of 4 ' in t[:20] else (3, 2)))[0 if name == '1024' else 1]
+                tall = key in ('body_ratio', 'legs_hips', 'body_build') or key.startswith('pose_solo')
+                w, h = B.sizes(*((1, 1) if ('grid of 4 ' in t[:20] or tall) else (3, 2)))[0 if name == '1024' else 1]
+                if tall: t = t.replace('separated by thin plain white gaps.', 'separated by thin plain white gaps. Each panel is a tall, narrow portrait frame holding exactly one standing person, shown once, from head to feet.', 1)
                 t = captioned(key, ' '.join(t.split())).replace('"', '\\"')
                 out.append('--prompt "%s%s" --steps 50 --cfg_scale 3.75 --seed %d --width %d --height %d' % ('<lora:MOSSwSh4rpD3tails:0.5> ' if lora else '', t, sd, w, h))
             open(od + 'Guyanonymous_Wildcards_showcase_updated_%s_%s.txt' % (grp, name), 'w', encoding='utf8').write('\n'.join(out))

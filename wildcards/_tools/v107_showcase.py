@@ -10,7 +10,7 @@ BG = 'against a plain pale grey background under soft even studio light'
 NUDE = 'She is completely nude, wearing no clothing at all.'
 NIP = ('A clinical close-up of one bare breast of an adult woman in her early thirties, turned partly toward the left side of the frame, ' + BG + '. ' + NUDE + ' Nipple and areola: __f_body_nipples__.')
 AF = ('A clinical close view from behind of the bare buttocks and anal area of an adult woman in her early thirties bending forward slightly, in three-quarter view, ' + BG + '. ' + NUDE + ' Anal area: __f_body_anus__.')
-AM = ('A clinical close view from behind of the bare buttocks and anal area of an adult man in his early thirties bending forward slightly, in three-quarter view, ' + BG + '. He is completely nude, wearing no clothing at all. Anal area: __m_body_anus__.')
+AM = ('A clinical close view from behind of the bare buttocks and anal area of an adult man in his early thirties bending forward slightly, in three-quarter view, ' + BG + '. He is completely nude, wearing no clothing at all, and his scrotum hangs naturally visible between his thighs. Anal area: __m_body_anus__.')
 REFS = []
 for a in ('yoga', 'dance_classes', 'martial_arts'):
     REFS += ['__act_%s_prompt__' % a] * 5 + ['__act_%s_frame_prompt__' % a] * 2 + ['__act_%s_scene_prompt__' % a]
