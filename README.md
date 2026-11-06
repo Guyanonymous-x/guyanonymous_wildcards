@@ -2,19 +2,30 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v106**
+**Current version: v107**
 
-**Contents:** [Introduction](#introduction) · [What's New in v106](#whats-new-in-v106) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v107](#whats-new-in-v107) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 41,600 wildcard text files (41658 `.txt` files in [`wildcards/`](wildcards/) at v106, plus 1304 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 41,600 wildcard text files (41661 `.txt` files in [`wildcards/`](wildcards/) at v107, plus 1311 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v107
+
+A fuller range for body features and three activities ([docs/INDEX_v107.txt](docs/INDEX_v107.txt), notes in [wildcards/_tools/V107_CHANGES.md](wildcards/_tools/V107_CHANGES.md)). Since v106 it adds:
+
+- **Areola and nipple sizes:** `f_body_nipples` gains 35 lines that pair five areola sizes, from about the width of a thumbnail to about seven centimetres across, with seven nipple forms (tiny flat, small, medium, long, thick, inverted, puffy). No skin colour is named.
+- **Anal area:** new `f_body_anus` and `m_body_anus` describe the shape, folds and hair, and the buttocks around it. No skin colour is named.
+- **Yoga, dance classes and martial arts:** the action lists grow from 3 lines to 24, 20 and 20, and the clothes, equipment and setting lists are wider (leotards, leggings, fitted tops, training suits).
+- **Showcase and sample files:** 40 showcase prompts at 1024 and 1408 sizes plus a key file, and 100 sample prompts, in [docs/showcase/](docs/showcase/), built by `_tools/v107_showcase.py`.
+
+The full list of v107 entry points is in `wildcards/v107_entry_points.txt`.
 
 ## What's New in v106
 
@@ -361,6 +372,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v107
+Areola and nipple size ladder, anal-area files for women and men, fuller yoga, dance-class and martial-arts lists. See [What's New in v107](#whats-new-in-v107).
 
 ### v106
 Bulge classes by fabric, structured group, wrestling and location scenes, rewritten level panels, shallow chin dimple. See [What's New in v106](#whats-new-in-v106).

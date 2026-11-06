@@ -3,6 +3,17 @@
  "intro": "The library has grown from printed T-shirts and uniforms into a full wardrobe, accessory, scene and overlay system. Here is what each stretch added, newest first.",
  "releases": [
   [
+   "Version 107",
+   [
+    "Nipples: `f_body_nipples` gains 35 lines that pair five areola sizes (thumbnail-small to very wide) with seven nipple forms (flat, small, medium, long, thick, inverted, puffy dome) and a surface note, with no skin colour.",
+    "Anal area: new `f_body_anus` and `m_body_anus` describe rosette shape, radial folds, hair and the cheeks around it, with no skin colour.",
+    "Yoga: `act_yoga_action` grows from 3 to 24 named poses; clothes, equipment and settings are widened, with leotard, leggings and fitted-top options.",
+    "Dance classes: `act_dance_classes_action` grows to 20 moves (ballet, jazz, salsa, hip-hop, contemporary); clothes, equipment and settings are widened.",
+    "Martial arts: `act_martial_arts_action` grows to 20 stances, kicks and strikes; clothes, equipment and settings are widened.",
+    "Showcase files (40 prompts at 1024 and 1408 pixel counts, steps 50, cfg 3.75) and 100 sample prompts are included."
+   ]
+  ],
+  [
    "Version 106",
    [
     "Clothed men: `male_bulge_tight`, `_brief`, `_jock`, `_medium`, `_loose`, `_clothed` and `_covered`, written from image tests. Tight stretch fabric holds the penis flat against the belly; briefs outline it; a jockstrap has a modest close pouch; medium fabric softens the outline; loose fabric only tents over an erect penis. Length is given against the body.",

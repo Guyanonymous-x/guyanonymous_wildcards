@@ -1,0 +1,9 @@
+v107 index
+Built from the image tests of this version. Rules and findings: docs/STANDING_RULES.txt, docs/MOSS_PROMPT_RULES_HANDOVER.md and _tools/V106_CHANGES.md.
+
+Showcase and sample files: the showcase files highlight body parts and features (one person per feature, close-ups of the part, a title such as Eye Variations on each image); the sample files are representative of everything the model can do.
+
+v107 contents: clothed male bulge pools by fabric class (male_bulge_tight, _brief, _jock, _medium, _loose, _clothed, _covered); level panels adult_lN_panel_wm/_ww/_mm rewritten with full geometry, orientation and camera; structured three-person group scenes at levels 1 to 6; adult_l4/l5/l6_wrestling_mm; structured location scenes for a woman and a man at every level; level 3 solo scenes in real bottoms; head_chin with a shallow dimple instead of a deep cleft; showcase generators V106_showcase_generator.py and convert_list.py.
+
+
+v107 adds: f_body_nipples areola/nipple ladder (35 lines), f_body_anus, m_body_anus, and expanded act_yoga_*, act_dance_classes_*, act_martial_arts_* action/clothes/equip/setting lists.

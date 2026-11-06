@@ -56,3 +56,7 @@
 - Clothed bulges depend on fabric. Anatomy nouns with size or shape words (rounded, swell, prominent, subtle tent) are drawn as objects; use plain "bulge" or "outline showing through the fabric". Tight stretch fabric holds the penis flat against the belly and shows it from the front only; briefs outline it; a jockstrap is a modest close pouch no larger than a hand; medium fabric (linen, jeans) softens the outline; loose fabric needs a clear tent about a hand wide and a hand and a half long. Give length against the body (crotch seam to navel).
 - Chin: a "deep cleft" splits the chin into two lobes and runs toward the lip, and even a shallow vertical groove looked like buttocks. Use a small shallow dimple low on the chin tip, outline unbroken.
 - Feature showcases: one person per feature, close-up of only the part, subtle options (chin shapes) need clearly different shapes to show at all, and one quoted title per image gives readable text.
+
+## 10. v107 learnings
+- Body-part grids must say the person is completely nude in every panel; leaving clothing unstated or naming a t-shirt or underwear puts clothes on feature grids.
+- Size ranges need numbers to show: areolas are written as a ladder from thumbnail-wide to about seven centimetres across.
