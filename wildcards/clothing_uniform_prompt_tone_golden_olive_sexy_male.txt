@@ -66,7 +66,7 @@ A person dressed as a Zen monk in a sexy masculine costume-shop style (Japan), w
 A person dressed as a ballet dancer in a sexy masculine costume-shop style (stage), with a fitted tunic, tights and ballet slippers, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with golden olive skin
 A person dressed as a barber-surgeon in a sexy masculine costume-shop style (medieval Europe), with a stained linen apron over a wool tunic with rolled sleeves, hose, a cloth cap and leather shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with golden olive skin
 A person dressed as a barista in a sexy masculine costume-shop style (café), with a canvas apron over a shirt, jeans, a flat cap and trainers, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with golden olive skin
-A person dressed as a bell ringer in a sexy masculine costume-shop style (church), with a jumper with the tower name, trousers and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with golden olive skin
+A person dressed as a bell ringer in a sexy masculine costume-shop style (church), with a jumper with the name "__name_town__" printed across it, trousers and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with golden olive skin
 A person dressed as a black knight in a sexy masculine costume-shop style (fantasy), blackened plate armour with a tattered cape, a closed helm and boots, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with golden olive skin
 A person dressed as a bullfighter in a sexy masculine costume-shop style (Spain), with a short embroidered jacket in gold thread with a sash, tight breeches, a montera hat and slippers, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with golden olive skin
 A person dressed as a cardboard robot costume in a sexy masculine costume-shop style (craft fair), with a box costume with dials, a box helmet and boots, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with golden olive skin
@@ -89,7 +89,7 @@ A person dressed as a giant robot in a sexy masculine costume-shop style (tokusa
 A person dressed as a golfer in a sexy masculine costume-shop style (golf), with a polo and a sweater vest, plus fours, a flat cap and golf shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with golden olive skin
 A person dressed as a grapple-line scout in a sexy masculine costume-shop style (anime-inspired), with a brown cloak over a harness with grappling gear, trousers and boots, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with golden olive skin
 A person dressed as a gymnast in a sexy masculine costume-shop style (competition), with a sparkling leotard and bare feet, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with golden olive skin
-A person dressed as a housekeeper in a sexy masculine costume-shop style (hotel), with a tunic with a name patch, trousers and comfortable shoes, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with golden olive skin
+A person dressed as a housekeeper in a sexy masculine costume-shop style (hotel), with a tunic with a name patch reading "__name_first__", trousers and comfortable shoes, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with golden olive skin
 A person dressed as a judge in a sexy masculine costume-shop style (court), with a scarlet robe with an ermine collar, a full-bottomed wig and shoes, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with golden olive skin
 A person dressed as a kraken sailor in a sexy masculine costume-shop style (folklore), with a tentacled coat, a captain's hat and boots, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with golden olive skin
 A person dressed as a librarian in a sexy masculine costume-shop style (library), with a cardigan with a chain of glasses, trousers and shoes, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with golden olive skin
@@ -340,7 +340,7 @@ a film director in a sexy masculine costume-shop style (set), wearing a jacket w
 a fire mage in a sexy masculine costume-shop style (fantasy), in a red and orange robe with flame embroidery and a leather belt and boots, with golden olive skin
 a fisherman in a sexy masculine costume-shop style (North Atlantic), wearing a thick Aran sweater with an oilskin smock, waders, a sou'wester and rubber boots, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with golden olive skin
 a fisherman with a vest in a sexy masculine costume-shop style, dressed in a fishing vest covered in flies with waders, with golden olive skin
-a flight attendant in a sexy masculine costume-shop style (modern airline), wearing a tailored jacket and neckerchief with a name patch, trousers, a pillbox hat and court shoes, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with golden olive skin
+a flight attendant in a sexy masculine costume-shop style (modern airline), wearing a tailored jacket and neckerchief with a name patch reading "__name_first__", trousers, a pillbox hat and court shoes, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with golden olive skin
 a football goalkeeper in a sexy masculine costume-shop style (soccer), wearing a long-sleeved padded jersey and gloves, shorts and boots, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with golden olive skin
 a forest druid in a sexy masculine costume-shop style, dressed in a leafy robe with vines and antlers on the shoulders, with golden olive skin
 a forester in a sexy masculine costume-shop style, dressed in a plaid shirt with chainsaw-protective chaps with work trousers, with golden olive skin
@@ -405,13 +405,13 @@ a mad queen in a sexy masculine costume-shop style (villain), wearing a black an
 a magical swordsmith in a sexy masculine costume-shop style (anime-inspired), in a white tunic and gloves and boots, with golden olive skin
 a magical-heroine-style cosplayer in a sexy masculine costume-shop style, dressed in a ruffled bodice with a big bow with trousers, with golden olive skin
 a magician in a sexy masculine costume-shop style (stage), in a tailcoat with a cape and a top hat, with golden olive skin
-a marathon runner in a sexy masculine costume-shop style, dressed in a singlet with a number with running shorts, with golden olive skin
+a marathon runner in a sexy masculine costume-shop style, dressed in a singlet with the number "__name_jersey_number__" with running shorts, with golden olive skin
 a mascot character in a sexy masculine costume-shop style, dressed in a huge furry suit, with golden olive skin
 a masked apprentice hero in a sexy masculine costume-shop style (superhero), in a bright orange bodysuit with a small cape and boots, with golden olive skin
 a masked crime boss in a sexy masculine costume-shop style (villain), in a sharp white suit with a mask and a mask, with golden olive skin
 a masked wrestler in a sexy masculine costume-shop style, dressed in a sleeveless sequined top with stretchy trousers, with golden olive skin
 a mecha pilot in a flight suit in a sexy masculine costume-shop style (anime-inspired), wearing a padded suit with armour pads, a helmet and boots, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with golden olive skin
-a mechanic in a sexy masculine costume-shop style, dressed in an oil-stained coverall with a name patch, with golden olive skin
+a mechanic in a sexy masculine costume-shop style, dressed in an oil-stained coverall with a name patch reading "__name_first__", with golden olive skin
 a medieval herald in a sexy masculine costume-shop style (Europe), wearing a tabard with a coat of arms, hose, a feathered cap and boots, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with golden olive skin
 a medieval jester in a sexy masculine costume-shop style (Europe), in a patchwork tunic and a hat with bells, with golden olive skin
 a medieval minstrel in a sexy masculine costume-shop style, dressed in a multicoloured tunic with hose, with golden olive skin
@@ -442,7 +442,7 @@ a paramedic in a sexy masculine costume-shop style (emergency services), in a da
 a paratrooper in a sexy masculine costume-shop style (WWII-era), in a camouflage smock, webbing and a parachute harness and baggy trousers and jump boots, with golden olive skin
 a park ranger in a sexy masculine costume-shop style (national park), wearing a green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, a sexy sleeveless version with bare arms and chest, fitted trousers and boots and carrying a field guide, with golden olive skin
 a pastry chef in a sexy masculine costume-shop style (bakery), wearing a white jacket with a small cravat, trousers, a skull cap and clogs, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with golden olive skin
-a pharmacist in a sexy masculine costume-shop style, dressed in a white lab coat over a shirt with a name patch with dark trousers, with golden olive skin
+a pharmacist in a sexy masculine costume-shop style, dressed in a white lab coat over a shirt with a name patch reading "__name_first__" with dark trousers, with golden olive skin
 a pirate captain in a sexy masculine costume-shop style, dressed in a long embroidered coat with a sash and cross-belt with breeches, with golden olive skin
 a pirate crew member in a sexy masculine costume-shop style (pirate), in a laced bodice with a blouse and trousers and boots, with golden olive skin
 a pit crew mechanic in a sexy masculine costume-shop style (racing), in a fireproof overall and boots, with golden olive skin

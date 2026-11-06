@@ -584,7 +584,7 @@ a navy cotton v-neck t-shirt with dark indigo straight-leg jeans under a black c
 __clothing_outfit_color__ __m_outfit_suit_style__ with a pale pink dress shirt and a knit tie, polished derby shoes, formal business attire
 a loose soft white cotton poplin oxford button-down shirt with washed black chinos under a mid grey cardigan and comfortable walking shoes
 a relaxed-fit faded black cotton Hawaiian shirt with faded black khakis and black sneakers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a dinner jacket with a silk scarf and derby shoes
 a golden yellow cotton crew-neck t-shirt with light-wash relaxed jeans and work boots
 a loose red plaid performance knit polo shirt with dark indigo relaxed jeans under a tomato red puffer jacket and comfortable walking shoes
@@ -711,7 +711,7 @@ a loose jet black ribbed-knit turtleneck with black relaxed jeans and comfortabl
 a relaxed-fit plum oxford cotton oxford button-down shirt with bright white khakis and running shoes
 a compression top and joggers and white running shoes
 a loose faded white merino wool quarter-zip pullover with faded blue relaxed jeans under a red sport coat and orthopedic-style supportive shoes
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a washed black checked linen shirt with faded blue bootcut jeans under a camel peacoat and canvas sneakers
 a relaxed-fit faded black soft cotton crew-neck t-shirt with sky blue chinos under a beige puffer jacket and cushioned sneakers
 cycling bib shorts with a jersey and white running shoes

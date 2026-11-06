@@ -474,7 +474,7 @@ a canvas apron over a flannel shirt and jeans and steel-toe work boots
 a navy two-piece suit with a striped dress shirt and a bow tie under a navy peacoat and suede chukka boots
 a marled grey merino wool crewneck sweater with cobalt blue joggers and leather boots
 an oversized olive green cotton crew-neck t-shirt with soft white cargo pants under a black wool overcoat and black sneakers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a loose soft white heavy cotton crew-neck t-shirt with soft white sweatpants under a brick red rain jacket and hiking boots
 a beige heavy cotton crew-neck t-shirt with dark indigo straight-leg jeans and sandals
 a red striped soft cotton crew-neck t-shirt with navy cargo pants and slides
@@ -642,7 +642,7 @@ an oversized golden yellow cotton short-sleeve button-up shirt with mid-wash str
 a boxy off-white striped fleece sweatshirt with black cargo shorts and white sneakers
 a loose crisp white piqué cotton polo shirt with rust brown cargo pants and white sneakers
 a hooded performance top with running tights and white running shoes
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a red heavy cotton crew-neck t-shirt with faded blue joggers under a black denim jacket and chelsea boots
 a jet black floral-print cotton fleece hoodie with light-wash relaxed jeans and leather boots
 a sport coat with contrasting trousers with a pale pink dress shirt and a knit tie under a black peacoat
@@ -659,7 +659,7 @@ a midnight blue wool crewneck sweater with dark navy cargo shorts and chelsea bo
 a relaxed-fit maroon jersey cotton crew-neck t-shirt with dark indigo straight-leg jeans and work boots
 an oversized tan cotton vest over a collared shirt with soft white dress trousers and cushioned sneakers
 a delivery uniform polo with cargo shorts and steel-toe work boots
-a mechanic's coveralls with a name patch
+a mechanic's coveralls with a name patch reading "__name_first__"
 a relaxed-fit mocha striped fleece hoodie with light-wash straight-leg jeans and loafers
 a relaxed-fit olive green fleece hoodie with mid-wash tapered jeans and canvas sneakers
 a relaxed-fit rust brown merino wool crewneck sweater with pale yellow chinos under a charcoal grey trench coat and cushioned sneakers
@@ -767,7 +767,7 @@ smart casual __clothing_outfit_color__ blazer over a __clothing_outfit_color__ _
 a relaxed-fit mocha fleece hoodie with powder blue work pants and chelsea boots
 a relaxed-fit black cotton short-sleeve button-up shirt with light grey track pants and slip-on shoes
 a slim-fit maroon piqué cotton polo shirt with bright white joggers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 an oversized black soft cotton graphic tee with a printed design with tomato red board shorts and running shoes
 hospital scrubs with a stethoscope around the neck and black non-slip shoes
 boxy __clothing_outfit_color__ hoodie with cargo pants, chunky sneakers, a snapback cap, urban streetwear
@@ -923,7 +923,7 @@ a relaxed-fit soft white jersey cotton crew-neck t-shirt with faded red chinos a
 __clothing_outfit_color__ __m_outfit_outerwear__ over a __clothing_outfit_color__ __m_outfit_casual_top__ and __m_outfit_casual_bottom__, leather boots, a leather wallet chain, vintage-inspired look
 swim trunks and a loose open shirt
 a midnight blue wool cardigan with light-wash slim jeans
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a relaxed-fit faded black plaid fleece zip-up hoodie with soft white sweatpants under a rust brown puffer jacket and cushioned sneakers
 an oversized mustard yellow checked soft cotton crew-neck t-shirt with faded red sweatpants and canvas sneakers
 a plum striped heavy flannel shirt with black straight-leg jeans and white sneakers

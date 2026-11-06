@@ -307,7 +307,7 @@ Art Deco lycra practice outfit
 Art Deco masked luchador costume with bold stripes
 Art Deco mesh high-cut leotard
 Art Deco mesh weightlifting singlet
-Art Deco metallic singlet with team number on the chest
+Art Deco metallic singlet with the number "__name_jersey_number__" on the chest
 Art Deco metallic spandex team-colour singlet
 Art Deco mixed martial arts fight shorts
 Art Deco polyester jersey competition swim skinsuit
@@ -723,7 +723,7 @@ blacklight stage outfit with strappy sides
 bloomers and bustier costume
 bloomers and bustier costume with lace trim
 bodybuilding posing trunks outfit
-bodybuilding posing trunks outfit with team number on the chest
+bodybuilding posing trunks outfit with the number "__name_jersey_number__" on the chest
 bolero and short skirt
 bolero and short skirt with satin ribbons
 boxing robe and trunks
@@ -1466,7 +1466,7 @@ glossy spandex freestyle wrestling singlet
 glossy spandex low-cut singlet with flame pattern
 glossy spandex mesh-panel singlet
 glossy spandex rugby sevens singlet
-glossy spandex sublimated-print singlet with team number on the chest
+glossy spandex sublimated-print singlet with the number "__name_jersey_number__" on the chest
 glossy spandex weightlifting singlet
 glossy spandex wrestling singlet with metallic trim
 glow-in-the-dark stage outfit
@@ -2123,7 +2123,7 @@ paso doble costume
 paso doble costume with halter neck
 peacock dance costume
 performance knit bodybuilding posing trunks outfit
-performance knit bodybuilding posing trunks outfit with team number on the chest
+performance knit bodybuilding posing trunks outfit with the number "__name_jersey_number__" on the chest
 performance knit cycling skinsuit
 performance knit low-cut singlet with V-neck
 performance knit team-colour singlet
@@ -2249,7 +2249,7 @@ power mesh tear-away wrestler costume
 power mesh themed holiday stage costume
 powerlifting singlet
 powerlifting singlet with stars
-powerlifting singlet with team number on the chest
+powerlifting singlet with the number "__name_jersey_number__" on the chest
 practice leotard
 practice leotard with mesh insets
 practice outfit

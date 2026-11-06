@@ -7,15 +7,16 @@ def bold(line):
     return f'**{m.group(1)}**{m.group(2) or ""}'
 def build(n, counts=''):
     rel = M['releases']; cur = rel[0]; prev = int(re.search(r'\d+', cur[0]).group()) - 1
-    out = [M['head'].replace('v43', f'v{n}').replace('v42', f'v{n}'), '', 'This wildcard project is managed on GitHub, for anyone who wants the most current versions: https://github.com/Guyanonymous-x/guyanonymous_wildcards', '', '## Short descriptions', '', counts_fix(M['short'], counts), '', f"## What's new since V{prev}", '', f"### {cur[0]} (this release)", '']
+    opening = [x.replace('{N}', str(n)).replace('{P}', str(prev)) for x in M.get('opening', [])]  # the user's own opening (v108 promo edits)
+    out = sum([[x, ''] for x in opening], []) + ['This wildcard project is managed on GitHub, for anyone who wants the most current versions: https://github.com/Guyanonymous-x/guyanonymous_wildcards', '', '## Short descriptions', '', counts_fix(M['short'], counts), '', f"## What's new since V{prev}", '', f"### {cur[0]} (this release)", '']
     out += ['- ' + bold(b) for b in cur[1]]
     out += ['', 'Showcase and sample files: the showcase files highlight what is new or changed in this version, while the sample files are representative of everything the model can do.']
     out += ['', '## Features at a glance', '']
     out += [('- ' + bold(re.sub(r'^- ', '', l))) if l.strip() else l for l in M['features'].split('\n')]
-    out += ['', '## Naming guide', '', M['naming'], '', '## Getting started', '', re.sub(r'Guyanonymous_Wildcards_v\d+\.zip', f'Guyanonymous_Wildcards_v{n}.zip', M['start']), '', '## Warning: files that point to other files', '', M['warning'], '', '## Social posts and release note', '', re.sub(r'\bv4\d\b', f'v{n}', M['social']), '', '## Full Changelog since V27', '']
-    for t, items in rel:
+    out += ['', '## Naming guide', '', M['naming'], '', '## Getting started', '', re.sub(r'Guyanonymous_Wildcards_v\d+\.zip', f'Guyanonymous_Wildcards_v{n}.zip', M['start']), '', '## Warning: files that point to other files', '', M['warning'], '', '## Social posts and release note', '', M['social'].replace('{N}', str(n)), '', '## Changelog (last three versions)', '']
+    for t, items in rel[:3]:  # user 2026-11-06: the promo lists only the three latest versions; CHANGELOG.txt keeps the full history
         out += [f'### {t}' + (' (this release)' if t == cur[0] else ''), ''] + ['- ' + bold(b) for b in items] + ['']
-    out += ['Since version 36 the files follow one naming structure. See the naming guide above, and `filename_changes.txt` for every old and new name.']
+    out += ['The full history of every version is in CHANGELOG.txt inside the zip. Since version 36 the files follow one naming structure; see the naming guide above, and `filename_changes.txt` for every old and new name.']
     return '\n'.join(out) + '\n'
 def counts_fix(t, c): return t
 def plain_changelog(n):

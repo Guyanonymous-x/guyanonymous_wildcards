@@ -109,7 +109,7 @@ a relaxed-fit off-white striped cotton short-sleeve button-up shirt with dark in
 a loose olive green embroidered heavy cotton hoodie with dark indigo straight-leg jeans
 a faded red fine-knit quarter-zip pullover with charcoal grey chinos under a faded blue denim jacket and comfortable walking shoes
 a relaxed-fit navy cotton fleece zip-up hoodie with chocolate brown chinos under a maroon quilted vest and cushioned sneakers
-a mechanic's coveralls with a name patch and slip-on shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and slip-on shoes
 a sport coat with contrasting trousers with a light blue dress shirt and a pocket square and no tie under a charcoal grey peacoat
 a golden yellow fleece quarter-zip pullover with faded black work pants under a heather grey blazer and comfortable walking shoes
 __clothing_outfit_pattern__ __m_outfit_casual_top__ with __clothing_outfit_material__ __m_outfit_casual_bottom__, combat boots, preppy style
@@ -261,7 +261,7 @@ hospital scrubs with a stethoscope around the neck and slip-on shoes
 a relaxed-fit charcoal grey embroidered cotton fleece hoodie with mid-wash straight-leg jeans and loafers
 a mustard yellow soft cotton graphic tee with a printed design with burgundy sweatpants and leather boots
 a royal blue cotton crew-neck t-shirt with navy pleated trousers and leather boots
-a mechanic's coveralls with a name patch
+a mechanic's coveralls with a name patch reading "__name_first__"
 a relaxed-fit jet black cotton polo shirt with light grey sweatpants and cushioned sneakers
 an oversized cream-white lambswool crewneck sweater with jet black khakis under a navy wool overcoat and hiking boots
 an olive green striped wool cable-knit sweater with faded blue straight-leg jeans under a navy peacoat and slip-on shoes
@@ -522,7 +522,7 @@ an oversized white jersey v-neck t-shirt with olive green elastic-waist trousers
 a teal textured fleece quarter-zip pullover with light-wash straight-leg jeans and slip-on shoes
 a button-down shirt with a loosened tie and dress trousers and comfortable walking shoes
 a relaxed-fit mustard yellow fleece quarter-zip pullover with sky blue pleated trousers and cushioned sneakers
-a mechanic's coveralls with a name patch and comfortable walking shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and comfortable walking shoes
 an oversized deep purple lambswool crewneck sweater with tomato red cargo pants and white sneakers
 a relaxed-fit army green merino wool quarter-zip pullover with dark indigo relaxed jeans under a black trench coat and leather boots
 a violet brushed cotton flannel shirt with chocolate brown work pants and leather boots
@@ -652,7 +652,7 @@ a rust brown ribbed cotton long-sleeve tee with mid-wash straight-leg jeans and 
 a khaki cotton henley shirt with sage green elastic-waist trousers and chelsea boots
 a slim-fit crisp white heavy cotton crew-neck t-shirt with mid-wash slim jeans under a khaki rain jacket and black sneakers
 a sand fine-knit quarter-zip pullover with sky blue chinos and slides
-a mechanic's coveralls with a name patch and slip-on shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and slip-on shoes
 a relaxed-fit heather grey fleece sweatshirt with mid-wash slim jeans under a black leather jacket and comfortable walking shoes
 a slim-fit army green fleece sweatshirt with faded blue straight-leg jeans and slip-on shoes
 a dark navy ribbed-knit turtleneck with jet black cargo pants
@@ -817,7 +817,7 @@ a relaxed-fit soft white wool crewneck sweater with ink blue pleated trousers un
 a relaxed-fit marled grey soft cotton crew-neck t-shirt with dark indigo straight-leg jeans under a charcoal grey rain jacket and black sneakers
 a jet black ribbed cotton long-sleeve tee with mid-wash straight-leg jeans and cushioned sneakers
 a navy two-piece suit with a checked dress shirt and a solid silk tie under a charcoal grey wool overcoat and suede chukka boots
-a mechanic's coveralls with a name patch and slip-on shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and slip-on shoes
 a loose olive green oxford cotton oxford button-down shirt with mid-wash straight-leg jeans and cushioned sneakers
 a marled grey striped waffle-knit cotton thermal waffle shirt with faded blue straight-leg jeans and sandals
 a jet black ribbed cotton long-sleeve tee with emerald green dress trousers and leather boots

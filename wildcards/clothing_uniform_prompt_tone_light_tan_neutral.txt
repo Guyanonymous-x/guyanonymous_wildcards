@@ -182,7 +182,7 @@ A teal scaled armour with fins, a crown, boots, the full outfit of an ocean cham
 A team jersey, white breeches, a helmet, tall boots, the full outfit of a polo player, with light tan skin
 A thick coat and a scarf, trousers, a hat, boots, the full outfit of an amateur astronomer, with light tan skin
 A torn bloodied shirt, torn trousers, the full outfit of a zombie, with light tan skin
-A tunic with a name patch, trousers, comfortable shoes, the full outfit of a housekeeper, with light tan skin
+A tunic with a name patch reading "__name_first__", trousers, comfortable shoes, the full outfit of a housekeeper, with light tan skin
 A velvet jacket with a plaid, a kilt, a glengarry, ghillie brogues, the full outfit of a Highland dancer, with light tan skin
 A waistcoat with a tape measure round the neck and pins on the lapel, trousers, shoes, the full outfit of a tailor, with light tan skin
 A white and gold robe with a horned crown, a crown, sandals, the full outfit of a spirit shrine guardian, with light tan skin
@@ -274,7 +274,7 @@ a battle mage (fantasy), in a chest plate over a robe with a rune sash and trous
 a beast tamer (fantasy), wearing a fur vest with claw necklaces, leather trousers, a feathered headband and boots, with light tan skin
 a beekeeper, dressed in a white protective suit with a veiled hat and gloves, with light tan skin
 a beekeeper-bee hybrid (party), in a striped bee suit with wings and antennae, with light tan skin
-a bell ringer (church), wearing a jumper with the tower name, trousers and shoes, with light tan skin
+a bell ringer (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, with light tan skin
 a birdwatcher (nature), wearing a khaki vest with binoculars, trousers, a bucket hat and boots, with light tan skin
 a bishop (church), wearing a purple cassock with a cope and a pectoral cross, a tall mitre and shoes, with light tan skin
 a black knight (fantasy), wearing blackened plate armour with a tattered cape, a closed helm and boots, with light tan skin
@@ -350,7 +350,7 @@ a fisherman (North Atlantic), in a thick Aran sweater with an oilskin smock and 
 a fishmonger, dressed in a rubber apron over a waterproof smock with waders, with light tan skin
 a flamenco dancer (Spain), in a ruffled dress and heeled shoes, with light tan skin
 a fleet pilot (sci-fi), in a teal flight suit with a vest and boots, with light tan skin
-a flight attendant (modern airline), in a tailored jacket and neckerchief with a name patch and a pencil skirt and court shoes, with light tan skin
+a flight attendant (modern airline), in a tailored jacket and neckerchief with a name patch reading "__name_first__" and a pencil skirt and court shoes, with light tan skin
 a football goalkeeper, dressed in a long-sleeved padded jersey and gloves with shorts, with light tan skin
 a football supporter (stadium), in a team shirt with a scarf and jeans and trainers, with light tan skin
 a forester (woodland), wearing a plaid shirt with chainsaw-protective chaps, work trousers, a hard hat with a visor and boots and carrying a chainsaw, with light tan skin
@@ -409,13 +409,13 @@ a mad queen (villain), in a black and gold gown with a high collar and a spiked 
 a mad scientist (sci-fi), in a stained lab coat with goggles and trousers and boots, with light tan skin
 a magical-heroine-style cosplayer (cosplay), in a ruffled bodice with a big bow and a frilled skirt and boots, with light tan skin
 a magician, dressed in a tailcoat with a cape with trousers, with light tan skin
-a marathon runner (race), wearing a singlet with a number, running shorts, a cap and running shoes, with light tan skin
+a marathon runner (race), wearing a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes, with light tan skin
 a masked apprentice hero (superhero), wearing a bright orange bodysuit with a small cape, goggles and boots, with light tan skin
 a masked ball guest, dressed in a brocade coat with a half mask with breeches, with light tan skin
 a masked wrestler (lucha libre), in a sleeveless sequined top and a full-face mask, with light tan skin
 a mecha pilot (cosplay), in a bodysuit with armour pads and boots, with light tan skin
 a mecha pilot in a flight suit (anime-inspired), in a padded suit with armour pads and boots, with light tan skin
-a mechanic (garage), in an oil-stained coverall with a name patch and a cap, with light tan skin
+a mechanic (garage), in an oil-stained coverall with a name patch reading "__name_first__" and a cap, with light tan skin
 a medieval herald (Europe), in a tabard with a coat of arms and a feathered cap, with light tan skin
 a medieval king (Europe), in a fur-lined robe over a tunic and boots, with light tan skin
 a medieval knight, dressed in a mail hauberk with a heraldic surcoat and plate armour, with light tan skin
@@ -447,7 +447,7 @@ a pantomime horse (theatre), wearing a two-person horse suit, a horse head and h
 a paratrooper, dressed in a camouflage smock, webbing and a parachute harness with baggy trousers, with light tan skin
 a pastry chef (bakery), in a white jacket with a small cravat and a skull cap, with light tan skin
 a patterned-haori swordsperson (anime-inspired), wearing a patterned haori over a plain kimono, trousers and sandals and carrying a sword, with light tan skin
-a pharmacist, dressed in a white lab coat over a shirt with a name patch with dark trousers, with light tan skin
+a pharmacist, dressed in a white lab coat over a shirt with a name patch reading "__name_first__" with dark trousers, with light tan skin
 a physiotherapist, dressed in a polo shirt with a clinic motif-free patch and a tape measure round the neck with athletic trousers, with light tan skin
 a pirate crew member (pirate), wearing a laced bodice with a blouse, a patched skirt, a bandana and boots and carrying a flagon, with light tan skin
 a pit crew mechanic (racing), wearing a fireproof overall, a helmet and boots, with light tan skin
@@ -469,7 +469,7 @@ a rickshaw puller (Asia), in a vest and a loose shirt and short trousers and san
 a road crossing guard (road), in a high-visibility coat and trousers and shoes, with light tan skin
 a robot (sci-fi), in a boxy silver suit made of panels and boots, with light tan skin
 a rock climber (crag), wearing a chalk-dusted vest, climbing trousers, a helmet and climbing shoes, with light tan skin
-a roller derby skater, dressed in a number jersey with a helmet with fishnets and shorts, with light tan skin
+a roller derby skater, dressed in a jersey with the number "__name_jersey_number__" and a helmet with fishnets and shorts, with light tan skin
 a rugby player (rugby), wearing a hooped jersey with a padded collar, shorts and studded boots, with light tan skin
 a sailor in a dress uniform, dressed in a navy jumper with a white-striped sailor collar and neckerchief with bell-bottom trousers, with light tan skin
 a sailor-collar uniform cosplayer (cosplay), in a sailor-collar blouse with a neckerchief and a pleated skirt and loafers, with light tan skin

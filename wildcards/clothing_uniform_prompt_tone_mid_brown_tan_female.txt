@@ -269,7 +269,7 @@ a barista in a feminine cut (café), in a canvas apron over a shirt and a flat c
 a bartender in a feminine cut (cocktail bar), wearing a waistcoat with sleeve garters over a white shirt, trousers and shoes, in a feminine cut with shaped seams and a flattering line and carrying a shaker, with mid-tone brown tanned skin
 a baseball catcher in a feminine cut (baseball), wearing a chest protector and shin guards, trousers, a mask and cleats, cut for a feminine figure with a fitted waist and carrying a mitt, with mid-tone brown tanned skin
 a battle mage in a feminine cut, dressed in a chest plate over a robe with a rune sash with trousers, with mid-tone brown tanned skin
-a bell ringer in a feminine cut, dressed in a jumper with the tower name with trousers, with mid-tone brown tanned skin
+a bell ringer in a feminine cut, dressed in a jumper with the name "__name_town__" printed across it with trousers, with mid-tone brown tanned skin
 a bishop in a feminine cut (church), wearing a purple cassock with a cope and a pectoral cross, a tall mitre and shoes, in a feminine cut with shaped seams and a flattering line and carrying a crook-shaped staff, with mid-tone brown tanned skin
 a black knight in a feminine cut (fantasy), in blackened plate armour with a tattered cape and boots, with mid-tone brown tanned skin
 a blue-coat staff officer in a feminine cut, dressed in a blue military coat with trousers, with mid-tone brown tanned skin
@@ -338,7 +338,7 @@ a film director in a feminine cut (set), wearing a jacket with a scarf, breeches
 a fisherman in a feminine cut (North Atlantic), in a thick Aran sweater with an oilskin smock and a sou'wester, with mid-tone brown tanned skin
 a flamenco dancer in a feminine cut (Spain), wearing a ruffled dress, a flower in the hair and heeled shoes, tailored in a feminine cut with a nipped-in waist, with mid-tone brown tanned skin
 a fleet pilot in a feminine cut (sci-fi), in a teal flight suit with a vest and a flight helmet, with mid-tone brown tanned skin
-a flight attendant in a feminine cut (modern airline), wearing a tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat and court shoes, tailored in a feminine cut with a nipped-in waist and carrying a trolley, with mid-tone brown tanned skin
+a flight attendant in a feminine cut (modern airline), wearing a tailored jacket and neckerchief with a name patch reading "__name_first__", a pencil skirt, a pillbox hat and court shoes, tailored in a feminine cut with a nipped-in waist and carrying a trolley, with mid-tone brown tanned skin
 a football supporter in a feminine cut (stadium), wearing a team shirt with a scarf, jeans, a bobble hat and trainers, cut for a feminine figure with a fitted waist, with mid-tone brown tanned skin
 a forester in a feminine cut (woodland), in a plaid shirt with chainsaw-protective chaps and a hard hat with a visor, with mid-tone brown tanned skin
 a fortune teller in a feminine cut (fair), wearing a headscarf and a heavy shawl with jangling bracelets, a layered skirt, a headscarf and boots, cut for a feminine figure with a fitted waist, with mid-tone brown tanned skin
@@ -372,7 +372,7 @@ a horned noble in a feminine cut (fantasy), in a crimson velvet jacket and trous
 a hospital nurse in a feminine cut (modern ward), wearing a colourful scrub top with an ID patch and a stethoscope round the neck, scrub trousers and white trainers, in a feminine cut with shaped seams and a flattering line, with mid-tone brown tanned skin
 a hot-air balloon pilot in a feminine cut (ballooning), in a windbreaker and cargo trousers and boots, with mid-tone brown tanned skin
 a hotel bellhop in a feminine cut (1930s), in a short red jacket with gold braid and trousers with a stripe and black shoes, with mid-tone brown tanned skin
-a housekeeper in a feminine cut, dressed in a tunic with a name patch with trousers, with mid-tone brown tanned skin
+a housekeeper in a feminine cut, dressed in a tunic with a name patch reading "__name_first__" with trousers, with mid-tone brown tanned skin
 a human cannonball in a feminine cut (circus), in a shiny silver jumpsuit and boots, with mid-tone brown tanned skin
 a human pretzel contortionist in a feminine cut, dressed in a sparkling bodysuit, with mid-tone brown tanned skin
 a human taco costume wearer in a feminine cut, dressed in a foam taco suit, with mid-tone brown tanned skin
@@ -398,14 +398,14 @@ a mad hatter-style tea party host in a feminine cut (parade), wearing a patched 
 a mad inventor in a feminine cut (steampunk), wearing a vest with gauges, goggles and boots, tailored in a feminine cut with a nipped-in waist, with mid-tone brown tanned skin
 a mad scientist in a feminine cut (sci-fi), in a stained lab coat with goggles and goggles, with mid-tone brown tanned skin
 a magical swordsmith in a feminine cut (anime-inspired), wearing a white tunic and gloves and boots, tailored in a feminine cut with a nipped-in waist and carrying a glowing sword, with mid-tone brown tanned skin
-a marathon runner in a feminine cut (race), in a singlet with a number and a cap, with mid-tone brown tanned skin
+a marathon runner in a feminine cut (race), in a singlet with the number "__name_jersey_number__" and a cap, with mid-tone brown tanned skin
 a marching band member in a feminine cut (parade), wearing a braided tunic with a plume, trousers, a plumed shako and boots, cut for a feminine figure with a fitted waist, with mid-tone brown tanned skin
 a mariachi musician in a feminine cut (Mexico), wearing a short jacket with silver buttons, tight trousers with silver studs, a wide sombrero and boots, cut for a feminine figure with a fitted waist and carrying a trumpet, with mid-tone brown tanned skin
 a mascot character in a feminine cut (sports), in a huge furry suit and an oversized head, with mid-tone brown tanned skin
 a masked wrestler in a feminine cut (lucha libre), in a sleeveless sequined top and stretchy trousers and wrestling boots, with mid-tone brown tanned skin
 a mecha pilot in a feminine cut, dressed in a bodysuit with armour pads, with mid-tone brown tanned skin
 a mecha pilot in a flight suit in a feminine cut (anime-inspired), in a padded suit with armour pads and a helmet, with mid-tone brown tanned skin
-a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch, a cap and work boots, tailored in a feminine cut with a nipped-in waist and carrying a wrench, with mid-tone brown tanned skin
+a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, tailored in a feminine cut with a nipped-in waist and carrying a wrench, with mid-tone brown tanned skin
 a medieval herald in a feminine cut (Europe), wearing a tabard with a coat of arms, hose, a feathered cap and boots, tailored in a feminine cut with a nipped-in waist and carrying a trumpet, with mid-tone brown tanned skin
 a medieval jester in a feminine cut, dressed in a patchwork tunic with tights, with mid-tone brown tanned skin
 a medieval king in a feminine cut, dressed in a fur-lined robe over a tunic, with mid-tone brown tanned skin
@@ -438,7 +438,7 @@ a paramedic in a feminine cut (emergency services), wearing a dark green jacket 
 a park ranger in a feminine cut (national park), wearing a green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, tailored in a feminine cut with a nipped-in waist, with mid-tone brown tanned skin
 a pastry chef in a feminine cut (bakery), in a white jacket with a small cravat and a skull cap, with mid-tone brown tanned skin
 a patterned-haori swordsperson in a feminine cut, dressed in a patterned haori over a plain kimono with trousers, with mid-tone brown tanned skin
-a pharmacist in a feminine cut (pharmacy), wearing a white lab coat over a shirt with a name patch, dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist, with mid-tone brown tanned skin
+a pharmacist in a feminine cut (pharmacy), wearing a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist, with mid-tone brown tanned skin
 a pirate crew member in a feminine cut (pirate), in a laced bodice with a blouse and a bandana, with mid-tone brown tanned skin
 a plague doctor in a feminine cut (17th-century Europe), in a long waxed black coat, a leather cape and gloves and a wide-brimmed hat and a beaked bird-shaped mask, with mid-tone brown tanned skin
 a plague knight in a feminine cut (fantasy), wearing dark plate armour with a beaked helmet, a beaked helm and armoured boots, in a feminine cut with shaped seams and a flattering line and carrying a long sword, with mid-tone brown tanned skin
@@ -464,7 +464,7 @@ a road crossing guard in a feminine cut (road), wearing a high-visibility coat, 
 a road sweeper in a feminine cut (city), wearing a high-visibility jacket, trousers, a cap and boots, cut for a feminine figure with a fitted waist, with mid-tone brown tanned skin
 a rodeo cowboy in a feminine cut (rodeo), wearing a bright shirt with a protective vest, chaps over jeans, a cowboy hat and boots, tailored in a feminine cut with a nipped-in waist, with mid-tone brown tanned skin
 a rogue in a feminine cut (fantasy), in a hooded leather jerkin and leather trousers and soft boots, with mid-tone brown tanned skin
-a roller derby skater in a feminine cut (rink), in a number jersey with a helmet and a helmet, with mid-tone brown tanned skin
+a roller derby skater in a feminine cut (rink), in a jersey with the number "__name_jersey_number__" and a helmet and a helmet, with mid-tone brown tanned skin
 a rugby player in a feminine cut (rugby), in a hooped jersey with a padded collar and shorts and studded boots, with mid-tone brown tanned skin
 a safari suit wearer in a feminine cut (1970s), in a short-sleeved belted safari jacket with four pockets and matching shorts and sandals with long socks, with mid-tone brown tanned skin
 a sailor in a dress uniform in a feminine cut (navy), in a navy jumper with a white-striped sailor collar and neckerchief and a white sailor cap, with mid-tone brown tanned skin

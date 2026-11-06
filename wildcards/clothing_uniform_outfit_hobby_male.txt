@@ -8,7 +8,7 @@ A flannel shirt and a fleece, trousers, a beanie, boots, the full outfit of a ca
 A foam armour over a tunic, trousers, a foam helmet, boots, the full outfit of a LARP warrior in a masculine cut
 A handmade armour top with a sash, a wig, boots, the full outfit of a cosplayer in a convention hall in a masculine cut
 A high-visibility vest and headphones, trousers, a cap, boots, the full outfit of a metal detectorist in a masculine cut
-A jumper with the tower name, trousers, shoes, the full outfit of a bell ringer in a masculine cut
+A jumper with the name "__name_town__" printed across it, trousers, shoes, the full outfit of a bell ringer in a masculine cut
 A khaki vest with binoculars, trousers, a bucket hat, boots, the full outfit of a birdwatcher in a masculine cut
 A lightweight shell jacket, hiking trousers, a sun hat, boots, the full outfit of a hiker in a masculine cut
 A linen tunic with a belt pouch, hose, a hood, shoes, the full outfit of a reenactor of a medieval market trader in a masculine cut
@@ -16,7 +16,7 @@ A number jersey with a helmet, fishnets and shorts, a helmet, roller skates, the
 A padded jumper, shorts, a helmet, trainers, the full outfit of a cheese rolling competitor in a masculine cut
 A person dressed as a LARP warrior in a masculine cut (woods), with a foam armour over a tunic, trousers, a foam helmet and boots, cut for a masculine frame with broad shoulders
 A person dressed as a Tour de France spectator in a masculine cut (roadside), with a polka-dot costume and a flag and a cap, tailored in a masculine cut with a straight waist
-A person dressed as a bell ringer in a masculine cut (church), with a jumper with the tower name, trousers and shoes, in a masculine cut with a roomy chest and shoulders
+A person dressed as a bell ringer in a masculine cut (church), with a jumper with the name "__name_town__" printed across it, trousers and shoes, in a masculine cut with a roomy chest and shoulders
 A person dressed as a birdwatcher in a masculine cut (nature), with a khaki vest with binoculars, trousers, a bucket hat and boots, in a masculine cut with a roomy chest and shoulders
 A person dressed as a board game night host in a masculine cut (home), with a wizard robe over a hoodie, jeans, a pointed hat and slippers, cut for a masculine frame with broad shoulders
 A person dressed as a camper in a masculine cut (forest), which is a flannel shirt and a fleece, trousers, a beanie and boots, cut for a masculine frame with broad shoulders
@@ -39,7 +39,7 @@ A person dressed as a quilter in a masculine cut (home), which is an apron with 
 A person dressed as a reenactor of a Civil War soldier in a masculine cut (field), with a wool sack coat, wool trousers, a kepi and brogans, tailored in a masculine cut with a straight waist
 A person dressed as a reenactor of a Roman soldier in a masculine cut (field), with a red tunic with armour, a helmet and sandals, in a masculine cut with a roomy chest and shoulders
 A person dressed as a reenactor of a medieval market trader in a masculine cut (fair), with a linen tunic with a belt pouch, hose, a hood and shoes, tailored in a masculine cut with a straight waist
-A person dressed as a roller derby skater in a masculine cut (rink), with a number jersey with a helmet, fishnets and shorts, a helmet and roller skates, in a masculine cut with a roomy chest and shoulders
+A person dressed as a roller derby skater in a masculine cut (rink), with a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates, in a masculine cut with a roomy chest and shoulders
 A person dressed as a sauna-goer in a masculine cut (Finland), with a felt hat and a towel and a felt hat, cut for a masculine frame with broad shoulders
 A person dressed as a sculptor in a masculine cut (studio), which is a dusty apron over a shirt, trousers and boots, tailored in a masculine cut with a straight waist
 A person dressed as a skateboarder in a masculine cut (park), which is a baggy T-shirt, baggy trousers, a cap and skate shoes, cut for a masculine frame with broad shoulders
@@ -75,10 +75,10 @@ a Tour de France spectator in a masculine cut (roadside), in a polka-dot costume
 a Tour de France spectator in a masculine cut (roadside), wearing a polka-dot costume and a flag and a cap, tailored in a masculine cut with a straight waist
 a Tour de France spectator in a masculine cut (roadside), wearing a polka-dot costume and a flag and a cap, tailored in a masculine cut with a straight waist and carrying a flag
 a Tour de France spectator in a masculine cut, dressed in a polka-dot costume and a flag
-a bell ringer in a masculine cut (church), in a jumper with the tower name and trousers and shoes
-a bell ringer in a masculine cut (church), wearing a jumper with the tower name, trousers and shoes, in a masculine cut with a roomy chest and shoulders
-a bell ringer in a masculine cut (church), wearing a jumper with the tower name, trousers and shoes, in a masculine cut with a roomy chest and shoulders and carrying a bell rope
-a bell ringer in a masculine cut, dressed in a jumper with the tower name with trousers
+a bell ringer in a masculine cut (church), in a jumper with the name "__name_town__" printed across it and trousers and shoes
+a bell ringer in a masculine cut (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, in a masculine cut with a roomy chest and shoulders
+a bell ringer in a masculine cut (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, in a masculine cut with a roomy chest and shoulders and carrying a bell rope
+a bell ringer in a masculine cut, dressed in a jumper with the name "__name_town__" printed across it with trousers
 a birdwatcher in a masculine cut (nature), in a khaki vest with binoculars and a bucket hat
 a birdwatcher in a masculine cut (nature), in a khaki vest with binoculars and trousers and boots
 a birdwatcher in a masculine cut (nature), wearing a khaki vest with binoculars, trousers, a bucket hat and boots, in a masculine cut with a roomy chest and shoulders
@@ -185,10 +185,10 @@ a reenactor of a medieval market trader in a masculine cut (fair), in a linen tu
 a reenactor of a medieval market trader in a masculine cut (fair), wearing a linen tunic with a belt pouch, hose, a hood and shoes, tailored in a masculine cut with a straight waist
 a reenactor of a medieval market trader in a masculine cut (fair), wearing a linen tunic with a belt pouch, hose, a hood and shoes, tailored in a masculine cut with a straight waist and carrying a basket
 a reenactor of a medieval market trader in a masculine cut, dressed in a linen tunic with a belt pouch with hose
-a roller derby skater in a masculine cut (rink), in a number jersey with a helmet and a helmet
-a roller derby skater in a masculine cut (rink), in a number jersey with a helmet and fishnets and shorts and roller skates
-a roller derby skater in a masculine cut (rink), wearing a number jersey with a helmet, fishnets and shorts, a helmet and roller skates, in a masculine cut with a roomy chest and shoulders
-a roller derby skater in a masculine cut, dressed in a number jersey with a helmet with fishnets and shorts
+a roller derby skater in a masculine cut (rink), in a jersey with the number "__name_jersey_number__" and a helmet and a helmet
+a roller derby skater in a masculine cut (rink), in a jersey with the number "__name_jersey_number__" and a helmet and fishnets and shorts and roller skates
+a roller derby skater in a masculine cut (rink), wearing a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates, in a masculine cut with a roomy chest and shoulders
+a roller derby skater in a masculine cut, dressed in a jersey with the number "__name_jersey_number__" and a helmet with fishnets and shorts
 a sauna-goer in a masculine cut (Finland), in a felt hat and a towel and a felt hat
 a sauna-goer in a masculine cut (Finland), wearing a felt hat and a towel and a felt hat, cut for a masculine frame with broad shoulders
 a sauna-goer in a masculine cut (Finland), wearing a felt hat and a towel and a felt hat, cut for a masculine frame with broad shoulders and carrying a birch whisk

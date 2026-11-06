@@ -8,7 +8,7 @@ A flannel shirt and a fleece, trousers, a beanie, boots, the full outfit of a ca
 A foam armour over a tunic, trousers, a foam helmet, boots, the full outfit of a LARP warrior
 A handmade armour top with a sash, a wig, boots, the full outfit of a cosplayer in a convention hall
 A high-visibility vest and headphones, trousers, a cap, boots, the full outfit of a metal detectorist
-A jumper with the tower name, trousers, shoes, the full outfit of a bell ringer
+A jumper with the name "__name_town__" printed across it, trousers, shoes, the full outfit of a bell ringer
 A khaki vest with binoculars, trousers, a bucket hat, boots, the full outfit of a birdwatcher
 A lightweight shell jacket, hiking trousers, a sun hat, boots, the full outfit of a hiker
 A linen tunic with a belt pouch, hose, a hood, shoes, the full outfit of a reenactor of a medieval market trader
@@ -16,7 +16,7 @@ A number jersey with a helmet, fishnets and shorts, a helmet, roller skates, the
 A padded jumper, shorts, a helmet, trainers, the full outfit of a cheese rolling competitor
 A person dressed as a LARP warrior (woods), which is a foam armour over a tunic, trousers, a foam helmet and boots
 A person dressed as a Tour de France spectator (roadside), which is a polka-dot costume and a flag and a cap
-A person dressed as a bell ringer (church), which is a jumper with the tower name, trousers and shoes
+A person dressed as a bell ringer (church), which is a jumper with the name "__name_town__" printed across it, trousers and shoes
 A person dressed as a birdwatcher (nature), which is a khaki vest with binoculars, trousers, a bucket hat and boots
 A person dressed as a board game night host (home), which is a wizard robe over a hoodie, jeans, a pointed hat and slippers
 A person dressed as a camper (forest), which is a flannel shirt and a fleece, trousers, a beanie and boots
@@ -39,7 +39,7 @@ A person dressed as a quilter (home), which is an apron with pins on the front, 
 A person dressed as a reenactor of a Civil War soldier (field), with a wool sack coat, wool trousers, a kepi and brogans
 A person dressed as a reenactor of a Roman soldier (field), which is a red tunic with armour, a helmet and sandals
 A person dressed as a reenactor of a medieval market trader (fair), with a linen tunic with a belt pouch, hose, a hood and shoes
-A person dressed as a roller derby skater (rink), which is a number jersey with a helmet, fishnets and shorts, a helmet and roller skates
+A person dressed as a roller derby skater (rink), which is a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates
 A person dressed as a sauna-goer (Finland), which is a felt hat and a towel and a felt hat
 A person dressed as a sculptor (studio), which is a dusty apron over a shirt, trousers and boots
 A person dressed as a skateboarder (park), which is a baggy T-shirt, baggy trousers, a cap and skate shoes
@@ -75,10 +75,10 @@ a Tour de France spectator (roadside), in a polka-dot costume and a flag and a c
 a Tour de France spectator (roadside), wearing a polka-dot costume and a flag and a cap
 a Tour de France spectator (roadside), wearing a polka-dot costume and a flag and a cap and carrying a flag
 a Tour de France spectator, dressed in a polka-dot costume and a flag
-a bell ringer (church), in a jumper with the tower name and trousers and shoes
-a bell ringer (church), wearing a jumper with the tower name, trousers and shoes
-a bell ringer (church), wearing a jumper with the tower name, trousers and shoes and carrying a bell rope
-a bell ringer, dressed in a jumper with the tower name with trousers
+a bell ringer (church), in a jumper with the name "__name_town__" printed across it and trousers and shoes
+a bell ringer (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes
+a bell ringer (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes and carrying a bell rope
+a bell ringer, dressed in a jumper with the name "__name_town__" printed across it with trousers
 a birdwatcher (nature), in a khaki vest with binoculars and a bucket hat
 a birdwatcher (nature), in a khaki vest with binoculars and trousers and boots
 a birdwatcher (nature), wearing a khaki vest with binoculars, trousers, a bucket hat and boots
@@ -185,10 +185,10 @@ a reenactor of a medieval market trader (fair), in a linen tunic with a belt pou
 a reenactor of a medieval market trader (fair), wearing a linen tunic with a belt pouch, hose, a hood and shoes
 a reenactor of a medieval market trader (fair), wearing a linen tunic with a belt pouch, hose, a hood and shoes and carrying a basket
 a reenactor of a medieval market trader, dressed in a linen tunic with a belt pouch with hose
-a roller derby skater (rink), in a number jersey with a helmet and a helmet
-a roller derby skater (rink), in a number jersey with a helmet and fishnets and shorts and roller skates
-a roller derby skater (rink), wearing a number jersey with a helmet, fishnets and shorts, a helmet and roller skates
-a roller derby skater, dressed in a number jersey with a helmet with fishnets and shorts
+a roller derby skater (rink), in a jersey with the number "__name_jersey_number__" and a helmet and a helmet
+a roller derby skater (rink), in a jersey with the number "__name_jersey_number__" and a helmet and fishnets and shorts and roller skates
+a roller derby skater (rink), wearing a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates
+a roller derby skater, dressed in a jersey with the number "__name_jersey_number__" and a helmet with fishnets and shorts
 a sauna-goer (Finland), in a felt hat and a towel and a felt hat
 a sauna-goer (Finland), wearing a felt hat and a towel and a felt hat
 a sauna-goer (Finland), wearing a felt hat and a towel and a felt hat and carrying a birch whisk

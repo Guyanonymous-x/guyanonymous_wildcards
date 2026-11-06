@@ -1,0 +1,4 @@
+__f_create_random_woman_short__ She is wearing __f_outfit_casual_mixed__.
+__f_create_random_woman_short__ She is wearing __f_outfit_formal_mixed__.
+__m_create_random_man_short__ He is wearing __m_outfit_casual_mixed__.
+__m_create_random_man_short__ He is wearing __m_outfit_formal_mixed__.

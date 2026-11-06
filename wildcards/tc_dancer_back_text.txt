@@ -1,0 +1,1 @@
+The back reads "__name_person__" on the first line, "COMPANY __name_town__ Ballet" on the second line, "DEBUT __name_year__" on the third line.

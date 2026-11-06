@@ -1,1 +1,1 @@
-__ob_cctv_type__, in __ob_colour__, __ob_cctv_era__, __ob_cctv_wear__, with __ob_cctv_detail__
+__ob_cctv_period__, __ob_era_condition_fixed__

@@ -265,7 +265,7 @@ a bartender (cocktail bar), wearing a waistcoat with sleeve garters over a white
 a baseball catcher (baseball), in a chest protector and shin guards and trousers and cleats, with very deep brown skin
 a beast tamer (fantasy), wearing a fur vest with claw necklaces, leather trousers, a feathered headband and boots, with very deep brown skin
 a beekeeper-bee hybrid, dressed in a striped bee suit with wings, with very deep brown skin
-a bell ringer (church), wearing a jumper with the tower name, trousers and shoes, with very deep brown skin
+a bell ringer (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, with very deep brown skin
 a birdwatcher, dressed in a khaki vest with binoculars with trousers, with very deep brown skin
 a bishop (church), wearing a purple cassock with a cope and a pectoral cross, a tall mitre and shoes, with very deep brown skin
 a black knight (fantasy), in blackened plate armour with a tattered cape and boots, with very deep brown skin
@@ -336,7 +336,7 @@ a fire mage (fantasy), wearing a red and orange robe with flame embroidery and a
 a firefighter (modern), wearing a heavy turnout coat with reflective bands and braces, fire-resistant overtrousers, a helmet with a visor and steel-toed boots, with very deep brown skin
 a fishmonger, dressed in a rubber apron over a waterproof smock with waders, with very deep brown skin
 a flamenco dancer (Spain), wearing a ruffled dress, a flower in the hair and heeled shoes and carrying castanets, with very deep brown skin
-a flight attendant (modern airline), wearing a tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat and court shoes and carrying a trolley, with very deep brown skin
+a flight attendant (modern airline), wearing a tailored jacket and neckerchief with a name patch reading "__name_first__", a pencil skirt, a pillbox hat and court shoes and carrying a trolley, with very deep brown skin
 a florist (shop), in a green apron over a blouse and trousers and clogs, with very deep brown skin
 a football goalkeeper (soccer), in a long-sleeved padded jersey and gloves and shorts and boots, with very deep brown skin
 a forester, dressed in a plaid shirt with chainsaw-protective chaps with work trousers, with very deep brown skin
@@ -374,7 +374,7 @@ a horned noble (fantasy), wearing a crimson velvet jacket, trousers, curved horn
 a hot dog costume wearer, dressed in a foam hot dog suit, with very deep brown skin
 a hot-air balloon pilot (ballooning), wearing a windbreaker, cargo trousers, a baseball cap and boots, with very deep brown skin
 a hotel bellhop (1930s), in a short red jacket with gold braid and trousers with a stripe and black shoes, with very deep brown skin
-a housekeeper (hotel), wearing a tunic with a name patch, trousers and comfortable shoes and carrying a trolley, with very deep brown skin
+a housekeeper (hotel), wearing a tunic with a name patch reading "__name_first__", trousers and comfortable shoes and carrying a trolley, with very deep brown skin
 a human cannonball (circus), in a shiny silver jumpsuit and boots, with very deep brown skin
 a human statue (street), wearing a silver painted bodysuit, with very deep brown skin
 a human taco costume wearer (party), wearing a foam taco suit, with very deep brown skin
@@ -403,14 +403,14 @@ a mad scientist (sci-fi), wearing a stained lab coat with goggles, trousers, gog
 a magical swordsmith (anime-inspired), in a white tunic and gloves and boots, with very deep brown skin
 a magical-heroine-style cosplayer (cosplay), wearing a ruffled bodice with a big bow, a frilled skirt, a hair ribbon and boots and carrying a wand, with very deep brown skin
 a magician (stage), in a tailcoat with a cape and trousers and polished shoes, with very deep brown skin
-a marathon runner (race), in a singlet with a number and running shorts and running shoes, with very deep brown skin
+a marathon runner (race), in a singlet with the number "__name_jersey_number__" and running shorts and running shoes, with very deep brown skin
 a mascot character (sports), in a huge furry suit and big feet, with very deep brown skin
 a masked apprentice hero, dressed in a bright orange bodysuit with a small cape, with very deep brown skin
 a masked ball guest (gothic), in a brocade coat with a half mask and a plumed hat, with very deep brown skin
 a masked wrestler (lucha libre), wearing a sleeveless sequined top, stretchy trousers, a full-face mask and wrestling boots, with very deep brown skin
 a mecha pilot (cosplay), wearing a bodysuit with armour pads, a helmet and boots, with very deep brown skin
 a mecha pilot in a flight suit, dressed in a padded suit with armour pads, with very deep brown skin
-a mechanic (garage), in an oil-stained coverall with a name patch and a cap, with very deep brown skin
+a mechanic (garage), in an oil-stained coverall with a name patch reading "__name_first__" and a cap, with very deep brown skin
 a medieval herald (Europe), wearing a tabard with a coat of arms, hose, a feathered cap and boots, with very deep brown skin
 a medieval jester (Europe), in a patchwork tunic and a hat with bells, with very deep brown skin
 a medieval king (Europe), wearing a fur-lined robe over a tunic, a crown and boots and carrying a sceptre, with very deep brown skin
@@ -441,7 +441,7 @@ a nun (convent), wearing a long habit with a veil, a wimple and veil and sandals
 a nurse in a traditional white uniform, dressed in a starched white dress with a belt and a breast pocket watch with a white skirt and white stockings, with very deep brown skin
 a park ranger (national park), in a green shirt with a patch and a flat-brimmed hat and olive trousers and hiking boots, with very deep brown skin
 a pastry chef (bakery), in a white jacket with a small cravat and a skull cap, with very deep brown skin
-a pharmacist (pharmacy), wearing a white lab coat over a shirt with a name patch, dark trousers and black shoes and carrying a prescription tray, with very deep brown skin
+a pharmacist (pharmacy), wearing a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes and carrying a prescription tray, with very deep brown skin
 a physiotherapist (clinic), wearing a polo shirt with a clinic motif-free patch and a tape measure round the neck, athletic trousers and trainers and carrying a resistance band, with very deep brown skin
 a pit crew mechanic (racing), in a fireproof overall and boots, with very deep brown skin
 a pizza costume wearer (party), wearing a round pizza suit, with very deep brown skin

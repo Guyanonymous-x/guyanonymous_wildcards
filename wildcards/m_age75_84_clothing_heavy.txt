@@ -133,7 +133,7 @@ a loose white floral-print jersey cotton crew-neck t-shirt with dark indigo loos
 a relaxed-fit royal blue linen shirt with slate grey sweatpants
 a washed black cotton-knit cardigan with mid-wash relaxed jeans under a faded blue denim jacket and canvas sneakers
 a relaxed-fit off-white fleece sweatshirt with black elastic-waist trousers under a washed black cardigan and slip-on shoes
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a high-visibility vest over a work shirt and rugged work pants and steel-toe work boots
 a fitted athletic t-shirt with training shorts and black training shoes
 a classic black tuxedo with a bow tie, white dress shirt, cufflinks and polished patent shoes, black-tie formal wear
@@ -638,7 +638,7 @@ a loose khaki merino wool crewneck sweater with oatmeal elastic-waist trousers u
 an off-white wool cardigan with washed black pleated trousers under a tan leather jacket and sandals
 a relaxed-fit rust brown fleece sweatshirt with black relaxed jeans under a charcoal grey wool overcoat
 a loose midnight blue cotton long-sleeve tee with jet black chinos under a crisp white rain jacket
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a relaxed-fit off-white heavy cotton crew-neck t-shirt with dark indigo straight-leg jeans under a faded white puffer jacket and leather boots
 a loose navy waffle-knit cotton thermal waffle shirt with navy pleated trousers and white sneakers
 a jet black checked cotton-knit crewneck sweater with deep purple pleated trousers and loafers
@@ -855,13 +855,13 @@ a dark navy soft cotton crew-neck t-shirt with soft white athletic shorts
 a faded white brushed cotton flannel shirt with stone chinos and loafers
 a formal dark suit with a black tie for a funeral and derby shoes
 a relaxed-fit chocolate brown soft cotton crew-neck t-shirt with slate grey pleated trousers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a relaxed-fit mid grey embroidered cotton-knit crewneck sweater with royal blue track pants under a steel blue windbreaker
 a relaxed-fit cream-white jersey v-neck t-shirt with black tapered jeans under a camel peacoat and leather boots
 a sport coat with contrasting trousers with a pale pink dress shirt and a pocket square and no tie under a navy trench coat and comfortable dress shoes
 a taupe cotton short-sleeve button-up shirt with faded white elastic-waist trousers under a camel parka and slides
 a mocha textured heavy cotton crew-neck t-shirt with dark indigo tapered jeans under a slate grey fleece jacket and sandals
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a charcoal grey fleece quarter-zip pullover with mid-wash loose straight jeans and white sneakers
 a marled grey striped rayon Hawaiian shirt with khaki linen pants and white sneakers
 an oversized washed black ribbed-knit turtleneck with sand corduroy pants
@@ -931,7 +931,7 @@ a slim-fit red textured jersey cotton crew-neck t-shirt with faded white elastic
 a relaxed-fit off-white striped soft cotton crew-neck t-shirt with black elastic-waist trousers and work boots
 __m_outfit_cosplay__
 a loose faded white cotton crew-neck t-shirt with bottle green linen pants
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a bright white performance knit polo shirt with bright white chinos and white sneakers
 a loose stone chambray oxford button-down shirt with dark indigo relaxed jeans under an oatmeal shearling-lined jacket and running shoes
 a boxy slate grey floral-print fleece quarter-zip pullover with dark indigo loose straight jeans and comfortable walking shoes

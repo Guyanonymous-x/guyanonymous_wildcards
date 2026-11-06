@@ -319,7 +319,7 @@ a relaxed-fit white merino wool turtleneck with off-white sweatpants under a bro
 a jet black cotton long-sleeve tee with mid-wash straight-leg jeans under a teal puffer jacket
 an emerald green oxford cotton oxford button-down shirt with mid-wash slim jeans and high-top sneakers
 __clothing_outfit_color__ __m_outfit_outerwear__ over a __clothing_outfit_color__ __m_outfit_casual_top__ and __m_outfit_casual_bottom__, oxford shoes, a knit beanie, preppy style
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 loose __clothing_outfit_color__ gym tank with track pants, high-top sneakers, athletic wear
 a gym tank and sweatpants and grey sneakers
 a heather grey cotton fleece hoodie with royal blue chinos and boat shoes
@@ -488,7 +488,7 @@ __clothing_outfit_color__ __m_outfit_suit_style__ with a light blue dress shirt 
 an oversized heather grey plaid soft cotton crew-neck t-shirt with dark indigo straight-leg jeans and white sneakers
 a relaxed-fit off-white heavy cotton crew-neck t-shirt with oatmeal track pants and chelsea boots
 a slim-fit heather grey cotton graphic tee with a printed design with grey straight-leg jeans and slides
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a relaxed-fit faded black merino wool quarter-zip pullover with soft white joggers and black sneakers
 a boxy black striped merino wool turtleneck with sky blue cargo pants and white sneakers
 an olive green cotton baseball tee with mid-wash tapered jeans and canvas sneakers
@@ -803,7 +803,7 @@ vintage __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit
 an off-white jersey sleeveless gym tee with faded blue relaxed jeans under a faded black fleece jacket and canvas sneakers
 a high-visibility vest over a work shirt and rugged work pants and steel-toe work boots
 a compression top and joggers
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a loose black fleece sweatshirt with light grey corduroy pants and hiking boots
 a deep purple cotton graphic tee with a printed design with tan board shorts and running shoes
 a faded black fleece sweatshirt with cream-white joggers and chelsea boots
@@ -989,7 +989,7 @@ a relaxed-fit burnt orange ribbed-knit turtleneck with light-wash slim jeans and
 a canvas apron in __clothing_outfit_color__ over a tee and cargo pants, steel-toe boots, practical work clothes
 a relaxed-fit midnight blue performance knit polo shirt with dark indigo tapered jeans and leather boots
 a wine red oxford cotton oxford button-down shirt with faded white dress trousers
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit_color__ __m_outfit_casual_bottom__, canvas sneakers, a flat cap, practical comfortable wear
 a slim-fit khaki plaid heavy flannel shirt with crisp white joggers and boat shoes
 a gym tank and sweatpants and grey sneakers

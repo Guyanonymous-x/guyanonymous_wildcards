@@ -18,7 +18,7 @@ A person dressed as a lab scientist in a feminine cut (laboratory), with a white
 A person dressed as a midwife in a feminine cut (maternity ward), with a tunic with a pocket full of instruments and a fob watch, trousers and comfortable clogs, in a feminine cut with shaped seams and a flattering line
 A person dressed as a nurse in a traditional white uniform in a feminine cut (1950s Europe and North America), with a starched white dress with a belt and a breast pocket watch, a white skirt and white stockings, a starched nurse's cap and white lace-up shoes, tailored in a feminine cut with a nipped-in waist
 A person dressed as a paramedic in a feminine cut (emergency services), with a dark green jacket with reflective stripes, a high-visibility vest and a radio on the shoulder, dark cargo trousers and black work boots, cut for a feminine figure with a fitted waist
-A person dressed as a pharmacist in a feminine cut (pharmacy), with a white lab coat over a shirt with a name patch, dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist
+A person dressed as a pharmacist in a feminine cut (pharmacy), with a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist
 A person dressed as a physiotherapist in a feminine cut (clinic), with a polo shirt with a clinic motif-free patch and a tape measure round the neck, athletic trousers and trainers, tailored in a feminine cut with a nipped-in waist
 A person dressed as a plague doctor in a feminine cut (17th-century Europe), with a long waxed black coat, a leather cape and gloves, dark trousers, a wide-brimmed hat and a beaked bird-shaped mask and dark boots, cut for a feminine figure with a fitted waist
 A person dressed as a radiologist in a feminine cut (hospital), with a lead apron over a scrub top, scrub trousers and clinical clogs, in a feminine cut with shaped seams and a flattering line
@@ -37,7 +37,7 @@ A tunic with a pocket full of instruments and a fob watch, trousers, comfortable
 A white coat over a polo shirt with a face shield and gloves, dark trousers, a surgical cap, clinic clogs, the full outfit of a dentist in a feminine cut
 A white coat over a shirt and tie, trousers, polished shoes, the full outfit of an optician in a feminine cut
 A white kurta with a shoulder cloth, a dhoti, leather sandals, the full outfit of an Ayurvedic practitioner in a feminine cut
-A white lab coat over a shirt with a name patch, dark trousers, black shoes, the full outfit of a pharmacist in a feminine cut
+A white lab coat over a shirt with a name patch reading "__name_first__", dark trousers, black shoes, the full outfit of a pharmacist in a feminine cut
 A white lab coat, safety goggles and blue gloves, trousers, closed-toe shoes, the full outfit of a lab scientist in a feminine cut
 Camouflage combat shirt with a red cross patch and body armour, combat trousers, a helmet with a red cross, combat boots, the full outfit of an Army field medic in a feminine cut
 a Chinese barefoot doctor in a feminine cut (1960s China), in a plain cotton jacket with a red cross medical bag and a straw hat
@@ -89,10 +89,10 @@ a paramedic in a feminine cut (emergency services), in a dark green jacket with 
 a paramedic in a feminine cut (emergency services), wearing a dark green jacket with reflective stripes, a high-visibility vest and a radio on the shoulder, dark cargo trousers and black work boots, cut for a feminine figure with a fitted waist
 a paramedic in a feminine cut (emergency services), wearing a dark green jacket with reflective stripes, a high-visibility vest and a radio on the shoulder, dark cargo trousers and black work boots, cut for a feminine figure with a fitted waist and carrying a trauma bag
 a paramedic in a feminine cut, dressed in a dark green jacket with reflective stripes, a high-visibility vest and a radio on the shoulder with dark cargo trousers
-a pharmacist in a feminine cut (pharmacy), in a white lab coat over a shirt with a name patch and dark trousers and black shoes
-a pharmacist in a feminine cut (pharmacy), wearing a white lab coat over a shirt with a name patch, dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist
-a pharmacist in a feminine cut (pharmacy), wearing a white lab coat over a shirt with a name patch, dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist and carrying a prescription tray
-a pharmacist in a feminine cut, dressed in a white lab coat over a shirt with a name patch with dark trousers
+a pharmacist in a feminine cut (pharmacy), in a white lab coat over a shirt with a name patch reading "__name_first__" and dark trousers and black shoes
+a pharmacist in a feminine cut (pharmacy), wearing a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist
+a pharmacist in a feminine cut (pharmacy), wearing a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist and carrying a prescription tray
+a pharmacist in a feminine cut, dressed in a white lab coat over a shirt with a name patch reading "__name_first__" with dark trousers
 a physiotherapist in a feminine cut (clinic), in a polo shirt with a clinic motif-free patch and a tape measure round the neck and athletic trousers and trainers
 a physiotherapist in a feminine cut (clinic), wearing a polo shirt with a clinic motif-free patch and a tape measure round the neck, athletic trousers and trainers, tailored in a feminine cut with a nipped-in waist
 a physiotherapist in a feminine cut (clinic), wearing a polo shirt with a clinic motif-free patch and a tape measure round the neck, athletic trousers and trainers, tailored in a feminine cut with a nipped-in waist and carrying a resistance band

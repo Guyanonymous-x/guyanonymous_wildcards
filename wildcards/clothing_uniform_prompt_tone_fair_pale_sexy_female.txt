@@ -262,7 +262,7 @@ a bard in a sexy feminine costume-shop style (fantasy), in a feathered cap and a
 a barista in a sexy feminine costume-shop style (café), wearing a canvas apron over a shirt, jeans, a flat cap and trainers, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels and carrying a milk jug, with fair and pale skin
 a beast tamer in a sexy feminine costume-shop style (fantasy), wearing a fur vest with claw necklaces, leather trousers, a feathered headband and boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with fair and pale skin
 a beekeeper in a sexy feminine costume-shop style (apiary), wearing a white protective suit with a veiled hat and gloves, a veiled hat and boots, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels and carrying a smoker, with fair and pale skin
-a bell ringer in a sexy feminine costume-shop style (church), wearing a jumper with the tower name, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels and carrying a bell rope, with fair and pale skin
+a bell ringer in a sexy feminine costume-shop style (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels and carrying a bell rope, with fair and pale skin
 a birdwatcher in a sexy feminine costume-shop style (nature), wearing a khaki vest with binoculars, trousers, a bucket hat and boots, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels and carrying a notebook, with fair and pale skin
 a bishop in a sexy feminine costume-shop style (church), wearing a purple cassock with a cope and a pectoral cross, a tall mitre and shoes, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings, with fair and pale skin
 a black knight in a sexy feminine costume-shop style (fantasy), wearing blackened plate armour with a tattered cape, a closed helm and boots, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels, with fair and pale skin
@@ -337,7 +337,7 @@ a fisherman with a vest in a sexy feminine costume-shop style (river), in a fish
 a fishmonger in a sexy feminine costume-shop style (market), in a rubber apron over a waterproof smock and a hat, with fair and pale skin
 a flamenco dancer in a sexy feminine costume-shop style (Spain), wearing a ruffled dress, a flower in the hair and heeled shoes, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with fair and pale skin
 a fleet pilot in a sexy feminine costume-shop style (sci-fi), in a teal flight suit with a vest and boots, with fair and pale skin
-a flight attendant in a sexy feminine costume-shop style (modern airline), in a tailored jacket and neckerchief with a name patch and a pillbox hat, with fair and pale skin
+a flight attendant in a sexy feminine costume-shop style (modern airline), in a tailored jacket and neckerchief with a name patch reading "__name_first__" and a pillbox hat, with fair and pale skin
 a florist in a sexy feminine costume-shop style (shop), wearing a green apron over a blouse, trousers and clogs, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots and carrying a bouquet, with fair and pale skin
 a football goalkeeper in a sexy feminine costume-shop style (soccer), in a long-sleeved padded jersey and gloves and shorts and boots, with fair and pale skin
 a football supporter in a sexy feminine costume-shop style, dressed in a team shirt with a scarf with jeans, with fair and pale skin
@@ -375,7 +375,7 @@ a horned noble in a sexy feminine costume-shop style (fantasy), wearing a crimso
 a hot dog costume wearer in a sexy feminine costume-shop style (party), wearing a foam hot dog suit, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings, with fair and pale skin
 a hot-air balloon pilot in a sexy feminine costume-shop style, dressed in a windbreaker with cargo trousers, with fair and pale skin
 a hotel bellhop in a sexy feminine costume-shop style, dressed in a short red jacket with gold braid with trousers with a stripe, with fair and pale skin
-a housekeeper in a sexy feminine costume-shop style (hotel), wearing a tunic with a name patch, trousers and comfortable shoes, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels and carrying a trolley, with fair and pale skin
+a housekeeper in a sexy feminine costume-shop style (hotel), wearing a tunic with a name patch reading "__name_first__", trousers and comfortable shoes, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels and carrying a trolley, with fair and pale skin
 a human cannonball in a sexy feminine costume-shop style (circus), wearing a shiny silver jumpsuit, a helmet and boots, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings, with fair and pale skin
 a human pretzel contortionist in a sexy feminine costume-shop style, dressed in a sparkling bodysuit, with fair and pale skin
 a human statue in a sexy feminine costume-shop style (street), wearing a silver painted bodysuit, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings, with fair and pale skin
@@ -401,7 +401,7 @@ a mad hatter-style tea party host in a sexy feminine costume-shop style (parade)
 a mad musician in a sexy feminine costume-shop style (stage), in a patchwork tailcoat and a top hat, with fair and pale skin
 a mad queen in a sexy feminine costume-shop style (villain), in a black and gold gown with a high collar and boots, with fair and pale skin
 a mad scientist in a sexy feminine costume-shop style (sci-fi), in a stained lab coat with goggles and goggles, with fair and pale skin
-a marathon runner in a sexy feminine costume-shop style (race), in a singlet with a number and running shorts and running shoes, with fair and pale skin
+a marathon runner in a sexy feminine costume-shop style (race), in a singlet with the number "__name_jersey_number__" and running shorts and running shoes, with fair and pale skin
 a marching band member in a sexy feminine costume-shop style, dressed in a braided tunic with a plume with trousers, with fair and pale skin
 a mariachi musician in a sexy feminine costume-shop style (Mexico), wearing a short jacket with silver buttons, tight trousers with silver studs, a wide sombrero and boots, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels, with fair and pale skin
 a mascot character in a sexy feminine costume-shop style (sports), wearing a huge furry suit, an oversized head and big feet, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with fair and pale skin
@@ -409,7 +409,7 @@ a masked ball guest in a sexy feminine costume-shop style (gothic), in a brocade
 a masked crime boss in a sexy feminine costume-shop style (villain), wearing a sharp white suit with a mask, a mask and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels, with fair and pale skin
 a masked wrestler in a sexy feminine costume-shop style, dressed in a sleeveless sequined top with stretchy trousers, with fair and pale skin
 a mecha pilot in a sexy feminine costume-shop style (cosplay), in a bodysuit with armour pads and boots, with fair and pale skin
-a mechanic in a sexy feminine costume-shop style (garage), wearing an oil-stained coverall with a name patch, a cap and work boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with fair and pale skin
+a mechanic in a sexy feminine costume-shop style (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with fair and pale skin
 a medieval king in a sexy feminine costume-shop style (Europe), in a fur-lined robe over a tunic and boots, with fair and pale skin
 a medieval knight in a sexy feminine costume-shop style (Europe), in a mail hauberk with a heraldic surcoat and plate armour and armoured boots, with fair and pale skin
 a medieval minstrel in a sexy feminine costume-shop style (Europe), wearing a multicoloured tunic, hose, a feathered hat and boots, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels, with fair and pale skin
@@ -442,7 +442,7 @@ a pantomime dame in a sexy feminine costume-shop style (theatre), in a huge flow
 a paramedic in a sexy feminine costume-shop style (emergency services), in a dark green jacket with reflective stripes, a high-visibility vest and a radio on the shoulder and dark cargo trousers and black work boots, with fair and pale skin
 a paratrooper in a sexy feminine costume-shop style (WWII-era), in a camouflage smock, webbing and a parachute harness and a helmet, with fair and pale skin
 a pastry chef in a sexy feminine costume-shop style (bakery), in a white jacket with a small cravat and trousers and clogs, with fair and pale skin
-a pharmacist in a sexy feminine costume-shop style (pharmacy), in a white lab coat over a shirt with a name patch and dark trousers and black shoes, with fair and pale skin
+a pharmacist in a sexy feminine costume-shop style (pharmacy), in a white lab coat over a shirt with a name patch reading "__name_first__" and dark trousers and black shoes, with fair and pale skin
 a physiotherapist in a sexy feminine costume-shop style (clinic), in a polo shirt with a clinic motif-free patch and a tape measure round the neck and athletic trousers and trainers, with fair and pale skin
 a pirate captain in a sexy feminine costume-shop style, dressed in a long embroidered coat with a sash and cross-belt with breeches, with fair and pale skin
 a pirate crew member in a sexy feminine costume-shop style, dressed in a laced bodice with a blouse with a patched skirt, with fair and pale skin
@@ -465,7 +465,7 @@ a road crossing guard in a sexy feminine costume-shop style (road), wearing a hi
 a road sweeper in a sexy feminine costume-shop style (city), wearing a high-visibility jacket, trousers, a cap and boots, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels, with fair and pale skin
 a rodeo cowboy in a sexy feminine costume-shop style, dressed in a bright shirt with a protective vest with chaps over jeans, with fair and pale skin
 a rogue in a sexy feminine costume-shop style (fantasy), in a hooded leather jerkin and leather trousers and soft boots, with fair and pale skin
-a roller derby skater in a sexy feminine costume-shop style (rink), in a number jersey with a helmet and a helmet, with fair and pale skin
+a roller derby skater in a sexy feminine costume-shop style (rink), in a jersey with the number "__name_jersey_number__" and a helmet and a helmet, with fair and pale skin
 a rugby player in a sexy feminine costume-shop style (rugby), in a hooped jersey with a padded collar and shorts and studded boots, with fair and pale skin
 a safari suit wearer in a sexy feminine costume-shop style (1970s), wearing a short-sleeved belted safari jacket with four pockets, matching shorts and sandals with long socks, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels, with fair and pale skin
 a sailor in a dress uniform in a sexy feminine costume-shop style (navy), in a navy jumper with a white-striped sailor collar and neckerchief and bell-bottom trousers and black shoes, with fair and pale skin

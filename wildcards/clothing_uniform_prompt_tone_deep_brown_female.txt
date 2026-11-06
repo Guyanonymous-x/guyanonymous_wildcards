@@ -158,7 +158,7 @@ A sequined jumpsuit, big hair, platform boots, the full outfit of a glam rock st
 A shawl over a cardigan with knitting needles in a bun, a long skirt, slippers, the full outfit of a knitter in a feminine cut, with deep brown skin
 A short embroidered jacket and a sash, baggy red trousers, a red fez, spats, the full outfit of a Zouave in a feminine cut, with deep brown skin
 A silver painted bodysuit, the full outfit of a human statue in a feminine cut, with deep brown skin
-A singlet with a number, running shorts, a cap, running shoes, the full outfit of a marathon runner in a feminine cut, with deep brown skin
+A singlet with the number "__name_jersey_number__", running shorts, a cap, running shoes, the full outfit of a marathon runner in a feminine cut, with deep brown skin
 A sparkling bodysuit, the full outfit of a human pretzel contortionist in a feminine cut, with deep brown skin
 A stained leather apron over a robe with vials on a bandolier, goggles, boots, the full outfit of an alchemist in a feminine cut, with deep brown skin
 A starched white dress with a belt and a breast pocket watch, a white skirt and white stockings, a starched nurse's cap, white lace-up shoes, the full outfit of a nurse in a traditional white uniform in a feminine cut, with deep brown skin
@@ -166,7 +166,7 @@ A straw cape, a crown of wheat, the full outfit of a harvest king in a feminine 
 A swimsuit, the full outfit of a diver in a feminine cut, with deep brown skin
 A tactical vest with pouches, combat trousers, a helmet and balaclava, boots, the full outfit of a SWAT team member in a feminine cut, with deep brown skin
 A tailcoat with medals, shoes, the full outfit of a formal dance wearer in a feminine cut, with deep brown skin
-A tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat, court shoes, the full outfit of a flight attendant in a feminine cut, with deep brown skin
+A tailored jacket and neckerchief with a name patch reading "__name_first__", a pencil skirt, a pillbox hat, court shoes, the full outfit of a flight attendant in a feminine cut, with deep brown skin
 A tattered coat with a glow, a tricorn, boots, the full outfit of a ghost pirate in a feminine cut, with deep brown skin
 A velvet jacket with a plaid, a kilt, a glengarry, ghillie brogues, the full outfit of a Highland dancer in a feminine cut, with deep brown skin
 A vest and a loose shirt, short trousers, a conical straw hat, sandals, the full outfit of a rickshaw puller in a feminine cut, with deep brown skin
@@ -260,7 +260,7 @@ a baseball catcher in a feminine cut (baseball), in a chest protector and shin g
 a beast tamer in a feminine cut (fantasy), wearing a fur vest with claw necklaces, leather trousers, a feathered headband and boots, in a feminine cut with shaped seams and a flattering line, with deep brown skin
 a beekeeper in a feminine cut (apiary), in a white protective suit with a veiled hat and gloves and a veiled hat, with deep brown skin
 a beekeeper-bee hybrid in a feminine cut (party), wearing a striped bee suit with wings and antennae, in a feminine cut with shaped seams and a flattering line, with deep brown skin
-a bell ringer in a feminine cut (church), wearing a jumper with the tower name, trousers and shoes, tailored in a feminine cut with a nipped-in waist and carrying a bell rope, with deep brown skin
+a bell ringer in a feminine cut (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, tailored in a feminine cut with a nipped-in waist and carrying a bell rope, with deep brown skin
 a birdwatcher in a feminine cut (nature), wearing a khaki vest with binoculars, trousers, a bucket hat and boots, tailored in a feminine cut with a nipped-in waist, with deep brown skin
 a bishop in a feminine cut (church), in a purple cassock with a cope and a pectoral cross and shoes, with deep brown skin
 a black knight in a feminine cut (fantasy), wearing blackened plate armour with a tattered cape, a closed helm and boots, cut for a feminine figure with a fitted waist, with deep brown skin
@@ -362,7 +362,7 @@ a horned noble in a feminine cut (fantasy), wearing a crimson velvet jacket, tro
 a hospital nurse in a feminine cut (modern ward), wearing a colourful scrub top with an ID patch and a stethoscope round the neck, scrub trousers and white trainers, in a feminine cut with shaped seams and a flattering line and carrying a pen light, with deep brown skin
 a hot-air balloon pilot in a feminine cut (ballooning), in a windbreaker and cargo trousers and boots, with deep brown skin
 a hotel bellhop in a feminine cut (1930s), wearing a short red jacket with gold braid, trousers with a stripe, a pillbox hat with a chin strap and black shoes, in a feminine cut with shaped seams and a flattering line and carrying a luggage trolley, with deep brown skin
-a housekeeper in a feminine cut, dressed in a tunic with a name patch with trousers, with deep brown skin
+a housekeeper in a feminine cut, dressed in a tunic with a name patch reading "__name_first__" with trousers, with deep brown skin
 a human cannonball in a feminine cut (circus), wearing a shiny silver jumpsuit, a helmet and boots, cut for a feminine figure with a fitted waist, with deep brown skin
 a jockey in a feminine cut (racecourse), in silk racing colours and a helmet cover, with deep brown skin
 a judge in a feminine cut (court), wearing a scarlet robe with an ermine collar, a full-bottomed wig and shoes, tailored in a feminine cut with a nipped-in waist and carrying a gavel, with deep brown skin
@@ -400,7 +400,7 @@ a masked crime boss in a feminine cut (villain), in a sharp white suit with a ma
 a masked wrestler in a feminine cut, dressed in a sleeveless sequined top with stretchy trousers, with deep brown skin
 a mecha pilot in a feminine cut (cosplay), in a bodysuit with armour pads and a helmet, with deep brown skin
 a mecha pilot in a flight suit in a feminine cut (anime-inspired), in a padded suit with armour pads and a helmet, with deep brown skin
-a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch, a cap and work boots, tailored in a feminine cut with a nipped-in waist, with deep brown skin
+a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, tailored in a feminine cut with a nipped-in waist, with deep brown skin
 a medieval herald in a feminine cut (Europe), in a tabard with a coat of arms and hose and boots, with deep brown skin
 a medieval jester in a feminine cut (Europe), in a patchwork tunic and tights and curled shoes, with deep brown skin
 a medieval knight in a feminine cut (Europe), in a mail hauberk with a heraldic surcoat and plate armour and armoured boots, with deep brown skin
@@ -435,7 +435,7 @@ a pantomime horse in a feminine cut (theatre), in a two-person horse suit and a 
 a paratrooper in a feminine cut (WWII-era), in a camouflage smock, webbing and a parachute harness and baggy trousers and jump boots, with deep brown skin
 a pastry chef in a feminine cut (bakery), wearing a white jacket with a small cravat, trousers, a skull cap and clogs, cut for a feminine figure with a fitted waist and carrying a piping bag, with deep brown skin
 a patterned-haori swordsperson in a feminine cut (anime-inspired), wearing a patterned haori over a plain kimono, trousers and sandals, cut for a feminine figure with a fitted waist, with deep brown skin
-a pharmacist in a feminine cut (pharmacy), wearing a white lab coat over a shirt with a name patch, dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist, with deep brown skin
+a pharmacist in a feminine cut (pharmacy), wearing a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist, with deep brown skin
 a physiotherapist in a feminine cut, dressed in a polo shirt with a clinic motif-free patch and a tape measure round the neck with athletic trousers, with deep brown skin
 a pirate crew member in a feminine cut (pirate), wearing a laced bodice with a blouse, a patched skirt, a bandana and boots, tailored in a feminine cut with a nipped-in waist and carrying a flagon, with deep brown skin
 a planet colonist in a feminine cut (sci-fi), in a padded jumpsuit with patches and boots, with deep brown skin
@@ -460,7 +460,7 @@ a road crossing guard in a feminine cut (road), wearing a high-visibility coat, 
 a robot in a feminine cut, dressed in a boxy silver suit made of panels, with deep brown skin
 a rock climber in a feminine cut, dressed in a chalk-dusted vest with climbing trousers, with deep brown skin
 a rogue AI hacker in a feminine cut (cyberpunk), in a hoodie with circuit patterns and trousers and sneakers, with deep brown skin
-a roller derby skater in a feminine cut (rink), wearing a number jersey with a helmet, fishnets and shorts, a helmet and roller skates, cut for a feminine figure with a fitted waist, with deep brown skin
+a roller derby skater in a feminine cut (rink), wearing a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates, cut for a feminine figure with a fitted waist, with deep brown skin
 a sailor in a dress uniform in a feminine cut (navy), in a navy jumper with a white-striped sailor collar and neckerchief and bell-bottom trousers and black shoes, with deep brown skin
 a sailor-collar uniform cosplayer in a feminine cut (cosplay), wearing a sailor-collar blouse with a neckerchief, a pleated skirt and loafers, in a feminine cut with shaped seams and a flattering line, with deep brown skin
 a saloon barkeep in a feminine cut (Old West), in a striped shirt with sleeve garters and a vest and a bowler hat, with deep brown skin

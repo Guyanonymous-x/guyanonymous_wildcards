@@ -1,2 +1,2 @@
-a hand-painted number beside each door
-a small painted shop lit panel
+a hand-painted house number beside a door reading "__name_number_small__"
+a small painted shop sign over a doorway reading "__name_shop__"

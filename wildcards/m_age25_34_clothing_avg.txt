@@ -362,7 +362,7 @@ a relaxed-fit jet black fleece sweatshirt with dark indigo straight-leg jeans an
 a slim-fit oatmeal striped fleece sweatshirt with sky blue chinos under a light-wash denim jacket and white sneakers
 a butcher apron in __clothing_outfit_color__ over a work shirt and heavy jeans, steel-toe boots, practical work clothes
 a slim-fit faded black cotton crew-neck t-shirt with mid grey khakis and leather boots
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a light grey suit with a crisp white dress shirt and a bow tie and clean white sneakers
 __m_outfit_cosplay__
 a sand wool cable-knit sweater with dark indigo slim jeans and canvas sneakers
@@ -404,7 +404,7 @@ a loose navy waffle-knit cotton henley shirt with ink blue joggers and work boot
 a petrol blue piqué cotton polo shirt with soft white chinos and black sneakers
 a slim-fit ink blue fleece quarter-zip pullover with black loose straight jeans and white sneakers
 a carpenter's tool belt over a tee and work pants and steel-toe work boots
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a plum cotton polo shirt with faded blue straight-leg jeans and black sneakers
 a three-piece suit with a waistcoat with a crisp white dress shirt and a striped tie and dress boots
 a tan cotton fleece zip-up hoodie with mocha athletic shorts and leather boots
@@ -732,7 +732,7 @@ an oversized jet black plaid cotton crew-neck t-shirt with washed black linen pa
 __clothing_outfit_color__ __m_outfit_outerwear__ over a __clothing_outfit_color__ __m_outfit_casual_top__ and __m_outfit_casual_bottom__, cowboy boots, a leather wallet chain, utilitarian style
 a crisp white linen shirt with sky blue joggers under a tan parka
 a black suit with a light blue dress shirt and a bow tie under a camel peacoat and polished oxford shoes
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a black cotton henley shirt with faded red joggers
 a slim-fit navy heavy cotton crew-neck t-shirt with black track pants and leather boots
 a jet black plaid cotton poplin oxford button-down shirt with light-wash slim jeans and black sneakers

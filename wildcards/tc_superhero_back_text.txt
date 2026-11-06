@@ -1,0 +1,1 @@
+The back reads "__name_hero__" on the first line, "POWER __name_hero_power_tag__" on the second line, "TEAM __name_hero_team__" on the third line.

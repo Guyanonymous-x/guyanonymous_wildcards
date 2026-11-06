@@ -38,7 +38,7 @@ a slim-fit black ribbed-knit turtleneck with cream-white cargo pants under a cha
 __m_outfit_cosplay__
 a loose dark navy textured ribbed cotton long-sleeve tee with dark navy chinos under a charcoal grey peacoat
 a button-down shirt with a loosened tie and dress trousers and leather work boots
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a hooded performance top with running tights
 a faded black striped heavy cotton crew-neck t-shirt with mocha chinos and work boots
 a basketball jersey and baggy shorts and grey sneakers
@@ -97,12 +97,12 @@ a midnight blue cotton crew-neck t-shirt with dark indigo straight-leg jeans und
 a fitted athletic t-shirt with training shorts and white running shoes
 a relaxed-fit tan ribbed-knit turtleneck with light-wash relaxed jeans and sandals
 a compression top and joggers and grey sneakers
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a relaxed-fit black striped ribbed cotton long-sleeve tee with forest green dress trousers and work boots
 a slate grey ribbed cotton long-sleeve tee with faded black elastic-waist trousers and white sneakers
 a slim-fit black cotton camp-collar shirt with washed black corduroy pants and running shoes
-a mechanic's coveralls with a name patch and steel-toe work boots
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a loose oatmeal soft cotton crew-neck t-shirt with mid-wash slim jeans under a black wool overcoat and leather boots
 a bottle green cotton v-neck t-shirt with bright white pleated trousers and boat shoes
 a faded white cotton poplin oxford button-down shirt with light-wash relaxed jeans and black sneakers
@@ -185,7 +185,7 @@ cycling bib shorts with a jersey and grey sneakers
 a relaxed-fit washed black merino wool crewneck sweater with faded red chinos under a tan parka
 __clothing_outfit_color__ __m_outfit_uniform_type__, a leather belt with a metal buckle, neat and tidy look
 a brown tweed suit with a checked dress shirt and a pocket square and no tie and leather loafers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a burgundy ribbed cotton long-sleeve tee with dark navy dress trousers
 a relaxed-fit white striped cotton polo shirt with faded blue khakis under a cream-white puffer jacket and leather boots
 a slim-fit off-white fleece sweatshirt with mid grey athletic shorts and loafers
@@ -300,7 +300,7 @@ a security guard uniform with an utility belt and leather work boots
 a royal blue heavy flannel shirt with mid-wash slim jeans
 a midnight blue linen shirt with faded blue straight-leg jeans under a camel rain jacket and slides
 a compression top and joggers
-a mechanic's coveralls with a name patch
+a mechanic's coveralls with a name patch reading "__name_first__"
 a loose midnight blue striped denim shirt with washed black chinos and black sneakers
 a slim-fit heather grey cotton crew-neck t-shirt with soft white joggers and slip-on shoes
 a slim-fit plum cotton graphic tee with a printed design with light-wash tapered jeans and hiking boots
@@ -435,7 +435,7 @@ a loose violet cotton graphic tee with a printed design with light-wash straight
 a midnight blue heavy cotton hoodie with mid-wash tapered jeans and running shoes
 an oversized sage green cotton v-neck t-shirt with mid-wash tapered jeans and canvas sneakers
 a loose bright white checked cotton short-sleeve button-up shirt with emerald green chinos and leather boots
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a loose turquoise cotton vest over a collared shirt with cream-white pleated trousers and black sneakers
 a slate grey jersey v-neck t-shirt with marled grey dress trousers and leather boots
 a slim-fit sky blue jersey cotton crew-neck t-shirt with faded white joggers and white sneakers

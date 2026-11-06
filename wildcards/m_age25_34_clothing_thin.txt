@@ -58,7 +58,7 @@ a loose faded white ribbed cotton long-sleeve tee with faded white sweatpants un
 a hooded performance top with running tights and grey sneakers
 a boxy faded white fleece sweatshirt with soft white board shorts under an off-white blazer and black sneakers
 a terracotta linen shirt with light-wash straight-leg jeans and chelsea boots
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a jet black linen blend short-sleeve button-up shirt with jet black cargo shorts and work boots
 a loose midnight blue ribbed cotton long-sleeve tee with mid-wash straight-leg jeans under a charcoal grey wool overcoat and white sneakers
 a navy two-piece suit with a crisp white dress shirt and a knit tie and polished oxford shoes
@@ -74,7 +74,7 @@ a relaxed-fit mid grey jersey cotton crew-neck t-shirt with faded blue athletic 
 __m_outfit_cosplay__
 an oversized soft white cotton long-sleeve tee with faded blue tapered jeans under a faded white blazer and white sneakers
 a delivery uniform polo with cargo shorts and black non-slip shoes
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a loose washed black performance knit polo shirt with marled grey joggers and black sneakers
 a dark navy cotton crew-neck t-shirt with dark indigo relaxed jeans under a crisp white shearling-lined jacket
 a slim-fit faded red jersey cotton crew-neck t-shirt with washed black khakis and boat shoes
@@ -198,7 +198,7 @@ a relaxed-fit sky blue denim shirt with mid-wash straight-leg jeans under a whit
 a boxy rust brown fine-knit quarter-zip pullover with light-wash straight-leg jeans
 a slim-fit faded white soft cotton crew-neck t-shirt with light-wash bootcut jeans and running shoes
 a brown tweed suit with a crisp white dress shirt and a pocket square and no tie and derby shoes
-a mechanic's coveralls with a name patch
+a mechanic's coveralls with a name patch reading "__name_first__"
 a loose light grey striped merino wool turtleneck with light-wash straight-leg jeans and high-top sneakers
 an oversized midnight blue performance knit polo shirt with dark indigo loose straight jeans and black sneakers
 a slate grey jersey sleeveless gym tee with faded blue relaxed jeans and work boots
@@ -308,7 +308,7 @@ a jet black oxford cotton oxford button-down shirt with dark indigo relaxed jean
 a relaxed-fit camel cotton cable-knit sweater with mid-wash slim jeans and white sneakers
 a loose red cotton baseball tee with navy joggers and loafers
 swim trunks and a loose open shirt
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a relaxed-fit bright white rayon camp-collar shirt with jet black cargo shorts under a beige bomber jacket and cushioned sneakers
 an oversized steel blue heavy cotton crew-neck t-shirt with faded black pleated trousers and chelsea boots
 a lab coat over a shirt and tie and black non-slip shoes
@@ -336,7 +336,7 @@ a relaxed-fit heather grey cotton-knit crewneck sweater with crisp white khakis 
 a charcoal grey jersey cotton crew-neck t-shirt with faded black chinos under a black leather jacket and sandals
 a charcoal suit with a light blue dress shirt and a bow tie and dress boots
 a slim-fit slate grey heavy flannel shirt with faded black dress trousers under a bottle green fleece jacket
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 hospital scrubs with a stethoscope around the neck and black non-slip shoes
 a sport coat with contrasting trousers with a pale pink dress shirt and a bow tie and monk-strap shoes
 an oversized petrol blue striped linen shirt with steel blue dress trousers under a faded white blazer and work boots
@@ -378,7 +378,7 @@ a black suit with a light blue dress shirt and a pocket square and no tie and po
 a sand rayon Hawaiian shirt with slate grey khakis under an army green windbreaker and boat shoes
 a fitted athletic t-shirt with training shorts
 a loose faded black striped cotton fleece zip-up hoodie with ink blue athletic shorts under an off-white windbreaker and canvas sneakers
-a mechanic's coveralls with a name patch
+a mechanic's coveralls with a name patch reading "__name_first__"
 a loose sand cotton long-sleeve tee with faded blue straight-leg jeans and high-top sneakers
 denim overalls over a plain tee and polished oxford shoes
 a slim-fit cream-white heavy cotton crew-neck t-shirt with light grey athletic shorts under a crisp white puffer jacket and running shoes
@@ -424,7 +424,7 @@ a beige brushed cotton flannel shirt with terracotta corduroy pants and work boo
 a mocha fine-knit quarter-zip pullover with light-wash relaxed jeans
 a three-piece suit with a waistcoat with a white shirt with an open collar and a striped tie
 a carpenter's tool belt over a tee and work pants and leather work boots
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a gym tank and sweatpants and grey sneakers
 a beige cotton v-neck t-shirt with mid-wash relaxed jeans and work boots
 a slim-fit faded white linen blend short-sleeve button-up shirt with light-wash loose straight jeans and loafers
@@ -977,9 +977,9 @@ __m_outfit_cosplay__
 a relaxed-fit bright white plaid cotton v-neck t-shirt with mid-wash straight-leg jeans under a tan peacoat and canvas sneakers
 __clothing_outfit_pattern__ __m_outfit_casual_top__ with __clothing_outfit_material__ __m_outfit_casual_bottom__, sandals, clean minimalist style
 an oversized lavender striped cotton crew-neck t-shirt with light-wash loose straight jeans and white sneakers
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 an oversized soft white rayon camp-collar shirt with dark indigo straight-leg jeans and slides
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a loose ink blue linen shirt with mid-wash tapered jeans and black sneakers
 an oversized black wool crewneck sweater with light-wash tapered jeans under a black wool overcoat and high-top sneakers
 a loose white fleece sweatshirt with jet black work pants and white sneakers

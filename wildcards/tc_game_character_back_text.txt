@@ -1,0 +1,1 @@
+The back reads "__name_game_title__" on the first line, "LEVEL __name_number_small__" on the second line, "SPECIAL __name_hero_power_tag__" on the third line.

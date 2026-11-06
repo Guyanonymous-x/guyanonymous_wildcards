@@ -418,13 +418,13 @@ a slim-fit jet black cotton poplin oxford button-down shirt with faded red khaki
 a rust brown embroidered jersey cotton crew-neck t-shirt with dark indigo straight-leg jeans under a navy hooded anorak and white sneakers
 a relaxed-fit dark navy fine-knit quarter-zip pullover with mid-wash slim jeans under a brown leather jacket and canvas sneakers
 an oversized faded black fleece hoodie with washed black work pants and white sneakers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a relaxed-fit faded red plaid cotton fleece zip-up hoodie with light grey chinos and running shoes
 a relaxed-fit mocha heavy cotton hoodie with dark indigo straight-leg jeans under a faded blue blazer and black sneakers
 a camel cotton long-sleeve tee with dark indigo straight-leg jeans under a burgundy puffer jacket and canvas sneakers
 a relaxed-fit olive green ribbed cotton long-sleeve tee with mid-wash straight-leg jeans and running shoes
 a sport coat with contrasting trousers with a crisp white dress shirt and a solid silk tie under a charcoal grey wool overcoat and leather loafers
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a relaxed-fit heather grey piqué cotton polo shirt with mid-wash tapered jeans under a mid grey sport coat and white sneakers
 a slim-fit black plaid waffle-knit cotton thermal waffle shirt with cobalt blue dress trousers
 a slim-fit stone heavy cotton crew-neck t-shirt with crisp white board shorts under a marled grey windbreaker and running shoes
@@ -554,7 +554,7 @@ an oversized tomato red performance knit polo shirt with faded blue bootcut jean
 hospital scrubs with a stethoscope around the neck and leather work boots
 a relaxed-fit maroon oxford cotton oxford button-down shirt with bottle green joggers and white sneakers
 a relaxed-fit mocha chambray oxford button-down shirt with midnight blue cargo shorts
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a slim-fit ink blue waffle-knit cotton henley shirt with faded black elastic-waist trousers and leather boots
 a faded red cotton vest over a collared shirt with off-white sweatpants and leather boots
 __m_outfit_cosplay__
@@ -583,7 +583,7 @@ a relaxed-fit white jersey cotton crew-neck t-shirt with powder blue khakis and 
 a loose washed black cotton short-sleeve button-up shirt with off-white khakis and white sneakers
 a bubblegum pink embroidered soft cotton crew-neck t-shirt with mid-wash straight-leg jeans and running shoes
 slim-fit __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit_color__ __m_outfit_casual_bottom__, black sneakers, a wool scarf, street casual fashion
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a fitted athletic t-shirt with training shorts and grey sneakers
 a relaxed-fit stone textured heavy flannel shirt with faded black track pants under a steel blue fleece jacket and white sneakers
 a navy heavy flannel shirt with washed black chinos and white sneakers
@@ -911,7 +911,7 @@ a basketball jersey and baggy shorts and white running shoes
 a relaxed-fit dark navy striped wool vest over a collared shirt with black bootcut jeans under a bright white shearling-lined jacket and white sneakers
 a faded white chambray denim shirt with mid-wash bootcut jeans under a sky blue blazer and comfortable walking shoes
 a relaxed-fit bright white performance knit polo shirt with dark indigo straight-leg jeans and loafers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a delivery uniform polo with cargo shorts and leather work boots
 a slim-fit cream-white heavy flannel shirt with jet black dress trousers and chelsea boots
 a navy tracksuit with white stripes and grey sneakers

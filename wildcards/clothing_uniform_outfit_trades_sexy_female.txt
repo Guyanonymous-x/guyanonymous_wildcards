@@ -42,7 +42,7 @@ A person dressed as a forester in a sexy feminine costume-shop style (woodland),
 A person dressed as a glassblower in a sexy feminine costume-shop style (workshop), with a heat-resistant apron and sleeves, trousers and boots, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
 A person dressed as a lamplighter in a sexy feminine costume-shop style (Victorian), with a long coat and a scarf, trousers, a bowler hat and boots, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
 A person dressed as a lumberjack in a sexy feminine costume-shop style (Canada), with a red checked wool jacket and suspenders, work trousers, a wool toque and logging boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
-A person dressed as a mechanic in a sexy feminine costume-shop style (garage), with an oil-stained coverall with a name patch, a cap and work boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
+A person dressed as a mechanic in a sexy feminine costume-shop style (garage), with an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
 A person dressed as a miller in a sexy feminine costume-shop style (medieval), with a dusty smock, trousers, a cloth cap and clogs, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
 A person dressed as a folded paper sheet vendor in a sexy feminine costume-shop style (1920s), with a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
 A person dressed as a plumber in a sexy feminine costume-shop style (call-out), with a work shirt and a knee-padded trouser set, work trousers, a cap and boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
@@ -78,7 +78,7 @@ A work shirt and a harness, work trousers, a cap, boots, the full outfit of a wi
 A work shirt and a knee-padded trouser set, work trousers, a cap, boots, the full outfit of a plumber in a sexy feminine costume-shop style
 A work shirt and high-visibility vest, work trousers, a hard hat, boots, the full outfit of a bricklayer in a sexy feminine costume-shop style
 A work shirt with a pocket of testers, work trousers, a hard hat, boots, the full outfit of an electrician in a sexy feminine costume-shop style
-An oil-stained coverall with a name patch, a cap, work boots, the full outfit of a mechanic in a sexy feminine costume-shop style
+An oil-stained coverall with a name patch reading "__name_first__", a cap, work boots, the full outfit of a mechanic in a sexy feminine costume-shop style
 An orange coverall with reflective strips, a hard hat, steel-toed boots, the full outfit of an oil rig worker in a sexy feminine costume-shop style
 a baker in a sexy feminine costume-shop style (bakery), in a white double-breasted jacket and apron and a baker's hat
 a baker in a sexy feminine costume-shop style (bakery), in a white double-breasted jacket and apron and checked trousers and clogs
@@ -181,11 +181,11 @@ a lumberjack in a sexy feminine costume-shop style (Canada), in a red checked wo
 a lumberjack in a sexy feminine costume-shop style (Canada), wearing a red checked wool jacket and suspenders, work trousers, a wool toque and logging boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
 a lumberjack in a sexy feminine costume-shop style (Canada), wearing a red checked wool jacket and suspenders, work trousers, a wool toque and logging boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots and carrying an axe
 a lumberjack in a sexy feminine costume-shop style, dressed in a red checked wool jacket and suspenders with work trousers
-a mechanic in a sexy feminine costume-shop style (garage), in an oil-stained coverall with a name patch and a cap
-a mechanic in a sexy feminine costume-shop style (garage), in an oil-stained coverall with a name patch and work boots
-a mechanic in a sexy feminine costume-shop style (garage), wearing an oil-stained coverall with a name patch, a cap and work boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
-a mechanic in a sexy feminine costume-shop style (garage), wearing an oil-stained coverall with a name patch, a cap and work boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots and carrying a wrench
-a mechanic in a sexy feminine costume-shop style, dressed in an oil-stained coverall with a name patch
+a mechanic in a sexy feminine costume-shop style (garage), in an oil-stained coverall with a name patch reading "__name_first__" and a cap
+a mechanic in a sexy feminine costume-shop style (garage), in an oil-stained coverall with a name patch reading "__name_first__" and work boots
+a mechanic in a sexy feminine costume-shop style (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
+a mechanic in a sexy feminine costume-shop style (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots and carrying a wrench
+a mechanic in a sexy feminine costume-shop style, dressed in an oil-stained coverall with a name patch reading "__name_first__"
 a miller in a sexy feminine costume-shop style (medieval), in a dusty smock and a cloth cap
 a miller in a sexy feminine costume-shop style (medieval), in a dusty smock and trousers and clogs
 a miller in a sexy feminine costume-shop style (medieval), wearing a dusty smock, trousers, a cloth cap and clogs, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings

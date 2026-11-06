@@ -1,0 +1,1 @@
+The back reads "__name_band__" on the first line, "ALBUM __name_album__" on the second line, "FORMED __name_year__" on the third line.

@@ -1,0 +1,2 @@
+appointment-based with a queue before opening
+the room empties completely at closing

@@ -85,7 +85,7 @@ A person dressed as a delivery driver in a masculine cut (city), with a polo shi
 A person dressed as a demon hunter in a masculine cut (fantasy), with a black leather coat with silver chains, trousers, a hood and boots, tailored in a masculine cut with a straight waist, with golden olive skin
 A person dressed as a diver in a masculine cut (competition), which is a swimsuit, in a masculine cut with a roomy chest and shoulders, with golden olive skin
 A person dressed as a farmer in a masculine cut (rural), which is a flannel shirt and denim overalls, overalls, a straw hat and rubber boots, cut for a masculine frame with broad shoulders, with golden olive skin
-A person dressed as a flight attendant in a masculine cut (modern airline), with a tailored jacket and neckerchief with a name patch, trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders, with golden olive skin
+A person dressed as a flight attendant in a masculine cut (modern airline), with a tailored jacket and neckerchief with a name patch reading "__name_first__", trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders, with golden olive skin
 A person dressed as a forester in a masculine cut (woodland), which is a plaid shirt with chainsaw-protective chaps, work trousers, a hard hat with a visor and boots, in a masculine cut with a roomy chest and shoulders, with golden olive skin
 A person dressed as a formal dance wearer in a masculine cut (ball), with a tailcoat with medals and shoes, tailored in a masculine cut with a straight waist, with golden olive skin
 A person dressed as a fortune-telling automaton in a masculine cut (fair), with a velvet jacket with painted cheeks, trousers, a turban and shoes, cut for a masculine frame with broad shoulders, with golden olive skin
@@ -177,7 +177,7 @@ A white tube suit, the full outfit of a toilet paper roll costume wearer in a ma
 A wide embroidered boubou, a cap, sandals, the full outfit of a West African griot in a masculine cut, with golden olive skin
 A yamabushi robe with a wooden mask, a small cap, tall clogs, the full outfit of a tengu mountain spirit in a masculine cut, with golden olive skin
 An apron over a shirt with gloves, trousers, a sun hat, clogs, the full outfit of a gardener in a masculine cut, with golden olive skin
-An oil-stained coverall with a name patch, a cap, work boots, the full outfit of a mechanic in a masculine cut, with golden olive skin
+An oil-stained coverall with a name patch reading "__name_first__", a cap, work boots, the full outfit of a mechanic in a masculine cut, with golden olive skin
 An orange coverall with reflective strips, a hard hat, steel-toed boots, the full outfit of an oil rig worker in a masculine cut, with golden olive skin
 Scale-pattern plate armour with a dragon-wing cloak, a horned helm, boots, the full outfit of a dragon knight in a masculine cut, with golden olive skin
 Silk racing colours, white breeches, a helmet cover, tall boots, the full outfit of a jockey in a masculine cut, with golden olive skin
@@ -264,7 +264,7 @@ a battle mage in a masculine cut (fantasy), in a chest plate over a robe with a 
 a beast tamer in a masculine cut (fantasy), wearing a fur vest with claw necklaces, leather trousers, a feathered headband and boots, tailored in a masculine cut with a straight waist and carrying a whip, with golden olive skin
 a beekeeper in a masculine cut (apiary), wearing a white protective suit with a veiled hat and gloves, a veiled hat and boots, tailored in a masculine cut with a straight waist and carrying a smoker, with golden olive skin
 a beekeeper-bee hybrid in a masculine cut (party), in a striped bee suit with wings and antennae, with golden olive skin
-a bell ringer in a masculine cut, dressed in a jumper with the tower name with trousers, with golden olive skin
+a bell ringer in a masculine cut, dressed in a jumper with the name "__name_town__" printed across it with trousers, with golden olive skin
 a birdwatcher in a masculine cut, dressed in a khaki vest with binoculars with trousers, with golden olive skin
 a black knight in a masculine cut (fantasy), in blackened plate armour with a tattered cape and a closed helm, with golden olive skin
 a blue-coat staff officer in a masculine cut (anime-inspired), wearing a blue military coat, trousers and boots, tailored in a masculine cut with a straight waist and carrying a pocket watch, with golden olive skin
@@ -376,7 +376,7 @@ a horned noble in a masculine cut (fantasy), wearing a crimson velvet jacket, tr
 a hospital nurse in a masculine cut (modern ward), wearing a colourful scrub top with an ID patch and a stethoscope round the neck, scrub trousers and white trainers, in a masculine cut with a roomy chest and shoulders, with golden olive skin
 a hot-air balloon pilot in a masculine cut (ballooning), wearing a windbreaker, cargo trousers, a baseball cap and boots, cut for a masculine frame with broad shoulders and carrying a map, with golden olive skin
 a hotel bellhop in a masculine cut (1930s), in a short red jacket with gold braid and a pillbox hat with a chin strap, with golden olive skin
-a housekeeper in a masculine cut (hotel), wearing a tunic with a name patch, trousers and comfortable shoes, tailored in a masculine cut with a straight waist and carrying a trolley, with golden olive skin
+a housekeeper in a masculine cut (hotel), wearing a tunic with a name patch reading "__name_first__", trousers and comfortable shoes, tailored in a masculine cut with a straight waist and carrying a trolley, with golden olive skin
 a human pretzel contortionist in a masculine cut, dressed in a sparkling bodysuit, with golden olive skin
 a human statue in a masculine cut (street), wearing a silver painted bodysuit, tailored in a masculine cut with a straight waist, with golden olive skin
 a judge in a masculine cut (court), wearing a scarlet robe with an ermine collar, a full-bottomed wig and shoes, tailored in a masculine cut with a straight waist, with golden olive skin
@@ -404,7 +404,7 @@ a mad scientist in a masculine cut (sci-fi), in a stained lab coat with goggles 
 a magical swordsmith in a masculine cut, dressed in a white tunic and gloves, with golden olive skin
 a magical-heroine-style cosplayer in a masculine cut, dressed in a ruffled bodice with a big bow with trousers, with golden olive skin
 a magician in a masculine cut (stage), in a tailcoat with a cape and trousers and polished shoes, with golden olive skin
-a marathon runner in a masculine cut (race), wearing a singlet with a number, running shorts, a cap and running shoes, in a masculine cut with a roomy chest and shoulders, with golden olive skin
+a marathon runner in a masculine cut (race), wearing a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes, in a masculine cut with a roomy chest and shoulders, with golden olive skin
 a mariachi musician in a masculine cut (Mexico), in a short jacket with silver buttons and a wide sombrero, with golden olive skin
 a masked apprentice hero in a masculine cut, dressed in a bright orange bodysuit with a small cape, with golden olive skin
 a masked ball guest in a masculine cut, dressed in a brocade coat with a half mask with breeches, with golden olive skin
@@ -436,7 +436,7 @@ a pantomime dame in a masculine cut (theatre), wearing a huge flowered dress wit
 a pantomime horse in a masculine cut, dressed in a two-person horse suit, with golden olive skin
 a paramedic in a masculine cut (emergency services), wearing a dark green jacket with reflective stripes, a high-visibility vest and a radio on the shoulder, dark cargo trousers and black work boots, cut for a masculine frame with broad shoulders and carrying a trauma bag, with golden olive skin
 a pastry chef in a masculine cut (bakery), in a white jacket with a small cravat and trousers and clogs, with golden olive skin
-a pharmacist in a masculine cut (pharmacy), in a white lab coat over a shirt with a name patch and dark trousers and black shoes, with golden olive skin
+a pharmacist in a masculine cut (pharmacy), in a white lab coat over a shirt with a name patch reading "__name_first__" and dark trousers and black shoes, with golden olive skin
 a phoenix in a masculine cut (myth), wearing a feathered flame costume and a feathered crest, in a masculine cut with a roomy chest and shoulders, with golden olive skin
 a pirate captain in a masculine cut (golden age of piracy), wearing a long embroidered coat with a sash and cross-belt, breeches, a feathered tricorn and buckled boots, tailored in a masculine cut with a straight waist, with golden olive skin
 a pirate crew member in a masculine cut (pirate), wearing a laced bodice with a blouse, trousers, a bandana and boots, cut for a masculine frame with broad shoulders, with golden olive skin
@@ -466,7 +466,7 @@ a rock climber in a masculine cut (crag), wearing a chalk-dusted vest, climbing 
 a rodeo cowboy in a masculine cut, dressed in a bright shirt with a protective vest with chaps over jeans, with golden olive skin
 a rogue AI hacker in a masculine cut (cyberpunk), wearing a hoodie with circuit patterns, trousers, a mask and sneakers, tailored in a masculine cut with a straight waist, with golden olive skin
 a rogue in a masculine cut, dressed in a hooded leather jerkin with leather trousers, with golden olive skin
-a roller derby skater in a masculine cut (rink), wearing a number jersey with a helmet, fishnets and shorts, a helmet and roller skates, in a masculine cut with a roomy chest and shoulders, with golden olive skin
+a roller derby skater in a masculine cut (rink), wearing a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates, in a masculine cut with a roomy chest and shoulders, with golden olive skin
 a rugby player in a masculine cut, dressed in a hooped jersey with a padded collar with shorts, with golden olive skin
 a sailor in a dress uniform in a masculine cut (navy), in a navy jumper with a white-striped sailor collar and neckerchief and a white sailor cap, with golden olive skin
 a sailor-collar uniform cosplayer in a masculine cut (cosplay), wearing a sailor-collar blouse with a neckerchief, trousers and loafers, in a masculine cut with a roomy chest and shoulders, with golden olive skin

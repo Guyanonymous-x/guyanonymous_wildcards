@@ -1,2 +1,2 @@
-large hanging direction lit panels with arrows
-a flight board with scrolling text
+large hanging direction signs with white arrows, the first line reading "Gate __name_number_small__" and the second line reading "Baggage Reclaim"
+a departures board, the top line reading "Departures" and the line beneath reading "__name_town__"

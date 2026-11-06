@@ -103,7 +103,7 @@ A person dressed as a librarian (library), which is a cardigan with a chain of g
 A person dressed as a living chess piece (theatre), which is a long robe in a board pattern and a tall crown or helmet, with fair and pale skin
 A person dressed as a lobster costume wearer (party), which is a red lobster suit with claws, with fair and pale skin
 A person dressed as a magical swordsmith (anime-inspired), which is a white tunic and gloves and boots, with fair and pale skin
-A person dressed as a marathon runner (race), which is a singlet with a number, running shorts, a cap and running shoes, with fair and pale skin
+A person dressed as a marathon runner (race), which is a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes, with fair and pale skin
 A person dressed as a mariachi musician (Mexico), which is a short jacket with silver buttons, tight trousers with silver studs, a wide sombrero and boots, with fair and pale skin
 A person dressed as a medieval plague bearer reveller (festival), with a patched robe and a hood, with fair and pale skin
 A person dressed as a moon queen (myth), which is a silver robe with stars and a crescent crown, with fair and pale skin
@@ -171,7 +171,7 @@ A silver painted bodysuit, the full outfit of a human statue, with fair and pale
 A sparkling leotard, slippers, the full outfit of an acrobat, with fair and pale skin
 A tailcoat with a white bow tie, striped trousers, polished shoes, the full outfit of an orchestra conductor, with fair and pale skin
 A tailored jacket and blouse or shirt and tie, shoes, the full outfit of a news anchor, with fair and pale skin
-A tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat, court shoes, the full outfit of a flight attendant, with fair and pale skin
+A tailored jacket and neckerchief with a name patch reading "__name_first__", a pencil skirt, a pillbox hat, court shoes, the full outfit of a flight attendant, with fair and pale skin
 A team jersey, white breeches, a helmet, tall boots, the full outfit of a polo player, with fair and pale skin
 A velvet jacket with a plaid, a kilt, a glengarry, ghillie brogues, the full outfit of a Highland dancer, with fair and pale skin
 A vest and a loose shirt, short trousers, a conical straw hat, sandals, the full outfit of a rickshaw puller, with fair and pale skin
@@ -262,7 +262,7 @@ a battle mage, dressed in a chest plate over a robe with a rune sash with trouse
 a beast tamer, dressed in a fur vest with claw necklaces with leather trousers, with fair and pale skin
 a beekeeper, dressed in a white protective suit with a veiled hat and gloves, with fair and pale skin
 a beekeeper-bee hybrid (party), wearing a striped bee suit with wings and antennae, with fair and pale skin
-a bell ringer (church), wearing a jumper with the tower name, trousers and shoes and carrying a bell rope, with fair and pale skin
+a bell ringer (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes and carrying a bell rope, with fair and pale skin
 a bishop (church), in a purple cassock with a cope and a pectoral cross and a tall mitre, with fair and pale skin
 a blacksmith (forge), wearing a leather apron over a sooty linen shirt, heavy trousers and work boots and carrying a hammer and tongs, with fair and pale skin
 a board game night host (home), wearing a wizard robe over a hoodie, jeans, a pointed hat and slippers and carrying dice, with fair and pale skin
@@ -366,7 +366,7 @@ a hiker (trail), in a lightweight shell jacket and a sun hat, with fair and pale
 a horned noble (fantasy), in a crimson velvet jacket and curved horns, with fair and pale skin
 a hospital nurse (modern ward), in a colourful scrub top with an ID patch and a stethoscope round the neck and scrub trousers and white trainers, with fair and pale skin
 a hot dog costume wearer, dressed in a foam hot dog suit, with fair and pale skin
-a housekeeper (hotel), in a tunic with a name patch and trousers and comfortable shoes, with fair and pale skin
+a housekeeper (hotel), in a tunic with a name patch reading "__name_first__" and trousers and comfortable shoes, with fair and pale skin
 a human cannonball (circus), wearing a shiny silver jumpsuit, a helmet and boots, with fair and pale skin
 a human pretzel contortionist, dressed in a sparkling bodysuit, with fair and pale skin
 a human taco costume wearer, dressed in a foam taco suit, with fair and pale skin
@@ -406,7 +406,7 @@ a masked ball guest, dressed in a brocade coat with a half mask with breeches, w
 a masked wrestler (lucha libre), wearing a sleeveless sequined top, stretchy trousers, a full-face mask and wrestling boots, with fair and pale skin
 a mecha pilot (cosplay), in a bodysuit with armour pads and a helmet, with fair and pale skin
 a mecha pilot in a flight suit (anime-inspired), wearing a padded suit with armour pads, a helmet and boots, with fair and pale skin
-a mechanic, dressed in an oil-stained coverall with a name patch, with fair and pale skin
+a mechanic, dressed in an oil-stained coverall with a name patch reading "__name_first__", with fair and pale skin
 a medieval herald (Europe), wearing a tabard with a coat of arms, hose, a feathered cap and boots, with fair and pale skin
 a medieval jester (Europe), in a patchwork tunic and a hat with bells, with fair and pale skin
 a medieval knight (Europe), wearing a mail hauberk with a heraldic surcoat and plate armour, a great helm and armoured boots and carrying a longsword, with fair and pale skin
@@ -437,7 +437,7 @@ a pantomime horse (theatre), in a two-person horse suit and a horse head, with f
 a paratrooper (WWII-era), in a camouflage smock, webbing and a parachute harness and a helmet, with fair and pale skin
 a pastry chef (bakery), in a white jacket with a small cravat and trousers and clogs, with fair and pale skin
 a patterned-haori swordsperson (anime-inspired), wearing a patterned haori over a plain kimono, trousers and sandals, with fair and pale skin
-a pharmacist, dressed in a white lab coat over a shirt with a name patch with dark trousers, with fair and pale skin
+a pharmacist, dressed in a white lab coat over a shirt with a name patch reading "__name_first__" with dark trousers, with fair and pale skin
 a physiotherapist (clinic), wearing a polo shirt with a clinic motif-free patch and a tape measure round the neck, athletic trousers and trainers and carrying a resistance band, with fair and pale skin
 a pirate captain, dressed in a long embroidered coat with a sash and cross-belt with breeches, with fair and pale skin
 a pirate crew member (pirate), in a laced bodice with a blouse and a patched skirt and boots, with fair and pale skin
@@ -462,7 +462,7 @@ a rock climber, dressed in a chalk-dusted vest with climbing trousers, with fair
 a rodeo cowboy (rodeo), wearing a bright shirt with a protective vest, chaps over jeans, a cowboy hat and boots, with fair and pale skin
 a rogue (fantasy), in a hooded leather jerkin and a hood, with fair and pale skin
 a rogue AI hacker (cyberpunk), in a hoodie with circuit patterns and a mask, with fair and pale skin
-a roller derby skater, dressed in a number jersey with a helmet with fishnets and shorts, with fair and pale skin
+a roller derby skater, dressed in a jersey with the number "__name_jersey_number__" and a helmet with fishnets and shorts, with fair and pale skin
 a sailor in a dress uniform (navy), in a navy jumper with a white-striped sailor collar and neckerchief and bell-bottom trousers and black shoes, with fair and pale skin
 a sailor-collar uniform cosplayer (cosplay), wearing a sailor-collar blouse with a neckerchief, a pleated skirt and loafers, with fair and pale skin
 a saloon barkeep (Old West), wearing a striped shirt with sleeve garters and a vest, trousers, a bowler hat and boots and carrying a bar towel, with fair and pale skin

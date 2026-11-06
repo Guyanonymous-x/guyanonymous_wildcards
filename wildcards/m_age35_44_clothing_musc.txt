@@ -109,7 +109,7 @@ a slim-fit white floral-print rayon Hawaiian shirt with faded blue skinny jeans 
 a slim-fit tomato red textured heavy cotton crew-neck t-shirt with cream-white joggers and hiking boots
 a relaxed-fit mustard yellow oxford cotton oxford button-down shirt with army green joggers and leather boots
 a sport coat with contrasting trousers with a striped dress shirt and no tie, collar open under a black trench coat and polished oxford shoes
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a washed black striped jersey cotton crew-neck t-shirt with cobalt blue linen pants and black sneakers
 a relaxed-fit light grey ribbed-knit turtleneck with white elastic-waist trousers and white sneakers
 a slim-fit mid grey striped fleece quarter-zip pullover with faded blue slim jeans under a charcoal grey windbreaker and boat shoes
@@ -175,7 +175,7 @@ a beige tartan brushed cotton flannel shirt with white athletic shorts under a t
 relaxed __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit_color__ __m_outfit_casual_bottom__, oxford shoes, a bucket hat, clean minimalist style
 a black heavy flannel shirt with faded red joggers and white sneakers
 a bright white waffle-knit cotton thermal waffle shirt with dark indigo skinny jeans and white sneakers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a running vest and short split shorts and black training shoes
 a midnight blue oxford cotton oxford button-down shirt with dark indigo relaxed jeans and black sneakers
 a sage green brushed cotton flannel shirt with dark indigo straight-leg jeans and black sneakers
@@ -388,7 +388,7 @@ a sport coat with contrasting trousers with a white shirt with an open collar an
 swim trunks and a loose open shirt
 a relaxed-fit off-white piqué cotton polo shirt with black relaxed jeans and white sneakers
 a heather grey plaid cotton tank top with mid-wash straight-leg jeans and hiking boots
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a royal blue performance knit polo shirt with dark indigo relaxed jeans under a washed black puffer jacket and high-top sneakers
 a slim-fit pale yellow soft cotton crew-neck t-shirt with dark navy dress trousers under an olive green parka and white sneakers
 a loose midnight blue textured cotton Hawaiian shirt with faded blue dress trousers under a charcoal grey hooded anorak and running shoes
@@ -464,7 +464,7 @@ __clothing_outfit_color__ __m_outfit_uniform_type__, a canvas tote, highly detai
 a rust brown cotton henley shirt with bright white track pants and white sneakers
 a three-piece suit with a waistcoat with a crisp white dress shirt and no tie, collar open
 cycling bib shorts with a jersey and black training shoes
-a mechanic's coveralls with a name patch
+a mechanic's coveralls with a name patch reading "__name_first__"
 a lab coat over a shirt and tie and steel-toe work boots
 a loose faded white soft cotton crew-neck t-shirt with mid-wash straight-leg jeans and black sneakers
 a relaxed-fit washed black checked cotton crew-neck t-shirt with dark indigo bootcut jeans and comfortable walking shoes
@@ -739,7 +739,7 @@ a cobalt blue ribbed-knit turtleneck with charcoal grey dress trousers and black
 an oversized soft white textured jersey cotton crew-neck t-shirt with washed black dress trousers and white sneakers
 a faded black wool cable-knit sweater with off-white sweatpants under a tan leather jacket
 a relaxed-fit ink blue ribbed cotton long-sleeve tee with mid-wash straight-leg jeans and loafers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a relaxed-fit lavender plaid performance knit polo shirt with brick red chinos under a red quilted vest and white sneakers
 an oversized black jersey cotton crew-neck t-shirt with mid grey athletic shorts under a light grey puffer jacket
 a slim-fit marled grey soft cotton crew-neck t-shirt with soft white chinos and running shoes
@@ -761,7 +761,7 @@ a khaki merino wool turtleneck with mid-wash straight-leg jeans and leather boot
 a navy chambray oxford button-down shirt with dark indigo slim jeans and black sneakers
 a tomato red jersey cotton crew-neck t-shirt with midnight blue corduroy pants under a navy wool overcoat and slip-on shoes
 a slim-fit jet black soft cotton graphic tee with a printed design with faded white chinos and running shoes
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a navy gingham fleece sweatshirt with army green track pants under a navy parka and canvas sneakers
 a tan fleece hoodie with steel blue sweatpants and white sneakers
 a relaxed-fit emerald green merino wool quarter-zip pullover with mid-wash slim jeans under a powder blue puffer jacket
@@ -966,7 +966,7 @@ a slim-fit camel cotton short-sleeve button-up shirt with mid-wash slim jeans un
 a cream-white chambray oxford button-down shirt with mid grey joggers and loafers
 a pale yellow cotton poplin oxford button-down shirt with light grey khakis
 a running vest and short split shorts and grey sneakers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a fitted athletic t-shirt with training shorts and grey sneakers
 a rust brown plaid cotton poplin oxford button-down shirt with midnight blue track pants under a mid grey cardigan and work boots
 an army green rayon camp-collar shirt with faded blue relaxed jeans

@@ -89,7 +89,7 @@ A person dressed as a figure skater in a sexy masculine costume-shop style (ice)
 A person dressed as a fire mage in a sexy masculine costume-shop style (fantasy), with a red and orange robe with flame embroidery and a leather belt, a hood and boots, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with very deep brown skin
 A person dressed as a flamenco dancer in a sexy masculine costume-shop style (Spain), with a ruffled dress, a flower in the hair and heeled shoes, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with very deep brown skin
 A person dressed as a fleet pilot in a sexy masculine costume-shop style (sci-fi), with a teal flight suit with a vest, a flight helmet and boots, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with very deep brown skin
-A person dressed as a flight attendant in a sexy masculine costume-shop style (modern airline), with a tailored jacket and neckerchief with a name patch, trousers, a pillbox hat and court shoes, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with very deep brown skin
+A person dressed as a flight attendant in a sexy masculine costume-shop style (modern airline), with a tailored jacket and neckerchief with a name patch reading "__name_first__", trousers, a pillbox hat and court shoes, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with very deep brown skin
 A person dressed as a forest druid in a sexy masculine costume-shop style (fantasy), with a leafy robe with vines and antlers on the shoulders, an antler crown and bare feet, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with very deep brown skin
 A person dressed as a fortune-telling automaton in a sexy masculine costume-shop style (fair), with a velvet jacket with painted cheeks, trousers, a turban and shoes, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with very deep brown skin
 A person dressed as a freight pilot in a sexy masculine costume-shop style (sci-fi), with a leather jacket over a loose shirt, trousers and boots, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with very deep brown skin
@@ -127,7 +127,7 @@ A person dressed as a professor in a sexy masculine costume-shop style (universi
 A person dressed as a reenactor of a Civil War soldier in a sexy masculine costume-shop style (field), with a wool sack coat, wool trousers, a kepi and brogans, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with very deep brown skin
 A person dressed as a refuse collector in a sexy masculine costume-shop style (city), with a high-visibility jacket and gloves, work trousers and boots, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with very deep brown skin
 A person dressed as a rogue AI hacker in a sexy masculine costume-shop style (cyberpunk), with a hoodie with circuit patterns, trousers, a mask and sneakers, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with very deep brown skin
-A person dressed as a roller derby skater in a sexy masculine costume-shop style (rink), with a number jersey with a helmet, fishnets and shorts, a helmet and roller skates, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with very deep brown skin
+A person dressed as a roller derby skater in a sexy masculine costume-shop style (rink), with a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with very deep brown skin
 A person dressed as a sea shanty sailor in a sexy masculine costume-shop style (18th century), with a striped shirt with a neckerchief and a short jacket, slops, a knitted cap and bare feet, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with very deep brown skin
 A person dressed as a skateboarder in a sexy masculine costume-shop style (park), with a baggy T-shirt, baggy trousers, a cap and skate shoes, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with very deep brown skin
 A person dressed as a small-folk adventurer in a sexy masculine costume-shop style (fantasy), with a green waistcoat, short trousers and bare feet, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with very deep brown skin
@@ -164,7 +164,7 @@ A shirt with headset and a lanyard, trousers, shoes, the full outfit of an air t
 A short bolero jacket, embroidered trousers, a wide sombrero, boots, the full outfit of a vaquero in a sexy masculine costume-shop style, with very deep brown skin
 A short top, trousers, a flower lei, the full outfit of a Hawaiian hula dancer in a sexy masculine costume-shop style, with very deep brown skin
 A silver painted bodysuit, the full outfit of a human statue in a sexy masculine costume-shop style, with very deep brown skin
-A singlet with a number, running shorts, a cap, running shoes, the full outfit of a marathon runner in a sexy masculine costume-shop style, with very deep brown skin
+A singlet with the number "__name_jersey_number__", running shorts, a cap, running shoes, the full outfit of a marathon runner in a sexy masculine costume-shop style, with very deep brown skin
 A sleeveless sequined top, stretchy trousers, a full-face mask, wrestling boots, the full outfit of a masked wrestler in a sexy masculine costume-shop style, with very deep brown skin
 A sparkling bodysuit, the full outfit of a human pretzel contortionist in a sexy masculine costume-shop style, with very deep brown skin
 A spiked black armour with a long cape, a horned helm, boots, the full outfit of an evil overlord in a sexy masculine costume-shop style, with very deep brown skin
@@ -179,7 +179,7 @@ A waistcoat and bow tie, black trousers, shoes, the full outfit of a casino crou
 A white and gold robe with a horned crown, a crown, sandals, the full outfit of a spirit shrine guardian in a sexy masculine costume-shop style, with very deep brown skin
 A white jacket with a hat, checked trousers, a cap, clogs, the full outfit of a chocolatier in a sexy masculine costume-shop style, with very deep brown skin
 A white kimono top with a long scarf, a red hakama, sandals, the full outfit of a shrine maiden-style priest in a sexy masculine costume-shop style, with very deep brown skin
-A white lab coat over a shirt with a name patch, dark trousers, black shoes, the full outfit of a pharmacist in a sexy masculine costume-shop style, with very deep brown skin
+A white lab coat over a shirt with a name patch reading "__name_first__", dark trousers, black shoes, the full outfit of a pharmacist in a sexy masculine costume-shop style, with very deep brown skin
 A white shirt with wide sleeves and a short embroidered jacket, a white pleated kilt-skirt with white tights, a red cap with a long tassel, red clogs with black pom-poms, the full outfit of an Evzone in a sexy masculine costume-shop style, with very deep brown skin
 A wide embroidered boubou, a cap, sandals, the full outfit of a West African griot in a sexy masculine costume-shop style, with very deep brown skin
 A windbreaker, cargo trousers, a baseball cap, boots, the full outfit of a hot-air balloon pilot in a sexy masculine costume-shop style, with very deep brown skin
@@ -268,7 +268,7 @@ a barista in a sexy masculine costume-shop style (café), in a canvas apron over
 a battle mage in a sexy masculine costume-shop style (fantasy), in a chest plate over a robe with a rune sash and trousers and boots, with very deep brown skin
 a beast tamer in a sexy masculine costume-shop style (fantasy), in a fur vest with claw necklaces and leather trousers and boots, with very deep brown skin
 a beekeeper in a sexy masculine costume-shop style (apiary), in a white protective suit with a veiled hat and gloves and a veiled hat, with very deep brown skin
-a bell ringer in a sexy masculine costume-shop style, dressed in a jumper with the tower name with trousers, with very deep brown skin
+a bell ringer in a sexy masculine costume-shop style, dressed in a jumper with the name "__name_town__" printed across it with trousers, with very deep brown skin
 a birdwatcher in a sexy masculine costume-shop style (nature), wearing a khaki vest with binoculars, trousers, a bucket hat and boots, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with very deep brown skin
 a bishop in a sexy masculine costume-shop style (church), wearing a purple cassock with a cope and a pectoral cross, a tall mitre and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with very deep brown skin
 a black knight in a sexy masculine costume-shop style, dressed in blackened plate armour with a tattered cape, with very deep brown skin
@@ -373,7 +373,7 @@ a horned noble in a sexy masculine costume-shop style (fantasy), in a crimson ve
 a hospital nurse in a sexy masculine costume-shop style (modern ward), wearing a colourful scrub top with an ID patch and a stethoscope round the neck, scrub trousers and white trainers, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist and carrying a pen light, with very deep brown skin
 a hot dog costume wearer in a sexy masculine costume-shop style (party), wearing a foam hot dog suit, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with very deep brown skin
 a hotel bellhop in a sexy masculine costume-shop style, dressed in a short red jacket with gold braid with trousers with a stripe, with very deep brown skin
-a housekeeper in a sexy masculine costume-shop style, dressed in a tunic with a name patch with trousers, with very deep brown skin
+a housekeeper in a sexy masculine costume-shop style, dressed in a tunic with a name patch reading "__name_first__" with trousers, with very deep brown skin
 a human cannonball in a sexy masculine costume-shop style (circus), in a shiny silver jumpsuit and a helmet, with very deep brown skin
 a human taco costume wearer in a sexy masculine costume-shop style (party), wearing a foam taco suit, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with very deep brown skin
 a jockey in a sexy masculine costume-shop style (racecourse), wearing silk racing colours, white breeches, a helmet cover and tall boots, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with very deep brown skin
@@ -405,7 +405,7 @@ a masked apprentice hero in a sexy masculine costume-shop style, dressed in a br
 a masked crime boss in a sexy masculine costume-shop style, dressed in a sharp white suit with a mask, with very deep brown skin
 a mecha pilot in a flight suit in a sexy masculine costume-shop style (anime-inspired), in a padded suit with armour pads and boots, with very deep brown skin
 a mecha pilot in a sexy masculine costume-shop style (cosplay), in a bodysuit with armour pads and a helmet, with very deep brown skin
-a mechanic in a sexy masculine costume-shop style (garage), in an oil-stained coverall with a name patch and a cap, with very deep brown skin
+a mechanic in a sexy masculine costume-shop style (garage), in an oil-stained coverall with a name patch reading "__name_first__" and a cap, with very deep brown skin
 a medieval jester in a sexy masculine costume-shop style (Europe), in a patchwork tunic and tights and curled shoes, with very deep brown skin
 a medieval king in a sexy masculine costume-shop style (Europe), wearing a fur-lined robe over a tunic, a crown and boots, a sexy sleeveless version with bare arms and chest, fitted trousers and boots and carrying a sceptre, with very deep brown skin
 a medieval knight in a sexy masculine costume-shop style (Europe), in a mail hauberk with a heraldic surcoat and plate armour and a great helm, with very deep brown skin

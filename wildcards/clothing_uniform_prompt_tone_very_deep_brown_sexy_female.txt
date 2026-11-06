@@ -27,7 +27,7 @@ A heavy blast suit, a blast helmet with a visor, heavy boots, the full outfit of
 A heavy mail coat with a fur mantle, trousers, a horned crown, boots, the full outfit of a dwarf king in a sexy feminine costume-shop style, with very deep brown skin
 A hessian sack, the full outfit of a potato sack racer in a sexy feminine costume-shop style, with very deep brown skin
 A jaguar-skin suit, a jaguar-head helmet, sandals, the full outfit of an Aztec jaguar warrior in a sexy feminine costume-shop style, with very deep brown skin
-A jumper with the tower name, trousers, shoes, the full outfit of a bell ringer in a sexy feminine costume-shop style, with very deep brown skin
+A jumper with the name "__name_town__" printed across it, trousers, shoes, the full outfit of a bell ringer in a sexy feminine costume-shop style, with very deep brown skin
 A lace dress with cracked porcelain makeup, ringlets, the full outfit of a possessed doll in a sexy feminine costume-shop style, with very deep brown skin
 A lamellar armour over a quilted coat, trousers, a fur-trimmed helmet, felt boots, the full outfit of a Mongol horse archer in a sexy feminine costume-shop style, with very deep brown skin
 A leather jacket over a loose shirt, trousers, boots, the full outfit of a freight pilot in a sexy feminine costume-shop style, with very deep brown skin
@@ -339,7 +339,7 @@ a fire mage in a sexy feminine costume-shop style (fantasy), wearing a red and o
 a firefighter in a sexy feminine costume-shop style (modern), in a heavy turnout coat with reflective bands and braces and fire-resistant overtrousers and steel-toed boots, with very deep brown skin
 a fisherman in a sexy feminine costume-shop style (North Atlantic), in a thick Aran sweater with an oilskin smock and waders and rubber boots, with very deep brown skin
 a flamenco dancer in a sexy feminine costume-shop style (Spain), wearing a ruffled dress, a flower in the hair and heeled shoes, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with very deep brown skin
-a flight attendant in a sexy feminine costume-shop style, dressed in a tailored jacket and neckerchief with a name patch with a pencil skirt, with very deep brown skin
+a flight attendant in a sexy feminine costume-shop style, dressed in a tailored jacket and neckerchief with a name patch reading "__name_first__" with a pencil skirt, with very deep brown skin
 a florist in a sexy feminine costume-shop style, dressed in a green apron over a blouse with trousers, with very deep brown skin
 a football goalkeeper in a sexy feminine costume-shop style, dressed in a long-sleeved padded jersey and gloves with shorts, with very deep brown skin
 a forester in a sexy feminine costume-shop style, dressed in a plaid shirt with chainsaw-protective chaps with work trousers, with very deep brown skin
@@ -374,7 +374,7 @@ a horned noble in a sexy feminine costume-shop style, dressed in a crimson velve
 a hot dog costume wearer in a sexy feminine costume-shop style, dressed in a foam hot dog suit, with very deep brown skin
 a hot-air balloon pilot in a sexy feminine costume-shop style (ballooning), wearing a windbreaker, cargo trousers, a baseball cap and boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with very deep brown skin
 a hotel bellhop in a sexy feminine costume-shop style (1930s), wearing a short red jacket with gold braid, trousers with a stripe, a pillbox hat with a chin strap and black shoes, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels, with very deep brown skin
-a housekeeper in a sexy feminine costume-shop style (hotel), in a tunic with a name patch and trousers and comfortable shoes, with very deep brown skin
+a housekeeper in a sexy feminine costume-shop style (hotel), in a tunic with a name patch reading "__name_first__" and trousers and comfortable shoes, with very deep brown skin
 a human cannonball in a sexy feminine costume-shop style, dressed in a shiny silver jumpsuit, with very deep brown skin
 a human taco costume wearer in a sexy feminine costume-shop style, dressed in a foam taco suit, with very deep brown skin
 a jack-o'-lantern in a sexy feminine costume-shop style (folklore), in a pumpkin costume and a pumpkin head, with very deep brown skin
@@ -402,7 +402,7 @@ a mad musician in a sexy feminine costume-shop style, dressed in a patchwork tai
 a mad scientist in a sexy feminine costume-shop style (sci-fi), in a stained lab coat with goggles and goggles, with very deep brown skin
 a magical swordsmith in a sexy feminine costume-shop style, dressed in a white tunic and gloves, with very deep brown skin
 a magical-heroine-style cosplayer in a sexy feminine costume-shop style (cosplay), in a ruffled bodice with a big bow and a hair ribbon, with very deep brown skin
-a marathon runner in a sexy feminine costume-shop style (race), in a singlet with a number and running shorts and running shoes, with very deep brown skin
+a marathon runner in a sexy feminine costume-shop style (race), in a singlet with the number "__name_jersey_number__" and running shorts and running shoes, with very deep brown skin
 a marching band member in a sexy feminine costume-shop style (parade), in a braided tunic with a plume and trousers and boots, with very deep brown skin
 a mariachi musician in a sexy feminine costume-shop style (Mexico), in a short jacket with silver buttons and a wide sombrero, with very deep brown skin
 a mascot character in a sexy feminine costume-shop style, dressed in a huge furry suit, with very deep brown skin
@@ -410,7 +410,7 @@ a masked apprentice hero in a sexy feminine costume-shop style (superhero), in a
 a masked ball guest in a sexy feminine costume-shop style (gothic), wearing a brocade coat with a half mask, breeches, a plumed hat and shoes, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with very deep brown skin
 a masked crime boss in a sexy feminine costume-shop style (villain), in a sharp white suit with a mask and shoes, with very deep brown skin
 a mecha pilot in a flight suit in a sexy feminine costume-shop style (anime-inspired), in a padded suit with armour pads and boots, with very deep brown skin
-a mechanic in a sexy feminine costume-shop style (garage), in an oil-stained coverall with a name patch and a cap, with very deep brown skin
+a mechanic in a sexy feminine costume-shop style (garage), in an oil-stained coverall with a name patch reading "__name_first__" and a cap, with very deep brown skin
 a medieval jester in a sexy feminine costume-shop style (Europe), in a patchwork tunic and a hat with bells, with very deep brown skin
 a medieval king in a sexy feminine costume-shop style (Europe), wearing a fur-lined robe over a tunic, a crown and boots, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels, with very deep brown skin
 a medieval knight in a sexy feminine costume-shop style (Europe), wearing a mail hauberk with a heraldic surcoat and plate armour, a great helm and armoured boots, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings, with very deep brown skin
@@ -441,7 +441,7 @@ a paramedic in a sexy feminine costume-shop style (emergency services), wearing 
 a paratrooper in a sexy feminine costume-shop style, dressed in a camouflage smock, webbing and a parachute harness with baggy trousers, with very deep brown skin
 a park ranger in a sexy feminine costume-shop style (national park), wearing a green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels, with very deep brown skin
 a patterned-haori swordsperson in a sexy feminine costume-shop style (anime-inspired), wearing a patterned haori over a plain kimono, trousers and sandals, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels and carrying a sword, with very deep brown skin
-a pharmacist in a sexy feminine costume-shop style (pharmacy), in a white lab coat over a shirt with a name patch and dark trousers and black shoes, with very deep brown skin
+a pharmacist in a sexy feminine costume-shop style (pharmacy), in a white lab coat over a shirt with a name patch reading "__name_first__" and dark trousers and black shoes, with very deep brown skin
 a phoenix in a sexy feminine costume-shop style, dressed in a feathered flame costume, with very deep brown skin
 a pirate crew member in a sexy feminine costume-shop style (pirate), in a laced bodice with a blouse and a patched skirt and boots, with very deep brown skin
 a pit crew mechanic in a sexy feminine costume-shop style (racing), wearing a fireproof overall, a helmet and boots, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels, with very deep brown skin
@@ -468,7 +468,7 @@ a robot in a sexy feminine costume-shop style (sci-fi), in a boxy silver suit ma
 a rock climber in a sexy feminine costume-shop style, dressed in a chalk-dusted vest with climbing trousers, with very deep brown skin
 a rodeo cowboy in a sexy feminine costume-shop style (rodeo), in a bright shirt with a protective vest and chaps over jeans and boots, with very deep brown skin
 a rogue AI hacker in a sexy feminine costume-shop style (cyberpunk), in a hoodie with circuit patterns and a mask, with very deep brown skin
-a roller derby skater in a sexy feminine costume-shop style (rink), wearing a number jersey with a helmet, fishnets and shorts, a helmet and roller skates, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with very deep brown skin
+a roller derby skater in a sexy feminine costume-shop style (rink), wearing a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with very deep brown skin
 a rugby player in a sexy feminine costume-shop style, dressed in a hooped jersey with a padded collar with shorts, with very deep brown skin
 a safari suit wearer in a sexy feminine costume-shop style (1970s), wearing a short-sleeved belted safari jacket with four pockets, matching shorts and sandals with long socks, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels, with very deep brown skin
 a saloon barkeep in a sexy feminine costume-shop style, dressed in a striped shirt with sleeve garters and a vest with trousers, with very deep brown skin

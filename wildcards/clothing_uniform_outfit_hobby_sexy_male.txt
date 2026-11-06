@@ -8,7 +8,7 @@ A flannel shirt and a fleece, trousers, a beanie, boots, the full outfit of a ca
 A foam armour over a tunic, trousers, a foam helmet, boots, the full outfit of a LARP warrior in a sexy masculine costume-shop style
 A handmade armour top with a sash, a wig, boots, the full outfit of a cosplayer in a convention hall in a sexy masculine costume-shop style
 A high-visibility vest and headphones, trousers, a cap, boots, the full outfit of a metal detectorist in a sexy masculine costume-shop style
-A jumper with the tower name, trousers, shoes, the full outfit of a bell ringer in a sexy masculine costume-shop style
+A jumper with the name "__name_town__" printed across it, trousers, shoes, the full outfit of a bell ringer in a sexy masculine costume-shop style
 A khaki vest with binoculars, trousers, a bucket hat, boots, the full outfit of a birdwatcher in a sexy masculine costume-shop style
 A lightweight shell jacket, hiking trousers, a sun hat, boots, the full outfit of a hiker in a sexy masculine costume-shop style
 A linen tunic with a belt pouch, hose, a hood, shoes, the full outfit of a reenactor of a medieval market trader in a sexy masculine costume-shop style
@@ -16,7 +16,7 @@ A number jersey with a helmet, fishnets and shorts, a helmet, roller skates, the
 A padded jumper, shorts, a helmet, trainers, the full outfit of a cheese rolling competitor in a sexy masculine costume-shop style
 A person dressed as a LARP warrior in a sexy masculine costume-shop style (woods), with a foam armour over a tunic, trousers, a foam helmet and boots, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves
 A person dressed as a Tour de France spectator in a sexy masculine costume-shop style (roadside), with a polka-dot costume and a flag and a cap, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves
-A person dressed as a bell ringer in a sexy masculine costume-shop style (church), with a jumper with the tower name, trousers and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers
+A person dressed as a bell ringer in a sexy masculine costume-shop style (church), with a jumper with the name "__name_town__" printed across it, trousers and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers
 A person dressed as a birdwatcher in a sexy masculine costume-shop style (nature), with a khaki vest with binoculars, trousers, a bucket hat and boots, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves
 A person dressed as a board game night host in a sexy masculine costume-shop style (home), with a wizard robe over a hoodie, jeans, a pointed hat and slippers, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers
 A person dressed as a camper in a sexy masculine costume-shop style (forest), with a flannel shirt and a fleece, trousers, a beanie and boots, a sexy sleeveless version with bare arms and chest, fitted trousers and boots
@@ -39,7 +39,7 @@ A person dressed as a quilter in a sexy masculine costume-shop style (home), wit
 A person dressed as a reenactor of a Civil War soldier in a sexy masculine costume-shop style (field), with a wool sack coat, wool trousers, a kepi and brogans, a sexy sleeveless version with bare arms and chest, fitted trousers and boots
 A person dressed as a reenactor of a Roman soldier in a sexy masculine costume-shop style (field), with a red tunic with armour, a helmet and sandals, a sexy sleeveless version with bare arms and chest, fitted trousers and boots
 A person dressed as a reenactor of a medieval market trader in a sexy masculine costume-shop style (fair), with a linen tunic with a belt pouch, hose, a hood and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers
-A person dressed as a roller derby skater in a sexy masculine costume-shop style (rink), with a number jersey with a helmet, fishnets and shorts, a helmet and roller skates, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves
+A person dressed as a roller derby skater in a sexy masculine costume-shop style (rink), with a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves
 A person dressed as a sauna-goer in a sexy masculine costume-shop style (Finland), with a felt hat and a towel and a felt hat, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers
 A person dressed as a sculptor in a sexy masculine costume-shop style (studio), with a dusty apron over a shirt, trousers and boots, a sexy sleeveless version with bare arms and chest, fitted trousers and boots
 A person dressed as a skateboarder in a sexy masculine costume-shop style (park), with a baggy T-shirt, baggy trousers, a cap and skate shoes, a sexy sleeveless version with bare arms and chest, fitted trousers and boots
@@ -75,10 +75,10 @@ a Tour de France spectator in a sexy masculine costume-shop style (roadside), in
 a Tour de France spectator in a sexy masculine costume-shop style (roadside), wearing a polka-dot costume and a flag and a cap, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves
 a Tour de France spectator in a sexy masculine costume-shop style (roadside), wearing a polka-dot costume and a flag and a cap, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves and carrying a flag
 a Tour de France spectator in a sexy masculine costume-shop style, dressed in a polka-dot costume and a flag
-a bell ringer in a sexy masculine costume-shop style (church), in a jumper with the tower name and trousers and shoes
-a bell ringer in a sexy masculine costume-shop style (church), wearing a jumper with the tower name, trousers and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers
-a bell ringer in a sexy masculine costume-shop style (church), wearing a jumper with the tower name, trousers and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers and carrying a bell rope
-a bell ringer in a sexy masculine costume-shop style, dressed in a jumper with the tower name with trousers
+a bell ringer in a sexy masculine costume-shop style (church), in a jumper with the name "__name_town__" printed across it and trousers and shoes
+a bell ringer in a sexy masculine costume-shop style (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers
+a bell ringer in a sexy masculine costume-shop style (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers and carrying a bell rope
+a bell ringer in a sexy masculine costume-shop style, dressed in a jumper with the name "__name_town__" printed across it with trousers
 a birdwatcher in a sexy masculine costume-shop style (nature), in a khaki vest with binoculars and a bucket hat
 a birdwatcher in a sexy masculine costume-shop style (nature), in a khaki vest with binoculars and trousers and boots
 a birdwatcher in a sexy masculine costume-shop style (nature), wearing a khaki vest with binoculars, trousers, a bucket hat and boots, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves
@@ -185,10 +185,10 @@ a reenactor of a medieval market trader in a sexy masculine costume-shop style (
 a reenactor of a medieval market trader in a sexy masculine costume-shop style (fair), wearing a linen tunic with a belt pouch, hose, a hood and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers
 a reenactor of a medieval market trader in a sexy masculine costume-shop style (fair), wearing a linen tunic with a belt pouch, hose, a hood and shoes, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers and carrying a basket
 a reenactor of a medieval market trader in a sexy masculine costume-shop style, dressed in a linen tunic with a belt pouch with hose
-a roller derby skater in a sexy masculine costume-shop style (rink), in a number jersey with a helmet and a helmet
-a roller derby skater in a sexy masculine costume-shop style (rink), in a number jersey with a helmet and fishnets and shorts and roller skates
-a roller derby skater in a sexy masculine costume-shop style (rink), wearing a number jersey with a helmet, fishnets and shorts, a helmet and roller skates, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves
-a roller derby skater in a sexy masculine costume-shop style, dressed in a number jersey with a helmet with fishnets and shorts
+a roller derby skater in a sexy masculine costume-shop style (rink), in a jersey with the number "__name_jersey_number__" and a helmet and a helmet
+a roller derby skater in a sexy masculine costume-shop style (rink), in a jersey with the number "__name_jersey_number__" and a helmet and fishnets and shorts and roller skates
+a roller derby skater in a sexy masculine costume-shop style (rink), wearing a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves
+a roller derby skater in a sexy masculine costume-shop style, dressed in a jersey with the number "__name_jersey_number__" and a helmet with fishnets and shorts
 a sauna-goer in a sexy masculine costume-shop style (Finland), in a felt hat and a towel and a felt hat
 a sauna-goer in a sexy masculine costume-shop style (Finland), wearing a felt hat and a towel and a felt hat, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers
 a sauna-goer in a sexy masculine costume-shop style (Finland), wearing a felt hat and a towel and a felt hat, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers and carrying a birch whisk

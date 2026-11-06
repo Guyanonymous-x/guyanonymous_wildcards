@@ -43,7 +43,7 @@ A person dressed as a jockey in a feminine cut (racecourse), silk racing colours
 A person dressed as a judoka in a feminine cut (dojo), which is a white judogi with a belt and bare feet, cut for a feminine figure with a fitted waist
 A person dressed as a karateka in a feminine cut (dojo), which is a white gi with a black belt, a headband and bare feet, cut for a feminine figure with a fitted waist
 A person dressed as a magician in a feminine cut (stage), which is a tailcoat with a cape, trousers, a top hat and polished shoes, in a feminine cut with shaped seams and a flattering line
-A person dressed as a marathon runner in a feminine cut (race), with a singlet with a number, running shorts, a cap and running shoes, in a feminine cut with shaped seams and a flattering line
+A person dressed as a marathon runner in a feminine cut (race), with a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes, in a feminine cut with shaped seams and a flattering line
 A person dressed as a marching band member in a feminine cut (parade), with a braided tunic with a plume, trousers, a plumed shako and boots, cut for a feminine figure with a fitted waist
 A person dressed as a mime in a feminine cut (street), which is a striped long-sleeved shirt with suspenders, black trousers, a beret and shoes, in a feminine cut with shaped seams and a flattering line
 A person dressed as a mountaineer in a feminine cut (Himalayas), with a down jacket, insulated trousers, a helmet and goggles and mountaineering boots, tailored in a feminine cut with a nipped-in waist
@@ -78,7 +78,7 @@ A satin robe, satin shorts, boxing boots, the full outfit of a boxer in a femini
 A sequined bodysuit, a feather plume, heels, the full outfit of a stage magician's assistant in a feminine cut
 A sequined dress, tights, skates, the full outfit of a figure skater in a feminine cut
 A short embroidered jacket in gold thread with a sash, tight breeches, a montera hat, slippers, the full outfit of a bullfighter in a feminine cut
-A singlet with a number, running shorts, a cap, running shoes, the full outfit of a marathon runner in a feminine cut
+A singlet with the number "__name_jersey_number__", running shorts, a cap, running shoes, the full outfit of a marathon runner in a feminine cut
 A sparkling leotard, bare feet, the full outfit of a gymnast in a feminine cut
 A sparkling leotard, slippers, the full outfit of an acrobat in a feminine cut
 A sparkling waistcoat, trousers, shoes, the full outfit of a sword swallower in a feminine cut
@@ -204,10 +204,10 @@ a magician in a feminine cut (stage), in a tailcoat with a cape and trousers and
 a magician in a feminine cut (stage), wearing a tailcoat with a cape, trousers, a top hat and polished shoes, in a feminine cut with shaped seams and a flattering line
 a magician in a feminine cut (stage), wearing a tailcoat with a cape, trousers, a top hat and polished shoes, in a feminine cut with shaped seams and a flattering line and carrying a wand
 a magician in a feminine cut, dressed in a tailcoat with a cape with trousers
-a marathon runner in a feminine cut (race), in a singlet with a number and a cap
-a marathon runner in a feminine cut (race), in a singlet with a number and running shorts and running shoes
-a marathon runner in a feminine cut (race), wearing a singlet with a number, running shorts, a cap and running shoes, in a feminine cut with shaped seams and a flattering line
-a marathon runner in a feminine cut, dressed in a singlet with a number with running shorts
+a marathon runner in a feminine cut (race), in a singlet with the number "__name_jersey_number__" and a cap
+a marathon runner in a feminine cut (race), in a singlet with the number "__name_jersey_number__" and running shorts and running shoes
+a marathon runner in a feminine cut (race), wearing a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes, in a feminine cut with shaped seams and a flattering line
+a marathon runner in a feminine cut, dressed in a singlet with the number "__name_jersey_number__" with running shorts
 a marching band member in a feminine cut (parade), in a braided tunic with a plume and a plumed shako
 a marching band member in a feminine cut (parade), in a braided tunic with a plume and trousers and boots
 a marching band member in a feminine cut (parade), wearing a braided tunic with a plume, trousers, a plumed shako and boots, cut for a feminine figure with a fitted waist

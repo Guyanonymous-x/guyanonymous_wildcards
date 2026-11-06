@@ -28,7 +28,7 @@ A high-visibility jacket with white gloves, dark trousers, a reflective cap, boo
 A huge furry suit, an oversized head, big feet, the full outfit of a mascot character in a masculine cut, with light tan skin
 A huge hide tunic, the full outfit of a giant in a masculine cut, with light tan skin
 A jumper and a flat cap, trousers, a flat cap, shoes, the full outfit of a London black cab driver in a masculine cut, with light tan skin
-A jumper with the tower name, trousers, shoes, the full outfit of a bell ringer in a masculine cut, with light tan skin
+A jumper with the name "__name_town__" printed across it, trousers, shoes, the full outfit of a bell ringer in a masculine cut, with light tan skin
 A khaki shirt, trousers, sandals, the full outfit of a tuk-tuk driver in a masculine cut, with light tan skin
 A lead apron over a scrub top, scrub trousers, clinical clogs, the full outfit of a radiologist in a masculine cut, with light tan skin
 A leather apron and rolled sleeves, hose, boots, the full outfit of a cooper in a masculine cut, with light tan skin
@@ -113,7 +113,7 @@ A person dressed as a morning suit wearer in a masculine cut (wedding), with a g
 A person dressed as a mummy in a masculine cut (horror), wrapped bandages, cut for a masculine frame with broad shoulders, with light tan skin
 A person dressed as a neon street samurai in a masculine cut (cyberpunk), with a glowing trench coat, trousers, a visor and boots, in a masculine cut with a roomy chest and shoulders, with light tan skin
 A person dressed as a paratrooper in a masculine cut (WWII-era), with a camouflage smock, webbing and a parachute harness, baggy trousers, a helmet and jump boots, in a masculine cut with a roomy chest and shoulders, with light tan skin
-A person dressed as a pharmacist in a masculine cut (pharmacy), with a white lab coat over a shirt with a name patch, dark trousers and black shoes, in a masculine cut with a roomy chest and shoulders, with light tan skin
+A person dressed as a pharmacist in a masculine cut (pharmacy), with a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes, in a masculine cut with a roomy chest and shoulders, with light tan skin
 A person dressed as a plague knight in a masculine cut (fantasy), dark plate armour with a beaked helmet, a beaked helm and armoured boots, in a masculine cut with a roomy chest and shoulders, with light tan skin
 A person dressed as a police officer in a masculine cut (modern), with a dark shirt with a patch, shoulder patches, an utility belt and a radio, dark trousers, a peaked cap and black boots, tailored in a masculine cut with a straight waist, with light tan skin
 A person dressed as a powered-armour engineer hero in a masculine cut (superhero), with a segmented metal armour suit with glowing vents, a helmet and boots, in a masculine cut with a roomy chest and shoulders, with light tan skin
@@ -176,7 +176,7 @@ A striped apron over a white coat, trousers, a straw boater, clogs, the full out
 A striped shirt, baggy trousers, a cap, wooden clogs, the full outfit of a Dutch klompen wearer in a masculine cut, with light tan skin
 A team shirt with a scarf, jeans, a bobble hat, trainers, the full outfit of a football supporter in a masculine cut, with light tan skin
 A torn wedding gown, a veil, the full outfit of a zombie bride in a masculine cut, with light tan skin
-A tunic with a name patch, trousers, comfortable shoes, the full outfit of a housekeeper in a masculine cut, with light tan skin
+A tunic with a name patch reading "__name_first__", trousers, comfortable shoes, the full outfit of a housekeeper in a masculine cut, with light tan skin
 An utility jumpsuit with a helmet, a helmet, boots, the full outfit of a kaiju handler in a masculine cut, with light tan skin
 A wetsuit, bare feet, the full outfit of a surfer in a masculine cut, with light tan skin
 A white coat over a shirt and tie, trousers, polished shoes, the full outfit of an optician in a masculine cut, with light tan skin
@@ -185,7 +185,7 @@ A white sheet with eye holes, the full outfit of a ghost in a masculine cut, wit
 A white shirt with wide sleeves and a short embroidered jacket, a white pleated kilt-skirt with white tights, a red cap with a long tassel, red clogs with black pom-poms, the full outfit of an Evzone in a masculine cut, with light tan skin
 A white silk shiromuku with a wide obi, a white hood, zori, the full outfit of a wedding kimono wearer in a masculine cut, with light tan skin
 An engineer's cap and a waistcoat, trousers, a striped cap, shoes, the full outfit of a model railway enthusiast in a masculine cut, with light tan skin
-An oil-stained coverall with a name patch, a cap, work boots, the full outfit of a mechanic in a masculine cut, with light tan skin
+An oil-stained coverall with a name patch reading "__name_first__", a cap, work boots, the full outfit of a mechanic in a masculine cut, with light tan skin
 Brass and leather armour with pipes, a brass helm, boots, the full outfit of a steam knight in a masculine cut, with light tan skin
 Ochre body paint, a headband, the full outfit of an Aboriginal elder in ceremonial body paint in a masculine cut, with light tan skin
 a 1920s flapper in a masculine cut (Jazz Age), in a beaded dress and heels, with light tan skin
@@ -339,7 +339,7 @@ a fisherman in a masculine cut (North Atlantic), wearing a thick Aran sweater wi
 a fishmonger in a masculine cut (market), wearing a rubber apron over a waterproof smock, waders, a hat and rubber boots, cut for a masculine frame with broad shoulders, with light tan skin
 a flamenco dancer in a masculine cut, dressed in a ruffled dress, with light tan skin
 a fleet pilot in a masculine cut, dressed in a teal flight suit with a vest, with light tan skin
-a flight attendant in a masculine cut (modern airline), wearing a tailored jacket and neckerchief with a name patch, trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders and carrying a trolley, with light tan skin
+a flight attendant in a masculine cut (modern airline), wearing a tailored jacket and neckerchief with a name patch reading "__name_first__", trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders and carrying a trolley, with light tan skin
 a florist in a masculine cut (shop), wearing a green apron over a blouse, trousers and clogs, tailored in a masculine cut with a straight waist and carrying a bouquet, with light tan skin
 a football goalkeeper in a masculine cut (soccer), wearing a long-sleeved padded jersey and gloves, shorts and boots, cut for a masculine frame with broad shoulders, with light tan skin
 a formal dance wearer in a masculine cut (ball), in a tailcoat with medals and shoes, with light tan skin
@@ -395,7 +395,7 @@ a mad queen in a masculine cut (villain), in a black and gold gown with a high c
 a mad scientist in a masculine cut (sci-fi), in a stained lab coat with goggles and goggles, with light tan skin
 a magical-heroine-style cosplayer in a masculine cut (cosplay), wearing a ruffled bodice with a big bow, trousers, a hair ribbon and boots, in a masculine cut with a roomy chest and shoulders, with light tan skin
 a magician in a masculine cut (stage), in a tailcoat with a cape and a top hat, with light tan skin
-a marathon runner in a masculine cut (race), in a singlet with a number and a cap, with light tan skin
+a marathon runner in a masculine cut (race), in a singlet with the number "__name_jersey_number__" and a cap, with light tan skin
 a marching band member in a masculine cut (parade), in a braided tunic with a plume and a plumed shako, with light tan skin
 a masked apprentice hero in a masculine cut (superhero), in a bright orange bodysuit with a small cape and goggles, with light tan skin
 a masked ball guest in a masculine cut (gothic), wearing a brocade coat with a half mask, breeches, a plumed hat and shoes, in a masculine cut with a roomy chest and shoulders, with light tan skin
@@ -471,7 +471,7 @@ a rock climber in a masculine cut (crag), wearing a chalk-dusted vest, climbing 
 a rodeo cowboy in a masculine cut, dressed in a bright shirt with a protective vest with chaps over jeans, with light tan skin
 a rogue AI hacker in a masculine cut (cyberpunk), wearing a hoodie with circuit patterns, trousers, a mask and sneakers, tailored in a masculine cut with a straight waist, with light tan skin
 a rogue in a masculine cut (fantasy), wearing a hooded leather jerkin, leather trousers, a hood and soft boots, cut for a masculine frame with broad shoulders and carrying daggers, with light tan skin
-a roller derby skater in a masculine cut (rink), wearing a number jersey with a helmet, fishnets and shorts, a helmet and roller skates, in a masculine cut with a roomy chest and shoulders, with light tan skin
+a roller derby skater in a masculine cut (rink), wearing a jersey with the number "__name_jersey_number__" and a helmet, fishnets and shorts, a helmet and roller skates, in a masculine cut with a roomy chest and shoulders, with light tan skin
 a safari suit wearer in a masculine cut, dressed in a short-sleeved belted safari jacket with four pockets with matching shorts, with light tan skin
 a sailor-collar uniform cosplayer in a masculine cut (cosplay), in a sailor-collar blouse with a neckerchief and trousers and loafers, with light tan skin
 a samurai in a masculine cut, dressed in a lacquered armour with a silk cord over a kimono with wide hakama, with light tan skin

@@ -1,0 +1,6 @@
+__bg_chess_board_prompt__
+__bg_chess_play_prompt__
+__bg_chess_play_prompt__
+__bg_chess_pieces_prompt__
+__bg_chess_box_prompt__
+__bg_chess_contents_prompt__

@@ -88,8 +88,8 @@ heavy smoke scattering colorful light
 heavy smoke scattering colorful light
 dramatic spotlight cone in darkness
 dramatic spotlight cone in darkness
-clear crisp light with zero haze
-clear crisp light with zero haze
+clear crisp light in crystal-clear air
+clear crisp light in crystal-clear air
 soft diffused light halo around lamps
 glowing sunbeams through tree canopy
 thick hazy light beam in rain
@@ -146,9 +146,9 @@ faint incense smoke in a beam through a skylight
 faint mist rising from the ground across the whole scene
 faint mist rising from the ground through an arched opening
 faint low ground fog behind the subject
-faint clear air with no haze from a doorway
-faint clear air with no haze through an arched opening
-faint clear air with no haze through a skylight
+faint crystal-clear air from a doorway
+faint crystal-clear air through an arched opening
+faint crystal-clear air through a skylight
 faint soft lens flare behind the subject
 faint soft lens flare through an arched opening
 faint anamorphic streak flare between the trees
@@ -182,9 +182,9 @@ moderate pollen floating in sunlight between the trees
 moderate rain-lit streaks from a window
 moderate rain-lit streaks through a skylight
 moderate snow-lit sparkle from the upper right
-moderate clear air with no haze around the subject
-moderate clear air with no haze over the water
-moderate clear air with no haze through an arched opening
+moderate crystal-clear air around the subject
+moderate crystal-clear air over the water
+moderate crystal-clear air through an arched opening
 moderate pin-sharp clear light from a doorway
 moderate soft lens flare from a window
 moderate glowing atmosphere around the subject
@@ -267,7 +267,7 @@ delicate incense smoke in a beam behind the subject
 delicate incense smoke in a beam from the upper right
 delicate incense smoke in a beam through an arched opening
 delicate low ground fog from the upper right
-delicate clear air with no haze between the trees
+delicate crystal-clear air between the trees
 delicate pin-sharp clear light in the background
 delicate pin-sharp clear light from a doorway
 delicate pin-sharp clear light over the water
@@ -303,7 +303,7 @@ dramatic mist rising from the ground behind the subject
 dramatic mist rising from the ground over the water
 dramatic low ground fog behind the subject
 dramatic low ground fog in the background
-dramatic clear air with no haze from the upper left
+dramatic crystal-clear air from the upper left
 dramatic pin-sharp clear light in the background
 dramatic pin-sharp clear light through a skylight
 dramatic soft lens flare from the upper right
@@ -389,9 +389,9 @@ thin smoke curling through a beam from a doorway
 thin low ground fog from the upper right
 thin low ground fog over the water
 thin low ground fog through a skylight
-thin clear air with no haze behind the subject
-thin clear air with no haze from a window
-thin clear air with no haze over the water
+thin crystal-clear air behind the subject
+thin crystal-clear air from a window
+thin crystal-clear air over the water
 thin pin-sharp clear light over the water
 thin anamorphic streak flare across the whole scene
 thin anamorphic streak flare from the upper left

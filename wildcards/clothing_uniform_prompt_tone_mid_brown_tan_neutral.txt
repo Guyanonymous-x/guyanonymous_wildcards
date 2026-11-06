@@ -78,7 +78,7 @@ A person dressed as a barber-surgeon (medieval Europe), which is a stained linen
 A person dressed as a barista (café), which is a canvas apron over a shirt, jeans, a flat cap and trainers, with mid-tone brown tanned skin
 A person dressed as a baseball catcher (baseball), which is a chest protector and shin guards, trousers, a mask and cleats, with mid-tone brown tanned skin
 A person dressed as a beekeeper (apiary), which is a white protective suit with a veiled hat and gloves, a veiled hat and boots, with mid-tone brown tanned skin
-A person dressed as a bell ringer (church), which is a jumper with the tower name, trousers and shoes, with mid-tone brown tanned skin
+A person dressed as a bell ringer (church), which is a jumper with the name "__name_town__" printed across it, trousers and shoes, with mid-tone brown tanned skin
 A person dressed as a bishop (church), which is a purple cassock with a cope and a pectoral cross, a tall mitre and shoes, with mid-tone brown tanned skin
 A person dressed as a bookseller (shop), which is a cardigan and a lanyard, trousers and shoes, with mid-tone brown tanned skin
 A person dressed as a business suit wearer (office), which is a navy two-piece suit jacket, a white shirt and a silk tie with a pocket square, suit trousers and oxford shoes, with mid-tone brown tanned skin
@@ -121,7 +121,7 @@ A person dressed as a mummy (horror), wrapped bandages, with mid-tone brown tann
 A person dressed as a mushroom forager (forest), which is a wicker basket and a coat, trousers, a hat and boots, with mid-tone brown tanned skin
 A person dressed as a mutant wanderer (wasteland), which is a ragged cloak over a tattered shirt, a hood and boots, with mid-tone brown tanned skin
 A person dressed as a patterned-haori swordsperson (anime-inspired), with a patterned haori over a plain kimono, trousers and sandals, with mid-tone brown tanned skin
-A person dressed as a pharmacist (pharmacy), which is a white lab coat over a shirt with a name patch, dark trousers and black shoes, with mid-tone brown tanned skin
+A person dressed as a pharmacist (pharmacy), which is a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes, with mid-tone brown tanned skin
 A person dressed as a pirate crew member (pirate), which is a laced bodice with a blouse, a patched skirt, a bandana and boots, with mid-tone brown tanned skin
 A person dressed as a pizza costume wearer (party), which is a round pizza suit, with mid-tone brown tanned skin
 A person dressed as a plague doctor (17th-century Europe), which is a long waxed black coat, a leather cape and gloves, dark trousers, a wide-brimmed hat and a beaked bird-shaped mask and dark boots, with mid-tone brown tanned skin
@@ -339,7 +339,7 @@ a fire mage (fantasy), wearing a red and orange robe with flame embroidery and a
 a firefighter (modern), wearing a heavy turnout coat with reflective bands and braces, fire-resistant overtrousers, a helmet with a visor and steel-toed boots, with mid-tone brown tanned skin
 a fisherman with a vest, dressed in a fishing vest covered in flies with waders, with mid-tone brown tanned skin
 a fishmonger (market), in a rubber apron over a waterproof smock and a hat, with mid-tone brown tanned skin
-a flight attendant (modern airline), in a tailored jacket and neckerchief with a name patch and a pillbox hat, with mid-tone brown tanned skin
+a flight attendant (modern airline), in a tailored jacket and neckerchief with a name patch reading "__name_first__" and a pillbox hat, with mid-tone brown tanned skin
 a florist (shop), wearing a green apron over a blouse, trousers and clogs, with mid-tone brown tanned skin
 a football goalkeeper, dressed in a long-sleeved padded jersey and gloves with shorts, with mid-tone brown tanned skin
 a football supporter (stadium), in a team shirt with a scarf and a bobble hat, with mid-tone brown tanned skin
@@ -370,7 +370,7 @@ a horned noble (fantasy), in a crimson velvet jacket and curved horns, with mid-
 a hospital nurse, dressed in a colourful scrub top with an ID patch and a stethoscope round the neck with scrub trousers, with mid-tone brown tanned skin
 a hot dog costume wearer, dressed in a foam hot dog suit, with mid-tone brown tanned skin
 a hotel bellhop, dressed in a short red jacket with gold braid with trousers with a stripe, with mid-tone brown tanned skin
-a housekeeper (hotel), wearing a tunic with a name patch, trousers and comfortable shoes, with mid-tone brown tanned skin
+a housekeeper (hotel), wearing a tunic with a name patch reading "__name_first__", trousers and comfortable shoes, with mid-tone brown tanned skin
 a human pretzel contortionist (circus), wearing a sparkling bodysuit, with mid-tone brown tanned skin
 a human statue, dressed in a silver painted bodysuit, with mid-tone brown tanned skin
 a human taco costume wearer (party), wearing a foam taco suit, with mid-tone brown tanned skin
@@ -399,13 +399,13 @@ a mad musician (stage), wearing a patchwork tailcoat, striped trousers, a top ha
 a mad scientist (sci-fi), in a stained lab coat with goggles and goggles, with mid-tone brown tanned skin
 a magical-heroine-style cosplayer (cosplay), wearing a ruffled bodice with a big bow, a frilled skirt, a hair ribbon and boots and carrying a wand, with mid-tone brown tanned skin
 a magician (stage), wearing a tailcoat with a cape, trousers, a top hat and polished shoes and carrying a wand, with mid-tone brown tanned skin
-a marathon runner (race), in a singlet with a number and running shorts and running shoes, with mid-tone brown tanned skin
+a marathon runner (race), in a singlet with the number "__name_jersey_number__" and running shorts and running shoes, with mid-tone brown tanned skin
 a marching band member (parade), in a braided tunic with a plume and a plumed shako, with mid-tone brown tanned skin
 a masked ball guest (gothic), in a brocade coat with a half mask and a plumed hat, with mid-tone brown tanned skin
 a masked crime boss (villain), in a sharp white suit with a mask and a mask, with mid-tone brown tanned skin
 a masked wrestler (lucha libre), in a sleeveless sequined top and a full-face mask, with mid-tone brown tanned skin
 a mecha pilot in a flight suit (anime-inspired), in a padded suit with armour pads and boots, with mid-tone brown tanned skin
-a mechanic, dressed in an oil-stained coverall with a name patch, with mid-tone brown tanned skin
+a mechanic, dressed in an oil-stained coverall with a name patch reading "__name_first__", with mid-tone brown tanned skin
 a medieval herald (Europe), wearing a tabard with a coat of arms, hose, a feathered cap and boots, with mid-tone brown tanned skin
 a medieval jester (Europe), wearing a patchwork tunic, tights, a hat with bells and curled shoes and carrying a rattle, with mid-tone brown tanned skin
 a medieval king (Europe), wearing a fur-lined robe over a tunic, a crown and boots and carrying a sceptre, with mid-tone brown tanned skin
@@ -459,7 +459,7 @@ a road crossing guard (road), in a high-visibility coat and a cap, with mid-tone
 a road sweeper (city), wearing a high-visibility jacket, trousers, a cap and boots and carrying a broom, with mid-tone brown tanned skin
 a rock climber (crag), wearing a chalk-dusted vest, climbing trousers, a helmet and climbing shoes and carrying a rope, with mid-tone brown tanned skin
 a rodeo cowboy (rodeo), in a bright shirt with a protective vest and a cowboy hat, with mid-tone brown tanned skin
-a roller derby skater, dressed in a number jersey with a helmet with fishnets and shorts, with mid-tone brown tanned skin
+a roller derby skater, dressed in a jersey with the number "__name_jersey_number__" and a helmet with fishnets and shorts, with mid-tone brown tanned skin
 a rugby player, dressed in a hooped jersey with a padded collar with shorts, with mid-tone brown tanned skin
 a safari suit wearer, dressed in a short-sleeved belted safari jacket with four pockets with matching shorts, with mid-tone brown tanned skin
 a sailor-collar uniform cosplayer (cosplay), in a sailor-collar blouse with a neckerchief and a pleated skirt and loafers, with mid-tone brown tanned skin

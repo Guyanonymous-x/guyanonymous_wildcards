@@ -106,7 +106,7 @@ A person dressed as a living chess piece in a sexy feminine costume-shop style (
 A person dressed as a lucha libre champion in a sexy feminine costume-shop style (wrestling), with a sequined cape over a vest, tights, a full-face mask and boots, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels, with golden olive skin
 A person dressed as a mascot character in a sexy feminine costume-shop style (sports), with a huge furry suit, an oversized head and big feet, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with golden olive skin
 A person dressed as a masked apprentice hero in a sexy feminine costume-shop style (superhero), with a bright orange bodysuit with a small cape, goggles and boots, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings, with golden olive skin
-A person dressed as a mechanic in a sexy feminine costume-shop style (garage), with an oil-stained coverall with a name patch, a cap and work boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with golden olive skin
+A person dressed as a mechanic in a sexy feminine costume-shop style (garage), with an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with golden olive skin
 A person dressed as a military band musician in a sexy feminine costume-shop style (ceremonial), with a scarlet tunic with white cross-belts, braid and aiguillettes, dark trousers with a stripe, a tall plumed hat and polished boots, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels, with golden olive skin
 A person dressed as a miller in a sexy feminine costume-shop style (medieval), with a dusty smock, trousers, a cloth cap and clogs, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings, with golden olive skin
 A person dressed as a mothman-style cryptid in a sexy feminine costume-shop style (folklore), with a dark furry suit with wings and red eyes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels, with golden olive skin
@@ -265,7 +265,7 @@ a barista in a sexy feminine costume-shop style (café), in a canvas apron over 
 a baseball catcher in a sexy feminine costume-shop style (baseball), in a chest protector and shin guards and trousers and cleats, with golden olive skin
 a beast tamer in a sexy feminine costume-shop style (fantasy), wearing a fur vest with claw necklaces, leather trousers, a feathered headband and boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with golden olive skin
 a beekeeper in a sexy feminine costume-shop style, dressed in a white protective suit with a veiled hat and gloves, with golden olive skin
-a bell ringer in a sexy feminine costume-shop style (church), wearing a jumper with the tower name, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels, with golden olive skin
+a bell ringer in a sexy feminine costume-shop style (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels, with golden olive skin
 a bishop in a sexy feminine costume-shop style (church), wearing a purple cassock with a cope and a pectoral cross, a tall mitre and shoes, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings, with golden olive skin
 a black knight in a sexy feminine costume-shop style (fantasy), in blackened plate armour with a tattered cape and boots, with golden olive skin
 a blue-coat staff officer in a sexy feminine costume-shop style (anime-inspired), in a blue military coat and trousers and boots, with golden olive skin
@@ -336,7 +336,7 @@ a firefighter in a sexy feminine costume-shop style (modern), wearing a heavy tu
 a fisherman with a vest in a sexy feminine costume-shop style (river), wearing a fishing vest covered in flies, waders, a hat with flies and boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots, with golden olive skin
 a flamenco dancer in a sexy feminine costume-shop style, dressed in a ruffled dress, with golden olive skin
 a fleet pilot in a sexy feminine costume-shop style, dressed in a teal flight suit with a vest, with golden olive skin
-a flight attendant in a sexy feminine costume-shop style, dressed in a tailored jacket and neckerchief with a name patch with a pencil skirt, with golden olive skin
+a flight attendant in a sexy feminine costume-shop style, dressed in a tailored jacket and neckerchief with a name patch reading "__name_first__" with a pencil skirt, with golden olive skin
 a florist in a sexy feminine costume-shop style (shop), in a green apron over a blouse and trousers and clogs, with golden olive skin
 a forest druid in a sexy feminine costume-shop style, dressed in a leafy robe with vines and antlers on the shoulders, with golden olive skin
 a fortune teller in a sexy feminine costume-shop style, dressed in a headscarf and a heavy shawl with jangling bracelets with a layered skirt, with golden olive skin
@@ -368,7 +368,7 @@ a highway raider in a sexy feminine costume-shop style (wasteland), wearing a le
 a hiker in a sexy feminine costume-shop style (trail), wearing a lightweight shell jacket, hiking trousers, a sun hat and boots, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels, with golden olive skin
 a horned noble in a sexy feminine costume-shop style (fantasy), in a crimson velvet jacket and trousers and boots, with golden olive skin
 a hospital nurse in a sexy feminine costume-shop style, dressed in a colourful scrub top with an ID patch and a stethoscope round the neck with scrub trousers, with golden olive skin
-a housekeeper in a sexy feminine costume-shop style (hotel), in a tunic with a name patch and trousers and comfortable shoes, with golden olive skin
+a housekeeper in a sexy feminine costume-shop style (hotel), in a tunic with a name patch reading "__name_first__" and trousers and comfortable shoes, with golden olive skin
 a human cannonball in a sexy feminine costume-shop style (circus), wearing a shiny silver jumpsuit, a helmet and boots, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings, with golden olive skin
 a human pretzel contortionist in a sexy feminine costume-shop style, dressed in a sparkling bodysuit, with golden olive skin
 a human statue in a sexy feminine costume-shop style (street), wearing a silver painted bodysuit, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings, with golden olive skin
@@ -394,7 +394,7 @@ a mad queen in a sexy feminine costume-shop style (villain), in a black and gold
 a mad scientist in a sexy feminine costume-shop style (sci-fi), in a stained lab coat with goggles and trousers and boots, with golden olive skin
 a magical-heroine-style cosplayer in a sexy feminine costume-shop style, dressed in a ruffled bodice with a big bow with a frilled skirt, with golden olive skin
 a magician in a sexy feminine costume-shop style (stage), in a tailcoat with a cape and a top hat, with golden olive skin
-a marathon runner in a sexy feminine costume-shop style (race), in a singlet with a number and a cap, with golden olive skin
+a marathon runner in a sexy feminine costume-shop style (race), in a singlet with the number "__name_jersey_number__" and a cap, with golden olive skin
 a marching band member in a sexy feminine costume-shop style (parade), in a braided tunic with a plume and a plumed shako, with golden olive skin
 a mariachi musician in a sexy feminine costume-shop style (Mexico), wearing a short jacket with silver buttons, tight trousers with silver studs, a wide sombrero and boots, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels, with golden olive skin
 a masked ball guest in a sexy feminine costume-shop style (gothic), in a brocade coat with a half mask and breeches and shoes, with golden olive skin
@@ -429,7 +429,7 @@ a paratrooper in a sexy feminine costume-shop style (WWII-era), in a camouflage 
 a park ranger in a sexy feminine costume-shop style (national park), wearing a green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels and carrying a field guide, with golden olive skin
 a pastry chef in a sexy feminine costume-shop style (bakery), in a white jacket with a small cravat and trousers and clogs, with golden olive skin
 a patterned-haori swordsperson in a sexy feminine costume-shop style (anime-inspired), wearing a patterned haori over a plain kimono, trousers and sandals, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels and carrying a sword, with golden olive skin
-a pharmacist in a sexy feminine costume-shop style (pharmacy), in a white lab coat over a shirt with a name patch and dark trousers and black shoes, with golden olive skin
+a pharmacist in a sexy feminine costume-shop style (pharmacy), in a white lab coat over a shirt with a name patch reading "__name_first__" and dark trousers and black shoes, with golden olive skin
 a physiotherapist in a sexy feminine costume-shop style (clinic), in a polo shirt with a clinic motif-free patch and a tape measure round the neck and athletic trousers and trainers, with golden olive skin
 a pirate captain in a sexy feminine costume-shop style (golden age of piracy), in a long embroidered coat with a sash and cross-belt and a feathered tricorn, with golden olive skin
 a pirate crew member in a sexy feminine costume-shop style (pirate), wearing a laced bodice with a blouse, a patched skirt, a bandana and boots, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels and carrying a flagon, with golden olive skin
@@ -455,7 +455,7 @@ a road sweeper in a sexy feminine costume-shop style (city), wearing a high-visi
 a rock climber in a sexy feminine costume-shop style (crag), in a chalk-dusted vest and climbing trousers and climbing shoes, with golden olive skin
 a rodeo cowboy in a sexy feminine costume-shop style (rodeo), in a bright shirt with a protective vest and chaps over jeans and boots, with golden olive skin
 a rogue AI hacker in a sexy feminine costume-shop style, dressed in a hoodie with circuit patterns with trousers, with golden olive skin
-a roller derby skater in a sexy feminine costume-shop style (rink), in a number jersey with a helmet and a helmet, with golden olive skin
+a roller derby skater in a sexy feminine costume-shop style (rink), in a jersey with the number "__name_jersey_number__" and a helmet and a helmet, with golden olive skin
 a rugby player in a sexy feminine costume-shop style, dressed in a hooped jersey with a padded collar with shorts, with golden olive skin
 a sailor in a dress uniform in a sexy feminine costume-shop style (navy), in a navy jumper with a white-striped sailor collar and neckerchief and bell-bottom trousers and black shoes, with golden olive skin
 a sailor-collar uniform cosplayer in a sexy feminine costume-shop style (cosplay), in a sailor-collar blouse with a neckerchief and a pleated skirt and loafers, with golden olive skin

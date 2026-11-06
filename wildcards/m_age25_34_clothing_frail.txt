@@ -73,7 +73,7 @@ a loose ink blue soft cotton crew-neck t-shirt with mid-wash relaxed jeans under
 a boxy bright white brushed cotton flannel shirt with jet black dress trousers and white sneakers
 a sport coat with contrasting trousers with a light blue dress shirt and a patterned tie with a tie clip and monk-strap shoes
 a golden yellow cotton henley shirt with faded red linen pants under a forest green blazer and loafers
-a mechanic's coveralls with a name patch and comfortable walking shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and comfortable walking shoes
 a canvas apron over a flannel shirt and jeans and slip-on shoes
 a faded black striped brushed cotton flannel shirt with dark indigo straight-leg jeans under a bright white hooded anorak and leather boots
 a camel jersey cotton crew-neck t-shirt with light-wash tapered jeans and leather boots
@@ -125,7 +125,7 @@ a loose marled grey textured cotton long-sleeve tee with mid-wash relaxed jeans 
 a relaxed-fit faded red oxford cotton oxford button-down shirt with faded white dress trousers and cushioned sneakers
 a jet black cotton fleece sweatshirt with tomato red chinos under a light-wash denim jacket and white sneakers
 __clothing_outfit_color__ __m_outfit_outerwear__ over a __clothing_outfit_color__ __m_outfit_casual_top__ and __m_outfit_casual_bottom__, work boots, a canvas tote, sporty casual outfit
-a mechanic's coveralls with a name patch and slip-on shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and slip-on shoes
 a black heavy cotton hoodie with mid-wash relaxed jeans and canvas sneakers
 a crisp white brushed cotton flannel shirt with dark indigo straight-leg jeans and work boots
 board shorts and a rash guard
@@ -950,7 +950,7 @@ a zip-up training jacket over a tee and joggers and comfortable walking shoes
 a white textured cotton crew-neck t-shirt with faded black track pants under a tan parka
 __clothing_outfit_pattern__ __m_outfit_casual_top__ with __clothing_outfit_material__ __m_outfit_casual_bottom__, high-top sneakers, workday casual style
 a faded blue cotton long-sleeve tee with light-wash straight-leg jeans and white sneakers
-a mechanic's coveralls with a name patch and slip-on shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and slip-on shoes
 a relaxed-fit navy wool cardigan with chocolate brown linen pants and leather boots
 a carpenter's tool belt over a tee and work pants and slip-on shoes
 a powder blue merino wool crewneck sweater with sage green work pants under a mid-wash denim jacket and black sneakers

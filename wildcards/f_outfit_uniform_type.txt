@@ -10,7 +10,7 @@ utilitarian fencing whites
 worn dance team uniform with epaulettes
 chef uniform
 neat airline pilot uniform
-ski instructor outfit with name tape
+ski instructor outfit with a name tape reading "__name_surname__"
 blazer-style uniform
 lab coat
 winter-weight gardener overalls
@@ -20,7 +20,7 @@ ceremonial pharmacist coat with rank insignia
 martial arts uniform
 summer-weight majorette uniform with rank insignia
 cabin crew scarf uniform with reflective strips
-factory worker uniform with name tape
+factory worker uniform with a name tape reading "__name_surname__"
 flight attendant uniform with rank insignia
 regulation majorette uniform
 office receptionist outfit with reflective strips
@@ -53,11 +53,11 @@ ballet practice outfit with a neat tie
 practical softball uniform
 crisp cadet uniform with polished buttons
 collared sailor uniform
-sailor-style school uniform with name tape
+sailor-style school uniform with a name tape reading "__name_surname__"
 rowing kit with rank insignia
 security guard uniform with a neat tie
 softball uniform with braided trim
-crisp lifeguard uniform with name tape
+crisp lifeguard uniform with a name tape reading "__name_surname__"
 practical golf club uniform
 cheerleader uniform
 neat factory worker uniform
@@ -104,7 +104,7 @@ blazer school uniform with patches
 cafe barista uniform
 neat park ranger uniform with reflective strips
 convertible sailor-blazer hybrid uniform
-hairdresser smock with name tape
+hairdresser smock with a name tape reading "__name_surname__"
 supermarket cashier uniform with patches
 courier uniform with braided trim
 formal lab coat
@@ -144,7 +144,7 @@ doctor's scrubs with shoulder patches
 French maid costume uniform with rank insignia
 graduation gown and cap with a lanyard
 school uniform
-utilitarian park ranger uniform with name tape
+utilitarian park ranger uniform with a name tape reading "__name_surname__"
 standard-issue nurse uniform
 neat soccer kit
 crisp librarian outfit
@@ -155,7 +155,7 @@ regulation running kit
 summer-weight beautician tunic with braided trim
 winter-weight Japanese school uniform
 worn dance team uniform with a lanyard
-vintage army fatigues with name tape
+vintage army fatigues with a name tape reading "__name_surname__"
 vintage bank teller uniform
 two-piece sailor uniform
 formal doctor's scrubs
@@ -195,12 +195,12 @@ lifeguard uniform with shoulder patches
 formal waitress uniform
 worn army fatigues
 flight attendant uniform
-tailored train conductor uniform with name tape
+tailored train conductor uniform with a name tape reading "__name_surname__"
 standard-issue Japanese school uniform
 practical French maid costume uniform
 ceremonial marching band uniform
 utilitarian graduation gown and cap
-worn factory worker uniform with name tape
+worn factory worker uniform with a name tape reading "__name_surname__"
 marching band uniform
 surgeon's scrubs with polished buttons
 ceremonial Japanese school uniform
@@ -213,14 +213,14 @@ supermarket cashier uniform with a matching cap
 utilitarian Korean school uniform
 warehouse vest outfit with rank insignia
 summer-weight academic robes
-vintage softball uniform with name tape
+vintage softball uniform with a name tape reading "__name_surname__"
 gym uniform
 dance team uniform with braided trim
 summer-weight hotel receptionist uniform with a lanyard
 military dress uniform with a lanyard
 park ranger uniform
 standard-issue swim team kit
-warehouse vest outfit with name tape
+warehouse vest outfit with a name tape reading "__name_surname__"
 standard-issue martial arts gi
 martial arts gi with shoulder patches
 formal graduation gown and cap
@@ -262,10 +262,10 @@ neat tennis whites
 basketball uniform
 modern naval dress whites
 French maid costume uniform with patches
-worn rugby kit with name tape
+worn rugby kit with a name tape reading "__name_surname__"
 librarian outfit
 doctor's scrubs with epaulettes
-vintage cruise ship officer uniform with name tape
+vintage cruise ship officer uniform with a name tape reading "__name_surname__"
 maid uniform
 office uniform
 waitress uniform
@@ -278,7 +278,7 @@ farm overalls with a matching cap
 crisp retail store uniform
 fencing whites with patches
 practical park ranger uniform
-park ranger uniform with name tape
+park ranger uniform with a name tape reading "__name_surname__"
 lacrosse uniform
 park ranger uniform with a neat tie
 worn construction hi-vis outfit with an utility belt

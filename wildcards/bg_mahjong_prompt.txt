@@ -1,0 +1,6 @@
+__bg_mahjong_board_prompt__
+__bg_mahjong_play_prompt__
+__bg_mahjong_play_prompt__
+__bg_mahjong_pieces_prompt__
+__bg_mahjong_box_prompt__
+__bg_mahjong_contents_prompt__

@@ -117,7 +117,7 @@ A person dressed as a kaiju costume wearer in a feminine cut (film), with a rubb
 A person dressed as a lobster costume wearer in a feminine cut (party), with a red lobster suit with claws, tailored in a feminine cut with a nipped-in waist, with light tan skin
 A person dressed as a lucha libre champion in a feminine cut (wrestling), with a sequined cape over a vest, tights, a full-face mask and boots, cut for a feminine figure with a fitted waist, with light tan skin
 A person dressed as a magical-heroine-style cosplayer in a feminine cut (cosplay), with a ruffled bodice with a big bow, a frilled skirt, a hair ribbon and boots, cut for a feminine figure with a fitted waist, with light tan skin
-A person dressed as a marathon runner in a feminine cut (race), with a singlet with a number, running shorts, a cap and running shoes, in a feminine cut with shaped seams and a flattering line, with light tan skin
+A person dressed as a marathon runner in a feminine cut (race), with a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes, in a feminine cut with shaped seams and a flattering line, with light tan skin
 A person dressed as a mariachi musician in a feminine cut (Mexico), with a short jacket with silver buttons, tight trousers with silver studs, a wide sombrero and boots, cut for a feminine figure with a fitted waist, with light tan skin
 A person dressed as a masked ball guest in a feminine cut (gothic), with a brocade coat with a half mask, breeches, a plumed hat and shoes, cut for a feminine figure with a fitted waist, with light tan skin
 A person dressed as a masked crime boss in a feminine cut (villain), with a sharp white suit with a mask, a mask and shoes, cut for a feminine figure with a fitted waist, with light tan skin
@@ -129,7 +129,7 @@ A person dressed as a mounted police in a feminine cut (ceremonial), with a scar
 A person dressed as a night vigilante in a feminine cut (superhero), with a charcoal hooded armoured jacket with a short cape, a half mask and boots, in a feminine cut with shaped seams and a flattering line, with light tan skin
 A person dressed as a ninja in a feminine cut (cosplay), which is a black wrap tunic, trousers, a hood and mask and split-toe shoes, tailored in a feminine cut with a nipped-in waist, with light tan skin
 A person dressed as a paratrooper in a feminine cut (WWII-era), with a camouflage smock, webbing and a parachute harness, baggy trousers, a helmet and jump boots, in a feminine cut with shaped seams and a flattering line, with light tan skin
-A person dressed as a pharmacist in a feminine cut (pharmacy), with a white lab coat over a shirt with a name patch, dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist, with light tan skin
+A person dressed as a pharmacist in a feminine cut (pharmacy), with a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist, with light tan skin
 A person dressed as a phoenix in a feminine cut (myth), which is a feathered flame costume and a feathered crest, tailored in a feminine cut with a nipped-in waist, with light tan skin
 A person dressed as a pirate crew member in a feminine cut (pirate), with a laced bodice with a blouse, a patched skirt, a bandana and boots, tailored in a feminine cut with a nipped-in waist, with light tan skin
 A person dressed as a pit crew mechanic in a feminine cut (racing), with a fireproof overall, a helmet and boots, tailored in a feminine cut with a nipped-in waist, with light tan skin
@@ -286,7 +286,7 @@ a barber-surgeon in a feminine cut (medieval Europe), in a stained linen apron o
 a barista in a feminine cut (café), wearing a canvas apron over a shirt, jeans, a flat cap and trainers, in a feminine cut with shaped seams and a flattering line and carrying a milk jug, with light tan skin
 a baseball catcher in a feminine cut (baseball), wearing a chest protector and shin guards, trousers, a mask and cleats, cut for a feminine figure with a fitted waist and carrying a mitt, with light tan skin
 a beast tamer in a feminine cut, dressed in a fur vest with claw necklaces with leather trousers, with light tan skin
-a bell ringer in a feminine cut (church), wearing a jumper with the tower name, trousers and shoes, tailored in a feminine cut with a nipped-in waist and carrying a bell rope, with light tan skin
+a bell ringer in a feminine cut (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, tailored in a feminine cut with a nipped-in waist and carrying a bell rope, with light tan skin
 a black knight in a feminine cut (fantasy), in blackened plate armour with a tattered cape and a closed helm, with light tan skin
 a blacksmith in a feminine cut (forge), in a leather apron over a sooty linen shirt and heavy trousers and work boots, with light tan skin
 a board game night host in a feminine cut (home), in a wizard robe over a hoodie and jeans and slippers, with light tan skin
@@ -342,7 +342,7 @@ a fire mage in a feminine cut (fantasy), in a red and orange robe with flame emb
 a firefighter in a feminine cut (modern), in a heavy turnout coat with reflective bands and braces and fire-resistant overtrousers and steel-toed boots, with light tan skin
 a flamenco dancer in a feminine cut (Spain), wearing a ruffled dress, a flower in the hair and heeled shoes, tailored in a feminine cut with a nipped-in waist and carrying castanets, with light tan skin
 a fleet pilot in a feminine cut (sci-fi), wearing a teal flight suit with a vest, a flight helmet and boots, tailored in a feminine cut with a nipped-in waist, with light tan skin
-a flight attendant in a feminine cut (modern airline), in a tailored jacket and neckerchief with a name patch and a pillbox hat, with light tan skin
+a flight attendant in a feminine cut (modern airline), in a tailored jacket and neckerchief with a name patch reading "__name_first__" and a pillbox hat, with light tan skin
 a florist in a feminine cut (shop), in a green apron over a blouse and trousers and clogs, with light tan skin
 a football supporter in a feminine cut (stadium), wearing a team shirt with a scarf, jeans, a bobble hat and trainers, cut for a feminine figure with a fitted waist, with light tan skin
 a forest druid in a feminine cut (fantasy), wearing a leafy robe with vines and antlers on the shoulders, an antler crown and bare feet, cut for a feminine figure with a fitted waist, with light tan skin
@@ -379,7 +379,7 @@ a hiker in a feminine cut (trail), wearing a lightweight shell jacket, hiking tr
 a horned noble in a feminine cut (fantasy), in a crimson velvet jacket and trousers and boots, with light tan skin
 a hospital nurse in a feminine cut (modern ward), in a colourful scrub top with an ID patch and a stethoscope round the neck and scrub trousers and white trainers, with light tan skin
 a hot-air balloon pilot in a feminine cut (ballooning), wearing a windbreaker, cargo trousers, a baseball cap and boots, tailored in a feminine cut with a nipped-in waist, with light tan skin
-a housekeeper in a feminine cut (hotel), in a tunic with a name patch and trousers and comfortable shoes, with light tan skin
+a housekeeper in a feminine cut (hotel), in a tunic with a name patch reading "__name_first__" and trousers and comfortable shoes, with light tan skin
 a human cannonball in a feminine cut, dressed in a shiny silver jumpsuit, with light tan skin
 a human pretzel contortionist in a feminine cut, dressed in a sparkling bodysuit, with light tan skin
 a human statue in a feminine cut (street), wearing a silver painted bodysuit, in a feminine cut with shaped seams and a flattering line, with light tan skin
@@ -415,7 +415,7 @@ a mascot character in a feminine cut (sports), wearing a huge furry suit, an ove
 a masked apprentice hero in a feminine cut, dressed in a bright orange bodysuit with a small cape, with light tan skin
 a masked wrestler in a feminine cut (lucha libre), in a sleeveless sequined top and stretchy trousers and wrestling boots, with light tan skin
 a mecha pilot in a flight suit in a feminine cut (anime-inspired), wearing a padded suit with armour pads, a helmet and boots, cut for a feminine figure with a fitted waist, with light tan skin
-a mechanic in a feminine cut (garage), in an oil-stained coverall with a name patch and work boots, with light tan skin
+a mechanic in a feminine cut (garage), in an oil-stained coverall with a name patch reading "__name_first__" and work boots, with light tan skin
 a medieval herald in a feminine cut (Europe), in a tabard with a coat of arms and hose and boots, with light tan skin
 a medieval knight in a feminine cut, dressed in a mail hauberk with a heraldic surcoat and plate armour, with light tan skin
 a medieval peasant in a feminine cut (Europe), wearing a rough linen tunic, trousers, a hood and rough shoes, in a feminine cut with shaped seams and a flattering line and carrying a rake, with light tan skin
@@ -471,7 +471,7 @@ a rock climber in a feminine cut (crag), wearing a chalk-dusted vest, climbing t
 a rodeo cowboy in a feminine cut (rodeo), in a bright shirt with a protective vest and chaps over jeans and boots, with light tan skin
 a rogue AI hacker in a feminine cut, dressed in a hoodie with circuit patterns with trousers, with light tan skin
 a rogue in a feminine cut (fantasy), in a hooded leather jerkin and a hood, with light tan skin
-a roller derby skater in a feminine cut (rink), in a number jersey with a helmet and a helmet, with light tan skin
+a roller derby skater in a feminine cut (rink), in a jersey with the number "__name_jersey_number__" and a helmet and a helmet, with light tan skin
 a safari suit wearer in a feminine cut (1970s), wearing a short-sleeved belted safari jacket with four pockets, matching shorts and sandals with long socks, cut for a feminine figure with a fitted waist, with light tan skin
 a sailor in a dress uniform in a feminine cut (navy), wearing a navy jumper with a white-striped sailor collar and neckerchief, bell-bottom trousers, a white sailor cap and black shoes, cut for a feminine figure with a fitted waist, with light tan skin
 a sailor-collar uniform cosplayer in a feminine cut, dressed in a sailor-collar blouse with a neckerchief with a pleated skirt, with light tan skin

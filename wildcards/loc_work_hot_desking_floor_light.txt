@@ -1,1 +1,1 @@
-uniform LED, no variation across the floor by design
+uniform LED

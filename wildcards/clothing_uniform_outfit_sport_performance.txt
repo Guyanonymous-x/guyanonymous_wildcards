@@ -43,7 +43,7 @@ A person dressed as a jockey (racecourse), silk racing colours, white breeches, 
 A person dressed as a judoka (dojo), which is a white judogi with a belt and bare feet
 A person dressed as a karateka (dojo), which is a white gi with a black belt, a headband and bare feet
 A person dressed as a magician (stage), which is a tailcoat with a cape, trousers, a top hat and polished shoes
-A person dressed as a marathon runner (race), which is a singlet with a number, running shorts, a cap and running shoes
+A person dressed as a marathon runner (race), which is a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes
 A person dressed as a marching band member (parade), which is a braided tunic with a plume, trousers, a plumed shako and boots
 A person dressed as a mime (street), which is a striped long-sleeved shirt with suspenders, black trousers, a beret and shoes
 A person dressed as a mountaineer (Himalayas), which is a down jacket, insulated trousers, a helmet and goggles and mountaineering boots
@@ -78,7 +78,7 @@ A satin robe, satin shorts, boxing boots, the full outfit of a boxer
 A sequined bodysuit, a feather plume, heels, the full outfit of a stage magician's assistant
 A sequined dress, tights, skates, the full outfit of a figure skater
 A short embroidered jacket in gold thread with a sash, tight breeches, a montera hat, slippers, the full outfit of a bullfighter
-A singlet with a number, running shorts, a cap, running shoes, the full outfit of a marathon runner
+A singlet with the number "__name_jersey_number__", running shorts, a cap, running shoes, the full outfit of a marathon runner
 A sparkling leotard, bare feet, the full outfit of a gymnast
 A sparkling leotard, slippers, the full outfit of an acrobat
 A sparkling waistcoat, trousers, shoes, the full outfit of a sword swallower
@@ -204,10 +204,10 @@ a magician (stage), in a tailcoat with a cape and trousers and polished shoes
 a magician (stage), wearing a tailcoat with a cape, trousers, a top hat and polished shoes
 a magician (stage), wearing a tailcoat with a cape, trousers, a top hat and polished shoes and carrying a wand
 a magician, dressed in a tailcoat with a cape with trousers
-a marathon runner (race), in a singlet with a number and a cap
-a marathon runner (race), in a singlet with a number and running shorts and running shoes
-a marathon runner (race), wearing a singlet with a number, running shorts, a cap and running shoes
-a marathon runner, dressed in a singlet with a number with running shorts
+a marathon runner (race), in a singlet with the number "__name_jersey_number__" and a cap
+a marathon runner (race), in a singlet with the number "__name_jersey_number__" and running shorts and running shoes
+a marathon runner (race), wearing a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes
+a marathon runner, dressed in a singlet with the number "__name_jersey_number__" with running shorts
 a marching band member (parade), in a braided tunic with a plume and a plumed shako
 a marching band member (parade), in a braided tunic with a plume and trousers and boots
 a marching band member (parade), wearing a braided tunic with a plume, trousers, a plumed shako and boots

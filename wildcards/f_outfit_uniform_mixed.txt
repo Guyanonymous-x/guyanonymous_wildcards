@@ -3,9 +3,9 @@ classic __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_unifor
 standard-issue __clothing_outfit_color__ __f_outfit_uniform_type__, matching accessories
 practical __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with sensible shoes
 practical __clothing_outfit_color__ __f_outfit_uniform_type__, with polished buttons
-freshly pressed __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+freshly pressed __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 sharp __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for inspection
-neat __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+neat __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 standard-issue __clothing_outfit_color__ __f_outfit_uniform_type__, highly detailed outfit
 well-used __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for the shift
 standard-issue __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a lanyard
@@ -27,16 +27,16 @@ neat __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_t
 classic __clothing_outfit_color__ __f_outfit_uniform_type__, professional appearance
 tidy __clothing_outfit_color__ __f_outfit_uniform_type__, ready for the shift
 freshly pressed __clothing_outfit_color__ __f_outfit_uniform_type__, with a lanyard
-__f_outfit_uniform_type__ in __clothing_outfit_color__, with a name patch
+__f_outfit_uniform_type__ in __clothing_outfit_color__, with a name patch reading "__name_first__"
 crisp __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with sensible shoes
 sharp __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, neat and tidy look
 tidy __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with sensible shoes
 practical __clothing_outfit_color__ __f_outfit_uniform_type__, ready for inspection
-modern __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch
+modern __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 sharp __clothing_outfit_color__ __f_outfit_uniform_type__, highly detailed outfit
 sharp __clothing_outfit_color__ __f_outfit_uniform_type__, ready for inspection
 modern __clothing_outfit_color__ __f_outfit_uniform_type__, highly detailed outfit
-freshly pressed __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch
+freshly pressed __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 standard-issue __clothing_outfit_color__ __f_outfit_uniform_type__, ready for a long day
 sharp __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, worn and practical look
 sharp __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with polished buttons
@@ -71,7 +71,7 @@ tidy __clothing_outfit_color__ __f_outfit_uniform_type__, ready for a long day
 rugged __clothing_outfit_color__ __f_outfit_uniform_type__, with a lanyard
 neat __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a lanyard
 neat __clothing_outfit_color__ __f_outfit_uniform_type__, matching accessories
-worn __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch
+worn __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 ceremonial __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with sensible shoes
 rugged __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for a long day
 freshly pressed __clothing_outfit_color__ __f_outfit_uniform_type__, neat and tidy look
@@ -92,13 +92,13 @@ __clothing_outfit_color__ and __clothing_outfit_color__ __f_outfit_uniform_type_
 tidy __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for the shift
 sharp __clothing_outfit_color__ __f_outfit_uniform_type__, worn and practical look
 tidy __clothing_outfit_color__ __f_outfit_uniform_type__, worn and practical look
-classic __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch
+classic __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 well-used __clothing_outfit_color__ __f_outfit_uniform_type__, highly detailed outfit
-sharp __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+sharp __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 modern __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for the shift
 crisp __clothing_outfit_color__ __f_outfit_uniform_type__, ready for inspection
 crisp __clothing_outfit_color__ __f_outfit_uniform_type__, with sensible shoes
-tidy __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+tidy __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 classic __clothing_outfit_color__ __f_outfit_uniform_type__, with sensible shoes
 ceremonial __clothing_outfit_color__ __f_outfit_uniform_type__, highly detailed outfit
 neat __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, professional appearance
@@ -118,7 +118,7 @@ well-used __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_unif
 tidy __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for a long day
 __f_outfit_uniform_type__ in __clothing_outfit_color__, with polished buttons
 well-used __clothing_outfit_color__ __f_outfit_uniform_type__, with polished buttons
-rugged __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch
+rugged __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 worn __clothing_outfit_color__ __f_outfit_uniform_type__, with a lanyard
 ceremonial __clothing_outfit_color__ __f_outfit_uniform_type__, ready for inspection
 standard-issue __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, neat and tidy look
@@ -148,27 +148,27 @@ neat __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_t
 practical __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a lanyard
 worn __clothing_outfit_color__ __f_outfit_uniform_type__, ready for the shift
 sharp __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, matching accessories
-practical __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch
+practical __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 worn __clothing_outfit_color__ __f_outfit_uniform_type__, with sensible shoes
 neat __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with sensible shoes
-modern __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+modern __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 modern __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, neat and tidy look
 rugged __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, professional appearance
-__clothing_outfit_color__ and __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+__clothing_outfit_color__ and __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 regulation __clothing_outfit_color__ __f_outfit_uniform_type__, matching accessories
 modern __clothing_outfit_color__ __f_outfit_uniform_type__, professional appearance
-classic __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+classic __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 modern __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for a long day
 __f_outfit_uniform_type__ in __clothing_outfit_color__, neat and tidy look
 worn __clothing_outfit_color__ __f_outfit_uniform_type__, neat and tidy look
 freshly pressed __clothing_outfit_color__ __f_outfit_uniform_type__, professional appearance
 practical __clothing_outfit_color__ __f_outfit_uniform_type__, neat and tidy look
-worn __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+worn __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 well-used __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, highly detailed outfit
 rugged __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a lanyard
 ceremonial __clothing_outfit_color__ __f_outfit_uniform_type__, with polished buttons
 ceremonial __clothing_outfit_color__ __f_outfit_uniform_type__, worn and practical look
-crisp __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+crisp __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 tidy __clothing_outfit_color__ __f_outfit_uniform_type__, professional appearance
 freshly pressed __clothing_outfit_color__ __f_outfit_uniform_type__, with sensible shoes
 worn __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with polished buttons
@@ -186,11 +186,11 @@ standard-issue __clothing_outfit_color__ __f_outfit_uniform_type__, worn and pra
 __f_opt_inl_c5bc1f8f__ __clothing_outfit_color__ __f_outfit_uniform_type__, highly detailed outfit
 practical __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, professional appearance
 classic __clothing_outfit_color__ __f_outfit_uniform_type__, matching accessories
-standard-issue __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch
+standard-issue __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 rugged __clothing_outfit_color__ __f_outfit_uniform_type__, worn and practical look
 well-used __clothing_outfit_color__ __f_outfit_uniform_type__, ready for a long day
 standard-issue __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for the shift
-rugged __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+rugged __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 worn __clothing_outfit_color__ __f_outfit_uniform_type__, worn and practical look
 __clothing_outfit_color__ and __clothing_outfit_color__ __f_outfit_uniform_type__, with polished buttons
 crisp __clothing_outfit_color__ __f_outfit_uniform_type__, neat and tidy look
@@ -212,7 +212,7 @@ crisp __clothing_outfit_color__ __f_outfit_uniform_type__, ready for a long day
 worn __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for a long day
 __clothing_outfit_color__ and __clothing_outfit_color__ __f_outfit_uniform_type__, professional appearance
 modern __clothing_outfit_color__ __f_outfit_uniform_type__, ready for the shift
-well-used __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+well-used __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 crisp __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with polished buttons
 standard-issue __clothing_outfit_color__ __f_outfit_uniform_type__, with polished buttons
 modern __clothing_outfit_color__ __f_outfit_uniform_type__, with polished buttons
@@ -220,11 +220,11 @@ regulation __clothing_outfit_color__ __f_outfit_uniform_type__, with polished bu
 ceremonial __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a lanyard
 neat __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for inspection
 sharp __clothing_outfit_color__ __f_outfit_uniform_type__, with a lanyard
-ceremonial __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch
+ceremonial __clothing_outfit_color__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 classic __clothing_outfit_color__ __f_outfit_uniform_type__, ready for a long day
 freshly pressed __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, worn and practical look
 neat __clothing_outfit_color__ __f_outfit_uniform_type__, worn and practical look
-neat __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch
+neat __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 freshly pressed __clothing_outfit_color__ __f_outfit_uniform_type__, highly detailed outfit
 tidy __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with polished buttons
 modern __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, professional appearance
@@ -244,7 +244,7 @@ classic __clothing_outfit_color__ __f_outfit_uniform_type__, neat and tidy look
 rugged __clothing_outfit_color__ __f_outfit_uniform_type__, ready for a long day
 neat __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, ready for a long day
 neat __clothing_outfit_color__ __f_outfit_uniform_type__, ready for inspection
-crisp __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch
+crisp __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, with a name patch reading "__name_first__"
 practical __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, matching accessories
 rugged __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, highly detailed outfit
 well-used __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_uniform_type__, neat and tidy look

@@ -1,2 +1,2 @@
-a gate number above each entrance
-a scoreboard with numbers
+a gate number above an entrance reading "Gate __name_number_small__"
+a scoreboard, the first line reading "__name_town__" and the second line reading "__name_number_small__"

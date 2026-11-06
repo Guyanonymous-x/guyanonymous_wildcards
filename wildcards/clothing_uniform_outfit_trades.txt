@@ -42,7 +42,7 @@ A person dressed as a forester (woodland), which is a plaid shirt with chainsaw-
 A person dressed as a glassblower (workshop), which is a heat-resistant apron and sleeves, trousers and boots
 A person dressed as a lamplighter (Victorian), which is a long coat and a scarf, trousers, a bowler hat and boots
 A person dressed as a lumberjack (Canada), which is a red checked wool jacket and suspenders, work trousers, a wool toque and logging boots
-A person dressed as a mechanic (garage), which is an oil-stained coverall with a name patch, a cap and work boots
+A person dressed as a mechanic (garage), which is an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots
 A person dressed as a miller (medieval), which is a dusty smock, trousers, a cloth cap and clogs
 A person dressed as a folded paper sheet vendor (1920s), which is a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots
 A person dressed as a plumber (call-out), which is a work shirt and a knee-padded trouser set, work trousers, a cap and boots
@@ -78,7 +78,7 @@ A work shirt and a harness, work trousers, a cap, boots, the full outfit of a wi
 A work shirt and a knee-padded trouser set, work trousers, a cap, boots, the full outfit of a plumber
 A work shirt and high-visibility vest, work trousers, a hard hat, boots, the full outfit of a bricklayer
 A work shirt with a pocket of testers, work trousers, a hard hat, boots, the full outfit of an electrician
-An oil-stained coverall with a name patch, a cap, work boots, the full outfit of a mechanic
+An oil-stained coverall with a name patch reading "__name_first__", a cap, work boots, the full outfit of a mechanic
 An orange coverall with reflective strips, a hard hat, steel-toed boots, the full outfit of an oil rig worker
 a baker (bakery), in a white double-breasted jacket and apron and a baker's hat
 a baker (bakery), in a white double-breasted jacket and apron and checked trousers and clogs
@@ -181,11 +181,11 @@ a lumberjack (Canada), in a red checked wool jacket and suspenders and work trou
 a lumberjack (Canada), wearing a red checked wool jacket and suspenders, work trousers, a wool toque and logging boots
 a lumberjack (Canada), wearing a red checked wool jacket and suspenders, work trousers, a wool toque and logging boots and carrying an axe
 a lumberjack, dressed in a red checked wool jacket and suspenders with work trousers
-a mechanic (garage), in an oil-stained coverall with a name patch and a cap
-a mechanic (garage), in an oil-stained coverall with a name patch and work boots
-a mechanic (garage), wearing an oil-stained coverall with a name patch, a cap and work boots
-a mechanic (garage), wearing an oil-stained coverall with a name patch, a cap and work boots and carrying a wrench
-a mechanic, dressed in an oil-stained coverall with a name patch
+a mechanic (garage), in an oil-stained coverall with a name patch reading "__name_first__" and a cap
+a mechanic (garage), in an oil-stained coverall with a name patch reading "__name_first__" and work boots
+a mechanic (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots
+a mechanic (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots and carrying a wrench
+a mechanic, dressed in an oil-stained coverall with a name patch reading "__name_first__"
 a miller (medieval), in a dusty smock and a cloth cap
 a miller (medieval), in a dusty smock and trousers and clogs
 a miller (medieval), wearing a dusty smock, trousers, a cloth cap and clogs

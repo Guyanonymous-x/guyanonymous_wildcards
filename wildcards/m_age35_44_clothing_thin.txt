@@ -59,7 +59,7 @@ a boxy washed black linen shirt with grey skinny jeans and leather boots
 a high-visibility vest over a work shirt and rugged work pants and leather work boots
 a relaxed-fit violet striped soft cotton crew-neck t-shirt with dark indigo relaxed jeans and black sneakers
 a beige gingham heavy cotton crew-neck t-shirt with faded blue skinny jeans and running shoes
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a loose heather grey cotton cable-knit sweater with off-white joggers and canvas sneakers
 a loose cream-white striped cotton poplin oxford button-down shirt with crisp white khakis under a brick red puffer jacket and running shoes
 a burgundy heavy cotton crew-neck t-shirt with marled grey corduroy pants and high-top sneakers
@@ -121,7 +121,7 @@ a plum textured fleece hoodie with faded black sweatpants under an olive green w
 a relaxed-fit dark navy linen shirt with mid-wash straight-leg jeans
 an oversized soft white merino wool turtleneck with distressed light-wash slim jeans and canvas sneakers
 a relaxed-fit crisp white cotton short-sleeve button-up shirt with distressed light-wash relaxed jeans and cushioned sneakers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 smart casual __clothing_outfit_color__ blazer over a __clothing_outfit_color__ __m_outfit_casual_top__ with chinos and canvas sneakers, a silver chain, modern smart casual
 a canvas apron over a flannel shirt and jeans and black non-slip shoes
 a basketball jersey and baggy shorts and black training shoes
@@ -678,7 +678,7 @@ hospital scrubs with a stethoscope around the neck and black non-slip shoes
 hospital scrubs with a stethoscope around the neck and leather work boots
 a crisp white plaid oxford cotton oxford button-down shirt with soft white dress trousers and slip-on shoes
 a butcher apron in __clothing_outfit_color__ over a tee and work pants, work boots, practical work clothes
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a relaxed-fit army green cotton crew-neck t-shirt with dark indigo slim jeans and black sneakers
 a heather grey wool cardigan with taupe chinos and white sneakers
 a loose oatmeal heavy cotton crew-neck t-shirt with burgundy linen pants and work boots
@@ -694,7 +694,7 @@ a relaxed-fit army green ribbed cotton long-sleeve tee with black joggers under 
 a sky blue ribbed cotton long-sleeve tee with faded white athletic shorts and running shoes
 a navy tracksuit with white stripes and black training shoes
 swim trunks and a loose open shirt
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a relaxed-fit slate grey soft cotton crew-neck t-shirt with rust brown joggers under a slate grey bomber jacket and black sneakers
 a slim-fit camel linen shirt with coral board shorts and black sneakers
 a basketball jersey and baggy shorts and grey sneakers
@@ -902,7 +902,7 @@ a white cotton crew-neck t-shirt with steel blue khakis and cushioned sneakers
 a high-visibility vest over a work shirt and rugged work pants and leather work boots
 a high-visibility vest over a work shirt and rugged work pants and steel-toe work boots
 a relaxed-fit soft white heavy cotton crew-neck t-shirt with faded blue denim shorts and loafers
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a navy two-piece suit with a crisp white dress shirt and a patterned tie with a tie clip and dress boots
 a black suit with a white shirt with an open collar and a pocket square and no tie and polished oxford shoes
 a bottle green heavy cotton crew-neck t-shirt with dark indigo straight-leg jeans under an olive green trench coat and chelsea boots
@@ -987,7 +987,7 @@ a washed black heavy flannel shirt with camel athletic shorts and boat shoes
 a washed black soft cotton crew-neck t-shirt with jet black board shorts under a jet black fleece jacket
 a soft white wool cardigan with powder blue chinos under a sand rain jacket and sandals
 a relaxed-fit black cotton v-neck t-shirt with jet black pleated trousers and running shoes
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a running vest and short split shorts and black training shoes
 an oversized cream-white cotton long-sleeve tee with faded blue skinny jeans under an ink blue fleece jacket and slip-on shoes
 a taupe cotton graphic tee with a printed design with light-wash straight-leg jeans and high-top sneakers

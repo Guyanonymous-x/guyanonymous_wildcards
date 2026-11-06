@@ -79,7 +79,7 @@ a terracotta jersey cotton crew-neck t-shirt with mid-wash straight-leg jeans an
 a faded white cotton crew-neck t-shirt with mid-wash straight-leg jeans and cushioned sneakers
 a carpenter apron in __clothing_outfit_color__ over a tee and work pants, work boots, practical work clothes
 a loose washed black striped linen blend short-sleeve button-up shirt with mid-wash denim shorts and white sneakers
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a wine red soft cotton crew-neck t-shirt with charcoal grey sweatpants and boat shoes
 a dark navy merino wool turtleneck with dark indigo slim jeans and white sneakers
 a violet striped fleece zip-up hoodie with dark indigo relaxed jeans and leather boots
@@ -106,11 +106,11 @@ a navy tracksuit with white stripes and grey sneakers
 a bright white jersey cotton crew-neck t-shirt with dark indigo skinny jeans and black sneakers
 an oatmeal linen blend short-sleeve button-up shirt with off-white sweatpants and canvas sneakers
 a slim-fit ink blue denim shirt with faded black chinos and black sneakers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a relaxed-fit light grey cotton v-neck t-shirt with light-wash relaxed jeans and white sneakers
 a relaxed-fit heather grey chambray oxford button-down shirt with mid-wash straight-leg jeans and white sneakers
 a relaxed-fit crisp white striped jersey cotton crew-neck t-shirt with dark indigo straight-leg jeans and black sneakers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a relaxed-fit navy cotton tank top with mid-wash slim jeans under a faded black field jacket and high-top sneakers
 a relaxed-fit teal striped cotton crew-neck t-shirt with light-wash straight-leg jeans and leather boots
 a jumpsuit-style coverall and monk-strap shoes
@@ -618,7 +618,7 @@ a marled grey jersey sleeveless gym tee with navy chinos and black sneakers
 a high-visibility vest over a work shirt and rugged work pants and leather work boots
 a stone soft cotton crew-neck t-shirt with mid-wash bootcut jeans
 a crisp white ribbed cotton tank top with dark indigo tapered jeans
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a navy tracksuit with white stripes and grey sneakers
 a slim-fit jet black jersey cotton crew-neck t-shirt with mid-wash relaxed jeans and high-top sneakers
 a compression top and joggers and grey sneakers
@@ -689,7 +689,7 @@ a crisp white floral-print ribbed cotton long-sleeve tee with dark indigo loose 
 a loose washed black gingham jersey cotton crew-neck t-shirt with sky blue cargo shorts under a burgundy field jacket and white sneakers
 a lab coat over a shirt and tie and leather work boots
 an emerald green fine-knit quarter-zip pullover with grey slim jeans and white sneakers
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a slim-fit black oxford cotton oxford button-down shirt with light grey work pants and running shoes
 a relaxed-fit mocha textured heavy cotton crew-neck t-shirt with mustard yellow sweatpants and running shoes
 a slim-fit sage green plaid moisture-wicking mesh sleeveless gym tee with mid-wash straight-leg jeans and leather boots
@@ -712,7 +712,7 @@ a delivery uniform polo with cargo shorts and black non-slip shoes
 board shorts and a rash guard
 fitted __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit_color__ __m_outfit_casual_bottom__, cowboy boots, a bandana around the neck, everyday casual look
 __clothing_outfit_pattern__ __m_outfit_casual_top__ with __clothing_outfit_material__ __m_outfit_casual_bottom__, running shoes, laid-back urban style
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a relaxed-fit light grey heavy cotton hoodie with faded blue straight-leg jeans and white sneakers
 a dark navy plaid ribbed cotton long-sleeve tee with bright white athletic shorts under an off-white rain jacket
 a relaxed-fit taupe ribbed cotton long-sleeve tee with heather grey chinos and white sneakers
@@ -788,7 +788,7 @@ a navy tracksuit with white stripes and black training shoes
 a relaxed-fit khaki plaid jersey cotton crew-neck t-shirt with powder blue khakis under a tan wool overcoat and hiking boots
 a cream-white jersey cotton crew-neck t-shirt with mid-wash straight-leg jeans and running shoes
 a relaxed-fit stone soft cotton crew-neck t-shirt with mid-wash loose straight jeans and loafers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a loose washed black cotton crew-neck t-shirt with royal blue corduroy pants and white sneakers
 a sand cotton tank top with faded blue tapered jeans and leather boots
 a cobalt blue performance knit polo shirt with dark indigo slim jeans and work boots
@@ -816,7 +816,7 @@ an oversized maroon heavy cotton crew-neck t-shirt with grey straight-leg jeans 
 an oversized sand linen blend short-sleeve button-up shirt with crisp white cargo pants under a sand windbreaker and white sneakers
 a relaxed-fit jet black cotton polo shirt with dark indigo slim jeans and white sneakers
 a slim-fit brick red fine-knit quarter-zip pullover with dark indigo straight-leg jeans and white sneakers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a relaxed-fit washed black embroidered waffle-knit cotton thermal waffle shirt with white track pants and canvas sneakers
 a bottle green jersey cotton crew-neck t-shirt with lavender chinos and white sneakers
 a seersucker suit with a straw hat and brogues

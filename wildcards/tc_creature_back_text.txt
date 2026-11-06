@@ -1,0 +1,1 @@
+The back reads "__tc_creature_name__" on the first line, "HABITAT __tc_habitat__" on the second line, "POWER __name_number_small__" on the third line.

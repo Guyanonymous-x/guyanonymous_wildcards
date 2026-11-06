@@ -114,7 +114,7 @@ A person dressed as a medieval plague bearer reveller in a feminine cut (festiva
 A person dressed as a military band musician in a feminine cut (ceremonial), with a scarlet tunic with white cross-belts, braid and aiguillettes, dark trousers with a stripe, a tall plumed hat and polished boots, cut for a feminine figure with a fitted waist, with fair and pale skin
 A person dressed as a minotaur in a feminine cut (myth), which is a leather kilt and a bull head, cut for a feminine figure with a fitted waist, with fair and pale skin
 A person dressed as a ninja clan leader in a feminine cut (anime-inspired), with a dark robe with a mask and scarf, trousers, a headband and sandals, in a feminine cut with shaped seams and a flattering line, with fair and pale skin
-A person dressed as a pharmacist in a feminine cut (pharmacy), with a white lab coat over a shirt with a name patch, dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist, with fair and pale skin
+A person dressed as a pharmacist in a feminine cut (pharmacy), with a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes, tailored in a feminine cut with a nipped-in waist, with fair and pale skin
 A person dressed as a pizza costume wearer in a feminine cut (party), with a round pizza suit, in a feminine cut with shaped seams and a flattering line, with fair and pale skin
 A person dressed as a plumber in a feminine cut (call-out), which is a work shirt and a knee-padded trouser set, work trousers, a cap and boots, in a feminine cut with shaped seams and a flattering line, with fair and pale skin
 A person dressed as a potter in a feminine cut (studio), which is a clay-stained apron over a loose shirt, trousers and clogs, tailored in a feminine cut with a nipped-in waist, with fair and pale skin
@@ -265,7 +265,7 @@ a bartender in a feminine cut (cocktail bar), in a waistcoat with sleeve garters
 a beast tamer in a feminine cut (fantasy), wearing a fur vest with claw necklaces, leather trousers, a feathered headband and boots, in a feminine cut with shaped seams and a flattering line, with fair and pale skin
 a beekeeper in a feminine cut (apiary), in a white protective suit with a veiled hat and gloves and boots, with fair and pale skin
 a beekeeper-bee hybrid in a feminine cut (party), wearing a striped bee suit with wings and antennae, in a feminine cut with shaped seams and a flattering line, with fair and pale skin
-a bell ringer in a feminine cut (church), in a jumper with the tower name and trousers and shoes, with fair and pale skin
+a bell ringer in a feminine cut (church), in a jumper with the name "__name_town__" printed across it and trousers and shoes, with fair and pale skin
 a birdwatcher in a feminine cut (nature), in a khaki vest with binoculars and trousers and boots, with fair and pale skin
 a bishop in a feminine cut, dressed in a purple cassock with a cope and a pectoral cross, with fair and pale skin
 a black knight in a feminine cut (fantasy), in blackened plate armour with a tattered cape and a closed helm, with fair and pale skin
@@ -332,7 +332,7 @@ a firefighter in a feminine cut (modern), wearing a heavy turnout coat with refl
 a fishmonger in a feminine cut (market), in a rubber apron over a waterproof smock and a hat, with fair and pale skin
 a flamenco dancer in a feminine cut, dressed in a ruffled dress, with fair and pale skin
 a fleet pilot in a feminine cut (sci-fi), in a teal flight suit with a vest and boots, with fair and pale skin
-a flight attendant in a feminine cut (modern airline), wearing a tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat and court shoes, tailored in a feminine cut with a nipped-in waist and carrying a trolley, with fair and pale skin
+a flight attendant in a feminine cut (modern airline), wearing a tailored jacket and neckerchief with a name patch reading "__name_first__", a pencil skirt, a pillbox hat and court shoes, tailored in a feminine cut with a nipped-in waist and carrying a trolley, with fair and pale skin
 a florist in a feminine cut, dressed in a green apron over a blouse with trousers, with fair and pale skin
 a football goalkeeper in a feminine cut (soccer), wearing a long-sleeved padded jersey and gloves, shorts and boots, cut for a feminine figure with a fitted waist, with fair and pale skin
 a forester in a feminine cut (woodland), in a plaid shirt with chainsaw-protective chaps and work trousers and boots, with fair and pale skin
@@ -363,7 +363,7 @@ a haunted marionette in a feminine cut (horror), wearing a puppet costume with s
 a headless horseman in a feminine cut, dressed in a dark coat and a cape with trousers, with fair and pale skin
 a horned noble in a feminine cut (fantasy), wearing a crimson velvet jacket, trousers, curved horns and boots, in a feminine cut with shaped seams and a flattering line, with fair and pale skin
 a hotel bellhop in a feminine cut (1930s), in a short red jacket with gold braid and a pillbox hat with a chin strap, with fair and pale skin
-a housekeeper in a feminine cut, dressed in a tunic with a name patch with trousers, with fair and pale skin
+a housekeeper in a feminine cut, dressed in a tunic with a name patch reading "__name_first__" with trousers, with fair and pale skin
 a human cannonball in a feminine cut (circus), wearing a shiny silver jumpsuit, a helmet and boots, cut for a feminine figure with a fitted waist, with fair and pale skin
 a human statue in a feminine cut (street), wearing a silver painted bodysuit, in a feminine cut with shaped seams and a flattering line, with fair and pale skin
 a jack-o'-lantern in a feminine cut (folklore), wearing a pumpkin costume and a pumpkin head, tailored in a feminine cut with a nipped-in waist, with fair and pale skin
@@ -390,7 +390,7 @@ a mad hatter-style tea party host in a feminine cut (parade), in a patched coat 
 a mad inventor in a feminine cut (steampunk), in a vest with gauges and boots, with fair and pale skin
 a mad musician in a feminine cut (stage), wearing a patchwork tailcoat, striped trousers, a top hat and boots, cut for a feminine figure with a fitted waist and carrying a trombone, with fair and pale skin
 a magical swordsmith in a feminine cut (anime-inspired), wearing a white tunic and gloves and boots, tailored in a feminine cut with a nipped-in waist and carrying a glowing sword, with fair and pale skin
-a marathon runner in a feminine cut, dressed in a singlet with a number with running shorts, with fair and pale skin
+a marathon runner in a feminine cut, dressed in a singlet with the number "__name_jersey_number__" with running shorts, with fair and pale skin
 a marching band member in a feminine cut (parade), in a braided tunic with a plume and a plumed shako, with fair and pale skin
 a mariachi musician in a feminine cut (Mexico), in a short jacket with silver buttons and tight trousers with silver studs and boots, with fair and pale skin
 a masked apprentice hero in a feminine cut (superhero), wearing a bright orange bodysuit with a small cape, goggles and boots, tailored in a feminine cut with a nipped-in waist, with fair and pale skin
@@ -398,7 +398,7 @@ a masked ball guest in a feminine cut (gothic), in a brocade coat with a half ma
 a masked crime boss in a feminine cut (villain), in a sharp white suit with a mask and shoes, with fair and pale skin
 a masked wrestler in a feminine cut (lucha libre), in a sleeveless sequined top and stretchy trousers and wrestling boots, with fair and pale skin
 a mecha pilot in a feminine cut (cosplay), wearing a bodysuit with armour pads, a helmet and boots, in a feminine cut with shaped seams and a flattering line, with fair and pale skin
-a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch, a cap and work boots, tailored in a feminine cut with a nipped-in waist, with fair and pale skin
+a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, tailored in a feminine cut with a nipped-in waist, with fair and pale skin
 a medieval herald in a feminine cut, dressed in a tabard with a coat of arms with hose, with fair and pale skin
 a medieval jester in a feminine cut (Europe), wearing a patchwork tunic, tights, a hat with bells and curled shoes, cut for a feminine figure with a fitted waist, with fair and pale skin
 a medieval king in a feminine cut, dressed in a fur-lined robe over a tunic, with fair and pale skin

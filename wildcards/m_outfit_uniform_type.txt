@@ -1,15 +1,15 @@
 academic robes
 regulation plumber's overalls with polished buttons
 regulation boxing kit with rank insignia
-army fatigues with name tape
+army fatigues with a name tape reading "__name_surname__"
 janitor's uniform with braided trim
 construction hi-vis vest and hard hat
 baseball uniform
 scientist's lab outfit with a matching cap
-hospital scrubs with name tape
+hospital scrubs with a name tape reading "__name_surname__"
 gardener's work outfit with polished buttons
 vintage doorman's greatcoat
-military dress uniform with name tape
+military dress uniform with a name tape reading "__name_surname__"
 sports team jersey with a matching cap
 neat dentist's scrubs
 formal blacksmith apron outfit
@@ -39,7 +39,7 @@ rugby kit with epaulettes
 utilitarian monk's habit
 modern academic robes
 utilitarian field medic uniform
-formal baseball uniform with name tape
+formal baseball uniform with a name tape reading "__name_surname__"
 tank crew overalls with a matching cap
 security guard uniform with shoulder patches
 modern deckhand outfit
@@ -94,14 +94,14 @@ neat postal worker uniform
 regulation hotel bellhop uniform
 utilitarian priest's cassock
 ceremonial military dress uniform
-neat bus driver uniform with name tape
+neat bus driver uniform with a name tape reading "__name_surname__"
 regulation fisherman's oilskins
 modern farmer's overalls with polished buttons
 standard-issue track and field kit
 delivery driver uniform
 standard-issue warehouse worker vest
 butler's tailcoat with patches
-honour guard uniform with name tape
+honour guard uniform with a name tape reading "__name_surname__"
 ceremonial guard uniform with shoulder patches
 worn boxing kit
 regulation chauffeur uniform
@@ -119,7 +119,7 @@ baseball uniform with epaulettes
 school blazer uniform
 ceremonial veterinarian smock with a matching cap
 orchestra conductor's tails with shoulder patches
-ship's captain uniform with name tape
+ship's captain uniform with a name tape reading "__name_surname__"
 formal oil rig worker coveralls
 airline pilot uniform with patches
 practical priest's cassock
@@ -160,11 +160,11 @@ summer-weight chef's whites
 practical doorman's greatcoat
 carpenter's apron outfit with shoulder patches
 ship's captain uniform with a neat tie
-construction hi-vis vest and hard hat with name tape
+construction hi-vis vest and hard hat with a name tape reading "__name_surname__"
 marching band uniform
 cycling kit with a matching cap
 orchestra conductor's tails with a matching cap
-scout uniform with name tape
+scout uniform with a name tape reading "__name_surname__"
 tailored carpenter's apron outfit with polished buttons
 miner's overalls with braided trim
 barista apron with epaulettes
@@ -209,7 +209,7 @@ nurse scrubs with a matching cap
 wrestling singlet with reflective strips
 mountaineering gear with epaulettes
 marching band uniform with polished buttons
-sumo mawashi-style wrap with name tape
+sumo mawashi-style wrap with a name tape reading "__name_surname__"
 neat academic robes
 coast guard uniform with braided trim
 border guard uniform with reflective strips
@@ -233,7 +233,7 @@ mechanic's coveralls with braided trim
 paramedic uniform
 worn police uniform
 neat coast guard uniform
-utilitarian bus driver uniform with name tape
+utilitarian bus driver uniform with a name tape reading "__name_surname__"
 worn prison guard uniform
 mechanic's coveralls with epaulettes
 rugby kit with a neat tie
@@ -244,13 +244,13 @@ tailored swimming team kit
 ceremonial border guard uniform
 train conductor uniform
 formal coast guard uniform
-electrician's work uniform with name tape
+electrician's work uniform with a name tape reading "__name_surname__"
 border guard uniform with a matching cap
 waiter's black vest and bow tie
 ski patrol uniform with shoulder patches
 tailored brewer's apron outfit
 ice hockey kit with a neat tie
-vintage choir robes with name tape
+vintage choir robes with a name tape reading "__name_surname__"
 paratrooper gear with an utility belt
 astronaut flight suit with an utility belt
 regulation butcher's apron outfit
@@ -261,9 +261,9 @@ neat steward uniform
 farmer's overalls with a neat tie
 practical butcher's apron outfit with braided trim
 postal worker uniform with patches
-ice hockey kit with name tape
+ice hockey kit with a name tape reading "__name_surname__"
 modern delivery driver uniform with a lanyard
-airline pilot uniform with name tape
+airline pilot uniform with a name tape reading "__name_surname__"
 karate gi with braided trim
 barista apron
 firefighter uniform
@@ -303,8 +303,8 @@ airline pilot uniform with epaulettes
 cycling kit
 winter-weight marathon running kit
 drummer's parade uniform with shoulder patches
-regulation ice hockey kit with name tape
-highland dress with name tape
+regulation ice hockey kit with a name tape reading "__name_surname__"
+highland dress with a name tape reading "__name_surname__"
 lifeguard uniform
 practical army fatigues
 ship's captain uniform with an utility belt
@@ -324,8 +324,8 @@ neat space agency polo and jumpsuit with a matching cap
 tailored police uniform with patches
 delivery driver uniform with a neat tie
 standard-issue doorman's greatcoat
-football kit with name tape
-tailored postal worker uniform with name tape
+football kit with a name tape reading "__name_surname__"
+tailored postal worker uniform with a name tape reading "__name_surname__"
 surgeon's gown with a neat tie
 tailored field medic uniform
 neat cricket whites with epaulettes

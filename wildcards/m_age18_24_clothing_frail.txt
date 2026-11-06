@@ -53,7 +53,7 @@ a midnight blue wool crewneck sweater with chocolate brown joggers under a black
 a mustard yellow checked wool crewneck sweater with washed black joggers and running shoes
 a relaxed-fit holographic silver heavy cotton crew-neck t-shirt with washed black work pants under a salmon pink field jacket and slip-on shoes
 an oversized salmon pink ribbed cotton long-sleeve tee with mid grey joggers under a heather grey puffer jacket and leather boots
-a mechanic's coveralls with a name patch and slip-on shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and slip-on shoes
 a golden yellow cotton fleece sweatshirt with cream-white chinos and boat shoes
 a relaxed-fit washed black merino wool crewneck sweater with burnt orange sweatpants and black sneakers
 a loose pale yellow piqué cotton polo shirt with mid-wash relaxed jeans under a burnt orange rain jacket and black sneakers
@@ -228,7 +228,7 @@ a relaxed-fit mid grey merino wool crewneck sweater with faded white khakis and 
 an oversized oatmeal merino wool quarter-zip pullover with mid-wash straight-leg jeans under a washed black windbreaker and leather boots
 boxy __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit_color__ __m_outfit_casual_bottom__, slip-on shoes, a canvas backpack, everyday casual look
 a high-visibility vest over a work shirt and rugged work pants and comfortable walking shoes
-a mechanic's coveralls with a name patch and comfortable walking shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and comfortable walking shoes
 a loose ink blue wool cardigan with washed black cargo pants under a black shearling-lined jacket and slip-on shoes
 a slim-fit bubblegum pink checked ribbed cotton tank top with sage green work pants under a midnight blue shearling-lined jacket and running shoes
 a loose tan cotton poplin oxford button-down shirt with black joggers under a bright white puffer jacket and work boots
@@ -331,7 +331,7 @@ a relaxed-fit dark navy striped cotton crew-neck t-shirt with marled grey dress 
 a slim-fit crisp white tartan merino wool turtleneck with dark indigo tapered jeans under a light-wash denim jacket and boat shoes
 a steel blue chambray oxford button-down shirt with distressed light-wash slim jeans under a black field jacket and leather boots
 a washed black waffle-knit cotton henley shirt with mid-wash relaxed jeans and cushioned sneakers
-a mechanic's coveralls with a name patch and slip-on shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and slip-on shoes
 a chef's white double-breasted jacket with checked trousers and slip-on shoes
 a relaxed-fit lavender plaid fleece quarter-zip pullover with cobalt blue work pants under a charcoal grey parka and high-top sneakers
 a slim-fit heather grey cotton crew-neck t-shirt with dark indigo straight-leg jeans
@@ -428,7 +428,7 @@ a classic black tuxedo with a bow tie and polished oxford shoes
 moisture-wicking __clothing_outfit_color__ training tee with baggy shorts, training shoes, athletic wear
 a midnight blue striped lambswool crewneck sweater with mid-wash straight-leg jeans and chelsea boots
 a steel blue wool crewneck sweater with midnight blue chinos and leather boots
-a mechanic's coveralls with a name patch and comfortable walking shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and comfortable walking shoes
 a relaxed-fit soft white cotton graphic tee with a printed design with crisp white board shorts and chelsea boots
 a loose bright white ribbed cotton long-sleeve tee with tomato red track pants under a dark navy quilted vest and running shoes
 a loose sky blue cotton cable-knit sweater with dark indigo straight-leg jeans and canvas sneakers
@@ -453,7 +453,7 @@ a relaxed-fit olive green cotton fleece hoodie with faded blue tapered jeans and
 __clothing_outfit_color__ __m_outfit_outerwear__ over a __clothing_outfit_color__ __m_outfit_casual_top__ and __m_outfit_casual_bottom__, oxford shoes, a canvas backpack, modern smart casual
 a loose sage green waffle-knit cotton thermal waffle shirt with golden yellow elastic-waist trousers and slip-on shoes
 loose __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit_color__ __m_outfit_casual_bottom__, dress boots, wired earbuds, clean minimalist style
-a mechanic's coveralls with a name patch and slip-on shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and slip-on shoes
 a formal dark suit with a black tie for a funeral and polished oxford shoes
 a loose powder blue cotton fleece zip-up hoodie with mid-wash straight-leg jeans and canvas sneakers
 a bottle green cotton-knit crewneck sweater with dark indigo straight-leg jeans under a charcoal grey varsity jacket and slip-on shoes
@@ -557,7 +557,7 @@ a slim-fit dark navy merino wool turtleneck with royal blue joggers and canvas s
 a slim-fit faded red embroidered jersey cotton crew-neck t-shirt with dark indigo straight-leg jeans and work boots
 a loose faded white soft cotton graphic tee with a printed design with faded blue straight-leg jeans and black sneakers
 baggy __clothing_outfit_color__ varsity jacket with cargo pants, chunky sneakers, a beanie, urban streetwear
-a mechanic's coveralls with a name patch and comfortable walking shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and comfortable walking shoes
 a midnight blue lambswool crewneck sweater with dark indigo straight-leg jeans under a navy puffer jacket and leather boots
 a boxy steel blue soft cotton graphic tee with a printed design with slate grey sweatpants and boat shoes
 a boxy olive green striped rayon Hawaiian shirt with light-wash straight-leg jeans and white sneakers

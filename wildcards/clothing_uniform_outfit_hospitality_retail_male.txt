@@ -27,7 +27,7 @@ A person dressed as a diner server in the 1950s in a masculine cut (diner), with
 A person dressed as a florist in a masculine cut (shop), which is a green apron over a blouse, trousers and clogs, tailored in a masculine cut with a straight waist
 A person dressed as a graduate in a masculine cut (graduation), with a gown with a hood, a mortarboard and shoes, tailored in a masculine cut with a straight waist
 A person dressed as a head chef in a masculine cut (restaurant), with a white double-breasted jacket with a neckerchief and an apron, checked trousers, a tall pleated toque and clogs, tailored in a masculine cut with a straight waist
-A person dressed as a housekeeper in a masculine cut (hotel), which is a tunic with a name patch, trousers and comfortable shoes, tailored in a masculine cut with a straight waist
+A person dressed as a housekeeper in a masculine cut (hotel), which is a tunic with a name patch reading "__name_first__", trousers and comfortable shoes, tailored in a masculine cut with a straight waist
 A person dressed as a judge in a masculine cut (court), which is a scarlet robe with an ermine collar, a full-bottomed wig and shoes, tailored in a masculine cut with a straight waist
 A person dressed as a lawyer in a masculine cut (court), which is a black robe with white bands, a horsehair wig and shoes, cut for a masculine frame with broad shoulders
 A person dressed as a librarian in a masculine cut (library), which is a cardigan with a chain of glasses, trousers and shoes, in a masculine cut with a roomy chest and shoulders
@@ -54,7 +54,7 @@ A shirt and tie with a vest, trousers, shoes, the full outfit of a bank teller i
 A short sleeve dress with an apron, a paper cap, sneakers, the full outfit of a diner server in the 1950s in a masculine cut
 A short sleeve shirt and thin tie with a pocket protector, trousers, shoes, the full outfit of an office worker in a masculine cut
 A striped shirt with sleeve garters and a vest, trousers, a bowler hat, boots, the full outfit of a saloon barkeep in a masculine cut
-A tunic with a name patch, trousers, comfortable shoes, the full outfit of a housekeeper in a masculine cut
+A tunic with a name patch reading "__name_first__", trousers, comfortable shoes, the full outfit of a housekeeper in a masculine cut
 A tweed jacket with chalk-dusted elbow patches, trousers, shoes, the full outfit of a teacher in a masculine cut
 A waistcoat and bow tie, black trousers, shoes, the full outfit of a casino croupier in a masculine cut
 A waistcoat with sleeve garters over a white shirt, trousers, shoes, the full outfit of a bartender in a masculine cut
@@ -119,10 +119,10 @@ a head chef in a masculine cut (restaurant), in a white double-breasted jacket w
 a head chef in a masculine cut (restaurant), wearing a white double-breasted jacket with a neckerchief and an apron, checked trousers, a tall pleated toque and clogs, tailored in a masculine cut with a straight waist
 a head chef in a masculine cut (restaurant), wearing a white double-breasted jacket with a neckerchief and an apron, checked trousers, a tall pleated toque and clogs, tailored in a masculine cut with a straight waist and carrying a chef's knife
 a head chef in a masculine cut, dressed in a white double-breasted jacket with a neckerchief and an apron with checked trousers
-a housekeeper in a masculine cut (hotel), in a tunic with a name patch and trousers and comfortable shoes
-a housekeeper in a masculine cut (hotel), wearing a tunic with a name patch, trousers and comfortable shoes, tailored in a masculine cut with a straight waist
-a housekeeper in a masculine cut (hotel), wearing a tunic with a name patch, trousers and comfortable shoes, tailored in a masculine cut with a straight waist and carrying a trolley
-a housekeeper in a masculine cut, dressed in a tunic with a name patch with trousers
+a housekeeper in a masculine cut (hotel), in a tunic with a name patch reading "__name_first__" and trousers and comfortable shoes
+a housekeeper in a masculine cut (hotel), wearing a tunic with a name patch reading "__name_first__", trousers and comfortable shoes, tailored in a masculine cut with a straight waist
+a housekeeper in a masculine cut (hotel), wearing a tunic with a name patch reading "__name_first__", trousers and comfortable shoes, tailored in a masculine cut with a straight waist and carrying a trolley
+a housekeeper in a masculine cut, dressed in a tunic with a name patch reading "__name_first__" with trousers
 a judge in a masculine cut (court), in a scarlet robe with an ermine collar and a full-bottomed wig
 a judge in a masculine cut (court), in a scarlet robe with an ermine collar and shoes
 a judge in a masculine cut (court), wearing a scarlet robe with an ermine collar, a full-bottomed wig and shoes, tailored in a masculine cut with a straight waist

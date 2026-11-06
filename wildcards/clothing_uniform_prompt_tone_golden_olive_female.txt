@@ -81,7 +81,7 @@ A person dressed as a diner server in the 1950s in a feminine cut (diner), with 
 A person dressed as a doorman in a feminine cut (grand hotel), with a long coat with gold braid and epaulettes, trousers, a top hat and black shoes, tailored in a feminine cut with a nipped-in waist, with golden olive skin
 A person dressed as a dragon knight in a feminine cut (fantasy), scale-pattern plate armour with a dragon-wing cloak, a horned helm and boots, tailored in a feminine cut with a nipped-in waist, with golden olive skin
 A person dressed as a fallen-world scavenger in a feminine cut (wasteland), with a patched coat with gear straps, trousers, a scarf and goggles and boots, in a feminine cut with shaped seams and a flattering line, with golden olive skin
-A person dressed as a flight attendant in a feminine cut (modern airline), with a tailored jacket and neckerchief with a name patch, a pencil skirt, a pillbox hat and court shoes, tailored in a feminine cut with a nipped-in waist, with golden olive skin
+A person dressed as a flight attendant in a feminine cut (modern airline), with a tailored jacket and neckerchief with a name patch reading "__name_first__", a pencil skirt, a pillbox hat and court shoes, tailored in a feminine cut with a nipped-in waist, with golden olive skin
 A person dressed as a forest druid in a feminine cut (fantasy), with a leafy robe with vines and antlers on the shoulders, an antler crown and bare feet, cut for a feminine figure with a fitted waist, with golden olive skin
 A person dressed as a formal dance wearer in a feminine cut (ball), with a tailcoat with medals and shoes, cut for a feminine figure with a fitted waist, with golden olive skin
 A person dressed as a ghost in a feminine cut (folklore), which is a white sheet with eye holes, tailored in a feminine cut with a nipped-in waist, with golden olive skin
@@ -97,7 +97,7 @@ A person dressed as a hot-air balloon pilot in a feminine cut (ballooning), with
 A person dressed as a hotel bellhop in a feminine cut (1930s), with a short red jacket with gold braid, trousers with a stripe, a pillbox hat with a chin strap and black shoes, in a feminine cut with shaped seams and a flattering line, with golden olive skin
 A person dressed as a kaiju handler in a feminine cut (tokusatsu), with an utility jumpsuit with a helmet, a helmet and boots, tailored in a feminine cut with a nipped-in waist, with golden olive skin
 A person dressed as a living chess piece in a feminine cut (theatre), with a long robe in a board pattern and a tall crown or helmet, cut for a feminine figure with a fitted waist, with golden olive skin
-A person dressed as a marathon runner in a feminine cut (race), with a singlet with a number, running shorts, a cap and running shoes, in a feminine cut with shaped seams and a flattering line, with golden olive skin
+A person dressed as a marathon runner in a feminine cut (race), with a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes, in a feminine cut with shaped seams and a flattering line, with golden olive skin
 A person dressed as a mascot character in a feminine cut (sports), with a huge furry suit, an oversized head and big feet, in a feminine cut with shaped seams and a flattering line, with golden olive skin
 A person dressed as a masked wrestler in a feminine cut (lucha libre), with a sleeveless sequined top, stretchy trousers, a full-face mask and wrestling boots, cut for a feminine figure with a fitted waist, with golden olive skin
 A person dressed as a medieval herald in a feminine cut (Europe), with a tabard with a coat of arms, hose, a feathered cap and boots, tailored in a feminine cut with a nipped-in waist, with golden olive skin
@@ -164,13 +164,13 @@ A striped apron over a white coat, trousers, a straw boater, clogs, the full out
 A swimsuit, the full outfit of a diver in a feminine cut, with golden olive skin
 A teal flight suit with a vest, a flight helmet, boots, the full outfit of a fleet pilot in a feminine cut, with golden olive skin
 A teal scaled armour with fins, a crown, boots, the full outfit of an ocean champion hero in a feminine cut, with golden olive skin
-A tunic with a name patch, trousers, comfortable shoes, the full outfit of a housekeeper in a feminine cut, with golden olive skin
+A tunic with a name patch reading "__name_first__", trousers, comfortable shoes, the full outfit of a housekeeper in a feminine cut, with golden olive skin
 A two-person horse suit, a horse head, hooves, the full outfit of a pantomime horse in a feminine cut, with golden olive skin
 A waistcoat with sleeve garters over a white shirt, trousers, shoes, the full outfit of a bartender in a feminine cut, with golden olive skin
 A white coat over a shirt and tie, trousers, polished shoes, the full outfit of an optician in a feminine cut, with golden olive skin
 A white gi with a black belt, a headband, bare feet, the full outfit of a karateka in a feminine cut, with golden olive skin
 A white kimono top with a long scarf, a red hakama, sandals, the full outfit of a shrine maiden-style priest in a feminine cut, with golden olive skin
-A white lab coat over a shirt with a name patch, dark trousers, black shoes, the full outfit of a pharmacist in a feminine cut, with golden olive skin
+A white lab coat over a shirt with a name patch reading "__name_first__", dark trousers, black shoes, the full outfit of a pharmacist in a feminine cut, with golden olive skin
 A white pressure suit with dust stains, a helmet, boots, the full outfit of a lunar miner in a feminine cut, with golden olive skin
 A white shirt with wide sleeves and a short embroidered jacket, a white pleated kilt-skirt with white tights, a red cap with a long tassel, red clogs with black pom-poms, the full outfit of an Evzone in a feminine cut, with golden olive skin
 A wool sack coat, wool trousers, a kepi, brogans, the full outfit of a reenactor of a Civil War soldier in a feminine cut, with golden olive skin
@@ -265,7 +265,7 @@ a baseball catcher in a feminine cut (baseball), in a chest protector and shin g
 a battle mage in a feminine cut (fantasy), in a chest plate over a robe with a rune sash and trousers and boots, with golden olive skin
 a beast tamer in a feminine cut (fantasy), wearing a fur vest with claw necklaces, leather trousers, a feathered headband and boots, in a feminine cut with shaped seams and a flattering line, with golden olive skin
 a beekeeper in a feminine cut, dressed in a white protective suit with a veiled hat and gloves, with golden olive skin
-a bell ringer in a feminine cut, dressed in a jumper with the tower name with trousers, with golden olive skin
+a bell ringer in a feminine cut, dressed in a jumper with the name "__name_town__" printed across it with trousers, with golden olive skin
 a birdwatcher in a feminine cut (nature), in a khaki vest with binoculars and trousers and boots, with golden olive skin
 a bishop in a feminine cut, dressed in a purple cassock with a cope and a pectoral cross, with golden olive skin
 a blacksmith in a feminine cut (forge), in a leather apron over a sooty linen shirt and heavy trousers and work boots, with golden olive skin
@@ -403,7 +403,7 @@ a masked ball guest in a feminine cut (gothic), wearing a brocade coat with a ha
 a masked crime boss in a feminine cut (villain), in a sharp white suit with a mask and shoes, with golden olive skin
 a mecha pilot in a feminine cut, dressed in a bodysuit with armour pads, with golden olive skin
 a mecha pilot in a flight suit in a feminine cut (anime-inspired), in a padded suit with armour pads and boots, with golden olive skin
-a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch, a cap and work boots, tailored in a feminine cut with a nipped-in waist, with golden olive skin
+a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, tailored in a feminine cut with a nipped-in waist, with golden olive skin
 a medieval jester in a feminine cut (Europe), wearing a patchwork tunic, tights, a hat with bells and curled shoes, cut for a feminine figure with a fitted waist and carrying a rattle, with golden olive skin
 a medieval king in a feminine cut (Europe), wearing a fur-lined robe over a tunic, a crown and boots, tailored in a feminine cut with a nipped-in waist and carrying a sceptre, with golden olive skin
 a medieval knight in a feminine cut (Europe), wearing a mail hauberk with a heraldic surcoat and plate armour, a great helm and armoured boots, in a feminine cut with shaped seams and a flattering line, with golden olive skin
@@ -466,7 +466,7 @@ a robot in a feminine cut, dressed in a boxy silver suit made of panels, with go
 a rock climber in a feminine cut (crag), wearing a chalk-dusted vest, climbing trousers, a helmet and climbing shoes, in a feminine cut with shaped seams and a flattering line and carrying a rope, with golden olive skin
 a rodeo cowboy in a feminine cut, dressed in a bright shirt with a protective vest with chaps over jeans, with golden olive skin
 a rogue AI hacker in a feminine cut (cyberpunk), wearing a hoodie with circuit patterns, trousers, a mask and sneakers, tailored in a feminine cut with a nipped-in waist, with golden olive skin
-a roller derby skater in a feminine cut, dressed in a number jersey with a helmet with fishnets and shorts, with golden olive skin
+a roller derby skater in a feminine cut, dressed in a jersey with the number "__name_jersey_number__" and a helmet with fishnets and shorts, with golden olive skin
 a rugby player in a feminine cut (rugby), in a hooped jersey with a padded collar and shorts and studded boots, with golden olive skin
 a safari suit wearer in a feminine cut (1970s), wearing a short-sleeved belted safari jacket with four pockets, matching shorts and sandals with long socks, cut for a feminine figure with a fitted waist, with golden olive skin
 a sailor-collar uniform cosplayer in a feminine cut (cosplay), wearing a sailor-collar blouse with a neckerchief, a pleated skirt and loafers, in a feminine cut with shaped seams and a flattering line, with golden olive skin

@@ -69,7 +69,7 @@ A person dressed as a Victorian fireman in a masculine cut (19th century), with 
 A person dressed as a Viking shield-maiden in a masculine cut (myth), with a wool dress with leather armour, a braid and boots, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 A person dressed as a bailiff in a masculine cut (court), which is a dark robe over a suit and polished shoes, cut for a masculine frame with broad shoulders, with very deep brown skin
 A person dressed as a ballet dancer in a masculine cut (stage), with a fitted tunic, tights and ballet slippers, cut for a masculine frame with broad shoulders, with very deep brown skin
-A person dressed as a bell ringer in a masculine cut (church), with a jumper with the tower name, trousers and shoes, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
+A person dressed as a bell ringer in a masculine cut (church), with a jumper with the name "__name_town__" printed across it, trousers and shoes, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 A person dressed as a bounty hunter in a masculine cut (fantasy), with a patched leather cloak with a bandolier, trousers, a wide hat and boots, cut for a masculine frame with broad shoulders, with very deep brown skin
 A person dressed as a boxer in a masculine cut (ring), which is a satin robe, satin shorts and boxing boots, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 A person dressed as a camper in a masculine cut (forest), which is a flannel shirt and a fleece, trousers, a beanie and boots, cut for a masculine frame with broad shoulders, with very deep brown skin
@@ -87,7 +87,7 @@ A person dressed as a firefighter in a masculine cut (modern), with a heavy turn
 A person dressed as a fisherman in a masculine cut (North Atlantic), with a thick Aran sweater with an oilskin smock, waders, a sou'wester and rubber boots, tailored in a masculine cut with a straight waist, with very deep brown skin
 A person dressed as a fisherman with a vest in a masculine cut (river), with a fishing vest covered in flies, waders, a hat with flies and boots, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 A person dressed as a fleet pilot in a masculine cut (sci-fi), with a teal flight suit with a vest, a flight helmet and boots, cut for a masculine frame with broad shoulders, with very deep brown skin
-A person dressed as a flight attendant in a masculine cut (modern airline), with a tailored jacket and neckerchief with a name patch, trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders, with very deep brown skin
+A person dressed as a flight attendant in a masculine cut (modern airline), with a tailored jacket and neckerchief with a name patch reading "__name_first__", trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders, with very deep brown skin
 A person dressed as a forest druid in a masculine cut (fantasy), with a leafy robe with vines and antlers on the shoulders, an antler crown and bare feet, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 A person dressed as a freight pilot in a masculine cut (sci-fi), with a leather jacket over a loose shirt, trousers and boots, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 A person dressed as a gendarme in a masculine cut (France), which is a dark blue tunic with a kepi, blue trousers, a kepi and black boots, cut for a masculine frame with broad shoulders, with very deep brown skin
@@ -188,7 +188,7 @@ A team jersey, bib shorts, a helmet, cycling shoes, the full outfit of a cyclist
 A velvet robe with gold astrological embroidery, a tall pointed hat, slippers, the full outfit of a court wizard in a masculine cut, with very deep brown skin
 A waistcoat with a tape measure round the neck and pins on the lapel, trousers, shoes, the full outfit of a tailor in a masculine cut, with very deep brown skin
 A white double-breasted jacket and apron, checked trousers, a baker's hat, clogs, the full outfit of a baker in a masculine cut, with very deep brown skin
-A white lab coat over a shirt with a name patch, dark trousers, black shoes, the full outfit of a pharmacist in a masculine cut, with very deep brown skin
+A white lab coat over a shirt with a name patch reading "__name_first__", dark trousers, black shoes, the full outfit of a pharmacist in a masculine cut, with very deep brown skin
 A white robe with a coloured cape, a white turban, the full outfit of an Ethiopian priest in a masculine cut, with very deep brown skin
 A white shirt with a black waistcoat and a bow tie, black trousers, black shoes, the full outfit of a waiter in a masculine cut, with very deep brown skin
 A white shirt with wide sleeves and a short embroidered jacket, a white pleated kilt-skirt with white tights, a red cap with a long tassel, red clogs with black pom-poms, the full outfit of an Evzone in a masculine cut, with very deep brown skin
@@ -377,7 +377,7 @@ a hospital nurse in a masculine cut, dressed in a colourful scrub top with an ID
 a hot dog costume wearer in a masculine cut, dressed in a foam hot dog suit, with very deep brown skin
 a hot-air balloon pilot in a masculine cut (ballooning), wearing a windbreaker, cargo trousers, a baseball cap and boots, cut for a masculine frame with broad shoulders, with very deep brown skin
 a hotel bellhop in a masculine cut (1930s), in a short red jacket with gold braid and trousers with a stripe and black shoes, with very deep brown skin
-a housekeeper in a masculine cut (hotel), wearing a tunic with a name patch, trousers and comfortable shoes, tailored in a masculine cut with a straight waist, with very deep brown skin
+a housekeeper in a masculine cut (hotel), wearing a tunic with a name patch reading "__name_first__", trousers and comfortable shoes, tailored in a masculine cut with a straight waist, with very deep brown skin
 a human statue in a masculine cut (street), wearing a silver painted bodysuit, tailored in a masculine cut with a straight waist, with very deep brown skin
 a human taco costume wearer in a masculine cut (party), wearing a foam taco suit, tailored in a masculine cut with a straight waist, with very deep brown skin
 a jockey in a masculine cut, dressed in silk racing colours with white breeches, with very deep brown skin
@@ -400,7 +400,7 @@ a mad hatter-style tea party host in a masculine cut, dressed in a patched coat 
 a mad musician in a masculine cut (stage), in a patchwork tailcoat and a top hat, with very deep brown skin
 a mad scientist in a masculine cut (sci-fi), in a stained lab coat with goggles and trousers and boots, with very deep brown skin
 a magical swordsmith in a masculine cut (anime-inspired), wearing a white tunic and gloves and boots, cut for a masculine frame with broad shoulders, with very deep brown skin
-a marathon runner in a masculine cut (race), in a singlet with a number and a cap, with very deep brown skin
+a marathon runner in a masculine cut (race), in a singlet with the number "__name_jersey_number__" and a cap, with very deep brown skin
 a marching band member in a masculine cut (parade), in a braided tunic with a plume and trousers and boots, with very deep brown skin
 a mariachi musician in a masculine cut, dressed in a short jacket with silver buttons with tight trousers with silver studs, with very deep brown skin
 a mascot character in a masculine cut (sports), wearing a huge furry suit, an oversized head and big feet, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
@@ -408,7 +408,7 @@ a masked apprentice hero in a masculine cut, dressed in a bright orange bodysuit
 a masked ball guest in a masculine cut (gothic), in a brocade coat with a half mask and breeches and shoes, with very deep brown skin
 a masked crime boss in a masculine cut (villain), in a sharp white suit with a mask and a mask, with very deep brown skin
 a mecha pilot in a flight suit in a masculine cut (anime-inspired), in a padded suit with armour pads and a helmet, with very deep brown skin
-a mechanic in a masculine cut, dressed in an oil-stained coverall with a name patch, with very deep brown skin
+a mechanic in a masculine cut, dressed in an oil-stained coverall with a name patch reading "__name_first__", with very deep brown skin
 a medieval herald in a masculine cut (Europe), in a tabard with a coat of arms and a feathered cap, with very deep brown skin
 a medieval jester in a masculine cut (Europe), wearing a patchwork tunic, tights, a hat with bells and curled shoes, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 a medieval king in a masculine cut (Europe), wearing a fur-lined robe over a tunic, a crown and boots, tailored in a masculine cut with a straight waist, with very deep brown skin
@@ -473,7 +473,7 @@ a rock climber in a masculine cut, dressed in a chalk-dusted vest with climbing 
 a rodeo cowboy in a masculine cut, dressed in a bright shirt with a protective vest with chaps over jeans, with very deep brown skin
 a rogue AI hacker in a masculine cut (cyberpunk), wearing a hoodie with circuit patterns, trousers, a mask and sneakers, tailored in a masculine cut with a straight waist, with very deep brown skin
 a rogue in a masculine cut (fantasy), wearing a hooded leather jerkin, leather trousers, a hood and soft boots, cut for a masculine frame with broad shoulders, with very deep brown skin
-a roller derby skater in a masculine cut, dressed in a number jersey with a helmet with fishnets and shorts, with very deep brown skin
+a roller derby skater in a masculine cut, dressed in a jersey with the number "__name_jersey_number__" and a helmet with fishnets and shorts, with very deep brown skin
 a rugby player in a masculine cut (rugby), in a hooped jersey with a padded collar and shorts and studded boots, with very deep brown skin
 a safari suit wearer in a masculine cut (1970s), wearing a short-sleeved belted safari jacket with four pockets, matching shorts and sandals with long socks, tailored in a masculine cut with a straight waist, with very deep brown skin
 a sailor in a dress uniform in a masculine cut, dressed in a navy jumper with a white-striped sailor collar and neckerchief with bell-bottom trousers, with very deep brown skin

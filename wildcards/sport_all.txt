@@ -38,9 +38,9 @@ Football cleats, high-top shoes with firm studs. Made of synthetic.
 Football helmet, a hard shell helmet with a face cage and chin strap. Made of plastic, in black.
 Football helmet, a hard shell helmet with a face cage and chin strap. Made of plastic, in cream.
 Football helmet, a hard shell helmet with a face cage and chin strap. Made of steel, in black.
-Football shirt and shorts, a short-sleeved jersey with a number and matching shorts. Made of polyester, in gold.
-Football shirt and shorts, a short-sleeved jersey with a number and matching shorts. Made of polyester, in pink.
-Football shirt and shorts, a short-sleeved jersey with a number and matching shorts. Made of polyester, in purple.
+Football shirt and shorts, a short-sleeved jersey with the number "__name_jersey_number__" and matching shorts. Made of polyester, in gold.
+Football shirt and shorts, a short-sleeved jersey with the number "__name_jersey_number__" and matching shorts. Made of polyester, in pink.
+Football shirt and shorts, a short-sleeved jersey with the number "__name_jersey_number__" and matching shorts. Made of polyester, in purple.
 Goalkeeper gloves, gloves with a grippy latex palm. Made of latex and foam, in gold.
 Goalkeeper gloves, gloves with a grippy latex palm. Made of latex and foam, in turquoise.
 Goalkeeper gloves, gloves with a grippy latex palm. Made of latex and foam, in white.

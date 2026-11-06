@@ -44,7 +44,7 @@ a relaxed-fit royal blue striped fleece quarter-zip pullover with oatmeal elasti
 a relaxed-fit plum gingham linen blend short-sleeve button-up shirt with olive green chinos
 a relaxed-fit mocha jersey cotton crew-neck t-shirt with camel pleated trousers under a teal field jacket and running shoes
 a relaxed-fit faded black cotton cable-knit sweater with faded black sweatpants and work boots
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a loose cream-white striped chambray oxford button-down shirt with faded red elastic-waist trousers and work boots
 a loose powder blue striped heavy flannel shirt with dark navy pleated trousers
 an ink blue cotton-knit crewneck sweater with mid-wash straight-leg jeans and cushioned sneakers
@@ -126,12 +126,12 @@ an oversized taupe striped waffle-knit cotton henley shirt with light-wash loose
 a loose jet black wool crewneck sweater with dark indigo loose straight jeans and canvas sneakers
 a beige chambray oxford button-down shirt with mid-wash relaxed jeans and boat shoes
 a loose soft white embroidered fine-knit quarter-zip pullover with mid-wash straight-leg jeans and work boots
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a loose jet black cotton-knit cardigan with light-wash relaxed jeans under a tan wool overcoat and work boots
 a button-down shirt with a loosened tie and dress trousers and leather work boots
 a black cotton cable-knit sweater with burgundy khakis and comfortable walking shoes
 a faded black linen shirt with tomato red pleated trousers and comfortable walking shoes
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 an ink blue textured linen blend short-sleeve button-up shirt with teal chinos under a stone puffer jacket
 an emerald green cotton crew-neck t-shirt with faded red sweatpants under a faded black cardigan and leather boots
 a brick red cotton vest over a collared shirt with jet black elastic-waist trousers under a khaki cardigan
@@ -337,7 +337,7 @@ a relaxed-fit marled grey cotton-knit crewneck sweater with cream-white elastic-
 an oversized black brushed cotton flannel shirt with dark indigo straight-leg jeans and orthopedic-style supportive shoes
 cycling bib shorts with a jersey and grey sneakers
 a relaxed-fit white ribbed cotton long-sleeve tee with black elastic-waist trousers and comfortable walking shoes
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 an army green striped fine-knit quarter-zip pullover with light-wash straight-leg jeans and slip-on shoes
 a formal dark suit with a black tie for a funeral and comfortable dress shoes
 a relaxed-fit wine red brushed cotton flannel shirt with mid-wash bootcut jeans under a washed black hooded anorak and work boots
@@ -468,7 +468,7 @@ a loose heather grey cotton crew-neck t-shirt with marled grey pleated trousers 
 a relaxed-fit bright white linen shirt with electric blue pleated trousers and orthopedic-style supportive shoes
 a relaxed-fit navy striped linen shirt with dark indigo relaxed jeans under a powder blue puffer jacket and cushioned sneakers
 a faded white waffle-knit cotton thermal waffle shirt with dark indigo straight-leg jeans and white sneakers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a relaxed-fit off-white striped brushed cotton flannel shirt with black elastic-waist trousers and leather boots
 a black textured chambray oxford button-down shirt with black relaxed jeans and sandals
 a basketball jersey and baggy shorts
@@ -697,7 +697,7 @@ a relaxed-fit plum heavy flannel shirt with midnight blue track pants and work b
 a relaxed-fit cream-white soft cotton crew-neck t-shirt with violet pleated trousers and work boots
 a relaxed-fit heather grey fleece zip-up hoodie with washed black cargo pants under a midnight blue cardigan and white sneakers
 a loose rust brown cotton crew-neck t-shirt with light-wash straight-leg jeans under a sand blazer and orthopedic-style supportive shoes
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a relaxed-fit marled grey linen shirt with red chinos under a black leather jacket and slip-on shoes
 __clothing_outfit_pattern__ __m_outfit_casual_top__ with __clothing_outfit_material__ __m_outfit_casual_bottom__, dress boots, rugged outdoorsy look
 a loose oatmeal wool cardigan with dark indigo slim jeans
@@ -723,7 +723,7 @@ a loose marled grey checked fine-knit quarter-zip pullover with slate grey jogge
 a relaxed-fit taupe wool cardigan with sage green chinos under a petrol blue field jacket and comfortable walking shoes
 a relaxed-fit faded black plaid piqué cotton polo shirt with black loose straight jeans under a midnight blue puffer jacket and work boots
 a relaxed-fit washed black jersey v-neck t-shirt with soft white elastic-waist trousers and slip-on shoes
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a relaxed-fit light grey cotton crew-neck t-shirt with off-white chinos under a jet black cardigan and orthopedic-style supportive shoes
 a royal blue piqué cotton polo shirt with faded white pleated trousers under a soft white varsity jacket and comfortable walking shoes
 a jet black checked fine-knit quarter-zip pullover with faded blue straight-leg jeans and loafers
@@ -735,7 +735,7 @@ a relaxed-fit soft white linen shirt with tan elastic-waist trousers and running
 a relaxed-fit heather grey plaid chambray oxford button-down shirt with navy dress trousers under a powder blue puffer jacket and comfortable walking shoes
 a loose washed black lambswool crewneck sweater with crisp white dress trousers and orthopedic-style supportive shoes
 a relaxed-fit sky blue waffle-knit cotton henley shirt with navy elastic-waist trousers under a camel wool overcoat and loafers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a loose violet cotton baseball tee with dark indigo straight-leg jeans under a beige hooded anorak and black sneakers
 a light grey piqué cotton polo shirt with olive green pleated trousers under a faded black blazer and white sneakers
 a loose jet black merino wool quarter-zip pullover with mid-wash loose straight jeans under a mocha sport coat and cushioned sneakers
@@ -766,7 +766,7 @@ a relaxed-fit black tartan merino wool quarter-zip pullover with black sweatpant
 a boxy faded black cotton v-neck t-shirt with oatmeal elastic-waist trousers under a camel trench coat and running shoes
 a slim-fit black cotton-knit cardigan with heather grey cargo pants under a black leather jacket and comfortable walking shoes
 a washed black cotton-knit cardigan with mid-wash tapered jeans and loafers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a relaxed-fit mid grey plaid cotton-knit crewneck sweater with mid-wash bootcut jeans under a light grey cardigan
 a chocolate brown cotton vest over a collared shirt with jet black chinos under a light grey puffer jacket and orthopedic-style supportive shoes
 a washed black cotton Hawaiian shirt with navy elastic-waist trousers and comfortable walking shoes
@@ -786,7 +786,7 @@ a relaxed-fit burgundy wool cardigan with mid-wash relaxed jeans and cushioned s
 a loose cream-white wool crewneck sweater with mid-wash bootcut jeans and work boots
 a dark navy striped ribbed cotton long-sleeve tee with soft white chinos under a light-wash denim jacket and canvas sneakers
 a loose marled grey lambswool crewneck sweater with olive green khakis under a soft white windbreaker and orthopedic-style supportive shoes
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a linen guayabera and trousers and polished oxford shoes
 a loose dark navy merino wool quarter-zip pullover with washed black sweatpants and slip-on shoes
 a loose taupe cotton henley shirt with navy elastic-waist trousers and white sneakers

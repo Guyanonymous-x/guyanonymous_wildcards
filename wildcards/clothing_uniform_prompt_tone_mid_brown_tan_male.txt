@@ -100,10 +100,10 @@ A person dressed as a karateka in a masculine cut (dojo), which is a white gi wi
 A person dressed as a knitter in a masculine cut (home), which is a shawl over a cardigan with knitting needles in a bun, trousers and slippers, tailored in a masculine cut with a straight waist, with mid-tone brown tanned skin
 A person dressed as a lion dancer in a masculine cut (folklore), with a furry lion costume and a lion head, tailored in a masculine cut with a straight waist, with mid-tone brown tanned skin
 A person dressed as a mad musician in a masculine cut (stage), with a patchwork tailcoat, striped trousers, a top hat and boots, cut for a masculine frame with broad shoulders, with mid-tone brown tanned skin
-A person dressed as a marathon runner in a masculine cut (race), with a singlet with a number, running shorts, a cap and running shoes, in a masculine cut with a roomy chest and shoulders, with mid-tone brown tanned skin
+A person dressed as a marathon runner in a masculine cut (race), with a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes, in a masculine cut with a roomy chest and shoulders, with mid-tone brown tanned skin
 A person dressed as a masked ball guest in a masculine cut (gothic), with a brocade coat with a half mask, breeches, a plumed hat and shoes, in a masculine cut with a roomy chest and shoulders, with mid-tone brown tanned skin
 A person dressed as a masked crime boss in a masculine cut (villain), with a sharp white suit with a mask, a mask and shoes, tailored in a masculine cut with a straight waist, with mid-tone brown tanned skin
-A person dressed as a mechanic in a masculine cut (garage), which is an oil-stained coverall with a name patch, a cap and work boots, tailored in a masculine cut with a straight waist, with mid-tone brown tanned skin
+A person dressed as a mechanic in a masculine cut (garage), which is an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, tailored in a masculine cut with a straight waist, with mid-tone brown tanned skin
 A person dressed as a mothman-style cryptid in a masculine cut (folklore), with a dark furry suit with wings and red eyes, cut for a masculine frame with broad shoulders, with mid-tone brown tanned skin
 A person dressed as a mummy in a masculine cut (horror), wrapped bandages, cut for a masculine frame with broad shoulders, with mid-tone brown tanned skin
 A person dressed as a mutant wanderer in a masculine cut (wasteland), with a ragged cloak over a tattered shirt, a hood and boots, in a masculine cut with a roomy chest and shoulders, with mid-tone brown tanned skin
@@ -173,7 +173,7 @@ A sparkling waistcoat, trousers, shoes, the full outfit of a sword swallower in 
 A spiked leather harness with fur, trousers, a skull helm, boots, the full outfit of an orc warrior in a masculine cut, with mid-tone brown tanned skin
 A tactical vest with pouches, combat trousers, a helmet and balaclava, boots, the full outfit of a SWAT team member in a masculine cut, with mid-tone brown tanned skin
 A tailcoat with a white bow tie, striped trousers, polished shoes, the full outfit of an orchestra conductor in a masculine cut, with mid-tone brown tanned skin
-A tailored jacket and neckerchief with a name patch, trousers, a pillbox hat, court shoes, the full outfit of a flight attendant in a masculine cut, with mid-tone brown tanned skin
+A tailored jacket and neckerchief with a name patch reading "__name_first__", trousers, a pillbox hat, court shoes, the full outfit of a flight attendant in a masculine cut, with mid-tone brown tanned skin
 A tailored jacket with a sash, trousers, a hat, boots, the full outfit of an Edwardian suffragette in a masculine cut, with mid-tone brown tanned skin
 A team jersey, white breeches, a helmet, tall boots, the full outfit of a polo player in a masculine cut, with mid-tone brown tanned skin
 A vest with many pockets, trousers, a flat cap, boots, the full outfit of a street photographer in a masculine cut, with mid-tone brown tanned skin
@@ -265,7 +265,7 @@ a bartender in a masculine cut (cocktail bar), wearing a waistcoat with sleeve g
 a baseball catcher in a masculine cut (baseball), in a chest protector and shin guards and a mask, with mid-tone brown tanned skin
 a beekeeper in a masculine cut (apiary), in a white protective suit with a veiled hat and gloves and boots, with mid-tone brown tanned skin
 a beekeeper-bee hybrid in a masculine cut (party), in a striped bee suit with wings and antennae, with mid-tone brown tanned skin
-a bell ringer in a masculine cut (church), wearing a jumper with the tower name, trousers and shoes, in a masculine cut with a roomy chest and shoulders and carrying a bell rope, with mid-tone brown tanned skin
+a bell ringer in a masculine cut (church), wearing a jumper with the name "__name_town__" printed across it, trousers and shoes, in a masculine cut with a roomy chest and shoulders and carrying a bell rope, with mid-tone brown tanned skin
 a birdwatcher in a masculine cut (nature), in a khaki vest with binoculars and trousers and boots, with mid-tone brown tanned skin
 a bishop in a masculine cut (church), wearing a purple cassock with a cope and a pectoral cross, a tall mitre and shoes, tailored in a masculine cut with a straight waist and carrying a crook-shaped staff, with mid-tone brown tanned skin
 a bog witch in a masculine cut (folklore), in a muddy cloak with reeds and a wide hat, with mid-tone brown tanned skin
@@ -368,7 +368,7 @@ a horned noble in a masculine cut, dressed in a crimson velvet jacket with trous
 a hot dog costume wearer in a masculine cut, dressed in a foam hot dog suit, with mid-tone brown tanned skin
 a hot-air balloon pilot in a masculine cut (ballooning), in a windbreaker and a baseball cap, with mid-tone brown tanned skin
 a hotel bellhop in a masculine cut (1930s), in a short red jacket with gold braid and a pillbox hat with a chin strap, with mid-tone brown tanned skin
-a housekeeper in a masculine cut (hotel), wearing a tunic with a name patch, trousers and comfortable shoes, tailored in a masculine cut with a straight waist and carrying a trolley, with mid-tone brown tanned skin
+a housekeeper in a masculine cut (hotel), wearing a tunic with a name patch reading "__name_first__", trousers and comfortable shoes, tailored in a masculine cut with a straight waist and carrying a trolley, with mid-tone brown tanned skin
 a human cannonball in a masculine cut (circus), in a shiny silver jumpsuit and a helmet, with mid-tone brown tanned skin
 a human pretzel contortionist in a masculine cut (circus), wearing a sparkling bodysuit, in a masculine cut with a roomy chest and shoulders, with mid-tone brown tanned skin
 a jack-o'-lantern in a masculine cut, dressed in a pumpkin costume, with mid-tone brown tanned skin
@@ -435,7 +435,7 @@ a paladin in a masculine cut (fantasy), wearing a shining breastplate with a tab
 a pantomime horse in a masculine cut, dressed in a two-person horse suit, with mid-tone brown tanned skin
 a park ranger in a masculine cut (national park), wearing a green shirt with a patch and a flat-brimmed hat, olive trousers, a flat-brimmed hat and hiking boots, cut for a masculine frame with broad shoulders and carrying a field guide, with mid-tone brown tanned skin
 a patterned-haori swordsperson in a masculine cut (anime-inspired), wearing a patterned haori over a plain kimono, trousers and sandals, in a masculine cut with a roomy chest and shoulders and carrying a sword, with mid-tone brown tanned skin
-a pharmacist in a masculine cut (pharmacy), wearing a white lab coat over a shirt with a name patch, dark trousers and black shoes, in a masculine cut with a roomy chest and shoulders and carrying a prescription tray, with mid-tone brown tanned skin
+a pharmacist in a masculine cut (pharmacy), wearing a white lab coat over a shirt with a name patch reading "__name_first__", dark trousers and black shoes, in a masculine cut with a roomy chest and shoulders and carrying a prescription tray, with mid-tone brown tanned skin
 a phoenix in a masculine cut (myth), in a feathered flame costume and a feathered crest, with mid-tone brown tanned skin
 a physiotherapist in a masculine cut, dressed in a polo shirt with a clinic motif-free patch and a tape measure round the neck with athletic trousers, with mid-tone brown tanned skin
 a pirate captain in a masculine cut (golden age of piracy), in a long embroidered coat with a sash and cross-belt and a feathered tricorn, with mid-tone brown tanned skin
@@ -467,7 +467,7 @@ a rock climber in a masculine cut (crag), wearing a chalk-dusted vest, climbing 
 a rodeo cowboy in a masculine cut (rodeo), wearing a bright shirt with a protective vest, chaps over jeans, a cowboy hat and boots, cut for a masculine frame with broad shoulders, with mid-tone brown tanned skin
 a rogue AI hacker in a masculine cut (cyberpunk), in a hoodie with circuit patterns and trousers and sneakers, with mid-tone brown tanned skin
 a rogue in a masculine cut, dressed in a hooded leather jerkin with leather trousers, with mid-tone brown tanned skin
-a roller derby skater in a masculine cut, dressed in a number jersey with a helmet with fishnets and shorts, with mid-tone brown tanned skin
+a roller derby skater in a masculine cut, dressed in a jersey with the number "__name_jersey_number__" and a helmet with fishnets and shorts, with mid-tone brown tanned skin
 a safari suit wearer in a masculine cut (1970s), in a short-sleeved belted safari jacket with four pockets and matching shorts and sandals with long socks, with mid-tone brown tanned skin
 a sailor in a dress uniform in a masculine cut (navy), in a navy jumper with a white-striped sailor collar and neckerchief and bell-bottom trousers and black shoes, with mid-tone brown tanned skin
 a samurai in a masculine cut (feudal Japan), in a lacquered armour with a silk cord over a kimono and wide hakama and straw sandals, with mid-tone brown tanned skin

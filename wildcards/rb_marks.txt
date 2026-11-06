@@ -7,6 +7,6 @@ with a row of panel lines and a tiny serial number __rb_text_unit__
 with a yellow tab tied on that reads __rb_text_unit__
 with a faded stripe and the word __rb_text_warn__ below it
 with a number painted on its front that reads __rb_text_unit__
-with a name patch on its chest that reads __rb_text_unit__
+with a name patch reading "__name_first__" on its chest that reads __rb_text_unit__
 with plain panels and
 with a small printed tab on its leg that reads __rb_text_warn__

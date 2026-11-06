@@ -106,7 +106,7 @@ a forest green textured wool crewneck sweater with faded blue work pants and can
 a relaxed-fit washed black tartan cotton short-sleeve button-up shirt with mid-wash slim jeans under a navy wool overcoat and black sneakers
 a black striped heavy cotton crew-neck t-shirt with mid-wash skinny jeans and chelsea boots
 a slim-fit dark navy heavy cotton crew-neck t-shirt with light-wash slim jeans and running shoes
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 an oversized plum merino wool quarter-zip pullover with rust brown cargo shorts under a black parka and work boots
 __clothing_outfit_color__ __m_outfit_outerwear__ over a __clothing_outfit_color__ __m_outfit_casual_top__ and __m_outfit_casual_bottom__, black sneakers, a leather belt with a metal buckle, preppy style
 an oversized jet black moisture-wicking mesh sleeveless gym tee with emerald green dress trousers under a black denim jacket and leather boots
@@ -225,7 +225,7 @@ a delivery uniform polo with cargo shorts and steel-toe work boots
 a cobalt blue cotton graphic tee with a printed design with mid grey sweatpants under a midnight blue field jacket and running shoes
 a slim-fit emerald green heavy flannel shirt with mid-wash slim jeans and black sneakers
 a faded white cotton camp-collar shirt with light-wash relaxed jeans under an olive green parka and sandals
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a slim-fit cobalt blue striped linen shirt with faded black joggers and boat shoes
 a security guard uniform with an utility belt and steel-toe work boots
 a navy two-piece suit with a white shirt with an open collar and a solid silk tie and polished oxford shoes
@@ -329,7 +329,7 @@ a relaxed-fit hot pink merino wool quarter-zip pullover with soft white sweatpan
 a slim-fit khaki moisture-wicking mesh sleeveless gym tee with mid-wash slim jeans and work boots
 a slim-fit white camouflage soft cotton crew-neck t-shirt with light-wash straight-leg jeans under an olive green parka
 a boxy cream-white jersey cotton crew-neck t-shirt with crisp white chinos and white sneakers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a slim-fit coral cotton graphic tee with a printed design with faded black cargo shorts and work boots
 a boxy black soft cotton graphic tee with a printed design with sand dress trousers and work boots
 relaxed __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit_color__ __m_outfit_casual_bottom__, hiking boots, a flat cap, practical comfortable wear
@@ -380,7 +380,7 @@ a slim-fit light grey merino wool quarter-zip pullover with mid-wash tapered jea
 a faded red jersey cotton crew-neck t-shirt with maroon chinos and chelsea boots
 worn-in __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit_color__ __m_outfit_casual_bottom__, leather boots, a leather belt with a metal buckle, practical comfortable wear
 a relaxed-fit soft white linen shirt with turquoise dress trousers under a tan leather jacket and leather boots
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a charcoal suit with a crisp white dress shirt and a knit tie and derby shoes
 a black suit with a white shirt with an open collar and a striped tie under a charcoal grey wool overcoat and polished oxford shoes
 a slim-fit terracotta polka-dot wool crewneck sweater with bright white board shorts under a washed black fleece jacket and white sneakers
@@ -793,7 +793,7 @@ a faded white cotton crew-neck t-shirt with light-wash tapered jeans and work bo
 a loose black soft cotton graphic tee with a printed design with washed black pleated trousers under a light-wash denim jacket and canvas sneakers
 a loose brick red plaid linen blend short-sleeve button-up shirt with mid-wash straight-leg jeans under a charcoal grey peacoat
 an oversized jet black striped fleece sweatshirt with mid-wash straight-leg jeans and white sneakers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a mocha jersey sleeveless gym tee with taupe corduroy pants
 a jet black heavy cotton crew-neck t-shirt with powder blue dress trousers under a navy puffer jacket and sandals
 a navy heavy cotton crew-neck t-shirt with oatmeal athletic shorts and canvas sneakers

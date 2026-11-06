@@ -224,7 +224,7 @@ a jaguar-skin suit
 a jersey over shoulder pads
 a jewelled gown with a ruff
 a jumper and a flat cap
-a jumper with the tower name
+a jumper with the name "__name_town__" printed across it
 a kente cloth draped over the shoulder
 a khaki shirt
 a khaki shirt with a Sam Browne belt
@@ -307,7 +307,7 @@ a navy jumper with a white-striped sailor collar and neckerchief
 a navy parka with reflective tape
 a navy two-piece suit jacket, a white shirt and a silk tie with a pocket square
 a neon jacket with glowing trim
-a number jersey with a helmet
+a jersey with the number "__name_jersey_number__" and a helmet
 a padded coverall with a headset
 a padded inflatable sumo suit
 a padded jacket
@@ -434,7 +434,7 @@ a silver jumpsuit with an utility belt
 a silver painted bodysuit
 a silver robe with stars
 a silver suit with a crystal gem on the chest
-a singlet with a number
+a singlet with the number "__name_jersey_number__"
 a skin-tight patterned suit
 a sleeveless sequined top
 a smock splattered with paint
@@ -474,7 +474,7 @@ a tailcoat with a white bow tie
 a tailcoat with medals
 a tailcoat with panel lines
 a tailored jacket and blouse or shirt and tie
-a tailored jacket and neckerchief with a name patch
+a tailored jacket and neckerchief with a name patch reading "__name_first__"
 a tailored jacket with a sash
 a tan uniform shirt with a star
 a tattered black robe with bone clasps and a hooded cloak
@@ -490,7 +490,7 @@ a thick coat and a scarf
 a tie-dye shirt with glitter
 a torn bloodied shirt
 a torn wedding gown
-a tunic with a name patch
+a tunic with a name patch reading "__name_first__"
 a tunic with a pocket full of instruments and a fob watch
 a tweed jacket with chalk-dusted elbow patches
 a two-person horse suit
@@ -525,7 +525,7 @@ a white judogi with a belt
 a white kimono top with a long scarf
 a white kimono with fox tails
 a white kurta with a shoulder cloth
-a white lab coat over a shirt with a name patch
+a white lab coat over a shirt with a name patch reading "__name_first__"
 a white lab coat, safety goggles and blue gloves
 a white padded jacket with a mask
 a white polo shirt
@@ -575,7 +575,7 @@ an embroidered dress with a cape
 an engine driver's jacket
 an engineer's cap and a waistcoat
 an ice-white gown with fur
-an oil-stained coverall with a name patch
+an oil-stained coverall with a name patch reading "__name_first__"
 an olive coverall with a seed pouch
 an orange coverall with reflective strips
 an orange pressure suit or a blue flight suit with mission patches

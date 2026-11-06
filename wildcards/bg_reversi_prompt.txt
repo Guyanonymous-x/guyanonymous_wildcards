@@ -1,0 +1,6 @@
+__bg_reversi_board_prompt__
+__bg_reversi_play_prompt__
+__bg_reversi_play_prompt__
+__bg_reversi_pieces_prompt__
+__bg_reversi_box_prompt__
+__bg_reversi_contents_prompt__

@@ -379,7 +379,7 @@ a mid grey linen shirt with dark indigo relaxed jeans under a powder blue hooded
 an oversized sky blue plaid brushed cotton flannel shirt with sand corduroy pants under a soft white puffer jacket and running shoes
 a relaxed-fit marled grey cotton long-sleeve tee with dark indigo bootcut jeans and work boots
 a pinstripe suit with a crisp white dress shirt and a knit tie and leather loafers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a faded blue heavy cotton crew-neck t-shirt with sky blue chinos under a charcoal grey fleece jacket and leather boots
 a loose ink blue chambray oxford button-down shirt with light-wash denim shorts and black sneakers
 a heather grey jersey cotton crew-neck t-shirt with black loose straight jeans under an oatmeal field jacket and white sneakers
@@ -462,7 +462,7 @@ a compression top and joggers and black training shoes
 a rust brown denim shirt with tomato red cargo pants under a cream-white puffer jacket and black sneakers
 a slim-fit deep purple cotton v-neck t-shirt with ink blue chinos under a jet black hooded anorak and slip-on shoes
 a waterproof shell jacket in __clothing_outfit_color__ over a thermal shirt with hiking pants, insulated boots, a trucker cap, rugged outdoorsy look
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 an ink blue fleece sweatshirt with black straight-leg jeans and black sneakers
 a relaxed-fit faded white plaid soft cotton crew-neck t-shirt with faded blue loose straight jeans under a jet black rain jacket and work boots
 a loose jet black gingham piqué cotton polo shirt with black loose straight jeans and cushioned sneakers
@@ -942,7 +942,7 @@ a relaxed-fit light grey plaid wool cardigan with dark indigo straight-leg jeans
 a heather grey cotton v-neck t-shirt with faded blue tapered jeans and leather boots
 a relaxed-fit khaki cotton v-neck t-shirt with grey straight-leg jeans and hiking boots
 a cobalt blue wool vest over a collared shirt with dark indigo straight-leg jeans and white sneakers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a gym tank and sweatpants and white running shoes
 an oversized faded black chambray oxford button-down shirt with light-wash tapered jeans
 a high-visibility vest over a work shirt and rugged work pants and steel-toe work boots

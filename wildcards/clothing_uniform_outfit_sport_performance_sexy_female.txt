@@ -43,7 +43,7 @@ A person dressed as a jockey in a sexy feminine costume-shop style (racecourse),
 A person dressed as a judoka in a sexy feminine costume-shop style (dojo), with a white judogi with a belt and bare feet, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
 A person dressed as a karateka in a sexy feminine costume-shop style (dojo), with a white gi with a black belt, a headband and bare feet, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels
 A person dressed as a magician in a sexy feminine costume-shop style (stage), with a tailcoat with a cape, trousers, a top hat and polished shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
-A person dressed as a marathon runner in a sexy feminine costume-shop style (race), with a singlet with a number, running shorts, a cap and running shoes, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
+A person dressed as a marathon runner in a sexy feminine costume-shop style (race), with a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
 A person dressed as a marching band member in a sexy feminine costume-shop style (parade), with a braided tunic with a plume, trousers, a plumed shako and boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
 A person dressed as a mime in a sexy feminine costume-shop style (street), with a striped long-sleeved shirt with suspenders, black trousers, a beret and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
 A person dressed as a mountaineer in a sexy feminine costume-shop style (Himalayas), with a down jacket, insulated trousers, a helmet and goggles and mountaineering boots, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
@@ -78,7 +78,7 @@ A satin robe, satin shorts, boxing boots, the full outfit of a boxer in a sexy f
 A sequined bodysuit, a feather plume, heels, the full outfit of a stage magician's assistant in a sexy feminine costume-shop style
 A sequined dress, tights, skates, the full outfit of a figure skater in a sexy feminine costume-shop style
 A short embroidered jacket in gold thread with a sash, tight breeches, a montera hat, slippers, the full outfit of a bullfighter in a sexy feminine costume-shop style
-A singlet with a number, running shorts, a cap, running shoes, the full outfit of a marathon runner in a sexy feminine costume-shop style
+A singlet with the number "__name_jersey_number__", running shorts, a cap, running shoes, the full outfit of a marathon runner in a sexy feminine costume-shop style
 A sparkling leotard, bare feet, the full outfit of a gymnast in a sexy feminine costume-shop style
 A sparkling leotard, slippers, the full outfit of an acrobat in a sexy feminine costume-shop style
 A sparkling waistcoat, trousers, shoes, the full outfit of a sword swallower in a sexy feminine costume-shop style
@@ -204,10 +204,10 @@ a magician in a sexy feminine costume-shop style (stage), in a tailcoat with a c
 a magician in a sexy feminine costume-shop style (stage), wearing a tailcoat with a cape, trousers, a top hat and polished shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
 a magician in a sexy feminine costume-shop style (stage), wearing a tailcoat with a cape, trousers, a top hat and polished shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels and carrying a wand
 a magician in a sexy feminine costume-shop style, dressed in a tailcoat with a cape with trousers
-a marathon runner in a sexy feminine costume-shop style (race), in a singlet with a number and a cap
-a marathon runner in a sexy feminine costume-shop style (race), in a singlet with a number and running shorts and running shoes
-a marathon runner in a sexy feminine costume-shop style (race), wearing a singlet with a number, running shorts, a cap and running shoes, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
-a marathon runner in a sexy feminine costume-shop style, dressed in a singlet with a number with running shorts
+a marathon runner in a sexy feminine costume-shop style (race), in a singlet with the number "__name_jersey_number__" and a cap
+a marathon runner in a sexy feminine costume-shop style (race), in a singlet with the number "__name_jersey_number__" and running shorts and running shoes
+a marathon runner in a sexy feminine costume-shop style (race), wearing a singlet with the number "__name_jersey_number__", running shorts, a cap and running shoes, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
+a marathon runner in a sexy feminine costume-shop style, dressed in a singlet with the number "__name_jersey_number__" with running shorts
 a marching band member in a sexy feminine costume-shop style (parade), in a braided tunic with a plume and a plumed shako
 a marching band member in a sexy feminine costume-shop style (parade), in a braided tunic with a plume and trousers and boots
 a marching band member in a sexy feminine costume-shop style (parade), wearing a braided tunic with a plume, trousers, a plumed shako and boots, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots

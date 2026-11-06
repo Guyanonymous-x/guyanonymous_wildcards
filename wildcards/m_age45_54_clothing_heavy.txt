@@ -190,7 +190,7 @@ a black cotton camp-collar shirt with royal blue corduroy pants and loafers
 a delivery uniform polo with cargo shorts and leather work boots
 a crisp white cotton long-sleeve tee with black tapered jeans under a lavender fleece jacket and white sneakers
 a relaxed-fit olive green cotton Hawaiian shirt with faded blue straight-leg jeans and canvas sneakers
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a taupe wool cable-knit sweater with navy work pants and loafers
 a relaxed-fit washed black ribbed-knit turtleneck with crisp white linen pants under a jet black field jacket and white sneakers
 __clothing_outfit_color__ __m_outfit_outerwear__ over a __clothing_outfit_color__ __m_outfit_casual_top__ and __m_outfit_casual_bottom__, combat boots, a knit beanie, utilitarian style
@@ -966,7 +966,7 @@ an oversized dark navy chambray oxford button-down shirt with mid-wash tapered j
 a button-down shirt with a loosened tie and dress trousers and black non-slip shoes
 a relaxed-fit violet cotton crew-neck t-shirt with jet black chinos and hiking boots
 a faded red jersey v-neck t-shirt with faded blue straight-leg jeans and cushioned sneakers
-a mechanic's coveralls with a name patch
+a mechanic's coveralls with a name patch reading "__name_first__"
 a loose sage green chambray oxford button-down shirt with marled grey chinos and canvas sneakers
 a khaki performance knit polo shirt with mid-wash slim jeans and loafers
 a light grey suit with a crisp white dress shirt and a patterned tie with a tie clip and derby shoes

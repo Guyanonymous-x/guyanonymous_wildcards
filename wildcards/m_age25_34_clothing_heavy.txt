@@ -7,7 +7,7 @@ an oversized bottle green heavy flannel shirt with dark indigo relaxed jeans and
 a black tartan performance knit polo shirt with faded red joggers and leather boots
 a zip-up training jacket over a tee and joggers and grey sneakers
 a slim-fit midnight blue striped wool cable-knit sweater with mid-wash slim jeans and leather boots
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a compression top and joggers and grey sneakers
 __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit_color__ __m_outfit_casual_bottom__, high-top sneakers, a baseball cap, utilitarian style
 a fitted athletic t-shirt with training shorts and black training shoes
@@ -92,7 +92,7 @@ a chef's white double-breasted jacket with checked trousers and leather work boo
 a loose black cotton fleece hoodie with mid-wash straight-leg jeans under a white puffer jacket and loafers
 a relaxed-fit midnight blue waffle-knit cotton thermal waffle shirt with mid-wash relaxed jeans and white sneakers
 a midnight blue heavy cotton crew-neck t-shirt with light-wash straight-leg jeans under a petrol blue windbreaker and slip-on shoes
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a relaxed-fit tomato red cotton-knit crewneck sweater with faded blue loose straight jeans and chelsea boots
 a lab coat over a shirt and tie and leather work boots
 an oversized taupe wool cardigan with faded white track pants under a mustard yellow fleece jacket and slip-on shoes
@@ -461,7 +461,7 @@ a relaxed-fit mocha chambray denim shirt with cream-white joggers under a mid-wa
 a slim-fit marled grey striped heavy cotton crew-neck t-shirt with light-wash denim shorts and leather boots
 a light grey ribbed cotton tank top with black slim jeans and canvas sneakers
 a boxy white embroidered jersey cotton crew-neck t-shirt with crisp white joggers and canvas sneakers
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a loose cream-white fleece quarter-zip pullover with taupe track pants under a royal blue blazer
 a dark navy cotton cable-knit sweater with faded red chinos under a charcoal grey parka and chelsea boots
 a relaxed-fit faded white soft cotton crew-neck t-shirt with washed black joggers and boat shoes
@@ -850,7 +850,7 @@ a taupe striped jersey cotton crew-neck t-shirt with slate grey work pants and l
 a boxy faded black moisture-wicking mesh sleeveless gym tee with bright white chinos under a wine red shearling-lined jacket and white sneakers
 a boxy tomato red cotton graphic tee with a printed design with black chinos under a washed black puffer jacket and chelsea boots
 a navy two-piece suit with a checked dress shirt and a striped tie and polished oxford shoes
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a navy two-piece suit with a pale pink dress shirt and a bow tie and clean white sneakers
 a canvas apron over a flannel shirt and jeans and black non-slip shoes
 a relaxed-fit black waffle-knit cotton thermal waffle shirt with tomato red cargo pants and high-top sneakers
@@ -944,7 +944,7 @@ a relaxed-fit off-white heavy cotton crew-neck t-shirt with sky blue board short
 a mustard yellow striped soft cotton crew-neck t-shirt with taupe dress trousers and loafers
 an oversized black fleece sweatshirt with marled grey khakis
 a security guard uniform with an utility belt and steel-toe work boots
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 an oversized jet black cotton crew-neck t-shirt with black cargo pants under a navy parka and white sneakers
 a white cotton v-neck t-shirt with faded white sweatpants and running shoes
 a linen guayabera and trousers and polished oxford shoes

@@ -22,7 +22,7 @@ A person dressed as a cosmonaut in a masculine cut (space program), with a pale 
 A person dressed as a cycle courier in a masculine cut (city), with a cycling jersey with a courier bag, cycling shorts, a cycling cap and cycling shoes, cut for a masculine frame with broad shoulders
 A person dressed as a doorman in a masculine cut (grand hotel), with a long coat with gold braid and epaulettes, trousers, a top hat and black shoes, cut for a masculine frame with broad shoulders
 A person dressed as a fisherman in a masculine cut (North Atlantic), with a thick Aran sweater with an oilskin smock, waders, a sou'wester and rubber boots, tailored in a masculine cut with a straight waist
-A person dressed as a flight attendant in a masculine cut (modern airline), with a tailored jacket and neckerchief with a name patch, trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders
+A person dressed as a flight attendant in a masculine cut (modern airline), with a tailored jacket and neckerchief with a name patch reading "__name_first__", trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders
 A person dressed as a gondolier in a masculine cut (Venice), which is a striped boat-neck shirt and a sash, dark trousers, a flat straw boater with a ribbon and rope-soled shoes, tailored in a masculine cut with a straight waist
 A person dressed as a hot-air balloon pilot in a masculine cut (ballooning), with a windbreaker, cargo trousers, a baseball cap and boots, cut for a masculine frame with broad shoulders
 A person dressed as a hotel bellhop in a masculine cut (1930s), with a short red jacket with gold braid, trousers with a stripe, a pillbox hat with a chin strap and black shoes, tailored in a masculine cut with a straight waist
@@ -45,7 +45,7 @@ A shirt with headset and a lanyard, trousers, shoes, the full outfit of an air t
 A short red jacket with gold braid, trousers with a stripe, a pillbox hat with a chin strap, black shoes, the full outfit of a hotel bellhop in a masculine cut
 A striped boat-neck shirt and a sash, dark trousers, a flat straw boater with a ribbon, rope-soled shoes, the full outfit of a gondolier in a masculine cut
 A striped shirt with a neckerchief and a short jacket, slops, a knitted cap, bare feet, the full outfit of a sea shanty sailor in a masculine cut
-A tailored jacket and neckerchief with a name patch, trousers, a pillbox hat, court shoes, the full outfit of a flight attendant in a masculine cut
+A tailored jacket and neckerchief with a name patch reading "__name_first__", trousers, a pillbox hat, court shoes, the full outfit of a flight attendant in a masculine cut
 A thick Aran sweater with an oilskin smock, waders, a sou'wester, rubber boots, the full outfit of a fisherman in a masculine cut
 A vest and a loose shirt, short trousers, a conical straw hat, sandals, the full outfit of a rickshaw puller in a masculine cut
 A waistcoat shirt with a tie and a patch, dark trousers, black shoes, the full outfit of a bus driver in a masculine cut
@@ -89,11 +89,11 @@ a fisherman in a masculine cut (North Atlantic), in a thick Aran sweater with an
 a fisherman in a masculine cut (North Atlantic), wearing a thick Aran sweater with an oilskin smock, waders, a sou'wester and rubber boots, tailored in a masculine cut with a straight waist
 a fisherman in a masculine cut (North Atlantic), wearing a thick Aran sweater with an oilskin smock, waders, a sou'wester and rubber boots, tailored in a masculine cut with a straight waist and carrying a net
 a fisherman in a masculine cut, dressed in a thick Aran sweater with an oilskin smock with waders
-a flight attendant in a masculine cut (modern airline), in a tailored jacket and neckerchief with a name patch and a pillbox hat
-a flight attendant in a masculine cut (modern airline), in a tailored jacket and neckerchief with a name patch and trousers and court shoes
-a flight attendant in a masculine cut (modern airline), wearing a tailored jacket and neckerchief with a name patch, trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders
-a flight attendant in a masculine cut (modern airline), wearing a tailored jacket and neckerchief with a name patch, trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders and carrying a trolley
-a flight attendant in a masculine cut, dressed in a tailored jacket and neckerchief with a name patch with trousers
+a flight attendant in a masculine cut (modern airline), in a tailored jacket and neckerchief with a name patch reading "__name_first__" and a pillbox hat
+a flight attendant in a masculine cut (modern airline), in a tailored jacket and neckerchief with a name patch reading "__name_first__" and trousers and court shoes
+a flight attendant in a masculine cut (modern airline), wearing a tailored jacket and neckerchief with a name patch reading "__name_first__", trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders
+a flight attendant in a masculine cut (modern airline), wearing a tailored jacket and neckerchief with a name patch reading "__name_first__", trousers, a pillbox hat and court shoes, cut for a masculine frame with broad shoulders and carrying a trolley
+a flight attendant in a masculine cut, dressed in a tailored jacket and neckerchief with a name patch reading "__name_first__" with trousers
 a gondolier in a masculine cut (Venice), in a striped boat-neck shirt and a sash and a flat straw boater with a ribbon
 a gondolier in a masculine cut (Venice), in a striped boat-neck shirt and a sash and dark trousers and rope-soled shoes
 a gondolier in a masculine cut (Venice), wearing a striped boat-neck shirt and a sash, dark trousers, a flat straw boater with a ribbon and rope-soled shoes, tailored in a masculine cut with a straight waist

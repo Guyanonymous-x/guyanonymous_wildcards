@@ -2,7 +2,7 @@
 import sys, os, re, json, random, glob, subprocess, importlib, collections
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 from paths import FINAL
-N = int(sys.argv[1]); W = '/home/claude/w'; AOO = W + '/all_options_once'; V = '/tmp/release_scripts'; SCR = '/tmp/claude-0/-home-claude/f4f177e0-8597-507c-b7de-4fd3dcc5cfda/scratchpad'
+N = int(sys.argv[1]); W = '/home/claude/w'; AOO = W + '/all_options_once'; V = '/tmp/release_scripts'; SCR = '/home/claude/scratchpad'
 B = importlib.import_module('v%d_build' % N); M = importlib.import_module('v%d_meta' % N)
 G = B.run(FINAL)
 nex = B.export_aoo(AOO); 

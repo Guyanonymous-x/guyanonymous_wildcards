@@ -446,7 +446,7 @@ relaxed __clothing_outfit_color__ __m_outfit_casual_top__ with __clothing_outfit
 a soft white cotton crew-neck t-shirt with midnight blue board shorts under a red fleece jacket and running shoes
 a loose midnight blue linen blend short-sleeve button-up shirt with faded blue straight-leg jeans under a washed black blazer and running shoes
 smart casual __clothing_outfit_color__ blazer over a __clothing_outfit_color__ __m_outfit_casual_top__ with chinos and sandals, a wool scarf, modern smart casual
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 an oversized faded red piqué cotton polo shirt with black chinos under a navy parka and white sneakers
 a loose red plaid chambray oxford button-down shirt with brick red joggers under a forest green cardigan and sandals
 a jet black cotton crew-neck t-shirt with charcoal grey khakis under a navy trench coat and loafers
@@ -462,7 +462,7 @@ a loose red plaid linen shirt with black loose straight jeans
 an oversized cobalt blue ribbed-knit turtleneck with stone dress trousers under a mocha field jacket and leather boots
 a crisp white striped ribbed cotton long-sleeve tee with faded blue straight-leg jeans under a black peacoat and work boots
 a relaxed-fit faded black striped fine-knit quarter-zip pullover with dark indigo tapered jeans under a navy peacoat and slip-on shoes
-a mechanic's coveralls with a name patch and black non-slip shoes
+a mechanic's coveralls with a name patch reading "__name_first__" and black non-slip shoes
 a soft white cotton poplin oxford button-down shirt with bright white cargo pants and white sneakers
 a hooded performance top with running tights and black training shoes
 a loose washed black wool cardigan with faded blue bootcut jeans and work boots
@@ -476,10 +476,10 @@ a heather grey cotton Hawaiian shirt with tomato red cargo pants under a black l
 a seersucker suit with a straw hat and suede chukka boots
 a relaxed-fit mocha wool cardigan with black slim jeans
 a terracotta fleece quarter-zip pullover with marled grey chinos under a sand hooded anorak and running shoes
-a mechanic's coveralls with a name patch
+a mechanic's coveralls with a name patch reading "__name_first__"
 a relaxed-fit wine red striped soft cotton crew-neck t-shirt with terracotta chinos and black sneakers
 a cream-white oxford cotton oxford button-down shirt with sky blue chinos and leather boots
-a mechanic's coveralls with a name patch and steel-toe work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and steel-toe work boots
 a relaxed-fit royal blue linen blend short-sleeve button-up shirt with light-wash bootcut jeans and white sneakers
 a carpenter's tool belt over a tee and work pants and black non-slip shoes
 a relaxed-fit black cotton fleece zip-up hoodie with light-wash straight-leg jeans
@@ -971,7 +971,7 @@ a loose faded black cotton cable-knit sweater with grey tapered jeans and runnin
 a loose washed black cotton long-sleeve tee with light-wash tapered jeans under a midnight blue field jacket and running shoes
 a slim-fit cream-white tartan fleece sweatshirt with dark indigo straight-leg jeans
 a slim-fit jet black striped heavy cotton crew-neck t-shirt with heather grey chinos under a faded blue blazer and cushioned sneakers
-a mechanic's coveralls with a name patch and leather work boots
+a mechanic's coveralls with a name patch reading "__name_first__" and leather work boots
 a powder blue performance knit polo shirt with cobalt blue cargo pants and white sneakers
 a sand piqué cotton polo shirt with mid-wash relaxed jeans under a faded white puffer jacket and white sneakers
 an oversized deep purple checked oxford cotton oxford button-down shirt with jet black khakis and black sneakers

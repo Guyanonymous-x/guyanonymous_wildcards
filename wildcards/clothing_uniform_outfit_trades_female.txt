@@ -42,7 +42,7 @@ A person dressed as a forester in a feminine cut (woodland), which is a plaid sh
 A person dressed as a glassblower in a feminine cut (workshop), with a heat-resistant apron and sleeves, trousers and boots, tailored in a feminine cut with a nipped-in waist
 A person dressed as a lamplighter in a feminine cut (Victorian), with a long coat and a scarf, trousers, a bowler hat and boots, cut for a feminine figure with a fitted waist
 A person dressed as a lumberjack in a feminine cut (Canada), which is a red checked wool jacket and suspenders, work trousers, a wool toque and logging boots, tailored in a feminine cut with a nipped-in waist
-A person dressed as a mechanic in a feminine cut (garage), which is an oil-stained coverall with a name patch, a cap and work boots, tailored in a feminine cut with a nipped-in waist
+A person dressed as a mechanic in a feminine cut (garage), which is an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, tailored in a feminine cut with a nipped-in waist
 A person dressed as a miller in a feminine cut (medieval), which is a dusty smock, trousers, a cloth cap and clogs, cut for a feminine figure with a fitted waist
 A person dressed as a folded paper sheet vendor in a feminine cut (1920s), with a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a feminine cut with shaped seams and a flattering line
 A person dressed as a plumber in a feminine cut (call-out), which is a work shirt and a knee-padded trouser set, work trousers, a cap and boots, in a feminine cut with shaped seams and a flattering line
@@ -78,7 +78,7 @@ A work shirt and a harness, work trousers, a cap, boots, the full outfit of a wi
 A work shirt and a knee-padded trouser set, work trousers, a cap, boots, the full outfit of a plumber in a feminine cut
 A work shirt and high-visibility vest, work trousers, a hard hat, boots, the full outfit of a bricklayer in a feminine cut
 A work shirt with a pocket of testers, work trousers, a hard hat, boots, the full outfit of an electrician in a feminine cut
-An oil-stained coverall with a name patch, a cap, work boots, the full outfit of a mechanic in a feminine cut
+An oil-stained coverall with a name patch reading "__name_first__", a cap, work boots, the full outfit of a mechanic in a feminine cut
 An orange coverall with reflective strips, a hard hat, steel-toed boots, the full outfit of an oil rig worker in a feminine cut
 a baker in a feminine cut (bakery), in a white double-breasted jacket and apron and a baker's hat
 a baker in a feminine cut (bakery), in a white double-breasted jacket and apron and checked trousers and clogs
@@ -181,11 +181,11 @@ a lumberjack in a feminine cut (Canada), in a red checked wool jacket and suspen
 a lumberjack in a feminine cut (Canada), wearing a red checked wool jacket and suspenders, work trousers, a wool toque and logging boots, tailored in a feminine cut with a nipped-in waist
 a lumberjack in a feminine cut (Canada), wearing a red checked wool jacket and suspenders, work trousers, a wool toque and logging boots, tailored in a feminine cut with a nipped-in waist and carrying an axe
 a lumberjack in a feminine cut, dressed in a red checked wool jacket and suspenders with work trousers
-a mechanic in a feminine cut (garage), in an oil-stained coverall with a name patch and a cap
-a mechanic in a feminine cut (garage), in an oil-stained coverall with a name patch and work boots
-a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch, a cap and work boots, tailored in a feminine cut with a nipped-in waist
-a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch, a cap and work boots, tailored in a feminine cut with a nipped-in waist and carrying a wrench
-a mechanic in a feminine cut, dressed in an oil-stained coverall with a name patch
+a mechanic in a feminine cut (garage), in an oil-stained coverall with a name patch reading "__name_first__" and a cap
+a mechanic in a feminine cut (garage), in an oil-stained coverall with a name patch reading "__name_first__" and work boots
+a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, tailored in a feminine cut with a nipped-in waist
+a mechanic in a feminine cut (garage), wearing an oil-stained coverall with a name patch reading "__name_first__", a cap and work boots, tailored in a feminine cut with a nipped-in waist and carrying a wrench
+a mechanic in a feminine cut, dressed in an oil-stained coverall with a name patch reading "__name_first__"
 a miller in a feminine cut (medieval), in a dusty smock and a cloth cap
 a miller in a feminine cut (medieval), in a dusty smock and trousers and clogs
 a miller in a feminine cut (medieval), wearing a dusty smock, trousers, a cloth cap and clogs, cut for a feminine figure with a fitted waist

@@ -34,3 +34,5 @@ EXISTING FILES REWIRED
 
 NOTES
   Websites and emails end in .example and phone numbers use 555 so they cannot be real. No real brands: stems were generated, not copied.
+
+v109 additions: name_team (invented town-based team names such as "<town> Falcons", "<town> United", "FC <town>"), name_team_mascot (team mascot words), name_jersey_number (0 to 99). Used on jerseys, sportswear, trading cards, stickers and race bibs, always quoted.
