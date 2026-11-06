@@ -107,6 +107,57 @@ COORD['face_shape'] = [(r'puffy|bloated|heavy-jowled|round|pear', 'a full, soft,
                       (r'long|oblong|elongated-oval|elongated|lantern-shaped|lantern|rectangular|narrow|compressed', 'a long, narrow face, clearly taller than it is wide, on a long slender neck'),
                       (r'square|rounded-square|block|boxy|wide|angular', 'a broad, square face, almost as wide as it is tall, with a wide angular jaw on a thick strong neck'),
                       (r'oval|egg-shaped|egg|symmetrical', 'a balanced oval face, a little taller than it is wide, on a medium neck')]
+
+# ---- v107 audit: one clear, high-contrast descriptor per panel, spread across real classes, with a plain visual clause
+SEGKEEP = {'eyes': [0, 4], 'nose': [0, 1], 'cheeks_jaw': [0, 1], 'lips': [0], 'eyebrows': [0], 'eyelashes': [1], 'hands': [0], 'expr_general': [0]}
+TEX = {'hair_curly': 'curly, coily hair', 'hair_kinky': 'tightly coiled hair', 'hair_straight': 'straight hair', 'hair_wavy': 'wavy hair'}
+CLS = {
+ 'eyes': [(r'hooded|heavy upper lid', 'heavy upper lids fold down over the creases, so the lids barely show'), (r'monolid|single eyelid|single-fold', 'smooth upper lids with no visible crease'),
+          (r'deep-set|deeply|sunken', 'deep-set eyes in shadowed sockets under the brow'), (r'downturned|droop', 'eyes that slope clearly down at the outer corners'),
+          (r'cat-like|almond|slanted|upward tilt|lifted outer|upturned', 'almond eyes that tilt clearly upward at the outer corners'), (r'large|round|wide|doe-like|bulging|prominent', 'large, round, wide-open eyes with white showing around the iris'),
+          (r'narrow|small|close|tight', 'small, narrow eyes set close together'), (r'.', 'medium almond eyes, evenly set')],
+ 'nose': [(r'crooked|broken|asymmetric|lean to one side|off-centre|off-center|bent|deviated', 'a nose that bends visibly to one side'), (r'swollen|inflamed', 'a swollen, reddened nose tip'), (r'aquiline|hooked|roman|humped|bump|convex|arched', 'a nose with a clear hump on the bridge'),
+          (r'flat|wide|broad|boxy|bulbous|fleshy|thick', 'a broad, flat nose with a wide rounded tip and wide nostrils'), (r'upturned|button|upward tilt|tiny|small|snub', 'a small nose whose tip turns up, showing the nostrils'),
+          (r'long|drooping|downward', 'a long nose whose tip points down'), (r'.', 'a narrow, straight nose with a fine tip')],
+ 'nose_profile': [(r'crooked|deviated|asymmetric|lean|bent', 'a bridge that leans visibly to one side'), (r'aquiline|hooked|roman|humped|bump|convex', 'in profile a clear hump on the bridge'), (r'upturned|button|upward', 'in profile a scooped bridge and a tip that turns up'),
+          (r'bulbous|round heavy|blunt|wide|thick|fleshy|swollen', 'in profile a heavy rounded tip'), (r'drooping|downward|long', 'in profile a long bridge and a tip that hangs down'), (r'.', 'in profile a straight, flat bridge')],
+ 'lips': [(r'plump top|fuller lower|top lip thin|thin bottom', 'one lip clearly fuller than the other'), (r'asymmetric|crooked|uneven', 'lips that are uneven from side to side'),
+          (r'thin|narrow|subtle|delicate|small', 'thin lips, the upper lip a narrow line'), (r'full|thick|lush|large|generous|heavy|broad|plump|voluminous|fleshy|massive|puffy|pillowy|cosmetic', 'very full, thick, pillowy lips'), (r'bow', "a sharply peaked Cupid's bow on medium lips"), (r'.', 'medium lips')],
+ 'cheeks_jaw': [(r'hollow|sunken|lean|narrow', 'hollow cheeks below sharp cheekbones'), (r'plump|fleshy|full|padded|rounded', 'round, full, padded cheeks'),
+          (r'high|prominent|sculpted|bony', 'high, sharp cheekbones'), (r'square|wide jaw|disproportionate|broad thick', 'a wide, square jaw with sharp corners'),
+          (r'asymmetric|uneven', 'cheeks uneven in height from side to side'), (r'broad|flat|wide', 'wide, flat cheeks across a broad face'), (r'V-shaped|pointed|slender tapered|delicate', 'a narrow jaw that tapers to the chin'), (r'.', 'a soft, rounded jaw with no sharp angle')],
+ 'hands': [(r'calloused|rough|dirty|hard-working|cracked', 'rough, calloused, work-worn hands'), (r'long|slender|graceful|narrow|elegant|thin|bony|gaunt|slim', 'long, slender fingers on a narrow hand'),
+          (r'thick|broad|square|stubby|chunky', 'short, thick fingers on a broad hand'), (r'small|compact|petite|short', 'a small hand with short fingers'), (r'crooked|bent|asymmetric', 'fingers with crooked, bent joints'), (r'manicured|smooth|soft', 'smooth, soft, carefully manicured hands'), (r'.', 'a medium hand with even fingers')]}
+TRAITS.update({
+ **{k: [re.escape(x[1]) for x in v if x[0] != '.'] for k, v in CLS.items()},
+ 'eyebrows': [r'thick|full|bushy|heavy', r'sparse|thin|faint|gap', r'arched|peak', r'straight', r'shaved', r'untamed|long|elongated'],
+ 'eyelashes': [r'long|curl|flare|fluttery|doll', r'sparse|thin|gappy', r'short', r'dense|thick', r'fine|delicate|natural', r'separated|clump'],
+ 'neck': [r'long|swan|elegant', r'short|squat', r'thick|stocky|broad|strong', r'gaunt|tendons|jutting|sharp|protruding', r'padded|soft', r'medium'],
+ 'ears': [r'large|cupped|protruding', r'small|compact|tucked', r'pointed|elf', r'cauliflower|battered|torn|split', r'attached|plump|fleshy', r'low-set|high-set'],
+ 'feet': [r'wide|broad|thick', r'narrow|slender|small', r'high|arch', r'flat|collapsed', r'calloused|rough|dirty', r'long toes|second toe'],
+ 'legs_hips': [r'skinny|thin|stick|slender', r'heavy|plump|rolls|fleshy|rounded legs', r'muscular|sculpted|powerful|toned', r'wide pelvis|broad|developed|sturdy hips', r'narrow|flat|slim|lean hips', r'knock|bow'],
+ 'body_ratio': [r'pear|broad-hipped|low hip', r'inverted|V-shaped|wide-shouldered|athletic', r'balanced|equal', r'slender|narrow', r'long-torso|long legs', r'shorter legs'],
+ 'chest_hair': [r'dense|mat|thick', r'line|sternum|trail', r'shaved|hairless|smooth', r'moderate|natural', r'trimmed', r'stubble'],
+ 'expr_general': [r'joy|laugh|love|relief', r'anger|irritation|fury', r'sad|disappoint|brood|melanchol', r'surprise|shock|fear', r'calm|bored', r'smug|suspicion|doubt']})
+def audit_cell(key, c):
+    if key in SEGKEEP:
+        sg = [x.strip() for x in c.split(';')]; c = '; '.join(sg[i] for i in SEGKEEP[key] if i < len(sg))
+    if key == 'lips': c = re.sub(r',? (?:in a [^,;]*expression|in a soft smile|with the lips pressed together)', '', c)
+    if key == 'chest_hair': c = re.sub(r', (?:that [^,;]*|on a [^,;]* chest)$', '', c)
+    if key == 'pecs_nipples_m': c = re.sub(r'\b(?:and )?(?:pale pink|dark brown|medium brown|light brown|tan|pink|brown)\b,? ?', '', c).replace('are small ', 'are small, ').replace('are wide ', 'are wide, ').replace('are large ', 'are large, ')
+    if key in ('penis_flaccid', 'penis_erect'):
+        c = re.sub(r', with (?:a few faint veins|a pronounced vein pattern|smooth shaft skin and almost no visible veins)[^,;]*', '', c); c = re.sub(r',? with an? [^;]*?scrotum(?: slightly darker than the surrounding skin)?', '', c); c = c.replace(' slightly darker than the surrounding skin', '')
+        c = re.sub(r'\b(slightly below average|small|shorter but thick)\b', r'\1, clearly short', c, 1); c = re.sub(r'\b(large|longer than average)\b', r'\1, clearly long and heavy', c, 1)
+    if key in CLS:
+        sg = [re.split(r', | with | under | framed | in a ', x.strip())[0] for x in c.split(';')]
+        probe = sg[0] if key in ('eyes', 'cheeks_jaw') else ' '.join(sg)
+        cl = next(cl for rx, cl in CLS[key] if re.search(r'\b(?:%s)' % rx, probe, re.I))
+        c = '; '.join(sg) + '; ' + cl
+    if key in TEX: c = TEX[key] + ', ' + c
+    return c
+def cell_ok(key, c):
+    if key == 'pubic_hair_f': return bool(re.search(r'hair|shav', c, re.I))
+    return True
 def shape_cell(key, c):
     if key == 'face_shape': c = c.split(';')[0].strip()
     if key in ('anus_f', 'anus_m') and re.search(r'cheek', c, re.I): return c
@@ -125,6 +176,8 @@ def cands_for(sp, sex, r, tries=150):
     out = []
     for _ in range(tries):
         c = shape_cell(sp['key'], strip_skin(tidy(B.clean_cell(B.cell(sp, sex, r))), sp['key']))
+        c = audit_cell(sp['key'], c) if c else c
+        if c and not cell_ok(sp['key'], c): continue
         if c and not re.search(r'reconstruct|mastectomy|resection|implant|surgical|scar|tattoo|prosthe', c, re.I): out.append(c)
     if sp['key'] == 'face_shape': out = [c for c in out if '; ' in c]
     if sp['key'] == 'nipples':
@@ -186,6 +239,7 @@ def view(sp, frame):
     if key in HEADK or key == 'neck': return 'A tight close-up of %s with the head turned about thirty degrees toward the left side of the frame, so that the front of %s and a little of the side profile are both in view' % (part, part)
     return 'A close-up of %s, turned partly toward the left side of the frame so that the front and a little of the side contour are both in view' % part
 USED = {}
+SAME = {'eyes': 'skin colour and hair colour', 'skin': 'hair colour, eye colour, face and build'}
 for sp in B.SPECS:
     for k, (sex, frame, subj) in enumerate(sp['frames']):
         for rep in range(2):
@@ -197,16 +251,20 @@ for sp in B.SPECS:
                 v = cap(frame_phrase(frame, who))
             used = USED.setdefault((sp['key'], sex), set()); tr = list(TRAITS.get(sp['key'], [])); r.shuffle(tr)
             allc = list(dict.fromkeys(cands_for(sp, sex, r))); pool_ = [c for c in allc if c not in used]
+            if sp['key'] in CLS or sp['key'] in ('face_shape', 'penis_erect', 'penis_flaccid') and len(pool_) < 6: pool_ = allc   # spread across classes matters more than never repeating a wording
             if len(pool_) < 4:
                 if rep == 1: continue
                 pool_ = allc
             n_ = 6 if len(pool_) >= 6 else 4 if len(pool_) >= 4 else 0
             if not n_: continue
+            if sp['key'] == 'vulva':
+                seen2 = {}; [seen2.setdefault(c.split(';')[1].strip() if ';' in c else c, c) for c in r.sample(pool_, len(pool_))]; pool_ = list(seen2.values())
+                n_ = 6 if len(pool_) >= 6 else 4 if len(pool_) >= 4 else n_
             picks = diverse(pool_, n_, r, tr); used.update(picks)
             for c in picks:
                 ex = LIMB if sp['key'] in LIMBKEYS else ' The hand has five fingers and belongs to one arm.' if sp['key'] in ('hands', 'nails') else ' The foot has five toes.' if sp['key'] == 'feet' else ''
                 inner = '%s. %s: %s.' % (v, lab, c)
-                cells.append(('(This panel is a photograph of exactly one person, the same %s, %s, and nothing else from any other panel appears in it. %s%s' + NUDE + ' This is the same person in every panel, with the same skin colour, hair colour and eye colour; only the feature listed under %s changes. Any neighbouring parts of the body in the frame, such as the hips, waist, thighs, torso or limbs, change naturally to suit the feature listed under %s, in shape and proportion but never in skin colour.)') % (ident, GREYBG, inner, ex, lab, lab))
+                cells.append(('(This panel is a photograph of exactly one person, the same %s, %s, and nothing else from any other panel appears in it. %s%s' + NUDE + ' This is the same person in every panel, with the same ' + SAME.get(sp['key'][:4] if sp['key'].startswith('skin') else sp['key'], 'skin colour, hair colour and eye colour') + '; only the feature listed under %s changes. Any neighbouring parts of the body in the frame, such as the hips, waist, thighs, torso or limbs, change naturally to suit the feature listed under %s, in shape and proportion' + ('' if sp['key'].startswith('skin') else ' but never in skin colour') + '.)') % (ident, GREYBG, inner, ex, lab, lab))
             head = ('A grid of %d equal photographic panels arranged in two rows of %s columns,' % (n_, 'three' if n_ == 6 else 'two')) + ' separated by thin plain white gaps. Every panel shows the same person in the same light against the same background; only the feature listed under %s changes from panel to panel.' % lab
             rows.append((sp['key'], sex, 'feature', ' '.join((head + ' ' + ' '.join('The %s panel: %s' % (ORD[i], c) for i, c in enumerate(cells))).split()), seed, False))
 # ---- age progression (same person across panels)
