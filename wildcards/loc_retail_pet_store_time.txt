@@ -1,0 +1,3 @@
+Tank lights are on timers and the shop is dimmer when they are off
+Feeding is a routine with its own hour
+__loc_time_of_day__

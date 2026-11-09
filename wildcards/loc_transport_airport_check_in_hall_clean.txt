@@ -1,1 +1,1 @@
-The place is an airport check-in hall. Its materials are __loc_transport_airport_check_in_hall_materials__. The light is __loc_transport_airport_check_in_hall_light__. A distinguishing detail is __loc_transport_airport_check_in_hall_signature__. On view is __loc_transport_airport_check_in_hall_sign__.
+The location is an airport check-in hall. Its materials are __loc_transport_airport_check_in_hall_materials__. __loc_transport_airport_check_in_hall_light__. __loc_transport_airport_check_in_hall_signature__. On view is __loc_transport_airport_check_in_hall_sign__.

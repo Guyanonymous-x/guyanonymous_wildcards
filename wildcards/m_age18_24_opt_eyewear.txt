@@ -750,7 +750,7 @@ His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
-A round silver monocle sits in his left eye.
+A round silver monocle sits in his left eye. __acc_monocle_wear_left__
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
@@ -1191,7 +1191,7 @@ His eyes are uncovered.
 He wears __acc_eyewear_frame__.
 His eyes are uncovered.
 He wears __acc_eyewear_frame__.
-A round silver monocle sits in his left eye.
+A round silver monocle sits in his left eye. __acc_monocle_wear_left__
 His eyes are uncovered.
 His eyes are uncovered.
 He wears soft contact lenses, faintly visible at the edge of the iris, with a faint ring at the edge of the iris.
@@ -3981,7 +3981,7 @@ His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from his left eye.
+A Victorian brass monocle with a short chain hangs from his left eye. __acc_monocle_wear_chain_left__
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
@@ -4388,7 +4388,7 @@ He wears soft contact lenses, faintly visible at the edge of the iris.
 His eyes are uncovered.
 He wears cosmetic contact lenses that add a subtle ring around his irises, leaving his whole face open and unframed.
 His eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from his left eye.
+A Victorian brass monocle with a short chain hangs from his left eye. __acc_monocle_wear_chain_left__
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
@@ -4510,7 +4510,7 @@ His eyes are uncovered.
 His eyewear is __acc_eyewear_frame__.
 He wears clear contact lenses, with a faint ring at the edge of the iris.
 His eyewear is __acc_eyewear_frame__.
-A round silver monocle sits in his left eye.
+A round silver monocle sits in his left eye. __acc_monocle_wear_left__
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.

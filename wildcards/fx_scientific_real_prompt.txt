@@ -1,1 +1,9 @@
-__fx_subject_scientific__ In the scene, there is __fx_scientific_real__, appearing __fx_where_object__. It is __fx_strength__. The light is __fx_colour_real__, and it is __fx_interact_object__.
+__fx_pair_scientific_real_1_subject__ The scene shows bright electric sparks arcing across a gap between two metal coils. The effect is __fx_pair_scientific_real_1_strength__, __fx_pair_scientific_real_1_interact__. The light is __fx_pair_scientific_real_1_colour__.
+__fx_pair_scientific_real_2_subject__ The scene shows thin purple filaments reaching toward a hand on the glass of a plasma globe. The effect is __fx_pair_scientific_real_2_strength__, __fx_pair_scientific_real_2_interact__.
+__fx_pair_scientific_real_3_subject__ The scene shows a thin red laser line crossing a hazy room and ending in a bright dot. The effect is __fx_pair_scientific_real_3_strength__.
+__fx_pair_scientific_real_4_subject__ The scene shows white fog rolling off a pool of liquid nitrogen and flowing along a table. The effect is __fx_pair_scientific_real_4_strength__.
+__fx_pair_scientific_real_5_subject__ The scene shows a faint blue glow in the wave as it breaks on a dark beach. The effect is __fx_pair_scientific_real_5_strength__.
+__fx_pair_scientific_real_6_subject__ The scene shows flames in green, blue and red above small dishes of burning salts. The effect is __fx_pair_scientific_real_6_strength__, __fx_pair_scientific_real_6_interact__.
+__fx_pair_scientific_real_7_subject__ The scene shows a black liquid rising in a ring of shiny spikes over a magnet. The effect is __fx_pair_scientific_real_7_strength__, __fx_pair_scientific_real_7_interact__.
+__fx_pair_scientific_real_8_subject__ The scene shows a thin film of soap swirling with bands of pink, green and blue. The effect is __fx_pair_scientific_real_8_strength__.
+__fx_pair_scientific_real_9_subject__ The scene shows a spray of bright orange sparks flying from a steel cutting disc. The effect is __fx_pair_scientific_real_9_strength__, __fx_pair_scientific_real_9_interact__. The light is __fx_pair_scientific_real_9_colour__.

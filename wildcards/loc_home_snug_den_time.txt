@@ -1,3 +1,4 @@
-day, curtains open, fire unlit, room unused
-evening, fire lit, curtains closed, lamp on
-late, embers, TV off, blanket abandoned
+Day, curtains open, fire unlit, room unused
+Evening, fire lit, curtains closed, lamp on
+Late, embers, TV off, blanket abandoned
+__loc_time_of_day__

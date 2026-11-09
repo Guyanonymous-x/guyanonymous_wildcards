@@ -1,1 +1,2 @@
-tank lighting runs on a cycle that simulates dawn and dusk for the animals' welfare
+Tank lighting runs on a cycle that simulates dawn and dusk for the animals' welfare, so the tunnel does have a daily rhythm, just not the building's
+__loc_time_of_day__

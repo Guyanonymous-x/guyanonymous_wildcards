@@ -1,1 +1,1 @@
-The place is a bookshop. Its materials are __loc_retail_bookshop_materials__. The light is __loc_retail_bookshop_light__. A distinguishing detail is __loc_retail_bookshop_signature__. On view is __loc_retail_bookshop_sign__.
+The location is a bookshop. Its materials are __loc_retail_bookshop_materials__. __loc_retail_bookshop_light__. __loc_retail_bookshop_signature__. On view is __loc_retail_bookshop_sign__.

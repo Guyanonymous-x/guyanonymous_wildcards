@@ -2,6 +2,7 @@ a POS terminal
 a cash drawer
 a barcode scanner
 a card reader
+a receipt printer
 a conveyor belt
 a bagging area
 a security tag deactivator

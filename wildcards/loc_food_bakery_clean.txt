@@ -1,1 +1,1 @@
-The place is a bakery. Its materials are __loc_food_bakery_materials__. The light is __loc_food_bakery_light__. A distinguishing detail is __loc_food_bakery_signature__.
+The location is a bakery. Its materials are __loc_food_bakery_materials__. __loc_food_bakery_light__. __loc_food_bakery_signature__.

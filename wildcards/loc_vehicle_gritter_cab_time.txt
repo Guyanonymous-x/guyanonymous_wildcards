@@ -1,6 +1,7 @@
-the afternoon decision based on a forecast and a road temperature model, made in an office rather than the cab
-the evening, the depot, the loading, the pre-run checks
-ten at night, the run on roads still busy enough to be awkward
-three in the morning, empty roads, beacon, flask
-dawn, back to the depot, the vehicle washed down
-a second run before the rush hour if the forecast turned
+The afternoon decision based on a forecast and a road temperature model, made in an office rather than the cab
+The evening, the depot, the loading, the pre-run checks
+Ten at night, the run on roads still busy enough to be awkward
+Three in the morning, the run that the record belongs to, empty roads, beacon, flask
+Dawn, back to the depot, the vehicle washed down because salt eats everything
+A second run before the rush hour if the forecast turned
+__loc_time_of_day__

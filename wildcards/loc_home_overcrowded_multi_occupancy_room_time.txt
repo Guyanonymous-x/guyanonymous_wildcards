@@ -1,3 +1,4 @@
-morning, shift workers passing each other, beds in continuous use
-evening
-night, the room at full capacity, curtains drawn between beds
+Morning, shift workers passing each other, beds in continuous use
+Evening, every space occupied at once
+Night, the room at full capacity, curtains drawn between beds
+__loc_time_of_day__

@@ -1,1 +1,8 @@
-a nameplate
+a nameplate reading "__name_person__"
+a no nameplate
+a nameplate or slide reading "__name_person__" on the door
+the nameplate reading "__name_person__"
+a nameplate reading "__name_person__" for someone who left
+a nameplate reading "__name_person__" propped against a wall awaiting a presentation
+a nameplate from a cabin door lying in the mud
+no nameplate

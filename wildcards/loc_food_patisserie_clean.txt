@@ -1,1 +1,1 @@
-The place is a patisserie. Its materials are __loc_food_patisserie_materials__. The light is __loc_food_patisserie_light__. A distinguishing detail is __loc_food_patisserie_signature__. On view is __loc_food_patisserie_sign__.
+The location is a patisserie. Its materials are __loc_food_patisserie_materials__. __loc_food_patisserie_light__. __loc_food_patisserie_signature__. On view is __loc_food_patisserie_sign__.

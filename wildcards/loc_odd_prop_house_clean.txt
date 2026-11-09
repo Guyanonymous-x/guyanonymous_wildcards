@@ -1,1 +1,1 @@
-The place is a prop house. Its materials are __loc_odd_prop_house_materials__. The light is __loc_odd_prop_house_light__. A distinguishing detail is __loc_odd_prop_house_signature__.
+The location is a prop house. Its materials are __loc_odd_prop_house_materials__, and the palette is __loc_odd_prop_house_palette__. __loc_odd_prop_house_light__. __loc_odd_prop_house_signature__.

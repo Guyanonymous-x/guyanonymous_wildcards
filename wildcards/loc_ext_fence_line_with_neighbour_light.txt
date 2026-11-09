@@ -1,0 +1,2 @@
+The fence is a shadow-casting plane and defines the garden's shaded strip
+Its own face is lit or not depending which side you stand

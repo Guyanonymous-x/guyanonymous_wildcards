@@ -1,6 +1,7 @@
 CCTV
 POS
 POS terminal
+TV
 a DJ booth
 a PA
 a TV
@@ -62,8 +63,11 @@ a cat flap
 a catafalque
 a ceiling fan
 a central corridor
+a certificate printer
 a chair
 a chair for a relative
+a change machine
+a chart table
 a chemical toilet
 a chest
 a chest freezer
@@ -122,8 +126,10 @@ a desk
 a desk and chairs
 a desk facing the gate
 a desk with a terminal
+a directory board
 a dishwasher
 a dividing curtain
+a document wallet
 a dog bed
 a drainage channel
 a draining board
@@ -174,7 +180,6 @@ a globe
 a grab rail
 a grilled window
 a guillotine
-a hand bell
 a handrail
 a hanging rail
 a hanging scale
@@ -196,12 +201,14 @@ a key cabinet
 a key safe
 a kitchen
 a kneeling mat
+a label printer
 a ladder
 a lamp
 a lantern
 a laptop on velcro
 a large desk
 a large screen
+a leaflet rack
 a leather chair
 a lectern
 a library table
@@ -214,6 +221,7 @@ a lockable locker
 a locker
 a locker and a chair per bed
 a log basket
+a logbook
 a long bench
 a long table
 a longcase clock
@@ -222,6 +230,8 @@ a loom
 a loudspeaker system
 a low table
 a luggage ledge
+a magazine rack
+a map case
 a marble slab
 a marker post
 a mat
@@ -241,6 +251,8 @@ a monitor bank
 a monitor on an arm
 a mower
 a mug rack
+a newspaper rack
+a notice board
 a noticeboard
 a nurses' station
 a packing bench
@@ -302,8 +314,10 @@ a scale
 a scanner
 a scanner cradle
 a scissor lift
+a scoreboard
 a screen
 a screen for privacy
+a sealed logbook
 a set copper
 a settee
 a settle
@@ -317,6 +331,7 @@ a shop
 a shower room
 a shredder
 a sideboard
+a sign-in clipboard
 a sink
 a slate
 a sleeping bag
@@ -371,6 +386,7 @@ a telephone
 a television
 a television on a bracket
 a thermometer
+a ticket display
 a till
 a timing machine
 a tire changer
@@ -440,6 +456,8 @@ a work table
 a workbench
 a workbench with a vice
 a wringer
+a writing desk
+a writing table
 acoustic panels
 air handling units
 amplifiers
@@ -535,6 +553,7 @@ eight chairs
 fixed seating
 flat-top griddle
 flatbed trolleys
+fold-down change table
 folding tables
 four boxes
 four chairs
@@ -582,6 +601,7 @@ mobile racking on rails
 monitors
 mooring rings and bollards
 music stands
+none
 one chair
 open shelving
 outdoor bar
@@ -637,12 +657,14 @@ steam table
 steel shelving
 stepping stones
 stools
+stools without fabric
 storage racks for stretched canvases
 swivel chairs
 task chairs
 telephones
 three chairs
 three thermometers
+ticket machines
 tip-up seats
 tip-up seats in the vestibule
 toilet

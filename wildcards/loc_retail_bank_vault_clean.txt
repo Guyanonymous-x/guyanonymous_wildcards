@@ -1,1 +1,1 @@
-The place is a bank vault. Its materials are __loc_retail_bank_vault_materials__. The light is __loc_anywhere_light__. A distinguishing detail is __loc_retail_bank_vault_signature__.
+The location is a bank vault. Its materials are __loc_retail_bank_vault_materials__. __loc_retail_bank_vault_light__. __loc_retail_bank_vault_signature__.

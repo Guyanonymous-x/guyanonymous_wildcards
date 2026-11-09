@@ -1,1 +1,1 @@
-The place is a blood bank. Its materials are __loc_health_blood_bank_materials__. The light is __loc_health_blood_bank_light__. A distinguishing detail is __loc_health_blood_bank_signature__.
+The location is a blood bank. Its materials are __loc_health_blood_bank_materials__. __loc_health_blood_bank_light__. __loc_health_blood_bank_signature__.

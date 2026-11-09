@@ -1,1 +1,1 @@
-The place is an articulated tram interior. Its materials are __loc_vehicle_articulated_tram_interior_materials__. The light is __loc_vehicle_articulated_tram_interior_light__. A distinguishing detail is __loc_vehicle_articulated_tram_interior_signature__.
+The location is an articulated tram interior. Its materials are __loc_vehicle_articulated_tram_interior_materials__. __loc_vehicle_articulated_tram_interior_light__. __loc_vehicle_articulated_tram_interior_signature__.

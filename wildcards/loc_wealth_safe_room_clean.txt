@@ -1,1 +1,1 @@
-The place is a safe room. Its materials are __loc_wealth_safe_room_materials__, and the palette is __loc_wealth_safe_room_palette__. The light is __loc_wealth_safe_room_light__. A distinguishing detail is __loc_wealth_safe_room_signature__.
+The location is a safe room. Its materials are __loc_wealth_safe_room_materials__, and the palette is __loc_wealth_safe_room_palette__. __loc_wealth_safe_room_light__. __loc_wealth_safe_room_signature__.

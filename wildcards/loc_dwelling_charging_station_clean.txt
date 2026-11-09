@@ -1,1 +1,1 @@
-The place is a charging station. Its materials are __loc_dwelling_charging_station_materials__. The light is __loc_dwelling_charging_station_light__. A distinguishing detail is __loc_dwelling_charging_station_signature__. On view is __loc_dwelling_charging_station_sign__.
+The location is a charging station. Its materials are __loc_dwelling_charging_station_materials__. __loc_dwelling_charging_station_light__. __loc_dwelling_charging_station_signature__. On view is __loc_dwelling_charging_station_sign__.

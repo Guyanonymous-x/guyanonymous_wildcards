@@ -1,1 +1,2 @@
-renders run overnight
+Renders run overnight, so the room's night state with the rack working and nobody present is the characteristic one
+__loc_time_of_day__

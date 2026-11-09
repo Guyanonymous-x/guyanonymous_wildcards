@@ -1,4 +1,6 @@
-a crew day set by the ground
-a long run on a glovebox procedure with a ground scientist on the loop
-a sample transfer to a freezer against a clock
-a payload failure
+A crew day set by the ground, with experiment blocks timed to the minute because ground teams are waiting
+A long run on a glovebox procedure with a ground scientist on the loop
+A sample transfer to a freezer against a clock
+The module left running overnight with automated facilities working and nobody in it, which is most of its existence
+A payload failure, which becomes the day's whole work
+__loc_time_of_day__

@@ -367,7 +367,7 @@ His eyes are uncovered.
 His eyes are uncovered.
 He wears __acc_eyewear_frame__.
 His eyewear is __acc_eyewear_frame__.
-A Victorian brass monocle with a short chain hangs from his left eye.
+A Victorian brass monocle with a short chain hangs from his left eye. __acc_monocle_wear_chain_left__
 His eyes are uncovered.
 His eyewear is __acc_eyewear_frame__.
 His eyes are uncovered.
@@ -1357,7 +1357,7 @@ He wears __acc_eyewear_frame__.
 His eyes are uncovered.
 His eyes are uncovered.
 He wears __acc_eyewear_frame__.
-A Victorian brass monocle with a short chain hangs from his left eye.
+A Victorian brass monocle with a short chain hangs from his left eye. __acc_monocle_wear_chain_left__
 His eyes are uncovered.
 His eyewear is __acc_eyewear_frame__.
 He wears __acc_eyewear_frame__.
@@ -3163,7 +3163,7 @@ He wears __acc_eyewear_frame__.
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
-A round silver monocle sits in his left eye.
+A round silver monocle sits in his left eye. __acc_monocle_wear_left__
 His eyewear is __acc_eyewear_frame__.
 He wears __acc_eyewear_frame__.
 His eyes are uncovered.
@@ -4200,7 +4200,7 @@ His eyewear is __acc_eyewear_frame__.
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
-A round silver monocle sits in his left eye.
+A round silver monocle sits in his left eye. __acc_monocle_wear_left__
 His eyes are uncovered.
 He wears __acc_eyewear_frame__.
 His eyewear is __acc_eyewear_frame__.
@@ -4916,7 +4916,7 @@ His eyes are uncovered.
 On his face is a round pair of mixed metal-and-acetate glasses in gunmetal grey with thin anti-glare lenses showing a faint reflection.
 He wears __acc_eyewear_frame__.
 His eyewear is __acc_eyewear_frame__.
-A round silver monocle sits in his left eye.
+A round silver monocle sits in his left eye. __acc_monocle_wear_left__
 His eyewear is __acc_eyewear_frame__.
 His eyes are uncovered.
 His eyes are uncovered.

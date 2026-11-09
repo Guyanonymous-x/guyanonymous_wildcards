@@ -1,5 +1,6 @@
 a POS terminal
 a barcode scanner
-a conveyor belt
-a security tag deactivator
-a stool
+a receipt printer
+a bagging area
+a scale
+queue barriers

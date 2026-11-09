@@ -1,8 +1,9 @@
-nine, cold, the fire
-ten, the first tutorial of the day with the fire on and the baize door shut
-the morning, four tutorials of an hour each
-one, empty
-the afternoon, reading in the armchair with the window light
-five, a tutorial with the lamp on and the curtains drawn
-seven, a graduate seminar with eight people
-the vacation, shut, cold
+Nine, cold, the fire not yet lit
+Ten, the first tutorial of the day with the fire on and the baize door shut
+The morning, four tutorials of an hour each, which is the room's working rhythm
+One, empty
+The afternoon, reading in the armchair with the window light
+Five, a tutorial with the lamp on and the curtains drawn, which is the version everybody remembers
+Seven, a graduate seminar with eight people and not enough chairs
+The vacation, shut, cold, with the clock stopped
+__loc_time_of_day__

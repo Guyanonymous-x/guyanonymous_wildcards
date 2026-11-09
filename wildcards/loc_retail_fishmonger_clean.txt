@@ -1,1 +1,1 @@
-The place is a fishmonger. Its materials are __loc_retail_fishmonger_materials__. The light is __loc_retail_fishmonger_light__. A distinguishing detail is __loc_retail_fishmonger_signature__.
+The location is a fishmonger. Its materials are __loc_retail_fishmonger_materials__. __loc_retail_fishmonger_light__. __loc_retail_fishmonger_signature__.

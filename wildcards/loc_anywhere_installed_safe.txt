@@ -7,7 +7,6 @@ a bar at one end
 a barrier
 a bell
 a bench
-a bench rather than a room
 a bench under a window
 a blind
 a blind for controlling light
@@ -15,10 +14,12 @@ a bonfire patch
 a boundary fence or hedge
 a bulkhead light
 a bulkhead window to the cab
+a buzzer-controlled door
 a call button
 a camera
 a canopy
 a carpet
+a certificate printer
 a changing cubicle
 a chemical toilet behind a curtain
 a clinic
@@ -85,12 +86,14 @@ a lockable door
 a lockable door with an engaged indicator
 a locked door with a log
 a locked store
+a logbook
 a low ceiling
 a low door
 a low vaulted ceiling
 a mess room
 a mile post
 a mirror
+a notice board
 a noticeboard
 a one-way door at the exit
 a panic alarm
@@ -116,18 +119,19 @@ a raised floor for cabling
 a reading light
 a reception desk
 a roof vent
+a schedule board
 a sharps bin
 a shed
 a shoe rack
 a shoe rack at the door
 a shop
 a shower
+a sign outside
 a single ceiling light
 a single pendant
 a sink
 a site chosen for drainage
 a socket
-a solicitor
 a spill kit
 a spiral stair
 a spit basin plumbed beside it
@@ -166,7 +170,6 @@ an alarm
 an attendant's position outside
 an intercom
 an outside tap
-anti-ligature fittings
 anti-ligature fittings throughout
 awning
 bare block walls
@@ -187,6 +190,7 @@ carpet
 carpet dents where furniture stood
 carpet or boards
 carpet tiles
+carpet with no recent footprints
 cast-iron columns
 catwalks
 chalkboard wall
@@ -200,10 +204,12 @@ compressed air
 connected to mains water
 couches
 curtain poles stripped
+curtains half drawn as they were left
 curtains permanently drawn
 dark
 dimmable lighting
 dimmers
+directory board
 door closers
 door lock
 doors to the garden
@@ -250,13 +256,11 @@ heated towel rail
 heating
 heavy curtains
 high bay lighting
-high-level lighting
 hooks
 hooks at two heights
 insulated panel walls
 intercom
 lancet windows
-lashing points everywhere
 lead-lined walls and door
 letterboxes
 leveling jacks
@@ -269,8 +273,25 @@ lime-washed walls
 lockers
 low lighting
 magnification
+menu board
 mirrors
+no daylight
+no door
+no drainage
+no figurative imagery
+no heating
+no lavatory
+no light
+no natural light
+no natural light on the collection
+no power
+no pull and nothing that rings
+no services of any kind in the traditional form
+no water
+no window
+no windows
 non-slip floor
+numbered doors
 one window
 open shelving
 overhead racks with a lip
@@ -292,6 +313,7 @@ railings
 recessed lighting
 shared or informal
 shelving to the ceiling
+signage
 small deep windows
 small windows
 soft flooring
@@ -303,6 +325,8 @@ sprinkler heads
 sprinklers
 stainless wall cladding
 steam pipework
+strip curtain
+strip lighting
 sump pumps
 task lighting over the bench
 the door kept shut
@@ -324,6 +348,7 @@ wall sconces
 wall shelving
 water
 water tanks
+which exists
 whitewashed walls
 windows blocked to half height by stacks
 wipeable surfaces throughout

@@ -1,2 +1,3 @@
-the ventilation shafts drop a moving column of daylight at intervals
-absolute dark between them at every hour
+The ventilation shafts drop a moving column of daylight at intervals, which is the only clock in it
+Absolute dark between them at every hour
+__loc_time_of_day__

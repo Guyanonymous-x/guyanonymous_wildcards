@@ -1,4 +1,5 @@
-morning, blinds up, surfaces clear
-afternoon, glare blinds drawn at one end
-evening, lamps only, overhead off, candles lit
-late, screen glow, room otherwise dark
+Morning, blinds up, surfaces clear
+Afternoon, glare blinds drawn at one end
+Evening, lamps only, overhead off, candles lit
+Late, screen glow, room otherwise dark
+__loc_time_of_day__

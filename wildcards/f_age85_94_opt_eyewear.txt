@@ -141,7 +141,7 @@ She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
@@ -1174,7 +1174,7 @@ She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 A soft padded eyepatch with an elastic band covers her left eye, with scarring visible around it.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 She wears __acc_eyewear_frame__.
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
@@ -1793,7 +1793,7 @@ Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
 She wears a black pirate-style eyepatch over one eye.
@@ -4008,7 +4008,7 @@ She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
@@ -4486,7 +4486,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 She wears __acc_eyewear_frame__.
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.

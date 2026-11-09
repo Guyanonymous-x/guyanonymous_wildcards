@@ -22,6 +22,7 @@ a bell pull
 a bell pull of worsted cord
 a bench
 a bench cushion
+a bench plaque
 a bicycle
 a billhook
 a bin
@@ -40,6 +41,11 @@ a book of remembrance
 a boot jack
 a boot scraper
 a bottle
+a bottle of hand gel in the cup holder
+a bottle of water
+a bottle of water in a bracket
+a bottle of water in a holder
+a bottle of water in the door pocket
 a bow saw
 a bowl
 a bowl of mints
@@ -77,6 +83,7 @@ a cart shed of five bays
 a cash box
 a cash tin
 a cat
+a certificate printer
 a chain
 a chainsaw and its fuel can
 a chair
@@ -85,12 +92,16 @@ a chalk stick
 a chamber pot under each bed
 a chamois in a bucket
 a charity box
+a chart
+a chart in a case
+a chart table with a plot
 a child's scooter
 a chinagraph pencil
 a chock
 a cigarette end
 a cigarette tin
 a cleaning cloth
+a cleaning sign
 a cleaver
 a clicker
 a clipboard
@@ -107,6 +118,7 @@ a coffee machine on a gimbal shelf with four mugs
 a coffee mug
 a coil of rope on a bollard
 a cone
+a consent form
 a cooler
 a crate
 a crossword part done
@@ -122,6 +134,7 @@ a dental pick
 a depth gauge
 a diary
 a dibber
+a directory leaflet
 a dog bed
 a dog lead
 a dog on a lead
@@ -131,8 +144,12 @@ a dosimeter badge
 a drainage channel to a soakaway
 a dropped boarding pass
 a dropped glove
+a dropped label
 a dropped lanyard
+a dropped receipt
+a dropped ticket
 a dropped travelcard
+a drugs pouch with a numbered seal
 a dry bag
 a dust cloth
 a dust mask
@@ -141,6 +158,7 @@ a duster for the levers
 a duty-free bag
 a face shield
 a fan
+a fee receipt
 a feed scoop
 a feeding cup with a spout
 a finding aid
@@ -154,6 +172,8 @@ a flask
 a flask and a lunchbox
 a flask rack
 a football
+a form pad
+a free newspaper
 a fuel can
 a games console controller
 a garbage record book
@@ -164,7 +184,6 @@ a glass of water
 a glass with a residue ring
 a glove
 a gowning checklist
-a grab handle at each door
 a grease gun
 a grease gun in a bracket
 a greasy rag
@@ -204,7 +223,10 @@ a key cabinet
 a kit bag
 a kneeling mat
 a knife
+a label
+a label printer
 a ladder
+a laminated price list
 a laminated procedure card
 a lamp
 a landing net
@@ -214,19 +236,30 @@ a laptop
 a latch
 a laundry bag
 a lawnmower
+a leaflet
+a leaflet about the line's history
+a leaflet rack
 a leash
+a ledger
+a letter
 a life jacket under every seat
 a lighter
 a litter bin by the door
 a litter picker
 a lock key
+a logbook
+a logbook on a shelf
 a longcase clock
 a looking glass over the chimneypiece
 a lost property box
 a loupe
+a magazine
+a magazine rack
 a magnifier
 a magnifying glass
 a mallet
+a map
+a map in a case
 a marker pen
 a mask
 a mat
@@ -234,6 +267,7 @@ a mat to kneel on
 a maximum-and-minimum thermometer in a rack
 a measuring tape
 a membership card
+a menu card
 a microfiber cloth
 a milk bottle
 a mirror
@@ -247,8 +281,16 @@ a mortar and pestle
 a mug
 a mug in a gimbaled holder
 a mug in a holder
+a newspaper
+a notebook
 a notepad
+a notice about abuse of staff
+a notice in two languages
+a notice of rights
+a numbered ticket
 a pack of cards
+a packet of sandwiches
+a packet of throat sweets
 a padlock
 a pair of binoculars
 a pair of binoculars in a bracket
@@ -263,7 +305,9 @@ a pair of gloves worn through at the fingertips
 a pair of sunglasses
 a pair of waders
 a paper knife
+a paper ticket
 a paperback
+a parking ticket
 a pen
 a pen on a chain
 a pencil
@@ -278,15 +322,19 @@ a photograph taped inside a locker door
 a photograph taped to the wall
 a pick
 a plant
+a plant label
 a plastic basin
 a plastic box of food
 a prayer book
 a prescription pad
+a printed trend chart
 a printer on a shelf
+a procedures binder
 a program
 a property bag
 a puncture repair kit
 a queue barrier tape
+a queue ticket
 a radio
 a radio handset
 a radio handset on a cradle
@@ -315,6 +363,7 @@ a rucksack
 a running order on a clipboard
 a sack truck
 a safety card
+a safety notice
 a sample bag
 a sample bottle
 a sample spear
@@ -339,6 +388,8 @@ a shovel
 a shunter's pole
 a sick bag
 a sieve
+a sign-in sheet on a clipboard
+a slate with a room list
 a sleeping bag
 a sleeping bag and a blanket
 a small fan
@@ -354,6 +405,7 @@ a steamer
 a stereo microscope on a boom
 a stool
 a stopwatch
+a store directory leaflet
 a stove
 a stress ball
 a strimmer
@@ -378,9 +430,16 @@ a thermometer
 a thermometer on a nail
 a thermometer probe
 a thermos
+a ticket
+a ticket in a hand
+a ticket number
 a tide table
 a timer
+a timetable
+a timetable leaflet
 a tin cup
+a tin of biscuits
+a tin of hoof oil
 a tip jar
 a tire pressure gauge in the door pocket
 a tissue box
@@ -403,6 +462,8 @@ a vacuum cleaner
 a van key
 a vape
 a vase of artificial flowers
+a visitor leaflet
+a visitor's leaflet
 a visitors' book
 a vomit bowl
 a walking pole
@@ -410,6 +471,7 @@ a walking stick
 a wall clock
 a wand
 a warming blanket
+a warning notice
 a washstand with a basin
 a water bottle
 a water bottle in a pocket
@@ -432,6 +494,7 @@ a wood stove
 a worn step
 a wrench
 a wrench left on a pipe
+address labels
 an AIS
 an air freshener
 an ashtray
@@ -443,6 +506,7 @@ an oxygen mask
 an umbrella
 aprons
 bandages
+barcode labels
 bathrobes
 batteries
 bedding
@@ -459,13 +523,17 @@ boots
 boots by the door
 bottled water
 bottles
+boxes of identical purchases
+brochures
 broken appliances kept for repair
 broken bulbs
 broken glass
 broken tiles
 brushes
+brushes in jars of water
 bubble wrap
 bungee cords
+business cards
 butcher paper
 buttons in jars
 cable
@@ -486,6 +554,7 @@ chalk
 champagne flutes
 charcoal
 chargers
+charts
 chocks
 clamps
 cleaning cloths
@@ -505,8 +574,10 @@ cups
 cushions
 dance cards
 darts
+decades of magazines
 decanters
 detergent drums
+documents
 doilies
 drinks
 drumsticks
@@ -517,6 +588,7 @@ ear defenders on a hook
 earplugs
 eggs in a nest box
 energy drink cans
+envelopes
 eucalyptus oil
 fabric scraps
 face masks
@@ -528,9 +600,11 @@ firewood
 flip-flops
 flowers
 fluoride trays
+flyers
 foil
 foils
 food packaging
+forms
 four mugs
 freezer gloves
 fresh flowers
@@ -544,6 +618,7 @@ glasses
 gloves
 goggles
 gold leaf
+graffiti tags
 grooming brushes
 hairpins
 hammers
@@ -557,43 +632,56 @@ hotel pans
 ice bucket
 impression material
 incense
+information placards
 ingots
 ink
 instant noodles
 inventory sheets
+jars of preserves
+jars of turpentine
 jewelry dish
 key cards
 keys
 knitting
+labels
 ladles
 lamps
 lanyards
 laptops
 laundry
 leaves blown into the corners
+lecture notes
 linens
 litter
 lubricant
 luggage
+magazines
 makeup kits
+maps
 marker pens
 markers
 masking tape
 masks
 matchbooks
 matches
+menus
 microphones
 mirrors and probes on a tray
 moss
 moulding sand
 mud
 mugs
-name cards
+name cards reading names such as "__name_person__"
 napkins
+newspaper
+newspaper for wrapping
+newspapers
+notebooks
 notepads
 oil
 oil cans
 oilskins
+order tickets
 packing tape
 paddles
 padlocks
@@ -615,11 +703,13 @@ pint glasses
 pizza boxes
 place cards
 place settings
+plant labels
 plastic bags
 plastic wrap
 playing cards
 popcorn
 post on the mat
+posters
 potpourri
 prayer beads
 programs
@@ -630,9 +720,11 @@ razor
 razors
 reading glasses
 reading glasses on a book
+receipts
 reeds
 reference photographs pinned up
 remote controls
+request forms
 ribbon
 robes
 rope
@@ -670,6 +762,7 @@ specimen pots
 sponges
 spray cans
 squeeze bottles
+star charts
 strainers
 strapping
 straw
@@ -685,6 +778,7 @@ terracotta pots
 thread
 thread spools
 throws
+tickets
 tip jar
 tissue paper
 tissues

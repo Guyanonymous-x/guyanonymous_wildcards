@@ -1,1 +1,1 @@
-The place is a vehicle inspection station. Its materials are __loc_transport_vehicle_inspection_station_materials__. The light is __loc_transport_vehicle_inspection_station_light__. A distinguishing detail is __loc_transport_vehicle_inspection_station_signature__.
+The location is a vehicle inspection station. Its materials are __loc_transport_vehicle_inspection_station_materials__. __loc_transport_vehicle_inspection_station_light__. __loc_transport_vehicle_inspection_station_signature__.

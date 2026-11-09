@@ -1112,7 +1112,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
@@ -1557,7 +1557,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
@@ -3941,7 +3941,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 On her face is a clubmaster-style pair of mixed metal-and-acetate glasses in gold with clear prescription lenses.
 On her face is an oval pair of wire glasses in tortoiseshell with thick strong lenses that magnify the eyes.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 She wears cosmetic circle lenses that make her irises look larger, and her eyes are slightly moist.
 Her eyes are uncovered.
 Her eyes are uncovered.
@@ -4233,7 +4233,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
@@ -4723,7 +4723,7 @@ On her face is an aviator pair of acetate glasses in bold red with lightly tinte
 Her eyes are uncovered.
 Her eyes are uncovered.
 She wears soft contact lenses, faintly visible at the edge of the iris, with a faint ring at the edge of the iris.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.

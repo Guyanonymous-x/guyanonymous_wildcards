@@ -1,1 +1,1 @@
-__ob_ventilator_type__, in __ob_colour__, made of __ob_ventilator_material__, __ob_ventilator_era__, __ob_ventilator_wear__, with __ob_ventilator_detail__
+Made of __ob_ventilator_material__ __ob_ventilator_era__, __ob_ventilator_wear__, with __ob_ventilator_detail__, and in __ob_colour__, __ob_ventilator_type__

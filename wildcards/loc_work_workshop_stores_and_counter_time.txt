@@ -1,0 +1,3 @@
+Busiest at shift start when tools are drawn and at shift end when they come back
+The shutter down and the counter empty is the off-shift state
+__loc_time_of_day__

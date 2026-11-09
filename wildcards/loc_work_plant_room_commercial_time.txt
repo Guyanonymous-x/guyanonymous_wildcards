@@ -1,0 +1,3 @@
+None visually
+The plant's running state and the seasonal switch between heating and cooling are the real variables
+__loc_time_of_day__

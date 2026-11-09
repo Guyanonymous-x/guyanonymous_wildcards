@@ -1,0 +1,2 @@
+Bookings run on the hour through the day and the room is reset in the gap, so the reset is the only state staff see in daylight terms
+__loc_time_of_day__

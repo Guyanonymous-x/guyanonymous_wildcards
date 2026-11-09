@@ -1,1 +1,3 @@
-fog rather than time governs operation
+Fog rather than time governs operation
+The station's purpose is tied to weather, not hour
+__loc_time_of_day__

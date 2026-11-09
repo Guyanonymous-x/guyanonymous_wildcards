@@ -2,6 +2,7 @@ goals
 nets
 corner flags
 dugouts
+a scoreboard
 benches
 a roller
 a line marker

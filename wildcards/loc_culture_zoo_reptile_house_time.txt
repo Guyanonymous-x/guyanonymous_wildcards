@@ -1,1 +1,2 @@
-heat and UV lamps run on timers that mimic the animals' native day length
+Heat and UV lamps run on timers that mimic the animals' native day length, so the house has a lighting cycle unrelated to the building's opening hours
+__loc_time_of_day__

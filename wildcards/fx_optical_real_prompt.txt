@@ -1,1 +1,8 @@
-__fx_subject_optical__ In the scene, there is __fx_optical_real__, appearing __fx_where_place__. It is __fx_strength__. The light is __fx_colour_real__, and it is __fx_interact_place__.
+__fx_pair_optical_real_1_subject__ The scene shows a person on a path standing so that a distant building appears to sit in the palm of the raised hand. The effect is __fx_pair_optical_real_1_strength__.
+__fx_pair_optical_real_2_subject__ The scene shows two parallel mirrors on a hall wall repeating a doorway into the distance. The effect is __fx_pair_optical_real_2_strength__.
+__fx_pair_optical_real_3_subject__ The scene shows a chalk drawing on a pavement showing a deep hole with water at the bottom, convincing from one angle. The effect is __fx_pair_optical_real_3_strength__.
+__fx_pair_optical_real_4_subject__ The scene shows a room with sloped floor and walls so that a person standing at one corner looks much taller than one at the other. The effect is __fx_pair_optical_real_4_strength__.
+__fx_pair_optical_real_5_subject__ The scene shows a stairway in a courtyard whose steps seem to climb endlessly around a square. The effect is __fx_pair_optical_real_5_strength__.
+__fx_pair_optical_real_6_subject__ The scene shows a shimmering silver pool of apparent water on a hot empty road. The effect is __fx_pair_optical_real_6_strength__.
+__fx_pair_optical_real_7_subject__ The scene shows a mural on a blank wall showing an open window onto a landscape. The effect is __fx_pair_optical_real_7_strength__.
+__fx_pair_optical_real_8_subject__ The scene shows objects on a table casting a shadow shaped like something else. The effect is __fx_pair_optical_real_8_strength__.

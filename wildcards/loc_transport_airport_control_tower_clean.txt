@@ -1,1 +1,1 @@
-The place is an airport control tower. Its materials are __loc_transport_airport_control_tower_materials__. The light is __loc_anywhere_light__. A distinguishing detail is __loc_transport_airport_control_tower_signature__.
+The location is an airport control tower. Its materials are __loc_transport_airport_control_tower_materials__. __loc_transport_airport_control_tower_light__. __loc_transport_airport_control_tower_signature__.

@@ -1,1 +1,3 @@
-occupied, suitcase open, clothes out, curtains worked
+Little change when unoccupied
+Suitcase open, clothes out, curtains worked
+__loc_time_of_day__

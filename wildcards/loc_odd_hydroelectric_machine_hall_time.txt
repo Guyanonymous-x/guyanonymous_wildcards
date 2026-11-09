@@ -1,1 +1,3 @@
-continuous
+Continuous
+Generation varies with demand and water, not with the hour in any visible way
+__loc_time_of_day__

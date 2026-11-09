@@ -1,1 +1,3 @@
-little direct light at any hour
+Little direct light at any hour
+The brief midday slot of sun is the one variable worth using
+__loc_time_of_day__

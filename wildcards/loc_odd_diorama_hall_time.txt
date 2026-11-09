@@ -1,1 +1,3 @@
-the simulated time inside each case
+None in the hall, which is permanently dark
+The simulated time inside each case never changes either, which is a curious fact about the type
+__loc_time_of_day__

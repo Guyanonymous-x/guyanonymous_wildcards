@@ -1,1 +1,1 @@
-__ob_tankard_type__, in __ob_colour__, made of __ob_tankard_material__, __ob_tankard_era__, __ob_tankard_wear__, with __ob_tankard_detail__
+Made of __ob_tankard_material__ __ob_tankard_era__, __ob_tankard_wear__, with __ob_tankard_detail__, and in __ob_colour__, __ob_tankard_type__

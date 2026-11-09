@@ -1,1 +1,1 @@
-The place is an underground parking lot. Its materials are __loc_transport_underground_parking_lot_materials__. The light is __loc_anywhere_light__. A distinguishing detail is __loc_transport_underground_parking_lot_signature__.
+The location is an underground parking lot. Its materials are __loc_transport_underground_parking_lot_materials__. __loc_transport_underground_parking_lot_light__. __loc_transport_underground_parking_lot_signature__.

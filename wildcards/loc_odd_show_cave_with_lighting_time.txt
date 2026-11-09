@@ -1,3 +1,5 @@
-before opening, lights off, a guide walking the path with a torch, the pumps running
-during a tour
-after close, dark
+Before opening, lights off, a guide walking the path with a torch, the pumps running
+During a tour
+After close, dark, with one maintenance light at the entrance
+The cave itself has no day
+__loc_time_of_day__

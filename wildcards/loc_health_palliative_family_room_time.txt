@@ -1,1 +1,3 @@
-in use
+The room has no timetable, which is the point of it
+The states that matter are empty and reset, in use, and the hour after it has been used, when the mugs are still there
+__loc_time_of_day__

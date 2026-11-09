@@ -1,1 +1,1 @@
-The place is a workhouse dormitory. Its materials are __loc_odd_workhouse_dormitory_materials__. The light is __loc_odd_workhouse_dormitory_light__. A distinguishing detail is __loc_odd_workhouse_dormitory_signature__.
+The location is a workhouse dormitory. Its materials are __loc_odd_workhouse_dormitory_materials__, and the palette is __loc_odd_workhouse_dormitory_palette__. __loc_odd_workhouse_dormitory_light__. __loc_odd_workhouse_dormitory_signature__.

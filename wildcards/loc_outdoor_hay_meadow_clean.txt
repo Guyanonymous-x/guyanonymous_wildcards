@@ -1,1 +1,1 @@
-The place is a hay meadow. The light is __loc_anywhere_light__. A distinguishing detail is __loc_outdoor_hay_meadow_signature__.
+The location is a hay meadow. Its materials are __loc_outdoor_hay_meadow_materials__, and the palette is __loc_outdoor_hay_meadow_palette__. __loc_outdoor_hay_meadow_light__. __loc_outdoor_hay_meadow_signature__.

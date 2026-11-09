@@ -1,1 +1,3 @@
-bin day adds a row of bins at the curb
+Car present or absent is the main variable, and it changes the image completely
+Bin day adds a row of bins at the curb
+__loc_time_of_day__

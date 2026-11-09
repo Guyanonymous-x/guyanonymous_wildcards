@@ -1,2 +1,4 @@
-daytime, doors open on a yard, the compartment empty and visibly clean
-a Friday or Saturday night, in constant use, cleaned between occupants
+Daytime, doors open on a yard, the compartment empty and visibly clean
+A Friday or Saturday night, in constant use, cleaned between occupants or not
+The compartment has no daylight cycle of its own and the only variable is occupancy, which the record treats plainly
+__loc_time_of_day__

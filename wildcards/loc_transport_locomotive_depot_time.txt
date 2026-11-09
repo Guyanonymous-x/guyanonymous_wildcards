@@ -1,1 +1,2 @@
-depots work overnight
+Depots work overnight because that is when the fleet is not in service, which inverts the railway's daytime pattern
+__loc_time_of_day__

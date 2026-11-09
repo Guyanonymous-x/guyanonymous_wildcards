@@ -1,1 +1,2 @@
-condition degrades predictably along a long route
+Condition degrades predictably along a long route, so the same cubicle at the start and end of a journey is two different records
+__loc_time_of_day__

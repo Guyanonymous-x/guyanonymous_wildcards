@@ -1,1 +1,2 @@
-the design actively removes time cues
+The design actively removes time cues, so the floor at four in the morning looks identical to four in the afternoon, which is itself the thing to convey
+__loc_time_of_day__

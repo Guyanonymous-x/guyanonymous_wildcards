@@ -1,1 +1,3 @@
-appointment-based
+Appointment-based, with a queue forming outside before opening
+The section closes early and the queue outside is often longer than the wait inside
+__loc_time_of_day__

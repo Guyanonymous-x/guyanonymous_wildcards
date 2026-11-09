@@ -1394,7 +1394,7 @@ She wears clear contact lenses, with a faint ring at the edge of the iris.
 She wears soft contact lenses, faintly visible at the edge of the iris, with no frames on her face.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
 She wears __acc_eyewear_frame__.
@@ -1437,7 +1437,7 @@ She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
@@ -2321,7 +2321,7 @@ On her face is a rimless pair of lightweight flexible glasses in gold with clear
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 She wears clear contact lenses, leaving her whole face open and unframed.
 Her eyes are uncovered.
@@ -2701,7 +2701,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
 She wears no glasses; her eyes look clear with contact lenses in, with a natural, unframed look.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
@@ -4551,7 +4551,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.

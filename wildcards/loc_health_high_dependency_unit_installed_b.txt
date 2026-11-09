@@ -1,4 +1,4 @@
 a nurse to one or two patients rather than to eight
 pendants or a bedhead trunking carrying gas and power
-a whiteboard above each bed with the nurse's name and the day's plan
+a whiteboard above each bed with the nurse's name, "__name_first__", and the day's plan
 a clock

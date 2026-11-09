@@ -1,9 +1,11 @@
-nine, filling, help desk staffed
-one, at capacity
-six
-nine in the evening
-midnight, the overnight lighting scene on
-three in the morning, the floor's distinctive state, a dim room with scattered lamps and a security patrol passing through
-six, two or three people still there
-eight, cleaners and a reset
-during examinations, all of these at once
+Nine, filling, help desk staffed
+One, at capacity
+Six, the help desk closes and the chair goes under, which is the day's hinge
+Nine in the evening
+Midnight, perhaps a quarter occupied, the overnight lighting scene on
+Three in the morning, the floor's distinctive state, a dim room with scattered lamps and a security patrol passing through
+Six, two or three people still there
+Eight, cleaners and a reset
+During examinations
+__loc_time_of_day__
+During examinations, all of these at once and none of them quiet

@@ -343,7 +343,7 @@ Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 She wears __acc_eyewear_frame__.
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
@@ -2738,7 +2738,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
 She wears __acc_eyewear_frame__.
@@ -3330,7 +3330,7 @@ Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
@@ -3875,7 +3875,7 @@ She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
 On her face is a cat-eye with upswept corners pair of mixed metal-and-acetate glasses in tortoiseshell with clear prescription lenses.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 On her face is a clubmaster-style pair of titanium glasses in black with clear prescription lenses.
@@ -4847,7 +4847,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
 Her eyewear is __acc_eyewear_frame__.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.

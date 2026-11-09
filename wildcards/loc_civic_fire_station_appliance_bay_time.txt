@@ -1,1 +1,2 @@
-the station runs in watches around the clock
+The station runs in watches around the clock, and the bay's state never changes because the appliance must always be ready, which is the whole discipline of it
+__loc_time_of_day__

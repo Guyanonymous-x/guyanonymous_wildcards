@@ -1,4 +1,5 @@
-morning, busiest
-midday, empty, the lights left on
-afternoon, group sessions
-after five, empty, the equipment racked, the whiteboard still showing the day's names
+Morning, busiest, with three or four people working at once and a therapist each
+Midday, empty, the lights left on
+Afternoon, group sessions
+After five, empty, the equipment racked, the whiteboard still showing the day's names, such as "__name_first__"
+__loc_time_of_day__

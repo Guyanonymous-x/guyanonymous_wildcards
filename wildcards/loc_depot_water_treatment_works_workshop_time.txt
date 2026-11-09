@@ -1,3 +1,6 @@
-a day shift of planned maintenance and sampling
-a telemetry alarm that brings somebody out at any hour
-a regulatory sample round
+A day shift of planned maintenance and sampling
+A telemetry alarm that brings somebody out at any hour
+A filter backwash cycle running on its own schedule
+A heavy rainfall event that changes the raw water quality and makes the jar test apparatus suddenly the most important equipment in the building
+A regulatory sample round, which is a fixed and legally significant routine
+__loc_time_of_day__

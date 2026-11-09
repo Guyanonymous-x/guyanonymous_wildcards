@@ -1,1 +1,1 @@
-The place is a wash house. Its materials are __loc_wealth_wash_house_materials__. The light is __loc_wealth_wash_house_light__.
+The location is a wash house. Its materials are __loc_wealth_wash_house_materials__, and the palette is __loc_wealth_wash_house_palette__. __loc_wealth_wash_house_light__.

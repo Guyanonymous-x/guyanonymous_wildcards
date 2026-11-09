@@ -1,5 +1,6 @@
-the morning opening for tools
-the day, locked
-the evening
-a hospital admission
-a clearance
+The morning opening for tools
+The day, locked
+The evening, documents and the float
+A hospital admission, when a bag goes in and a date is written
+A clearance, when there is no time to empty it; which is its normal state
+__loc_time_of_day__

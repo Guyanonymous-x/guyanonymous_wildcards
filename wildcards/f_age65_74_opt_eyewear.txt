@@ -842,7 +842,7 @@ She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
@@ -2199,7 +2199,7 @@ Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 She wears __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
@@ -2238,7 +2238,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 Her eyes are uncovered.
 On her face is a narrow rectangular pair of wooden glasses in silver with thin anti-glare lenses showing a faint reflection.
@@ -2518,7 +2518,7 @@ She wears __acc_eyewear_frame__.
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
@@ -2748,7 +2748,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 On her face is a small oval pair of mixed metal-and-acetate glasses in crystal grey with thin anti-glare lenses showing a faint reflection.
 Her eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.

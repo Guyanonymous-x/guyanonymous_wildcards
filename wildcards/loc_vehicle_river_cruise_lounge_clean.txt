@@ -1,1 +1,1 @@
-The place is a river cruise lounge. Its materials are __loc_vehicle_river_cruise_lounge_materials__. The light is __loc_anywhere_light__. A distinguishing detail is __loc_vehicle_river_cruise_lounge_signature__.
+The location is a river cruise lounge. Its materials are __loc_vehicle_river_cruise_lounge_materials__, and the palette is __loc_vehicle_river_cruise_lounge_palette__. __loc_vehicle_river_cruise_lounge_light__. __loc_vehicle_river_cruise_lounge_signature__.

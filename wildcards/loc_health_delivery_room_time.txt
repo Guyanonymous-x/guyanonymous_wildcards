@@ -1,1 +1,3 @@
-births cluster slightly at night
+Births cluster slightly at night, and the unit runs continuously
+The dimmed room at three in the morning is the characteristic state
+__loc_time_of_day__

@@ -1,1 +1,3 @@
-the building runs on shifts rather than daylight
+The building runs on shifts rather than daylight
+The night shift with fewer pickers and most aisles dark is the characteristic state
+__loc_time_of_day__

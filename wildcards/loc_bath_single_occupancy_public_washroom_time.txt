@@ -1,1 +1,3 @@
-follows the venue's hours
+Follows the venue's hours
+The queue outside is the only external sign of its state
+__loc_time_of_day__

@@ -1,1 +1,1 @@
-The place is a cob house. Its materials are __loc_dwelling_cob_house_materials__. The light is __loc_anywhere_light__. A distinguishing detail is __loc_dwelling_cob_house_signature__.
+The location is a cob house. Its materials are __loc_dwelling_cob_house_materials__. __loc_dwelling_cob_house_light__. __loc_dwelling_cob_house_signature__.

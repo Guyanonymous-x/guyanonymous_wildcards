@@ -1394,7 +1394,7 @@ His eyewear is __acc_eyewear_frame__.
 His eyes are uncovered.
 On his face is a browline pair of mixed metal-and-acetate glasses in gunmetal grey with thin anti-glare lenses showing a faint reflection.
 His eyes are uncovered.
-A round silver monocle sits in his left eye.
+A round silver monocle sits in his left eye. __acc_monocle_wear_left__
 His eyes are uncovered.
 He wears clear contact lenses, with a faint reflection on the lens surface.
 His eyes are uncovered.
@@ -1437,7 +1437,7 @@ His eyes are uncovered.
 His eyes are uncovered.
 He wears __acc_eyewear_frame__.
 He wears clear contact lenses, with his eyes slightly reddened from wear.
-A round silver monocle sits in his left eye.
+A round silver monocle sits in his left eye. __acc_monocle_wear_left__
 His eyes are uncovered.
 He wears __acc_eyewear_frame__.
 He wears clear contact lenses, with a faint ring at the edge of the iris.
@@ -2321,7 +2321,7 @@ His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
-A round silver monocle sits in his left eye.
+A round silver monocle sits in his left eye. __acc_monocle_wear_left__
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
@@ -2701,7 +2701,7 @@ His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
 His eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from his left eye.
+A Victorian brass monocle with a short chain hangs from his left eye. __acc_monocle_wear_chain_left__
 His eyewear is __acc_eyewear_frame__.
 His eyes are uncovered.
 His eyes are uncovered.
@@ -4551,7 +4551,7 @@ His eyes are uncovered.
 He wears __acc_eyewear_frame__.
 His eyes are uncovered.
 His eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from his left eye.
+A Victorian brass monocle with a short chain hangs from his left eye. __acc_monocle_wear_chain_left__
 His eyes are uncovered.
 His eyes are uncovered.
 He wears cosmetic contact lenses that add a subtle ring around his irises, with eyes that look sharp and clear.

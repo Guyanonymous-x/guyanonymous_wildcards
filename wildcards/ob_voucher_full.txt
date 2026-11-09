@@ -1,1 +1,1 @@
-__ob_voucher_type__, in __ob_colour__, made of __ob_voucher_material__, __ob_voucher_era__, __ob_voucher_wear__, with __ob_voucher_detail__, __ob_voucher_text__
+Made of __ob_voucher_material__ __ob_voucher_era__, __ob_voucher_wear__, with __ob_voucher_detail__, __ob_voucher_text__, and in __ob_colour__, __ob_voucher_type__

@@ -1,1 +1,2 @@
-used in blocks for booked services such as vaccination clinics and medicine reviews
+Used in blocks for booked services such as vaccination clinics and medicine reviews, and otherwise empty
+__loc_time_of_day__

@@ -1,3 +1,5 @@
-morning, curtains shut, bed occupied past reasonable
-afternoon, desk in use, door closed
-evening, LEDs on, screens, music
+Morning, curtains shut, bed occupied past reasonable
+Afternoon, desk in use, door closed
+Evening, LEDs on, screens, music
+Term-time versus holidays changes it more than the hour
+__loc_time_of_day__

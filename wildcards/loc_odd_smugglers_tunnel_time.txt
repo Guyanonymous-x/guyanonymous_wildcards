@@ -1,2 +1,4 @@
-high water
-low water
+High water, the sea end floods to the tide line and the tunnel is unusable
+Low water, the sea end is walkable and the light reaches in
+The working versions are entirely governed by this and by whether it is night
+__loc_time_of_day__

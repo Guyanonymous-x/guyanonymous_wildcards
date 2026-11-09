@@ -390,7 +390,7 @@ Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
 Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 She wears __acc_eyewear_frame__.
 She wears clear contact lenses, with a faint reflection on the lens surface.
 Her eyes are uncovered.
@@ -2080,7 +2080,7 @@ Her eyewear is __acc_eyewear_frame__.
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
 Her eyewear is __acc_eyewear_frame__.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 Her eyes are uncovered.
 She wears clear contact lenses, giving her eyes a slightly glossy look.
@@ -2171,7 +2171,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
@@ -3801,7 +3801,7 @@ Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
 She wears __acc_eyewear_frame__.
-A round silver monocle sits in her left eye.
+A round silver monocle sits in her left eye. __acc_monocle_wear_left__
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyes are uncovered.
@@ -4388,7 +4388,7 @@ She wears hard gas-permeable contact lenses, with a thin lens edge just visible.
 Her eyes are uncovered.
 Her eyes are uncovered.
 Her eyewear is __acc_eyewear_frame__.
-A Victorian brass monocle with a short chain hangs from her left eye.
+A Victorian brass monocle with a short chain hangs from her left eye. __acc_monocle_wear_chain_left__
 Her eyes are uncovered.
 Her eyes are uncovered.
 She wears __acc_eyewear_frame__.

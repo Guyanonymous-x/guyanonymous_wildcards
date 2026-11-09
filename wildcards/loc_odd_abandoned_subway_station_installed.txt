@@ -1,7 +1,7 @@
-tiled platform walls with station name in tile
+tiled platform walls with the station name "__name_town__" in tile
 disused track bed
 cable runs on brackets
 sealed stairwells
 ventilation grates
 emergency lighting conduit
-platform edge
+platform edge with no markings

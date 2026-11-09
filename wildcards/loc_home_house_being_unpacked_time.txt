@@ -1,2 +1,3 @@
-day, unpacking, doors open
-evening, a cleared patch of floor, a meal on a box, the rest untouched
+Day, unpacking, doors open
+Evening, a cleared patch of floor, a meal on a box, the rest untouched
+__loc_time_of_day__

@@ -1,1 +1,1 @@
-The place is a scullery. Its materials are __loc_wealth_scullery_materials__, and the palette is __loc_wealth_scullery_palette__. The light is __loc_wealth_scullery_light__. A distinguishing detail is __loc_wealth_scullery_signature__.
+The location is a scullery. Its materials are __loc_wealth_scullery_materials__, and the palette is __loc_wealth_scullery_palette__. __loc_wealth_scullery_light__. __loc_wealth_scullery_signature__.

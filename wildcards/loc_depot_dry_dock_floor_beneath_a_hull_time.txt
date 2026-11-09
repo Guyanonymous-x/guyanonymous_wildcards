@@ -1,7 +1,8 @@
-a docking runs round the clock
-the first day of blasting
-the working weeks, in shifts, under floodlights regardless of the hour
-the coating application
-the final inspection
-the flooding
-the ship out on a tide
+The pumping out, which takes hours and is the operation's opening
+The first day of blasting
+The working weeks, in shifts, under floodlights regardless of the hour
+The coating application, which is weather and dew-point dependent and therefore scheduled against a hygrometer
+The final inspection
+The flooding, which everybody watches
+The ship out on a tide
+__loc_time_of_day__

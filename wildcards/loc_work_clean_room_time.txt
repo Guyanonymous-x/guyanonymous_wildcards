@@ -1,0 +1,3 @@
+None
+The environment is held constant by definition, and the only variation is production state
+__loc_time_of_day__

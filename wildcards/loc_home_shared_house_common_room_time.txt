@@ -1,4 +1,5 @@
-morning, one person, cereal
-evening, several people, TV on
-weekend, the table covered in a project
-night, empty, lights off
+Morning, one person, cereal
+Evening, several people, TV on
+Weekend, the table covered in a project
+Night, empty, lights off
+__loc_time_of_day__

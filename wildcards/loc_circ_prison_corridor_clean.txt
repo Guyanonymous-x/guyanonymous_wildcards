@@ -1,1 +1,1 @@
-The place is a prison corridor. Its materials are __loc_circ_prison_corridor_materials__. The light is __loc_circ_prison_corridor_light__. A distinguishing detail is __loc_circ_prison_corridor_signature__. On view is __loc_circ_prison_corridor_sign__.
+The location is a prison corridor. Its materials are __loc_circ_prison_corridor_materials__. __loc_circ_prison_corridor_light__. __loc_circ_prison_corridor_signature__. On view is __loc_circ_prison_corridor_sign__.

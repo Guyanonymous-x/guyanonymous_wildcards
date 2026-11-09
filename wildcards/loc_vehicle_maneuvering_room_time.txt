@@ -1,4 +1,5 @@
-the watch system
-the hourly round of readings
-a drill
-a shutdown alongside
+The watch system, with a formal handover that is read aloud from the logbook
+The hourly round of readings, which is the compartment's metronome
+A drill, which is the compartment at its most crowded and most tested
+A shutdown alongside, which is a different and much slower state
+__loc_time_of_day__

@@ -1,6 +1,7 @@
-the department follows the plant
-a back shift
-a night shift
-the shift handover
-a planned shutdown weekend
-a Monday morning after a shutdown
+A day shift of planned work and projects
+A back shift
+A night shift
+The shift handover, which is where the real information passes and which happens round the board
+A planned shutdown weekend, which is the department's own time and when the big jobs are done
+A Monday morning after a shutdown, when everything that was disturbed fails
+__loc_time_of_day__

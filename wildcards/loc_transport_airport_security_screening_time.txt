@@ -1,1 +1,3 @@
-follows the departure banks with queues at the morning and evening peaks
+Follows the departure banks with queues at the morning and evening peaks
+Lanes are opened and closed in response
+__loc_time_of_day__

@@ -1,6 +1,7 @@
-the morning
-the day
-the late afternoon
-the hours ending
-the night
-a fuel delivery day
+The morning, with a queue of phones left and tagged
+The day, with people returning to check
+The late afternoon, which is the busiest because everybody wants a charged phone for the evening
+The hours ending, which is a hard stop
+The night, with the generator off
+A fuel delivery day, which is the service's real constraint
+__loc_time_of_day__
