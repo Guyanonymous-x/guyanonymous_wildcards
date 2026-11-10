@@ -8,4 +8,4 @@ a deadweight tester as the pressure reference with its weights protected from ha
 a loop calibrator for four-to-twenty milliamp signals which is the language the whole plant speaks
 a certificate system with as-found and as-left readings recorded because the as-found reading tells you whether the plant has been running on a wrong number
 a quarantine arrangement
-a tag and recall system so every instrument comes back on schedule, and a technician whose signature carries the same weight as the engineer's at record 35
+a tag and recall system so every instrument comes back on schedule

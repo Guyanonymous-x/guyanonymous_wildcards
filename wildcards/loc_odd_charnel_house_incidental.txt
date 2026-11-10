@@ -4,8 +4,8 @@ a candle stub melted onto a skull by somebody who should not have
 a sweet wrapper pushed into a crevice
 a dropped glove
 a hairgrip
-a flower in cellophane with a price label
+a flower in cellophane with a price label reading "__loc_text_label__"
 a chewing gum blob on a rail
-a laminated sign zip-tied to a grille
+a laminated sign reading "__loc_text_notice__" zip-tied to a grille
 a dead moth drift in a corner
 a torch

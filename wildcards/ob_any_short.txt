@@ -981,7 +981,6 @@ __ob_trestle_short__
 __ob_trike_short__
 __ob_trimmer_short__
 __ob_tripod_short__
-__ob_trophy_short__
 __ob_trowel_short__
 __ob_trug_short__
 __ob_trunk_short__
@@ -1177,3 +1176,6 @@ __ob_conservatory_short__
 __ob_pergola_short__
 __ob_cladding_short__
 __ob_gatepost_short__
+__ob_taxidermy_short__
+__ob_mounted_head_short__
+__ob_trophy_short__

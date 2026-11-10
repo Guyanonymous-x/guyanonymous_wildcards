@@ -4,5 +4,5 @@ control panel
 emergency phone
 inspection hatch
 scuffed kick plate
-service-only signage
+service-only signage reading "__loc_text_service__"
 bright utilitarian light

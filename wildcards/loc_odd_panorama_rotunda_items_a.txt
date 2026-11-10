@@ -1,2 +1,2 @@
 a leaflet
-a label
+a label reading "__loc_text_label__"

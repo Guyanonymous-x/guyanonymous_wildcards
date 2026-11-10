@@ -1,5 +1,5 @@
-a wiring diagram roll in a cardboard tube with the drawing number and a revision letter on the end cap in marker, because signaling wiring diagrams are controlled documents and the revision letter is the whole point
-a bin of failed relays each with a label giving the location it came from and the symptom
+a wiring diagram roll in a cardboard tube with the drawing number and a revision letter on the end cap in marker
+a bin of failed relays each with a label reading "__loc_text_label__" giving the location it came from and the symptom
 kept because a pattern of relay failures at one location means something
 a sealed logbook of modifications in which every change to a safety-critical circuit is recorded in order and signed
 a locked cabinet of safety-critical spares with a key register

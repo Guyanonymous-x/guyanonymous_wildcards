@@ -1,5 +1,5 @@
 a rank shelter
 a queue barrier
-a sign
+a sign reading "Taxi"
 a marshal's position at busy ranks
 a drivers' hut at some ranks

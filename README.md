@@ -2,19 +2,38 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v109**
+**Current version: v110**
 
-**Contents:** [Introduction](#introduction) · [What's New in v109](#whats-new-in-v109) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v110](#whats-new-in-v110) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 82,800 wildcard text files (82823 `.txt` files in [`wildcards/`](wildcards/) at v109, plus 508 build and check files in [`wildcards/_tools/`](wildcards/_tools/)). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 94,800 wildcard text files (94818 `.txt` files in [`wildcards/`](wildcards/) at v110). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
-People files describe adults aged 18 to 120. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
+People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v110
+
+3,755 location lines rewritten, heat shimmer, awkward family photos, bad snapshots, taxidermy, mounted heads, trophies, breakdancing, infrared and UV styles, ways of seeing people, glasses prescriptions, zombies, vampires, werewolves, fae, fairies and maps ([docs/INDEX_v110.txt](docs/INDEX_v110.txt)). Since v109:
+
+- Locations: 3,755 weak place lines rewritten and checked inside their prompt sentences (writer's notes removed, fragments made into full descriptions, 'no X' lines turned into what is there, palettes given colours, signs and labels given quoted wording from 84 new `loc_text_*` lists); 169 regional lines rewritten as short regional versions.
+- Heat shimmer: the desert line now fits its scenes, and six new hot things (road, airport tarmac, barbecue, car bonnet, jet exhaust, bonfire) each come in a real and a spectacle version.
+- Awkward family photos (`afp_`): era studio styles, matching outfits, backdrops, poses, odd props and mid-pose mishaps. These lists are self-contained; children appear only here, always clothed, and the build checks that they cannot reach any other file.
+- Bad snapshots (`snap_`): adults caught at the worst moment, natural or mid-pose, and a separate adults-only exposure list (`snap_exposure_prompt`).
+- Objects: bad taxidermy (`ob_taxidermy_`), mounted heads on walls (`ob_mounted_head_`, humans only as joke props) and trophies of every kind (`ob_trophy_`), with photo prompts; all in the object roll-ups.
+- Breakdancing joins the extreme sports (`adv_breakdance_`) with moves, crews, places and action cameras.
+- Infrared and UV photo styles (`irstyle_`): 8 filters, each through its processing (straight from camera, red/blue swapped, black and white, unbalanced), with what glows and what goes dark.
+- Ways of seeing people (`seeing_`): auras, X-rays, heat maps, night vision, lidar and more; glasses prescriptions (`acc_glasses_rx`) from eyes shrunk by strong minus lenses to owlish strong plus, bifocals and varifocals.
+- Zombies, vampires, werewolves, the fae and fairies (`myth_`): 12 looks each across genres and cultures, in 9 treatments (ultra-realistic to children's animation style) and 17 eras.
+- Maps (`map_`): 38 map types, 13 projections, 12 styles from ancient to treasure maps, with mediums, conditions, details, titles and views.
+- Rule check: fewer false reports (sign-up and sign-out, label printers, 'a Uruguayan'); landscape prompts read 'A landscape of desert dunes'.
+- Showcase files (34 prompts, two from each new area) and 100 sample prompts at 512, 1024 and 1408 pixel counts (steps 50, cfg 3.75), plus a zip of 17 new-area showcases of 20 prompts each at 1024.
+
+The full list of v110 entry points is in `wildcards/v110_entry_points.txt`. From v110 the build tools are kept out of this repository.
 
 ## What's New in v109
 
@@ -403,6 +422,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v110
+3,755 location lines rewritten, heat shimmer, awkward family photos, bad snapshots, taxidermy, mounted heads, trophies, breakdancing, infrared and UV styles, ways of seeing people, glasses prescriptions, zombies, vampires, werewolves, fae, fairies and maps. See [What's New in v110](#whats-new-in-v110).
 
 ### v109
 350-location conversion, object builders with era looks and fixtures, trading cards, card and board games, activities, medical scenes, quoted sportswear text. See [What's New in v109](#whats-new-in-v109).

@@ -1,9 +1,15 @@
 __fx_pair_atmosphere_real_1_subject__ The scene shows beams of sun slanting through gaps in cloud and tree leaves. The effect is __fx_pair_atmosphere_real_1_strength__. The light is __fx_pair_atmosphere_real_1_colour__.
 __fx_pair_atmosphere_real_2_subject__ The scene shows a clear arc of colour against a dark sky in front of a rain shower, appearing __fx_pair_atmosphere_real_2_where__. The effect is __fx_pair_atmosphere_real_2_strength__, __fx_pair_atmosphere_real_2_interact__.
 __fx_pair_atmosphere_real_3_subject__ The scene shows a pale ring around the sun with a bright spot at the left and right. The effect is __fx_pair_atmosphere_real_3_strength__.
-__fx_pair_atmosphere_real_4_subject__ The scene shows rippling air above a hot road making the far trees wobble. The effect is __fx_pair_atmosphere_real_4_strength__.
+__fx_pair_atmosphere_real_4_subject__ The scene shows rippling air above the hot ground making the far horizon wobble. The effect is __fx_pair_atmosphere_real_4_strength__.
 __fx_pair_atmosphere_real_5_subject__ The scene shows tiny specks hanging in a beam of light across a dark room. The effect is __fx_pair_atmosphere_real_5_strength__. The light is __fx_pair_atmosphere_real_5_colour__.
 __fx_pair_atmosphere_real_6_subject__ The scene shows a brief green rim at the top of the sun as it sets over a clear sea. The effect is __fx_pair_atmosphere_real_6_strength__.
 __fx_pair_atmosphere_real_7_subject__ The scene shows a faint green glow low on the northern horizon above a dark lake. The effect is __fx_pair_atmosphere_real_7_strength__, __fx_pair_atmosphere_real_7_interact__.
 __fx_pair_atmosphere_real_8_subject__ The scene shows street lamps each wrapped in a round glow in thin fog. The effect is __fx_pair_atmosphere_real_8_strength__.
 __fx_pair_atmosphere_real_9_subject__ The scene shows a flat bed of low cloud filling a valley below a hilltop. The effect is __fx_pair_atmosphere_real_9_strength__.
+__fx_pair_atmosphere_real_10_subject__ The scene shows rippling heat shimmer above a hot road, making the far end of the street wobble. The effect is __fx_pair_atmosphere_real_10_strength__.
+__fx_pair_atmosphere_real_11_subject__ The scene shows heat shimmer rising off the sun-baked tarmac of the apron, blurring the aircraft beyond. The effect is __fx_pair_atmosphere_real_11_strength__.
+__fx_pair_atmosphere_real_12_subject__ The scene shows a column of wavering heat rising above a barbecue grill, bending the view behind it. The effect is __fx_pair_atmosphere_real_12_strength__.
+__fx_pair_atmosphere_real_13_subject__ The scene shows a faint ripple of heat rising off a car bonnet after a long drive. The effect is __fx_pair_atmosphere_real_13_strength__.
+__fx_pair_atmosphere_real_14_subject__ The scene shows a blast of rippling heat haze pouring from a jet engine exhaust, warping everything behind it. The effect is __fx_pair_atmosphere_real_14_strength__.
+__fx_pair_atmosphere_real_15_subject__ The scene shows wavering air rising above a bonfire, making the landscape behind it swim. The effect is __fx_pair_atmosphere_real_15_strength__.

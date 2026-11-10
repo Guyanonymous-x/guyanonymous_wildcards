@@ -1,7 +1,7 @@
 a cage of stock
 a mop bucket
 a stack of flattened cardboard
-a cleaning sign
-a dropped price label
+a cleaning sign reading "__loc_text_caution__"
+a dropped price label reading "__name_price__"
 a trolley
 a radio on a shelf

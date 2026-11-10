@@ -1,2 +1,2 @@
-The time lock means the vault cannot be opened outside banking hours, which is the single most important fact about it
+The time lock keeps the vault shut outside banking hours
 __loc_time_of_day__

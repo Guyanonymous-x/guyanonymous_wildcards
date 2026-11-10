@@ -1,4 +1,4 @@
 stainless car walls
 control panel
 inspection hatch
-service-only signage
+service-only signage reading "__loc_text_service__"

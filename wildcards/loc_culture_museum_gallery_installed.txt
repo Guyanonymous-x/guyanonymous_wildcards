@@ -3,7 +3,7 @@ climate and humidity sensors in discreet boxes
 security cameras in the corners
 a hanging system in the walls
 a bench at the center of the room
-labels at a consistent height
+labels reading "__loc_text_exhibit__" at a consistent height
 a threshold strip at each opening
 blinds or no windows at all
 a fire detection system that uses mist rather than water

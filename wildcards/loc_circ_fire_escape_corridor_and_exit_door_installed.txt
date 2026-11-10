@@ -1,8 +1,8 @@
 a protected corridor with fire doors at both ends
-a push-bar exit door at the end with a green running-man sign above
+a push-bar exit door at the end with a green running-man sign reading "__loc_text_exit__" above
 emergency lighting on a separate circuit
 a photoluminescent strip at floor level
-signage stating the door must be kept clear
+signage reading "__loc_text_keepclear__" on the door
 a door alarm
 a concrete or vinyl floor
-no combustible finishes
+plain fire-proof finishes of painted plaster and concrete

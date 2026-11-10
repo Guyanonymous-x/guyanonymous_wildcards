@@ -1,6 +1,6 @@
 shrink-wrapped pallets
-barcode labels on beam ends
+barcode labels reading "__name_number_small__" on beam ends
 a scanner gun in a holster
-a dropped label
+a dropped label reading "__loc_text_parcel__"
 strapping offcuts
 a pallet with one broken board

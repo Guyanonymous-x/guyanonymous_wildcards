@@ -981,7 +981,6 @@ __ob_trestle_full__
 __ob_trike_full__
 __ob_trimmer_full__
 __ob_tripod_full__
-__ob_trophy_full__
 __ob_trowel_full__
 __ob_trug_full__
 __ob_trunk_full__
@@ -1177,3 +1176,6 @@ __ob_conservatory_full__
 __ob_pergola_full__
 __ob_cladding_full__
 __ob_gatepost_full__
+__ob_taxidermy_full__
+__ob_mounted_head_full__
+__ob_trophy_full__

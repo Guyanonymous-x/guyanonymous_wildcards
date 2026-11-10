@@ -1,4 +1,0 @@
-opaque color
-semi-transparent color layers
-watercolor transparency
-multiply-blended overlapping color

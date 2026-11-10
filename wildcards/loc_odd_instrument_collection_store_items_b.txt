@@ -1,3 +1,3 @@
 hygrometer readings
-a label tied to a scroll
+a label reading "__loc_text_label__" tied to a scroll
 a condition report

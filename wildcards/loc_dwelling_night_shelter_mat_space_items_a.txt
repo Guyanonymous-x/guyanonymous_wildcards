@@ -2,5 +2,5 @@ a church hall or community center floor with twenty mats laid in rows
 a numbered card or a name, "__name_first__", on a list at the door
 a tea urn and a trestle with biscuits
 a bag of possessions beside each mat
-a sign giving the opening and closing times
+a sign reading "__loc_text_notice__" giving the opening and closing times
 a first aid box

@@ -1,7 +1,7 @@
-a parcel with a barcode label
+a parcel with a barcode label reading "__loc_text_parcel__"
 a scanner
 a roll cage
-a route label
+a route label reading "__name_town__"
 a tally sheet
 a hi-vis vest
-a dropped label
+a dropped label reading "__loc_text_parcel__"

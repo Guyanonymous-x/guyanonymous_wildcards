@@ -1,3 +1,3 @@
 a light lock where sensitive works are shown
 an invigilator's position with sightlines into both rooms
-a label panel introducing the next room
+a label panel reading "__loc_text_exhibit__" introducing the next room

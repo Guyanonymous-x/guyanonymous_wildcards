@@ -1,1 +1,0 @@
-__prompt_style__ __prompt_char_physical_short__ She is wearing __clothing_pool__. __prompt_setting__

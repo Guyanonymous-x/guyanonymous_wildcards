@@ -981,7 +981,6 @@ __ob_trestle_phrase__
 __ob_trike_phrase__
 __ob_trimmer_phrase__
 __ob_tripod_phrase__
-__ob_trophy_phrase__
 __ob_trowel_phrase__
 __ob_trug_phrase__
 __ob_trunk_phrase__
@@ -1177,3 +1176,6 @@ __ob_conservatory_phrase__
 __ob_pergola_phrase__
 __ob_cladding_phrase__
 __ob_gatepost_phrase__
+__ob_taxidermy_phrase__
+__ob_mounted_head_phrase__
+__ob_trophy_phrase__

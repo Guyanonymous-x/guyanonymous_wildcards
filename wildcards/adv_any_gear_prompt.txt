@@ -14,6 +14,7 @@ __adv_rafting_gear_prompt__
 __adv_whitewater_kayak_gear_prompt__
 __adv_mtb_gear_prompt__
 __adv_bmx_gear_prompt__
+__adv_breakdance_gear_prompt__
 __adv_motocross_gear_prompt__
 __adv_snowboard_gear_prompt__
 __adv_freeski_gear_prompt__

@@ -1,6 +1,6 @@
 a bench of relay racks with a relay out and a cover off
 a soldering station with a fume extractor arm
-a bin of failed relays with labels
+a bin of failed relays with labels reading "__loc_text_label__"
 an oscilloscope and a cable fault locator
 a rack of track circuit components
 a sealed logbook of modifications

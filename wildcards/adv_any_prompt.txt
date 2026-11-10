@@ -14,6 +14,7 @@ __adv_rafting_prompt__
 __adv_whitewater_kayak_prompt__
 __adv_mtb_prompt__
 __adv_bmx_prompt__
+__adv_breakdance_prompt__
 __adv_motocross_prompt__
 __adv_snowboard_prompt__
 __adv_freeski_prompt__

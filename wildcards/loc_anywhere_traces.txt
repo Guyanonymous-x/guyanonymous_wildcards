@@ -52,7 +52,7 @@ a hand-polish on the poles
 a handed-down seat cushion
 a handwheel polished
 a headset with the name "__name_first__" on it
-a label corrected
+a label reading "__loc_text_label__" corrected by hand
 a leaflet taken
 a lipstick mark
 a logbook
@@ -96,7 +96,7 @@ a scuff at trolley height
 a seat with the bolster gone on the exit side
 a seat worn
 a service sticker with dates
-a shelf label corrected
+a shelf label reading "__loc_text_label__" corrected
 a shelf worn
 a shoe scuff on the seat lip
 a socket weighting a manual
@@ -137,8 +137,8 @@ graffiti
 grease at every sheave
 gum
 handprints on the glass
-labels in faded pencil
-labels in handwriting
+labels reading "__loc_text_label__" in faded pencil
+labels reading "__loc_text_label__" in handwriting
 pins in the carpet
 plants on the window ledge
 polish on the handrail

@@ -3,7 +3,7 @@ overhead bins that are the subject of the entire boarding process
 a seat pitch that is the single number airlines compete on downwards
 a tray table that cannot be used if the seat in front reclines
 a window at every other row so some seats have no window at all and some have two
-a seatbelt sign and a chime that structures the whole flight
+a seatbelt sign reading "__loc_text_notice__" and a chime that structures the whole flight
 a call bell nobody presses
 a reading light and a gimbaled air vent per seat
 an emergency exit row with more legroom that is sold separately

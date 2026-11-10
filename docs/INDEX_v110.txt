@@ -1,0 +1,27 @@
+v110 index
+Built from the image tests of this version. Rules and findings: docs/STANDING_RULES.txt, docs/MOSS_PROMPT_RULES_HANDOVER.md and _tools/V106_CHANGES.md.
+
+Showcase and sample files: the showcase files highlight body parts and features (one person per feature, close-ups of the part, a title such as Eye Variations on each image); the sample files are representative of everything the model can do.
+
+v107 contents: clothed male bulge pools by fabric class (male_bulge_tight, _brief, _jock, _medium, _loose, _clothed, _covered); level panels adult_lN_panel_wm/_ww/_mm rewritten with full geometry, orientation and camera; structured three-person group scenes at levels 1 to 6; adult_l4/l5/l6_wrestling_mm; structured location scenes for a woman and a man at every level; level 3 solo scenes in real bottoms; head_chin with a shallow dimple instead of a deep cleft; showcase generators V106_showcase_generator.py and convert_list.py.
+
+
+v107 adds: f_body_nipples areola/nipple ladder (35 lines), f_body_anus, m_body_anus, and expanded act_yoga_*, act_dance_classes_*, act_martial_arts_* action/clothes/equip/setting lists.
+
+v108 adds: level-6 endings for adult_l6_panel_mm* and adult_l6_panel_ww*; act_frame_style (six on-location photo styles) used by every act_*_frame_prompt; capitalised act_*_scene_prompt sentences; swimwear at wet locations (levels 1 and 3); table pose removed from level 1; "not white" negations removed; body_navel (10 lines); review fixes listed in _tools/V108_CHANGES.md.
+
+v109 adds: the 350 Locations conversion (loc_<group>_<place>_* pools and loc_scene, loc_people, loc_time_scene, loc_era_scene, loc_region_scene); object builders for every object kind in the inventory (ob_<object>_type/_material/_wear/_detail/_era/_short/_phrase/_full/_text); era descriptions for 230 objects (ob_<object>_era_<period>, ob_<object>_period); 79 architectural fixtures; trading cards (tc_*), card games (cg_*), board and tabletop games (bg_*) with stages and top-down views; adventure, outdoor and workout activities (adv_*); clinical medical scenes for the health locations (med_*, med_*_decade_*); the shared team name pools name_team, name_team_mascot and name_jersey_number; quoted text on sportswear and uniforms; body builds matched to age. Details: _tools/V109_CHANGES.md.
+
+v110 adds:
+- Locations: 3,755 weak place lines rewritten and checked inside their prompt sentences (writer's notes removed, fragments made into full descriptions, 'no X' lines turned into what is there, palettes given colours, signs and labels given quoted wording from 84 new `loc_text_*` lists); 169 regional lines rewritten as short regional versions.
+- Heat shimmer: the desert line now fits its scenes, and six new hot things (road, airport tarmac, barbecue, car bonnet, jet exhaust, bonfire) each come in a real and a spectacle version.
+- Awkward family photos (`afp_`): era studio styles, matching outfits, backdrops, poses, odd props and mid-pose mishaps. These lists are self-contained; children appear only here, always clothed, and the build checks that they cannot reach any other file.
+- Bad snapshots (`snap_`): adults caught at the worst moment, natural or mid-pose, and a separate adults-only exposure list (`snap_exposure_prompt`).
+- Objects: bad taxidermy (`ob_taxidermy_`), mounted heads on walls (`ob_mounted_head_`, humans only as joke props) and trophies of every kind (`ob_trophy_`), with photo prompts; all in the object roll-ups.
+- Breakdancing joins the extreme sports (`adv_breakdance_`) with moves, crews, places and action cameras.
+- Infrared and UV photo styles (`irstyle_`): 8 filters, each through its processing (straight from camera, red/blue swapped, black and white, unbalanced), with what glows and what goes dark.
+- Ways of seeing people (`seeing_`): auras, X-rays, heat maps, night vision, lidar and more; glasses prescriptions (`acc_glasses_rx`) from eyes shrunk by strong minus lenses to owlish strong plus, bifocals and varifocals.
+- Zombies, vampires, werewolves, the fae and fairies (`myth_`): 12 looks each across genres and cultures, in 9 treatments (ultra-realistic to children's animation style) and 17 eras.
+- Maps (`map_`): 38 map types, 13 projections, 12 styles from ancient to treasure maps, with mediums, conditions, details, titles and views.
+- Rule check: fewer false reports (sign-up and sign-out, label printers, 'a Uruguayan'); landscape prompts read 'A landscape of desert dunes'.
+- Showcase files (34 prompts, two from each new area) and 100 sample prompts at 512, 1024 and 1408 pixel counts (steps 50, cfg 3.75), plus a zip of 17 new-area showcases of 20 prompts each at 1024.

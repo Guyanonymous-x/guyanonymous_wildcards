@@ -5,4 +5,4 @@ bungee cords
 bottle crates
 cardboard bales
 broken pallets
-a dropped label
+a dropped label reading "__loc_text_parcel__"

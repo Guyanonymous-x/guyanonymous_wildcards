@@ -101,7 +101,7 @@ a chock
 a cigarette end
 a cigarette tin
 a cleaning cloth
-a cleaning sign
+a cleaning sign reading "__loc_text_caution__"
 a cleaver
 a clicker
 a clipboard
@@ -140,11 +140,11 @@ a dog lead
 a dog on a lead
 a donation box
 a doormat
-a dosimeter badge
+a dosimeter badge reading "__name_surname__"
 a drainage channel to a soakaway
 a dropped boarding pass
 a dropped glove
-a dropped label
+a dropped label reading "__loc_text_label__"
 a dropped lanyard
 a dropped receipt
 a dropped ticket
@@ -223,7 +223,7 @@ a key cabinet
 a kit bag
 a kneeling mat
 a knife
-a label
+a label reading "__loc_text_label__"
 a label printer
 a ladder
 a laminated price list
@@ -322,7 +322,7 @@ a photograph taped inside a locker door
 a photograph taped to the wall
 a pick
 a plant
-a plant label
+a plant label reading "__loc_text_plant__"
 a plastic basin
 a plastic box of food
 a prayer book
@@ -494,7 +494,7 @@ a wood stove
 a worn step
 a wrench
 a wrench left on a pipe
-address labels
+address labels reading "__name_town__"
 an AIS
 an air freshener
 an ashtray
@@ -506,7 +506,7 @@ an oxygen mask
 an umbrella
 aprons
 bandages
-barcode labels
+barcode labels reading "__name_number_small__"
 bathrobes
 batteries
 bedding
@@ -643,7 +643,7 @@ jewelry dish
 key cards
 keys
 knitting
-labels
+labels reading "__loc_text_label__"
 ladles
 lamps
 lanyards
@@ -701,9 +701,9 @@ photographs in frames
 picks
 pint glasses
 pizza boxes
-place cards
+place cards reading "__name_surname__"
 place settings
-plant labels
+plant labels reading "__loc_text_plant__"
 plastic bags
 plastic wrap
 playing cards

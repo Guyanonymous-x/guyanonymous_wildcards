@@ -1,6 +1,6 @@
 a shopping list in somebody's handwriting dropped in an aisle
 an abandoned basket with a chilled item in it going warm
-a price label on the shelf edge that does not match the product above it
+a price label reading "__name_price__" on the shelf edge under the wrong product
 a dropped coupon
 a child's toy
 a crushed box pushed to the back

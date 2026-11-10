@@ -1,3 +1,3 @@
-None inherent
+The room looks the same at every hour of the day
 The room's availability rather than the hour is what matters, and finding it locked or used as a store is a common and serious failure
 __loc_time_of_day__

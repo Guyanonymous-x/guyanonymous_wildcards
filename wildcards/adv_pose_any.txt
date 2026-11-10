@@ -30,6 +30,8 @@ __adv_mtb_pose_w__
 __adv_mtb_pose_m__
 __adv_bmx_pose_w__
 __adv_bmx_pose_m__
+__adv_breakdance_pose_w__
+__adv_breakdance_pose_m__
 __adv_motocross_pose_w__
 __adv_motocross_pose_m__
 __adv_snowboard_pose_w__

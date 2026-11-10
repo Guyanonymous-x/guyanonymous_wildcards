@@ -1,5 +1,5 @@
 cabins off a central corridor
 a blast-rated external wall facing the process area
 a recreation room
-a muster point sign in every corridor
-no openable windows
+a muster point sign reading "__loc_text_notice__" in every corridor
+sealed windows of thick glass

@@ -1,4 +1,4 @@
-a strip-mall unit with a monument sign
+a strip-mall unit with a monument sign reading "__loc_text_notice__"
 a two-door security vestibule with a guard and a scanner
 a waiting area with bolted chairs and a ticket dispenser
 a six-position counter behind laminated glass with pass-through drawers
@@ -7,6 +7,6 @@ a wall of pre-packaged stock
 a compliance point-of-sale system
 a vault room
 cameras throughout with a retention notice
-a limit sign
+a limit sign reading "__loc_text_notice__"
 a staff room with a time clock
 a logged waste bin

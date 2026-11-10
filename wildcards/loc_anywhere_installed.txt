@@ -126,7 +126,7 @@ a shoe rack
 a shoe rack at the door
 a shop
 a shower
-a sign outside
+a sign reading "__loc_text_notice__" outside
 a single ceiling light
 a single pendant
 a sink
@@ -275,21 +275,21 @@ low lighting
 magnification
 menu board
 mirrors
-no daylight
-no door
-no drainage
-no figurative imagery
-no heating
-no lavatory
-no light
-no natural light
-no natural light on the collection
-no power
-no pull and nothing that rings
-no services of any kind in the traditional form
-no water
-no window
-no windows
+a windowless room lit only by lamps
+an open doorway
+a sealed floor where water pools
+plain walls decorated with patterns and calligraphy only
+a cold, unheated room
+a room with the lavatory outside across the yard
+a room lit only by what is carried in
+walls lit only by electric light
+the collection lit only by soft electric light
+an unpowered room lit by candles and lanterns
+a plain door with a simple latch
+a structure kept off-grid in the traditional way
+a dry room supplied only by carried water
+windowless walls
+windowless walls
 non-slip floor
 numbered doors
 one window
@@ -313,7 +313,7 @@ railings
 recessed lighting
 shared or informal
 shelving to the ceiling
-signage
+signage reading "__loc_text_notice__"
 small deep windows
 small windows
 soft flooring
@@ -348,7 +348,7 @@ wall sconces
 wall shelving
 water
 water tanks
-which exists
+an old fixture that is still in place
 whitewashed walls
 windows blocked to half height by stacks
 wipeable surfaces throughout

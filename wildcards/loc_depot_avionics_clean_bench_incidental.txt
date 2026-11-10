@@ -3,9 +3,9 @@ a wrist strap on a coiled lead with a tester on the bench edge that is used ever
 a stereo microscope on a boom arm with the eyepieces set for one person's eyes and a note asking others not to change them
 a conformal coating pen with a crust at the tip
 a bin of anti-static bags flattened and reused until they lose their coating
-a card extender with a hand-written label giving which unit it fits
+a card extender with a hand-written label reading "__loc_text_label__" giving which unit it fits
 a soldering station with a temperature readout set to a figure written on a strip of tape beside it
-a reel of solder with the specification on a label because the alloy matters
+a reel of solder with the specification on a label reading "__loc_text_label__" because the alloy matters
 a flux pen with a dried tip and a pin beside it
 a bench mat with a worn patch where a particular unit always sits
 isopropyl alcohol and warm electronics

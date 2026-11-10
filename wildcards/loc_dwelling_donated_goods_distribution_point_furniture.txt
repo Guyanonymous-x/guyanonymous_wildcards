@@ -6,5 +6,5 @@ sorted crates
 tabards
 a tally sheet
 a packaging bin
-a day's-items sign
+a day's-items sign reading "__loc_text_notice__"
 a flask
