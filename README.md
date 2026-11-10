@@ -2,19 +2,36 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v113**
+**Current version: v114**
 
-**Contents:** [Introduction](#introduction) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 110,300 wildcard text files (110289 `.txt` files in [`wildcards/`](wildcards/) at v113). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 111,000 wildcard text files (111037 `.txt` files in [`wildcards/`](wildcards/) at v114). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v114
+
+Street life, nightlife and theatres, pet costumes, postcards and greeting cards, drugs and implants, tomb raiders, crimes in action, pawn shops, cults and holy relics, revealing costumes, sleeping poses, world-wide homes, and fixes for ages, lairs and holiday scenes ([docs/INDEX_v114.txt](docs/INDEX_v114.txt)). Since v113:
+
+- Street (`street_`): stunts and stunt performers, weird world records, groupies, buskers and street performers, people down on their luck shown with dignity (with cardboard sign text), and carnival games and sideshows.
+- Nightlife (`night_`, `theatre_`): taverns, speakeasies, dance halls, nightclubs, raves and bars from the 1600s to now, inside and out; movie palaces, drive-ins, opera houses and playhouses.
+- Cards and pets (`pet_`, `postcard_card_`, `greet_`): pet costumes and gear, postcards from made-up towns, and greeting cards for 23 occasions.
+- Drugs and tech (`drug_`, `tech_`): drugs and medicines as props and places only, and implants and wearables.
+- Crime and belief (`raid_`, `crim_action_`, `under_`, `pawn_`, `cult_`, `relic_`): tomb raiders, crimes in action, under-the-counter goods in 12 kinds of shop, pawn shops, cults with leaders, followers and crowds, and holy relics.
+- Costumes and sleep (`reveal_`, `sleep_`): revealing Halloween costumes on purpose or by accident, and asleep and passed-out poses and faces.
+- World homes (`global_`): homes in 15 regions inside and out, with wealth and condition; about half of random locations now come from them, and holiday decorations sit in homes where each holiday is kept.
+- Fixes: ages 85 to 94 now about 7% and 95 to 120 about 3% of people, with milder old-age looks most of the time; lairs open inside with hideout cues and era-fit objects; holiday slogan tops are paired sensibly; menorahs are seven-branched, or nine-branched for Hanukkah.
+- Adult lists stay in their own family (`adult_reveal_`, `adult_cfnm_`) and are left out of the normal samples and showcases.
+- Showcase files: two prompts from each new area at 512, 1024 and 1408, plus a zip of 24 new-area showcases of 20 prompts each at 1024, with ages spread evenly by decade; 100 sample prompts representing everything the library can do, at the three sizes (steps 50, cfg 3.75).
+
+The full list of v114 entry points is in `wildcards/v114_entry_points.txt`.
 
 ## What's New in v113
 
@@ -470,6 +487,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v114
+Street life, nightlife and theatres, pet costumes, postcards and greeting cards, drugs and implants, tomb raiders, crimes in action, pawn shops, cults and holy relics, revealing costumes, sleeping poses, world-wide homes, and fixes for ages, lairs and holiday scenes. See [What's New in v114](#whats-new-in-v114).
 
 ### v113
 Tropes from film, TV, books, comics and advertising: camera tricks and lighting, visual metaphors, character archetypes, 29 genre packs, story moments, trope settings, movie posters, TV, film and print ads, covers, comics, a trope mixer, and more poachers. See [What's New in v113](#whats-new-in-v113).
