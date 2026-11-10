@@ -1,0 +1,2 @@
+__f_create_random_woman_short__ Her dance is the Charleston, and she is wearing __dance_charleston_solo_outfit_w__. She is __dance_charleston_solo_step__. The music is __dance_charleston_solo_music__. The scene is __dance_charleston_solo_place__. __dance_camera__
+__m_create_random_man_short__ His dance is the Charleston, and he is wearing __dance_charleston_solo_outfit_m__. He is __dance_charleston_solo_step__. The music is __dance_charleston_solo_music__. The scene is __dance_charleston_solo_place__. __dance_camera__

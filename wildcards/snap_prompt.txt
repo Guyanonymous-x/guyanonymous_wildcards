@@ -1,4 +1,12 @@
-A bad snapshot of __f_create_random_woman_short__ She is __snap_moment__. __snap_photo__
-A bad snapshot of __m_create_random_man_short__ He is __snap_moment__. __snap_photo__
-A posed photo of __f_create_random_woman_short__ __snap_midpose__ __snap_photo__
-A posed photo of __m_create_random_man_short__ __snap_midpose__ __snap_photo__
+A bad snapshot. __f_create_random_woman_short__ She is __snap_moment__. __snap_photo__
+A bad snapshot. __m_create_random_man_short__ He is __snap_moment__. __snap_photo__
+A bad snapshot. __f_create_random_woman_short__ She is __snap_moment__. __snap_bystander__ __snap_photo__
+A bad snapshot. __m_create_random_man_short__ He is __snap_moment__. __snap_bystander__ __snap_photo__
+A posed photo. __f_create_random_woman_short__ __snap_midpose__ __snap_photo__
+A posed photo. __m_create_random_man_short__ __snap_midpose__ __snap_photo__
+A bad snapshot __snap_place__. __f_create_random_woman_short__ She is wearing __snap_outfit_w__. She is __snap_moment__. __snap_bystander__ __snap_photo__
+A bad snapshot __snap_place__. __m_create_random_man_short__ He is wearing __snap_outfit_m__. He is __snap_moment__. __snap_bystander__ __snap_photo__
+A posed photo __snap_place__. __f_create_random_woman_short__ She is wearing __snap_outfit_w__. __snap_midpose__ __snap_photo__
+A posed photo __snap_place__. __m_create_random_man_short__ He is wearing __snap_outfit_m__. __snap_midpose__ __snap_photo__
+A bad snapshot __snap_place__. __f_create_random_woman_short__ She is wearing __snap_outfit_w__. __snap_framing__ __snap_photo__
+A bad snapshot __snap_place__. __m_create_random_man_short__ He is wearing __snap_outfit_m__. __snap_framing__ __snap_photo__

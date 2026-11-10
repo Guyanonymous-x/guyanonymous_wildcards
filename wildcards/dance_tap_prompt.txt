@@ -1,0 +1,2 @@
+__f_create_random_woman_short__ Her dance is tap dancing, and she is wearing __dance_tap_outfit_w__. She is __dance_tap_step__. The music is __dance_tap_music__. The scene is __dance_tap_place__. __dance_camera__
+__m_create_random_man_short__ His dance is tap dancing, and he is wearing __dance_tap_outfit_m__. He is __dance_tap_step__. The music is __dance_tap_music__. The scene is __dance_tap_place__. __dance_camera__

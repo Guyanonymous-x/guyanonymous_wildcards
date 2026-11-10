@@ -2,19 +2,33 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v110**
+**Current version: v111**
 
-**Contents:** [Introduction](#introduction) · [What's New in v110](#whats-new-in-v110) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v111](#whats-new-in-v111) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 94,800 wildcard text files (94818 `.txt` files in [`wildcards/`](wildcards/) at v110). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 95,800 wildcard text files (95756 `.txt` files in [`wildcards/`](wildcards/) at v111). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v111
+
+Things going wrong in 134 activities, bad snapshots that react, bigger awkward family photos, roller and inline skating by era, and dance: styles, steps, fads and how every generation dances ([docs/INDEX_v111.txt](docs/INDEX_v111.txt)). Since v110:
+
+- Things going wrong (`mis_`): 20 mishaps for each of 134 activities (sports, music, crafts, hobbies, adventure and workouts) in three levels, small, mid and big, each with its own faces, bystanders and body positions; big ones add the aftermath. People are any adult age, injuries are everyday and non-gory, and eyes are on what is going wrong.
+- Bad snapshots: people react to the moment and look at it (away from the lens), with 54 moments, 16 posed-photo mishaps, bystanders, places and outfits, plus framing mistakes (cut-off heads, animals blocking the view, a thumb over the lens) and bird droppings.
+- Awkward family photos: many more eras, backdrops, outfit themes, adults, children (always clothed, in lists that reach nothing else), poses, oddities and mishaps that show the reaction.
+- Wheels: skateboarding and surfing join the extreme sports; roller skating by era (1870s halls, 1920s clamp-on skates, 1950s rinks, 1970s roller disco, 2020s revival), roller derby, and inline skating (the late-1980s and 1990s boom, aggressive inline, today), each with era outfits, places and mishaps.
+- Dance (`dance_`): 32 styles across solo, pairs and groups, from ballet, tap, flamenco and voguing to the waltz, Argentine tango, salsa and lindy hop, line dancing, ceilidh, disco, K-pop and Bollywood, plus pole fitness, twerking, the haka, the Sufi whirling sema, ancient-style hula, the lion dance and Bon Odori; every step line gives the body position, with holds, formations, outfits, music and places.
+- Fad dances (`dance_fad_`): 25 from the Charleston and the Twist to the Floss, each with its signature move; crowd dancing (`dance_crowd_`): how people dance to 23 kinds of music by decade, from 1950s jiving and punk pogoing to raves and festival bass drops; and dance-floor mishaps.
+- Showcase files: 16 prompts (two from each new area) at 512, 1024 and 1408, plus a zip of 8 new-area showcases of 20 prompts each at 1024; 100 sample prompts representing everything the library can do, at the three sizes (steps 50, cfg 3.75).
+
+The full list of v111 entry points is in `wildcards/v111_entry_points.txt`.
 
 ## What's New in v110
 
@@ -422,6 +436,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v111
+Things going wrong in 134 activities, bad snapshots that react, bigger awkward family photos, roller and inline skating by era, and dance: styles, steps, fads and how every generation dances. See [What's New in v111](#whats-new-in-v111).
 
 ### v110
 3,755 location lines rewritten, heat shimmer, awkward family photos, bad snapshots, taxidermy, mounted heads, trophies, breakdancing, infrared and UV styles, ways of seeing people, glasses prescriptions, zombies, vampires, werewolves, fae, fairies and maps. See [What's New in v110](#whats-new-in-v110).

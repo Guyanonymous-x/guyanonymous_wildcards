@@ -1,0 +1,13 @@
+snap_prompt
+afp_prompt
+mis_any_prompt
+dance_any_prompt
+dance_style_prompt
+dance_fad_prompt
+dance_crowd_prompt
+mis_dance_prompt
+adv_roller_skate_1970s_prompt
+adv_inline_skate_1990s_prompt
+adv_roller_derby_prompt
+adv_skateboard_prompt
+adv_surf_prompt
