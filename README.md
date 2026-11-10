@@ -2,19 +2,36 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v112**
+**Current version: v113**
 
-**Contents:** [Introduction](#introduction) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 109,500 wildcard text files (109477 `.txt` files in [`wildcards/`](wildcards/) at v112). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 110,300 wildcard text files (110289 `.txt` files in [`wildcards/`](wildcards/) at v113). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v113
+
+Tropes from film, TV, books, comics and advertising: camera tricks and lighting, visual metaphors, character archetypes, 29 genre packs, story moments, trope settings, movie posters, TV, film and print ads, covers, comics, a trope mixer, and more poachers ([docs/INDEX_v113.txt](docs/INDEX_v113.txt)). Since v112:
+
+- Camera and light tropes (`trope_shot_`, `trope_light_`): 115 framings from Dutch angles and god's-eye views to bullet time, split screens and sniper scopes, plus 52 lighting tropes in heroic, noir, horror, night, color-wash, stage and natural moods.
+- Visual metaphors (`trope_meta_`): personal rainclouds, battle auras, dying candles and more for live action, and cartoon and manga effects such as anger veins, heart eyes and circling stars, grouped by feeling.
+- Archetypes (`trope_char_`): about 110 stock characters in 11 groups, from the reluctant hero and the mad scientist to the drunken master and the fish out of water, in women's, men's and shared versions.
+- Genres (`trope_genre_`): 29 genre packs (action, noir, kaiju, wuxia, western, cosmic horror, tokusatsu and more), each with its own look, props, wear, places and set-piece moments.
+- Story moments (`trope_moment_`) and settings (`trope_place_`): frozen story beats for one person, two people and groups, and 80 trope settings from abandoned asylums to villain volcano lairs, each with fitting dressing.
+- Media (`trope_poster_`, `trope_cover_`, `trope_ad_`, `trope_comic_`): movie posters by era, layout and condition; book, magazine, VHS and album covers; TV commercials, cinema and print ads for 30 product kinds; and comic panels, all with made-up titles, taglines, brands and slogans.
+- Mixer (`trope_mix_`): combines an archetype or moment, a visual metaphor, a trope setting, a framing, a light and a genre look in one scene.
+- Also new: 8 more kinds of poacher for the criminals (`crim_poacher_`), from Victorian pheasant poachers to shark-finning crews.
+- Showcase files: two prompts from each new area at 512, 1024 and 1408, plus a zip of 12 new-area showcases of 20 prompts each at 1024, with ages spread evenly by decade; 100 sample prompts representing everything the library can do, at the three sizes (steps 50, cfg 3.75).
+- Words on posters, covers, ads and comics come only from made-up text pools, in quotes.
+
+The full list of v113 entry points is in `wildcards/v113_entry_points.txt`.
 
 ## What's New in v112
 
@@ -453,6 +470,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v113
+Tropes from film, TV, books, comics and advertising: camera tricks and lighting, visual metaphors, character archetypes, 29 genre packs, story moments, trope settings, movie posters, TV, film and print ads, covers, comics, a trope mixer, and more poachers. See [What's New in v113](#whats-new-in-v113).
 
 ### v112
 Film styles, Muybridge motion studies, 99 holiday characters and holiday wear and decorations, novelty holidays, 200 villain and hero lairs, costumes, mascots and fursuits, 199 religious figures and symbols, cabinets of curiosity, shrunken heads, hides and taxidermy, ray guns, criminals, lost and legendary peoples, zoos, pop-up books and blueprints. See [What's New in v112](#whats-new-in-v112).
