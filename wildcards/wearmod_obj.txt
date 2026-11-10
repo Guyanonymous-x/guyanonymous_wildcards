@@ -1,0 +1,10 @@
+__wearmod_obj_metal__
+__wearmod_obj_wood__
+__wearmod_obj_plastic__
+__wearmod_obj_glass__
+__wearmod_obj_ceramic__
+__wearmod_obj_leather__
+__wearmod_obj_paper__
+__wearmod_obj_painted__
+__wearmod_obj_stone__
+__wearmod_obj_screen__

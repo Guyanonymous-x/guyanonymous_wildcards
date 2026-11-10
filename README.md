@@ -2,19 +2,36 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v111**
+**Current version: v112**
 
-**Contents:** [Introduction](#introduction) · [What's New in v111](#whats-new-in-v111) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 95,800 wildcard text files (95756 `.txt` files in [`wildcards/`](wildcards/) at v111). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 109,500 wildcard text files (109477 `.txt` files in [`wildcards/`](wildcards/) at v112). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v112
+
+Film styles, Muybridge motion studies, 99 holiday characters and holiday wear and decorations, novelty holidays, 200 villain and hero lairs, costumes, mascots and fursuits, 199 religious figures and symbols, cabinets of curiosity, shrunken heads, hides and taxidermy, ray guns, criminals, lost and legendary peoples, zoos, pop-up books and blueprints ([docs/INDEX_v112.txt](docs/INDEX_v112.txt)). Since v111:
+
+- Film (`film_`): film-making styles by genre and by genre per era; Muybridge-style motion studies (`muybridge_`) of people and animals, past, present and future.
+- Holidays: 99 holiday characters from around the world (`hol_`), holiday clothing with sayings, decorations for 20 occasions (`hol_decor_`), and Festivus with 29 more novelty holidays (`novelty_`).
+- Lairs (`loc_lair_`): 100 supervillain lairs and 100 superhero hideouts across every era, cost and size, each with rooms, objects, souvenirs, tech, weapons, traces and conditions.
+- Costumes (`costume_`): 100 themes at six levels from screen-accurate to cheap bagged and flirty; mascot suits (`mascot_`) and fursuits (`fursuit_`) of 50 species and five styles.
+- Religious figures (`relig_`): 199 gods, saints, prophets, demigods and sacred beings from 31 traditions, in short, medium and long forms and each tradition's own art styles, plus a symbol-only picture for every figure; figures whose faiths restrict images appear as symbols only.
+- Curiosities: 109 cabinets of curiosity (`cab_`), shrunken heads (`shrunken_`), hides, furs, animal parts and the crafts made from them, illegal goods plain and seized (`animal_`), and bad and horror taxidermy (`taxi_`).
+- Also new: sleepwalking (`sleepwalk_`), ray guns in layers across 14 eras and genres (`raygun_`), criminal wardrobes and tools for 30 types at every level and style (`crim_`), 221 lost, legendary, ancestral, fictional and future peoples (`peoples_`), zoos and menageries from cruel to excellent (`zoo_`), pop-up books (`popup_`), blueprints, diagrams and patent drawings (`blueprint_`), and special events (`event_`): weddings, funerals, adult birthday parties and anniversary parties, big to small, extravagant to cheap, classy to tacky, flawless to disastrous; performers (`perf_`): bands, solo singers, karaoke, vaudeville, circus and sideshow acts with their wardrobe, gear, stages, crowds and views; bookstores, newsstands and magazine shops around the world (`bookshop_`); wear modifiers (`wearmod_`) that add realistic stains, marks and dents to any garment or object.
+- Fixes: mounted animals now say taxidermy, so they render as real specimens instead of plush toys.
+- Showcase files: two prompts from each new area at 512, 1024 and 1408, plus a zip of 27 new-area showcases of 20 prompts each at 1024; 100 sample prompts representing everything the library can do, at the three sizes (steps 50, cfg 3.75). Showcases highlight what is new or changed in this version; samples represent everything the library can do.
+- Adult lists stay in their own families (`cosnude_`, `irnude_`, `adult_`) and are left out of the normal samples and showcases.
+
+The full list of v112 entry points is in `wildcards/v112_entry_points.txt`.
 
 ## What's New in v111
 
@@ -436,6 +453,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v112
+Film styles, Muybridge motion studies, 99 holiday characters and holiday wear and decorations, novelty holidays, 200 villain and hero lairs, costumes, mascots and fursuits, 199 religious figures and symbols, cabinets of curiosity, shrunken heads, hides and taxidermy, ray guns, criminals, lost and legendary peoples, zoos, pop-up books and blueprints. See [What's New in v112](#whats-new-in-v112).
 
 ### v111
 Things going wrong in 134 activities, bad snapshots that react, bigger awkward family photos, roller and inline skating by era, and dance: styles, steps, fads and how every generation dances. See [What's New in v111](#whats-new-in-v111).

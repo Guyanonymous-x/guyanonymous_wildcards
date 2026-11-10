@@ -1,0 +1,4 @@
+__muybridge_clothed_prompt__
+__muybridge_past_prompt__
+__muybridge_future_prompt__
+__muybridge_animal_prompt__
