@@ -2,19 +2,32 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v122**
+**Current version: v123**
 
-**Contents:** [Introduction](#introduction) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 122,000 wildcard text files (122009 `.txt` files in [`wildcards/`](wildcards/) at v122). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 125,800 wildcard text files (125818 `.txt` files in [`wildcards/`](wildcards/) at v123). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v123
+
+Sports and pastimes from around the world, backyard, drinking and risky old games, torture devices shown as objects, lucky charms, cheating devices, con games and stage magic.
+
+- Sports and pastimes (`spt_`): 183 sports, games and pastimes from around the world, from football and sumo to buzkashi, cheese rolling, chess and esports, each with places from cheap to grand, actions, and short, medium and long descriptions, as scenes and as players.
+- Games (`byard_`, `dgame_`, `rgame_`): 44 backyard games, 26 drinking games for adults and 28 risky old games and stunts, each short, medium and long.
+- Torture devices (`tdev_`): 64 historical and legendary devices from around the world, named and look-only, plus a maker of new devices in 20 genres from medieval to cartoon, amateur to masterwork; always shown empty, as museum and set pieces.
+- Lucky charms (`luck_`): 106 charms and superstitions, from the rabbit's foot and evil eye to unwashed game-day underwear and playoff beards, with people holding them.
+- Cheating, cons and stage magic (`cheat_`, `congame_`, `mtrick_`, `mage_`): 43 cheating devices, 22 con games, 54 tricks and illusions, and 20 kinds of magician and assistant, with props and stages.
+- Showcase files: two prompts from each new area at 512, 1024 and 1408, plus a zip of 13 new-area showcases of 20 prompts each at 1024, with ages spread evenly by decade; 100 sample prompts at the three sizes.
+
+The full list of v123 entry points is in `wildcards/v123_entry_points.txt`.
 
 ## What's New in v122
 
@@ -603,6 +616,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v123
+Sports and pastimes from around the world, backyard, drinking and risky old games, torture devices shown as objects, lucky charms, cheating devices, con games and stage magic.
 
 ### v122
 The comprehensive fix of v121: every Cokin filter and other makers' filters, real concept and test vehicles, more civic and industrial places, all 99 gangs of The Warriors, detailed descriptions of 179 religious figures, and longer lists throughout.
