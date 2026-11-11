@@ -1,0 +1,140 @@
+v111 index
+Built from the image tests of this version. Rules and findings: docs/STANDING_RULES.txt, docs/MOSS_PROMPT_RULES_HANDOVER.md and _tools/V106_CHANGES.md.
+
+Showcase and sample files: the showcase files highlight body parts and features (one person per feature, close-ups of the part, a title such as Eye Variations on each image); the sample files are representative of everything the model can do.
+
+v107 contents: clothed male bulge pools by fabric class (male_bulge_tight, _brief, _jock, _medium, _loose, _clothed, _covered); level panels adult_lN_panel_wm/_ww/_mm rewritten with full geometry, orientation and camera; structured three-person group scenes at levels 1 to 6; adult_l4/l5/l6_wrestling_mm; structured location scenes for a woman and a man at every level; level 3 solo scenes in real bottoms; head_chin with a shallow dimple instead of a deep cleft; showcase generators V106_showcase_generator.py and convert_list.py.
+
+
+v107 adds: f_body_nipples areola/nipple ladder (35 lines), f_body_anus, m_body_anus, and expanded act_yoga_*, act_dance_classes_*, act_martial_arts_* action/clothes/equip/setting lists.
+
+v108 adds: level-6 endings for adult_l6_panel_mm* and adult_l6_panel_ww*; act_frame_style (six on-location photo styles) used by every act_*_frame_prompt; capitalised act_*_scene_prompt sentences; swimwear at wet locations (levels 1 and 3); table pose removed from level 1; "not white" negations removed; body_navel (10 lines); review fixes listed in _tools/V108_CHANGES.md.
+
+v109 adds: the 350 Locations conversion (loc_<group>_<place>_* pools and loc_scene, loc_people, loc_time_scene, loc_era_scene, loc_region_scene); object builders for every object kind in the inventory (ob_<object>_type/_material/_wear/_detail/_era/_short/_phrase/_full/_text); era descriptions for 230 objects (ob_<object>_era_<period>, ob_<object>_period); 79 architectural fixtures; trading cards (tc_*), card games (cg_*), board and tabletop games (bg_*) with stages and top-down views; adventure, outdoor and workout activities (adv_*); clinical medical scenes for the health locations (med_*, med_*_decade_*); the shared team name pools name_team, name_team_mascot and name_jersey_number; quoted text on sportswear and uniforms; body builds matched to age. Details: _tools/V109_CHANGES.md.
+
+v110 adds:
+- Locations: 3,755 weak place lines rewritten and checked inside their prompt sentences (writer's notes removed, fragments made into full descriptions, 'no X' lines turned into what is there, palettes given colours, signs and labels given quoted wording from 84 new `loc_text_*` lists); 169 regional lines rewritten as short regional versions.
+- Heat shimmer: the desert line now fits its scenes, and six new hot things (road, airport tarmac, barbecue, car bonnet, jet exhaust, bonfire) each come in a real and a spectacle version.
+- Awkward family photos (`afp_`): era studio styles, matching outfits, backdrops, poses, odd props and mid-pose mishaps. These lists are self-contained; children appear only here, always clothed, and the build checks that they cannot reach any other file.
+- Bad snapshots (`snap_`): adults caught at the worst moment, natural or mid-pose, and a separate adults-only exposure list (`snap_exposure_prompt`).
+- Objects: bad taxidermy (`ob_taxidermy_`), mounted heads on walls (`ob_mounted_head_`, humans only as joke props) and trophies of every kind (`ob_trophy_`), with photo prompts; all in the object roll-ups.
+- Breakdancing joins the extreme sports (`adv_breakdance_`) with moves, crews, places and action cameras.
+- Infrared and UV photo styles (`irstyle_`): 8 filters, each through its processing (straight from camera, red/blue swapped, black and white, unbalanced), with what glows and what goes dark.
+- Ways of seeing people (`seeing_`): auras, X-rays, heat maps, night vision, lidar and more; glasses prescriptions (`acc_glasses_rx`) from eyes shrunk by strong minus lenses to owlish strong plus, bifocals and varifocals.
+- Zombies, vampires, werewolves, the fae and fairies (`myth_`): 12 looks each across genres and cultures, in 9 treatments (ultra-realistic to children's animation style) and 17 eras.
+- Maps (`map_`): 38 map types, 13 projections, 12 styles from ancient to treasure maps, with mediums, conditions, details, titles and views.
+- Rule check: fewer false reports (sign-up and sign-out, label printers, 'a Uruguayan'); landscape prompts read 'A landscape of desert dunes'.
+- Showcase files (34 prompts, two from each new area) and 100 sample prompts at 512, 1024 and 1408 pixel counts (steps 50, cfg 3.75), plus a zip of 17 new-area showcases of 20 prompts each at 1024.
+
+v111 adds:
+- Things going wrong (`mis_`): 20 mishaps for each of 134 activities (sports, music, crafts, hobbies, adventure and workouts) in three levels, small, mid and big, each with its own faces, bystanders and body positions; big ones add the aftermath. People are any adult age, injuries are everyday and non-gory, and eyes are on what is going wrong.
+- Bad snapshots: people react to the moment and look at it (away from the lens), with 54 moments, 16 posed-photo mishaps, bystanders, places and outfits, plus framing mistakes (cut-off heads, animals blocking the view, a thumb over the lens) and bird droppings.
+- Awkward family photos: many more eras, backdrops, outfit themes, adults, children (always clothed, in lists that reach nothing else), poses, oddities and mishaps that show the reaction.
+- Wheels: skateboarding and surfing join the extreme sports; roller skating by era (1870s halls, 1920s clamp-on skates, 1950s rinks, 1970s roller disco, 2020s revival), roller derby, and inline skating (the late-1980s and 1990s boom, aggressive inline, today), each with era outfits, places and mishaps.
+- Dance (`dance_`): 32 styles across solo, pairs and groups, from ballet, tap, flamenco and voguing to the waltz, Argentine tango, salsa and lindy hop, line dancing, ceilidh, disco, K-pop and Bollywood, plus pole fitness, twerking, the haka, the Sufi whirling sema, ancient-style hula, the lion dance and Bon Odori; every step line gives the body position, with holds, formations, outfits, music and places.
+- Fad dances (`dance_fad_`): 25 from the Charleston and the Twist to the Floss, each with its signature move; crowd dancing (`dance_crowd_`): how people dance to 23 kinds of music by decade, from 1950s jiving and punk pogoing to raves and festival bass drops; and dance-floor mishaps.
+- Showcase files: 16 prompts (two from each new area) at 512, 1024 and 1408, plus a zip of 8 new-area showcases of 20 prompts each at 1024; 100 sample prompts representing everything the library can do, at the three sizes (steps 50, cfg 3.75).
+
+v112 (2026-11-10)
+  film_any_prompt, muybridge_prompt: film-making styles; Muybridge motion studies
+  hol_char_prompt, hol_wear_prompt, hol_decor_prompt, novelty_prompt: holiday characters, holiday wear, decorations, novelty holidays
+  loc_lair_prompt (loc_lair_vil_prompt, loc_lair_hero_prompt): 200 lairs
+  costume_prompt, mascot_prompt, fursuit_prompt: costumes, mascots, fursuits
+  relig_prompt, relig_symbol_prompt: religious figures and their symbols
+  cab_prompt, shrunken_prompt, animal_goods_prompt, taxi_prompt: curiosities, shrunken heads, hides and parts, taxidermy
+  sleepwalk_prompt, raygun_prompt, crim_prompt, peoples_prompt, zoo_prompt, popup_prompt, blueprint_prompt
+
+v113 (2026-11-10) - tropes from film, TV, books, comics and advertising
+  trope_prompt: every v113 area in one roll-up
+  trope_shot_prompt: 115 camera-trick framings (trope_shot_angle, _close, _wide, _lens, _time, _compose, _group, _place) and 52 lighting tropes in 7 moods (trope_light_heroic, _noir, _horror, _night, _color, _stage, _natural)
+  trope_meta_prompt: visual metaphors for live action (trope_meta_real_*) and cartoon and manga effects (trope_meta_toon_*), by feeling
+  trope_char_prompt: about 110 character archetypes in 11 groups (trope_char_<group>_f, _m, _any)
+  trope_genre_prompt: 29 genre trope packs, each with look, props, wear, place and moment lists (trope_genre_<genre>_*)
+  trope_moment_prompt: story moments for one person, two people and groups (trope_moment_solo, _pair, _group)
+  trope_place_prompt: 80 trope settings in 10 groups with fitting dressing (trope_place_<group>, _dress)
+  trope_poster_prompt, trope_cover_prompt, trope_ad_prompt, trope_comic_prompt, trope_media_prompt: movie posters by era, layout and condition; covers; TV, film and print advertising for 30 product kinds; comic panels. Words come from made-up text pools (trope_text_*) and sit in quotes.
+  trope_mix_prompt: the trope mixer (archetype or moment, effect, trope place, framing, light and genre look)
+  crim_prompt: 8 more kinds of poacher (crim_poacher_lamping, _victorian, _ivory, _fish, _trapper, _plant, _egg, _shark)
+
+v114 (2026-11-10) - street life, nightlife, cards, crime, cults, relics, world homes and fixes
+  street_prompt: stunts, weird world records, groupies, buskers, people down on their luck (with cardboard sign text), carnival games and sideshows
+  night_prompt, theatre_prompt: taverns, speakeasies, dance halls, nightclubs, raves and bars by era, inside and out; movie and stage theatres
+  pet_costume_prompt, postcard_card_prompt, greet_prompt: pet costumes and gear, postcards, greeting cards for 23 occasions
+  drug_prompt, tech_prompt: drugs as visual props and places only; implants and wearables
+  crime_prompt (raid_, crim_action_, under_, pawn_, cult_, relic_): tomb raiders, crimes in action, under-the-counter goods, pawn shops, cults and cult leaders, holy relics
+  reveal_prompt, sleep_prompt: revealing Halloween costumes on purpose or by accident; asleep and passed-out poses and faces
+  global_home_scene: world-wide homes in 15 regions with wealth and condition; about half of loc_clean picks now come from these (loc_clean_classic keeps every older place)
+  adult only: adult_reveal_prompt, adult_cfnm_prompt
+  Fixes: ages 85-94 about 7% and 95-120 about 3% of people, with milder old-age lines; lairs open inside with hideout cues and era-fit objects; holiday slogan tops paired sensibly; holiday decorations in homes around the world; menorah lines name seven or nine branches (Hanukkah).
+
+v115 adds:
+  tat_prompt: tattoo and piercing parlors from kitchen tables, temple yards and harbor shops to gallery studios, with artists, piercers, clients, designs and piercings
+  salon_prompt: hair salons and barbers from street barbers under trees to celebrity studios, with stylists, clients and finished looks
+  hosp_prompt: hospitals from rural clinics and field tents to private suites and robotic surgery, from 1918 wards to future medical bays, with staff, patients and visitors
+  sfood_prompt (sfood_plate_prompt): street food carts, night markets, hawker centers and gourmet food halls around the world, and plating from paper boats to fine dining
+  games_prompt (arcade_, casino_): arcades from seaside coin-pushers to VR arenas, and gambling from back-room card dens to high-roller salons
+  transit_prompt: stations from rural halts and motor parks to grand terminuses and spaceports, and vehicle interiors from chicken buses to private jets
+  protest_prompt: protests and rallies from a handful of people to vast crowds, across eras, with placards of everyday causes
+  disaster_prompt: natural disasters, their damage and the rescue, rich and poor places alike, with no injuries shown
+  sky_prompt: skies by day, dawn and dusk, night and wild weather, and close weather details
+  writ_prompt, writ_scene_prompt: letters, documents and handwriting props with wording in quotes, and people reading and writing them
+  fancon_prompt: comic book, sci-fi and cosplay conventions from library rooms to mega halls, with original cosplay looks
+  cine_prompt: movie theatres from bedsheet screens and grindhouses to luxury recliners and premieres (v114's theatre_ lists are kept)
+  fit_scale_prompt (with _f and _m versions, tight and loose ends): clothing fit in seven steps from painted on to drowning in it, for tops, bottoms, dresses, coats, shoes, hats and swimwear; the older fit_ lists are kept as they were
+  Every new place list runs from low budget to extravagant, with a separate condition from run-down to top of the line.
+
+v116 adds:
+  mobil_prompt: people living full everyday lives with wheelchairs, prosthetic legs and arms, canes, walkers, crutches, scooters, white canes, guide dogs and hearing aids, old and new
+  sfan_prompt: sports fans of made-up teams, from village squares and pubs to stadiums and luxury boxes
+  mil_prompt: military daily life, training and downtime, with era troops (Roman to future) in their own camps
+  bach_prompt: bachelorette parties as they are: the bride in a white or standout party look, friends in matching outfits, nights out, pool days, dinners and day trips
+  picnic_prompt, camp_prompt, dive_prompt, forage_prompt: picnics, camping, underwater and diving, and mushrooms and foraging, low budget to luxury
+  insect_prompt, bird_prompt: insects close up in macro, and birds from around the world, with birdwatchers
+  law_prompt (police_, jail_, court_): police stations, jail cells and courtrooms across eras
+  Fix: bachelorette lines in the adult strip lists name the bride's party outfit; bachelorette audiences go only with male strippers.
+
+v117 adds:
+  date_prompt: couples on dates by stage, from a first date to fifty years together, with where they go, how close they are, and whether one, the other or both are enjoying it or attracted; pair_prompt: other pairs of people
+  flea_, laundry_, ffood_, mural_, plaza_, ride_, wonder_, skate_, rural_ (each _prompt): flea markets and auctions, laundromats and vending, fast food, murals and street art, fountains and plazas, amusement rides, waterfalls and natural wonders, skateparks and BMX, rural landmarks
+  dealer_prompt: drug dealers from lookouts and street dealers up to kingpins (visual only)
+  corg_prompt: crime organizations of the world as types and looks
+  gang_prompt: original gangs, serious, costumed, era, silly and good-deed, with their clothing, turf and poses; patrol_prompt: neighborhood patrols old and new
+  adera_prompt: advertising styles by decade back to the 1800s, then by century to ancient times, each with products of its day and made-up wording
+
+v118 adds:
+  bbq_, dessert_, candy_, cheese_, dinner_, waiter_, bartend_, hcook_, mishap_, fmarket_ (each _prompt): barbecues and grilling, desserts and pastries, chocolate and candy making, cheese shops and dairies, dinner parties and potlucks, waiters and table service, bartenders and cocktails, home cooking, kitchen mishaps and farmers' markets, low budget to luxury
+  fstate_prompt: food in every condition, from perfect to partly eaten, imperfect, failed, spoiled and dropped
+  fooddrink_all_prompt: every v118 food section together
+
+v119 adds:
+  makeup_, wig_, fragr_, nailart_ (each _prompt): makeup, wigs and hairpieces, perfume and fragrance, nail art, low budget to luxury
+  adorn_prompt: adornment from around the world worn by people (24 traditions) and body jewelry worn: face, ear and body piercings beyond traditional earrings
+  knit_, wood_, hatshop_, shoeshop_, optic_, fitting_ (each _prompt): knitting and needlecraft, woodworking, hat shops, shoe shops, opticians, bridal and suit fittings
+  rg_prompt: Rube Goldberg machines, simple to complex, with steps that fit together, shown whole, mid-run, close up or as diagrams, and their inventors
+  prank_prompt: practical jokes from traditional to crazy, set up, being set up, and sprung
+
+v120 adds:
+  pdesc_prompt (pdesc_legend_, pdesc_lost_, pdesc_ancestor_, pdesc_faith_): 102 legendary, historical, ancestral and scriptural peoples, each with short, medium and long detailed descriptions; the old peoples_ templates now use them (old lines kept)
+  sacred_prompt: the 18 gods and sacred figures with short, medium and long descriptions; the old leg_sacred_ templates now use them
+  newgod_prompt: a random new-god maker (domain, form, skin, eyes, attire, symbol, aura, mount, realm, worship), short, medium and long
+  cryptid_prompt: all 62 cryptids of the Wikipedia list, each with short, medium and long descriptions, in many photo and art styles
+  animal_people_prompt: farms and barnyards, dog parks, cat cafes, pet shops, vets, rodeos, stables, animal shelters, wildlife rescue, falconry and beekeeping
+  shows_prompt: circus, ice shows, art-circus spectacles, opera, theatre, orchestras, bands, solo players and stage traditions from around the world
+  vfx_prompt: vehicle special effects for underwater, water, land, air and space vehicles: speed, movement, force fields and beams
+
+v121 adds:
+  fspecies_prompt (fspecies_named_, fspecies_generic_, fspecies_look_): 100 franchise species from films, TV, games and books, each with its real name, a generic name, or look only, each short, medium and long
+  peoples_named_any (peoples_named_): the v112 named franchise peoples, now public
+  camv_prompt, camv_all_prompt: camera views through things (mouth, fingers, peephole, under a door, door ajar, keyhole, under a bed, windows and coverings from outside, bars, fences, chain link, masks, welder's masks, sunglasses and more); camv_vagina_prompt is the one adult view
+  lensf_prompt (lensf_cokin_, lensf_effect_): lens filters by Cokin name and code, and by effect, each short, medium and long; also added to photostyle_lens_filter
+  civind_prompt: courts, town halls, post offices, waterworks and sewers, power stations, steelworks, factories, shipyards and docks, mines and quarries, refineries, landfill and recycling
+  genre_vehicle_prompt (gveh_, cveh_): genre vehicles in 20 genres, a genre mix maker, and test and concept vehicles
+  hweap_prompt (hweap_, gweap_): home-made weapons and props from pretend play to expert workshop, and genre weapons; looks only
+
+v122 adds:
+  lensf_prompt (lensf_cokin_ck*, lensf_maker_ot_*, lensf_effect_*): every Cokin filter on the guide (172), plus 77 filters and lens tricks of other makers and kinds, each short, medium and long
+  rveh_prompt (rveh_named_, rveh_look_): 80 real concept and test vehicles, named and look-only
+  civind_prompt: now 27 civic and industrial kinds, adding fire stations, police stations, prisons, airports, railway yards, bus depots, cemeteries, breweries, mills, warehouses, print works, sawmills, brick and pottery works, glassworks, data centres and observatories
+  wgang_prompt (wgang_named_, wgang_look_): all 99 gangs of The Warriors, named and look-only
+  reldesc_prompt: 179 religious figures in short, medium and long detail; the old relig_ templates use them
+  more lines in the genre vehicle, weapon, camera view and franchise species lists

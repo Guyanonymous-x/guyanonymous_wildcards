@@ -1,0 +1,6 @@
+A quiet atmospheric photograph. __f_create_random_woman_short__ She is __cemetery_role_f__, __cemetery_act__. The location is __cemetery_place__, __cemetery_condition__.
+A quiet atmospheric photograph. __m_create_random_man_short__ He is __cemetery_role_m__, __cemetery_act__. The location is __cemetery_place__, __cemetery_condition__.
+A quiet atmospheric photograph. __any_create_random_androgynous_person_short__ They are __cemetery_role_any__, __cemetery_act__. The location is __cemetery_place__, __cemetery_condition__.
+A quiet atmospheric photograph. __f_create_random_woman_short__ She is __cemetery_guest_f__, __cemetery_guest_act__. The location is __cemetery_place__, __cemetery_condition__.
+A quiet atmospheric photograph. __m_create_random_man_short__ He is __cemetery_guest_m__, __cemetery_guest_act__. The location is __cemetery_place__, __cemetery_condition__.
+A quiet atmospheric photograph. __any_create_random_androgynous_person_short__ They are __cemetery_guest_any__, __cemetery_guest_act__. The location is __cemetery_place__, __cemetery_condition__.

@@ -2,19 +2,33 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v121**
+**Current version: v122**
 
-**Contents:** [Introduction](#introduction) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 117,500 wildcard text files (117452 `.txt` files in [`wildcards/`](wildcards/) at v121). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 122,000 wildcard text files (122009 `.txt` files in [`wildcards/`](wildcards/) at v122). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v122
+
+The comprehensive fix of v121: every Cokin filter and other makers' filters, real concept and test vehicles, more civic and industrial places, all 99 gangs of The Warriors, detailed descriptions of 179 religious figures, and longer lists throughout.
+
+- Lens filters (`lensf_`): all 172 Cokin filters on the guide (v121 had 74), plus 77 filters and lens tricks of other makers and kinds, each with its product name and effect-only, short, medium and long; all added to the photography styles.
+- Real concept and test vehicles (`rveh_`): 80 real cars, bikes, aircraft, flying cars, record cars, trains, boats and submarines, from the Dymaxion car to the Avrocar, each named and look-only, short, medium and long.
+- Civic and industrial places: 16 more kinds (`firestn_`, `policestn_`, `prisonyd_`, `airport_`, `railyard_`, `busdepot_`, `cemetery_`, `brewery_`, `mill_`, `warehouse_`, `printwks_`, `sawmill_`, `brickwks_`, `glasswks_`, `datactr_`, `observ_`), 27 in all.
+- Gangs of The Warriors (`wgang_`): all 99 gangs of the film, the novel and the wider world, each named and look-only, short, medium and long.
+- Religious figures (`reldesc_`): 179 gods, saints, prophets and sacred beings in short, medium and long detail with their own art styles; the old relig_ templates now use them (old lines kept).
+- Longer lists: more vehicle kinds, looks, materials and details in all 20 genres, 46 more weapon kinds and 14 more weapon genres, more camera subjects, windows, masks and glasses, and richer long descriptions for 30 franchise species.
+- Showcase files: two prompts from each new area at 512, 1024 and 1408, plus a zip of 24 new-area showcases of 20 prompts each at 1024, with ages spread evenly by decade; 100 sample prompts at the three sizes.
+
+The full list of v122 entry points is in `wildcards/v122_entry_points.txt`.
 
 ## What's New in v121
 
@@ -589,6 +603,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v122
+The comprehensive fix of v121: every Cokin filter and other makers' filters, real concept and test vehicles, more civic and industrial places, all 99 gangs of The Warriors, detailed descriptions of 179 religious figures, and longer lists throughout.
 
 ### v121
 Franchise species in named, generic and look-only versions, camera views through things, lens filters, civic and industrial places, genre and concept vehicles, and home-made and genre weapons.

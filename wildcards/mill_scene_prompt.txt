@@ -1,0 +1,6 @@
+A documentary photograph. __f_create_random_woman_short__ She is __mill_role_f__, __mill_act__. The location is __mill_place__, __mill_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __mill_role_m__, __mill_act__. The location is __mill_place__, __mill_condition__.
+A documentary photograph. __any_create_random_androgynous_person_short__ They are __mill_role_any__, __mill_act__. The location is __mill_place__, __mill_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __mill_guest_f__, __mill_guest_act__. The location is __mill_place__, __mill_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __mill_guest_m__, __mill_guest_act__. The location is __mill_place__, __mill_condition__.
+A documentary photograph. __any_create_random_androgynous_person_short__ They are __mill_guest_any__, __mill_guest_act__. The location is __mill_place__, __mill_condition__.

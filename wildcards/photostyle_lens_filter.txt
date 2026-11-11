@@ -209,3 +209,326 @@ cling film stretched over the lens, a hazy crinkled softness
 a colored gel over the lens, the whole scene washed in one bold color
 smoked glass held before the lens, a darkened grey veil
 a shaped bokeh filter, out-of-focus lights turned into hearts or stars
+a Cokin 021 Blue 80B filter, a cool blue cast taming warm lamplight
+a blue 80B conversion filter, a cool blue cast taming warm lamplight
+a Cokin 022 Blue 80C filter, a light cool cast over warm light
+a blue 80C conversion filter, a light cool cast over warm light
+a Cokin 024 Blue 82B filter, a mild cooling of golden light
+a blue 82B filter, a mild cooling of golden light
+a Cokin 025 Blue 82C filter, a clear cooling of warm afternoon sun
+a blue 82C filter, a clear cooling of warm afternoon sun
+a Cokin 027 Warm 81B filter, a gentle amber warmth
+a warm 81B filter, a gentle amber warmth
+a Cokin 028 Warm 81C filter, a stronger amber warmth
+a warm 81C filter, a stronger amber warmth
+a Cokin 030 Orange 85B filter, a deep orange cast
+an orange 85B filter, a deep orange cast
+a Cokin 031 Orange 85C filter, a light orange warmth
+an orange 85C filter, a light orange warmth
+a Cokin 035 Warm 81D filter, a rich golden warmth
+a warm 81D filter, a rich golden warmth
+a Cokin 046 FLD filter, magenta warmth cancelling the green of daylight strip lights
+a fluorescent daylight correction filter, magenta warmth cancelling the green of daylight strip lights
+a Cokin 061 C.Spot Incolor filter, a sharp center fading to soft blur
+a clear center spot filter, a sharp center fading to soft blur
+a Cokin 062 C.Spot Grey 1 filter, a clear center ringed by a light grey haze
+a grey center spot filter, a clear center ringed by a light grey haze
+a Cokin 063 C.Spot Grey 2 filter, a clear center ringed by a heavy grey haze
+a dark grey center spot filter, a clear center ringed by a heavy grey haze
+a Cokin 065 C.Spot Green filter, a clear center ringed by a soft green blur
+a green center spot filter, a clear center ringed by a soft green blur
+a Cokin 066 C.Spot Orange filter, a clear center ringed by a soft orange blur
+an orange center spot filter, a clear center ringed by a soft orange blur
+a Cokin 067 C.Spot Blue filter, a clear center ringed by a soft blue blur
+a blue center spot filter, a clear center ringed by a soft blue blur
+a Cokin 068 C.Spot Red filter, a clear center ringed by a soft red blur
+a red center spot filter, a clear center ringed by a soft red blur
+a Cokin 070 C.Spot Wide Angle Incolor 1 filter, a broad clear center fading to blur at the corners
+a wide-angle center spot filter, a broad clear center fading to blur at the corners
+a Cokin 071 C.Spot WA Incolor 2 filter, a broad clear center with heavy blur at the corners
+a strong wide-angle center spot filter, a broad clear center with heavy blur at the corners
+a Cokin 072 C.Spot WA Grey 1 filter, a broad clear center with light grey haze at the corners
+a wide-angle grey center spot filter, a broad clear center with light grey haze at the corners
+a Cokin 073 C.Spot WA Grey 2 filter, a broad clear center with heavy grey haze at the corners
+a wide-angle dark grey center spot filter, a broad clear center with heavy grey haze at the corners
+a Cokin 074 C.Spot WA Violet filter, a broad clear center with violet haze at the corners
+a wide-angle violet center spot filter, a broad clear center with violet haze at the corners
+a Cokin 075 C.Spot WA Green filter, a broad clear center with green haze at the corners
+a wide-angle green center spot filter, a broad clear center with green haze at the corners
+a Cokin 076 C.Spot WA Orange filter, a broad clear center with orange haze at the corners
+a wide-angle orange center spot filter, a broad clear center with orange haze at the corners
+a Cokin 077 C.Spot WA Blue filter, a broad clear center with blue haze at the corners
+a wide-angle blue center spot filter, a broad clear center with blue haze at the corners
+a Cokin 078 C.Spot WA Red filter, a broad clear center with red haze at the corners
+a wide-angle red center spot filter, a broad clear center with red haze at the corners
+a Cokin 084 Diffuser 2 filter, a clearly softened image with glowing highlights
+a medium diffuser filter, a clearly softened image with glowing highlights
+a Cokin 085 Diffuser 3 filter, a heavily softened misty image
+a strong diffuser filter, a heavily softened misty image
+a Cokin 087 Pastel 2 filter, washed-out chalky pastel colors
+a strong pastel filter, washed-out chalky pastel colors
+a Cokin 092 Dreams 2 filter, a stronger glow and hazy softness
+a medium dreams filter, a stronger glow and hazy softness
+a Cokin 093 Dreams 3 filter, a heavy haze and glowing whites
+a strong dreams filter, a heavy haze and glowing whites
+a Cokin 101 Close-up +1 filter, a small subject filling the frame up close
+a +1 close-up lens, a small subject filling the frame up close
+a Cokin 102 Close-up +2 filter, a tiny subject filling the frame
+a +2 close-up lens, a tiny subject filling the frame
+a Cokin 103 Close-up +3 filter, a tiny subject seen very close
+a +3 close-up lens, a tiny subject seen very close
+a Cokin 112 Split-field +2 filter, a near object and a far scene both sharp
+a +2 split-field filter, a near object and a far scene both sharp
+a Cokin 113 Split-field +3 filter, a very close object and a far scene both sharp
+a +3 split-field filter, a very close object and a far scene both sharp
+a Cokin 120 Gradual Grey G1 filter, a gently darkened sky
+a light graduated grey filter, a gently darkened sky
+a Cokin 121L Gradual Grey G2 Light filter, a lightly darkened sky with a soft blend
+a light-strength graduated grey filter, a lightly darkened sky with a soft blend
+a Cokin 121S Gradual Grey G2 Soft filter, a darkened sky with a very soft blend
+a soft-edge graduated grey filter, a darkened sky with a very soft blend
+a Cokin 121F Gradual Grey G2 Full filter, a strongly darkened sky
+a full-strength graduated grey filter, a strongly darkened sky
+a Cokin 122 Gradual Blue B1 filter, a sky gently deepened to blue
+a light graduated blue filter, a sky gently deepened to blue
+a Cokin 123L Gradual Blue B2 Light filter, a sky lightly tinted blue
+a light-strength graduated blue filter, a sky lightly tinted blue
+a Cokin 123S Gradual Blue B2 Soft filter, a blue sky blending softly downward
+a soft-edge graduated blue filter, a blue sky blending softly downward
+a Cokin 123F Gradual Blue B2 Full filter, a deep blue sky
+a full-strength graduated blue filter, a deep blue sky
+a Cokin 124 Gradual Tobacco T1 filter, a sky gently tinted brown
+a light graduated tobacco filter, a sky gently tinted brown
+a Cokin 125L Gradual Tobacco T2 Light filter, a sky lightly tinted brown
+a light-strength graduated tobacco filter, a sky lightly tinted brown
+a Cokin 125S Gradual Tobacco T2 Soft filter, a brown sky blending softly downward
+a soft-edge graduated tobacco filter, a brown sky blending softly downward
+a Cokin 125F Gradual Tobacco T2 Full filter, a deep brown sky
+a full-strength graduated tobacco filter, a deep brown sky
+a Cokin 129 Gradual Pink P2 filter, a deep pink sky fading into the scene
+a strong graduated pink filter, a deep pink sky fading into the scene
+a Cokin 131 Gradual Emerald E2 filter, a deep green sky fading downward
+a strong graduated emerald filter, a deep green sky fading downward
+a Cokin 133 Gradual Yellow Y2 filter, a deep yellow sky fading into the scene
+a strong graduated yellow filter, a deep yellow sky fading into the scene
+a Cokin 138 Gradual FLW filter, a magenta warmth fading across the frame
+a graduated fluorescent correction filter, a magenta warmth fading across the frame
+a Cokin 139 Gradual FLD filter, a warm tint fading across the frame
+a graduated daylight fluorescent filter, a warm tint fading across the frame
+a Cokin 141 Oval C.Spot Black filter, a clear oval with dark blurred edges
+a black oval center spot filter, a clear oval with dark blurred edges
+a Cokin 144 Net Filter 2 White filter, a stronger mesh softness with lifted shadows
+a coarse white net filter, a stronger mesh softness with lifted shadows
+a Cokin 145 Net Filter 2 Black filter, a stronger mesh softness with deep shadows
+a coarse black net filter, a stronger mesh softness with deep shadows
+a Cokin 149 Wedding 1 Black filter, a soft dark vignette around a clear subject
+a black wedding filter, a soft dark vignette around a clear subject
+a Cokin 151 Gradual Fog 2 filter, a thick mist rising from below
+a strong graduated fog filter, a thick mist rising from below
+a Cokin 152 Grey ND2 filter, a slightly longer exposure
+a light neutral density filter, a slightly longer exposure
+a Cokin 154 Grey ND4 filter, a long exposure
+a strong neutral density filter, a long exposure
+a Cokin 160 Linear Polarizer filter, a deep blue sky and reflections cut from water and glass
+a linear polarizing filter, a deep blue sky and reflections cut from water and glass
+a Cokin 162 Polacolor Blue filter, reflections and highlights tinted blue
+a blue polacolor filter, reflections and highlights tinted blue
+a Cokin 163 Polacolor Yellow filter, reflections and highlights tinted yellow
+a yellow polacolor filter, reflections and highlights tinted yellow
+a Cokin 170 Varicolor Red/Green filter, a scene washed red one way and green the other
+a red and green varicolor filter, a scene washed red one way and green the other
+a Cokin 172 Varicolor Pink/Orange filter, a scene washed pink and orange
+a pink and orange varicolor filter, a scene washed pink and orange
+a Cokin 173 Varicolor Blue/Yellow filter, a scene washed blue and yellow
+a blue and yellow varicolor filter, a scene washed blue and yellow
+a Cokin 174 Varicolor Blue/Lime filter, a scene washed blue and lime
+a blue and lime varicolor filter, a scene washed blue and lime
+a Cokin 190 Mauve Color Back filter, a mauve wash behind a clear subject
+a mauve color back filter, a mauve wash behind a clear subject
+a Cokin 191 Orange Color Back filter, an orange wash behind a clear subject
+an orange color back filter, an orange wash behind a clear subject
+a Cokin 193 Yellow Color Back filter, a yellow wash behind a clear subject
+a yellow color back filter, a yellow wash behind a clear subject
+a Cokin 196 Rainbow 2 filter, bold arcs of spectral color over the highlights
+a strong rainbow filter, bold arcs of spectral color over the highlights
+a Cokin 198 Sunset 2 filter, a deep orange-red glow across the sky
+a strong sunset filter, a deep orange-red glow across the sky
+a Cokin 202 Multi-image X 7 filter, the subject repeated seven times around a center
+a seven-image prism filter, the subject repeated seven times around a center
+a Cokin 203 Multi-image X13 filter, the subject repeated in a cluster of thirteen
+a thirteen-image prism filter, the subject repeated in a cluster of thirteen
+a Cokin 230 Skylight filter, a faint warmth clearing blue haze
+a skylight filter, a faint warmth clearing blue haze
+a Cokin 342 Double Mask1 filter, one half of the frame masked for a second exposure
+a double mask, one half of the frame masked for a second exposure
+a Cokin 345 Double Mask2 filter, a shaped half masked for a second exposure
+a second double mask, a shaped half masked for a second exposure
+a Cokin 351 Linear filter, a straight soft band masked across the frame
+a linear mask, a straight soft band masked across the frame
+a Cokin 352 Linear filter, two soft bands masked across the frame
+a second linear mask, two soft bands masked across the frame
+a Cokin 354 Linear filter, a soft diagonal band across the frame
+a third linear mask, a soft diagonal band across the frame
+a Cokin 661 Gradual Fluo Yellow 2 filter, an intense neon yellow sky
+a strong fluorescent yellow graduated filter, an intense neon yellow sky
+a Cokin 662 Gradual Fluo Orange 1 filter, a neon orange sky fading down
+a fluorescent orange graduated filter, a neon orange sky fading down
+a Cokin 663 Gradual Fluo Orange 2 filter, an intense neon orange sky
+a strong fluorescent orange graduated filter, an intense neon orange sky
+a Cokin 664 Gradual Fluo Red 1 filter, a neon red sky fading down
+a fluorescent red graduated filter, a neon red sky fading down
+a Cokin 665 Gradual Fluo Red 2 filter, an intense neon red sky
+a strong fluorescent red graduated filter, an intense neon red sky
+a Cokin 666 Gradual Fluo Blue 1 filter, a neon blue sky fading down
+a fluorescent blue graduated filter, a neon blue sky fading down
+a Cokin 667 Gradual Fluo Blue 2 filter, an intense neon blue sky
+a strong fluorescent blue graduated filter, an intense neon blue sky
+a Cokin 668 Gradual Fluo Mauve 1 filter, a neon mauve sky fading down
+a fluorescent mauve graduated filter, a neon mauve sky fading down
+a Cokin 669 Gradual Fluo Mauve 2 filter, an intense neon mauve sky
+a strong fluorescent mauve graduated filter, an intense neon mauve sky
+a Cokin 670 Gradual Fluo Pink 1 filter, a neon pink sky fading down
+a fluorescent pink graduated filter, a neon pink sky fading down
+a Cokin 671 Gradual Fluo Pink 2 filter, an intense neon pink sky
+a strong fluorescent pink graduated filter, an intense neon pink sky
+a Cokin 673 C.Spot Yellow/Pink filter, a clear center between yellow and pink haze
+a yellow and pink center spot filter, a clear center between yellow and pink haze
+a Cokin 674 C.Spot Blue/Yellow filter, a clear center between blue and yellow haze
+a blue and yellow center spot filter, a clear center between blue and yellow haze
+a Cokin 696 Softwarm filter, a soft warm tint with a gentle glow
+a softwarm filter, a soft warm tint with a gentle glow
+a Cokin 820 Diffuser Light filter, a faint softening of highlights
+a light diffuser filter, a faint softening of highlights
+a Cokin 830 Diffuser 1 filter, a softened image with blooming highlights
+a soft diffuser filter, a softened image with blooming highlights
+a Cokin 840 Diffuser 2 filter, a clearly softened misty image
+a medium soft diffuser filter, a clearly softened misty image
+a Cokin 850 Diffuser 3 filter, a deeply softened foggy image
+a heavy diffuser filter, a deeply softened foggy image
+a Tiffen Pro-Mist filter, soft glowing highlights and gently lifted shadows
+a pro-mist diffusion filter, soft glowing highlights and gently lifted shadows
+a Tiffen Black Pro-Mist filter, halation around lights with deep shadows kept
+a black pro-mist filter, halation around lights with deep shadows kept
+a Tiffen Glimmerglass filter, a subtle sparkle on highlights and softened skin
+a glimmerglass filter, a subtle sparkle on highlights and softened skin
+a Tiffen Double Fog filter, a milky foggy haze over the scene
+a double fog filter, a milky foggy haze over the scene
+a Tiffen Low Contrast filter, lifted shadows and muted highlights
+a low contrast filter, lifted shadows and muted highlights
+a Tiffen Ultra Contrast filter, opened shadows while keeping color
+an ultra contrast filter, opened shadows while keeping color
+a Tiffen Soft/FX filter, softened fine detail with sharp edges kept
+a soft effects filter, softened fine detail with sharp edges kept
+a Tiffen Day for Night filter, daylight turned into a blue moonlit night
+a day-for-night filter, daylight turned into a blue moonlit night
+a Tiffen Coral filter, a warm coral-pink tint
+a coral filter, a warm coral-pink tint
+a Tiffen Chocolate filter, a rich brown tint
+a chocolate filter, a rich brown tint
+a Tiffen Antique Suede filter, a soft brownish vintage tint
+an antique suede filter, a soft brownish vintage tint
+a Tiffen Sepia filter, a warm brown old-photograph tone
+a sepia filter, a warm brown old-photograph tone
+a Tiffen Enhancing filter, richer reds, oranges and browns
+an enhancing filter, richer reds, oranges and browns
+a Tiffen Warm Black Pro-Mist filter, a warm glow with gentle halation
+a warm black pro-mist filter, a warm glow with gentle halation
+a Tiffen Streak filter, long lines of light from bright points
+a streak filter, long lines of light from bright points
+a Tiffen Black Diffusion/FX filter, soft classic glamour diffusion
+a black diffusion filter, soft classic glamour diffusion
+a Tiffen Smoque filter, a smoky haze through the scene
+a smoke filter, a smoky haze through the scene
+a Tiffen Grad ND filter, a darkened sky with a natural blend
+a soft graduated neutral density filter, a darkened sky with a natural blend
+a Lee Little Stopper filter, a long exposure of smoothed water
+a six-stop neutral density filter, a long exposure of smoothed water
+a Lee Big Stopper filter, a minutes-long exposure
+a ten-stop neutral density filter, a minutes-long exposure
+a Lee Super Stopper filter, an extremely long daylight exposure
+a fifteen-stop neutral density filter, an extremely long daylight exposure
+a Lee Sunset Grad filter, a warm orange sky fading down
+a sunset graduated filter, a warm orange sky fading down
+a Lee Coral Grad filter, a soft coral sky fading down
+a coral graduated filter, a soft coral sky fading down
+a Lee Stripe filter, a narrow darkened band at the horizon
+a stripe filter, a narrow darkened band at the horizon
+a Lee Reverse Grad filter, a dark band at the horizon brightening upward
+a reverse graduated filter, a dark band at the horizon brightening upward
+a Lee Mist Grad filter, a soft haze over the lower frame
+a mist graduated filter, a soft haze over the lower frame
+a Hoya Cross Screen filter, four-point stars on every light
+a cross screen filter, four-point stars on every light
+a Hoya Spectral Cross filter, rainbow-colored star rays from lights
+a spectral cross filter, rainbow-colored star rays from lights
+a Hoya Softener filter, a gentle soft focus
+a softener filter, a gentle soft focus
+a Hoya Intensifier filter, boosted reds and oranges
+an intensifier filter, boosted reds and oranges
+a Hoya Starscape filter, light pollution cut from a night sky
+a starscape filter, light pollution cut from a night sky
+a B+W Kaesemann Polarizer filter, a deep sky and cut reflections
+a high-grade circular polarizer, a deep sky and cut reflections
+a B+W UV Haze filter, clear distant views
+a UV haze filter, clear distant views
+a Schneider Classic Soft filter, a gentle glow on skin
+a classic soft filter, a gentle glow on skin
+a Schneider Hollywood Black Magic filter, soft glowing highlights
+a cinema diffusion filter, soft glowing highlights
+a Formatt-Hitech Firecrest ND filter, a long smooth exposure
+a neutral density filter, a long smooth exposure
+a NiSi Natural Night filter, orange street-light glare cut from city nights
+a natural night filter, orange street-light glare cut from city nights
+a Kase Wolverine Magnetic ND filter, a long exposure in bright light
+a magnetic neutral density filter, a long exposure in bright light
+a PolarPro VND filter, a dialled long exposure
+a variable neutral density filter, a dialled long exposure
+a Moment CineBloom filter, blooming highlights and soft halation
+a cinebloom diffusion filter, blooming highlights and soft halation
+a K&F Concept Star filter, eight-point stars from lights
+a star filter, eight-point stars from lights
+an Urth VND filter, adjustable long exposure
+a variable neutral density filter, adjustable long exposure
+a Wratten 25 Red filter, a black sky in black-and-white
+a deep red gel filter, a black sky in black-and-white
+a Wratten 47 Blue filter, heavy haze and pale skies in black-and-white
+a deep blue gel filter, heavy haze and pale skies in black-and-white
+a Wratten 58 Green filter, light foliage and dark skin in black-and-white
+a deep green gel filter, light foliage and dark skin in black-and-white
+a Wratten 87 Infrared filter, white leaves and black sky
+an opaque infrared filter, white leaves and black sky
+an infrared-blocking filter, clean natural color
+a didymium filter, boosted reds and autumn colors
+a light pollution filter, orange city glow cut from the sky
+a solar filter, the sun shown as a sharp disc
+a hydrogen-alpha filter, the sun glowing red with flames at its edge
+a graduated mist filter, haze rising from the lower frame
+a sunburst filter, warm rays around the sun
+a blue streak filter, blue horizontal flares from lights
+a gold streak filter, golden horizontal flares from lights
+a rainbow prism filter, rainbow flares across the frame
+a kaleidoscope filter, the scene mirrored into a mandala
+a fisheye adapter, a round warped view
+an anamorphic adapter, a wide stretched frame and oval bokeh
+a Lensbaby Twist filter, a sharp center and swirling blurred background
+a swirl bokeh lens, a sharp center and swirling blurred background
+a Lensbaby Velvet filter, a glowing soft focus
+a velvet glow lens, a glowing soft focus
+a petzval portrait lens, a sharp center and swirling bokeh
+a pinhole cap, a soft image with dark corners
+a Holga Plastic Lens filter, soft focus, dark corners and odd color
+a cheap plastic toy lens, soft focus, dark corners and odd color
+a Diana Lens filter, blurry edges and light leaks
+a plastic toy camera lens, blurry edges and light leaks
+a detached lens held by hand, a tilted plane of focus and light leaks
+a glass prism held at the lens, rainbow flares and doubled edges
+a crystal ball held before the lens, the scene flipped inside a sphere
+a heart-shaped bokeh filter, lights turned into hearts
+a star-shaped bokeh filter, lights turned into stars
+a smear of petroleum jelly on a clear filter, glowing smears and soft edges
+a light coat of hairspray on a clear filter, a soft haze and glow
+a breath fogged on the lens, a fading misty glow
+black tulle stretched over the lens, a fine mesh softness and starry lights
+colored cellophane over the lens, a bold wash of color
+a clear plastic bag over the lens, streaky haze and soft glow
+sunglasses held over the lens, a tinted wash and dark rim
