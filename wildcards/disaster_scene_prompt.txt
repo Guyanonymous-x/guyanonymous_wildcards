@@ -1,0 +1,6 @@
+A news photograph. __f_create_random_woman_short__ She is __disaster_role_f__, __disaster_act__. The location is __disaster_place__, __disaster_condition__.
+A news photograph. __m_create_random_man_short__ He is __disaster_role_m__, __disaster_act__. The location is __disaster_place__, __disaster_condition__.
+A news photograph. __any_create_random_androgynous_person_short__ They are __disaster_role_any__, __disaster_act__. The location is __disaster_place__, __disaster_condition__.
+A news photograph. __f_create_random_woman_short__ She is __disaster_guest_f__, __disaster_guest_act__. The location is __disaster_place__, __disaster_condition__.
+A news photograph. __m_create_random_man_short__ He is __disaster_guest_m__, __disaster_guest_act__. The location is __disaster_place__, __disaster_condition__.
+A news photograph. __any_create_random_androgynous_person_short__ They are __disaster_guest_any__, __disaster_guest_act__. The location is __disaster_place__, __disaster_condition__.

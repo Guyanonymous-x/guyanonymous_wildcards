@@ -1,0 +1,4 @@
+__transit_loc_prompt__
+__transit_scene_prompt__
+__transit_vehicle_loc_prompt__
+__transit_vehicle_scene_prompt__

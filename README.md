@@ -2,19 +2,38 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v114**
+**Current version: v115**
 
-**Contents:** [Introduction](#introduction) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 111,000 wildcard text files (111037 `.txt` files in [`wildcards/`](wildcards/) at v114). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 111,400 wildcard text files (111435 `.txt` files in [`wildcards/`](wildcards/) at v115). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v115
+
+Tattoo parlors, salons and barbers, hospitals, street food and plating, arcades and casinos, stations and vehicle interiors, protests, natural disasters, skies, letters, fan conventions, movie theatres and a clothing fit scale.
+
+- Shops (`tat_`, `salon_`): tattoo and piercing parlors and hair salons and barbers, from kitchen tables and street barbers to gallery studios and celebrity salons, with staff, clients and results.
+- Hospitals (`hosp_`): rural clinics and field tents to private suites, from 1918 wards to future medical bays, with staff, patients and visitors.
+- Food (`sfood_`): street food and markets around the world, from carts to gourmet food halls, and plating from paper boats to fine dining.
+- Games (`arcade_`, `casino_`): arcades from seaside coin-pushers to VR arenas; gambling from back-room card dens to high-roller salons.
+- Travel (`transit_`): stations from rural halts to spaceports, and the insides of vehicles from chicken buses to private jets.
+- Events and weather (`protest_`, `disaster_`, `sky_`): protests from a handful of people to vast crowds; natural disasters and the rescue; skies and weather.
+- Paper (`writ_`): letters, documents and handwriting props with wording in quotes.
+- Fandom (`fancon_`, `cine_`): comic, sci-fi and cosplay conventions from library rooms to mega halls; movie theatres from bedsheet screens to luxury recliners.
+- Clothing fit (`fit_scale_`): seven steps from painted on to drowning in it for seven kinds of garment, with woman's and man's versions; the older `fit_` lists are kept.
+- Every new place list runs from low budget to extravagant, with a separate condition from run-down to top of the line.
+- Fix: 22 old-age lines that read "Age has deeply marked his, ..." now read "his face" (and "her face").
+- Showcase files: two prompts from each new area at 512, 1024 and 1408, plus a zip of 18 new-area showcases of 20 prompts each at 1024, with ages spread evenly by decade; 100 sample prompts at the three sizes.
+
+The full list of v115 entry points is in `wildcards/v115_entry_points.txt`.
 
 ## What's New in v114
 
@@ -487,6 +506,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v115
+Tattoo parlors, salons and barbers, hospitals, street food and plating, arcades and casinos, stations and vehicle interiors, protests, natural disasters, skies, letters, fan conventions, movie theatres and a clothing fit scale.
 
 ### v114
 Street life, nightlife and theatres, pet costumes, postcards and greeting cards, drugs and implants, tomb raiders, crimes in action, pawn shops, cults and holy relics, revealing costumes, sleeping poses, world-wide homes, and fixes for ages, lairs and holiday scenes. See [What's New in v114](#whats-new-in-v114).
