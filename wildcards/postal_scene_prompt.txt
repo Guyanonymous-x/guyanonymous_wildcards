@@ -1,0 +1,6 @@
+A candid photograph. __f_create_random_woman_short__ She is __postal_role_f__, __postal_act__. The location is __postal_place__, __postal_condition__.
+A candid photograph. __m_create_random_man_short__ He is __postal_role_m__, __postal_act__. The location is __postal_place__, __postal_condition__.
+A candid photograph. __any_create_random_androgynous_person_short__ They are __postal_role_any__, __postal_act__. The location is __postal_place__, __postal_condition__.
+A candid photograph. __f_create_random_woman_short__ She is __postal_guest_f__, __postal_guest_act__. The location is __postal_place__, __postal_condition__.
+A candid photograph. __m_create_random_man_short__ He is __postal_guest_m__, __postal_guest_act__. The location is __postal_place__, __postal_condition__.
+A candid photograph. __any_create_random_androgynous_person_short__ They are __postal_guest_any__, __postal_guest_act__. The location is __postal_place__, __postal_condition__.

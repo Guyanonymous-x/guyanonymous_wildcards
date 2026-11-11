@@ -1,0 +1,6 @@
+A documentary photograph. __f_create_random_woman_short__ She is __lawcourt_role_f__, __lawcourt_act__. The location is __lawcourt_place__, __lawcourt_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __lawcourt_role_m__, __lawcourt_act__. The location is __lawcourt_place__, __lawcourt_condition__.
+A documentary photograph. __any_create_random_androgynous_person_short__ They are __lawcourt_role_any__, __lawcourt_act__. The location is __lawcourt_place__, __lawcourt_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __lawcourt_guest_f__, __lawcourt_guest_act__. The location is __lawcourt_place__, __lawcourt_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __lawcourt_guest_m__, __lawcourt_guest_act__. The location is __lawcourt_place__, __lawcourt_condition__.
+A documentary photograph. __any_create_random_androgynous_person_short__ They are __lawcourt_guest_any__, __lawcourt_guest_act__. The location is __lawcourt_place__, __lawcourt_condition__.

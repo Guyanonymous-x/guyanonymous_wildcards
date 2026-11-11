@@ -2,19 +2,33 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v120**
+**Current version: v121**
 
-**Contents:** [Introduction](#introduction) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 114,100 wildcard text files (114071 `.txt` files in [`wildcards/`](wildcards/) at v120). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 117,500 wildcard text files (117452 `.txt` files in [`wildcards/`](wildcards/) at v121). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v121
+
+Franchise species in named, generic and look-only versions, camera views through things, lens filters, civic and industrial places, genre and concept vehicles, and home-made and genre weapons.
+
+- Franchise species (`fspecies_`, `peoples_named_`): 100 peoples of films, TV, games and books, each in three versions (with its real name, with a generic name, and look-only), each short, medium and long. The v112 named lists are now public too.
+- Camera views (`camv_`): looking out from the back of a mouth, between fingers, through peepholes, keyholes, door cracks, under doors and beds, windows from outside with their coverings, bars, fences, chain link, masks, welder's masks and sunglasses, and more; one adult view in its own list (`camv_vagina_prompt`).
+- Lens filters (`lensf_`): the Cokin range by name and code, plus effect-only versions and extra lens tricks, each short, medium and long; added to the photography styles.
+- Civic and industrial places (`lawcourt_`, `townhall_`, `postal_`, `waterworks_`, `powerst_`, `steelw_`, `factoryw_`, `dockyard_`, `minework_`, `refinery_`, `wasteyard_`): low budget to grand, run-down to top of the line, with the people who work there.
+- Genre and concept vehicles (`gveh_`, `cveh_`): 20 genres from western and spy to homemade play, surreal and biopunk, each from crude to masterpiece, practical to absurd, plus a mix maker and 28 test and concept vehicles.
+- Home-made and genre weapons (`hweap_`, `gweap_`): pretend play props to expert home workshop pieces, and 14 genres from steampunk to samurai; looks only.
+- Showcase files: two prompts from each new area at 512, 1024 and 1408, plus a zip of 20 new-area showcases of 20 prompts each at 1024, with ages spread evenly by decade; 100 sample prompts at the three sizes.
+
+The full list of v121 entry points is in `wildcards/v121_entry_points.txt`.
 
 ## What's New in v120
 
@@ -575,6 +589,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v121
+Franchise species in named, generic and look-only versions, camera views through things, lens filters, civic and industrial places, genre and concept vehicles, and home-made and genre weapons.
 
 ### v120
 Detailed peoples, gods and cryptids, a random god maker, animals and the people who work with them, circus and stage shows from around the world, and vehicle special effects.
