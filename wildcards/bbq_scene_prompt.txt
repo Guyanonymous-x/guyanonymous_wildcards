@@ -1,0 +1,6 @@
+A candid photograph. __f_create_random_woman_short__ She is __bbq_role_f__, __bbq_act__. The location is __bbq_place__, __bbq_condition__.
+A candid photograph. __m_create_random_man_short__ He is __bbq_role_m__, __bbq_act__. The location is __bbq_place__, __bbq_condition__.
+A candid photograph. __any_create_random_androgynous_person_short__ They are __bbq_role_any__, __bbq_act__. The location is __bbq_place__, __bbq_condition__.
+A candid photograph. __f_create_random_woman_short__ She is __bbq_guest_f__, __bbq_guest_act__. The location is __bbq_place__, __bbq_condition__.
+A candid photograph. __m_create_random_man_short__ He is __bbq_guest_m__, __bbq_guest_act__. The location is __bbq_place__, __bbq_condition__.
+A candid photograph. __any_create_random_androgynous_person_short__ They are __bbq_guest_any__, __bbq_guest_act__. The location is __bbq_place__, __bbq_condition__.

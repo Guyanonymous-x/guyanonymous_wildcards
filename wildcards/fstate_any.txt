@@ -1,0 +1,6 @@
+__fstate_perfect__
+__fstate_eaten__
+__fstate_imperfect__
+__fstate_failed__
+__fstate_spoiled__
+__fstate_dropped__
