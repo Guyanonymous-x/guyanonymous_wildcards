@@ -2,19 +2,34 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v123**
+**Current version: v124**
 
-**Contents:** [Introduction](#introduction) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 125,800 wildcard text files (125818 `.txt` files in [`wildcards/`](wildcards/) at v123). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 127,000 wildcard text files (127089 `.txt` files in [`wildcards/`](wildcards/) at v124). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v124
+
+Anthropomorphic characters, the animal satire universe, alcohol, tobacco, street drugs and intoxication, older people and the person mix.
+
+- Anthropomorphic characters (`anthro_`, `spc_`): 170 species of animals, birds, bugs, reptiles, fish, sea and mythical creatures as characters, short, medium and long, with how-human body levels, 12 art styles, 46 jobs, 30 outfits, poses, moods and 24 worlds, alone, in their worlds and in groups.
+- The animal satire universe (`sat_`): a darkly funny role swap where animals run the world, wear coats, bags and shoes of human skin, hair and bone, work in tanneries, hunt and keep humans (always unclothed) and show off trophies.
+- Alcohol and tobacco (`alc_`, `cig_`): 25 containers from longnecks and hip flasks to boxed and bagged wine, 32 drinks each served in its proper glass, cup or mug, and cigarette packs with quoted brand names, cigarettes, cigars, pipes, vapes and ashtrays.
+- Street drugs (`sdrug_`): 17 substances from alcohol and marijuana to heroin, fentanyl, meth, cocaine, MDMA, LSD, ketamine, GHB, nitrous oxide and khat, in the forms people keep, store and prepare them, with paraphernalia and injecting kits shown realistically and clinically.
+- Intoxication (`intox_`): drunk people in five stages, people high on each substance, long-term users, and poses for drinking, smoking and handling paraphernalia.
+- People fixes: people aged 75 and over now range from ordinary and well-preserved to heavy and very fat, and person templates give about 40% women, 40% men and 20% androgynous people using she, he and they.
+- Showcases now pick an image shape for each prompt, state placement, camera and light, and carry a small caption.
+- Showcase files: two prompts from each of 17 new areas at 512, 1024 and 1408, each image shape chosen for its prompt; SHOWCASE files highlight what is new or changed in this version. 100 sample prompts at the three sizes are representative of everything the library can do.
+
+The full list of v124 entry points is in `wildcards/v124_entry_points.txt`.
 
 ## What's New in v123
 
@@ -616,6 +631,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v124
+Anthropomorphic characters, the animal satire universe, alcohol, tobacco, street drugs and intoxication, older people and the person mix.
 
 ### v123
 Sports and pastimes from around the world, backyard, drinking and risky old games, torture devices shown as objects, lucky charms, cheating devices, con games and stage magic.

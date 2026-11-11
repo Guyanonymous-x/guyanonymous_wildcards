@@ -1,7 +1,35 @@
+__police_era_prompt__
+__police_era_prompt__
+__police_era_prompt__
+__police_era_prompt__
+__police_era_prompt__
+A documentary photograph. __f_create_random_woman_short__ She is __police_role_f__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __police_role_f__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __police_role_f__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __police_role_f__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __police_role_f__, __police_act__. The location is __police_place__, __police_condition__.
 A documentary photograph. __f_create_random_woman_short__ She is __police_role_f__, __police_act__. The location is __police_place__, __police_condition__.
 A documentary photograph. __m_create_random_man_short__ He is __police_role_m__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __police_role_m__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __police_role_m__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __police_role_m__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __police_role_m__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __police_role_m__, __police_act__. The location is __police_place__, __police_condition__.
 A documentary photograph. __any_create_random_androgynous_person_short__ They are __police_role_any__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __any_create_random_androgynous_person_short__ She is __police_role_f__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __any_create_random_androgynous_person_short__ He is __police_role_m__, __police_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __police_guest_f__, __police_guest_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __police_guest_f__, __police_guest_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __police_guest_f__, __police_guest_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __police_guest_f__, __police_guest_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __f_create_random_woman_short__ She is __police_guest_f__, __police_guest_act__. The location is __police_place__, __police_condition__.
 A documentary photograph. __f_create_random_woman_short__ She is __police_guest_f__, __police_guest_act__. The location is __police_place__, __police_condition__.
 A documentary photograph. __m_create_random_man_short__ He is __police_guest_m__, __police_guest_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __police_guest_m__, __police_guest_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __police_guest_m__, __police_guest_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __police_guest_m__, __police_guest_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __police_guest_m__, __police_guest_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __police_guest_m__, __police_guest_act__. The location is __police_place__, __police_condition__.
 A documentary photograph. __any_create_random_androgynous_person_short__ They are __police_guest_any__, __police_guest_act__. The location is __police_place__, __police_condition__.
-__police_era_prompt__
+A documentary photograph. __any_create_random_androgynous_person_short__ She is __police_guest_f__, __police_guest_act__. The location is __police_place__, __police_condition__.
+A documentary photograph. __any_create_random_androgynous_person_short__ He is __police_guest_m__, __police_guest_act__. The location is __police_place__, __police_condition__.
