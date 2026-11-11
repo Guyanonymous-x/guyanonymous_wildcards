@@ -4,7 +4,18 @@ A slightly extensive wildcard system for generating text prompts for txt2img gen
 
 **Current version: v124**
 
-**Contents:** [Introduction](#introduction) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+## Download the latest version
+
+**[Newest release: all downloads](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/latest)**: this link always opens the newest version's download page.
+
+Current version v124:
+- [Guyanonymous_Wildcards_v124_FLAT.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124_FLAT.zip): every file in one folder (proportional edition)
+- [Guyanonymous_Wildcards_v124_FOLDERS.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124_FOLDERS.zip): the same files grouped into family folders
+- [Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FLAT.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FLAT.zip): every option listed once, one folder
+- [Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FOLDER.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FOLDER.zip): every option listed once, family folders
+- [Guyanonymous_Wildcards_v124.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124.zip): all four editions in one zip
+
+**Contents:** [Download](#download-the-latest-version) · [Introduction](#introduction) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
@@ -14,7 +25,7 @@ The library is for people who make images with text-to-image tools and want vari
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
-Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree; they are attached to each GitHub Release (see Download above), not stored in the file list.
 
 ## What's New in v124
 
