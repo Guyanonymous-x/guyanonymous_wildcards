@@ -1,0 +1,4 @@
+A documentary photograph. __f_create_random_woman_short__ She is __mil_role_f__, __mil_act__. The location is __mil_place__, __mil_condition__.
+A documentary photograph. __m_create_random_man_short__ He is __mil_role_m__, __mil_act__. The location is __mil_place__, __mil_condition__.
+A documentary photograph. __any_create_random_androgynous_person_short__ They are __mil_role_any__, __mil_act__. The location is __mil_place__, __mil_condition__.
+__mil_era_prompt__
