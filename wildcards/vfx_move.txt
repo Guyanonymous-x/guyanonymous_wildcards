@@ -1,0 +1,5 @@
+__vfx_underwater_move__
+__vfx_water_move__
+__vfx_land_move__
+__vfx_air_move__
+__vfx_space_move__

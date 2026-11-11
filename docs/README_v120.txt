@@ -1,0 +1,2 @@
+Guyanonymous' Wildcards v120 - detailed peoples, gods and cryptids, animals, shows and vehicle effects
+Prompts  pdesc_prompt, sacred_prompt, newgod_prompt, cryptid_prompt, animal_people_prompt, shows_prompt, vfx_prompt
