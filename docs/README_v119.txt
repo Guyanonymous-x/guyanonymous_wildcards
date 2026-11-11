@@ -1,0 +1,2 @@
+Guyanonymous' Wildcards v119 - beauty, adornment, crafts, Rube Goldberg machines and practical jokes
+Prompts  makeup_prompt, wig_prompt, fragr_prompt, nailart_prompt, adorn_prompt, knit_prompt, wood_prompt, hatshop_prompt, shoeshop_prompt, optic_prompt, fitting_prompt, rg_prompt, prank_prompt
