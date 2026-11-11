@@ -2,19 +2,33 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v116**
+**Current version: v117**
 
-**Contents:** [Introduction](#introduction) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Introduction](#introduction) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 111,700 wildcard text files (111665 `.txt` files in [`wildcards/`](wildcards/) at v116). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 112,200 wildcard text files (112249 `.txt` files in [`wildcards/`](wildcards/) at v117). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree and are not stored here.
+
+## What's New in v117
+
+Couples on dates from the first to the fiftieth year, pairs of people, flea markets, laundromats, fast food, murals, plazas, rides, natural wonders, skateparks, rural landmarks, drug dealers, crime organizations, gangs, neighborhood patrols and advertising through the ages.
+
+- Couples on dates (`date_`): first, second and third dates, a year, five, ten, twenty-five and fifty years together, each with fitting places and closeness, and whether one, the other or both are enjoying it or attracted. Pairs of people (`pair_`): friends, rivals, twins, partners and more.
+- Places (`flea_`, `laundry_`, `ffood_`, `mural_`, `plaza_`, `ride_`, `wonder_`, `skate_`, `rural_`): flea markets and auctions, laundromats and vending, fast food, murals and street art, fountains and plazas, amusement rides, waterfalls and natural wonders, skateparks and BMX, and rural landmarks, low budget to luxury.
+- Crime (`dealer_`, `corg_`): drug dealers from lookouts up to kingpins, and crime organizations of the world as types and looks.
+- Gangs and patrols (`gang_`, `patrol_`): original serious, costumed, era, silly and good-deed gangs with clothing, turf and poses, and neighborhood patrols old and new.
+- Advertising through the ages (`adera_`): ad styles by decade back to the 1800s, then by century to ancient Rome, Egypt and China, with products of each period.
+- Every new place list runs from low budget to extravagant, with a separate condition from run-down to top of the line.
+- Showcase files: two prompts from each new area at 512, 1024 and 1408, plus a zip of 16 new-area showcases of 20 prompts each at 1024, with ages spread evenly by decade; 100 sample prompts at the three sizes.
+
+The full list of v117 entry points is in `wildcards/v117_entry_points.txt`.
 
 ## What's New in v116
 
@@ -522,6 +536,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v117
+Couples on dates from the first to the fiftieth year, pairs of people, flea markets, laundromats, fast food, murals, plazas, rides, natural wonders, skateparks, rural landmarks, drug dealers, crime organizations, gangs, neighborhood patrols and advertising through the ages.
 
 ### v116
 Mobility aids, sports fans, military life, bachelorette parties done right, picnics, camping, diving, mushrooms and foraging, insects close up, birds, police stations, jails and courtrooms.

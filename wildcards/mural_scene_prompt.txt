@@ -1,0 +1,6 @@
+A street photograph. __f_create_random_woman_short__ She is __mural_role_f__, __mural_act__. The location is __mural_place__, __mural_condition__.
+A street photograph. __m_create_random_man_short__ He is __mural_role_m__, __mural_act__. The location is __mural_place__, __mural_condition__.
+A street photograph. __any_create_random_androgynous_person_short__ They are __mural_role_any__, __mural_act__. The location is __mural_place__, __mural_condition__.
+A street photograph. __f_create_random_woman_short__ She is __mural_guest_f__, __mural_guest_act__. The location is __mural_place__, __mural_condition__.
+A street photograph. __m_create_random_man_short__ He is __mural_guest_m__, __mural_guest_act__. The location is __mural_place__, __mural_condition__.
+A street photograph. __any_create_random_androgynous_person_short__ They are __mural_guest_any__, __mural_guest_act__. The location is __mural_place__, __mural_condition__.
