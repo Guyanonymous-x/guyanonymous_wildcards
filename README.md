@@ -6,14 +6,13 @@ A slightly extensive wildcard system for generating text prompts for txt2img gen
 
 ## Download the latest version
 
-**[Newest release: all downloads](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/latest)**: this link always opens the newest version's download page.
+**[Download the newest release](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/latest)**: this link always opens the newest version's download page. Download the one zip there, then open it and pick the edition you want from inside.
 
-Current version v124:
-- [Guyanonymous_Wildcards_v124_FLAT.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124_FLAT.zip): every file in one folder (proportional edition)
-- [Guyanonymous_Wildcards_v124_FOLDERS.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124_FOLDERS.zip): the same files grouped into family folders
-- [Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FLAT.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FLAT.zip): every option listed once, one folder
-- [Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FOLDER.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FOLDER.zip): every option listed once, family folders
-- [Guyanonymous_Wildcards_v124.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124.zip): all four editions in one zip
+Current version v124: **[Guyanonymous_Wildcards_v124.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124.zip)** holds four editions:
+- `Guyanonymous_Wildcards_v124_FLAT.zip`: every file in one folder (proportional edition)
+- `Guyanonymous_Wildcards_v124_FOLDERS.zip`: the same files grouped into family folders
+- `Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FLAT.zip`: every option listed once, one folder
+- `Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FOLDER.zip`: every option listed once, family folders
 
 **Contents:** [Download](#download-the-latest-version) · [Introduction](#introduction) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
