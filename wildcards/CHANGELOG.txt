@@ -1,5 +1,16 @@
-Guyanonymous' Wildcards - Changelog since V27 (current: V127)
+Guyanonymous' Wildcards - Changelog since V27 (current: V128)
 ============================================================
+
+Version 128
+-----------
+* Secret societies (soc_): 40 societies from the Freemasons, Rosicrucians and Knights Templar to Skull and Bones, the Hellfire Club, the Triads and the Yakuza, look-only and named, with regalia, masks, meeting places, initiations, rituals, secret signs, password cards and "something goes wrong" moments, plus a random society maker. The KKK and the Thule Society are shown without hate insignia.
+* Adult secret society rituals (adult_l1_soc_ to adult_l6_soc_): masked rituals for 31 societies at all six adult levels.
+* Aliens (alien_): 98 aliens from films, TV, games, novels, graphic novels and cartoons, from E.T. and the Heptapods of Arrival to the Slitheen, the geth and the Vogons, in named, generic and look-only versions, plus a random alien maker.
+* Adult aliens (adult_l1_alien_ to adult_l6_alien_): 34 humanoid aliens at all six adult levels, look-only.
+* Skeletons, scans and close-ups (bones_): 117 subjects, dinosaur and animal skeletons, skulls, X-rays, MRI, CT, ultrasound and thermal images, footprints and handprints, horns, antlers, teeth, feathers, fur, pelts, skin and scales.
+* Adult X-ray, skeleton-overlay and thermal nudes (adult_l1_bones_ to adult_l6_bones_).
+* World religions (faith_): 405 religions, faiths and high-control groups shown by look only, their dress, sacred objects, places, buildings, rituals, the home of the divine, how the divine is shown and the afterlife. Child-focused groups, youth rites and child sacrifice are left out.
+* Showcase files cover every v128 addition with brief, medium and long prompts; sample files cover everything the library can do.
 
 Version 127
 -----------
