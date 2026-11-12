@@ -1,5 +1,14 @@
-Guyanonymous' Wildcards - Changelog since V27 (current: V126)
+Guyanonymous' Wildcards - Changelog since V27 (current: V127)
 ============================================================
+
+Version 127
+-----------
+* Mosaic, stained glass and leaded glass styles (mg_): 89 styles, from ancient Greek and Roman floors, Byzantine gold and Islamic zellige to Gaudi's broken-tile mosaics, Tiffany glass, Gothic cathedral windows, 1970s amber bullseye glass and modern digital mosaic illustration, each described by its look and applicable to any subject.
+* Life moments (life_): 70 moments, first times, bad dates, life milestones from a proposal to a funeral, and dances of the world, each with "something goes wrong" versions.
+* Adult life moments (adult_l1_life_ to adult_l6_life_): burlesque across nine eras, fan, chair and lap dances, sex work across history and around the world, and a first night together, at all six adult levels.
+* Childbirth (birth_l1_ to birth_l4_): a separate part at four levels, kept apart from the general lists and the public samples, with its own entry point birth_prompt.
+* Objects and collections (coll_): 59 kinds of collection from stamps and snow globes to meteorites and ships in bottles, 12 ways to display them and 14 collector moments such as an auction bid, finding a fake and a broken prized piece.
+* Showcase files cover every v127 addition with brief, medium and long prompts; sample files cover everything the library can do.
 
 Version 126
 -----------
