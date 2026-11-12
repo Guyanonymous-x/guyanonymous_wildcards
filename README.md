@@ -2,29 +2,40 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v125**
+**Current version: v126**
 
 ## Download the latest version
 
 **[Download the newest release](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/latest)**: this link always opens the newest version's download page. Download the one zip there, then open it and pick the edition you want from inside.
 
-Current version v125: **[Guyanonymous_Wildcards_v125.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v125/Guyanonymous_Wildcards_v125.zip)** holds four editions:
-- `Guyanonymous_Wildcards_v125_FLAT.zip`: every file in one folder (proportional edition)
-- `Guyanonymous_Wildcards_v125_FOLDERS.zip`: the same files grouped into family folders
-- `Guyanonymous_Wildcards_v125_NOTPROPORTIONAL_FLAT.zip`: every option listed once, one folder
-- `Guyanonymous_Wildcards_v125_NOTPROPORTIONAL_FOLDER.zip`: every option listed once, family folders
+Current version v126: **[Guyanonymous_Wildcards_v126.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v126/Guyanonymous_Wildcards_v126.zip)** holds four editions:
+- `Guyanonymous_Wildcards_v126_FLAT.zip`: every file in one folder (proportional edition)
+- `Guyanonymous_Wildcards_v126_FOLDERS.zip`: the same files grouped into family folders
+- `Guyanonymous_Wildcards_v126_NOTPROPORTIONAL_FLAT.zip`: every option listed once, one folder
+- `Guyanonymous_Wildcards_v126_NOTPROPORTIONAL_FOLDER.zip`: every option listed once, family folders
 
-**Contents:** [Download](#download-the-latest-version) · [Introduction](#introduction) · [What's New in v125](#whats-new-in-v125) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Download](#download-the-latest-version) · [Introduction](#introduction) · [What's New in v126](#whats-new-in-v126) · [What's New in v125](#whats-new-in-v125) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 131,000 wildcard text files (131424 `.txt` files in [`wildcards/`](wildcards/) at v125). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 138,000 wildcard text files (138299 `.txt` files in [`wildcards/`](wildcards/) at v126). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree; they are attached to each GitHub Release (see Download above), not stored in the file list.
+
+## What's New in v126
+
+- Work and trades (`trade_`): 280 trades in 13 groups, from carpenters, blacksmiths, weavers and bakers to chimney sweeps, lamplighters, airship riggers and potion brewers. Each has its tools, workplace, the work half done, the finished piece, hands at work, the marks the trade leaves on the body and workwear, in short, medium and long lines, with still life, workplace, person and scene prompts.
+- Moments at work (`trade_moment_prompt`): 20 moments such as a tea break, a first day, teaching an apprentice, payday, the end of a long shift and a retirement party.
+- Home life (`home_act_`): 114 things people do at home, from waking to an alarm and kneading bread to fixing a dripping tap, a house party, moving house, pets and a sick day in bed, each in the right room.
+- Homes through the ages and around the world (`home_style_`): 42 whole-home styles, from a medieval hall house and a 1970s brown and orange home to a Moroccan riad, a Soviet panel flat and a far-future space habitat, plus household objects in 10 kinds across 9 eras (`home_obj_`).
+- Travel (`travel_`): 41 trip types, 32 places to stay (ryokan, caravanserai, overwater bungalow, ice hotel and more), 30 travel moments, 20 traveller looks across the eras and 100 named famous landmarks, each described in plain visual words.
+- Showcase files cover every v126 addition with brief, medium and long prompts; sample files cover everything the library can do.
+
+Showcase prompts for this version: [`docs/showcase/`](docs/showcase/).
 
 ## What's New in v125
 

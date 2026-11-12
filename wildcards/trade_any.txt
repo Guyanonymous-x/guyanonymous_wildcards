@@ -1,0 +1,13 @@
+__trade_building_any__
+__trade_metal_any__
+__trade_wood_any__
+__trade_cloth_any__
+__trade_clay_any__
+__trade_paper_any__
+__trade_food_any__
+__trade_land_any__
+__trade_industry_any__
+__trade_service_any__
+__trade_art_any__
+__trade_historic_any__
+__trade_future_any__

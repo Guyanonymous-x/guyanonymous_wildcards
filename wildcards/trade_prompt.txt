@@ -1,0 +1,14 @@
+__trade_building_prompt__
+__trade_metal_prompt__
+__trade_wood_prompt__
+__trade_cloth_prompt__
+__trade_clay_prompt__
+__trade_paper_prompt__
+__trade_food_prompt__
+__trade_land_prompt__
+__trade_industry_prompt__
+__trade_service_prompt__
+__trade_art_prompt__
+__trade_historic_prompt__
+__trade_future_prompt__
+__trade_moment_prompt__

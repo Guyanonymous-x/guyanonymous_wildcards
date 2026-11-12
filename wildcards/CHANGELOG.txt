@@ -1,5 +1,14 @@
-Guyanonymous' Wildcards - Changelog since V27 (current: V125)
+Guyanonymous' Wildcards - Changelog since V27 (current: V126)
 ============================================================
+
+Version 126
+-----------
+* Work and trades (trade_): 280 trades in 13 groups, from carpenters, blacksmiths, weavers and bakers to chimney sweeps, lamplighters, airship riggers and potion brewers. Each has its tools, workplace, the work half done, the finished piece, hands at work, the marks the trade leaves on the body and workwear, in short, medium and long lines, with still life, workplace, person and scene prompts.
+* Moments at work (trade_moment_prompt): 20 moments such as a tea break, a first day, teaching an apprentice, payday, the end of a long shift and a retirement party.
+* Home life (home_act_): 114 things people do at home, from waking to an alarm and kneading bread to fixing a dripping tap, a house party, moving house, pets and a sick day in bed, each in the right room.
+* Homes through the ages and around the world (home_style_): 42 whole-home styles, from a medieval hall house and a 1970s brown and orange home to a Moroccan riad, a Soviet panel flat and a far-future space habitat, plus household objects in 10 kinds across 9 eras (home_obj_).
+* Travel (travel_): 41 trip types, 32 places to stay (ryokan, caravanserai, overwater bungalow, ice hotel and more), 30 travel moments, 20 traveller looks across the eras and 100 named famous landmarks, each described in plain visual words.
+* Showcase files cover every v126 addition with brief, medium and long prompts; sample files cover everything the library can do.
 
 Version 125
 -----------

@@ -1,0 +1,5 @@
+__travel_trip_prompt__
+__travel_stay_prompt__
+__travel_moment_prompt__
+__travel_look_prompt__
+__travel_landmark_prompt__
