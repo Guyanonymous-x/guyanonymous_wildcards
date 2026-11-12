@@ -8,3 +8,4 @@ __dealer_enforcer_prompt__
 __dealer_launderer_prompt__
 __dealer_lieutenant_prompt__
 __dealer_kingpin_prompt__
+__dealer_full_prompt__

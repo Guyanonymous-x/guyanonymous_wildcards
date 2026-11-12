@@ -1,2 +1,3 @@
 __vet_loc_prompt__
 __vet_scene_prompt__
+__vet_full_prompt__

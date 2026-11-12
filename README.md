@@ -2,29 +2,42 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v124**
+**Current version: v125**
 
 ## Download the latest version
 
 **[Download the newest release](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/latest)**: this link always opens the newest version's download page. Download the one zip there, then open it and pick the edition you want from inside.
 
-Current version v124: **[Guyanonymous_Wildcards_v124.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v124/Guyanonymous_Wildcards_v124.zip)** holds four editions:
-- `Guyanonymous_Wildcards_v124_FLAT.zip`: every file in one folder (proportional edition)
-- `Guyanonymous_Wildcards_v124_FOLDERS.zip`: the same files grouped into family folders
-- `Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FLAT.zip`: every option listed once, one folder
-- `Guyanonymous_Wildcards_v124_NOTPROPORTIONAL_FOLDER.zip`: every option listed once, family folders
+Current version v125: **[Guyanonymous_Wildcards_v125.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v125/Guyanonymous_Wildcards_v125.zip)** holds four editions:
+- `Guyanonymous_Wildcards_v125_FLAT.zip`: every file in one folder (proportional edition)
+- `Guyanonymous_Wildcards_v125_FOLDERS.zip`: the same files grouped into family folders
+- `Guyanonymous_Wildcards_v125_NOTPROPORTIONAL_FLAT.zip`: every option listed once, one folder
+- `Guyanonymous_Wildcards_v125_NOTPROPORTIONAL_FOLDER.zip`: every option listed once, family folders
 
-**Contents:** [Download](#download-the-latest-version) · [Introduction](#introduction) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Download](#download-the-latest-version) · [Introduction](#introduction) · [What's New in v125](#whats-new-in-v125) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 127,000 wildcard text files (127089 `.txt` files in [`wildcards/`](wildcards/) at v124). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 131,000 wildcard text files (131424 `.txt` files in [`wildcards/`](wildcards/) at v125). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
 People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree; they are attached to each GitHub Release (see Download above), not stored in the file list.
+
+## What's New in v125
+
+v125 makes the library describe things far more fully and adds 1,000 world records of the body ([docs/INDEX_v125.txt](docs/INDEX_v125.txt)). Since v124 it adds:
+
+- Fuller visual lines: sports (183), backyard, drinking and risky games (98), lucky charms (106) and torture devices (65, always shown empty) now have medium and long lines that describe exactly what everything looks like, never relying on a name, with new medium and long templates beside the old ones.
+- Longer item descriptions for older families: 80 real concept and test vehicles, 28 more concept vehicles, 99 Warriors-style gangs, 179 religious figures, 481 lens filters, 100 franchise species, 31 camera views, legendary, lost and ancestral peoples, gods and 62 cryptids, plus genre vehicles and homemade weapons, each with fuller medium and long lines.
+- Fuller scenes: 95 place and trade families (fire stations, bakeries, salons, circuses, steelworks and more) gain medium and long templates with described people, and 31 more families gain long versions with fully described people.
+- World records of the body (`rec_`): 1,000 records about what people's bodies can do, from the longest fingernails to balancing, holding, pulling, lifting, poses and skills, shown as they happen.
+- Wording: "This version of the place is" now reads "The location is", identical twins look alike, and record and contortion lines show the action instead of a label.
+- **Showcase and sample files:** the showcase files (32 prompts at 512, 1024 and 1408 sizes) highlight what is new or changed in this version, while the 100 sample prompts are representative of everything the library can do; both use longer prompts (brief, medium and long) with no caption text in the image. They are in [docs/showcase/](docs/showcase/).
+
+The full list of v125 entry points is in `wildcards/v125_entry_points.txt`.
 
 ## What's New in v124
 
@@ -641,6 +654,9 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v125
+Fuller visual descriptions (medium and long three to four times longer) across sports, games, charms, torture devices, vehicles, gangs, religious figures, lens filters, species, peoples and cryptids; fuller scenes with described people for 126 families; 1,000 world records of the body; longer showcase and sample prompts with no caption. See [What's New in v125](#whats-new-in-v125).
 
 ### v124
 Anthropomorphic characters, the animal satire universe, alcohol, tobacco, street drugs and intoxication, older people and the person mix.

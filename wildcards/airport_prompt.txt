@@ -1,2 +1,3 @@
 __airport_loc_prompt__
 __airport_scene_prompt__
+__airport_full_prompt__

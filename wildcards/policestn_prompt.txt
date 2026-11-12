@@ -1,2 +1,3 @@
 __policestn_loc_prompt__
 __policestn_scene_prompt__
+__policestn_full_prompt__

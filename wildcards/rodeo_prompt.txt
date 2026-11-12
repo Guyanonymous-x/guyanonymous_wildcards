@@ -1,2 +1,3 @@
 __rodeo_loc_prompt__
 __rodeo_scene_prompt__
+__rodeo_full_prompt__

@@ -10,3 +10,4 @@ __under_record_shop_prompt__
 __under_garage_prompt__
 __under_herbal_shop_prompt__
 __under_electronics_shop_prompt__
+__under_full_prompt__

@@ -41,3 +41,4 @@ A portrait photograph. __f_create_random_woman_short__ She is wearing Mongolian 
 A portrait photograph. __m_create_random_man_short__ He is wearing Mongolian adornment, __adorn_23_m__.
 A portrait photograph. __f_create_random_woman_short__ She is wearing Japanese Ainu adornment, __adorn_24_f__.
 A portrait photograph. __m_create_random_man_short__ He is wearing Japanese Ainu adornment, __adorn_24_m__.
+__adorn_world_full_prompt__

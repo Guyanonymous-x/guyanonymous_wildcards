@@ -1,2 +1,3 @@
 __fragr_loc_prompt__
 __fragr_scene_prompt__
+__fragr_full_prompt__

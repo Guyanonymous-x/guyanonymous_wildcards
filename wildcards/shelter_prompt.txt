@@ -1,2 +1,3 @@
 __shelter_loc_prompt__
 __shelter_scene_prompt__
+__shelter_full_prompt__

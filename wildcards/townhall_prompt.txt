@@ -1,2 +1,3 @@
 __townhall_loc_prompt__
 __townhall_scene_prompt__
+__townhall_full_prompt__

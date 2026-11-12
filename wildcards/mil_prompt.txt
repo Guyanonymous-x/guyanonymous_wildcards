@@ -1,2 +1,3 @@
 __mil_loc_prompt__
 __mil_scene_prompt__
+__mil_full_prompt__

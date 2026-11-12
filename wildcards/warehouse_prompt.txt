@@ -1,2 +1,3 @@
 __warehouse_loc_prompt__
 __warehouse_scene_prompt__
+__warehouse_full_prompt__

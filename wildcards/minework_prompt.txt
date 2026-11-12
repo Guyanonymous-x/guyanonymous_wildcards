@@ -1,2 +1,3 @@
 __minework_loc_prompt__
 __minework_scene_prompt__
+__minework_full_prompt__

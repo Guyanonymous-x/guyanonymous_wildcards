@@ -5,3 +5,4 @@ __mobil_walking_prompt__
 __mobil_scooter_prompt__
 __mobil_sight_prompt__
 __mobil_hearing_prompt__
+__mobil_full_prompt__

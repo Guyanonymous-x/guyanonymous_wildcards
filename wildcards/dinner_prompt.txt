@@ -1,2 +1,3 @@
 __dinner_loc_prompt__
 __dinner_scene_prompt__
+__dinner_full_prompt__

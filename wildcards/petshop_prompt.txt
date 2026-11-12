@@ -1,2 +1,3 @@
 __petshop_loc_prompt__
 __petshop_scene_prompt__
+__petshop_full_prompt__

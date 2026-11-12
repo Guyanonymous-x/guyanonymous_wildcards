@@ -1,2 +1,3 @@
 __orch_loc_prompt__
 __orch_scene_prompt__
+__orch_full_prompt__

@@ -1,2 +1,3 @@
 __stable_loc_prompt__
 __stable_scene_prompt__
+__stable_full_prompt__

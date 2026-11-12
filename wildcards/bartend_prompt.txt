@@ -1,2 +1,3 @@
 __bartend_loc_prompt__
 __bartend_scene_prompt__
+__bartend_full_prompt__

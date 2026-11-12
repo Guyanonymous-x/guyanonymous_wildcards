@@ -1,2 +1,3 @@
 __prisonyd_loc_prompt__
 __prisonyd_scene_prompt__
+__prisonyd_full_prompt__

@@ -1,2 +1,3 @@
 __cine_loc_prompt__
 __cine_scene_prompt__
+__cine_full_prompt__

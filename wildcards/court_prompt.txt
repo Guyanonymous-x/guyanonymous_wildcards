@@ -1,2 +1,3 @@
 __court_loc_prompt__
 __court_scene_prompt__
+__court_full_prompt__

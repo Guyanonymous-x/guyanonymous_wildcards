@@ -1,2 +1,3 @@
 __soloplay_loc_prompt__
 __soloplay_scene_prompt__
+__soloplay_full_prompt__

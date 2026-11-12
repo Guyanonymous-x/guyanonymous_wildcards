@@ -1,2 +1,3 @@
 __protest_loc_prompt__
 __protest_scene_prompt__
+__protest_full_prompt__

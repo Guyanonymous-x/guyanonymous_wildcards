@@ -1,3 +1,4 @@
 __forage_loc_prompt__
 __forage_scene_prompt__
 __forage_close_prompt__
+__forage_full_prompt__

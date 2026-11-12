@@ -1,2 +1,3 @@
 __ride_loc_prompt__
 __ride_scene_prompt__
+__ride_full_prompt__

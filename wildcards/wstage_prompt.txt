@@ -1,2 +1,3 @@
 __wstage_loc_prompt__
 __wstage_scene_prompt__
+__wstage_full_prompt__

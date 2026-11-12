@@ -1,2 +1,3 @@
 __datactr_loc_prompt__
 __datactr_scene_prompt__
+__datactr_full_prompt__

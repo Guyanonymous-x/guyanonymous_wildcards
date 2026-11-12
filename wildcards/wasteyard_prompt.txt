@@ -1,2 +1,3 @@
 __wasteyard_loc_prompt__
 __wasteyard_scene_prompt__
+__wasteyard_full_prompt__

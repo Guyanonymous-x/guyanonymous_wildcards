@@ -1,2 +1,3 @@
 __postal_loc_prompt__
 __postal_scene_prompt__
+__postal_full_prompt__

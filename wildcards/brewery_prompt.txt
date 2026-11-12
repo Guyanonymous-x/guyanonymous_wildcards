@@ -1,2 +1,3 @@
 __brewery_loc_prompt__
 __brewery_scene_prompt__
+__brewery_full_prompt__

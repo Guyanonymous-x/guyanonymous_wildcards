@@ -3,3 +3,6 @@ A candid photograph of __pair_kind__. __f_create_random_woman_short__ __f_create
 A candid photograph of __pair_kind__. __m_create_random_man_short__ __m_create_random_man_short__ The two of them are __pair_act__. The location is __pair_place__.
 A candid photograph of __pair_kind__. __any_create_random_androgynous_person_short__ __f_create_random_woman_short__ The two of them are __pair_act__. The location is __pair_place__.
 A candid photograph of __pair_kind__. __m_create_random_man_short__ __any_create_random_androgynous_person_short__ The two of them are __pair_act__. The location is __pair_place__.
+A candid photograph of a pair of adult identical twins in matching outfits, standing side by side in the middle of the frame. __f_create_random_woman_short__ Her twin sister beside her is her exact double, with the same face, hair, build and age. The two of them are __pair_act__. The location is __pair_place__.
+A candid photograph of a pair of adult identical twins in matching outfits, standing side by side in the middle of the frame. __m_create_random_man_short__ His twin brother beside him is his exact double, with the same face, hair, build and age. The two of them are __pair_act__. The location is __pair_place__.
+__pair_full_prompt__

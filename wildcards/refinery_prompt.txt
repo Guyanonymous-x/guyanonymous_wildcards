@@ -1,2 +1,3 @@
 __refinery_loc_prompt__
 __refinery_scene_prompt__
+__refinery_full_prompt__

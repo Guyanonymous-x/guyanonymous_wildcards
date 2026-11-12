@@ -6,3 +6,4 @@ __date_five_years_prompt__
 __date_ten_years_prompt__
 __date_twenty_five_years_prompt__
 __date_fifty_years_prompt__
+__date_full_prompt__

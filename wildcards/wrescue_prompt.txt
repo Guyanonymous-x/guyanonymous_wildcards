@@ -1,2 +1,3 @@
 __wrescue_loc_prompt__
 __wrescue_scene_prompt__
+__wrescue_full_prompt__

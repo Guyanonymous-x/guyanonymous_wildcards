@@ -1,2 +1,3 @@
 __optic_loc_prompt__
 __optic_scene_prompt__
+__optic_full_prompt__

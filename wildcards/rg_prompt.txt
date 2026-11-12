@@ -3,3 +3,4 @@ __rg_medium_prompt__
 __rg_complex_prompt__
 __rg_close_prompt__
 __rg_inventor_prompt__
+__rg_full_prompt__

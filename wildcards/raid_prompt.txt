@@ -13,3 +13,4 @@ An adventure film still. __m_create_random_man_short__ He is wearing __raid_wear
 An adventure film still. __any_create_random_androgynous_person_short__ They are wearing __raid_wear_any__, __raid_act__. The location is __raid_place__.
 An adventure film still. __any_create_random_androgynous_person_short__ She is wearing __raid_wear_f__, __raid_act__. The location is __raid_place__.
 An adventure film still. __any_create_random_androgynous_person_short__ He is wearing __raid_wear_m__, __raid_act__. The location is __raid_place__.
+__raid_full_prompt__

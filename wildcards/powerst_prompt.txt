@@ -1,2 +1,3 @@
 __powerst_loc_prompt__
 __powerst_scene_prompt__
+__powerst_full_prompt__

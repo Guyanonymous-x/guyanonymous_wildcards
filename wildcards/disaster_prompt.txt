@@ -1,3 +1,4 @@
 __disaster_loc_prompt__
 __disaster_scene_prompt__
 __disaster_event_prompt__
+__disaster_full_prompt__
