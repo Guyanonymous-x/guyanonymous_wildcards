@@ -1,14 +1,14 @@
 a rose
 a butterfly
 a skull
-a heart with a cloth pennant
+a heart with a banner reading "__text_banner_festival__" __text_look_banner__
 a dragon
 an eagle
 a barbed-wire band
 a pair of dice
 a cartoon character-style animal
 a geometric band
-an infinity lit panel
+an infinity sign reading "__text_sign_english__" in __sign_lettering__
 a dolphin
 a spider web
 a ship
@@ -28,7 +28,7 @@ a musical note
 a pair of angel wings
 a scorpion
 a star cluster
-a quote in script pattern
-a name in script pattern
+a quote in script lettering reading "__name_merch_slogan__"
+a name in script lettering reading "__name_merch_slogan__"
 a date in roman numerals
 a pair of initials in a heart

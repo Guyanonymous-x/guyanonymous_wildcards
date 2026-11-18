@@ -1,23 +1,23 @@
-a cloth pennant at a festival, rainbow-coloured, hand-made and slightly uneven
-a cloth pennant at a festival, turquoise, freshly polished
-a cloth pennant on a pole, blue, wet with rain
-a cloth pennant on a pole, chrome, heavily worn and scratched
-a cloth pennant on a pole, two-tone, brand new and spotless
+a banner reading "__text_banner_festival__" __text_look_banner__ at a festival, rainbow-coloured, hand-made and slightly uneven
+a banner reading "__text_banner_festival__" __text_look_banner__ at a festival, turquoise, freshly polished
+a banner reading "__text_banner_festival__" __text_look_banner__ on a pole, blue, wet with rain
+a banner reading "__text_banner_festival__" __text_look_banner__ on a pole, chrome, heavily worn and scratched
+a banner reading "__text_banner_festival__" __text_look_banner__ on a pole, two-tone, brand new and spotless
 a barber pole, brown, wrapped in protective cover
 a barber pole, copper, rusted at the edges
 a barber pole, navy, dusty from storage
 a barber pole, teal, hand-made and slightly uneven
-a large painted panel, black, battered but working
-a large painted panel, gold, brand new and spotless
-a large painted panel, neon, covered in mud
-a large painted panel, pastel, dusty from storage
-a large painted panel, red, antique with a patina
-a bus-stop lit panel, blue, brand new and spotless
-a bus-stop lit panel, burgundy, wet with rain
-a bus-stop lit panel, grey, freshly polished
-a bus-stop lit panel, orange, wrapped in protective cover
-a bus-stop lit panel, purple, covered in mud
-a bus-stop lit panel, teal, decorated with stickers
+a billboard reading "__name_product__" __text_look_print__, black, battered but working
+a billboard reading "__name_product__" __text_look_print__, gold, brand new and spotless
+a billboard reading "__name_product__" __text_look_print__, neon, covered in mud
+a billboard reading "__name_product__" __text_look_print__, pastel, dusty from storage
+a billboard reading "__name_product__" __text_look_print__, red, antique with a patina
+a bus-stop sign reading "STOP" in white capitals on a red octagon, blue, brand new and spotless
+a bus-stop sign reading "STOP" in white capitals on a red octagon, burgundy, wet with rain
+a bus-stop sign reading "STOP" in white capitals on a red octagon, grey, freshly polished
+a bus-stop sign reading "STOP" in white capitals on a red octagon, orange, wrapped in protective cover
+a bus-stop sign reading "STOP" in white capitals on a red octagon, purple, covered in mud
+a bus-stop sign reading "STOP" in white capitals on a red octagon, teal, decorated with stickers
 a chalkboard menu, chrome, covered in frost
 a chalkboard menu, matte black, faded by sun
 a chalkboard menu, speckled, restored to showroom finish
@@ -34,17 +34,17 @@ a fabric shop flag, black, freshly polished
 a fabric shop flag, rainbow-coloured, faded by sun
 a flag on a mast, gold, covered in mud
 a flag on a mast, striped, wrapped in protective cover
-a spray-painted shapes tab, brown, brand new and spotless
-a spray-painted shapes tab, cream, hand-made and slightly uneven
-a spray-painted shapes tab, grey, wet with rain
-a spray-painted shapes tab, pink, decorated with stickers
-a spray-painted shapes tab, turquoise, dusty from storage
-a hand-painted shop lit panel, burgundy, antique with a patina
-a hand-painted shop lit panel, chrome, covered in mud
-a hand-painted shop lit panel, copper, restored to showroom finish
-a hand-painted shop lit panel, pastel, wet with rain
-a hand-painted shop lit panel, pink, freshly polished
-a hand-painted shop lit panel, two-tone, covered in frost
+a graffiti tag reading "__text_graffiti_word__" __text_look_graffiti__, brown, brand new and spotless
+a graffiti tag reading "__text_graffiti_word__" __text_look_graffiti__, cream, hand-made and slightly uneven
+a graffiti tag reading "__text_graffiti_word__" __text_look_graffiti__, grey, wet with rain
+a graffiti tag reading "__text_graffiti_word__" __text_look_graffiti__, pink, decorated with stickers
+a graffiti tag reading "__text_graffiti_word__" __text_look_graffiti__, turquoise, dusty from storage
+a hand-painted shop sign reading "__text_sign_english__" in __sign_lettering__, burgundy, antique with a patina
+a hand-painted shop sign reading "__text_sign_english__" in __sign_lettering__, chrome, covered in mud
+a hand-painted shop sign reading "__text_sign_english__" in __sign_lettering__, copper, restored to showroom finish
+a hand-painted shop sign reading "__text_sign_english__" in __sign_lettering__, pastel, wet with rain
+a hand-painted shop sign reading "__text_sign_english__" in __sign_lettering__, pink, freshly polished
+a hand-painted shop sign reading "__text_sign_english__" in __sign_lettering__, two-tone, covered in frost
 a lantern with a name, chrome, dusty from storage
 a lantern with a name, matte black, restored to showroom finish
 a lantern with a name, navy, faded by sun
@@ -53,47 +53,47 @@ a lantern with a name, pastel, antique with a patina
 a lantern with a name, pink, rusted at the edges
 a lantern with a name, purple, hand-made and slightly uneven
 a lantern with a name, teal, battered but working
-a glowing panel, grey, freshly polished
-a glowing panel, pastel, rusted at the edges
-a glowing panel, speckled, antique with a patina
-a glowing panel, white, faded by sun
-a glowing panel, yellow, dusty from storage
-a mural pattern, neon, faded by sun
-a mural pattern, purple, antique with a patina
-a neon open lit panel, purple, covered in frost
-a neon open lit panel, purple, restored to showroom finish
-a neon open lit panel, striped, heavily worn and scratched
-a neon open lit panel, white, hand-made and slightly uneven
-a no-entry lit panel, burgundy, rusted at the edges
-a no-entry lit panel, red, dusty from storage
-a no-entry lit panel, striped, hand-made and slightly uneven
-a no-entry lit panel, turquoise, faded by sun
+a menu board listing __text_menu_item__ __text_look_chalk__, grey, freshly polished
+a menu board listing __text_menu_item__ __text_look_chalk__, pastel, rusted at the edges
+a menu board listing __text_menu_item__ __text_look_chalk__, speckled, antique with a patina
+a menu board listing __text_menu_item__ __text_look_chalk__, white, faded by sun
+a menu board listing __text_menu_item__ __text_look_chalk__, yellow, dusty from storage
+a mural lettering reading "__name_merch_slogan__", neon, faded by sun
+a mural lettering reading "__name_merch_slogan__", purple, antique with a patina
+a neon open sign reading "__text_neon_sign__" __text_look_neon__, purple, covered in frost
+a neon open sign reading "__text_neon_sign__" __text_look_neon__, purple, restored to showroom finish
+a neon open sign reading "__text_neon_sign__" __text_look_neon__, striped, heavily worn and scratched
+a neon open sign reading "__text_neon_sign__" __text_look_neon__, white, hand-made and slightly uneven
+a no-entry sign reading "__text_sign_english__" in __sign_lettering__, burgundy, rusted at the edges
+a no-entry sign reading "__text_sign_english__" in __sign_lettering__, red, dusty from storage
+a no-entry sign reading "__text_sign_english__" in __sign_lettering__, striped, hand-made and slightly uneven
+a no-entry sign reading "__text_sign_english__" in __sign_lettering__, turquoise, faded by sun
 a pennant string, blue, wrapped in protective cover
 a pennant string, copper, covered in mud
 a pennant string, teal, hand-made and slightly uneven
-a pharmacy cross lit panel, blue, covered in frost
-a pharmacy cross lit panel, purple, well used with light wear
-a pharmacy cross lit panel, white, heavily worn and scratched
-a protest plain board, cream, hand-made and slightly uneven
-a protest plain board, red, faded by sun
-a protest plain board, two-tone, rusted at the edges
-a pub hanging lit panel, green, dusty from storage
-a pub hanging lit panel, navy, wet with rain
-a pub hanging lit panel, pink, well used with light wear
-a pub hanging lit panel, red, wrapped in protective cover
-a pub hanging lit panel, white, rusted at the edges
-a pub hanging lit panel, yellow, restored to showroom finish
+a pharmacy cross sign reading "__text_sign_english__" in __sign_lettering__, blue, covered in frost
+a pharmacy cross sign reading "__text_sign_english__" in __sign_lettering__, purple, well used with light wear
+a pharmacy cross sign reading "__text_sign_english__" in __sign_lettering__, white, heavily worn and scratched
+a protest placard reading "__text_banner_protest__" in thick hand-painted letters, cream, hand-made and slightly uneven
+a protest placard reading "__text_banner_protest__" in thick hand-painted letters, red, faded by sun
+a protest placard reading "__text_banner_protest__" in thick hand-painted letters, two-tone, rusted at the edges
+a pub hanging sign reading "__text_sign_english__" in __sign_lettering__, green, dusty from storage
+a pub hanging sign reading "__text_sign_english__" in __sign_lettering__, navy, wet with rain
+a pub hanging sign reading "__text_sign_english__" in __sign_lettering__, pink, well used with light wear
+a pub hanging sign reading "__text_sign_english__" in __sign_lettering__, red, wrapped in protective cover
+a pub hanging sign reading "__text_sign_english__" in __sign_lettering__, white, rusted at the edges
+a pub hanging sign reading "__text_sign_english__" in __sign_lettering__, yellow, restored to showroom finish
 a ship's nameplate, black, covered in mud
 a ship's nameplate, copper, rusted at the edges
 a ship's nameplate, matte black, decorated with stickers
 a ship's nameplate, matte black, well used with light wear
 a ship's nameplate, neon, faded by sun
-a stone engraved lit panel, black, dusty from storage
-a stone engraved lit panel, silver, brand new and spotless
-a street-name lit panel, brown, hand-made and slightly uneven
-a street-name lit panel, burgundy, covered in mud
-a street-name lit panel, chrome, freshly polished
-a street-name lit panel, green, dusty from storage
+a stone engraved sign reading "__text_sign_english__" in __sign_lettering__, black, dusty from storage
+a stone engraved sign reading "__text_sign_english__" in __sign_lettering__, silver, brand new and spotless
+a street-name sign reading "__text_sign_english__" in __sign_lettering__, brown, hand-made and slightly uneven
+a street-name sign reading "__text_sign_english__" in __sign_lettering__, burgundy, covered in mud
+a street-name sign reading "__text_sign_english__" in __sign_lettering__, chrome, freshly polished
+a street-name sign reading "__text_sign_english__" in __sign_lettering__, green, dusty from storage
 a vintage tin advertisement, black, battered but working
 a vintage tin advertisement, brown, dusty from storage
 a vintage tin advertisement, chrome, heavily worn and scratched
@@ -108,12 +108,12 @@ a window decal, black, well used with light wear
 a window decal, brown, heavily worn and scratched
 a window decal, purple, rusted at the edges
 a window decal, speckled, antique with a patina
-a wooden road lit panel, copper, covered in frost
-a wooden road lit panel, neon, heavily worn and scratched
-a wooden road lit panel, orange, covered in mud
-a wooden road lit panel, purple, rusted at the edges
-a wooden road lit panel, speckled, battered but working
-an exit lit panel, black, wrapped in protective cover
-an exit lit panel, neon, rusted at the edges
-an exit lit panel, pink, brand new and spotless
-an exit lit panel, silver, freshly polished
+a wooden road sign, copper, covered in frost
+a wooden road sign, neon, heavily worn and scratched
+a wooden road sign, orange, covered in mud
+a wooden road sign, purple, rusted at the edges
+a wooden road sign, speckled, battered but working
+an exit sign reading "__text_sign_english__" in __sign_lettering__, black, wrapped in protective cover
+an exit sign reading "__text_sign_english__" in __sign_lettering__, neon, rusted at the edges
+an exit sign reading "__text_sign_english__" in __sign_lettering__, pink, brand new and spotless
+an exit sign reading "__text_sign_english__" in __sign_lettering__, silver, freshly polished

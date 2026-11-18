@@ -121,7 +121,7 @@ an oversized navy jersey cotton crew-neck t-shirt with light-wash denim skirt un
 cozy winter sweater sipping on hot cocoa
 a cropped dusty rose floral-print thin cotton crew-neck t-shirt with mid-wash denim skirt under a charcoal grey parka and running shoes
 a little black dress and knee-high boots
-summer T-shirt with a popular band's motif
+summer T-shirt with a popular band's logo reading "__name_band__"
 a slightly yellowed white sweater dress with a camel duster coat and loafers
 an oversized electric blue ribbed-knit turtleneck with jet black chinos under a faded pink windbreaker and running shoes
 a white shirt dress and high heels
@@ -337,7 +337,7 @@ a fitted sand soft cotton crew-neck t-shirt with light-wash mom jeans
 a faded black midi dress and white sneakers
 a khaki green ribbed-knit turtleneck with powder blue chinos and loafers
 a relaxed-fit marled grey jersey cotton crew-neck t-shirt with light-wash straight-leg jeans and flat sandals
-A sleek running outfit with moisture-wicking fabric., cameltoe
+A sleek running outfit with moisture-wicking fabric.
 a white midi dress
 black turtleneck sweater, light blue jeans, and loafers. She accessorizes with a scarf and a few simple necklaces
 a relaxed-fit sage green striped cotton fleece sweatshirt with lavender paperbag trousers and platform sneakers
@@ -434,13 +434,13 @@ a faded black sundress
 a black cotton crew-neck t-shirt with faded blue cut-off denim shorts under a cream parka and white sneakers
 a fitted soft white cotton long-sleeve tee with mauve sweatpants and leather ankle boots
 veterinarian in scrubs with a pet in hand
-a folded paper sheet
+a newspaper with the headline "__text_headline__" __text_look_headline__
 a relaxed-fit crisp white striped jersey v-neck t-shirt with light-wash cut-off denim shorts and slip-on shoes
 a cropped brick red jersey cotton crew-neck t-shirt with light-wash bootcut jeans under a sky blue quilted jacket and canvas sneakers
 a jet black jersey cotton crew-neck t-shirt with white high-waisted denim shorts under a stone rain jacket and running shoes
 a tomato red striped t-shirt dress with a cream wool coat and low heels
 __clothing_outfit_color__ yoga pants, __clothing_outfit_color__ tank top, active and flexible gym wear
-a young woman exudes confidence in a classic hip-hop outfit. She wears baggy jeans with a spray-painted shapes-print crop top, a chunky gold chain necklace, and fresh white sneakers. Her hair is styled in long braids, and she accessorizes with hoop earrings and a snapback cap
+a young woman exudes confidence in a classic hip-hop outfit. She wears baggy jeans with a graffiti-print crop top, a chunky gold chain necklace, and fresh white sneakers. Her hair is styled in long braids, and she accessorizes with hoop earrings and a snapback cap
 a faded red sundress with an olive green trench coat and knee-high boots
 a tailored two-piece trouser suit with a crisp blouse
 sleek black modern ao dai with high side slits
@@ -621,7 +621,7 @@ a washed black maxi dress with a light-wash denim jacket and ballet flats
 a faded black midi dress and platform sneakers
 sustainable outfit made from recycled materials. She chooses stylish and eco-friendly pieces that make her feel confident and beautiful
 a faded white sundress and leather ankle boots
-A baseball uniform with a cap and stirrup socks., cameltoe
+A baseball uniform with a cap and stirrup socks.
 a golden yellow striped wool cable-knit sweater with cream wide-leg trousers and white sneakers
 spring sailor uniform with pastel colors
 a teal wool oversized sweater with teal pleated skirt and flip-flops
@@ -665,7 +665,7 @@ a midnight blue fleece sweatshirt with mustard yellow pleated skirt under a fade
 a relaxed-fit heather grey cotton crew-neck t-shirt with jet black joggers and flip-flops
 female barista in apron serving coffee with a smile
 a figure-hugging long dress made from sheer fabric that reveals her curves underneath, creating a sense of allure and mystery
-A sport-inspired business casual look with a polo shirt., cameltoe
+A sport-inspired business casual look with a polo shirt.
 a lavender t-shirt dress and ballet flats
 a relaxed-fit white linen button-up shirt with crisp white chinos and flip-flops
 a relaxed-fit faded blue soft cotton crew-neck t-shirt with bright white midi skirt and ballet flats
@@ -723,7 +723,7 @@ a turquoise striped wrap dress and block-heel sandals
 an oversized sky blue striped fleece hoodie with butter yellow wide-leg trousers and black sneakers
 a poised and commanding figure, standing tall with arms crossed confidently. His sleek white suit is adorned with zippers and unique patterns, and his piercing gaze conveys strength and wisdom. Dramatic shadows enhance the intensity of the scene
 a wine red midi dress and block-heel sandals
-classic Japanese sailor school uniform with a modern twist
+classic Japanese sailor school-uniform-style costume with a modern twist, worn by an adult
 a tailored two-piece trouser suit with a crisp blouse and low heels
 a deep purple polka-dot jersey v-neck t-shirt with grey mom jeans and flat sandals
 a black cotton cable-knit sweater with black high-waisted jeans and white sneakers
@@ -844,7 +844,7 @@ a relaxed-fit steel blue cotton-knit oversized sweater with mid-wash high-waiste
 a turquoise shift dress with an olive green wool coat and mules
 a relaxed-fit off-white crepe wrap top with maroon cargo pants and leather ankle boots
 a dove grey wrap dress and ballet flats
-A climbing outfit with flexible pants and a chalk bag., cameltoe
+A climbing outfit with flexible pants and a chalk bag.
 a burnt orange wool cardigan with lilac midi skirt under a navy duster coat and rain boots
 a cropped butter yellow cotton v-neck t-shirt with white joggers and slip-on shoes
 a comfortable velour tracksuit

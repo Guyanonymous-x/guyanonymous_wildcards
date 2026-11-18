@@ -39,7 +39,7 @@ a camel wool oversized sweater with light-wash straight-leg jeans and white snea
 denim overalls over a striped tee and ballet flats
 a knee-length pencil skirt suit with a silk blouse and ballet flats
 gleaming metallic temporary tattoos for a modern flair
-doctor in white lab coat with clipboard and ID patch
+doctor in white lab coat with clipboard and ID badge printed with the name "__name_person__"
 a fitted slightly yellowed white linen shirt with oatmeal chinos under a cream trench coat and white sneakers
 an oversized soft white cotton crew-neck t-shirt with dark indigo boyfriend jeans and white sneakers
 a matching grey athletic set of leggings and sports top and white running shoes
@@ -128,7 +128,7 @@ a jumpsuit and low heels
 a comfortable velour tracksuit and grey sneakers
 a relaxed-fit jet black soft cotton crew-neck t-shirt with black chinos under a cream wool coat and ballet flats
 a relaxed-fit slightly yellowed white cotton fleece hoodie with grey leggings and ballet flats
-Woman, playful expression, Usagi Tsukino, school uniform, holding carrot, Sailor Moon transformation brooch.
+Woman, playful expression, Usagi Tsukino, an adult's school-uniform-style cosplay costume, holding carrot, Sailor Moon transformation brooch.
 a slate grey sundress with a faded blue fleece jacket and flat sandals
 a relaxed-fit mustard yellow ribbed cotton long-sleeve tee with light-wash wide-leg jeans under a bright white blazer and flat sandals
 a loose black oxford cotton button-up shirt with turquoise joggers and black sneakers
@@ -197,7 +197,7 @@ a fitted burgundy textured jersey cotton crew-neck t-shirt with dark navy wide-l
 an oversized red chiffon blouse with black leggings and rain boots
 an oversized cream viscose tunic top with cream-white maxi skirt and rain boots
 a brick red maxi dress and white sneakers
-a folded paper sheet
+a newspaper with the headline "__text_headline__" __text_look_headline__
 a loose mocha chunky-knit oversized sweater with steel blue cotton shorts and flat sandals
 a relaxed-fit aqua cotton v-neck t-shirt with sage green midi skirt and running shoes
 a fitted black cotton fleece hoodie with mid-wash boyfriend jeans under a navy wool coat and running shoes
@@ -326,7 +326,7 @@ a washed black midi dress
 a charcoal grey ribbed cotton tank top with sage green cargo pants and rain boots
 a relaxed-fit aqua soft cotton crew-neck t-shirt with petrol blue chinos and white sneakers
 a loose marled grey soft cotton crew-neck t-shirt with dark indigo high-waisted jeans under an aqua puffer jacket and flat sandals
-a polished black suit with a white shirt, a neatly tied cravat, golden name tab, and elegant gloves, exuding refinement and attentiveness
+a polished black suit with a white shirt, a neatly tied cravat, golden name tag reading "__name_first__", and elegant gloves, exuding refinement and attentiveness
 a navy tracksuit with white stripes
 a fitted chocolate brown cotton crew-neck t-shirt with washed black chinos and running shoes
 a jet black crepe wrap top with light-wash straight-leg jeans and flat sandals
@@ -336,7 +336,7 @@ a fitted stone soft cotton graphic tee with a small print with dark navy legging
 a loose oatmeal cotton tank top with marled grey mini skirt and leather ankle boots
 a relaxed-fit sage green soft cotton graphic tee with a small print with black leggings and leather ankle boots
 a washed black striped midi dress and ballet flats
-A sleek running outfit with moisture-wicking fabric., cameltoe
+A sleek running outfit with moisture-wicking fabric.
 a relaxed-fit cobalt blue crepe blouse with dark indigo straight-leg jeans and black sneakers
 a faded red sundress
 a matching grey athletic set of leggings and sports top
@@ -357,7 +357,7 @@ a charcoal grey waffle-knit cotton henley top with mint green wide-leg trousers
 oversized black hoodie, ripped light blue jeans, and platform sneakers. She accessorizes with a baseball cap, a few rings, and a choker necklace
 a fitted black chambray button-up shirt with red maxi skirt and sports sandals
 a dark navy fleece hoodie with faded blue cut-off denim shorts and loafers
-trendy pop culture bomber jacket with patches and patches
+trendy pop culture bomber jacket with patches and badges
 a relaxed-fit slightly yellowed white striped cotton long-sleeve tee with dark navy leggings and loafers
 a fitted sleeveless gym top with black training tights and black training shoes
 a charcoal grey plaid slip dress and flat sandals
@@ -428,7 +428,7 @@ an oversized soft white chunky-knit sweater with lavender joggers under a red ca
 a relaxed-fit lilac satin blouse with cobalt blue pleated skirt and loafers
 a relaxed-fit black cotton fleece sweatshirt with dark indigo high-waisted jeans and running shoes
 a relaxed-fit white cotton crew-neck t-shirt with off-white cargo pants and ballet flats
-classic school uniform with a twist
+classic school-uniform-style costume with a twist, worn by an adult
 an oversized mustard yellow fleece sweatshirt with jet black wide-leg trousers
 home-made clothing
 a faded black cotton crop top with mid-wash mom jeans and loafers

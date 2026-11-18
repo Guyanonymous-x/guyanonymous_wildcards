@@ -1,0 +1,2 @@
+Guyanonymous' Wildcards v110 - location text rewrite, heat shimmer, awkward family photos, bad snapshots, taxidermy, mounted heads, trophies, breakdancing, infrared and UV styles, ways of seeing people, glasses prescriptions, zombies, vampires, werewolves, fae, fairies, maps
+Prompts  afp_prompt, snap_prompt, ob_taxidermy_prompt, ob_mounted_head_prompt, ob_trophy_prompt, adv_breakdance_prompt, irstyle_prompt, seeing_prompt, acc_glasses_rx_prompt, myth_any_prompt, map_any_prompt

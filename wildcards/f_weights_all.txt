@@ -6,7 +6,7 @@ overweight with a rounded belly, a fuller face, a thicker waist, and thicker arm
 very underweight with a very thin, frail frame, stooped posture, thin arms and legs, and loose, wrinkled skin.
 average weight with a balanced, proportionate build, moderate muscle tone, and an even waist and hips.
 obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, and fatty lumps on the trunk, upper arms and thighs.
-average weight with a typical build and no obvious lit panels.
+average weight with a typical build and no obvious signs reading "__text_sign_english__" in __sign_lettering__.
 extremely underweight with a gaunt, thin frame, sunken cheeks, thin limbs, and a hollow look.
 obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, extra facial and body hair, and acne.
 lean with a slim, slender build, a narrow waist, and little body fat.
@@ -90,7 +90,7 @@ very obese with a heavy face, neck and trunk, very thin arms and legs, and promi
 obese with a large rounded belly, a full face with a double chin, wide hips, and thick arms and thighs, puffy swollen legs and ankles, a bloated belly, and a puffy face.
 very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, a heavy trunk, squinting light-sensitive eyes, and velvety skin patches, darker than the surrounding skin on the neck.
 lean with a slim, long-limbed build, long fingers, and a narrow face.
-lean with a slim build and no obvious lit panels.
+lean with a slim build and no obvious signs reading "__text_sign_english__" in __sign_lettering__.
 very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, narrow shoulders, wider hips, and sparse facial and body hair.
 very obese with a very large rounded belly, a full face with a double chin, a thick neck, heavy arms and thighs, and visible skin folds, one or both legs greatly swollen with thick, tight skin.
 very underweight with a very thin frame, bulging eyes, a visible swelling at the neck, and thin limbs.

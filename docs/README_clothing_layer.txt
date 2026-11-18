@@ -1,7 +1,7 @@
 NOTE: file names in this README are the women's base names; in the combined folder they carry an f_ prefix (men: m_). See FILE_NAMING.txt.
 CLOTHING LAYER v1  (+ outfit lists, 630 cosplay costumes, random clothing mix)
 
-1. OUTFIT ATTRIBUTE LISTS (outfit_color, _material, _pattern, _casual_top, _casual_bottom, _dress_style, _uniform_type, _sexy_top, _sexy_bottom, _sexy_full, _see_through, _lingerie)
+1. OUTFIT ATTRIBUTE LISTS (clothing_outfit_color, _material, _pattern, _casual_top, _casual_bottom, _dress_style, _uniform_type, _sexy_top, _sexy_bottom, _sexy_full, _see_through, _lingerie)
    The files your clothing_full_female.txt expected were not in any of the zips you uploaded (all three uploads are byte-identical: same MD5, 144 files, no outfit/ folder),
    so they are populated from YOUR OWN vocabulary: _tools/data/outfit_vocab.json was mined from the 2,600 outfit lines in clothing_full_female.txt (colour / material / pattern word
    frequencies, garment and uniform phrases with colours, patterns and filler adjectives stripped, sheer outfits copied from your own lines) plus supplements for coverage.

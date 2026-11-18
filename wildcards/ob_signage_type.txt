@@ -1,7 +1,7 @@
-a hanging wayfinding lit panel
-a wall-mounted directional lit panel
-an illuminated exit lit panel
-a floor-marking lit panel
-a door plate lit panel
+a hanging wayfinding sign reading "__text_sign_english__" in __sign_lettering__
+a wall-mounted directional sign reading "__text_sign_english__" in __sign_lettering__
+an illuminated exit sign reading "__text_sign_english__" in __sign_lettering__
+a floor-marking sign reading "__text_sign_english__" in __sign_lettering__
+a door plate sign reading "__text_sign_english__" in __sign_lettering__
 a freestanding A-board
 a sign on a post

@@ -1,0 +1,35 @@
+Guyanonymous' Wildcards - gap assessment (v36)
+
+How I measured: file counts per area in the current set, spot checks of the thin areas, and a comparison against what people actually wear, carry, use and live among.
+
+1. The set is clothing-heavy and scene-light
+- Accessories 2,651 files, clothing systems (garment, uniform, onesie, period) about 2,700, world 669, body type 324, illustration 217.
+- Objects only 8 files (obj_), environment 5, pose 6, camera 4, lighting 5 (these are 400-2,500 lines each but the categories are broad buckets, not specific subject areas).
+- Result: people and clothing are described in great depth, but what surrounds them (vehicles, food, animals, plants, instruments, tools, buildings) is described in a few huge undifferentiated lists.
+
+2. Highest-priority gaps (common, important, missing)
+A. Health, disability and assistive items (an identity-led set should have these as ordinary, positive details): hearing aids (behind-the-ear, in-ear, bone-anchored), cochlear implant processors, wheelchairs (manual, power, sports), walkers and rollators, crutches, canes (only a plain cane category exists), white canes, prosthetic limbs and blades, orthopaedic braces and splints, compression garments, oxygen tubing and portable concentrators, CPAP masks, insulin pumps and glucose sensors, ostomy and catheter supplies, medical-alert bracelets, service-animal harnesses, adaptive clothing (magnetic closures, seated-cut trousers, wheelchair capes, easy-dress tops), communication boards.
+B. Makeup and body presentation: makeup (lips, eyes, brows, lashes, blush, contour, foundation tones), nail art (only hand_nails exists), face and body paint, special-effects makeup, piercings (ear, facial, body; there are earrings but no piercing placements), body modification, henna and other temporary body art, scarification, stretch marks, scars, birthmarks and vitiligo (skin has only 8 files), body hair variety.
+C. Eyewear: only a few glasses files. Needs frames by shape and era, sunglasses, safety goggles, ski and swim goggles, monocles, pince-nez, reading glasses on chains, lens tints, contact lenses (coloured and sclera).
+D. Pregnancy, postpartum and body-change states: maternity wear, belly shapes and stages, nursing wear, post-surgical garments, post-mastectomy and chest-surgery bras and compression wear, binders and gender-affirming clothing and prosthetics (language kept identity-led).
+E. Furry and mascot culture: fursuit heads and full suits, tails, ears, partial suits, paw gloves and feet, animal-ear headbands, pup and kitten hoods; and general character costume: cosplay of original characters, LARP, Renaissance-faire, historical reenactment, sci-fi and fantasy costume, drag, burlesque (partly covered) and stage costume.
+F. Objects and surroundings by subject (these should be separate files, not one bucket): vehicles (cars by era and body style, motorbikes, bicycles, scooters, boats, aircraft, trains, buses, trams, carts and carriages), food and drink (meals by cuisine, street food, drinks, desserts, tableware), animals (pets, farm, wild, birds, sea life), plants and flowers, musical instruments (every family), tools and workshop gear, sports equipment, kitchen equipment, technology (phones, laptops, consoles, cameras, headphones), toys and games, books and stationery, signage and posters.
+G. Architecture, interiors and landscapes: buildings by region and era, room styles by era and culture, furniture by period and region, landscapes and biomes, weather and seasons in specific settings, cityscapes, markets and festivals.
+H. Poses and interactions: pose files are broad. Needed: activity poses (sports, dance, yoga, martial arts, work tasks), group interactions, contact poses (hugging, carrying, dancing together, helping up), poses with objects and animals, seated and wheelchair poses, sign-language and gesture sets.
+
+3. Clothing areas that are thin relative to the real world
+- Cold-weather and outdoor gear: parkas, ski suits, snowsuits, hiking gear, waterproofs, climbing kit, hunting and fishing clothes (some in uniform, but not as general wear).
+- Formal and ceremonial: wedding wear of many cultures (a few), graduation regalia, court dress, religious vestments by tradition, funeral and mourning dress, pageant and prom-style formal wear for adults.
+- Everyday wear by region: world_ has 669 files but a systematic audit by country and by garment (sari, kimono, hanbok, dashiki and kente, huipil, kilt, shalwar, ao dai, boubou and many more) is needed.
+- Adaptive, plus-size, petite and tall clothing; workwear PPE (hi-vis, hard hats, respirators, harnesses); sportswear by sport (partly in uniform).
+- Legwear: tights and socks are covered; trousers, skirts and shorts by cut are described mostly as names, not full descriptions.
+- Fully described garments (front, back, covered, uncovered, cut, fabric, trim) exist only for the shop sections and swimwear; the other families (about 440 garment files) are names with materials. Extending the full-description format across more families would raise quality everywhere.
+
+4. Quality issues in what exists
+- Several systems classify by keyword (sleeves, headwear, costume, swimwear detail). They work for most rows but misfire on odd names; a manual review pass of the top 200 misfires would help.
+- Many names come from combining a type list with material and feature lists, so some combinations are odd (a suit in an unlikely fabric). Weighting by plausibility would improve them.
+- Uneven depth: 261 shoe files against 74 files each for many accessory kinds; 56 for rings and canes. Rings, glasses, bags, belts and hats deserve the larger treatment.
+- The older person-level files (age and body) are strong; the newer content sits beside them rather than inside them, so wardrobe prompts for a person often don't draw from the newest clothing sections. A pass to link the new sections into the person prompts would pay off.
+
+5. Suggested order for the next rounds
+1) Health and assistive items, plus adaptive clothing (A) 2) Makeup, nails, piercings and skin variety (B, C) 3) Furry, cosplay, LARP and character costume (E) 4) Subject-specific object files: vehicles, food, animals, instruments, tools, tech (F) 5) Architecture, interiors and landscapes (G) 6) Poses and interactions (H) 7) Maternity and body-change wear (D) 8) Cold-weather, formal and regional dress audit (3) 9) Quality passes (4).

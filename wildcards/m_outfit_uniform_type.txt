@@ -16,7 +16,7 @@ formal blacksmith apron outfit
 honour guard uniform with polished buttons
 formal lab technician coat
 summer-weight military dress uniform
-lifeguard uniform with patches
+lifeguard uniform with badges
 hospital scrubs
 baker's whites with polished buttons
 utilitarian track and field kit
@@ -73,17 +73,17 @@ winter-weight swimming team kit
 standard-issue martial arts gi
 worn drummer's parade uniform
 martial arts gi
-ski patrol uniform with patches
+ski patrol uniform with badges
 lab coat
 crisp stagehand blacks
-baker's whites with patches
+baker's whites with badges
 summer-weight customs officer uniform
 practical football kit
 modern hotel bellhop uniform with braided trim
 winter-weight plumber's overalls
-rowing kit with patches
+rowing kit with badges
 waiter's vest and bow tie with rank insignia
-utilitarian ski patrol uniform with patches
+utilitarian ski patrol uniform with badges
 winter-weight monk's habit
 regulation chef's whites with braided trim
 janitor's uniform with a lanyard
@@ -100,7 +100,7 @@ modern farmer's overalls with polished buttons
 standard-issue track and field kit
 delivery driver uniform
 standard-issue warehouse worker vest
-butler's tailcoat with patches
+butler's tailcoat with badges
 honour guard uniform with a name tape reading "__name_surname__"
 ceremonial guard uniform with shoulder patches
 worn boxing kit
@@ -121,7 +121,7 @@ ceremonial veterinarian smock with a matching cap
 orchestra conductor's tails with shoulder patches
 ship's captain uniform with a name tape reading "__name_surname__"
 formal oil rig worker coveralls
-airline pilot uniform with patches
+airline pilot uniform with badges
 practical priest's cassock
 formal film crew outfit
 standard-issue army fatigues
@@ -173,7 +173,7 @@ vintage airline pilot uniform
 cavalry dress uniform with a lanyard
 vintage triathlon suit
 vintage rowing kit
-standard-issue field medic uniform with patches
+standard-issue field medic uniform with badges
 bus driver uniform with a matching cap
 utilitarian paramedic uniform
 tank crew overalls with reflective strips
@@ -215,13 +215,13 @@ coast guard uniform with braided trim
 border guard uniform with reflective strips
 carpenter's apron outfit with a lanyard
 winter-weight academic robes
-theatre usher uniform with patches
+theatre usher uniform with badges
 winter-weight waiter's vest and bow tie with a matching cap
 formal kendo hakama
 rugby kit with a lanyard
 summer-weight fisherman's oilskins
 regulation tank crew overalls
-football kit with patches
+football kit with badges
 worn janitor's uniform
 janitor's uniform with epaulettes
 practical miner's overalls
@@ -260,7 +260,7 @@ veterinarian smock with a lanyard
 neat steward uniform
 farmer's overalls with a neat tie
 practical butcher's apron outfit with braided trim
-postal worker uniform with patches
+postal worker uniform with badges
 ice hockey kit with a name tape reading "__name_surname__"
 modern delivery driver uniform with a lanyard
 airline pilot uniform with a name tape reading "__name_surname__"
@@ -314,14 +314,14 @@ formal circus ringmaster outfit
 utilitarian deckhand outfit with rank insignia
 worn ticket inspector uniform
 standard-issue sumo mawashi-style wrap with braided trim
-winter-weight forest ranger uniform with patches
+winter-weight forest ranger uniform with badges
 ceremonial airline pilot uniform with a neat tie
 ceremonial courier outfit
 fencing whites
 flight attendant uniform
 fencing whites with a lanyard
 neat space agency polo and jumpsuit with a matching cap
-tailored police uniform with patches
+tailored police uniform with badges
 delivery driver uniform with a neat tie
 standard-issue doorman's greatcoat
 football kit with a name tape reading "__name_surname__"

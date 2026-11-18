@@ -16,8 +16,8 @@ a beautifully finished hennin, made of __acc_hat_mat_hist_fine__. It is a tall c
 a beautifully finished hennin, made of __acc_hat_mat_hist_fine__. It is a tall conical headdress with a trailing veil, in medieval style. __acc_hat_trim_fine__
 a beautifully finished jaapi, made of __acc_hat_mat_hist_fine__. It is a woven bamboo conical hat with a decorated cloth.
 a beautifully finished jaapi, made of __acc_hat_mat_hist_fine__. It is a woven bamboo conical hat with a decorated cloth. __acc_hat_trim_fine__
-a beautifully finished papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat.
-a beautifully finished papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_fine__
+a beautifully finished papakha
+a beautifully finished papakha
 a beautifully finished peach-basket hat, made of __acc_hat_mat_hist_fine__. It is an upturned basket shape lavishly trimmed with flowers.
 a beautifully finished peach-basket hat, made of __acc_hat_mat_hist_fine__. It is an upturned basket shape lavishly trimmed with flowers. __acc_hat_trim_fine__
 a beautifully finished poke bonnet, made of __acc_hat_mat_hist_fine__. It is a bonnet with a small crown and a deep rounded front brim.
@@ -168,8 +168,8 @@ a distinguished fez, made of __acc_hat_mat_hist_fine__. It is a red felt truncat
 a distinguished fez, made of __acc_hat_mat_hist_fine__. It is a red felt truncated cone with a tassel. __acc_hat_trim_fine__
 a distinguished kepi, made of __acc_hat_mat_hist_fine__. It is a flat-topped cap with a stiff visor.
 a distinguished kepi, made of __acc_hat_mat_hist_fine__. It is a flat-topped cap with a stiff visor. __acc_hat_trim_fine__
-a distinguished papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat.
-a distinguished papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_fine__
+a distinguished papakha
+a distinguished papakha
 a distinguished poke bonnet, made of __acc_hat_mat_hist_fine__. It is a bonnet with a small crown and a deep rounded front brim.
 a distinguished poke bonnet, made of __acc_hat_mat_hist_fine__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_fine__
 a distinguished sou'wester, made of __acc_hat_mat_hist_fine__. It is a brimmed oilskin rain hat, longer at the back.
@@ -218,8 +218,8 @@ a graceful mobcap, made of __acc_hat_mat_hist_fine__. It is a gathered, ruffled 
 a graceful mobcap, made of __acc_hat_mat_hist_fine__. It is a gathered, ruffled indoor bonnet. __acc_hat_trim_fine__
 a graceful mortarboard, made of __acc_hat_mat_hist_fine__. It is a flat square board on a skullcap with a tassel.
 a graceful mortarboard, made of __acc_hat_mat_hist_fine__. It is a flat square board on a skullcap with a tassel. __acc_hat_trim_fine__
-a graceful papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat.
-a graceful papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_fine__
+a graceful papakha
+a graceful papakha
 a graceful pillbox with a veil, made of __acc_hat_mat_hist_fine__. It is a small flat-topped drum with a net veil.
 a graceful pillbox with a veil, made of __acc_hat_mat_hist_fine__. It is a small flat-topped drum with a net veil. __acc_hat_trim_fine__
 a graceful pith helmet, made of __acc_hat_mat_hist_fine__. It is a domed, cork-like sun helmet with a puggaree band.
@@ -258,8 +258,8 @@ a gracefully detailed jaapi, made of __acc_hat_mat_hist_fine__. It is a woven ba
 a gracefully detailed jaapi, made of __acc_hat_mat_hist_fine__. It is a woven bamboo conical hat with a decorated cloth. __acc_hat_trim_fine__
 a gracefully detailed montera, made of __acc_hat_mat_hist_fine__. It is a black two-lobed cap with ears, worn by bullfighters.
 a gracefully detailed montera, made of __acc_hat_mat_hist_fine__. It is a black two-lobed cap with ears, worn by bullfighters. __acc_hat_trim_fine__
-a gracefully detailed papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat.
-a gracefully detailed papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_fine__
+a gracefully detailed papakha
+a gracefully detailed papakha
 a gracefully detailed songkok, made of __acc_hat_mat_hist_fine__. It is a rigid velvet cap with a flat top.
 a gracefully detailed songkok, made of __acc_hat_mat_hist_fine__. It is a rigid velvet cap with a flat top. __acc_hat_trim_fine__
 a gracefully detailed turban, made of __acc_hat_mat_hist_fine__. It is a long cloth wound around the head in neat folds.
@@ -400,8 +400,8 @@ a polished jaapi, made of __acc_hat_mat_hist_fine__. It is a woven bamboo conica
 a polished jaapi, made of __acc_hat_mat_hist_fine__. It is a woven bamboo conical hat with a decorated cloth. __acc_hat_trim_fine__
 a polished pillbox with a veil, made of __acc_hat_mat_hist_fine__. It is a small flat-topped drum with a net veil.
 a polished pillbox with a veil, made of __acc_hat_mat_hist_fine__. It is a small flat-topped drum with a net veil. __acc_hat_trim_fine__
-a polished shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch.
-a polished shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_fine__
+a polished shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge.
+a polished shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_fine__
 a polished shtreimel-style fur hat, made of __acc_hat_mat_hist_fine__. It is a wide, round, fur-trimmed velvet hat.
 a polished shtreimel-style fur hat, made of __acc_hat_mat_hist_fine__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_fine__
 a polished snood, made of __acc_hat_mat_hist_fine__. It is a net bag that holds the hair at the back.
@@ -470,8 +470,8 @@ a refined jaapi, made of __acc_hat_mat_hist_fine__. It is a woven bamboo conical
 a refined jaapi, made of __acc_hat_mat_hist_fine__. It is a woven bamboo conical hat with a decorated cloth. __acc_hat_trim_fine__
 a refined kalpak, made of __acc_hat_mat_hist_fine__. It is a conical lambskin hat.
 a refined kalpak, made of __acc_hat_mat_hist_fine__. It is a conical lambskin hat. __acc_hat_trim_fine__
-a refined shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch.
-a refined shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_fine__
+a refined shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge.
+a refined shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_fine__
 a refined shtreimel-style fur hat, made of __acc_hat_mat_hist_fine__. It is a wide, round, fur-trimmed velvet hat.
 a refined shtreimel-style fur hat, made of __acc_hat_mat_hist_fine__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_fine__
 a refined smoking cap, made of __acc_hat_mat_hist_fine__. It is a small tasselled cap embroidered with a pattern.
@@ -570,12 +570,12 @@ a stylish humao, made of __acc_hat_mat_hist_fine__. It is a riding hat with fur 
 a stylish humao, made of __acc_hat_mat_hist_fine__. It is a riding hat with fur trim and ear flaps. __acc_hat_trim_fine__
 a stylish kepi, made of __acc_hat_mat_hist_fine__. It is a flat-topped cap with a stiff visor.
 a stylish kepi, made of __acc_hat_mat_hist_fine__. It is a flat-topped cap with a stiff visor. __acc_hat_trim_fine__
-a stylish papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat.
-a stylish papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_fine__
+a stylish papakha
+a stylish papakha
 a stylish peach-basket hat, made of __acc_hat_mat_hist_fine__. It is an upturned basket shape lavishly trimmed with flowers.
 a stylish peach-basket hat, made of __acc_hat_mat_hist_fine__. It is an upturned basket shape lavishly trimmed with flowers. __acc_hat_trim_fine__
-a stylish shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch.
-a stylish shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_fine__
+a stylish shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge.
+a stylish shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_fine__
 a stylish shtreimel-style fur hat, made of __acc_hat_mat_hist_fine__. It is a wide, round, fur-trimmed velvet hat.
 a stylish shtreimel-style fur hat, made of __acc_hat_mat_hist_fine__. It is a wide, round, fur-trimmed velvet hat. __acc_hat_trim_fine__
 a stylish sombrero cordobés, made of __acc_hat_mat_hist_fine__. It is a flat-crowned hat with a flat brim in Andalusian style.
@@ -634,8 +634,8 @@ a superior hennin, made of __acc_hat_mat_hist_fine__. It is a tall conical headd
 a superior hennin, made of __acc_hat_mat_hist_fine__. It is a tall conical headdress with a trailing veil, in medieval style. __acc_hat_trim_fine__
 a superior kofia, made of __acc_hat_mat_hist_fine__. It is a flat-topped cylindrical embroidered cap.
 a superior kofia, made of __acc_hat_mat_hist_fine__. It is a flat-topped cylindrical embroidered cap. __acc_hat_trim_fine__
-a superior shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch.
-a superior shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_fine__
+a superior shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge.
+a superior shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_fine__
 a superior turban, made of __acc_hat_mat_hist_fine__. It is a long cloth wound around the head in neat folds.
 a superior turban, made of __acc_hat_mat_hist_fine__. It is a long cloth wound around the head in neat folds. __acc_hat_trim_fine__
 a tailored Balmoral bonnet, made of __acc_hat_mat_hist_fine__. It is a flat soft round cap with a pom-pom and ribbon.
@@ -660,8 +660,8 @@ a tailored gat hat, made of __acc_hat_mat_hist_fine__. It is a horsehair brimmed
 a tailored gat hat, made of __acc_hat_mat_hist_fine__. It is a horsehair brimmed hat with a tall crown. __acc_hat_trim_fine__
 a tailored montera, made of __acc_hat_mat_hist_fine__. It is a black two-lobed cap with ears, worn by bullfighters.
 a tailored montera, made of __acc_hat_mat_hist_fine__. It is a black two-lobed cap with ears, worn by bullfighters. __acc_hat_trim_fine__
-a tailored papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat.
-a tailored papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_fine__
+a tailored papakha
+a tailored papakha
 a tailored pillbox with a veil, made of __acc_hat_mat_hist_fine__. It is a small flat-topped drum with a net veil.
 a tailored pillbox with a veil, made of __acc_hat_mat_hist_fine__. It is a small flat-topped drum with a net veil. __acc_hat_trim_fine__
 a tailored pith helmet, made of __acc_hat_mat_hist_fine__. It is a domed, cork-like sun helmet with a puggaree band.
@@ -682,8 +682,8 @@ a thoughtfully finished bycocket, made of __acc_hat_mat_hist_fine__. It is a bea
 a thoughtfully finished bycocket, made of __acc_hat_mat_hist_fine__. It is a beaked hat with an upturned back and a feather. __acc_hat_trim_fine__
 a thoughtfully finished montera, made of __acc_hat_mat_hist_fine__. It is a black two-lobed cap with ears, worn by bullfighters.
 a thoughtfully finished montera, made of __acc_hat_mat_hist_fine__. It is a black two-lobed cap with ears, worn by bullfighters. __acc_hat_trim_fine__
-a thoughtfully finished papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat.
-a thoughtfully finished papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_fine__
+a thoughtfully finished papakha
+a thoughtfully finished papakha
 a thoughtfully finished pillbox with a veil, made of __acc_hat_mat_hist_fine__. It is a small flat-topped drum with a net veil.
 a thoughtfully finished pillbox with a veil, made of __acc_hat_mat_hist_fine__. It is a small flat-topped drum with a net veil. __acc_hat_trim_fine__
 a thoughtfully finished smoking cap, made of __acc_hat_mat_hist_fine__. It is a small tasselled cap embroidered with a pattern.
@@ -808,8 +808,8 @@ an assured mortarboard, made of __acc_hat_mat_hist_fine__. It is a flat square b
 an assured mortarboard, made of __acc_hat_mat_hist_fine__. It is a flat square board on a skullcap with a tassel. __acc_hat_trim_fine__
 an assured poke bonnet, made of __acc_hat_mat_hist_fine__. It is a bonnet with a small crown and a deep rounded front brim.
 an assured poke bonnet, made of __acc_hat_mat_hist_fine__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_fine__
-an assured shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch.
-an assured shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_fine__
+an assured shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge.
+an assured shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_fine__
 an assured sombrero cordobés, made of __acc_hat_mat_hist_fine__. It is a flat-crowned hat with a flat brim in Andalusian style.
 an assured sombrero cordobés, made of __acc_hat_mat_hist_fine__. It is a flat-crowned hat with a flat brim in Andalusian style. __acc_hat_trim_fine__
 an assured songkok, made of __acc_hat_mat_hist_fine__. It is a rigid velvet cap with a flat top.
@@ -842,8 +842,8 @@ an elegant fascinator, made of __acc_hat_mat_hist_fine__. It is a small headpiec
 an elegant fascinator, made of __acc_hat_mat_hist_fine__. It is a small headpiece of feathers, flowers and netting on a band. __acc_hat_trim_fine__
 an elegant kepi, made of __acc_hat_mat_hist_fine__. It is a flat-topped cap with a stiff visor.
 an elegant kepi, made of __acc_hat_mat_hist_fine__. It is a flat-topped cap with a stiff visor. __acc_hat_trim_fine__
-an elegant papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat.
-an elegant papakha, made of __acc_hat_mat_hist_fine__. It is a tall, shaggy sheepskin hat. __acc_hat_trim_fine__
+an elegant papakha
+an elegant papakha
 an elegant printer's paper hat, made of __acc_hat_mat_hist_fine__. It is a folded newsprint hat with a point.
 an elegant printer's paper hat, made of __acc_hat_mat_hist_fine__. It is a folded newsprint hat with a point. __acc_hat_trim_fine__
 an elegant tam o' shanter, made of __acc_hat_mat_hist_fine__. It is a wide flat wool beret with a pom-pom.
@@ -938,8 +938,8 @@ an exquisitely proportioned pith helmet, made of __acc_hat_mat_hist_fine__. It i
 an exquisitely proportioned pith helmet, made of __acc_hat_mat_hist_fine__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_fine__
 an exquisitely proportioned poke bonnet, made of __acc_hat_mat_hist_fine__. It is a bonnet with a small crown and a deep rounded front brim.
 an exquisitely proportioned poke bonnet, made of __acc_hat_mat_hist_fine__. It is a bonnet with a small crown and a deep rounded front brim. __acc_hat_trim_fine__
-an exquisitely proportioned shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch.
-an exquisitely proportioned shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_fine__
+an exquisitely proportioned shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge.
+an exquisitely proportioned shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_fine__
 an exquisitely proportioned snood, made of __acc_hat_mat_hist_fine__. It is a net bag that holds the hair at the back.
 an exquisitely proportioned snood, made of __acc_hat_mat_hist_fine__. It is a net bag that holds the hair at the back. __acc_hat_trim_fine__
 an exquisitely proportioned songkok, made of __acc_hat_mat_hist_fine__. It is a rigid velvet cap with a flat top.
@@ -970,8 +970,8 @@ an immaculate kalpak, made of __acc_hat_mat_hist_fine__. It is a conical lambski
 an immaculate kalpak, made of __acc_hat_mat_hist_fine__. It is a conical lambskin hat. __acc_hat_trim_fine__
 an immaculate pith helmet, made of __acc_hat_mat_hist_fine__. It is a domed, cork-like sun helmet with a puggaree band.
 an immaculate pith helmet, made of __acc_hat_mat_hist_fine__. It is a domed, cork-like sun helmet with a puggaree band. __acc_hat_trim_fine__
-an immaculate shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch.
-an immaculate shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_fine__
+an immaculate shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge.
+an immaculate shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_fine__
 an immaculate sombrero, made of __acc_hat_mat_hist_fine__. It is a tall crown on a huge saucer-shaped brim, trimmed with embroidery.
 an immaculate sombrero, made of __acc_hat_mat_hist_fine__. It is a tall crown on a huge saucer-shaped brim, trimmed with embroidery. __acc_hat_trim_fine__
 an immaculate sou'wester, made of __acc_hat_mat_hist_fine__. It is a brimmed oilskin rain hat, longer at the back.
@@ -996,8 +996,8 @@ an impeccable kofia, made of __acc_hat_mat_hist_fine__. It is a flat-topped cyli
 an impeccable kofia, made of __acc_hat_mat_hist_fine__. It is a flat-topped cylindrical embroidered cap. __acc_hat_trim_fine__
 an impeccable mobcap, made of __acc_hat_mat_hist_fine__. It is a gathered, ruffled indoor bonnet.
 an impeccable mobcap, made of __acc_hat_mat_hist_fine__. It is a gathered, ruffled indoor bonnet. __acc_hat_trim_fine__
-an impeccable shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch.
-an impeccable shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a patch. __acc_hat_trim_fine__
+an impeccable shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge.
+an impeccable shako, made of __acc_hat_mat_hist_fine__. It is a tall cylindrical military cap with a plume and a badge. __acc_hat_trim_fine__
 an impeccable snood, made of __acc_hat_mat_hist_fine__. It is a net bag that holds the hair at the back.
 an impeccable snood, made of __acc_hat_mat_hist_fine__. It is a net bag that holds the hair at the back. __acc_hat_trim_fine__
 an impeccable sombrero cordobés, made of __acc_hat_mat_hist_fine__. It is a flat-crowned hat with a flat brim in Andalusian style.

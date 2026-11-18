@@ -64,7 +64,7 @@ looking over a shoulder
 looking straight up at the sky
 looking down at the ground
 glancing at a watch
-reading a folded paper sheet while walking
+reading a newspaper with the headline "__text_headline__" __text_look_headline__ while walking
 reading a letter with a frown
 talking on a phone with a hand over the other ear
 holding an umbrella against slanting rain
@@ -116,10 +116,10 @@ hands clasped in prayer
 arms raised in worship
 hands cupped around water
 holding a photograph of someone
-holding up a lit panel
+holding up a sign reading "__text_sign_english__" in __sign_lettering__
 clutching a purse to the chest
 holding a key toward a door
-hiding behind a folded paper sheet
+hiding behind a newspaper with the headline "__text_headline__" __text_look_headline__
 pressing a face to a window
 touching a reflection
 tracing letters on a fogged window

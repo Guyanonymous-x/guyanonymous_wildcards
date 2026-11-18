@@ -16,8 +16,8 @@ VERSION 3 CHANGES
 5. DEMOGRAPHIC GROUPS  (demo_build.py)  demo_prompt_master (population-weighted), demo_prompt_master_balanced (every combination equally), demo_prompt_master_<identity>,
    demo_<identity>_<orientation> (e.g. demo_trans_woman_homosexual, demo_cis_man_asexual, demo_intersex_person_pansexual), demo_body_<identity> (body wording), demo_ctx_<pronoun>_<partner> (neutral context cues),
    demo_anat_<identity> (clinical anatomy, adults only, referenced by NO default prompt). Orientation is stated in text and hinted only with neutral cues (a ring, a photograph); there are no appearance stereotypes.
-   Identities: cis_man cis_woman trans_man trans_woman trans_man_nonop trans_woman_nonop halfway_mtf halfway_ftm halted_mtf halted_ftm androgynous nonbinary intersex_man intersex_woman intersex_person.
-   The base character comes from the existing f_/m_ age masters, so a person who is androgynous or midway in transition may carry "she"/"he" wording from that base; the demo_body lines use neutral "This person has ..." there.
+   Identities: cis_man cis_woman trans_man trans_woman trans_man_own_path trans_woman_own_path gradual_fem gradual_masc individualized_fem individualized_masc androgynous nonbinary intersex_man intersex_woman intersex_person.
+   The base character comes from the existing f_/m_ age masters, so a person who is androgynous or on a gradual transition may carry "she"/"he" wording from that base; the demo_body lines use neutral "This person has ..." there.
 6. ACCESSORIES / AIDS / SETTINGS / POSES BY AGE AND BODY TYPE  (access_build.py, clothing_build.py)
    The per-age, per-body-type master prompts (age..._prompt_master_<arch>) now use age..._aids_<arch>, age..._prompt_setting_<arch>, age..._prompt_pose_expression_<arch> and age..._acc_hats/jewelry/props.
 7. VIEWER  _tools/prompt_viewer.html  - open in a browser, click "Load wildcards folder", type a start file name (e.g. f_prompt_master_by_age), press Generate. Both panes have the same height and scroll.

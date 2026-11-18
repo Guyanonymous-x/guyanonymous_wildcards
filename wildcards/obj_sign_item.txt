@@ -1,29 +1,29 @@
-a hand-painted shop lit panel
-a neon open lit panel
-a wooden road lit panel
+a hand-painted shop sign reading "__text_sign_english__" in __sign_lettering__
+a neon open sign reading "__text_neon_sign__" __text_look_neon__
+a wooden road sign
 a vintage tin advertisement
 a cinema marquee
 a chalkboard menu
-a street-name lit panel
-a large painted panel
-a cloth pennant on a pole
-a stone engraved lit panel
+a street-name sign reading "__text_sign_english__" in __sign_lettering__
+a billboard reading "__name_product__" __text_look_print__
+a banner reading "__text_banner_festival__" __text_look_banner__ on a pole
+a stone engraved sign reading "__text_sign_english__" in __sign_lettering__
 a lantern with a name
 a window decal
-a pub hanging lit panel
+a pub hanging sign reading "__text_sign_english__" in __sign_lettering__
 a barber pole
-a pharmacy cross lit panel
-a spray-painted shapes tab
-a mural pattern
-a bus-stop lit panel
-a no-entry lit panel
+a pharmacy cross sign reading "__text_sign_english__" in __sign_lettering__
+a graffiti tag reading "__text_graffiti_word__" __text_look_graffiti__
+a mural lettering reading "__name_merch_slogan__"
+a bus-stop sign reading "STOP" in white capitals on a red octagon
+a no-entry sign reading "__text_sign_english__" in __sign_lettering__
 a warning triangle
-an exit lit panel
-a glowing panel
+an exit sign reading "__text_sign_english__" in __sign_lettering__
+a menu board listing __text_menu_item__ __text_look_chalk__
 a flag on a mast
 a pennant string
 a wayfinding totem
-a protest plain board
-a cloth pennant at a festival
+a protest placard reading "__text_banner_protest__" in thick hand-painted letters
+a banner reading "__text_banner_festival__" __text_look_banner__ at a festival
 a fabric shop flag
 a ship's nameplate

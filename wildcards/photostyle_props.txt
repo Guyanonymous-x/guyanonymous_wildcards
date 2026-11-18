@@ -59,7 +59,7 @@ a violin
 a trumpet
 an accordion
 a stack of books
-an open folded paper sheet
+an open newspaper with the headline "__text_headline__" __text_look_headline__
 a love letter
 an old photograph held in the hand
 a suitcase
@@ -98,9 +98,9 @@ a map spread out on a table
 a compass
 a lantern
 a flashlight
-a neon lit panel
-a hand-painted lit panel
-a protest plain board
+a neon sign reading "__text_neon_sign__" __text_look_neon__
+a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
+a protest placard reading "__text_banner_protest__" in thick hand-painted letters
 a national flag
 a white sheet blowing on a line
 laundry on a line
@@ -157,7 +157,7 @@ a raincoat
 a fur coat
 a wedding dress
 a military uniform
-a school uniform
+an adult's school-uniform-style costume
 a doctor's white coat
 a chef's apron
 a boxing glove

@@ -1,5 +1,5 @@
 brushed steel and concrete architecture
-weathered dark brick wall with spray-painted shapes
+weathered dark brick wall with graffiti
 decaying wooden planks and beams
 ornate gothic carved stone arches
 sleek glass and chrome skyscraper facade
@@ -19,7 +19,7 @@ intricate carved wooden doorway
 industrial iron scaffolding framework
 cracked dry earth ground
 snow-covered pine branches backdrop
-glowing neon lit panels and wires
+glowing neon signs reading "__text_neon_sign__" __text_look_neon__ and wires
 distressed wallpaper wall
 weathered stone staircase
 futuristic glowing light panel wall
@@ -320,39 +320,39 @@ a chalkboard wall softly out of focus behind the subject
 a chalkboard wall close behind the subject
 a chalkboard wall running along one side
 a chalkboard wall partly in shadow
-a spray-painted shapes wall in the background
-a spray-painted shapes wall close behind the subject
-a spray-painted shapes wall textured and detailed
+a graffiti reading "__text_graffiti_word__" __text_look_graffiti__ wall in the background
+a graffiti reading "__text_graffiti_word__" __text_look_graffiti__ wall close behind the subject
+a graffiti reading "__text_graffiti_word__" __text_look_graffiti__ wall textured and detailed
 a mural framing the subject
 a mural running along one side
 a mural partly in shadow
 a mural textured and detailed
-picture panels softly out of focus behind the subject
-picture panels close behind the subject
-picture panels framing the subject
-picture panels lit from the side
-picture panels partly in shadow
-picture panels seen through a haze
-movie picture panels in the background
-movie picture panels softly out of focus behind the subject
-movie picture panels close behind the subject
-movie picture panels running along one side
-movie picture panels catching the light
-movie picture panels textured and detailed
-movie picture panels plain and uncluttered
-vintage lit panels filling the background
-vintage lit panels softly out of focus behind the subject
-vintage lit panels close behind the subject
-vintage lit panels framing the subject
-vintage lit panels running along one side
-vintage lit panels lit from the side
-vintage lit panels partly in shadow
-vintage lit panels seen through a haze
-road lit panels filling the background
-road lit panels close behind the subject
-road lit panels framing the subject
-road lit panels lit from the side
-road lit panels partly in shadow
-road lit panels catching the light
-road lit panels seen through a haze
-road lit panels plain and uncluttered
+posters reading "__text_poster_event__" __text_look_print__ softly out of focus behind the subject
+posters close behind the subject
+posters framing the subject
+posters lit from the side
+posters partly in shadow
+posters seen through a haze
+movie posters in the background
+movie posters reading "__name_movie__" __text_look_print__ softly out of focus behind the subject
+movie posters close behind the subject
+movie posters running along one side
+movie posters catching the light
+movie posters textured and detailed
+movie posters plain and uncluttered
+vintage signs reading "__text_sign_english__" in __sign_lettering__ filling the background
+vintage signs reading "__text_sign_english__" in __sign_lettering__ softly out of focus behind the subject
+vintage signs reading "__text_sign_english__" in __sign_lettering__ close behind the subject
+vintage signs reading "__text_sign_english__" in __sign_lettering__ framing the subject
+vintage signs reading "__text_sign_english__" in __sign_lettering__ running along one side
+vintage signs reading "__text_sign_english__" in __sign_lettering__ lit from the side
+vintage signs reading "__text_sign_english__" in __sign_lettering__ partly in shadow
+vintage signs reading "__text_sign_english__" in __sign_lettering__ seen through a haze
+road signs filling the background
+road signs close behind the subject
+road signs framing the subject
+road signs lit from the side
+road signs partly in shadow
+road signs catching the light
+road signs seen through a haze
+road signs plain and uncluttered

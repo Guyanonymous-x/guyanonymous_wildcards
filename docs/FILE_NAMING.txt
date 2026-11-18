@@ -5,7 +5,7 @@ FILE NAMING - women and men in one flat folder
 HOW THE PREFIXES WERE DECIDED
   Every layer is built twice (a female and a male workspace). When the two results are byte-identical AND the file only refers to files that are themselves shared, it is kept once
   with its plain name; otherwise it becomes f_<name> and m_<name>, and each file's __references__ are rewritten to point at its own gender's version.
-  Examples:  eye_color, skin_wrinkle, countries, env_*, lite_*, cam_*, pose_*, outfit_color / outfit_material / outfit_pattern, hair_curl_S/W/C/K,
+  Examples:  eye_color, skin_wrinkle, countries, env_*, lite_*, cam_*, pose_*, clothing_outfit_color / clothing_outfit_material / clothing_outfit_pattern, hair_curl_S/W/C/K,
              countries_ethnic_prompts_S/W/C/K, prompt_camera_light              -> shared
              f_prompt_master_by_age / m_prompt_master_by_age, f_names / m_names, f_body_build / m_body_build, f_age18_24_hair_line / m_age18_24_hair_line,
              f_outfit_dress_style (women only), m_outfit_suit_style (men only), m_facial_hair (men only), f_make_base (women only)   -> gendered

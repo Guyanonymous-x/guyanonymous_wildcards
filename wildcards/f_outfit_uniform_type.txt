@@ -25,9 +25,9 @@ flight attendant uniform with rank insignia
 regulation majorette uniform
 office receptionist outfit with reflective strips
 winter-weight surgeon's scrubs
-formal Korean school uniform
+formal Korean school-uniform-style costume worn by an adult
 gardener overalls with an utility belt
-sailor-style school uniform with shoulder patches
+sailor-style school-uniform costume with shoulder patches, worn by an adult
 ceremonial fencing whites with an utility belt
 worn train conductor uniform
 farm overalls with epaulettes
@@ -53,7 +53,7 @@ ballet practice outfit with a neat tie
 practical softball uniform
 crisp cadet uniform with polished buttons
 collared sailor uniform
-sailor-style school uniform with a name tape reading "__name_surname__"
+sailor-style school-uniform costume with a name tape reading "__name_surname__", worn by an adult
 rowing kit with rank insignia
 security guard uniform with a neat tie
 softball uniform with braided trim
@@ -68,7 +68,7 @@ velvet-accented blazer uniform
 formal train conductor uniform
 crisp ceremonial guard uniform
 ballet practice outfit with polished buttons
-lab coat with patches
+lab coat with badges
 fencing whites with epaulettes
 bakery apron uniform
 ice skating dress with an utility belt
@@ -81,12 +81,12 @@ barista apron outfit with reflective strips
 cadet uniform with braided trim
 lab coat with polished buttons
 vintage beautician tunic with an utility belt
-practical beautician tunic with patches
-dance team uniform with patches
+practical beautician tunic with badges
+dance team uniform with badges
 train conductor uniform with polished buttons
-lacrosse kit with patches
+lacrosse kit with badges
 cycling kit with a matching cap
-kilted school uniform with a lanyard
+kilted school-uniform-style costume with a lanyard, worn by an adult
 regulation nurse uniform
 hairdresser smock with braided trim
 standard-issue pharmacist coat
@@ -96,16 +96,16 @@ vintage cadet corps uniform with shoulder patches
 tailored paramedic uniform
 martial arts gi with rank insignia
 tailored flight attendant uniform with an utility belt
-summer-weight kilted school uniform
+summer-weight kilted school-uniform-style costume worn by an adult
 standard-issue gardener overalls
 summer-weight graduation gown and cap with a matching cap
 fencing uniform
-blazer school uniform with patches
+blazer school-uniform-style costume with patches, worn by an adult
 cafe barista uniform
 neat park ranger uniform with reflective strips
 convertible sailor-blazer hybrid uniform
 hairdresser smock with a name tape reading "__name_surname__"
-supermarket cashier uniform with patches
+supermarket cashier uniform with badges
 courier uniform with braided trim
 formal lab coat
 paramedic uniform with rank insignia
@@ -117,16 +117,16 @@ standard-issue equestrian riding outfit
 regulation florist apron outfit with rank insignia
 concierge uniform with epaulettes
 worn surgeon's scrubs
-school uniform with epaulettes
+school-uniform-style costume with epaulettes, worn by an adult
 vintage pharmacist coat
 pharmacist coat
 vintage tennis whites
-summer-weight running kit with patches
+summer-weight running kit with badges
 baseball uniform
 standard-issue train conductor uniform
 bank teller uniform with rank insignia
 ceremonial librarian outfit
-basketball uniform with patches
+basketball uniform with badges
 practical florist apron outfit
 tailored housekeeper uniform
 tailored gymnastics leotard
@@ -143,7 +143,7 @@ standard-issue ice skating dress
 doctor's scrubs with shoulder patches
 French maid costume uniform with rank insignia
 graduation gown and cap with a lanyard
-school uniform
+school-uniform-style costume worn by an adult
 utilitarian park ranger uniform with a name tape reading "__name_surname__"
 standard-issue nurse uniform
 neat soccer kit
@@ -153,7 +153,7 @@ marching band uniform with epaulettes
 modern ballet practice outfit
 regulation running kit
 summer-weight beautician tunic with braided trim
-winter-weight Japanese school uniform
+winter-weight Japanese school-uniform-style costume worn by an adult
 worn dance team uniform with a lanyard
 vintage army fatigues with a name tape reading "__name_surname__"
 vintage bank teller uniform
@@ -196,21 +196,21 @@ formal waitress uniform
 worn army fatigues
 flight attendant uniform
 tailored train conductor uniform with a name tape reading "__name_surname__"
-standard-issue Japanese school uniform
+standard-issue Japanese school-uniform-style costume worn by an adult
 practical French maid costume uniform
 ceremonial marching band uniform
 utilitarian graduation gown and cap
 worn factory worker uniform with a name tape reading "__name_surname__"
 marching band uniform
 surgeon's scrubs with polished buttons
-ceremonial Japanese school uniform
+ceremonial Japanese school-uniform-style costume worn by an adult
 regulation basketball uniform
 vintage bus driver uniform with braided trim
-worn kilted school uniform
+worn kilted school-uniform-style costume on an adult
 neat cycling kit
-standard-issue waitress uniform with patches
+standard-issue waitress uniform with badges
 supermarket cashier uniform with a matching cap
-utilitarian Korean school uniform
+utilitarian Korean school-uniform-style costume worn by an adult
 warehouse vest outfit with rank insignia
 summer-weight academic robes
 vintage softball uniform with a name tape reading "__name_surname__"
@@ -235,15 +235,15 @@ train conductor uniform with a neat tie
 ceremonial naval dress whites
 waitress uniform with reflective strips
 military dress uniform
-Japanese school uniform with braided trim
+Japanese school-uniform-style costume with braided trim, worn by an adult
 concierge uniform with braided trim
-florist apron outfit with patches
+florist apron outfit with badges
 blazer uniform
 crisp cheerleader uniform
-practical British school uniform
+practical British school-uniform-style costume worn by an adult
 cabin crew scarf uniform with braided trim
 neat choir robes
-utilitarian cabin crew scarf uniform with patches
+utilitarian cabin crew scarf uniform with badges
 ceremonial spa therapist tunic
 utilitarian supermarket cashier uniform
 summer-weight running kit with a lanyard
@@ -252,16 +252,16 @@ tennis whites with reflective strips
 vintage field hockey kit
 neat rowing kit
 ceremonial florist apron outfit with epaulettes
-pharmacist coat with patches
+pharmacist coat with badges
 regulation retail store uniform
-vintage Japanese school uniform
+vintage Japanese school-uniform-style costume worn by an adult
 rugby kit with a neat tie
 scout uniform with reflective strips
 worn mechanic coveralls
 neat tennis whites
 basketball uniform
 modern naval dress whites
-French maid costume uniform with patches
+French maid costume uniform with badges
 worn rugby kit with a name tape reading "__name_surname__"
 librarian outfit
 doctor's scrubs with epaulettes
@@ -271,21 +271,21 @@ office uniform
 waitress uniform
 fencing whites with a lanyard
 train conductor uniform
-blazer school uniform
-sailor-themed school uniform
-bank teller uniform with patches
+blazer school-uniform-style costume worn by an adult
+sailor-themed school-uniform costume worn by an adult
+bank teller uniform with badges
 farm overalls with a matching cap
 crisp retail store uniform
-fencing whites with patches
+fencing whites with badges
 practical park ranger uniform
 park ranger uniform with a name tape reading "__name_surname__"
 lacrosse uniform
 park ranger uniform with a neat tie
 worn construction hi-vis outfit with an utility belt
-formal British school uniform with shoulder patches
+formal British school-uniform-style costume with shoulder patches, worn by an adult
 winter-weight maid uniform
 gymnastics leotard with an utility belt
-scout uniform with patches
+scout uniform with badges
 hotel concierge uniform
 tailored chef uniform
 airline pilot uniform

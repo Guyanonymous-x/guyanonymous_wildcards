@@ -1,0 +1,6 @@
+__name_price__
+2 FOR __name_price__
+__name_price__ EACH
+ALL __name_price__
+__name_price__ A BAG
+SALE __name_price__

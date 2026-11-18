@@ -55,3 +55,4 @@ VARIABLES (component files, use in your own templates)                    approx
 
 TUNING (edit and run  python _tools/build_all.py --only ... or just  python _tools/shoe_build.py )
   CLASS_WEIGHT, TIER_WEIGHT, PRICE_BAND, FULL_N (lines per file) at the top of shoe_data.py / shoe_build.py; vocabulary lists in shoe_data.py and shoe_data2.py.
+NOTE (v13): shoe files are now named acc_shoe_<x>_<grade>; see docs/README_accessories.txt.

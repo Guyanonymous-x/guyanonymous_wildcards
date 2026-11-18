@@ -20,7 +20,7 @@ a Thai garland
 a Thor's hammer
 a UFO
 a Viking longship
-a cloth pennant
+a banner reading "__text_banner_festival__" __text_look_banner__
 a barrel
 a bear paw
 a bee on a hexagon
@@ -129,7 +129,7 @@ a brush-stroked skateboard
 a brush-stroked sphinx
 a brush-stroked spinning top
 a brush-stroked squid
-a brush-stroked street lit panel
+a brush-stroked street sign reading "__text_sign_english__" in __sign_lettering__
 a brush-stroked sun bird
 a brush-stroked telescope
 a brush-stroked three-headed hound
@@ -730,7 +730,7 @@ a negative-space zebra
 a paint brush
 a paper plane
 a paw print
-a peace lit panel
+a peace sign
 a pennant
 a phoenix rising
 a pine tree
@@ -791,7 +791,7 @@ a rampant stag
 a red envelope
 a rhino
 a ribbon scroll
-a road lit panel
+a road sign
 a robot head
 a rocket
 a rose
@@ -952,7 +952,7 @@ a symmetrical ring
 a symmetrical salamander
 a symmetrical sea turtle
 a symmetrical springbok
-a symmetrical street lit panel
+a symmetrical street sign reading "__text_sign_english__" in __sign_lettering__
 a symmetrical sunflower
 a symmetrical sweet pea
 a symmetrical wolfhound

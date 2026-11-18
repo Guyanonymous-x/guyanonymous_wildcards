@@ -5,7 +5,8 @@ WHAT IS DIFFERENT FOR MEN
   * Brackets (share of adult men): 18-24 14.9 | 25-34 22.9 | 35-44 19.2 | 45-54 16.9 | 55-64 13.7 | 65-74 8.1 | 75-84 3.4 | 85+ 0.9   (approximate; fewer men at older ages)
   * Body-type shares differ (more muscular, fewer obese than women at the same age); m_body_build / m_body_height are rewritten male option lists (V-taper, dad-bod, barrel-chested,
     burly, runner's build ...), m_body_ratio / m_musc_hips / m_musc_legs keep the neutral options of the originals and add male ones.
-  * Facial hair: m_facial_hair (about 300 distinct options) conditioned by age - salt-and-pepper / gray / white options rise with age, patchy and sparse options fall.  Since v72 every option is a physical description (where the hair grows, where the skin is bare, length and edge) instead of a style name, and shaved faces use positive wording ("smooth, shiny, hairless skin on the chin, cheeks and upper lip, like freshly shaved skin").  Prompts contain "His lower face has ...".
+  * Facial hair: m_facial_hair (46 options: clean-shaven, stubble, mustaches, goatees, beards, sideburns) conditioned by age - salt-and-pepper / gray / white options rise with age,
+    patchy and sparse options fall.  Prompts contain "His facial hair is ...".
   * Male-pattern baldness: receding/thinning/bald/comb-over/horseshoe hairstyles and hairlines rise steeply with age (hairstyle share ~15% at 18-24 to ~50% at 75+).
   * Hairstyles are a separate male grammar (fades, tapers, crops, quiffs, pompadours, slick-backs, undercuts, man buns, long hair, shaved heads; coily-hair catalogue with fades,
     waves, cornrows, box braids, twists, locs, afros), age-conditioned and type-aware like the women's.

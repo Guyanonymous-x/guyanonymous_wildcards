@@ -2,29 +2,52 @@
 
 A slightly extensive wildcard system for generating text prompts for txt2img generation, written in plain sentences for natural-language models such as Krea 2 and Moss Image.
 
-**Current version: v128**
+**Current version: v129**
 
 ## Download the latest version
 
 **[Download the newest release](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/latest)**: this link always opens the newest version's download page. Download the one zip there, then open it and pick the edition you want from inside.
 
-Current version v128: **[Guyanonymous_Wildcards_v128.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v128/Guyanonymous_Wildcards_v128.zip)** holds four editions:
-- `Guyanonymous_Wildcards_v128_FLAT.zip`: every file in one folder (proportional edition)
-- `Guyanonymous_Wildcards_v128_FOLDERS.zip`: the same files grouped into family folders
-- `Guyanonymous_Wildcards_v128_NOTPROPORTIONAL_FLAT.zip`: every option listed once, one folder
-- `Guyanonymous_Wildcards_v128_NOTPROPORTIONAL_FOLDER.zip`: every option listed once, family folders
+Current version v129: **[Guyanonymous_Wildcards_v129.zip](https://github.com/Guyanonymous-x/guyanonymous_wildcards/releases/download/v129/Guyanonymous_Wildcards_v129.zip)** holds four editions:
+- `Guyanonymous_Wildcards_v129_FLAT.zip`: every file in one folder (proportional edition)
+- `Guyanonymous_Wildcards_v129_FOLDERS.zip`: the same files grouped into family folders
+- `Guyanonymous_Wildcards_v129_NOTPROPORTIONAL_FLAT.zip`: every option listed once, one folder
+- `Guyanonymous_Wildcards_v129_NOTPROPORTIONAL_FOLDER.zip`: every option listed once, family folders
 
-**Contents:** [Download](#download-the-latest-version) · [Introduction](#introduction) · [What's New in v128](#whats-new-in-v128) · [What's New in v127](#whats-new-in-v127) · [What's New in v126](#whats-new-in-v126) · [What's New in v125](#whats-new-in-v125) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+**Contents:** [Download](#download-the-latest-version) · [Introduction](#introduction) · [What's New in v129](#whats-new-in-v129) · [What's New in v128](#whats-new-in-v128) · [What's New in v127](#whats-new-in-v127) · [What's New in v126](#whats-new-in-v126) · [What's New in v125](#whats-new-in-v125) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
-Guyanonymous' Wildcards is a library of about 144,700 wildcard text files (144685 `.txt` files in [`wildcards/`](wildcards/) at v128). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
+Guyanonymous' Wildcards is a library of about 158,300 wildcard text files (158348 `.txt` files in [`wildcards/`](wildcards/) at v129, counted in the FLAT edition). Each file holds one option per line. When a prompt says `__name__`, your image tool replaces it with a random line from `name.txt`. Many files refer to other files, so one reference can build a whole description: a person, an outfit, a room, an animal, a vehicle, a street sign, a book cover and so on.
 
 The library is for people who make images with text-to-image tools and want varied, detailed prompts that still make sense. Lines are full descriptive sentences, not tag lists. There are no emphasis weights, LoRA tags or negative prompts. That is why it suits natural-language models such as Krea 2 and MOSS-Image. The docs also cover tag-style and token-limited models (see [Model-specific guidance](#model-specific-guidance)).
 
-People files describe adults aged 18 to 120. The one exception is the awkward family photo lists (`afp_*`), where children can appear in family groups, always clothed; those lists are self-contained, so nothing else in the library can reach them and they cannot reach anything else. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented.
+People files describe adults aged 18 to 120, and since v129 every person in a scene (guests, bystanders, crowds, audiences) is given an adult age. The awkward family photo lists (`afp_*`), the one place where children appeared, are no longer part of this release. Some families are adult-themed: clinical anatomy descriptions, adult accessories, chastity devices and a "bad taste" set. These sit in their own files and the default person templates do not call them, so you only get them if you reference them yourself. The world religions (`faith_`) show each faith's dress, rites and art as they really are, in plain clinical wording, sacrifice, self-wounding and real religious nudity included, adults only (rites of children are left out); their sexual rites sit in 11 separate `_private` lists that the showcase and sample files never use. Real brand names appear only in the `maker_*` files. All other names (authors, shops, brands, teams, people) are invented, apart from the real faiths, sacred places and historic religious figures in the religion lines.
+
+For the whole library at a glance, see the catalog PDF: [docs/Guyanonymous_Wildcards_v129_Library_Catalog.pdf](docs/Guyanonymous_Wildcards_v129_Library_Catalog.pdf) (new in v129, and also inside every release zip).
 
 Each release gets a `release/vNN` branch (v74 is the first version tracked in git; each release also updates this README). Release zips and the "All Options Once" export are built from this tree; they are attached to each GitHub Release (see Download above), not stored in the file list.
+
+## What's New in v129
+
+World religions in the slot style, body sets, the v97 text words put back, and fixes across the library. This version is about getting everything already in the library right.
+
+- World religions in the slot style (`faith_pl_`, `faith_ob_`, `faith_gw_`, `faith_pr_`, `faith_fa_`, `faith_dw_`, `faith_af_`, `faith_dv_`): every v128 religion line is now a fixed core plus wildcard slots, so each prompt can vary its size, materials, people, light, season and details. That covers 416 sacred places, 405 sacred objects, 271 garments, 367 practices and rites, 298 buildings, 189 homes of the divine, 175 afterlife lines and 149 ways the divine is shown, in 12,746 new lists with 42,117 options. Names, regional words and special terms are described in plain visual words, and writing on real things (plaques, banners, book covers, tablets, coins) is quoted.
+- Religions shown as they really are: researched from each faith's own texts and art and written clinically, including sacrifice, self-wounding, bloodletting, real religious nudity, closed and secret rites and historic events at sacred sites, with both forms where a rite or dress has more than one (old and present-day, bare and covered). Adults only: rites of children stay out. Sexual rites sit in 11 separate `_private` lists that the showcase and sample files never use. Taiwan is its own country, and every country's other peoples are shown too.
+- Religious dress described: the faith prompts now read "in the dress and appearance of their faith" instead of "dressed in their traditional way", and the short garment lines that only named a dress call their own dress lists (`faith_<faith>_dress`, 132 lists, 528 options).
+- Body sets (`bodyset_`): 7 body shapes (obese, overweight, plump, average, thin, underweight, severely underweight) and 3 body types (feminine, masculine, androgynous, for every sex), as clean build lists for young, middle-aged and older adults, with short and full makers for a woman, a man and a person, for example `f_create_random_woman_shape_plump` and `any_create_random_person_type_androgynous_short` (690 new lists).
+- People wording that renders realistically, checked against real renders: no more gray hair with yellow tips, glowing amber and gold eyes, green or olive-green skin, flat gray ashen skin or red skin; the empty "An androgynous person." opener is gone from 78 files (about 7,600 lines in all).
+- Woman and man makers say "her" and "his" in the age phrase ("41 years old, in her early forties"); person makers keep "their".
+- Adults in every scene: people, guests, bystanders, crowds and audiences that had no age now get adult ages (about 2,350 lines), and school uniforms on adults became adult school-uniform-style costumes.
+- Framing that works: "In the middle of the frame" and "shown full length", which the model mostly ignored, are gone from about 41,400 lines; whole people now stand with their feet near the bottom of the frame and ground below them, and objects, buildings, food and animals get "with space around it" style wording (8 new `frame_around_it` lists).
+- Scene fixes: torture devices described in full, two-person life moments show both people, "Signs of use include" in 1,422 location scenes, divers get their breathing gear, and the settings of 40 vehicles are fixed.
+- Text put back: the signs, posters, badges, banners, newspapers, menu boards and graffiti that the v97 text cleanup had swapped for vague words are back in 48,590 lines, and 15,153 of them now come with quoted, placed text drawn from 82 new `text_` lists, with sign words in 47 local languages and scripts.
+- Showcase and sample prompt files are built around their subject first, with people described only as much as their role needs. Quotes inside a prompt are escaped so Forge's Prompts from file keeps them, every file ends with one newline, and image shapes vary with who is in the picture.
+- Moved out: the awkward family photo lists (`afp_`, 13 files) are no longer in this release; the view from inside a mouth (`camv_mouth`, 7 files) waits for v130; five old `faith_pl_country_` lists and two quoted Gothic word lists were retired (their content lives on in the new lines).
+- New in `docs/`: a library catalog PDF, [docs/Guyanonymous_Wildcards_v129_Library_Catalog.pdf](docs/Guyanonymous_Wildcards_v129_Library_Catalog.pdf), also inside every release zip.
+- Showcase files cover what v129 changed; sample files cover everything the library can do.
+
+Showcase prompts for this version: [`docs/showcase/`](docs/showcase/).
 
 ## What's New in v128
 
@@ -388,9 +411,9 @@ The full list of v104 entry points is in `wildcards/v104_entry_points.txt`.
 
 ## Features
 
-- **Large drop-in library.** One flat folder of 32,712 `.txt` files using the common `__name__` wildcard syntax. You need no Python to use it.
-- **Women and men in one folder.** `f_` files are female, `m_` files are male and unprefixed files are shared. `any_` files are gender-neutral (they/their). At v74 there are 1,466 `f_`, 1,457 `m_` and 1,246 `any_` files.
-- **Character creation system (v42).** `f_create_random_woman`, `m_create_random_man`, `any_create_random_person` and fixed identities (trans, intersex, non-binary, androgynous, in transition). It has three age modes (realistic, mismatched, unlinked), clothing states (none, `_w_clothes`, `_nude`, `_topless`, `_bottomless`), `_short` versions and an optional `_traits` suffix.
+- **Large drop-in library.** One flat folder of 158,348 `.txt` files (v129, FLAT edition) using the common `__name__` wildcard syntax. You need no Python to use it.
+- **Women and men in one folder.** `f_` files are female, `m_` files are male and unprefixed files are shared. `any_` files are gender-neutral (they/their).
+- **Character creation system (v42).** `f_create_random_woman`, `m_create_random_man`, `any_create_random_person` and fixed identities (trans, intersex, non-binary, androgynous, in transition). It has three age modes (realistic, mismatched, unlinked), clothing states (none, `_w_clothes`, `_nude`, `_topless`, `_bottomless`), `_short` versions and an optional `_traits` suffix. Since v129 there are also makers for 7 body shapes and 3 body types (for example `f_create_random_woman_shape_plump`, `any_create_random_person_type_androgynous_short`).
 - **Conditioned layers.** In the master prompts the age bracket is chosen first. Body type, hair type, clothing, accessories, mobility aids, settings and poses then follow from it:
   - age layer: 9 brackets, 18–24 to 95–120
   - body-type layer: 8 archetypes plus severely obese
@@ -414,12 +437,12 @@ The full list of v104 entry points is in `wildcards/v104_entry_points.txt`.
   - plants and landscapes
   - architecture (`arch_`, `bld_`)
   - vehicles (`veh_`, `vx_`, interiors, paint and damage)
-  - 104 manufacturer styles
-  - 120 jobs
+  - manufacturer styles
+  - jobs
   - hobbies, music and sport
-  - 30 world regions of dress and culture
-  - 24 city types
-  - 31 fantasy, sci-fi and history worlds
+  - world regions of dress and culture
+  - city types
+  - fantasy, sci-fi and history worlds
   - visual effects and extreme weather
   - art media, product shots and packaging
   - condition and damage
@@ -656,8 +679,6 @@ python _tools/v73_depth.py ; python _tools/v73_chastity_belt.py ; python _tools/
 python _tools/v73_rename_dunder.py ; python _tools/check_build.py
 ```
 
-Maintainer's local working folder: `D:\!!!!!!!Dave's Apps - Wildcards\Guyanonymous' Wildcards`.
-
 ### Model-specific guidance
 
 From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_v57.txt](docs/MODEL_PROFILES_v57.txt), [docs/MODEL_GUIDE_v66.txt](docs/MODEL_GUIDE_v66.txt) and [docs/MOSS_IMAGE_NOTES.txt](docs/MOSS_IMAGE_NOTES.txt):
@@ -689,6 +710,18 @@ From [docs/MODEL_NOTES_v55.txt](docs/MODEL_NOTES_v55.txt), [docs/MODEL_PROFILES_
 ## Full Changelog
 
 Summarised from the notes in [docs/](docs/), newest first. Dates are shown only where the notes give one. All git commit dates (2026-11-04) are import dates, not release dates.
+
+### v129
+World religions rewritten in the slot style (12,746 new lists), religions shown clinically as they really are, religious dress described, body shapes and body types, people wording that renders realistically, her and his in the age phrase, adults in every scene, framing that works, the v97 text words put back with quoted text, and the awkward family photo lists moved out of the release. See [What's New in v129](#whats-new-in-v129).
+
+### v128
+Secret societies (40) and adult secret society rituals, aliens (98) and adult aliens, skeletons, scans and close-ups (117 subjects) with adult X-ray and thermal nudes, and 405 world religions shown by look only. See [What's New in v128](#whats-new-in-v128).
+
+### v127
+Mosaic, stained glass and leaded glass styles (89), life moments (70) and adult life moments, childbirth as a separate part at four levels, and objects and collections (59 kinds). See [What's New in v127](#whats-new-in-v127).
+
+### v126
+Work and trades (280 trades in 13 groups), moments at work, home life (114 activities), homes through the ages and around the world (42 styles), and travel with 100 named famous landmarks. See [What's New in v126](#whats-new-in-v126).
 
 ### v125
 Fuller visual descriptions (medium and long three to four times longer) across sports, games, charms, torture devices, vehicles, gangs, religious figures, lens filters, species, peoples and cryptids; fuller scenes with described people for 126 families; 1,000 world records of the body; longer showcase and sample prompts with no caption. See [What's New in v125](#whats-new-in-v125).

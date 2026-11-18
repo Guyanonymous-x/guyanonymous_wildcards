@@ -1,7 +1,7 @@
 single dramatic hard spotlight
 large softbox diffused light source
 harsh direct overhead sunlight
-glowing colorful neon lit panel illumination
+glowing colorful neon sign reading "__text_neon_sign__" __text_look_neon__ illumination
 warm flickering candle light source
 cool blue computer monitor glow
 single window natural side lighting
@@ -80,12 +80,12 @@ a desk lamp, reflecting off water
 a street lamp, positioned to the left
 a street lamp, positioned to the right
 a street lamp, bouncing off a wall
-a neon lit panel, placed close to the subject
-a neon lit panel, placed far from the subject
-a neon lit panel, positioned behind the subject
-a neon lit panel, filtered through leaves
-a neon lit panel, shining indirectly
-a neon lit panel, as the only light
+a neon sign reading "__text_neon_sign__" __text_look_neon__, placed close to the subject
+a neon sign reading "__text_neon_sign__" __text_look_neon__, placed far from the subject
+a neon sign reading "__text_neon_sign__" __text_look_neon__, positioned behind the subject
+a neon sign reading "__text_neon_sign__" __text_look_neon__, filtered through leaves
+a neon sign reading "__text_neon_sign__" __text_look_neon__, shining indirectly
+a neon sign reading "__text_neon_sign__" __text_look_neon__, as the only light
 a string of fairy lights, positioned to the left
 a string of fairy lights, positioned behind the subject
 a string of fairy lights, filtered through curtains
@@ -367,7 +367,7 @@ a table lamp
 a floor lamp
 a desk lamp
 a street lamp
-a neon lit panel
+a neon sign reading "__text_neon_sign__" __text_look_neon__
 a string of fairy lights
 a lantern
 a campfire

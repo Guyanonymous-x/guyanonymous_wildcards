@@ -74,8 +74,8 @@ a banana with a grasshopper perched on it
 a banana with an albatross perched on it
 a banana with an apple growing from it
 a banknote with a gazelle perched on it
-a cloth pennant
-a cloth pennant with a name
+a banner reading "__text_banner_festival__" __text_look_banner__
+a banner reading "__text_banner_festival__" __text_look_banner__ with a name
 a banshee hanging upside down
 a banshee surrounded by stars
 a baobab
@@ -262,7 +262,7 @@ a burning mermaid
 a burning milky way band
 a burning nebula cloud
 a burning orchid
-a burning peace lit panel
+a burning peace sign
 a burning perfume bottle
 a burning planet with rings
 a burning rocket
@@ -338,7 +338,7 @@ a cartoonish mushroom
 a cartoonish okapi
 a cartoonish oni
 a cartoonish parrot
-a cartoonish peace lit panel
+a cartoonish peace sign
 a cartoonish phoenix
 a cartoonish pumpkin
 a cartoonish reed
@@ -1116,7 +1116,7 @@ a glitch tear, overlapping itself
 a glitch tear, with a glow
 a glowing agave
 a glowing anemone
-a glowing cloth pennant
+a glowing banner reading "__text_banner_festival__" __text_look_banner__
 a glowing birch
 a glowing boombox
 a glowing chess knight
@@ -1225,7 +1225,7 @@ a hawk in a field of hibiscus
 a hawk mid-dive
 a hawk wings folded
 a heart pierced by a dagger
-a heart with a cloth pennant
+a heart with a banner reading "__text_banner_festival__" __text_look_banner__
 a heart with wings
 a heartbeat line
 a heartbeat line, broken into fragments
@@ -1235,7 +1235,7 @@ a heat map blur
 a heat map blur, broken into fragments
 a heat map blur, drawn in a single line
 a heat map blur, in a repeating row
-a hedgehog and a street lit panel
+a hedgehog and a street sign reading "__text_sign_english__" in __sign_lettering__
 a hedgehog in a field of fern
 a hedgehog snarling
 a hedgehog sniffing a flower
@@ -1809,7 +1809,7 @@ a paper plane
 a parrot
 a parrot and a motorcycle
 a paw print
-a peace lit panel
+a peace sign
 a peach
 a peacock
 a peacock and a sextant
@@ -1957,7 +1957,7 @@ a rabbit with its mouth open
 a raccoon and a pagoda
 a raccoon in a field of birch
 a radiant banana leaf
-a radiant cloth pennant
+a radiant banner reading "__text_banner_festival__" __text_look_banner__
 a radiant baobab
 a radiant barley
 a radiant buffalo
@@ -2543,7 +2543,7 @@ a stitched-together poppy
 a stitched-together rabbit
 a stitched-together salamander of fire
 a stitched-together storm giant
-a stitched-together street lit panel
+a stitched-together street sign reading "__text_sign_english__" in __sign_lettering__
 a stitched-together sun face
 a stitched-together sun with rays
 a stitched-together thorny bramble
@@ -2563,7 +2563,7 @@ a storm giant entwined with flowers
 a storm giant under a planet with rings
 a storm over the sea
 a strawberry
-a street lit panel
+a street sign reading "__text_sign_english__" in __sign_lettering__
 a stylized acorn
 a stylized avocado half
 a stylized barley
@@ -3086,7 +3086,7 @@ a winged oni
 a winged open book
 a winged orangutan
 a winged palm frond
-a winged peace lit panel
+a winged peace sign
 a winged ramen bowl
 a winged salmon
 a winged serpent
@@ -3180,7 +3180,7 @@ a yin-yang, partly erased
 a yo-yo with a water lily growing from it
 a zebra entwined with flowers
 a zebra with its mouth open
-a zodiac lit panel
+a zodiac sign reading "__text_sign_english__" in __sign_lettering__
 a zodiac wheel
 an Arabic geometric rosette
 an Aztec sun stone
@@ -3390,7 +3390,7 @@ an elk and a telephone
 an enormous aloe
 an enormous anchor
 an enormous banana leaf
-an enormous cloth pennant
+an enormous banner reading "__text_banner_festival__" __text_look_banner__
 an enormous bicycle
 an enormous camel
 an enormous camera

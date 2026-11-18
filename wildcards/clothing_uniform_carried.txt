@@ -1,6 +1,6 @@
 a baguette
 a ball of yarn
-a cloth pennant
+a banner reading "__text_banner_festival__" __text_look_banner__
 a bar towel
 a barbell
 a barrel hoop
@@ -67,7 +67,7 @@ a dagger
 a data case
 a data pad
 a detector
-a dosimeter patch
+a dosimeter badge
 a drill
 a drum
 a dumbbell
@@ -238,7 +238,7 @@ a steam lance
 a steel sword
 a steno pad
 a stick
-a stop lit panel
+a stop sign reading "STOP" in white capitals on a red octagon
 a suction tool
 a surfboard
 a sword
