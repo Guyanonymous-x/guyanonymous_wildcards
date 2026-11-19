@@ -14,7 +14,21 @@ Current version v129: **[Guyanonymous_Wildcards_v129.zip](https://github.com/Guy
 - `Guyanonymous_Wildcards_v129_NOTPROPORTIONAL_FLAT.zip`: every option listed once, one folder
 - `Guyanonymous_Wildcards_v129_NOTPROPORTIONAL_FOLDER.zip`: every option listed once, family folders
 
-**Contents:** [Download](#download-the-latest-version) · [Introduction](#introduction) · [What's New in v130](#whats-new-in-v130) · [What's New in v129](#whats-new-in-v129) · [What's New in v128](#whats-new-in-v128) · [What's New in v127](#whats-new-in-v127) · [What's New in v126](#whats-new-in-v126) · [What's New in v125](#whats-new-in-v125) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
+### Which zip should I use?
+
+Each release comes as four zips: two layouts (Folders and Flat), each in two versions (proportional and not proportional).
+
+**Folders or Flat**
+- **Folders** (`_FOLDERS` and `_NOTPROPORTIONAL_FOLDER`): the wildcard files are sorted into 12 family folders (people, clothing, accessories, body, pose_camera_style, places, groups, objects, animals, nature_buildings_vehicles, food_tableware and other). References are written `__family/name__`.
+- **Flat** (`_FLAT` and `_NOTPROPORTIONAL_FLAT`): the same wildcard files, all in one single folder. References are written `__name__`.
+
+**Most people should use a Folders zip.** The main Flat zip puts more than 150,000 files in one folder. A folder that big can be slow to open, and programs that scan or index a folder while they look in it or fetch files from it (file browsers, search and backup tools, and some image tools) can slow your whole computer down. Use a Flat zip only if your image tool cannot read wildcards in subfolders.
+
+**Proportional or not proportional**
+- **Proportional** (`_FLAT` and `_FOLDERS`): the wildcard files are weighted to roughly match real-world proportions, so a random person reflects real-world demographics. To do this, a file may list the same option many times, so that it comes up more often. Best for random prompts.
+- **Not proportional** (`_NOTPROPORTIONAL_FLAT` and `_NOTPROPORTIONAL_FOLDER`, called "All Options Once" inside the library, with file names that start `aoo_`): no real-world weighting; each option is listed only once in each file. Best when you choose the options for your characters and scenes yourself, for example from a drop-down list.
+
+**Contents:** [Download](#download-the-latest-version) · [Which zip should I use?](#which-zip-should-i-use) · [Introduction](#introduction) · [What's New in v130](#whats-new-in-v130) · [What's New in v129](#whats-new-in-v129) · [What's New in v128](#whats-new-in-v128) · [What's New in v127](#whats-new-in-v127) · [What's New in v126](#whats-new-in-v126) · [What's New in v125](#whats-new-in-v125) · [What's New in v124](#whats-new-in-v124) · [What's New in v123](#whats-new-in-v123) · [What's New in v122](#whats-new-in-v122) · [What's New in v121](#whats-new-in-v121) · [What's New in v120](#whats-new-in-v120) · [What's New in v119](#whats-new-in-v119) · [What's New in v118](#whats-new-in-v118) · [What's New in v117](#whats-new-in-v117) · [What's New in v116](#whats-new-in-v116) · [What's New in v115](#whats-new-in-v115) · [What's New in v114](#whats-new-in-v114) · [What's New in v113](#whats-new-in-v113) · [What's New in v112](#whats-new-in-v112) · [Features](#features) · [Getting Started](#getting-started) · [Using the Features](#using-the-features) · [Full Changelog](#full-changelog)
 
 ## Introduction
 
@@ -474,7 +488,7 @@ The full list of v104 entry points is in `wildcards/v104_entry_points.txt`.
 - **Framing pack (v57).** `frame_*` files wrap any subject in a clarity opener, a square 1:1 frame and a composition that keeps the subject whole.
 - **Model profiles.** Usage notes for natural-language, tag-style and token-limited models, plus test notes for MOSS-Image.
 - **Python tools (optional).** `wildcards/_tools/` holds builders that regenerate the weighted layers, a test expander, a reference checker, consistency and contradiction checkers, the All Options Once builder and a browser-based prompt viewer. They need Python 3.8+ and no extra packages.
-- **Release editions.** Each release is built as flat and folder editions (the folder edition uses `__family/name__`). Each also comes as an "All Options Once" (not proportional) edition, where every option appears once. The zips are not stored in this repository.
+- **Release editions.** Each release is built as flat and folder editions (the folder edition uses `__family/name__`). Each also comes as an "All Options Once" (not proportional) edition, where every option appears once. The zips are not stored in this repository. See [Which zip should I use?](#which-zip-should-i-use): most people should use a Folders zip.
 
 ## Getting Started
 
