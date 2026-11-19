@@ -10,18 +10,18 @@ balancing a teetering tower of forty teacups on one elbow, perfectly still
 balancing a teetering tower of nine teacups on one knee, perfectly still
 balancing a teetering tower of thirty teacups on the back of one hand, perfectly still
 balancing a teetering tower of twelve teacups on the flat of one palm, perfectly still
-balancing a tall stack of five hardback books on the head, perfectly still
-balancing a tall stack of seven hardback books on the chin, perfectly still
-balancing a tall stack of five hardback books on the nose, perfectly still
-balancing a tall stack of five hardback books on the forehead, perfectly still
-balancing a tall stack of five hardback books on one finger, perfectly still
-balancing a tall stack of five hardback books on one foot held in the air, perfectly still
-balancing a tall stack of seven hardback books on the shoulders, perfectly still
-balancing a tall stack of seven hardback books on the teeth, perfectly still
-balancing a tall stack of nine hardback books on one elbow, perfectly still
-balancing a tall stack of nine hardback books on one knee, perfectly still
-balancing a tall stack of five hardback books on the back of one hand, perfectly still
-balancing a tall stack of seven hardback books on the flat of one palm, perfectly still
+balancing a tall stack of five hardback books, their spines titled "__name_book_title_any__" in gold capitals, on the head, perfectly still
+balancing a tall stack of seven hardback books, their spines titled "__name_book_title_any__" in gold capitals, on the chin, perfectly still
+balancing a tall stack of five hardback books, their spines titled "__name_book_title_any__" in gold capitals, on the nose, perfectly still
+balancing a tall stack of five hardback books, their spines titled "__name_book_title_any__" in gold capitals, on the forehead, perfectly still
+balancing a tall stack of five hardback books, their spines titled "__name_book_title_any__" in gold capitals, on one finger, perfectly still
+balancing a tall stack of five hardback books, their spines titled "__name_book_title_any__" in gold capitals, on one foot held in the air, perfectly still
+balancing a tall stack of seven hardback books, their spines titled "__name_book_title_any__" in gold capitals, on the shoulders, perfectly still
+balancing a tall stack of seven hardback books, their spines titled "__name_book_title_any__" in gold capitals, on the teeth, perfectly still
+balancing a tall stack of nine hardback books, their spines titled "__name_book_title_any__" in gold capitals, on one elbow, perfectly still
+balancing a tall stack of nine hardback books, their spines titled "__name_book_title_any__" in gold capitals, on one knee, perfectly still
+balancing a tall stack of five hardback books, their spines titled "__name_book_title_any__" in gold capitals, on the back of one hand, perfectly still
+balancing a tall stack of seven hardback books, their spines titled "__name_book_title_any__" in gold capitals, on the flat of one palm, perfectly still
 balancing a heavy column of nine bricks on the head, perfectly still
 balancing a heavy column of five bricks on the chin, perfectly still
 balancing a heavy column of seven bricks on the nose, perfectly still
@@ -94,18 +94,18 @@ balancing a bright orange tower of seven traffic cones on one elbow, perfectly s
 balancing a bright orange tower of seven traffic cones on one knee, perfectly still
 balancing a bright orange tower of seven traffic cones on the back of one hand, perfectly still
 balancing a bright orange tower of five traffic cones on the flat of one palm, perfectly still
-balancing a tall stack of forty pizza boxes on the head, perfectly still
-balancing a tall stack of forty pizza boxes on the chin, perfectly still
-balancing a tall stack of seven pizza boxes on the nose, perfectly still
-balancing a tall stack of five pizza boxes on the forehead, perfectly still
-balancing a tall stack of thirty pizza boxes on one finger, perfectly still
-balancing a tall stack of fifteen pizza boxes on one foot held in the air, perfectly still
-balancing a tall stack of twelve pizza boxes on the shoulders, perfectly still
-balancing a tall stack of nine pizza boxes on the teeth, perfectly still
-balancing a tall stack of twenty pizza boxes on one elbow, perfectly still
-balancing a tall stack of thirty pizza boxes on one knee, perfectly still
-balancing a tall stack of fifteen pizza boxes on the back of one hand, perfectly still
-balancing a tall stack of thirty pizza boxes on the flat of one palm, perfectly still
+balancing a tall stack of forty pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on the head, perfectly still
+balancing a tall stack of forty pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on the chin, perfectly still
+balancing a tall stack of seven pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on the nose, perfectly still
+balancing a tall stack of five pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on the forehead, perfectly still
+balancing a tall stack of thirty pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on one finger, perfectly still
+balancing a tall stack of fifteen pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on one foot held in the air, perfectly still
+balancing a tall stack of twelve pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on the shoulders, perfectly still
+balancing a tall stack of nine pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on the teeth, perfectly still
+balancing a tall stack of twenty pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on one elbow, perfectly still
+balancing a tall stack of thirty pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on one knee, perfectly still
+balancing a tall stack of fifteen pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on the back of one hand, perfectly still
+balancing a tall stack of thirty pizza boxes printed "__name_brand_upper__ PIZZA" in red print, on the flat of one palm, perfectly still
 balancing a thin shining column of forty coins on the head, perfectly still
 balancing a thin shining column of thirty coins on the chin, perfectly still
 balancing a thin shining column of seven coins on the nose, perfectly still

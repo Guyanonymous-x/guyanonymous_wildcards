@@ -1,9 +1,9 @@
-a bible, cream, covered in mud
-a bible, cream, well used with light wear
-a bible, green, faded by sun
-a bible, navy, decorated with stickers
-a bible, pastel, covered in frost
-a bible, turquoise, heavily worn and scratched
+a bible with "__text_holy_book_christian__" in gold capitals on the cover, cream, covered in mud
+a bible with "__text_holy_book_christian__" in gold capitals on the cover, cream, well used with light wear
+a bible with "__text_holy_book_christian__" in gold capitals on the cover, green, faded by sun
+a bible with "__text_holy_book_christian__" in gold capitals on the cover, navy, decorated with stickers
+a bible with "__text_holy_book_christian__" in gold capitals on the cover, pastel, covered in frost
+a bible with "__text_holy_book_christian__" in gold capitals on the cover, turquoise, heavily worn and scratched
 a bookmark, copper, brand new and spotless
 a bookmark, green, faded by sun
 a bookmark, striped, rusted at the edges
@@ -17,57 +17,57 @@ a clipboard, green, antique with a patina
 a clipboard, olive, wet with rain
 a clipboard, rainbow-coloured, faded by sun
 a clipboard, silver, restored to showroom finish
-a comic book stack, blue, freshly polished
-a comic book stack, matte black, dusty from storage
-a comic book stack, pink, decorated with stickers
-a comic book stack, rainbow-coloured, wrapped in protective cover
-a diary with a lock, burgundy, rusted at the edges
-a diary with a lock, matte black, heavily worn and scratched
-a diary with a lock, matte black, wet with rain
-a diary with a lock, olive, wrapped in protective cover
-a diary with a lock, orange, faded by sun
-a diary with a lock, purple, covered in frost
-a diary with a lock, silver, covered in mud
+a comic book stack with covers titled "__name_book_title_any__" __text_look_print__, blue, freshly polished
+a comic book stack with covers titled "__name_book_title_any__" __text_look_print__, matte black, dusty from storage
+a comic book stack with covers titled "__name_book_title_any__" __text_look_print__, pink, decorated with stickers
+a comic book stack with covers titled "__name_book_title_any__" __text_look_print__, rainbow-coloured, wrapped in protective cover
+a diary with a lock with "DIARY" in gold script on the cover, burgundy, rusted at the edges
+a diary with a lock with "DIARY" in gold script on the cover, matte black, heavily worn and scratched
+a diary with a lock with "DIARY" in gold script on the cover, matte black, wet with rain
+a diary with a lock with "DIARY" in gold script on the cover, olive, wrapped in protective cover
+a diary with a lock with "DIARY" in gold script on the cover, orange, faded by sun
+a diary with a lock with "DIARY" in gold script on the cover, purple, covered in frost
+a diary with a lock with "DIARY" in gold script on the cover, silver, covered in mud
 a drawing board, black, wrapped in protective cover
 a drawing board, purple, brand new and spotless
 a drawing board, two-tone, faded by sun
 a fountain pen, grey, covered in mud
 a fountain pen, navy, antique with a patina
-a fountain pen, navy, decorated with stickers
+a fountain pen, navy, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a fountain pen, purple, dusty from storage
 a fountain pen, purple, rusted at the edges
 a globe, burgundy, rusted at the edges
 a globe, gold, well used with light wear
 a globe, neon, covered in mud
 a globe, pink, brand new and spotless
-a globe, purple, decorated with stickers
-a hymnal, rainbow-coloured, antique with a patina
-a hymnal, red, faded by sun
-a hymnal, red, wet with rain
-a hymnal, two-tone, freshly polished
+a globe, purple, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
+a hymnal with "__text_hymn_book__" in gold capitals on the cover, rainbow-coloured, antique with a patina
+a hymnal with "__text_hymn_book__" in gold capitals on the cover, red, faded by sun
+a hymnal with "__text_hymn_book__" in gold capitals on the cover, red, wet with rain
+a hymnal with "__text_hymn_book__" in gold capitals on the cover, two-tone, freshly polished
 a label maker, blue, faded by sun
 a label maker, matte black, rusted at the edges
-a leather-bound journal, gold, hand-made and slightly uneven
-a leather-bound journal, matte black, battered but working
-a leather-bound journal, neon, wrapped in protective cover
-a ledger, chrome, restored to showroom finish
-a ledger, matte black, covered in frost
-a ledger, silver, dusty from storage
+a leather-bound journal with the initials "__name_initials__" stamped in gold on the cover, gold, hand-made and slightly uneven
+a leather-bound journal with the initials "__name_initials__" stamped in gold on the cover, matte black, battered but working
+a leather-bound journal with the initials "__name_initials__" stamped in gold on the cover, neon, wrapped in protective cover
+a ledger with "LEDGER" in gold capitals on the cover, chrome, restored to showroom finish
+a ledger with "LEDGER" in gold capitals on the cover, matte black, covered in frost
+a ledger with "LEDGER" in gold capitals on the cover, silver, dusty from storage
 a library shelf, matte black, restored to showroom finish
 a library shelf, olive, hand-made and slightly uneven
 a library shelf, orange, covered in frost
 a library shelf, orange, heavily worn and scratched
 a library shelf, purple, freshly polished
-a library shelf, speckled, decorated with stickers
+a library shelf, speckled, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a library shelf, two-tone, wet with rain
 a library shelf, white, antique with a patina
 a library shelf, white, rusted at the edges
-a magazine pile, burgundy, wrapped in protective cover
-a magazine pile, orange, antique with a patina
-a magazine pile, yellow, faded by sun
+a magazine pile with mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures, burgundy, wrapped in protective cover
+a magazine pile with mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures, orange, antique with a patina
+a magazine pile with mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures, yellow, faded by sun
 a manga volume, brown, faded by sun
 a manga volume, navy, restored to showroom finish
-a manga volume, red, decorated with stickers
+a manga volume, red, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a manga volume, striped, well used with light wear
 a map on a table, chrome, hand-made and slightly uneven
 a map on a table, gold, freshly polished
@@ -75,24 +75,24 @@ a map on a table, green, heavily worn and scratched
 a map on a table, neon, covered in frost
 a map on a table, orange, brand new and spotless
 a newspaper with the headline "__text_headline__" __text_look_headline__, brown, faded by sun
-a notebook with doodles, gold, freshly polished
-a notebook with doodles, neon, covered in mud
-a notebook with doodles, red, rusted at the edges
-a notebook with doodles, silver, hand-made and slightly uneven
-a notebook with doodles, yellow, covered in frost
-a notebook with doodles, yellow, dusty from storage
-a pile of paperbacks, black, wet with rain
-a pile of paperbacks, grey, dusty from storage
-a pile of paperbacks, grey, wrapped in protective cover
-a pile of paperbacks, striped, battered but working
-a pile of paperbacks, white, antique with a patina
-a postcard, grey, wet with rain
-a postcard, matte black, faded by sun
-a postcard, olive, covered in mud
-a postcard, pastel, freshly polished
-a postcard, rainbow-coloured, covered in frost
-a postcard, speckled, decorated with stickers
-a rolodex, black, decorated with stickers
+a notebook with doodles with "__name_first__" in bubble letters among the doodles on the cover, gold, freshly polished
+a notebook with doodles with "__name_first__" in bubble letters among the doodles on the cover, neon, covered in mud
+a notebook with doodles with "__name_first__" in bubble letters among the doodles on the cover, red, rusted at the edges
+a notebook with doodles with "__name_first__" in bubble letters among the doodles on the cover, silver, hand-made and slightly uneven
+a notebook with doodles with "__name_first__" in bubble letters among the doodles on the cover, yellow, covered in frost
+a notebook with doodles with "__name_first__" in bubble letters among the doodles on the cover, yellow, dusty from storage
+a pile of paperbacks with spines reading "__name_book_title_any__" in small print, black, wet with rain
+a pile of paperbacks with spines reading "__name_book_title_any__" in small print, grey, dusty from storage
+a pile of paperbacks with spines reading "__name_book_title_any__" in small print, grey, wrapped in protective cover
+a pile of paperbacks with spines reading "__name_book_title_any__" in small print, striped, battered but working
+a pile of paperbacks with spines reading "__name_book_title_any__" in small print, white, antique with a patina
+a postcard printed "GREETINGS FROM __name_town__" in bold colored letters, grey, wet with rain
+a postcard printed "GREETINGS FROM __name_town__" in bold colored letters, matte black, faded by sun
+a postcard printed "GREETINGS FROM __name_town__" in bold colored letters, olive, covered in mud
+a postcard printed "GREETINGS FROM __name_town__" in bold colored letters, pastel, freshly polished
+a postcard printed "GREETINGS FROM __name_town__" in bold colored letters, rainbow-coloured, covered in frost
+a postcard printed "GREETINGS FROM __name_town__" in bold colored letters, speckled, decorated with stickers
+a rolodex, black, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a rolodex, burgundy, antique with a patina
 a rolodex, pink, covered in frost
 a rolodex, speckled, dusty from storage
@@ -117,20 +117,20 @@ a sketchbook, teal, wrapped in protective cover
 a sketchbook, yellow, hand-made and slightly uneven
 a stack of folders, silver, rusted at the edges
 a stack of folders, teal, hand-made and slightly uneven
-a stack of old books, two-tone, rusted at the edges
-a stack of old books, white, battered but working
+a stack of old books with "__name_book_title_any__" in faded gold letters on the top spine, the other spines plain, two-tone, rusted at the edges
+a stack of old books with "__name_book_title_any__" in faded gold letters on the top spine, the other spines plain, white, battered but working
 a typewriter and paper, navy, faded by sun
-a typewriter and paper, olive, decorated with stickers
+a typewriter and paper, olive, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a typewriter and paper, teal, covered in mud
 a typewriter and paper, two-tone, antique with a patina
 a watercolour set, chrome, battered but working
-a watercolour set, neon, decorated with stickers
+a watercolour set, neon, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a watercolour set, pink, faded by sun
 a watercolour set, pink, well used with light wear
 a watercolour set, white, freshly polished
 an atlas, cream, restored to showroom finish
 an atlas, gold, brand new and spotless
-an atlas, gold, decorated with stickers
+an atlas, gold, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 an atlas, green, covered in mud
 an atlas, orange, freshly polished
 an atlas, turquoise, wet with rain

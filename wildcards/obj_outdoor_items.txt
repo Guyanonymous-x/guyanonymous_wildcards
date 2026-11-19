@@ -6,17 +6,17 @@ a puddle and a taxi rank
 a puddle and a row of recycling bins
 a busker's guitar case and a rickshaw waiting
 a well with a bucket and a goat tied to a rail
-a mailbox and a stone lantern
+a mailbox marked "POST" in white capitals and a stone lantern
 a wooden fence and a pile of coconuts
 a food truck and a pagoda roof
-a tricycle taxi and a mailbox
+a tricycle taxi and a mailbox marked "POST" in white capitals
 a shuttered shop front and a row of payphones
 a church bell tower and a donkey cart
 a crate of live crabs and a satellite dish
 a prayer flag and a rusty gate
 a market scale and a pile of building materials
 a parked bicycle and a tricycle taxi
-a rooftop water tank and a bus shelter with a faded timetable
+a rooftop water tank and a bus shelter with a faded timetable reading "__text_departure__"
 a bale of hay and a torii gate
 a cat on a wall and a puddle
 a goat tied to a rail and a busker's guitar case
@@ -32,7 +32,7 @@ a wooden bench and a scaffolding of bamboo
 a line of washing and a phone box
 a charcoal grill and a rooftop water tank
 a row of payphones and a rickshaw waiting
-a bin overflowing with leaflets and a rack of kebabs
+a bin overflowing with leaflets reading "__text_flyer__" and a rack of kebabs
 a minaret and a spice stall
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a stray dog sleeping
 a stack of sandbags and a flower stall
@@ -84,10 +84,10 @@ a mural and a flag fluttering
 a manhole cover steaming and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
 a goat tied to a rail and a bird on a wire
 a pile of firewood and a skateboard ramp
-a shrine with offerings and a mailbox
-a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a bin overflowing with leaflets
+a shrine with offerings and a mailbox marked "POST" in white capitals
+a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a bin overflowing with leaflets reading "__text_flyer__"
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a puddle
-a bin overflowing with leaflets and a stack of woven baskets
+a bin overflowing with leaflets reading "__text_flyer__" and a stack of woven baskets
 a mural and a crate of live crabs
 a rack of kebabs and a fruit stall with crates
 a lamppost with peeling paint and a cracked pavement
@@ -108,17 +108,17 @@ a minaret and a goat tied to a rail
 a pile of coconuts and a stone lantern
 a pile of coconuts and a lamppost with peeling paint
 a clothesline between balconies and a hot-dog cart
-a cat on a wall and a war memorial
+a cat on a wall and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a delivery van parked at the kerb and a clothesline between balconies
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
 a handcart loaded with boxes and a vending machine glowing
-a mailbox and a drying rack of fish
+a mailbox marked "POST" in white capitals and a drying rack of fish
 a stack of tyres and a food truck
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a flag fluttering
 a cash machine and a clothesline between balconies
 a spice stall and a goat tied to a rail
 a wheelbarrow and a plastic stool beside a stall
-a temple bell and a war memorial
+a temple bell and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a flock of pigeons and a row of recycling bins
 a line of washing and a newspaper kiosk with "__name_newspaper__" on the papers in its rack
 a flag fluttering and a wooden fence
@@ -142,7 +142,7 @@ a well with a bucket and a wooden fence
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a hot-dog cart
 a rickshaw waiting and a bale of hay
 a market clock and a stone lantern
-a pile of firewood and a war memorial
+a pile of firewood and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a church bell tower and a row of colourful umbrellas
 a minaret and a stone lantern
 a rack of kebabs and a street piano
@@ -166,7 +166,7 @@ a row of recycling bins and a skateboard ramp
 a vending machine glowing and a lamppost with peeling paint
 a war memorial and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
 a charcoal grill and a scaffolding of bamboo
-a charcoal grill and a mailbox
+a charcoal grill and a mailbox marked "POST" in white capitals
 a stack of woven baskets and a tricycle taxi
 a stack of sandbags and a stack of lobster pots
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a tuk-tuk
@@ -174,7 +174,7 @@ a satellite dish
 a donkey cart and a pagoda roof
 a flock of pigeons and a lighthouse in the distance
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a stone fountain
-a market umbrella and a bus shelter with a faded timetable
+a market umbrella and a bus shelter with a faded timetable reading "__text_departure__"
 a shrine with offerings and a line of washing
 a rusty gate and a fruit stall with crates
 a fruit stall with crates and a market clock
@@ -182,14 +182,14 @@ a chained-up bike and a stack of woven baskets
 a fishing boat pulled up on the shore and a market umbrella
 a row of recycling bins and a row of recycling bins
 a stack of tyres and a stack of lobster pots
-a bus shelter with a faded timetable and a chained-up bike
+a bus shelter with a faded timetable reading "__text_departure__" and a chained-up bike
 a parked bicycle and a scaffolding of bamboo
 a pile of firewood
 a busker's guitar case and a delivery van parked at the kerb
 a market umbrella and a farm gate
 a pile of building materials and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
 a stack of lobster pots and a pile of building materials
-a church bell tower and a mailbox
+a church bell tower and a mailbox marked "POST" in white capitals
 a pile of coconuts and a market clock
 a row of payphones and a mural
 a crate of live crabs and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
@@ -208,20 +208,20 @@ a temple bell and a cash machine
 a tram stop
 a donkey cart and a rooftop water tank
 a goat tied to a rail and a prayer flag
-a pagoda roof and a bin overflowing with leaflets
+a pagoda roof and a bin overflowing with leaflets reading "__text_flyer__"
 a cash machine and a cat on a wall
 a horse tied to a post and a drainpipe with moss
 a fishing boat pulled up on the shore and a market clock
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a street piano
 a tricycle taxi and a clothesline between balconies
-a market scale and a bin overflowing with leaflets
+a market scale and a bin overflowing with leaflets reading "__text_flyer__"
 a fruit stall with crates and a crate of live crabs
 a tram stop and a rusty gate
 a cart of oranges and a food truck
 a clothesline between balconies and a clothesline between balconies
 a skateboard ramp and a row of recycling bins
 a farm gate and a line of washing
-a war memorial and a water pump
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a water pump
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a rusty gate
 a rack of kebabs and a cart of oranges
 a vending machine glowing and a taxi rank
@@ -230,7 +230,7 @@ a scaffolding of bamboo and a taxi rank
 a war memorial and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a chained-up bike
 a lighthouse in the distance and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
-a rusty gate and a bus shelter with a faded timetable
+a rusty gate and a bus shelter with a faded timetable reading "__text_departure__"
 a cracked pavement and a fishing boat pulled up on the shore
 a skateboard ramp and a market scale
 a wooden fence and a tricycle taxi
@@ -239,7 +239,7 @@ a water pump and a donkey cart
 a scaffolding of bamboo and a flag fluttering
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a statue on a plinth
 a pile of building materials and a taxi rank
-a war memorial and a bale of hay
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a bale of hay
 a shrine with offerings and a stray dog sleeping
 a drainpipe with moss and a market umbrella
 a fishing boat pulled up on the shore and a delivery van parked at the kerb
@@ -267,7 +267,7 @@ a rooftop water tank and a crate of live crabs
 a market scale and a newspaper kiosk with "__name_newspaper__" on the papers in its rack
 a donkey cart and a satellite dish
 a stone wall and a pile of coconuts
-a bin overflowing with leaflets and a pile of coconuts
+a bin overflowing with leaflets reading "__text_flyer__" and a pile of coconuts
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a camel resting
 a drying rack of fish and a shrine with offerings
 a church bell tower and a row of payphones
@@ -288,12 +288,12 @@ a rack of kebabs and a roadside shrine
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a tram stop
 a stack of tyres and a charcoal grill
 a well with a bucket and a rack of kebabs
-a well with a bucket and a war memorial
+a well with a bucket and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a wooden fence and a row of colourful umbrellas
 a tricycle taxi and a roadside shrine
 a vending machine glowing and a pile of coconuts
 a goat tied to a rail and a bus stop sign reading "BUS STOP" in white letters on a blue plate
-a bus shelter with a faded timetable and a drying rack of fish
+a bus shelter with a faded timetable reading "__text_departure__" and a drying rack of fish
 a well with a bucket and a well with a bucket
 a donkey cart and a spice stall
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a stone lantern
@@ -304,14 +304,14 @@ a stack of lobster pots and a pagoda roof
 a stack of tyres and a stack of tyres
 a vending machine glowing and a water pump
 a taxi rank and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
-a bus shelter with a faded timetable and a clothesline between balconies
+a bus shelter with a faded timetable reading "__text_departure__" and a clothesline between balconies
 a stack of sandbags and a rack of kebabs
 a well with a bucket and a stone wall
 a puddle and a stack of woven baskets
 a street piano and a stack of woven baskets
 a food truck and a flag fluttering
 a tuk-tuk and a well with a bucket
-a bus shelter with a faded timetable and a row of parked scooters
+a bus shelter with a faded timetable reading "__text_departure__" and a row of parked scooters
 a cash machine and a fishing boat pulled up on the shore
 a delivery van parked at the kerb and a fishing boat pulled up on the shore
 a taxi rank and a wooden fence
@@ -341,7 +341,7 @@ a manhole cover steaming and a pile of firewood
 a delivery van parked at the kerb and a cat on a wall
 a fruit stall with crates and a street piano
 a stack of sandbags and a puddle
-a stone lantern and a war memorial
+a stone lantern and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a delivery van parked at the kerb and a cash machine
 a fruit stall with crates and a row of colourful umbrellas
 a busker's guitar case and a cat on a wall
@@ -355,7 +355,7 @@ a food truck and a drying rack of fish
 a fishing boat pulled up on the shore and a stack of sandbags
 a bale of hay and a stone wall
 a church bell tower and a delivery van parked at the kerb
-a bin overflowing with leaflets and a hot-dog cart
+a bin overflowing with leaflets reading "__text_flyer__" and a hot-dog cart
 a prayer flag and a pile of firewood
 a bird on a wire and a handcart loaded with boxes
 a wooden fence and a donkey cart
@@ -369,7 +369,7 @@ a spice stall and a bus stop sign reading "BUS STOP" in white letters on a blue 
 a skateboard ramp and a lamppost with peeling paint
 a row of payphones and a stone wall
 a well with a bucket and a market scale
-a mailbox and a delivery van parked at the kerb
+a mailbox marked "POST" in white capitals and a delivery van parked at the kerb
 a church bell tower and a goat tied to a rail
 a water pump and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
 a phone box and a rickshaw waiting
@@ -399,22 +399,22 @@ a market clock and a satellite dish
 a market scale and a roadside shrine
 a phone box and a minaret
 a phone box and a flag fluttering
-a lighthouse in the distance and a bus shelter with a faded timetable
+a lighthouse in the distance and a bus shelter with a faded timetable reading "__text_departure__"
 a cart of oranges and a minaret
 a cat on a wall and a charcoal grill
-a bin overflowing with leaflets and a stack of lobster pots
+a bin overflowing with leaflets reading "__text_flyer__" and a stack of lobster pots
 a temple bell and a flower stall
 a lighthouse in the distance and a bus stop sign reading "BUS STOP" in white letters on a blue plate
 a stray dog sleeping and a stone lantern
 a pile of firewood and a lamppost with peeling paint
 a cracked pavement and a clothesline between balconies
-a stack of sandbags and a bin overflowing with leaflets
-a bus shelter with a faded timetable and a market clock
+a stack of sandbags and a bin overflowing with leaflets reading "__text_flyer__"
+a bus shelter with a faded timetable reading "__text_departure__" and a market clock
 a rusty gate and a pagoda roof
 a tuk-tuk and a statue on a plinth
 a prayer flag and a charcoal grill
 a satellite dish and a taxi rank
-a war memorial and a scaffolding of bamboo
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a scaffolding of bamboo
 a stack of tyres and a shrine with offerings
 a bird on a wire
 a fishing boat pulled up on the shore and a phone box
@@ -442,16 +442,16 @@ a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a 
 a stack of lobster pots and a mural
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a handcart loaded with boxes
 a church bell tower and a puddle
-a bin overflowing with leaflets and a prayer flag
+a bin overflowing with leaflets reading "__text_flyer__" and a prayer flag
 a tram stop and a puddle
 a stone lantern and a well with a bucket
-a bin overflowing with leaflets and a farm gate
+a bin overflowing with leaflets reading "__text_flyer__" and a farm gate
 a rusty gate and a tricycle taxi
 a prayer flag and a flag fluttering
 a puddle and a vending machine glowing
 a handcart loaded with boxes and a row of recycling bins
 a handcart loaded with boxes and a wooden bench
-a rickshaw waiting and a war memorial
+a rickshaw waiting and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a market umbrella and a busker's guitar case
 a row of payphones and a stack of sandbags
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack
@@ -462,9 +462,9 @@ a bale of hay and a bale of hay
 a clothesline between balconies and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
 a stack of sandbags and a cracked pavement
 a stray dog sleeping and a rack of kebabs
-a manhole cover steaming and a bin overflowing with leaflets
+a manhole cover steaming and a bin overflowing with leaflets reading "__text_flyer__"
 a pagoda roof and a row of parked scooters
-a farm gate and a war memorial
+a farm gate and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a stray dog sleeping and a horse tied to a post
 a flag fluttering and a rack of kebabs
 a shrine with offerings and a stack of woven baskets
@@ -487,13 +487,13 @@ a bale of hay and a graffiti-covered shutter with "__text_graffiti_word__" spray
 a stack of woven baskets and a phone box
 a pile of building materials and a line of washing
 a puddle and a church bell tower
-a war memorial and a wheelbarrow
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a wheelbarrow
 a pile of building materials and a bird on a wire
 a tuk-tuk and a stack of sandbags
 a busker's guitar case and a cash machine
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a bird on a wire
 a line of washing and a row of parked scooters
-a flower stall and a bus shelter with a faded timetable
+a flower stall and a bus shelter with a faded timetable reading "__text_departure__"
 a stone fountain and a farm gate
 a plastic stool beside a stall and a drying rack of fish
 a tricycle taxi and a skateboard ramp
@@ -517,11 +517,11 @@ a well with a bucket and a cat on a wall
 a parked bicycle and a delivery van parked at the kerb
 a rusty gate and a torii gate
 a rickshaw waiting and a stone lantern
-a bus shelter with a faded timetable and a wooden bench
+a bus shelter with a faded timetable reading "__text_departure__" and a wooden bench
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a row of colourful umbrellas
 a rooftop water tank and a lighthouse in the distance
 a stack of lobster pots and a stone wall
-a mailbox and a parked bicycle
+a mailbox marked "POST" in white capitals and a parked bicycle
 a chained-up bike and a pile of firewood
 a pile of coconuts and a market umbrella
 a chained-up bike and a stone fountain
@@ -536,8 +536,8 @@ a fishing boat pulled up on the shore and a flag fluttering
 a cracked pavement and a stack of woven baskets
 a cart of oranges and a bus stop sign reading "BUS STOP" in white letters on a blue plate
 a tuk-tuk and a market clock
-a cat on a wall and a bus shelter with a faded timetable
-a pile of firewood and a bus shelter with a faded timetable
+a cat on a wall and a bus shelter with a faded timetable reading "__text_departure__"
+a pile of firewood and a bus shelter with a faded timetable reading "__text_departure__"
 a pile of firewood and a manhole cover steaming
 a cash machine and a mural
 a busker's guitar case and a bale of hay
@@ -556,8 +556,8 @@ a stack of tyres and a stone fountain
 a tuk-tuk and a pagoda roof
 a temple bell and a farm gate
 a stack of woven baskets and a statue on a plinth
-a war memorial and a row of recycling bins
-a bin overflowing with leaflets and a line of washing
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a row of recycling bins
+a bin overflowing with leaflets reading "__text_flyer__" and a line of washing
 a row of parked scooters and a minaret
 a plastic stool beside a stall and a phone box
 a rack of kebabs and a flock of pigeons
@@ -573,12 +573,12 @@ a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a 
 a camel resting and a crate of live crabs
 a tricycle taxi and a flock of pigeons
 a charcoal grill and a donkey cart
-a war memorial and a war memorial
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a row of recycling bins and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
 a cash machine and a row of parked scooters
 a row of parked scooters and a stone wall
 a puddle and a horse tied to a post
-a mural and a bus shelter with a faded timetable
+a mural and a bus shelter with a faded timetable reading "__text_departure__"
 a rusty gate
 a rusty gate and a plastic stool beside a stall
 a scaffolding of bamboo and a satellite dish
@@ -586,7 +586,7 @@ a cat on a wall and a cart of oranges
 a donkey cart and a bird on a wire
 a goat tied to a rail and a shuttered shop front
 a stray dog sleeping and a puddle
-a war memorial and a camel resting
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a camel resting
 a hot-dog cart and a tuk-tuk
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a row of payphones
 a delivery van parked at the kerb and a temple bell
@@ -600,7 +600,7 @@ a hot-dog cart and a stray dog sleeping
 a delivery van parked at the kerb and a bale of hay
 a handcart loaded with boxes and a prayer flag
 a row of parked scooters and a lighthouse in the distance
-a cracked pavement and a war memorial
+a cracked pavement and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a rooftop water tank and a flower stall
 a bale of hay and a rickshaw waiting
 a goat tied to a rail and a tuk-tuk
@@ -658,21 +658,21 @@ a market umbrella and a stone wall
 a vending machine glowing and a statue on a plinth
 a church bell tower and a rooftop water tank
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a torii gate
-a bird on a wire and a war memorial
+a bird on a wire and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a shuttered shop front
 a donkey cart and a lamppost with peeling paint
 a drainpipe with moss and a charcoal grill
 a farm gate and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
-a vending machine glowing and a war memorial
-a street piano and a bus shelter with a faded timetable
+a vending machine glowing and a war memorial carved "__text_memorial__" __text_look_carved_stone__
+a street piano and a bus shelter with a faded timetable reading "__text_departure__"
 a busker's guitar case and a flock of pigeons
-a mailbox and a red lantern
+a mailbox marked "POST" in white capitals and a red lantern
 a horse tied to a post and a newspaper kiosk with "__name_newspaper__" on the papers in its rack
 a pile of coconuts and a drying rack of fish
-a bus shelter with a faded timetable and a crate of live crabs
+a bus shelter with a faded timetable reading "__text_departure__" and a crate of live crabs
 a stone fountain and a tuk-tuk
 a chained-up bike and a fishing boat pulled up on the shore
-a cracked pavement and a mailbox
+a cracked pavement and a mailbox marked "POST" in white capitals
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a shuttered shop front
 a flag fluttering and a satellite dish
 a market umbrella and a food truck
@@ -684,20 +684,20 @@ a parked bicycle and a street piano
 a flock of pigeons and a row of payphones
 a puddle and a rusty gate
 a flock of pigeons and a satellite dish
-a hot-dog cart and a bin overflowing with leaflets
+a hot-dog cart and a bin overflowing with leaflets reading "__text_flyer__"
 a cat on a wall and a horse tied to a post
-a bin overflowing with leaflets and a shuttered shop front
+a bin overflowing with leaflets reading "__text_flyer__" and a shuttered shop front
 a street piano and a rusty gate
 a scaffolding of bamboo and a goat tied to a rail
 a taxi rank and a shrine with offerings
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a tuk-tuk
 a bale of hay and a scaffolding of bamboo
 a temple bell and a drying rack of fish
-a stray dog sleeping and a bus shelter with a faded timetable
+a stray dog sleeping and a bus shelter with a faded timetable reading "__text_departure__"
 a rusty gate and a puddle
 a minaret and a flag fluttering
 a food truck and a lighthouse in the distance
-a cart of oranges and a bus shelter with a faded timetable
+a cart of oranges and a bus shelter with a faded timetable reading "__text_departure__"
 a manhole cover steaming
 a wooden fence and a mural
 a pile of firewood and a rickshaw waiting
@@ -706,9 +706,9 @@ a street piano and a donkey cart
 a prayer flag and a prayer flag
 a manhole cover steaming and a fruit stall with crates
 a stone fountain and a charcoal grill
-a mailbox and a flag fluttering
+a mailbox marked "POST" in white capitals and a flag fluttering
 a food truck and a busker's guitar case
-a rickshaw waiting and a bin overflowing with leaflets
+a rickshaw waiting and a bin overflowing with leaflets reading "__text_flyer__"
 a flower stall and a pile of firewood
 a roadside shrine and a flower stall
 a rooftop water tank and a rickshaw waiting
@@ -724,7 +724,7 @@ a farm gate and a food truck
 a phone box and a donkey cart
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a camel resting
 a phone box and a row of colourful umbrellas
-a stone wall and a war memorial
+a stone wall and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a row of recycling bins and a shrine with offerings
 a vending machine glowing and a delivery van parked at the kerb
 a lamppost with peeling paint and a stack of tyres
@@ -734,12 +734,12 @@ a pagoda roof and a wooden bench
 a flag fluttering and a stone wall
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a chained-up bike
 a puddle and a chained-up bike
-a hot-dog cart and a bus shelter with a faded timetable
+a hot-dog cart and a bus shelter with a faded timetable reading "__text_departure__"
 a rickshaw waiting and a church bell tower
 a tram stop and a minaret
 a shrine with offerings and a skateboard ramp
 a cart of oranges and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
-a mailbox and a cash machine
+a mailbox marked "POST" in white capitals and a cash machine
 a rickshaw waiting and a delivery van parked at the kerb
 a pile of coconuts and a flag fluttering
 a rack of kebabs and a red lantern
@@ -747,7 +747,7 @@ a cart of oranges and a flock of pigeons
 a pagoda roof and a flock of pigeons
 a shuttered shop front and a newspaper kiosk with "__name_newspaper__" on the papers in its rack
 a horse tied to a post and a pile of firewood
-a torii gate and a bus shelter with a faded timetable
+a torii gate and a bus shelter with a faded timetable reading "__text_departure__"
 a camel resting
 a torii gate and a stray dog sleeping
 a pile of building materials and a pagoda roof
@@ -765,7 +765,7 @@ a manhole cover steaming and a market umbrella
 a stone lantern and a farm gate
 a prayer flag and a flower stall
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a skateboard ramp
-a mailbox and a horse tied to a post
+a mailbox marked "POST" in white capitals and a horse tied to a post
 a red lantern and a cash machine
 a taxi rank and a crate of live crabs
 a row of recycling bins and a prayer flag
@@ -780,7 +780,7 @@ a market umbrella and a donkey cart
 a statue on a plinth and a prayer flag
 a water pump
 a flock of pigeons and a goat tied to a rail
-a cart of oranges and a war memorial
+a cart of oranges and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a goat tied to a rail and a cart of oranges
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a temple bell
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a manhole cover steaming
@@ -793,30 +793,30 @@ a cash machine and a line of washing
 a church bell tower and a stray dog sleeping
 a delivery van parked at the kerb and a stone fountain
 a temple bell and a lighthouse in the distance
-a bus shelter with a faded timetable and a phone box
+a bus shelter with a faded timetable reading "__text_departure__" and a phone box
 a row of payphones and a tuk-tuk
 a stack of lobster pots and a parked bicycle
 a rack of kebabs and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a plastic stool beside a stall
 a rack of kebabs and a torii gate
 a drainpipe with moss and a minaret
-a war memorial and a line of washing
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a line of washing
 a market scale and a taxi rank
-a bus shelter with a faded timetable and a shrine with offerings
+a bus shelter with a faded timetable reading "__text_departure__" and a shrine with offerings
 a red lantern and a taxi rank
 a minaret and a row of colourful umbrellas
 a scaffolding of bamboo and a scaffolding of bamboo
-a phone box and a bus shelter with a faded timetable
+a phone box and a bus shelter with a faded timetable reading "__text_departure__"
 a minaret and a farm gate
 a church bell tower and a church bell tower
-a bin overflowing with leaflets and a rickshaw waiting
+a bin overflowing with leaflets reading "__text_flyer__" and a rickshaw waiting
 a stone wall and a market umbrella
 a row of colourful umbrellas and a flock of pigeons
 a prayer flag and a tricycle taxi
 a roadside shrine and a phone box
 a cash machine and a row of recycling bins
-a bus shelter with a faded timetable and a flock of pigeons
-a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a bin overflowing with leaflets
+a bus shelter with a faded timetable reading "__text_departure__" and a flock of pigeons
+a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a bin overflowing with leaflets reading "__text_flyer__"
 a torii gate and a tuk-tuk
 a shrine with offerings and a manhole cover steaming
 a row of colourful umbrellas and a shrine with offerings
@@ -847,7 +847,7 @@ a cart of oranges and a handcart loaded with boxes
 a pile of coconuts
 a cracked pavement and a statue on a plinth
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a scaffolding of bamboo
-a bin overflowing with leaflets and a stray dog sleeping
+a bin overflowing with leaflets reading "__text_flyer__" and a stray dog sleeping
 a red lantern and a wheelbarrow
 a cat on a wall
 a stack of tyres and a temple bell
@@ -880,7 +880,7 @@ a vending machine glowing and a phone box
 a drainpipe with moss and a tricycle taxi
 a mural and a handcart loaded with boxes
 a pile of firewood and a rooftop water tank
-a bin overflowing with leaflets and a satellite dish
+a bin overflowing with leaflets reading "__text_flyer__" and a satellite dish
 a stone wall and a phone box
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a phone box
 a donkey cart and a tram stop
@@ -902,12 +902,12 @@ a pile of building materials and a cracked pavement
 a fruit stall with crates and a drainpipe with moss
 a vending machine glowing and a flag fluttering
 a fruit stall with crates and a skateboard ramp
-a mailbox and a mural
+a mailbox marked "POST" in white capitals and a mural
 a stray dog sleeping
 a stray dog sleeping and a stack of sandbags
 a row of parked scooters and a drainpipe with moss
 a hot-dog cart and a wheelbarrow
-a bus shelter with a faded timetable and a well with a bucket
+a bus shelter with a faded timetable reading "__text_departure__" and a well with a bucket
 a line of washing and a plastic stool beside a stall
 a street piano and a stray dog sleeping
 a fruit stall with crates and a stack of lobster pots
@@ -918,7 +918,7 @@ a stone lantern and a tuk-tuk
 a rusty gate and a stack of woven baskets
 a wooden bench and a goat tied to a rail
 a camel resting and a row of payphones
-a bus shelter with a faded timetable and a tuk-tuk
+a bus shelter with a faded timetable reading "__text_departure__" and a tuk-tuk
 a rack of kebabs and a puddle
 a stack of lobster pots and a skateboard ramp
 a cat on a wall and a newspaper kiosk with "__name_newspaper__" on the papers in its rack
@@ -958,9 +958,9 @@ a stray dog sleeping and a wooden fence
 a wheelbarrow and a well with a bucket
 a flock of pigeons
 a pile of coconuts and a stone wall
-a church bell tower and a bus shelter with a faded timetable
+a church bell tower and a bus shelter with a faded timetable reading "__text_departure__"
 a tricycle taxi and a temple bell
-a rooftop water tank and a bin overflowing with leaflets
+a rooftop water tank and a bin overflowing with leaflets reading "__text_flyer__"
 a chained-up bike and a stack of tyres
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a donkey cart
 a pile of building materials and a flower stall
@@ -974,11 +974,11 @@ a scaffolding of bamboo and a rooftop water tank
 a tricycle taxi and a bale of hay
 a stone wall and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
 a food truck and a tricycle taxi
-a mailbox and a pagoda roof
+a mailbox marked "POST" in white capitals and a pagoda roof
 a stray dog sleeping and a delivery van parked at the kerb
 a food truck and a market scale
 a vending machine glowing and a wooden bench
-a bin overflowing with leaflets and a chained-up bike
+a bin overflowing with leaflets reading "__text_flyer__" and a chained-up bike
 a tuk-tuk and a lighthouse in the distance
 a phone box and a shrine with offerings
 a wooden fence and a rickshaw waiting
@@ -986,12 +986,12 @@ a donkey cart and a wheelbarrow
 a handcart loaded with boxes and a stone wall
 a flock of pigeons and a market scale
 a rack of kebabs and a camel resting
-a shuttered shop front and a war memorial
+a shuttered shop front and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a shuttered shop front
 a red lantern and a row of colourful umbrellas
 a drying rack of fish and a taxi rank
 a satellite dish and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
-a bin overflowing with leaflets and a well with a bucket
+a bin overflowing with leaflets reading "__text_flyer__" and a well with a bucket
 a stack of tyres and a manhole cover steaming
 a wooden bench and a busker's guitar case
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a line of washing
@@ -1004,14 +1004,14 @@ a minaret and a pile of coconuts
 a food truck and a spice stall
 a lighthouse in the distance and a pile of coconuts
 a market scale and a vending machine glowing
-a shrine with offerings and a war memorial
-a bus shelter with a faded timetable and a rusty gate
+a shrine with offerings and a war memorial carved "__text_memorial__" __text_look_carved_stone__
+a bus shelter with a faded timetable reading "__text_departure__" and a rusty gate
 a pile of coconuts and a cat on a wall
 a puddle and a flower stall
 a handcart loaded with boxes and a spice stall
 a church bell tower and a pagoda roof
 a manhole cover steaming and a row of payphones
-a bin overflowing with leaflets and a parked bicycle
+a bin overflowing with leaflets reading "__text_flyer__" and a parked bicycle
 a cat on a wall and a well with a bucket
 a spice stall
 a clothesline between balconies and a market umbrella
@@ -1020,7 +1020,7 @@ a rooftop water tank and a chained-up bike
 a food truck and a pile of coconuts
 a roadside shrine and a rooftop water tank
 a red lantern and a cracked pavement
-a crate of live crabs and a bin overflowing with leaflets
+a crate of live crabs and a bin overflowing with leaflets reading "__text_flyer__"
 a rickshaw waiting and a clothesline between balconies
 a stack of lobster pots and a minaret
 a puddle
@@ -1047,8 +1047,8 @@ a temple bell and a rack of kebabs
 a church bell tower
 a tram stop and a farm gate
 a donkey cart and a market scale
-a bin overflowing with leaflets and a busker's guitar case
-a mailbox and a well with a bucket
+a bin overflowing with leaflets reading "__text_flyer__" and a busker's guitar case
+a mailbox marked "POST" in white capitals and a well with a bucket
 a camel resting and a handcart loaded with boxes
 a bale of hay and a water pump
 a bird on a wire and a busker's guitar case
@@ -1059,11 +1059,11 @@ a donkey cart and a plastic stool beside a stall
 a wooden bench and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
 a crate of live crabs and a donkey cart
 a flock of pigeons and a water pump
-a bin overflowing with leaflets and a stack of tyres
+a bin overflowing with leaflets reading "__text_flyer__" and a stack of tyres
 a flower stall and a row of payphones
 a market scale and a stack of lobster pots
 a pile of coconuts and a satellite dish
-a bin overflowing with leaflets and a pile of building materials
+a bin overflowing with leaflets reading "__text_flyer__" and a pile of building materials
 a statue on a plinth and a drying rack of fish
 a rooftop water tank and a spice stall
 a cart of oranges and a stray dog sleeping
@@ -1071,13 +1071,13 @@ a torii gate
 a bale of hay and a plastic stool beside a stall
 a cat on a wall and a tram stop
 a delivery van parked at the kerb and a hot-dog cart
-a drainpipe with moss and a mailbox
+a drainpipe with moss and a mailbox marked "POST" in white capitals
 a prayer flag and a stack of lobster pots
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a row of recycling bins
 a delivery van parked at the kerb and a manhole cover steaming
 a row of colourful umbrellas and a newspaper kiosk with "__name_newspaper__" on the papers in its rack
 a pagoda roof and a fishing boat pulled up on the shore
-a roadside shrine and a bus shelter with a faded timetable
+a roadside shrine and a bus shelter with a faded timetable reading "__text_departure__"
 a wooden bench and a plastic stool beside a stall
 a farm gate and a stone fountain
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a statue on a plinth
@@ -1103,7 +1103,7 @@ a spice stall and a stone wall
 a farm gate and a rickshaw waiting
 a crate of live crabs and a food truck
 a stone fountain and a stack of lobster pots
-a bin overflowing with leaflets
+a bin overflowing with leaflets reading "__text_flyer__"
 a plastic stool beside a stall and a minaret
 a rusty gate and a flag fluttering
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a clothesline between balconies
@@ -1113,14 +1113,14 @@ a stone wall and a drying rack of fish
 a rooftop water tank and a lamppost with peeling paint
 a roadside shrine and a taxi rank
 a stack of sandbags and a tuk-tuk
-a stone lantern and a bin overflowing with leaflets
+a stone lantern and a bin overflowing with leaflets reading "__text_flyer__"
 a row of payphones
 a camel resting and a rusty gate
 a cat on a wall and a mural
-a mailbox and a war memorial
+a mailbox and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a pile of building materials and a fruit stall with crates
 a flower stall and a phone box
-a war memorial and a clothesline between balconies
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a clothesline between balconies
 a row of parked scooters and a stack of tyres
 a delivery van parked at the kerb and a roadside shrine
 a food truck and a stone lantern
@@ -1132,7 +1132,7 @@ a fishing boat pulled up on the shore and a chalk-written menu board listing __t
 a pagoda roof and a delivery van parked at the kerb
 a statue on a plinth and a camel resting
 a well with a bucket and a market clock
-a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a bus shelter with a faded timetable
+a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a bus shelter with a faded timetable reading "__text_departure__"
 a stack of lobster pots and a wooden fence
 a tram stop and a goat tied to a rail
 a spice stall and a delivery van parked at the kerb
@@ -1157,9 +1157,9 @@ a flock of pigeons and a pile of firewood
 a statue on a plinth and a flower stall
 a stack of sandbags and a food truck
 a hot-dog cart
-a bin overflowing with leaflets and a minaret
+a bin overflowing with leaflets reading "__text_flyer__" and a minaret
 a cart of oranges and a farm gate
-a bin overflowing with leaflets and a stone fountain
+a bin overflowing with leaflets reading "__text_flyer__" and a stone fountain
 a shuttered shop front and a hot-dog cart
 a charcoal grill and a bale of hay
 a donkey cart and a crate of live crabs
@@ -1182,7 +1182,7 @@ a manhole cover steaming and a church bell tower
 a camel resting and a scaffolding of bamboo
 a mailbox and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
 a stack of woven baskets and a market scale
-a bin overflowing with leaflets and a church bell tower
+a bin overflowing with leaflets reading "__text_flyer__" and a church bell tower
 a market scale and a tuk-tuk
 a shrine with offerings and a handcart loaded with boxes
 a charcoal grill and a tricycle taxi
@@ -1192,7 +1192,7 @@ a manhole cover steaming and a wooden bench
 a vending machine glowing and a cash machine
 a flower stall and a street piano
 a donkey cart and a donkey cart
-a war memorial and a market scale
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a market scale
 a tricycle taxi and a drainpipe with moss
 a red lantern and a bale of hay
 a torii gate and a lighthouse in the distance
@@ -1247,7 +1247,7 @@ a row of recycling bins and a cat on a wall
 a line of washing and a rack of kebabs
 a row of colourful umbrellas and a flag fluttering
 a temple bell and a manhole cover steaming
-a bin overflowing with leaflets and a tricycle taxi
+a bin overflowing with leaflets reading "__text_flyer__" and a tricycle taxi
 a taxi rank and a roadside shrine
 a rusty gate and a rickshaw waiting
 a flower stall and a market clock
@@ -1256,12 +1256,12 @@ a farm gate and a chalk-written menu board listing __text_menu_item__ __text_loo
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a drying rack of fish
 a wooden bench and a satellite dish
 a clothesline between balconies and a tuk-tuk
-a stone wall and a bus shelter with a faded timetable
+a stone wall and a bus shelter with a faded timetable reading "__text_departure__"
 a church bell tower and a crate of live crabs
 a handcart loaded with boxes and a pile of building materials
 a stone wall and a market clock
 a vending machine glowing and a cat on a wall
-a bus shelter with a faded timetable and a market scale
+a bus shelter with a faded timetable reading "__text_departure__" and a market scale
 a roadside shrine and a cash machine
 a mural and a busker's guitar case
 a farm gate and a market umbrella
@@ -1270,9 +1270,9 @@ a row of recycling bins and a clothesline between balconies
 a flower stall and a wheelbarrow
 a tram stop and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a puddle
-a market scale and a war memorial
+a market scale and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a prayer flag and a stack of woven baskets
-a pile of building materials and a bus shelter with a faded timetable
+a pile of building materials and a bus shelter with a faded timetable reading "__text_departure__"
 a rack of kebabs and a cash machine
 a stone fountain and a well with a bucket
 a water pump and a bale of hay
@@ -1282,11 +1282,11 @@ a market scale and a street piano
 a fruit stall with crates and a well with a bucket
 a flower stall and a stack of sandbags
 a chained-up bike and a skateboard ramp
-a bin overflowing with leaflets and a tram stop
+a bin overflowing with leaflets reading "__text_flyer__" and a tram stop
 a lighthouse in the distance and a row of colourful umbrellas
 a cash machine and a water pump
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
-a bus shelter with a faded timetable and a shuttered shop front
+a bus shelter with a faded timetable reading "__text_departure__" and a shuttered shop front
 a street piano and a market clock
 a farm gate and a clothesline between balconies
 a stack of sandbags and a delivery van parked at the kerb
@@ -1309,7 +1309,7 @@ a drying rack of fish and a tram stop
 a line of washing and a bus stop sign reading "BUS STOP" in white letters on a blue plate
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a horse tied to a post
 a satellite dish and a goat tied to a rail
-a bin overflowing with leaflets and a bale of hay
+a bin overflowing with leaflets reading "__text_flyer__" and a bale of hay
 a tuk-tuk
 a pile of building materials and a fishing boat pulled up on the shore
 a bale of hay and a pile of building materials
@@ -1336,14 +1336,14 @@ a fishing boat pulled up on the shore and a stone fountain
 a hot-dog cart and a shuttered shop front
 a wooden fence and a row of payphones
 a pile of firewood and a shrine with offerings
-a donkey cart and a bin overflowing with leaflets
+a donkey cart and a bin overflowing with leaflets reading "__text_flyer__"
 a rusty gate and a drainpipe with moss
 a stone fountain
 a row of payphones and a camel resting
 a drying rack of fish and a water pump
 a cracked pavement and a farm gate
 a stone fountain and a chained-up bike
-a mailbox and a prayer flag
+a mailbox marked "POST" in white capitals and a prayer flag
 a fruit stall with crates and a torii gate
 a delivery van parked at the kerb and a flock of pigeons
 a stack of woven baskets and a spice stall
@@ -1426,14 +1426,14 @@ a lighthouse in the distance and a fruit stall with crates
 a well with a bucket and a bale of hay
 a row of payphones and a cracked pavement
 a drainpipe with moss and a stone fountain
-a bus shelter with a faded timetable
+a bus shelter with a faded timetable reading "__text_departure__"
 a stone fountain and a hot-dog cart
 a wheelbarrow and a cash machine
 a rickshaw waiting and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
 a pile of coconuts and a shrine with offerings
 a stone wall and a stack of lobster pots
 a stack of tyres and a plastic stool beside a stall
-a goat tied to a rail and a bus shelter with a faded timetable
+a goat tied to a rail and a bus shelter with a faded timetable reading "__text_departure__"
 a market scale and a bus stop sign reading "BUS STOP" in white letters on a blue plate
 a shrine with offerings and a cart of oranges
 a lighthouse in the distance and a minaret
@@ -1454,14 +1454,14 @@ a taxi rank and a torii gate
 a temple bell and a horse tied to a post
 a flock of pigeons and a rickshaw waiting
 a clothesline between balconies and a delivery van parked at the kerb
-a wooden fence and a mailbox
+a wooden fence and a mailbox marked "POST" in white capitals
 a shuttered shop front and a row of parked scooters
 a plastic stool beside a stall and a pile of building materials
 a puddle and a crate of live crabs
 a line of washing and a taxi rank
 a row of recycling bins and a row of payphones
 a fishing boat pulled up on the shore and a fruit stall with crates
-a mailbox and a puddle
+a mailbox marked "POST" in white capitals and a puddle
 a chained-up bike and a goat tied to a rail
 a shuttered shop front and a flag fluttering
 a handcart loaded with boxes and a flock of pigeons
@@ -1492,7 +1492,7 @@ a lighthouse in the distance and a pagoda roof
 a street piano and a wooden bench
 a pile of building materials and a farm gate
 a stack of lobster pots and a statue on a plinth
-a cash machine and a mailbox
+a cash machine and a mailbox marked "POST" in white capitals
 a fruit stall with crates and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
 a clothesline between balconies and a prayer flag
 a row of recycling bins and a rickshaw waiting
@@ -1503,15 +1503,15 @@ a mural and a scaffolding of bamboo
 a street piano and a well with a bucket
 a cart of oranges and a stone lantern
 a wheelbarrow and a clothesline between balconies
-a war memorial and a torii gate
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a torii gate
 a busker's guitar case and a well with a bucket
 a vending machine glowing and a shrine with offerings
-a parked bicycle and a war memorial
+a parked bicycle and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a lighthouse in the distance and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
 a crate of live crabs and a bale of hay
 a fishing boat pulled up on the shore and a taxi rank
 a crate of live crabs and a street piano
-a war memorial and a handcart loaded with boxes
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a handcart loaded with boxes
 a cash machine and a pile of coconuts
 a pile of building materials and a wheelbarrow
 a handcart loaded with boxes and a market umbrella
@@ -1525,10 +1525,10 @@ a cat on a wall and a statue on a plinth
 a stone lantern and a rusty gate
 a busker's guitar case and a camel resting
 a tram stop and a food truck
-a flower stall and a bin overflowing with leaflets
+a flower stall and a bin overflowing with leaflets reading "__text_flyer__"
 a busker's guitar case
 a cart of oranges and a statue on a plinth
-a hot-dog cart and a mailbox
+a hot-dog cart and a mailbox marked "POST" in white capitals
 a hot-dog cart and a clothesline between balconies
 a donkey cart and a stack of woven baskets
 a lighthouse in the distance and a mural
@@ -1538,13 +1538,13 @@ a tuk-tuk and a stone wall
 a scaffolding of bamboo
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a stone lantern
 a farm gate and a bale of hay
-a plastic stool beside a stall and a bin overflowing with leaflets
+a plastic stool beside a stall and a bin overflowing with leaflets reading "__text_flyer__"
 a puddle and a statue on a plinth
 a statue on a plinth and a food truck
 a bird on a wire and a drying rack of fish
 a pagoda roof and a flower stall
 a roadside shrine and a mural
-a lighthouse in the distance and a mailbox
+a lighthouse in the distance and a mailbox marked "POST" in white capitals
 a rack of kebabs and a crate of live crabs
 a lamppost with peeling paint and a fruit stall with crates
 a skateboard ramp and a market umbrella
@@ -1565,9 +1565,9 @@ a crate of live crabs and a cash machine
 a donkey cart and a flock of pigeons
 a cart of oranges and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
 a row of parked scooters and a pile of firewood
-a plastic stool beside a stall and a bus shelter with a faded timetable
+a plastic stool beside a stall and a bus shelter with a faded timetable reading "__text_departure__"
 a pile of firewood and a mural
-a red lantern and a bus shelter with a faded timetable
+a red lantern and a bus shelter with a faded timetable reading "__text_departure__"
 a bale of hay and a donkey cart
 a minaret and a donkey cart
 a puddle and a donkey cart
@@ -1578,14 +1578,14 @@ a stack of sandbags and a hot-dog cart
 a lighthouse in the distance and a row of recycling bins
 a market clock and a mural
 a fishing boat pulled up on the shore and a manhole cover steaming
-a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a bus shelter with a faded timetable
+a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a bus shelter with a faded timetable reading "__text_departure__"
 a wooden bench and a street piano
 a hot-dog cart and a satellite dish
 a drying rack of fish and a bird on a wire
-a mailbox and a goat tied to a rail
+a mailbox marked "POST" in white capitals and a goat tied to a rail
 a drying rack of fish and a church bell tower
 a goat tied to a rail and a church bell tower
-a war memorial and a lighthouse in the distance
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a lighthouse in the distance
 a stack of sandbags and a parked bicycle
 a vending machine glowing and a temple bell
 a stray dog sleeping and a row of recycling bins
@@ -1593,7 +1593,7 @@ a stone lantern and a cracked pavement
 a puddle and a stone lantern
 a vending machine glowing and a line of washing
 a handcart loaded with boxes and a clothesline between balconies
-a cracked pavement and a bus shelter with a faded timetable
+a cracked pavement and a bus shelter with a faded timetable reading "__text_departure__"
 a puddle and a wooden bench
 a row of colourful umbrellas and a clothesline between balconies
 a row of payphones and a temple bell
@@ -1604,7 +1604,7 @@ a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a 
 a roadside shrine
 a delivery van parked at the kerb and a delivery van parked at the kerb
 a horse tied to a post and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__
-a bus shelter with a faded timetable and a row of payphones
+a bus shelter with a faded timetable reading "__text_departure__" and a row of payphones
 a pagoda roof and a crate of live crabs
 a phone box and a chained-up bike
 a tuk-tuk and a cat on a wall
@@ -1614,7 +1614,7 @@ a cracked pavement and a cracked pavement
 a shrine with offerings and a market umbrella
 a torii gate and a plastic stool beside a stall
 a lighthouse in the distance and a cracked pavement
-a tram stop and a bus shelter with a faded timetable
+a tram stop and a bus shelter with a faded timetable reading "__text_departure__"
 a market scale and a shuttered shop front
 a camel resting and a bird on a wire
 a rack of kebabs and a rooftop water tank
@@ -1643,8 +1643,8 @@ a minaret and a shrine with offerings
 a market clock and a lamppost with peeling paint
 a farm gate and a scaffolding of bamboo
 a delivery van parked at the kerb and a church bell tower
-a war memorial and a cart of oranges
-a war memorial and a pile of firewood
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a cart of oranges
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a pile of firewood
 a stack of woven baskets and a taxi rank
 a skateboard ramp and a wheelbarrow
 a puddle and a minaret
@@ -1660,7 +1660,7 @@ a stone fountain and a market clock
 a rusty gate and a rusty gate
 a taxi rank and a pagoda roof
 a wheelbarrow and a stack of woven baskets
-a war memorial and a farm gate
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a farm gate
 a prayer flag and a tuk-tuk
 a crate of live crabs and a taxi rank
 a horse tied to a post and a stray dog sleeping
@@ -1685,7 +1685,7 @@ a stack of lobster pots and a stray dog sleeping
 a vending machine glowing and a prayer flag
 a market clock and a newspaper kiosk with "__name_newspaper__" on the papers in its rack
 a stack of lobster pots and a tram stop
-a satellite dish and a war memorial
+a satellite dish and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a cat on a wall and a drying rack of fish
 a horse tied to a post and a bird on a wire
 a satellite dish and a wheelbarrow
@@ -1710,7 +1710,7 @@ a tuk-tuk and a tuk-tuk
 a water pump and a minaret
 a chained-up bike and a pagoda roof
 a drying rack of fish and a tuk-tuk
-a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a war memorial
+a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a busker's guitar case and a puddle
 a statue on a plinth and a row of colourful umbrellas
 a scaffolding of bamboo and a rusty gate
@@ -1725,7 +1725,7 @@ a clothesline between balconies and a parked bicycle
 a roadside shrine and a market clock
 a chained-up bike and a market clock
 a pile of building materials and a charcoal grill
-a bus shelter with a faded timetable and a bus shelter with a faded timetable
+a bus shelter with a faded timetable reading "__text_departure__" and a bus shelter with a faded timetable reading "__text_departure__"
 a flower stall and a tuk-tuk
 a rooftop water tank and a mural
 a rooftop water tank and a temple bell
@@ -1794,7 +1794,7 @@ a drying rack of fish and a crate of live crabs
 a satellite dish and a skateboard ramp
 a tricycle taxi and a market clock
 a mural and a flower stall
-a war memorial and a stray dog sleeping
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a stray dog sleeping
 a church bell tower and a rack of kebabs
 a stack of tyres and a bale of hay
 a wheelbarrow and a row of recycling bins
@@ -1833,11 +1833,11 @@ a fruit stall with crates and a tram stop
 a vending machine glowing and a pile of firewood
 a flower stall and a red lantern
 a cash machine and a spice stall
-a bus shelter with a faded timetable and a flower stall
+a bus shelter with a faded timetable reading "__text_departure__" and a flower stall
 a shuttered shop front and a horse tied to a post
 a temple bell and a torii gate
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a flock of pigeons
-a mailbox and a wooden bench
+a mailbox marked "POST" in white capitals and a wooden bench
 a row of payphones and a shuttered shop front
 a hot-dog cart and a crate of live crabs
 a stack of sandbags and a chained-up bike
@@ -1846,7 +1846,7 @@ a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a cash
 a pile of coconuts and a wooden bench
 a cart of oranges and a phone box
 a stray dog sleeping and a food truck
-a drainpipe with moss and a war memorial
+a drainpipe with moss and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a market umbrella and a roadside shrine
 a handcart loaded with boxes and a water pump
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a stack of woven baskets
@@ -1857,7 +1857,7 @@ a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __tex
 a handcart loaded with boxes and a pagoda roof
 a shrine with offerings and a busker's guitar case
 a vending machine glowing and a tricycle taxi
-a war memorial and a puddle
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a puddle
 a rooftop water tank and a prayer flag
 a temple bell and a newspaper kiosk with "__name_newspaper__" on the papers in its rack
 a cat on a wall and a plastic stool beside a stall
@@ -1908,7 +1908,7 @@ a bus stop sign reading "BUS STOP" in white letters on a blue plate and a shrine
 a street piano and a pile of firewood
 a stone fountain and a water pump
 a line of washing and a parked bicycle
-a torii gate and a bin overflowing with leaflets
+a torii gate and a bin overflowing with leaflets reading "__text_flyer__"
 a statue on a plinth and a busker's guitar case
 a flag fluttering and a lighthouse in the distance
 a busker's guitar case and a flower stall
@@ -1922,7 +1922,7 @@ a flock of pigeons and a wooden fence
 a street piano and a vending machine glowing
 a taxi rank and a stack of lobster pots
 a roadside shrine and a pagoda roof
-a cash machine and a bus shelter with a faded timetable
+a cash machine and a bus shelter with a faded timetable reading "__text_departure__"
 a food truck and a taxi rank
 a manhole cover steaming and a flock of pigeons
 a pile of building materials and a statue on a plinth
@@ -1934,16 +1934,16 @@ a lighthouse in the distance and a horse tied to a post
 a shrine with offerings and a lighthouse in the distance
 a statue on a plinth and a stack of tyres
 a rusty gate and a statue on a plinth
-a bus shelter with a faded timetable and a statue on a plinth
-a mailbox and a busker's guitar case
-a mailbox and a rusty gate
+a bus shelter with a faded timetable reading "__text_departure__" and a statue on a plinth
+a mailbox marked "POST" in white capitals and a busker's guitar case
+a mailbox marked "POST" in white capitals and a rusty gate
 a market umbrella and a chained-up bike
 a plastic stool beside a stall and a stone fountain
 a manhole cover steaming and a stone wall
 a drainpipe with moss and a wheelbarrow
 a cart of oranges and a parked bicycle
 a charcoal grill and a newspaper kiosk with "__name_newspaper__" on the papers in its rack
-a busker's guitar case and a bin overflowing with leaflets
+a busker's guitar case and a bin overflowing with leaflets reading "__text_flyer__"
 a fruit stall with crates and a rickshaw waiting
 a well with a bucket and a water pump
 a fishing boat pulled up on the shore and a water pump
@@ -1965,26 +1965,26 @@ a bird on a wire and a newspaper kiosk with "__name_newspaper__" on the papers i
 a puddle and a busker's guitar case
 a handcart loaded with boxes and a puddle
 a drying rack of fish and a stone fountain
-a shrine with offerings and a bin overflowing with leaflets
+a shrine with offerings and a bin overflowing with leaflets reading "__text_flyer__"
 a skateboard ramp and a temple bell
 a manhole cover steaming and a bale of hay
 a fishing boat pulled up on the shore and a rack of kebabs
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a fishing boat pulled up on the shore
 a stack of lobster pots and a wooden bench
-a mailbox and a plastic stool beside a stall
+a mailbox marked "POST" in white capitals and a plastic stool beside a stall
 a red lantern and a stone wall
 a manhole cover steaming and a market clock
 a fishing boat pulled up on the shore and a scaffolding of bamboo
 a flock of pigeons and a stone wall
 a temple bell and a puddle
-a line of washing and a bus shelter with a faded timetable
+a line of washing and a bus shelter with a faded timetable reading "__text_departure__"
 a row of recycling bins and a busker's guitar case
 a line of washing and a wooden fence
 a water pump and a fishing boat pulled up on the shore
 a tricycle taxi and a stone lantern
 a clothesline between balconies and a plastic stool beside a stall
 a tuk-tuk and a pile of building materials
-a street piano and a mailbox
+a street piano and a mailbox marked "POST" in white capitals
 a fruit stall with crates and a cash machine
 a wooden fence and a tram stop
 a row of recycling bins and a wheelbarrow
@@ -1996,7 +1996,7 @@ a tricycle taxi and a horse tied to a post
 a stack of woven baskets and a clothesline between balconies
 a temple bell and a line of washing
 a wooden bench and a manhole cover steaming
-a pile of building materials and a war memorial
+a pile of building materials and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a scaffolding of bamboo and a market scale
 a lamppost with peeling paint and a camel resting
 a row of parked scooters and a roadside shrine
@@ -2005,7 +2005,7 @@ a rack of kebabs and a fishing boat pulled up on the shore
 a rusty gate and a parked bicycle
 a red lantern and a well with a bucket
 a rack of kebabs and a wooden bench
-a flock of pigeons and a bus shelter with a faded timetable
+a flock of pigeons and a bus shelter with a faded timetable reading "__text_departure__"
 a stack of sandbags and a camel resting
 a row of colourful umbrellas and a pagoda roof
 a pile of firewood and a phone box
@@ -2036,7 +2036,7 @@ a wheelbarrow and a stack of lobster pots
 a phone box and a pagoda roof
 a fruit stall with crates and a stack of woven baskets
 a wooden fence and a crate of live crabs
-a mailbox and a shrine with offerings
+a mailbox marked "POST" in white capitals and a shrine with offerings
 a stray dog sleeping and a bus stop sign reading "BUS STOP" in white letters on a blue plate
 a wooden bench and a wooden fence
 a shrine with offerings and a market clock
@@ -2057,7 +2057,7 @@ a spice stall and a wheelbarrow
 a crate of live crabs and a stack of woven baskets
 a satellite dish and a rooftop water tank
 a stack of woven baskets and a puddle
-a bin overflowing with leaflets and a rooftop water tank
+a bin overflowing with leaflets reading "__text_flyer__" and a rooftop water tank
 a parked bicycle and a chained-up bike
 a skateboard ramp and a shuttered shop front
 a pile of firewood and a wooden fence
@@ -2089,7 +2089,7 @@ a stone wall and a pile of firewood
 a rack of kebabs and a taxi rank
 a stone lantern and a stone fountain
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a donkey cart
-a flag fluttering and a mailbox
+a flag fluttering and a mailbox marked "POST" in white capitals
 a flower stall and a food truck
 a cash machine and a cart of oranges
 a stack of lobster pots and a hot-dog cart
@@ -2130,10 +2130,10 @@ a handcart loaded with boxes and a fishing boat pulled up on the shore
 a row of recycling bins and a stack of woven baskets
 a market clock and a pagoda roof
 a busker's guitar case and a rack of kebabs
-a well with a bucket and a bus shelter with a faded timetable
-a bin overflowing with leaflets and a torii gate
+a well with a bucket and a bus shelter with a faded timetable reading "__text_departure__"
+a bin overflowing with leaflets reading "__text_flyer__" and a torii gate
 a drying rack of fish and a satellite dish
-a bin overflowing with leaflets and a shrine with offerings
+a bin overflowing with leaflets reading "__text_flyer__" and a shrine with offerings
 a street piano and a puddle
 a row of recycling bins and a flower stall
 a stack of woven baskets and a hot-dog cart
@@ -2151,8 +2151,8 @@ a taxi rank and a fishing boat pulled up on the shore
 a fishing boat pulled up on the shore and a row of parked scooters
 a cash machine and a statue on a plinth
 a rack of kebabs and a wooden fence
-a war memorial and a rusty gate
-a war memorial and a fruit stall with crates
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a rusty gate
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a fruit stall with crates
 a donkey cart and a street piano
 a wooden fence and a stack of lobster pots
 a chained-up bike and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
@@ -2161,7 +2161,7 @@ a clothesline between balconies and a food truck
 a market clock and a red lantern
 a busker's guitar case and a busker's guitar case
 a busker's guitar case and a bus stop sign reading "BUS STOP" in white letters on a blue plate
-a war memorial and a stack of woven baskets
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a stack of woven baskets
 a pile of firewood and a rusty gate
 a drying rack of fish and a scaffolding of bamboo
 a drainpipe with moss and a row of payphones
@@ -2199,7 +2199,7 @@ a flower stall and a cart of oranges
 a drying rack of fish and a flower stall
 a rickshaw waiting
 a food truck and a stray dog sleeping
-a statue on a plinth and a mailbox
+a statue on a plinth and a mailbox marked "POST" in white capitals
 a cart of oranges and a pagoda roof
 a clothesline between balconies and a bus stop sign reading "BUS STOP" in white letters on a blue plate
 a shrine with offerings and a vending machine glowing
@@ -2219,13 +2219,13 @@ a pile of building materials and a tram stop
 a scaffolding of bamboo and a temple bell
 a pile of firewood and a market clock
 a plastic stool beside a stall and a tram stop
-a camel resting and a war memorial
+a camel resting and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a cat on a wall and a bale of hay
 a market scale and a chained-up bike
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a charcoal grill
 a stone lantern and a bale of hay
 a stack of sandbags and a phone box
-a mailbox and a row of parked scooters
+a mailbox marked "POST" in white capitals and a row of parked scooters
 a food truck and a roadside shrine
 a bus shelter with a faded timetable and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
 a pile of building materials and a row of colourful umbrellas
@@ -2241,19 +2241,19 @@ a wooden fence and a hot-dog cart
 a cart of oranges and a stone wall
 a stack of woven baskets and a cat on a wall
 a clothesline between balconies and a stack of tyres
-a bus shelter with a faded timetable and a pagoda roof
+a bus shelter with a faded timetable reading "__text_departure__" and a pagoda roof
 a donkey cart and a stray dog sleeping
 a tram stop and a prayer flag
 a flock of pigeons and a wooden bench
 a pagoda roof and a farm gate
-a lamppost with peeling paint and a mailbox
+a lamppost with peeling paint and a mailbox marked "POST" in white capitals
 a pile of coconuts and a goat tied to a rail
 a stone lantern and a bird on a wire
 a goat tied to a rail and a minaret
 a phone box and a tricycle taxi
 a rickshaw waiting and a roadside shrine
 a stack of woven baskets and a fishing boat pulled up on the shore
-a clothesline between balconies and a mailbox
+a clothesline between balconies and a mailbox marked "POST" in white capitals
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a stack of tyres
 a puddle and a stack of tyres
 a temple bell and a tram stop
@@ -2267,7 +2267,7 @@ a line of washing and a market clock
 a cash machine and a stone fountain
 a drainpipe with moss and a line of washing
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a skateboard ramp
-a row of payphones and a bin overflowing with leaflets
+a row of payphones and a bin overflowing with leaflets reading "__text_flyer__"
 a parked bicycle and a pile of firewood
 a wooden bench and a flower stall
 a bale of hay and a drying rack of fish
@@ -2276,7 +2276,7 @@ a church bell tower and a market clock
 a wooden bench
 a skateboard ramp and a horse tied to a post
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a puddle
-a mailbox and a hot-dog cart
+a mailbox marked "POST" in white capitals and a hot-dog cart
 a tuk-tuk and a pile of coconuts
 a plastic stool beside a stall and a crate of live crabs
 a horse tied to a post and a red lantern
@@ -2285,7 +2285,7 @@ a church bell tower and a chained-up bike
 a delivery van parked at the kerb and a minaret
 a flag fluttering and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
 a cracked pavement and a vending machine glowing
-a war memorial
+a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a manhole cover steaming and a chained-up bike
 a water pump and a torii gate
 a minaret and a tuk-tuk
@@ -2317,7 +2317,7 @@ a lamppost with peeling paint and a pile of firewood
 a wheelbarrow and a tuk-tuk
 a statue on a plinth and a plastic stool beside a stall
 a crate of live crabs and a rack of kebabs
-a market clock and a bin overflowing with leaflets
+a market clock and a bin overflowing with leaflets reading "__text_flyer__"
 a row of recycling bins and a market umbrella
 a clothesline between balconies and a rack of kebabs
 a tram stop and a pile of firewood
@@ -2332,11 +2332,11 @@ a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a 
 a row of recycling bins and a food truck
 a stone wall and a row of payphones
 a pile of firewood and a cracked pavement
-a war memorial and a flock of pigeons
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a flock of pigeons
 a cash machine and a minaret
 a cat on a wall and a phone box
 a stone lantern and a goat tied to a rail
-a mailbox and a street piano
+a mailbox marked "POST" in white capitals and a street piano
 a stack of sandbags and a rusty gate
 a stack of lobster pots and a stack of tyres
 a drying rack of fish and a stone wall
@@ -2352,20 +2352,20 @@ a farm gate and a farm gate
 a bird on a wire and a row of parked scooters
 a water pump and a wooden bench
 a donkey cart and a bus stop sign reading "BUS STOP" in white letters on a blue plate
-a manhole cover steaming and a bus shelter with a faded timetable
+a manhole cover steaming and a bus shelter with a faded timetable reading "__text_departure__"
 a farm gate and a cash machine
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a vending machine glowing
 a delivery van parked at the kerb and a parked bicycle
 a taxi rank and a pile of firewood
-a war memorial and a stone wall
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a stone wall
 a stone fountain and a clothesline between balconies
 a crate of live crabs
 a drainpipe with moss and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
 a spice stall and a tricycle taxi
 a goat tied to a rail and a flag fluttering
-a bin overflowing with leaflets and a cart of oranges
+a bin overflowing with leaflets reading "__text_flyer__" and a cart of oranges
 a red lantern and a crate of live crabs
-a farm gate and a bus shelter with a faded timetable
+a farm gate and a bus shelter with a faded timetable reading "__text_departure__"
 a rusty gate and a clothesline between balconies
 a horse tied to a post and a market clock
 a scaffolding of bamboo and a pile of firewood
@@ -2379,7 +2379,7 @@ a spice stall and a pagoda roof
 a horse tied to a post and a stone lantern
 a hot-dog cart and a stack of tyres
 a cracked pavement and a torii gate
-a skateboard ramp and a bus shelter with a faded timetable
+a skateboard ramp and a bus shelter with a faded timetable reading "__text_departure__"
 a pagoda roof and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
 a crate of live crabs and a parked bicycle
 a phone box and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
@@ -2396,7 +2396,7 @@ a lighthouse in the distance and a flag fluttering
 a pile of firewood and a minaret
 a torii gate and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__
 a farm gate and a cracked pavement
-a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a bin overflowing with leaflets
+a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a bin overflowing with leaflets reading "__text_flyer__"
 a fishing boat pulled up on the shore and a row of recycling bins
 a flock of pigeons and a flower stall
 a tuk-tuk and a vending machine glowing
@@ -2405,7 +2405,7 @@ a temple bell and a row of parked scooters
 a skateboard ramp and a row of payphones
 a market scale and a scaffolding of bamboo
 a cracked pavement
-a plastic stool beside a stall and a war memorial
+a plastic stool beside a stall and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a food truck and a fruit stall with crates
 a clothesline between balconies and a lamppost with peeling paint
 a stack of sandbags and a pile of firewood
@@ -2419,7 +2419,7 @@ a hot-dog cart and a hot-dog cart
 a tuk-tuk and a shuttered shop front
 a wooden fence and a cart of oranges
 a roadside shrine and a camel resting
-a row of recycling bins and a war memorial
+a row of recycling bins and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a parked bicycle and a cracked pavement
 a prayer flag and a newspaper kiosk with "__name_newspaper__" on the papers in its rack
 a vending machine glowing and a row of recycling bins
@@ -2441,16 +2441,16 @@ a water pump and a satellite dish
 a spice stall and a vending machine glowing
 a roadside shrine and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__
 a busker's guitar case and a bird on a wire
-a drainpipe with moss and a bin overflowing with leaflets
+a drainpipe with moss and a bin overflowing with leaflets reading "__text_flyer__"
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a bird on a wire
 a donkey cart and a chained-up bike
 a rusty gate and a stack of tyres
-a bus shelter with a faded timetable and a parked bicycle
+a bus shelter with a faded timetable reading "__text_departure__" and a parked bicycle
 a busker's guitar case and a pagoda roof
 a stack of woven baskets and a delivery van parked at the kerb
-a war memorial and a mailbox
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a mailbox
 a drying rack of fish and a wheelbarrow
-a row of colourful umbrellas and a war memorial
+a row of colourful umbrellas and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a pile of building materials and a phone box
 a vending machine glowing and a pagoda roof
 a shrine with offerings and a chained-up bike
@@ -2473,21 +2473,21 @@ a vending machine glowing and a rooftop water tank
 a plastic stool beside a stall and a statue on a plinth
 a stack of woven baskets
 a row of parked scooters
-a bin overflowing with leaflets and a bin overflowing with leaflets
+a bin overflowing with leaflets reading "__text_flyer__" and a bin overflowing with leaflets reading "__text_flyer__"
 a tricycle taxi and a plastic stool beside a stall
 a row of payphones and a market clock
-a war memorial and a pagoda roof
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a pagoda roof
 a stack of woven baskets and a rack of kebabs
 a farm gate and a rooftop water tank
 a street piano and a cat on a wall
 a cash machine and a shuttered shop front
 a cat on a wall and a satellite dish
 a handcart loaded with boxes and a camel resting
-a war memorial and a drainpipe with moss
-a scaffolding of bamboo and a war memorial
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a drainpipe with moss
+a scaffolding of bamboo and a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a drying rack of fish and a cart of oranges
 a bird on a wire and a donkey cart
-a mailbox and a lamppost with peeling paint
+a mailbox marked "POST" in white capitals and a lamppost with peeling paint
 a skateboard ramp and a satellite dish
 a tuk-tuk and a row of colourful umbrellas
 a stack of sandbags and a wooden fence

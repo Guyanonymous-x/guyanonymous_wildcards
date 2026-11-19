@@ -1,11 +1,11 @@
 handprints at exactly the height people reach out
 a child's glove on a ledge
-a dropped ticket
+a dropped ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
 a smear where somebody walked into the glass
 a cleaning cloth tucked behind a panel
-a leaflet
+a leaflet headed "__text_flyer__" __text_look_print__, the rest of the leaflet plain
 a coin
 a hair
-a sticker on a panel edge
+a sticker printed "__name_brand_upper__" __text_look_label__ on a panel edge
 a phone held out as a guide
 a tissue

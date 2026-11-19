@@ -2,11 +2,11 @@ a mug on the window ledge
 a kettle
 a radio
 a tally of loads on a pad
-a docket book with carbon sheets
+a docket book headed "DOCKET __name_number_small__" __text_look_print__ with carbon sheets
 a calendar from a local garage
 a ballpoint on a chain chewed at the end
 a heater
-a newspaper
+a newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a pair of reading glasses
 a photograph of a truck taped to a cupboard
-a packet of biscuits
+a packet of biscuits printed "__name_brand_upper__" __text_look_print__

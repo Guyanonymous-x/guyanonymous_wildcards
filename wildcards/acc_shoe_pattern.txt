@@ -59,7 +59,7 @@ constellation map
 topographic contour lines
 map of an old city
 newspaper print with the headline "__text_headline__" repeated in black capitals
-handwritten script
+handwritten script reading "__text_hidden_message__"
 Morse-code dashes
 barcode stripes
 circuit-board traces
@@ -136,7 +136,7 @@ Cubist fragments
 Bauhaus primary shapes
 Mondrian-style colour grid
 Pop-art comic dots
-graffiti
+graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 bold abstract brush strokes
 splatter paint
 tiger-lily watercolours

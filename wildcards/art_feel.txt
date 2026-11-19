@@ -7,7 +7,7 @@ faded look and with paint drips, and with visible brush marks and scraped look
 faded look, and with a distressed
 faded look, and with a glossy varnish
 faded look, and with crisp clean edges
-faded look, and with no outlines at all
+faded look, and with shapes meeting directly edge to edge
 faded look, and with raised texture you can feel and with a halftone dot texture
 scraped look
 scraped look and with a distressed
@@ -22,8 +22,8 @@ slightly misregistered like a cheap print and faded look
 slightly misregistered like a cheap print and faded look, and with a distressed
 slightly misregistered like a cheap print and faded look, and with a subtle sheen and slightly misregistered like a cheap print
 slightly misregistered like a cheap print and faded look, and with heavy black outlines
-slightly misregistered like a cheap print and faded look, and with no outlines at all
-slightly misregistered like a cheap print and faded look, and with sharp geometric precision and with no outlines at all
+slightly misregistered like a cheap print and faded look, and with shapes meeting directly edge to edge
+slightly misregistered like a cheap print and faded look, and with sharp geometric precision and with shapes meeting directly edge to edge
 slightly misregistered like a cheap print, and with paint drips
 slightly misregistered like a cheap print, and with rough woodgrain texture showing through and with a soft glow around the edges
 slightly misregistered like a cheap print, and with white outlines and with heavy black outlines
@@ -50,7 +50,7 @@ with a glossy varnish
 with a glossy varnish and with gold outlines
 with a glossy varnish and with gold outlines, and with a worn
 with a glossy varnish and with gold outlines, and with crisp clean edges and with sharp geometric precision
-with a glossy varnish and with gold outlines, and with no outlines at all and with rough woodgrain texture showing through
+with a glossy varnish and with gold outlines, and with shapes meeting directly edge to edge and with rough woodgrain texture showing through
 with a glossy varnish, and with a distressed and with a cracked vintage print finish
 with a glossy varnish, and with a matte chalky finish and with metallic highlights
 with a glossy varnish, and with a soft glow around the edges
@@ -64,7 +64,7 @@ with a halftone dot texture and with white outlines, and with raised texture you
 with a halftone dot texture and with white outlines, and with white outlines
 with a halftone dot texture, and faded look and with paint drips
 with a halftone dot texture, and with a halftone dot texture and with white outlines
-with a halftone dot texture, and with no outlines at all
+with a halftone dot texture, and with shapes meeting directly edge to edge
 with a halftone dot texture, and with visible brush marks and scraped look
 with a hand-drawn wobble
 with a hand-drawn wobble and with a matte chalky finish
@@ -91,7 +91,7 @@ with a soft glow around the edges and with a subtle sheen, and with a distressed
 with a soft glow around the edges and with a subtle sheen, and with a worn and with crisp clean edges
 with a soft glow around the edges and with a subtle sheen, and with an uneven handmade charm
 with a soft glow around the edges and with a subtle sheen, and with crisp clean edges
-with a soft glow around the edges and with a subtle sheen, and with no outlines at all
+with a soft glow around the edges and with a subtle sheen, and with shapes meeting directly edge to edge
 with a soft glow around the edges and with a subtle sheen, and with raised texture you can feel
 with a soft glow around the edges, and with a distressed
 with a soft glow around the edges, and with a glossy varnish
@@ -140,7 +140,7 @@ with crisp clean edges, and scraped look
 with crisp clean edges, and with a glossy varnish
 with crisp clean edges, and with a subtle sheen and slightly misregistered like a cheap print
 with crisp clean edges, and with heavy black outlines
-with crisp clean edges, and with sharp geometric precision and with no outlines at all
+with crisp clean edges, and with sharp geometric precision and with shapes meeting directly edge to edge
 with gold outlines
 with gold outlines and with a glossy varnish
 with gold outlines and with a glossy varnish, and with a glossy varnish and with gold outlines
@@ -178,17 +178,17 @@ with metallic highlights, and with crisp clean edges and with sharp geometric pr
 with metallic highlights, and with gold outlines and with a glossy varnish
 with metallic highlights, and with raised texture you can feel and with a halftone dot texture
 with metallic highlights, and with visible brush marks and scraped look
-with no outlines at all
-with no outlines at all and with rough woodgrain texture showing through
-with no outlines at all and with rough woodgrain texture showing through, and with a hand-drawn wobble
-with no outlines at all and with rough woodgrain texture showing through, and with a hand-drawn wobble and with a matte chalky finish
-with no outlines at all and with rough woodgrain texture showing through, and with a matte chalky finish and with metallic highlights
-with no outlines at all and with rough woodgrain texture showing through, and with a subtle sheen and slightly misregistered like a cheap print
-with no outlines at all and with rough woodgrain texture showing through, and with sharp geometric precision
-with no outlines at all and with rough woodgrain texture showing through, and with white outlines and with heavy black outlines
-with no outlines at all, and with a glossy varnish and with gold outlines
-with no outlines at all, and with raised texture you can feel and with a halftone dot texture
-with no outlines at all, and with sketchy construction lines left visible
+with shapes meeting directly edge to edge
+with shapes meeting directly edge to edge and with rough woodgrain texture showing through
+with shapes meeting directly edge to edge and with rough woodgrain texture showing through, and with a hand-drawn wobble
+with shapes meeting directly edge to edge and with rough woodgrain texture showing through, and with a hand-drawn wobble and with a matte chalky finish
+with shapes meeting directly edge to edge and with rough woodgrain texture showing through, and with a matte chalky finish and with metallic highlights
+with shapes meeting directly edge to edge and with rough woodgrain texture showing through, and with a subtle sheen and slightly misregistered like a cheap print
+with shapes meeting directly edge to edge and with rough woodgrain texture showing through, and with sharp geometric precision
+with shapes meeting directly edge to edge and with rough woodgrain texture showing through, and with white outlines and with heavy black outlines
+with shapes meeting directly edge to edge, and with a glossy varnish and with gold outlines
+with shapes meeting directly edge to edge, and with raised texture you can feel and with a halftone dot texture
+with shapes meeting directly edge to edge, and with sketchy construction lines left visible
 with paint drips
 with paint drips and with a hand-drawn wobble
 with paint drips and with a hand-drawn wobble, and slightly misregistered like a cheap print and faded look
@@ -200,7 +200,7 @@ with paint drips, and with a subtle sheen
 with paint drips, and with a worn and with crisp clean edges
 with paint drips, and with heavy black outlines
 with paint drips, and with rough woodgrain texture showing through
-with paint drips, and with sharp geometric precision and with no outlines at all
+with paint drips, and with sharp geometric precision and with shapes meeting directly edge to edge
 with raised texture you can feel
 with raised texture you can feel and with a halftone dot texture
 with raised texture you can feel and with a halftone dot texture, and with a distressed
@@ -220,13 +220,13 @@ with rough woodgrain texture showing through, and with a hand-drawn wobble and w
 with rough woodgrain texture showing through, and with a subtle sheen
 with rough woodgrain texture showing through, and with crisp clean edges and with sharp geometric precision
 with sharp geometric precision
-with sharp geometric precision and with no outlines at all
-with sharp geometric precision and with no outlines at all, and with a halftone dot texture
-with sharp geometric precision and with no outlines at all, and with a soft glow around the edges and with a subtle sheen
-with sharp geometric precision and with no outlines at all, and with gold outlines and with a glossy varnish
+with sharp geometric precision and with shapes meeting directly edge to edge
+with sharp geometric precision and with shapes meeting directly edge to edge, and with a halftone dot texture
+with sharp geometric precision and with shapes meeting directly edge to edge, and with a soft glow around the edges and with a subtle sheen
+with sharp geometric precision and with shapes meeting directly edge to edge, and with gold outlines and with a glossy varnish
 with sharp geometric precision, and with a halftone dot texture and with white outlines
 with sharp geometric precision, and with crisp clean edges
-with sharp geometric precision, and with no outlines at all and with rough woodgrain texture showing through
+with sharp geometric precision, and with shapes meeting directly edge to edge and with rough woodgrain texture showing through
 with sharp geometric precision, and with rough woodgrain texture showing through and with a soft glow around the edges
 with sketchy construction lines left visible
 with sketchy construction lines left visible and with a worn
@@ -254,7 +254,7 @@ with white outlines, and with a distressed and with a cracked vintage print fini
 with white outlines, and with a hand-drawn wobble
 with white outlines, and with a soft glow around the edges and with a subtle sheen
 with white outlines, and with an uneven handmade charm and with sketchy construction lines left visible
-with white outlines, and with no outlines at all
+with white outlines, and with shapes meeting directly edge to edge
 with white outlines, and with paint drips
 with white outlines, and with sketchy construction lines left visible and with a worn
 with white outlines, and with white outlines and with heavy black outlines

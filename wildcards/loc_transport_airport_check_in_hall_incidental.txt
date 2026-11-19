@@ -1,12 +1,12 @@
 a luggage trolley abandoned mid-hall with a coffee cup in its frame
 a cling-film wrapping machine's offcuts
 a child's scooter
-a dropped boarding pass trodden flat
-a neck pillow still in its packaging
+a dropped boarding pass printed "BOARDING PASS __name_town__" in small black print trodden flat
+a neck pillow still in its packaging printed "TRAVEL PILLOW" __text_look_print__
 a bathroom scale someone brought to check their bag
 a cardboard box being repacked on the floor
 a bin of confiscated liquids visible through the glass
 a lost glove on a barrier post
-a passport photo booth receipt
+a passport photo booth receipt reading "__text_receipt__" __text_look_receipt__
 a pen chained to a desk that no longer exists
 a wheelchair parked by a pillar

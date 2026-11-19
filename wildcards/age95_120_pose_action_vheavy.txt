@@ -12,7 +12,7 @@ gardening, while glancing at the camera
 sitting on a curb, with graceful posture
 tying hair back, with careful balance
 sitting on a chair, with a calm air
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting at a desk, with quiet confidence
 hands behind the head, with careful balance
 sitting cross-legged, in a natural candid moment
@@ -285,7 +285,7 @@ standing in a doorway frame, with energy
 drinking from a cup, with careful balance
 hands behind the back
 walking away
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 brushing hair aside, while looking into the distance
 hugging oneself
 reclining in a chair, in a relaxed way
@@ -322,7 +322,7 @@ laughing with a friend, with quiet confidence
 reclining in a chair, with quiet confidence
 adjusting a hat, in a relaxed way
 arms raised in celebration, with energy
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 playing a violin
 riding a scooter, in a relaxed way
 standing rigid motionless posture

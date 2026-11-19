@@ -49,7 +49,7 @@ pausing mid-step, with a calm air
 singing, with energy
 holding a mug with both hands, while glancing at the camera
 perching on a table edge, with a calm air
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 cooking
 adjusting a hat, in a relaxed way
 reading a map, with energy
@@ -252,8 +252,8 @@ sitting on the floor, with a sense of ease
 sitting on a chair, with a calm air
 perching on a stool, with graceful posture
 drinking from a cup, with focus
-reading a book, with graceful posture
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting on a stool
 standing with weight on one leg, while glancing at the camera
 reading aloud, with focus

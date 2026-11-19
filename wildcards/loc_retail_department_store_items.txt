@@ -3,10 +3,10 @@ folded knitwear in stacks
 shoe boxes
 handbags on stands
 perfume testers and blotter cards
-price tags
+price tags reading "__text_price_tag__" in black print
 security tags
 carrier bags
 tissue paper
-receipts
-a store directory leaflet
+receipts reading "__text_receipt__" __text_look_receipt__, the rest of each strip plain
+a store directory leaflet headed "STORE DIRECTORY" __text_look_print__, the rest of the leaflet plain
 cotton pads at the beauty counter

@@ -5,7 +5,7 @@ a shampoo basin
 a hand-wash basin
 a water basin
 a ladle resting across basin
-a laminated hygiene notice above basin
+a laminated hygiene notice reading "WASH YOUR HANDS" __text_look_paper_notice__, the rest of the sheet plain white, above basin
 a small basin
 a clinical wash basin
 a clinical basin
@@ -22,7 +22,7 @@ a basin on a stand
 a water basin with a bamboo ladle
 the water basin with a ladle across it
 a ladle resting across the basin
-laminated hygiene notice above the basin
+laminated hygiene notice reading "WASH YOUR HANDS" __text_look_paper_notice__, the rest of the sheet plain white, above the basin
 basin or vessel bowl on a counter
 basin and vanity
 small basin or console
@@ -44,7 +44,7 @@ a basin on a stand that is the room's entire sanitary provision
 a basin in the room and a wall-mounted hand sanitizer
 a basin in every room and wall-mounted sanitizer
 basins and sanitizer
-a hand basin with elbow taps and a clinical waste contract sticker on the bin lid
+a hand basin with elbow taps and a clinical waste contract sticker reading "CLINICAL WASTE" __text_look_print__ on the bin lid
 a lead-lined fountain basin with a tide line of lime 40 mm wide and a crack across one lily pad casting
 two basins
 a basin of 350 mm

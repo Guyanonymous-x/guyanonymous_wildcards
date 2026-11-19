@@ -1,6 +1,6 @@
-a folded flyer
-a stack of flyers
-a leaflet stuck to a wall
-a flyer for a local event
-a photocopied notice
-a flyer under a windscreen wiper
+a folded flyer reading "__text_flyer__" __text_look_print__, the rest of the sheet plain
+a stack of flyers reading "__text_flyer__" __text_look_print__, the rest of each sheet plain
+a leaflet headed "__text_flyer__" __text_look_print__, the rest of the sheet plain, stuck to a wall
+a flyer for a local event reading "__text_flyer__" __text_look_print__, the rest of the sheet plain
+a photocopied notice reading "__text_bulletin__" in black photocopy print, the rest of the sheet plain white
+a flyer reading "__text_flyer__" __text_look_print__, the rest of the sheet plain, under a windscreen wiper

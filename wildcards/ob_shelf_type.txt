@@ -61,7 +61,7 @@ a hygiene box used as shelf
 a plank shelf
 a mirror above plank shelf
 a support worker's appointment tucked into shelf
-a labeled bag shelf
+a labeled bag shelf marked "__name_surname_world__" in black marker
 an unclaimed items shelf
 a wrapped book shelf
 a devotional shelf
@@ -95,16 +95,16 @@ a shelf for offerings
 a shelf of spares
 shelf
 a block shelf with instruments and bells
-a shelf with a Bible
+a shelf with a Bible with "HOLY BIBLE" in gold letters on its spine
 cold slab shelf
 a shelf of accumulated mugs
 a mounted shelf for the camera
 a shelf of linen
 the shelf of hats and boxes
 a shelf at eye height or above
-a shelf of abandoned paperbacks
-the shelf of left-behind paperbacks
-a shelf of paperbacks left by previous guests
+a shelf of abandoned paperbacks titled "__name_book_title_any__" in bold print on the spines
+the shelf of left-behind paperbacks titled "__name_book_title_any__" in bold capitals on the covers
+a shelf of paperbacks titled "__name_book_title_any__" in bold print on the spines left by previous guests
 a shelf of paint tins under cover
 a shelf for bags
 a low shelf for texts
@@ -155,12 +155,12 @@ a recessed shelf in the wall with a hammer and a prybar on it that have lived th
 a shelf of helmets belonging to the staff
 a shelf of staff helmets which tells you that everybody here rides
 the staff helmet shelf
-a shelf of manuals and parts books with a bus ticket as a bookmark in one
+a shelf of manuals and parts books with a bus ticket printed "SINGLE __name_price__" in small black print as a bookmark in one
 the found-objects shelf
 the shelf of things found inside refuse bodies
 a shelf of overhaul manuals in binders
-a quarantine shelf with a red tag on one unit
-a quarantine shelf with a red tag on one unit and a hand-written note saying why
+a quarantine shelf with a red tag reading "QUARANTINE" in white capitals on one unit
+a quarantine shelf with a red tag reading "QUARANTINE" in white capitals on one unit and a hand-written note saying why
 the quarantine shelf with a red tag and a hand-written reason
 a shelf of antifouling and varnish tins
 a shelf of machine manuals
@@ -169,7 +169,7 @@ a shelf of removed hard drives in anti-static bags with customer names such as "
 a shelf of removed drives in anti-static bags each with a customer's name, "__name_person__", and a date on masking tape
 a spares shelf of drives
 a shelf of finished shoes in paper
-a shelf of finished shoes wrapped in paper with a ticket pinned to each
+a shelf of finished shoes wrapped in paper with a ticket reading "__name_surname_world__" __text_look_handwriting__ pinned to each
 a shelf of finished work
 a hygiene kit box repurposed as a shelf
 a hygiene box used as a shelf
@@ -179,7 +179,7 @@ a shelf and a hook above the bed head
 a support worker's appointment tucked into the shelf
 a shelf and hook
 a shelf with three objects on it
-a shelf of labeled bags above them
+a shelf of labeled bags marked "__name_surname_world__" in black marker above them
 a shelf with a few books wrapped in cloth
 a shelf with a few books wrapped in cloth to keep the dust off
 a -wrapped book shelf
@@ -191,14 +191,14 @@ a shelf with a lantern
 a sculpted shelf and bench formed out of the wall itself
 a kitchen shelf with a two-ring gas cooktop and a kettle
 a shelf of tins with the labels gone
-a shelf of tins with the labels gone and the contents written on the lid in marker
+a shelf of tins with the labels gone and the contents "BEANS" and "SOUP" written on the lid in marker
 a shelf with a stub of candle
 a shelf with a kettle and a small fridge
 a lashed shelf with a candle
 a window sill used as a shelf
-a candle shelf with wax on it and a fire notice beside it
-a candle shelf with decades of wax on it and a fire notice pinned beside it saying no candles in the bunk room
-the candle shelf with the no-candles notice beside it
+a candle shelf with wax on it and a fire notice reading "FIRE RISK CANDLES ON THE SHELF ONLY" in black print beside it
+a candle shelf with decades of wax on it and a fire notice pinned beside it saying "no candles in the bunk room" in black print
+the candle shelf with the no-candles notice headed "FIRE RISK" __text_look_paper_notice__ beside it
 an interior shelf at the head with a light and a phone pocket
 a head shelf with a light
 a shelf and rail unit
@@ -211,19 +211,19 @@ a shelf of lasts and formers
 bar stools along a window shelf
 a trophy shelf with the oldest trophy's plate unreadable
 a bottom shelf of forty bound sale catalogues from other people's houses with slips of paper marking the lots that were bought
-a hanging shelf of thirty books
+a hanging shelf of thirty books with "__name_book_title_any__" in gilt on the nearest spine, the other spines plain
 a shelf and a pierced tin or louvred ventilator to a flue or an outside wall
-a hymn-book shelf in the gallery holding eight books of which two are in better bindings than the other six
+a hymn-book shelf in the gallery holding eight books with "__text_hymn_book__" in gilt on their spines of which two are in better bindings than the other six
 a hymn-book shelf and a drawing curtain
 a lamp room shelf with four lamps in pieces
 a shelf in a cool recess
 a shelf in a cool north recess with four ring marks on it
 a proving shelf of deal on brackets with a sacking cover
 a shelf of 340 folded pieces
-a shelf of four books and a shaving mug
-a shelf with books
+a shelf of four books with "__name_book_title_any__" in gilt on the nearest spine, the other spines plain, and a shaving mug
+a shelf with books with "__name_book_title_any__" in gilt on the nearest spine, the other spines plain
 a shelf with a tea caddy and a work box
-a lamp shelf with eleven carriage lamps on it and a tin of colza
+a lamp shelf with eleven carriage lamps on it and a tin of colza with "COLZA OIL" in black print on its side
 a lamp shelf with eleven lamps
 a shelf with a clock
 a shelf and a night-duty slate
@@ -237,7 +237,7 @@ a shelf of music folders in boxes
 a radiator shelf with a ring mark
 a spares shelf of door closers and toilet-seat fixings
 a spares shelf with four door closers of the same model because that is the model the building uses
-a dry store shelf with a sack of flour standing on a plastic pallet and a date written on the sack in marker
+a dry store shelf with a sack of flour standing on a plastic pallet and a date "__name_number_small__ MARCH" written on the sack in marker
 a shelf of blankets and comforters in cloth bags marked with names such as "__name_first__"
 a shelf of cloth bags marked with names such as "__name_first__" holding each child's own comforter
 a radiator shelf with six overlapping cup rings

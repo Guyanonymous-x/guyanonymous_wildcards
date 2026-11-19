@@ -34,7 +34,7 @@ a built-to-last enamel keychain made of __acc_keychain_mat_all_practical__, colo
 a built-to-last glow-in-the-dark keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a built-to-last miniature plant keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a capable carved wood keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
-a capable miniature book keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
+a capable miniature book keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a capable paracord keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a capable whistle keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a carefully made Japanese omamori keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
@@ -105,7 +105,7 @@ a crisp snap-hook keychain made of __acc_keychain_mat_all_fine__, coloured in __
 a crown-jewel-grade Indian mirror-work keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a crown-jewel-grade bottle-opener keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a crown-jewel-grade magnetic keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
-a crown-jewel-grade miniature book keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
+a crown-jewel-grade miniature book keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a crown-jewel-grade tiny globe keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a crown-jewel-grade whistle keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a crown-jewel-grade wristlet keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
@@ -113,7 +113,7 @@ a cultivated Japanese omamori keychain made of __acc_keychain_mat_all_fine__, co
 a cultivated acrylic charm keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a cultivated enamel keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a cultivated mini flashlight keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
-a cultivated miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
+a cultivated miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a cultivated miniature plant keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a cultivated puzzle-ring keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a cultivated tiny globe keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
@@ -142,7 +142,7 @@ a dependable carved wood keychain made of __acc_keychain_mat_all_practical__, co
 a dependable glow-in-the-dark keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a dependable metal bar keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a dependable mini flashlight keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
-a dependable miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
+a dependable miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a dependable retractable keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a dependable stuffed animal keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a dependable stuffed animal keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
@@ -153,7 +153,7 @@ a dependable woven lanyard keychain made of __acc_keychain_mat_all_standard__, c
 a discerning bottle-opener keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a discerning carabiner keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a discerning fabric loop keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
-a discerning miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
+a discerning miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a discerning snap-hook keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a discerning whistle keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a distinguished brass-tag keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
@@ -233,14 +233,14 @@ a harmonious Indian mirror-work keychain made of __acc_keychain_mat_all_fine__, 
 a heavy-duty Japanese omamori keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a heavy-duty bottle-opener keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a heavy-duty leather fob keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
-a heirloom-quality miniature book keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
+a heirloom-quality miniature book keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a heirloom-quality miniature plant keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a heirloom-quality paracord keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a heirloom-quality puzzle-ring keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a high-grade Japanese omamori keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a high-grade Moroccan leather keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a high-grade metal bar keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
-a high-grade miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
+a high-grade miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a high-grade pom-pom keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a honest bottle-opener keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a honest carabiner keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
@@ -271,15 +271,15 @@ a lavish mini flashlight keychain made of __acc_keychain_mat_all_luxury__, colou
 a lavish stuffed animal keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a legendary beaded keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a legendary fabric loop keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
-a legendary miniature book keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
+a legendary miniature book keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a legendary paracord keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a legendary tassel keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a legendary woven lanyard keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
-a light-duty miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
+a light-duty miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a lightly built bottle-opener keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
 a lightly built fabric loop keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
 a lightly built mini flashlight keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
-a lightly built miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
+a lightly built miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a lightly built tiny globe keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
 a long-lasting Indian mirror-work keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a long-lasting magnetic keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
@@ -297,9 +297,9 @@ a lustrous miniature plant keychain made of __acc_keychain_mat_all_fine__, colou
 a lustrous tiny globe keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a luxurious acrylic charm keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a luxurious mini flashlight keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
-a luxurious miniature book keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
+a luxurious miniature book keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a luxurious puzzle-ring keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
-a magnificent miniature book keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
+a magnificent miniature book keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a magnificent miniature plant keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a magnificent puzzle-ring keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a majestic fur-ball keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
@@ -347,7 +347,7 @@ a nicely finished carabiner keychain made of __acc_keychain_mat_all_standard__, 
 a nicely finished carved wood keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a no-frills bottle-opener keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
 a no-frills carabiner keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
-a no-frills miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
+a no-frills miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a no-fuss Japanese omamori keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a no-fuss carved wood keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a no-fuss metal bar keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
@@ -362,7 +362,7 @@ a noble Moroccan leather keychain made of __acc_keychain_mat_all_luxury__, colou
 a noble beaded keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a noble bottle-opener keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a noble carabiner keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
-a noble miniature book keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
+a noble miniature book keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a painstaking bottle-opener keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a painstaking glow-in-the-dark keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a painstaking woven lanyard keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
@@ -371,7 +371,7 @@ a peerless glow-in-the-dark keychain made of __acc_keychain_mat_all_showpiece__,
 a peerless miniature plant keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a personable leather fob keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a plain mini flashlight keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
-a plain miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
+a plain miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a plain whistle keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
 a plain wristlet keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
 a plain-spun Japanese omamori keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
@@ -391,7 +391,7 @@ a pleasing tassel keychain made of __acc_keychain_mat_all_standard__, coloured i
 a plush carved wood keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a plush fur-ball keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a plush magnetic keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
-a plush miniature book keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
+a plush miniature book keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a plush stuffed animal keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 a polished brass-tag keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a polished carabiner keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
@@ -407,7 +407,7 @@ a practical bottle-opener keychain made of __acc_keychain_mat_all_practical__, c
 a practical fur-ball keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a practical tiny globe keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a premium-feeling glow-in-the-dark keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
-a premium-feeling miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
+a premium-feeling miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a premium-feeling puzzle-ring keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a premium-feeling whistle keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a premium-feeling woven lanyard keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
@@ -508,11 +508,11 @@ a sensible stuffed animal keychain made of __acc_keychain_mat_all_practical__, c
 a serviceable acrylic charm keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a serviceable fabric loop keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a serviceable leather fob keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
-a serviceable miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
+a serviceable miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a serviceable paracord keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
 a serviceable tassel keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
 a serviceable tassel keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
-a shapely miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
+a shapely miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a shapely miniature plant keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a shapely whistle keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a shapely woven lanyard keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
@@ -536,7 +536,7 @@ a singular metal bar keychain made of __acc_keychain_mat_all_showpiece__, colour
 a singular stuffed animal keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 a skilfully made Indian mirror-work keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a skilfully made glow-in-the-dark keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
-a skilfully made miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
+a skilfully made miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a skilfully made miniature plant keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a skilfully made stuffed animal keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a skilfully made woven lanyard keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
@@ -606,7 +606,7 @@ a stripped-back woven lanyard keychain made of __acc_keychain_mat_all_basic__, c
 a strongly built Indian mirror-work keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a strongly built Moroccan leather keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a strongly built glow-in-the-dark keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
-a strongly built miniature book keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
+a strongly built miniature book keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a strongly built miniature plant keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a sturdy Japanese omamori keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a sturdy acrylic charm keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
@@ -744,13 +744,13 @@ a well-bred paracord keychain made of __acc_keychain_mat_all_fine__, coloured in
 a well-bred tiny globe keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 a well-built brass-tag keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a well-built enamel keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
-a well-built miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
+a well-built miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a well-built tiny globe keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a well-crafted beaded keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a well-crafted enamel keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a well-crafted metal bar keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a well-crafted mini flashlight keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
-a well-crafted miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
+a well-crafted miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a well-crafted pom-pom keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a well-made fabric loop keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a well-made paracord keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
@@ -760,7 +760,7 @@ a well-proportioned leather fob keychain made of __acc_keychain_mat_all_standard
 a well-proportioned magnetic keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a well-proportioned paracord keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 a well-used bottle-opener keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
-a well-used miniature book keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
+a well-used miniature book keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a well-used pom-pom keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a well-used puzzle-ring keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a well-used stuffed animal keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
@@ -780,7 +780,7 @@ a workmanlike beaded keychain made of __acc_keychain_mat_all_practical__, colour
 a workmanlike carabiner keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a workmanlike leather fob keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a workmanlike metal bar keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
-a workmanlike miniature book keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
+a workmanlike miniature book keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 a workmanlike retractable keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a workmanlike whistle keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 a workmanlike woven lanyard keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
@@ -794,7 +794,7 @@ an agreeable pom-pom keychain made of __acc_keychain_mat_all_standard__, coloure
 an appealing Indian mirror-work keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 an appealing Moroccan leather keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 an appealing brass-tag keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
-an appealing miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
+an appealing miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 an appealing miniature plant keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 an appealing wristlet keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 an artful Moroccan leather keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
@@ -841,7 +841,7 @@ an easygoing Indian mirror-work keychain made of __acc_keychain_mat_all_standard
 an easygoing Japanese omamori keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 an easygoing acrylic charm keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 an easygoing carabiner keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
-an easygoing miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
+an easygoing miniature book keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 an easygoing snap-hook keychain made of __acc_keychain_mat_all_standard__, coloured in __acc_colour__
 an elegant beaded keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 an elegant brass-tag keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
@@ -864,7 +864,7 @@ an everyday-tough Indian mirror-work keychain made of __acc_keychain_mat_all_pra
 an everyday-tough acrylic charm keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 an everyday-tough beaded keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 an everyday-tough brass-tag keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
-an everyday-tough miniature book keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
+an everyday-tough miniature book keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 an everyday-tough tassel keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 an everyday-tough tiny globe keychain made of __acc_keychain_mat_all_practical__, coloured in __acc_colour__
 an exacting bottle-opener keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
@@ -878,13 +878,13 @@ an exclusive mini flashlight keychain made of __acc_keychain_mat_all_luxury__, c
 an exclusive paracord keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 an exclusive puzzle-ring keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 an exemplary Japanese omamori keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
-an exemplary miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
+an exemplary miniature book keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 an exemplary paracord keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 an exemplary pom-pom keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 an exemplary wristlet keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 an exhibition-worthy fabric loop keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 an exhibition-worthy leather fob keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
-an exhibition-worthy miniature book keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
+an exhibition-worthy miniature book keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 an exhibition-worthy miniature plant keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 an exquisite bottle-opener keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 an exquisite enamel keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
@@ -921,7 +921,7 @@ an immaculate pom-pom keychain made of __acc_keychain_mat_all_fine__, coloured i
 an immaculately hand-finished Moroccan leather keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 an immaculately hand-finished carabiner keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 an immaculately hand-finished carved wood keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
-an immaculately hand-finished miniature book keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
+an immaculately hand-finished miniature book keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 an immaculately hand-finished whistle keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
 an impeccable fur-ball keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
 an impeccable stuffed animal keychain made of __acc_keychain_mat_all_fine__, coloured in __acc_colour__
@@ -936,7 +936,7 @@ an imperial brass-tag keychain made of __acc_keychain_mat_all_showpiece__, colou
 an imperial fur-ball keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 an imperial leather fob keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 an imperial metal bar keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
-an imperial miniature book keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
+an imperial miniature book keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 an imperial tiny globe keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 an imperial woven lanyard keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 an indulgent Japanese omamori keychain made of __acc_keychain_mat_all_luxury__, coloured in __acc_colour__
@@ -1001,7 +1001,7 @@ an unrepeatable paracord keychain made of __acc_keychain_mat_all_showpiece__, co
 an unrepeatable retractable keychain made of __acc_keychain_mat_all_showpiece__, coloured in __acc_colour__
 an utilitarian beaded keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
 an utilitarian bottle-opener keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
-an utilitarian miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
+an utilitarian miniature book keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__, its cover titled "__name_book_title_any__" in tiny gold letters, the rest of the cover plain
 an utilitarian miniature plant keychain made of __acc_keychain_mat_all_basic__, coloured in __acc_colour__
 __acc_keychain_plastic_short__
 __acc_keychain_novelty_short__

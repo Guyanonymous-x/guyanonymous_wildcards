@@ -79,7 +79,7 @@
 1950s cashmere velvet smoking jacket
 1950s chiffon two-piece negligee set
 1950s cotton long nightgown
-1950s cotton pyjamas with monogram on the pocket
+1950s cotton pyjamas with monogram "__name_initials__" on the pocket
 1950s damask Persian-style smoking robe
 1950s floor-length smoking robe
 1950s graphic-free band-tee-style sleep shirt with curved hem
@@ -118,7 +118,7 @@
 1960s double-breasted smoking jacket
 1960s feather-trimmed negligee
 1960s flannel sherpa-lined robe
-1960s henley pyjama set with monogram on the pocket
+1960s henley pyjama set with monogram "__name_initials__" on the pocket
 1960s kimono-sleeve robe
 1960s linen bed jacket and nightgown set
 1960s linen robe
@@ -390,7 +390,7 @@ Edwardian nightcap-and-nightshirt set
 Edwardian nightgown with a yoke
 Edwardian nightgown with a yoke with empire waist seam
 Edwardian nightshirt with ruffled collar
-Edwardian nightshirt with ruffled collar with embroidered monogram
+Edwardian nightshirt with ruffled collar with embroidered monogram "__name_initials__"
 Edwardian nightshirt with ruffled collar with lace-trimmed yoke
 Edwardian nylon tricot two-piece negligee set
 Edwardian poplin notch-collar pyjamas
@@ -485,8 +485,8 @@ Moroccan kantha cotton Turkish towelling robe
 Nigerian agbada-style robe
 Nordic kimono robe
 Nordic muslin thobe-style robe
-Oriental-style pyjama set
-Oriental-style pyjama set with cropped fit
+Chinese-style pyjama set with a mandarin collar and knotted frog fastenings
+Chinese-style pyjama set with a mandarin collar, knotted frog fastenings and cropped fit
 Persian Egyptian galabeya with sash belt
 Persian German Bademantel with woven stripes
 Persian brocade Japanese noragi robe
@@ -600,7 +600,7 @@ Victorian nightshirt
 Victorian nightshirt with lace-trimmed yoke
 Victorian nightshirt with rolled sleeves
 Victorian oversized hooded blanket robe
-Victorian oversized hooded blanket robe with monogram on the chest
+Victorian oversized hooded blanket robe with monogram "__name_initials__" on the chest
 Victorian peasant-style nightgown with scalloped neckline
 Victorian poplin grandpa-style nightshirt
 Victorian quilted satin bed jacket
@@ -636,11 +636,11 @@ backless negligee
 bamboo Regency night rail
 bamboo boxer-style sleep shorts
 bamboo floor-length nightgown with floral print
-bamboo gingham pyjamas with monogram on the pocket
+bamboo gingham pyjamas with monogram "__name_initials__" on the pocket
 bamboo high-neck nightgown with gathered bodice
 bamboo jersey Victorian nightshirt with lace-trimmed yoke
 bamboo jersey boyfriend-style sleep shirt
-bamboo jersey grandpa-style nightshirt with embroidered monogram
+bamboo jersey grandpa-style nightshirt with embroidered monogram "__name_initials__"
 bamboo jersey high-low nightshirt with split hem
 bamboo jersey nightcap-and-nightshirt set
 bamboo knee-length nightgown with sheer overlay panels
@@ -648,7 +648,7 @@ bamboo short-sleeved pyjama set with long trousers with tie waist
 bamboo silk pyjama set with ruffle trim
 bamboo silk slip nightgown with ruffled hem
 bamboo sleep joggers and tee
-bamboo towelling dressing gown with monogram on the chest
+bamboo towelling dressing gown with monogram "__name_initials__" on the chest
 bamboo towelling hooded towelling poncho
 bamboo towelling hooded towelling poncho with tie belt
 bamboo towelling pool-side robe with snap front
@@ -774,7 +774,7 @@ brushed cotton dressing gown
 brushed cotton flannel nightshirt
 brushed cotton fleece robe with back hanger loop
 brushed cotton floor-length robe with towelling lining
-brushed cotton grandpa-style nightshirt with embroidered monogram
+brushed cotton grandpa-style nightshirt with embroidered monogram "__name_initials__"
 brushed cotton hooded nightgown with cap sleeves
 brushed cotton hooded sleep shirt
 brushed cotton long-sleeved nightshirt
@@ -782,7 +782,7 @@ brushed cotton old-fashioned long nightshirt with side slits
 brushed cotton oversized hooded blanket robe with extra-long sleeves
 brushed cotton shawl-collar robe
 brushed cotton silk slip nightgown
-brushed cotton three-quarter-sleeve robe with monogram on the chest
+brushed cotton three-quarter-sleeve robe with monogram "__name_initials__" on the chest
 brushed cotton tiered nightgown
 brushed cotton wrap dressing gown
 brushed cotton wrap-front nightgown
@@ -805,7 +805,7 @@ button-front robe with tie belt
 button-up pyjama set
 button-up pyjama set with drawstring waist
 button-up pyjama set with elastic waist
-cabin Chinese-collar pyjamas with monogram on the pocket
+cabin Chinese-collar pyjamas with monogram "__name_initials__" on the pocket
 cabin bed jacket
 cabin boxer-style sleep shorts with contrast piping
 cabin cotton pyjamas with tiny polka dots
@@ -904,7 +904,7 @@ classic pyjama set
 classic seersucker nightcap-and-nightshirt set
 classic tunic-style sleep shirt
 club-room smoking jacket
-club-room smoking jacket with monogram
+club-room smoking jacket with monogram "__name_initials__" in gold-thread script
 club-room smoking jacket with quilted satin lapels
 clubroom opulent velvet robe with gold embroidery with patch pockets with satin edging
 clubroom quilted silk tasselled-belt smoking robe
@@ -1004,7 +1004,7 @@ cotton nightshirt with short placket
 cotton piped pyjama-style nightshirt
 cotton plush robe with hood with a drawstring
 cotton pocketed nightshirt with elbow patches
-cotton pocketed nightshirt with embroidered monogram
+cotton pocketed nightshirt with embroidered monogram "__name_initials__"
 cotton pyjamas
 cotton robe
 cotton robe with quilted lining
@@ -1032,7 +1032,7 @@ cropped silk robe
 cropped silk robe with thigh-high slit
 cropped sleep top and shorts
 cropped sleep top and shorts with tiny polka dots
-crushed velvet eccentric aristocrat robe with monogram
+crushed velvet eccentric aristocrat robe with monogram "__name_initials__" in gold-thread script
 crushed velvet floor-length smoking robe with rope-and-tassel belt
 crushed velvet smoking robe
 crushed velvet smoking robe with rolled satin cuffs
@@ -1122,7 +1122,7 @@ flannel travel robe with shawl collar
 flannel velvet dressing gown with lace trim
 flannel waffle-weave bathrobe
 flannel zipped robe
-fleece Oriental-style pyjama set with tiny polka dots
+fleece Chinese-style pyjama set with a mandarin collar, knotted frog fastenings and tiny polka dots
 fleece bed jacket and nightgown set
 fleece button-up pyjama set
 fleece polka-dot pyjamas
@@ -1225,7 +1225,7 @@ gothic Edwardian nightgown with a yoke
 gothic ruffled nightgown with ruffled hem
 gothic velvet sleeveless nightgown
 grandpa-style nightshirt
-grandpa-style nightshirt with embroidered monogram
+grandpa-style nightshirt with embroidered monogram "__name_initials__"
 grandpa-style nightshirt with long tails
 graphic-free band-tee-style sleep shirt
 graphic-free band-tee-style sleep shirt with button placket
@@ -1431,7 +1431,7 @@ linen Scandinavian wool robe with floor length
 linen Turkish towelling robe with silk embroidery
 linen bathrobe
 linen classic pyjama set with lace trim
-linen cotton nightshirt with embroidered monogram
+linen cotton nightshirt with embroidered monogram "__name_initials__"
 linen floor-length robe with contrast piping
 linen hotel robe with snap front
 linen nightshirt
@@ -1561,7 +1561,7 @@ minimalist muslin old-fashioned long nightshirt
 minimalist oversized sleep shirt
 modal 1950s pyjama set with tie waist
 modal chemise-style nightgown with tie-front closure
-modal drawstring pyjama trousers with monogram on the pocket
+modal drawstring pyjama trousers with monogram "__name_initials__" on the pocket
 modal flowing chiffon nightgown with ruffled hem
 modal graphic-free band-tee-style sleep shirt with split hem
 modal high-low nightshirt
@@ -1602,7 +1602,7 @@ modern long-sleeved nightshirt with scalloped collar
 modern negligee with satin ribbon bows
 modern peignoir set with long train
 modern plaid flannel nightshirt with button placket
-modern polka-dot pyjamas with monogram on the pocket
+modern polka-dot pyjamas with monogram "__name_initials__" on the pocket
 modern quilted evening robe with satin shawl collar
 modern quilted silk tasselled-belt smoking robe
 modern satin robe
@@ -1730,7 +1730,7 @@ plush robe with turned-back cuffs
 pocketed nightshirt
 polka-dot pyjamas
 pool-side robe
-poplin Oriental-style pyjama set with relaxed fit
+poplin Chinese-style pyjama set with a mandarin collar, knotted frog fastenings and relaxed fit
 poplin drawstring nightshirt with contrast piping
 poplin drawstring nightshirt with short placket
 poplin drawstring pyjama trousers with tie waist
@@ -1884,7 +1884,7 @@ satin dressing gown with belt with loops
 satin dressing gown with shawl collar
 satin floor-length negligee
 satin glossy wet-look robe
-satin grandpa-style nightshirt with embroidered monogram
+satin grandpa-style nightshirt with embroidered monogram "__name_initials__"
 satin halter negligee with beaded straps
 satin jalabiya
 satin jalabiya with frog buttons
@@ -1976,7 +1976,7 @@ shorts pyjama set
 shorts pyjama set with elastic waist
 side-slit nightshirt
 side-slit nightshirt with elbow patches
-side-slit nightshirt with embroidered monogram
+side-slit nightshirt with embroidered monogram "__name_initials__"
 side-slit nightshirt with ruffled hem
 side-slit nightshirt with soft brushed finish
 silk 1940s satin nightgown with floral print
@@ -1994,7 +1994,7 @@ silk bed jacket with ruffle trim
 silk belted wrap robe
 silk boxer-style sleep shorts
 silk boyfriend-style sleep shirt with scalloped collar
-silk camisole and shorts set with monogram on the pocket
+silk camisole and shorts set with monogram "__name_initials__" on the pocket
 silk chemise negligee
 silk classic pyjama set
 silk club-room smoking jacket
@@ -2182,7 +2182,7 @@ thermal pyjama set with elastic waist
 thermal pyjama set with rolled cuffs
 thick winter dressing gown with contrast trim on the collar
 thick winter full-length robe
-thick winter linen robe with monogram on the chest
+thick winter linen robe with monogram "__name_initials__" on the chest
 thick winter terry robe
 thigh-length sleep shirt
 thigh-length sleep shirt with lace-trimmed yoke
@@ -2255,7 +2255,7 @@ tunic-style sleep shirt
 tunic-style sleep shirt with woven stripes
 two-piece negligee set
 velour bed jacket with turned-back cuffs
-velour cotton robe with monogram on the chest
+velour cotton robe with monogram "__name_initials__" on the chest
 velour dressing gown
 velour flannel dressing gown with shawl collar
 velour loungewear set
@@ -2299,7 +2299,7 @@ velvet smoking jacket with gold embroidery
 velvet study dressing gown
 velvet thermal nightgown
 velvet slipper-and-robe set
-velvet smoking jacket with monogram
+velvet smoking jacket with monogram "__name_initials__" in gold-thread script
 velvet wool smoking jacket with silk lining
 vintage 1960s lounge smoking jacket with quilted diamond pattern
 vintage bed jacket and nightgown set with scalloped hem
@@ -2321,7 +2321,7 @@ vintage jersey lightweight cotton robe
 vintage lace negligee
 vintage lace short nightgown
 vintage linen nightshirt with side slits
-vintage matching sweatshirt and pant set with monogram on the pocket
+vintage matching sweatshirt and pant set with monogram "__name_initials__" on the pocket
 vintage modal thermal nightgown
 vintage negligee
 vintage organza mesh robe
@@ -2384,7 +2384,7 @@ wool cravat-and-smoking-jacket set
 wool paisley smoking robe with braided cord closures
 wool qipao-style robe
 wool smoking jacket
-wool smoking jacket with monogram
+wool smoking jacket with monogram "__name_initials__" in gold-thread script
 wool velvet smoking jacket
 wrap dressing gown
 wrap negligee

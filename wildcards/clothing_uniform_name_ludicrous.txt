@@ -30,7 +30,7 @@ a tin man robot (theatre)
 a toilet paper roll costume wearer (party)
 a town mascot cow (farm)
 a walking Christmas tree (festive)
-a walking sandwich board seller (street)
+a walking sandwich board seller (street), the boards reading "__text_flyer__" __text_look_paint__, the rest of the boards plain
 an inflatable dinosaur costume wearer (party)
 an ostrich costume (party)
 an unicorn onesie wearer (home)
@@ -69,4 +69,4 @@ toilet paper roll costume wearer
 town mascot cow
 unicorn onesie wearer
 walking Christmas tree
-walking sandwich board seller
+walking sandwich board seller, the boards reading "__text_flyer__" __text_look_paint__, the rest of the boards plain

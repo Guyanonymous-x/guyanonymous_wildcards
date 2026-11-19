@@ -243,7 +243,7 @@ standing at a doorway
 meditating
 standing with feet apart, at rest
 stretching after waking, with a sense of ease
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 leaning on a car
 stretching the arms overhead, in a relaxed way
 leaning on a railing, with energy
@@ -295,7 +295,7 @@ sitting on a sofa
 sitting on a chair, in mid-motion
 lying on the back, at rest
 sitting on a windowsill, while glancing at the camera
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 hopping
 kneeling on one knee on ground
 praying, while looking away
@@ -434,7 +434,7 @@ riding a bicycle, with a slight smile
 crouching low
 standing turned three-quarters away
 kneeling on one knee, with a slight smile
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 standing relaxed with arms crossed
 reading a map
 perching on a table edge

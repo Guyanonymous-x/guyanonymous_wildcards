@@ -56,7 +56,7 @@ gargoyle-shaped buckle mounts
 gilded rocaille curls climbing the heel counter
 hand-carved tulip reliefs
 hand-hammered copper fittings
-hand-painted graffiti tags
+hand-painted graffiti tags reading "__text_graffiti_word__" __text_look_graffiti__
 hand-scrawled paint marks
 harlequin diamond panels
 heavy wingtip broguing
@@ -122,7 +122,7 @@ decorative eyelets in contrasting metal
 a double row of piping
 whipstitched edges
 embossed initials on the quarters
-a woven label stitched at the heel
+a woven label reading "__name_brand_upper__" stitched at the heel
 cutwork along the quarters
 a bound topline
 a cross-stitch motif
@@ -146,7 +146,7 @@ contrasting heel stripes
 a printed sole sock
 a metal toe cap
 decorative studs along the seams
-a stitched tongue label
+a stitched tongue label reading "__name_brand_upper__" in small capitals
 an embroidered crest
 a single bold stripe
 a stack of coloured heel layers

@@ -4,6 +4,6 @@ pins
 discarded clothes over a bench
 a handbag
 a phone
-a price tag
+a price tag reading "__text_price_tag__" in black print
 a sizing card
 a lint roller

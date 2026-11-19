@@ -4,8 +4,8 @@ a tin of oil with the label reading "__loc_text_label__" worn off
 a rag in a bin
 a calendar from a supplier
 a pair of gloves on the bench
-a sweet wrapper
-a notice about a serial number discrepancy from years ago
+a sweet wrapper printed "__name_brand_upper__" __text_look_print__
+a notice about a serial number discrepancy from years ago, headed "SERIAL NUMBER CHECK" __text_look_paper_notice__, the rest of the sheet plain white
 a stool with one leg shorter
 a torch with a weak battery
 a chocolate bar in a drawer

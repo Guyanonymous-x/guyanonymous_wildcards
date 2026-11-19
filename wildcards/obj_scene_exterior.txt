@@ -11,7 +11,7 @@ a stack of tyres and a puddle, a chained-up bike and a camping stove casting a s
 a statue on a plinth and a street piano, a church bell tower and a model aeroplane and a cricket bat faded
 a charcoal grill, a stone wall and a champagne bucket half hidden behind a curtain
 a drainpipe with moss and a row of payphones, a goat tied to a rail and a round wall mirror on a low table
-a market scale, a mailbox and an espresso machine on a shelf
+a market scale, a mailbox marked "POST" in white capitals and an espresso machine on a shelf
 a pile of firewood, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a bookend half hidden behind a curtain
 a pile of firewood and a shrine with offerings, a flock of pigeons and a spade and fork and a stepladder on the floor
 a row of payphones and a busker's guitar case, a bale of hay and an alarm clock cracked
@@ -20,7 +20,7 @@ a fruit stall with crates, a wheelbarrow and a fishing rod and a bonsai in need 
 a tram stop and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a stack of tyres and a disco ball hanging on the wall
 a cracked pavement, a goat tied to a rail and some rowing oars hanging on the wall
 a flock of pigeons, a rack of kebabs and a coffee grinder half hidden behind a curtain
-a drainpipe with moss, a wooden bench and a mailbox glinting in the light
+a drainpipe with moss, a wooden bench and a mailbox marked "POST" in white capitals glinting in the light
 a hot-dog cart, a statue on a plinth and a vintage film camera and a rice cooker faded
 a well with a bucket, a manhole cover steaming and a prayer rug in the corner
 a pile of coconuts, a donkey cart and some colouring books faded
@@ -35,7 +35,7 @@ a spice stall, a delivery van parked at the kerb and an acoustic guitar cracked
 a rack of kebabs, a shrine with offerings and some fins on a low table
 a wheelbarrow and a roadside shrine, a stone fountain and a CRT monitor faded
 a line of washing, a water pump and a football cracked
-a stray dog sleeping and a war memorial, a minaret and a camping stove half hidden behind a curtain
+a stray dog sleeping and a war memorial carved "__text_memorial__" __text_look_carved_stone__, a minaret and a camping stove half hidden behind a curtain
 a phone box, a stone lantern and a samovar brand new
 a prayer flag, a tuk-tuk and a microscope beside the sofa
 a vending machine glowing, a stack of woven baskets and a lava lamp slightly crooked
@@ -43,17 +43,17 @@ a hot-dog cart, a fruit stall with crates and a hearing-aid case on a shelf
 a skateboard ramp, a minaret and a medicine cabinet faded
 a spice stall, a handcart loaded with boxes and a hanging basket freshly polished
 a pile of firewood and a bus stop sign reading "BUS STOP" in white letters on a blue plate, a cash machine and a vase of fresh tulips beside the sofa
-a statue on a plinth and a bird on a wire, a war memorial and a dustpan by the door
+a statue on a plinth and a bird on a wire, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a dustpan by the door
 a stone fountain and a vending machine glowing, a drying rack of fish and a bird feeder glinting in the light
 a spice stall, a vending machine glowing and some scatter cushions cracked
-a chained-up bike and a mailbox, a roadside shrine and some heavy curtains slightly crooked
+a chained-up bike and a mailbox marked "POST" in white capitals, a roadside shrine and some heavy curtains slightly crooked
 a market umbrella and a chained-up bike, a pile of firewood and a keyboard slightly crooked
 a statue on a plinth and a tram stop, a puddle and a water gun by the door
 a row of recycling bins, a cart of oranges and a family altar and a humidifier on a shelf
 a stack of lobster pots, a farm gate and a ceiling fan casting a soft light
 a row of payphones, a tram stop and a CRT monitor well used
 a torii gate, a row of payphones and a board game cracked
-a charcoal grill, a mailbox and some binoculars beside the sofa
+a charcoal grill, a mailbox marked "POST" in white capitals and some binoculars beside the sofa
 a fishing boat pulled up on the shore, a tuk-tuk and a family altar well used
 a lighthouse in the distance, a pile of firewood and a pendant light on a low table
 a puddle, a drainpipe with moss and a world map half hidden behind a curtain
@@ -62,7 +62,7 @@ a wheelbarrow, a row of payphones and a pill organiser slightly crooked
 a pile of building materials and a tuk-tuk, a charcoal grill and a piñata hanging on the wall
 a stack of lobster pots and a stack of sandbags, a skateboard ramp and a record cabinet in need of repair
 a drying rack of fish, a wheelbarrow and a clothes horse with laundry of an old-fashioned design
-a war memorial, a row of payphones and a CRT monitor cracked
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a row of payphones and a CRT monitor cracked
 a row of recycling bins and a clothesline between balconies, a vending machine glowing and some suitcases and a cricket bat on the windowsill
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a rack of kebabs and a leather satchel brand new
 a scaffolding of bamboo and a mural, a rack of kebabs and a compass chipped
@@ -98,7 +98,7 @@ a lighthouse in the distance, a fruit stall with crates and an office plant on t
 a handcart loaded with boxes and a busker's guitar case, a cracked pavement and a toy kitchen cracked
 a line of washing, a farm gate and a wheelchair glinting in the light
 a stack of lobster pots, a cart of oranges and a stack of cardboard boxes faded
-a mailbox, a cat on a wall and a coffee grinder and an antler rack casting a soft light
+a mailbox marked "POST" in white capitals, a cat on a wall and a coffee grinder and an antler rack casting a soft light
 a church bell tower, a goat tied to a rail and a tent and a humidifier well used
 a shuttered shop front and a busker's guitar case, a temple bell and a grandfather clock slightly crooked
 a roadside shrine, a plastic stool beside a stall and a toy kitchen on the floor
@@ -119,37 +119,37 @@ a handcart loaded with boxes, a prayer flag and a punching bag and a pinball mac
 a statue on a plinth, a tricycle taxi and a terrarium freshly polished
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a phone box, a red lantern and a hanging basket beside the sofa
 a clothesline between balconies, a church bell tower and a bonsai and a dustpan covered in dust
-a mailbox, a wheelbarrow and a cooler box and a Tiffany lamp freshly polished
+a mailbox marked "POST" in white capitals, a wheelbarrow and a cooler box and a Tiffany lamp freshly polished
 a delivery van parked at the kerb and a chained-up bike, a row of recycling bins and a baseball bat by the door
 a handcart loaded with boxes and a stack of sandbags, a rooftop water tank and a bee hotel by the door
 a handcart loaded with boxes, a farm gate and a wheelchair covered in dust
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a stone lantern, a roadside shrine and a kettlebell of an old-fashioned design
 a market scale and a manhole cover steaming, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and some hiking boots in the corner
 a food truck, a cash machine and a tent of an old-fashioned design
-a wheelbarrow and a rack of kebabs, a mailbox and a mixing desk in the corner
+a wheelbarrow and a rack of kebabs, a mailbox marked "POST" in white capitals and a mixing desk in the corner
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a fishing boat pulled up on the shore and some coat hooks hanging on the wall
-a flag fluttering and a rack of kebabs, a mailbox and a woven rug brand new
-a bus shelter with a faded timetable, a hot-dog cart and an adding machine by the door
+a flag fluttering and a rack of kebabs, a mailbox marked "POST" in white capitals and a woven rug brand new
+a bus shelter with a faded timetable reading "__text_departure__", a hot-dog cart and an adding machine by the door
 a stack of tyres, a tricycle taxi and a globe lamp and an umbrella stand slightly crooked
 a fishing boat pulled up on the shore, a stone wall and a Buddha figurine on a low table
 a lamppost with peeling paint and a delivery van parked at the kerb, a church bell tower and a fishing net on top of a cabinet
 a row of payphones, a flock of pigeons and a teapot freshly polished
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a fishing boat pulled up on the shore and a seven-branched menorah candelabrum and a water cooler glinting in the light
 a pagoda roof, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and some string lights on top of a cabinet
-a stack of sandbags, a bus shelter with a faded timetable and a persian rug of an old-fashioned design
+a stack of sandbags, a bus shelter with a faded timetable reading "__text_departure__" and a persian rug of an old-fashioned design
 a satellite dish, a vending machine glowing and a goldfish bowl glinting in the light
 a pile of coconuts, a wooden fence and a stained-glass panel in need of repair
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a stone fountain and a grandfather clock cracked
 a tuk-tuk, a rack of kebabs and a pill organiser covered in dust
 a rack of kebabs, a stone lantern and a rice cooker of an old-fashioned design
 a row of payphones, a pagoda roof and a sandcastle bucket on the floor
-a rack of kebabs and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a bin overflowing with leaflets and a fax machine casting a soft light
+a rack of kebabs and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a bin overflowing with leaflets reading "__text_flyer__" and a fax machine casting a soft light
 a red lantern and a stone lantern, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a kite glinting in the light
 a manhole cover steaming, a stack of tyres and a wok half hidden behind a curtain
-a war memorial, a pile of firewood and a macramé hanging beside the sofa
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a pile of firewood and a macramé hanging beside the sofa
 a bird on a wire, a line of washing and a tablet on a stand half hidden behind a curtain
 a lighthouse in the distance, a minaret and a photo collage and an upright piano in need of repair
-a bin overflowing with leaflets, a prayer flag and a globe bar half hidden behind a curtain
+a bin overflowing with leaflets reading "__text_flyer__", a prayer flag and a globe bar half hidden behind a curtain
 a water pump and a torii gate, a well with a bucket and a fruit bowl by the door
 a busker's guitar case, a row of payphones and an umbrella stand and a spinning wheel beside the sofa
 a cracked pavement and a fruit stall with crates, a tuk-tuk and an oscillating fan and a potted monstera slightly crooked
@@ -159,7 +159,7 @@ a phone box, a market clock and some buoys and a water gun cracked
 a stack of woven baskets, a spice stall and a mop and bucket and a bird cage brand new
 a prayer flag, a statue on a plinth and a wall clock and a rain barrel glinting in the light
 a well with a bucket, a stack of tyres and an exercise bike on the windowsill
-a rusty gate, a mailbox and some binoculars faded
+a rusty gate, a mailbox marked "POST" in white capitals and some binoculars faded
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a lamppost with peeling paint, a hot-dog cart and some hiking boots casting a soft light
 a roadside shrine, a bird on a wire and a bicycle against the wall glinting in the light
 a goat tied to a rail and a goat tied to a rail, a stray dog sleeping and a board game chipped
@@ -169,25 +169,25 @@ a hot-dog cart, a prayer flag and a toy kitchen on the windowsill
 a statue on a plinth, a busker's guitar case and an incense burner faded
 a stack of sandbags, a phone box and a ship in a bottle well used
 a rusty gate, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a full-length mirror on a shelf
-a market clock, a bus shelter with a faded timetable and a slide rule and an anchor brand new
+a market clock, a bus shelter with a faded timetable reading "__text_departure__" and a slide rule and an anchor brand new
 a stone fountain and a flag fluttering, a torii gate and a compass on the windowsill
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a rack of kebabs, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and an inflatable pool ring on the floor
-a pagoda roof and a spice stall, a mailbox and a dustpan well used
-a pile of coconuts, a war memorial and a skull-shaped ornament beside the sofa
+a pagoda roof and a spice stall, a mailbox marked "POST" in white capitals and a dustpan well used
+a pile of coconuts, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a skull-shaped ornament beside the sofa
 a stone wall, a horse tied to a post and a washing machine in the corner
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a row of parked scooters, a skateboard ramp and a hanging basket and a bottle collection by the door
 a drying rack of fish, a lamppost with peeling paint and a teddy bear and a toy train set freshly polished
 a well with a bucket, a street piano and a violin on a stand on a shelf
 a shrine with offerings, a street piano and a rotary telephone half hidden behind a curtain
 a row of payphones, a scaffolding of bamboo and a macramé hanging covered in dust
-a well with a bucket and a well with a bucket, a line of washing and a row of paperbacks freshly polished
+a well with a bucket and a well with a bucket, a line of washing and a row of paperbacks with spines reading "__name_book_title_any__" in small print freshly polished
 a crate of live crabs and a handcart loaded with boxes, a satellite dish and a round wall mirror and a persian rug casting a soft light
-a spice stall and a mailbox, a satellite dish and a wall clock and a ship's wheel glinting in the light
+a spice stall and a mailbox marked "POST" in white capitals, a satellite dish and a wall clock and a ship's wheel glinting in the light
 a rooftop water tank, a clothesline between balconies and a medicine cabinet on the windowsill
 a well with a bucket, a statue on a plinth and a lantern and a basketball faded
 a cracked pavement and a wheelbarrow, a cat on a wall and a pinball machine on top of a cabinet
-a bin overflowing with leaflets, a stone fountain and a seven-branched menorah candelabrum and a stack of vinyl records in the corner
-a rusty gate and a goat tied to a rail, a mailbox and a tent well used
+a bin overflowing with leaflets reading "__text_flyer__", a stone fountain and a seven-branched menorah candelabrum and a stack of vinyl records in the corner
+a rusty gate and a goat tied to a rail, a mailbox marked "POST" in white capitals and a tent well used
 a roadside shrine, a stone lantern and a space heater and a mixing desk brand new
 a taxi rank, a cracked pavement and a tapestry and a copper kettle well used
 a manhole cover steaming, a lamppost with peeling paint and some heavy curtains in the corner
@@ -202,14 +202,14 @@ a bale of hay, a tram stop and a round wall mirror on the floor
 a rickshaw waiting and a water pump, a pile of building materials and a camera tripod beside the sofa
 a phone box, a puddle and a hourglass and a stained-glass panel in need of repair
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a golf bag in the corner
-a plastic stool beside a stall, a mailbox and a crucifix beside the sofa
+a plastic stool beside a stall, a mailbox marked "POST" in white capitals and a crucifix beside the sofa
 a market scale, a cash machine and a toy train set and a pill organiser chipped
 a stack of woven baskets, a food truck and a neon sign reading "__text_neon_sign__" __text_look_neon__ casting a soft light
 a scaffolding of bamboo, a crate of live crabs and a filing tray slightly crooked
 a phone box, a market clock and a decanter well used
 a crate of live crabs, a flock of pigeons and a ship's wheel faded
 a church bell tower, a pile of building materials and some herb pots casting a soft light
-a bin overflowing with leaflets and a lighthouse in the distance, a rusty gate and a brass globe by the door
+a bin overflowing with leaflets reading "__text_flyer__" and a lighthouse in the distance, a rusty gate and a brass globe by the door
 a cash machine and a camel resting, a vending machine glowing and an easel covered in dust
 a manhole cover steaming, a row of payphones and a toy train set covered in dust
 a line of washing, a skateboard ramp and a radiator beside the sofa
@@ -218,7 +218,7 @@ a row of payphones, a drying rack of fish and a cutting board brand new
 a bale of hay and a fishing boat pulled up on the shore, a cat on a wall and a spinning wheel on top of a cabinet
 a chained-up bike and a prayer flag, a skateboard ramp and a life ring in need of repair
 a wooden fence, a fruit stall with crates and a treadmill and a pendant light on top of a cabinet
-a manhole cover steaming, a mailbox and some building blocks and a fishing rod half hidden behind a curtain
+a manhole cover steaming, a mailbox marked "POST" in white capitals and some building blocks and a fishing rod half hidden behind a curtain
 a row of payphones and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a flag fluttering and a punching bag and a bread bin in the corner
 a stone fountain, a cash machine and a water gun casting a soft light
 a vending machine glowing, a spice stall and a garden gnome in need of repair
@@ -232,7 +232,7 @@ a wheelbarrow and a pagoda roof, a water pump and an exercise bike on the floor
 a cracked pavement, a minaret and a wine rack brand new
 a temple bell, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a pinball machine on a low table
 a prayer flag, a minaret and an acoustic guitar of an old-fashioned design
-a row of parked scooters and a wooden fence, a war memorial and some dumbbells on the windowsill
+a row of parked scooters and a wooden fence, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and some dumbbells on the windowsill
 a stack of sandbags, a roadside shrine and a ceiling fan in need of repair
 a pile of firewood, a prayer flag and a rocking horse cracked
 a market clock, a row of payphones and a teapot on a low table
@@ -248,7 +248,7 @@ a pile of firewood, a stack of sandbags and a rice cooker half hidden behind a c
 a market umbrella, a busker's guitar case and a shag rug in need of repair
 a wooden fence, a row of recycling bins and a bookend casting a soft light
 a torii gate and a satellite dish, a farm gate and a spice rack and a toolbox chipped
-a mailbox and a cart of oranges, a puddle and a keyboard faded
+a mailbox marked "POST" in white capitals and a cart of oranges, a puddle and a keyboard faded
 a spice stall and a camel resting, a farm gate and a spade and fork beside the sofa
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a crate of live crabs and a record player well used
 a tram stop, a flock of pigeons and a family altar on top of a cabinet
@@ -289,7 +289,7 @@ a horse tied to a post and a bird on a wire, a cat on a wall and a mask collecti
 a stone wall, a fishing boat pulled up on the shore and a whiteboard in need of repair
 a food truck, a donkey cart and an office plant in need of repair
 a stack of sandbags and a statue on a plinth, a busker's guitar case and a terrarium and a rolling pin half hidden behind a curtain
-a church bell tower, a bin overflowing with leaflets and a lunchbox half hidden behind a curtain
+a church bell tower, a bin overflowing with leaflets reading "__text_flyer__" and a lunchbox half hidden behind a curtain
 a wheelbarrow and a handcart loaded with boxes, a goat tied to a rail and a dreamcatcher and a shoe rack well used
 a busker's guitar case and a camel resting, a drainpipe with moss and an easel slightly crooked
 a shuttered shop front, a handcart loaded with boxes and a green screen glinting in the light
@@ -306,50 +306,50 @@ a skateboard ramp and a lamppost with peeling paint, a water pump and a stepladd
 a fruit stall with crates and a stray dog sleeping, a tricycle taxi and some net curtains covered in dust
 a pile of firewood and a mural, a tricycle taxi and a disco ball chipped
 a red lantern, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a spice rack by the door
-a mailbox, a line of washing and a leather satchel covered in dust
+a mailbox marked "POST" in white capitals, a line of washing and a leather satchel covered in dust
 a skateboard ramp and a lighthouse in the distance, a manhole cover steaming and a vending machine by the door
 a phone box, a fruit stall with crates and a bonsai of an old-fashioned design
-a bus shelter with a faded timetable and a skateboard ramp, a well with a bucket and a tablet on a stand chipped
+a bus shelter with a faded timetable reading "__text_departure__" and a skateboard ramp, a well with a bucket and a tablet on a stand chipped
 a chained-up bike, a satellite dish and an ironing board and an oxygen tank on top of a cabinet
-a row of payphones, a bus shelter with a faded timetable and a kettlebell on the windowsill
+a row of payphones, a bus shelter with a faded timetable reading "__text_departure__" and a kettlebell on the windowsill
 a skateboard ramp, a skateboard ramp and a dreamcatcher covered in dust
 a vending machine glowing, a goat tied to a rail and a bicycle against the wall and a snorkel set covered in dust
 a prayer flag, a clothesline between balconies and a spinning wheel half hidden behind a curtain
 a delivery van parked at the kerb, a clothesline between balconies and a punching bag on a low table
-a parked bicycle, a war memorial and a yoga mat and a stack of hardback books by the door
+a parked bicycle, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a yoga mat and a stack of hardback books by the door
 a wooden fence and a tuk-tuk, a torii gate and a rolling pin by the door
 a fishing boat pulled up on the shore and a tram stop, a well with a bucket and a walking frame brand new
 a flock of pigeons and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a drainpipe with moss and a quilt and a thermos flask brand new
 a statue on a plinth and a camel resting, a bale of hay and a nativity scene freshly polished
-a market scale, a temple bell and a stack of hardback books faded
+a market scale, a temple bell and a stack of hardback books with spines reading "__name_book_title_any__" in small print faded
 a cart of oranges and a row of colourful umbrellas, a water pump and a blackboard eraser beside the sofa
-a fishing boat pulled up on the shore and a bin overflowing with leaflets, a war memorial and a hanging basket and a microscope on top of a cabinet
+a fishing boat pulled up on the shore and a bin overflowing with leaflets reading "__text_flyer__", a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a hanging basket and a microscope on top of a cabinet
 a market umbrella, a tram stop and a transistor radio and a kite on the windowsill
 a pagoda roof, a chained-up bike and a slide projector beside the sofa
 a temple bell, a water pump and a woven basket glinting in the light
-a stack of sandbags and a mailbox, a wooden bench and a reel-to-reel recorder and some boxing gloves on a shelf
+a stack of sandbags and a mailbox marked "POST" in white capitals, a wooden bench and a reel-to-reel recorder and some boxing gloves on a shelf
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a wooden fence, a crate of live crabs and some string lights cracked
 a pagoda roof and a stack of sandbags, a stone lantern and a ceiling fan and an upright piano on a shelf
 a row of parked scooters, a flag fluttering and a world map brand new
 a stack of sandbags, a busker's guitar case and a bookend well used
-a red lantern and a bus shelter with a faded timetable, a satellite dish and a radiator on top of a cabinet
+a red lantern and a bus shelter with a faded timetable reading "__text_departure__", a satellite dish and a radiator on top of a cabinet
 a tricycle taxi, a tuk-tuk and a ship in a bottle hanging on the wall
 a manhole cover steaming and a wheelbarrow, a fishing boat pulled up on the shore and a globe lamp and some suitcases on a shelf
 a scaffolding of bamboo and a vending machine glowing, a market umbrella and some party balloons on a low table
 a market umbrella and a camel resting, a row of recycling bins and a washing machine faded
 a hot-dog cart, a cat on a wall and a dartboard and a trampoline brand new
-a mailbox and a fishing boat pulled up on the shore, a cat on a wall and an embroidery hoop by the door
+a mailbox marked "POST" in white capitals and a fishing boat pulled up on the shore, a cat on a wall and an embroidery hoop by the door
 a fishing boat pulled up on the shore, a stone fountain and a toy train set slightly crooked
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a bird on a wire and a cake stand on top of a cabinet
 a water pump, a line of washing and a snorkel set freshly polished
 a drying rack of fish, a pile of firewood and some origami cranes brand new
 a rusty gate and a clothesline between balconies, a stack of lobster pots and a chess set cracked
-a cash machine, a pile of coconuts and a mailbox hanging on the wall
+a cash machine, a pile of coconuts and a mailbox marked "POST" in white capitals hanging on the wall
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a church bell tower and a crochet blanket and a rotary telephone freshly polished
 a statue on a plinth and a rickshaw waiting, a satellite dish and an antler rack chipped
 a torii gate and a stone fountain, a drainpipe with moss and a tent casting a soft light
 a market scale and a temple bell, a red lantern and an adding machine and a lunchbox in the corner
-a farm gate and a market clock, a mailbox and an office plant faded
+a farm gate and a market clock, a mailbox marked "POST" in white capitals and an office plant faded
 a row of recycling bins, a pile of firewood and some party balloons cracked
 a red lantern, a market clock and a spice rack faded
 a pile of firewood, a row of colourful umbrellas and an embroidery hoop on the windowsill
@@ -364,7 +364,7 @@ a tricycle taxi and a line of washing, a chained-up bike and a bird feeder on a 
 a rack of kebabs, a parked bicycle and a samovar covered in dust
 a farm gate, a street piano and a water cooler on a shelf
 a row of payphones and a bale of hay, a row of payphones and a floor lamp in the corner
-a row of recycling bins and a bus shelter with a faded timetable, a bus shelter with a faded timetable and some scatter cushions hanging on the wall
+a row of recycling bins and a bus shelter with a faded timetable reading "__text_departure__", a bus shelter with a faded timetable reading "__text_departure__" and some scatter cushions hanging on the wall
 a vending machine glowing and a pile of building materials, a lamppost with peeling paint and a play tent casting a soft light
 a camel resting, a stray dog sleeping and a samovar brand new
 a mural, a manhole cover steaming and a dishwasher of an old-fashioned design
@@ -376,16 +376,16 @@ a crate of live crabs and a row of payphones, a crate of live crabs and an oxyge
 a delivery van parked at the kerb, a row of payphones and a walking frame in the corner
 a bale of hay, a stone lantern and a fruit bowl by the door
 a market clock, a rack of kebabs and a snorkel set well used
-a bus shelter with a faded timetable, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a rice cooker by the door
-a war memorial, a tram stop and some string lights faded
+a bus shelter with a faded timetable reading "__text_departure__", a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a rice cooker by the door
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a tram stop and some string lights faded
 a cash machine, a cash machine and a pendant light half hidden behind a curtain
 a street piano, a horse tied to a post and a shag rug and a smart speaker covered in dust
 a scaffolding of bamboo, a plastic stool beside a stall and some origami cranes in need of repair
 a flock of pigeons and a church bell tower, a delivery van parked at the kerb and a statue of a deity and a chalkboard by the door
 a horse tied to a post, a pile of coconuts and a rotary telephone and a broom casting a soft light
 a shrine with offerings, a red lantern and a backpack covered in dust
-a statue on a plinth and a war memorial, a minaret and a pinball machine chipped
-a shrine with offerings, a stone fountain and a reading glasses on a book well used
+a statue on a plinth and a war memorial carved "__text_memorial__" __text_look_carved_stone__, a minaret and a pinball machine chipped
+a shrine with offerings, a stone fountain and a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover, well used
 a stack of woven baskets and a well with a bucket, a drainpipe with moss and a filing tray covered in dust
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a rickshaw waiting and a nativity scene casting a soft light
 a stack of lobster pots, a charcoal grill and a thermos flask cracked
@@ -397,7 +397,7 @@ a shuttered shop front, a graffiti-covered shutter with "__text_graffiti_word__"
 a row of colourful umbrellas, a statue on a plinth and a dustpan well used
 a stone lantern and a goat tied to a rail, a statue on a plinth and a spade and fork and a ship's wheel brand new
 a food truck, a drying rack of fish and an anchor by the door
-a lighthouse in the distance, a war memorial and a row of candles slightly crooked
+a lighthouse in the distance, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a row of candles slightly crooked
 a chained-up bike, a donkey cart and a games console by the door
 a tram stop and a statue on a plinth, a rack of kebabs and a dustpan faded
 a market clock, a busker's guitar case and some paint cans hanging on the wall
@@ -424,7 +424,7 @@ a market clock and a tram stop, a stone wall and a pinball machine freshly polis
 a market clock and a stack of woven baskets, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a play tent and a swing set brand new
 a shrine with offerings, a spice stall and a mop and bucket hanging on the wall
 a cracked pavement and a lamppost with peeling paint, a skateboard ramp and a teacup collection by the door
-a bus shelter with a faded timetable, a market umbrella and a vending machine slightly crooked
+a bus shelter with a faded timetable reading "__text_departure__", a market umbrella and a vending machine slightly crooked
 a camel resting and a stone wall, a drainpipe with moss and a wall clock well used
 a tricycle taxi, a stone lantern and some string lights and some lobster pots well used
 a goat tied to a rail and a fishing boat pulled up on the shore, a fishing boat pulled up on the shore and a drum kit freshly polished
@@ -445,7 +445,7 @@ a spice stall and a shuttered shop front, a parked bicycle and a space heater cr
 a line of washing and a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a rickshaw waiting and a disco ball on the windowsill
 a wooden fence and a tuk-tuk, a torii gate and a statue of a deity and a lunchbox by the door
 a shrine with offerings, a lamppost with peeling paint and a woven rug on a shelf
-a stack of tyres and a fishing boat pulled up on the shore, a hot-dog cart and a stack of hardback books beside the sofa
+a stack of tyres and a fishing boat pulled up on the shore, a hot-dog cart and a stack of hardback books with spines reading "__name_book_title_any__" in small print beside the sofa
 a red lantern and a clothesline between balconies, a chained-up bike and a macramé hanging freshly polished
 a bale of hay and a camel resting, a line of washing and a mixing desk and a samovar glinting in the light
 a stone wall, a tricycle taxi and a dolls' house on top of a cabinet
@@ -455,7 +455,7 @@ a water pump, a stack of lobster pots and a picture frame and a beach umbrella c
 a stack of sandbags, a taxi rank and an oil painting casting a soft light
 a cat on a wall and a farm gate, a wooden bench and a humidifier cracked
 a parked bicycle, a cash machine and a skull-shaped ornament casting a soft light
-a phone box, a war memorial and a thermos flask brand new
+a phone box, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a thermos flask brand new
 a lighthouse in the distance and a church bell tower, a manhole cover steaming and a mask collection on the windowsill
 a handcart loaded with boxes and a cart of oranges, a horse tied to a post and a play tent by the door
 a tricycle taxi and a minaret, a statue on a plinth and a washing line on a shelf
@@ -464,10 +464,10 @@ a stack of sandbags, a cracked pavement and an alarm clock on a shelf
 a pile of firewood and a handcart loaded with boxes, a row of colourful umbrellas and a stepladder by the door
 a water pump and a rooftop water tank, a flock of pigeons and a tackle box and a compass hanging on the wall
 a mural, a lamppost with peeling paint and a fax machine and a dishwasher in need of repair
-a camel resting and a mailbox, a stack of sandbags and a ship in a bottle of an old-fashioned design
+a camel resting and a mailbox marked "POST" in white capitals, a stack of sandbags and a ship in a bottle of an old-fashioned design
 a shrine with offerings, a well with a bucket and a backpack and a woven basket by the door
 a skateboard ramp and a mural, a row of payphones and a tablet on a stand in the corner
-a satellite dish, a bin overflowing with leaflets and a slide projector by the door
+a satellite dish, a bin overflowing with leaflets reading "__text_flyer__" and a slide projector by the door
 a cart of oranges, a stack of lobster pots and an acoustic guitar and some coat hooks on the floor
 a minaret and a chained-up bike, a shrine with offerings and a filing tray freshly polished
 a pile of coconuts, a shuttered shop front and a camera tripod and a zen sand garden well used
@@ -496,8 +496,8 @@ a stone fountain, a newspaper kiosk with "__name_newspaper__" on the papers in i
 a cat on a wall and a market umbrella, a chained-up bike and some paper lanterns and a family altar hanging on the wall
 a tram stop, a market clock and a flip chart brand new
 a fishing boat pulled up on the shore, a tuk-tuk and a trunk hanging on the wall
-a war memorial, a camel resting and a quilt hanging on the wall
-a shrine with offerings and a shuttered shop front, a war memorial and a spade and fork beside the sofa
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a camel resting and a quilt hanging on the wall
+a shrine with offerings and a shuttered shop front, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a spade and fork beside the sofa
 a taxi rank and a plastic stool beside a stall, a charcoal grill and a beach umbrella faded
 a flock of pigeons, a row of parked scooters and a rice cooker casting a soft light
 a stack of woven baskets, a stack of tyres and a goldfish bowl chipped
@@ -533,7 +533,7 @@ a red lantern, a graffiti-covered shutter with "__text_graffiti_word__" sprayed 
 a minaret, a stack of woven baskets and a row of candles and a jukebox slightly crooked
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a cart of oranges and a dolls' house brand new
 a parked bicycle, a statue on a plinth and a cocktail shaker on top of a cabinet
-a mailbox, a statue on a plinth and a helmet by the door
+a mailbox marked "POST" in white capitals, a statue on a plinth and a helmet by the door
 a busker's guitar case, a phone box and a candle holder cracked
 a spice stall, a hot-dog cart and a mask collection by the door
 a flock of pigeons, a cash machine and an office plant beside the sofa
@@ -562,11 +562,11 @@ a clothesline between balconies and a clothesline between balconies, a fishing b
 a shuttered shop front, a pile of coconuts and a blackboard eraser beside the sofa
 a row of parked scooters, a vending machine glowing and a kite in the corner
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a bale of hay, a wooden bench and some string lights on a shelf
-a bin overflowing with leaflets and a goat tied to a rail, a horse tied to a post and a bird cage glinting in the light
+a bin overflowing with leaflets reading "__text_flyer__" and a goat tied to a rail, a horse tied to a post and a bird cage glinting in the light
 a crate of live crabs and a roadside shrine, a market scale and a flip chart by the door
 a tram stop, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a Tiffany lamp cracked
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a bird on a wire, a pile of firewood and a ceiling fan casting a soft light
-a line of washing and a bus shelter with a faded timetable, a handcart loaded with boxes and a rocking horse and a card catalogue on a low table
+a line of washing and a bus shelter with a faded timetable reading "__text_departure__", a handcart loaded with boxes and a rocking horse and a card catalogue on a low table
 a taxi rank, a bird on a wire and some colouring books and a clothes horse with laundry freshly polished
 a plastic stool beside a stall and a rusty gate, a stray dog sleeping and a jukebox by the door
 a stack of sandbags, a minaret and a cutting board and a spider plant on a shelf on the floor
@@ -581,7 +581,7 @@ a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a 
 a well with a bucket, a camel resting and a medicine cabinet cracked
 a row of payphones, a row of recycling bins and some crab traps cracked
 a rusty gate, a wheelbarrow and a basketball by the door
-a food truck, a mailbox and a CRT monitor freshly polished
+a food truck, a mailbox marked "POST" in white capitals and a CRT monitor freshly polished
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a pile of coconuts, a camel resting and a chess set and a treadmill faded
 a wooden bench and a market scale, a rack of kebabs and a spice rack chipped
 a stack of sandbags, a prayer flag and a slide projector on top of a cabinet
@@ -591,24 +591,24 @@ a line of washing and a clothesline between balconies, a water pump and a rotary
 a fishing boat pulled up on the shore and a line of washing, a charcoal grill and a violin on a stand on a shelf
 a cart of oranges and a busker's guitar case, a stone fountain and a ring light and some herb pots beside the sofa
 a clothesline between balconies, a torii gate and a wheelchair well used
-a bin overflowing with leaflets, a bird on a wire and a fax machine glinting in the light
+a bin overflowing with leaflets reading "__text_flyer__", a bird on a wire and a fax machine glinting in the light
 a row of colourful umbrellas, a minaret and a rolling pin chipped
-a mural and a puddle, a flower stall and a row of paperbacks on the floor
+a mural and a puddle, a flower stall and a row of paperbacks with spines reading "__name_book_title_any__" in small print on the floor
 a minaret and a wooden fence, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a candle holder freshly polished
-a bin overflowing with leaflets and a flower stall, a row of recycling bins and a pill organiser casting a soft light
+a bin overflowing with leaflets reading "__text_flyer__" and a flower stall, a row of recycling bins and a pill organiser casting a soft light
 a shuttered shop front, a vending machine glowing and a nativity scene on top of a cabinet
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a skateboard ramp, a fishing boat pulled up on the shore and an oil painting on a shelf
 a donkey cart, a church bell tower and a stand mixer and a card catalogue cracked
 a pile of building materials, a skateboard ramp and a grandfather clock in the corner
-a tram stop, a war memorial and a stack of cardboard boxes by the door
+a tram stop, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a stack of cardboard boxes by the door
 a pile of coconuts, a flower stall and a rolling pin beside the sofa
-a war memorial and a pile of firewood, a war memorial and a desktop computer covered in dust
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a pile of firewood, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a desktop computer covered in dust
 a shuttered shop front, a row of payphones and a swing set freshly polished
 a food truck, a row of parked scooters and a vintage film camera in need of repair
 a wheelbarrow and a pile of firewood, a pile of firewood and some wellington boots brand new
 a cat on a wall and a handcart loaded with boxes, a shuttered shop front and a first-aid cabinet on top of a cabinet
 a drainpipe with moss, a row of colourful umbrellas and a trampoline glinting in the light
-a mailbox and a stack of lobster pots, a mural and a shag rug cracked
+a mailbox marked "POST" in white capitals and a stack of lobster pots, a mural and a shag rug cracked
 a temple bell, a market clock and a koi bowl and a full-length mirror on the floor
 a pagoda roof and a temple bell, a stack of sandbags and a stepladder in the corner
 a tricycle taxi, a red lantern and an old television brand new
@@ -623,7 +623,7 @@ a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a row
 a crate of live crabs, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a Christmas tree slightly crooked
 a church bell tower, a shuttered shop front and a teddy bear and a deck of cards on the windowsill
 a lighthouse in the distance, a pile of firewood and a jukebox faded
-a manhole cover steaming, a war memorial and a whiteboard and a copper kettle freshly polished
+a manhole cover steaming, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a whiteboard and a copper kettle freshly polished
 a stack of tyres, a pile of firewood and a decanter beside the sofa
 a cash machine, a line of washing and some painted tiles in the corner
 a fishing boat pulled up on the shore, a stray dog sleeping and a crochet blanket of an old-fashioned design
@@ -641,9 +641,9 @@ a drainpipe with moss, a pile of building materials and some coat hooks half hid
 a cracked pavement, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a ring light on the floor
 a busker's guitar case, a spice stall and some wind chimes faded
 a red lantern, a parked bicycle and a piñata in the corner
-a clothesline between balconies, a war memorial and a surf wax on the windowsill
+a clothesline between balconies, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a surf wax on the windowsill
 a rooftop water tank, a pile of coconuts and an oxygen tank casting a soft light
-a parked bicycle, a bus shelter with a faded timetable and a rocking horse and a radiator faded
+a parked bicycle, a bus shelter with a faded timetable reading "__text_departure__" and a rocking horse and a radiator faded
 a plastic stool beside a stall, a rack of kebabs and a medicine cabinet and a space heater on the windowsill
 a mailbox, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a climbing rope covered in dust
 a torii gate, a pile of building materials and a brass globe casting a soft light
@@ -661,25 +661,25 @@ a wheelbarrow, a tricycle taxi and an adding machine well used
 a row of recycling bins and a stone lantern, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a teapot and some fins brand new
 a temple bell and a wooden fence, a cash machine and a fruit bowl casting a soft light
 a charcoal grill, a crate of live crabs and a knitting basket glinting in the light
-a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a stack of sandbags, a bus shelter with a faded timetable and a water gun well used
+a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a stack of sandbags, a bus shelter with a faded timetable reading "__text_departure__" and a water gun well used
 a cracked pavement, a statue on a plinth and a woven rug beside the sofa
 a vending machine glowing and a manhole cover steaming, a red lantern and a world map in need of repair
-a bus shelter with a faded timetable and a market scale, a market clock and a pill organiser of an old-fashioned design
+a bus shelter with a faded timetable reading "__text_departure__" and a market scale, a market clock and a pill organiser of an old-fashioned design
 a wooden bench, a row of parked scooters and some scatter cushions on top of a cabinet
 a bird on a wire and a rooftop water tank, a pile of coconuts and a Tiffany lamp casting a soft light
 a market clock, a busker's guitar case and a treadmill casting a soft light
-a mural and a crate of live crabs, a stack of woven baskets and a mailbox and a hanging basket casting a soft light
+a mural and a crate of live crabs, a stack of woven baskets and a mailbox marked "POST" in white capitals and a hanging basket casting a soft light
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a stack of tyres and an adding machine of an old-fashioned design
 a row of colourful umbrellas and a lamppost with peeling paint, a pile of coconuts and an oscillating fan chipped
 a crate of live crabs and a tuk-tuk, a fruit stall with crates and a cricket bat faded
-a roadside shrine, a wheelbarrow and a mailbox on top of a cabinet
+a roadside shrine, a wheelbarrow and a mailbox marked "POST" in white capitals on top of a cabinet
 a clothesline between balconies and a drying rack of fish, a tuk-tuk and a world map of an old-fashioned design
 a parked bicycle, a cart of oranges and a shoe rack and a life ring in need of repair
 a phone box and a mural, a stack of lobster pots and a kitchen scale faded
-a bus shelter with a faded timetable, a tuk-tuk and a spinning wheel freshly polished
+a bus shelter with a faded timetable reading "__text_departure__", a tuk-tuk and a spinning wheel freshly polished
 a shuttered shop front, a manhole cover steaming and a garden gnome of an old-fashioned design
 a handcart loaded with boxes, a camel resting and a crucifix and a yoga mat on top of a cabinet
-a bin overflowing with leaflets, a rusty gate and some scatter cushions covered in dust
+a bin overflowing with leaflets reading "__text_flyer__", a rusty gate and some scatter cushions covered in dust
 a row of parked scooters, a spice stall and some party balloons on a low table
 a manhole cover steaming, a church bell tower and a spade and fork cracked
 a rooftop water tank, a shrine with offerings and a drum kit glinting in the light
@@ -688,7 +688,7 @@ a pile of firewood and a hot-dog cart, a hot-dog cart and a washing machine and 
 a drying rack of fish, a horse tied to a post and a lunchbox on a shelf
 a pile of building materials, a stone fountain and a CRT monitor well used
 a rack of kebabs, a flag fluttering and a koi bowl slightly crooked
-a war memorial and a phone box, a stack of sandbags and a rocking horse half hidden behind a curtain
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a phone box, a stack of sandbags and a rocking horse half hidden behind a curtain
 a vending machine glowing, a pile of building materials and a brass globe and a grandfather clock in need of repair
 a skateboard ramp, a wheelbarrow and a robot vacuum on a shelf
 a tram stop and a market clock, a fruit stall with crates and a yoga mat by the door
@@ -697,7 +697,7 @@ a market clock, a row of parked scooters and a corkboard with notes chipped
 a drainpipe with moss, a bird on a wire and an office plant beside the sofa
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a stack of woven baskets, a plastic stool beside a stall and a spinning wheel casting a soft light
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a stone fountain and an espresso machine in need of repair
-a bus shelter with a faded timetable, a well with a bucket and a washing line and some party balloons on top of a cabinet
+a bus shelter with a faded timetable reading "__text_departure__", a well with a bucket and a washing line and some party balloons on top of a cabinet
 a camel resting, a handcart loaded with boxes and a laptop in need of repair
 a flag fluttering and a flock of pigeons, a plastic stool beside a stall and a trampoline and a dishwasher on the floor
 a market umbrella, a phone box and a kettlebell and a cooler box faded
@@ -706,8 +706,8 @@ a row of payphones, a charcoal grill and a teapot faded
 a satellite dish and a lamppost with peeling paint, a clothesline between balconies and a lunchbox faded
 a hot-dog cart, a row of recycling bins and a clothes horse with laundry on top of a cabinet
 a wooden bench and a scaffolding of bamboo, a mural and a pendant light in the corner
-a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a bus shelter with a faded timetable and an espresso machine and some packing crates half hidden behind a curtain
-a torii gate and a temple bell, a war memorial and a ship in a bottle and a swing set on the windowsill
+a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a bus shelter with a faded timetable reading "__text_departure__" and an espresso machine and some packing crates half hidden behind a curtain
+a torii gate and a temple bell, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a ship in a bottle and a swing set on the windowsill
 a row of recycling bins, a phone box and a radiator and a skateboard faded
 a stack of sandbags, a busker's guitar case and a globe bar and a thermos flask half hidden behind a curtain
 a horse tied to a post and a wheelbarrow, a lighthouse in the distance and a tackle box casting a soft light
@@ -724,7 +724,7 @@ a wheelbarrow and a donkey cart, a church bell tower and a colander covered in d
 a spice stall, a satellite dish and a treadmill brand new
 a market umbrella, a satellite dish and a flip chart by the door
 a donkey cart, a flower stall and a globe lamp covered in dust
-a bin overflowing with leaflets and a pile of coconuts, a prayer flag and a beach umbrella beside the sofa
+a bin overflowing with leaflets reading "__text_flyer__" and a pile of coconuts, a prayer flag and a beach umbrella beside the sofa
 a bus stop sign reading "BUS STOP" in white letters on a blue plate, a bus stop sign reading "BUS STOP" in white letters on a blue plate and an air purifier on the windowsill
 a pile of building materials and a cash machine, a row of colourful umbrellas and a Tiffany lamp in need of repair
 a skateboard ramp, a bale of hay and a kettlebell and a lunchbox casting a soft light
@@ -753,21 +753,21 @@ a stone fountain and a well with a bucket, a well with a bucket and a wall clock
 a busker's guitar case, a bird on a wire and a table lamp on the floor
 a crate of live crabs, a stack of sandbags and some seed trays and a tennis racket faded
 a market clock and a temple bell, a prayer flag and a compass glinting in the light
-a fishing boat pulled up on the shore and a charcoal grill, a camel resting and a mailbox on a low table
+a fishing boat pulled up on the shore and a charcoal grill, a camel resting and a mailbox marked "POST" in white capitals on a low table
 a phone box, a stack of woven baskets and some fairy lights by the door
 a rooftop water tank, a stack of sandbags and an aquarium on a low table
 a roadside shrine, a shrine with offerings and some hanging pots and a compass by the door
 a pile of building materials, a shuttered shop front and a tackle box on the windowsill
 a drainpipe with moss, a fishing boat pulled up on the shore and a family altar faded
-a bus shelter with a faded timetable, a wooden bench and a reading glasses on a book brand new
+a bus shelter with a faded timetable reading "__text_departure__", a wooden bench and a reading glasses on a book brand new
 a stray dog sleeping and a wooden bench, a market umbrella and some finger paints brand new
-a bin overflowing with leaflets, a statue on a plinth and an antler rack and an oscillating fan on a low table
+a bin overflowing with leaflets reading "__text_flyer__", a statue on a plinth and an antler rack and an oscillating fan on a low table
 a pile of coconuts, a pile of coconuts and some heavy curtains on top of a cabinet
 a mural and a bird on a wire, a shrine with offerings and some salt and pepper mills faded
 a fruit stall with crates and a delivery van parked at the kerb, a market umbrella and a Tiffany lamp beside the sofa
 a tuk-tuk, a shuttered shop front and a golf bag faded
 a fruit stall with crates, a flag fluttering and a swing set chipped
-a bin overflowing with leaflets, a stone lantern and a record cabinet cracked
+a bin overflowing with leaflets reading "__text_flyer__", a stone lantern and a record cabinet cracked
 a torii gate and a church bell tower, a delivery van parked at the kerb and a picture frame and a Christmas tree on top of a cabinet
 a pile of building materials and a puddle, a clothesline between balconies and a stand mixer beside the sofa
 a food truck, a church bell tower and a slide projector by the door
@@ -775,7 +775,7 @@ a church bell tower, a lamppost with peeling paint and a cactus on the sill besi
 a cash machine and a church bell tower, a clothesline between balconies and a helmet chipped
 a drainpipe with moss, a stack of lobster pots and a skateboard in the corner
 a shuttered shop front and a fishing boat pulled up on the shore, a church bell tower and some seed trays freshly polished
-a vending machine glowing, a war memorial and a teddy bear on the floor
+a vending machine glowing, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a teddy bear on the floor
 a mural and a cash machine, a wooden bench and a snorkel set on top of a cabinet
 a horse tied to a post, a charcoal grill and a basketball on the floor
 a rack of kebabs, a statue on a plinth and a dreamcatcher and a cactus on the sill on the floor
@@ -785,28 +785,28 @@ a shrine with offerings, a cart of oranges and a ship's wheel of an old-fashione
 a stone lantern, a cracked pavement and a fax machine brand new
 a cart of oranges, a tricycle taxi and a rice cooker on the windowsill
 a tuk-tuk and a cracked pavement, a bird on a wire and a sewing machine hanging on the wall
-a delivery van parked at the kerb and a red lantern, a bin overflowing with leaflets and a lava lamp beside the sofa
+a delivery van parked at the kerb and a red lantern, a bin overflowing with leaflets reading "__text_flyer__" and a lava lamp beside the sofa
 a shuttered shop front, a stack of woven baskets and a football and a brass globe covered in dust
 a row of recycling bins and a row of recycling bins, a church bell tower and some hiking boots on a low table
 a mural and a handcart loaded with boxes, a minaret and a cricket bat beside the sofa
-a row of payphones and a church bell tower, a stone wall and a mailbox cracked
+a row of payphones and a church bell tower, a stone wall and a mailbox marked "POST" in white capitals cracked
 a plastic stool beside a stall, a roadside shrine and some rowing oars on the floor
 a minaret and a bus stop sign reading "BUS STOP" in white letters on a blue plate, a rack of kebabs and a stapler on top of a cabinet
 a puddle, a flag fluttering and a stapler chipped
 a rooftop water tank, a stack of sandbags and a coffee grinder and a yoga mat hanging on the wall
 a tram stop, a cat on a wall and a football and a champagne bucket casting a soft light
 a drying rack of fish and a crate of live crabs, a handcart loaded with boxes and a watering can and a projector slightly crooked
-a war memorial, a prayer flag and a tackle box on the floor
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a prayer flag and a tackle box on the floor
 a prayer flag, a delivery van parked at the kerb and a lava lamp half hidden behind a curtain
 a minaret, a clothesline between balconies and a medicine cabinet in the corner
 a church bell tower and a row of colourful umbrellas, a rusty gate and a lunchbox slightly crooked
 a stone fountain, a wheelbarrow and a jigsaw puzzle on a table faded
 a well with a bucket and a horse tied to a post, a hot-dog cart and a microscope and a koi bowl brand new
-a food truck, a delivery van parked at the kerb and a mailbox glinting in the light
+a food truck, a delivery van parked at the kerb and a mailbox marked "POST" in white capitals glinting in the light
 a stray dog sleeping, a well with a bucket and a disco ball and a stained-glass panel by the door
 a fruit stall with crates and a vending machine glowing, a temple bell and a birthday banner reading "HAPPY BIRTHDAY" in bright cut-out letters and a first-aid cabinet hanging on the wall
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a cart of oranges and a washing machine in the corner
-a mailbox and a flock of pigeons, a donkey cart and an espresso machine chipped
+a mailbox marked "POST" in white capitals and a flock of pigeons, a donkey cart and an espresso machine chipped
 a rickshaw waiting, a skateboard ramp and an oxygen tank faded
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a red lantern and a grandfather clock cracked
 a food truck, a row of recycling bins and a bird cage on a shelf
@@ -820,7 +820,7 @@ a vending machine glowing and a fishing boat pulled up on the shore, a drying ra
 a busker's guitar case, a stray dog sleeping and some string lights on a shelf
 a flower stall, a chained-up bike and a stepladder of an old-fashioned design
 a bird on a wire and a lamppost with peeling paint, a stack of tyres and a trunk on a low table
-a bus shelter with a faded timetable, a flock of pigeons and a basketball well used
+a bus shelter with a faded timetable reading "__text_departure__", a flock of pigeons and a basketball well used
 a market clock, a row of colourful umbrellas and some paint cans covered in dust
 a rickshaw waiting and a crate of live crabs, a water pump and a candle holder on the floor
 a water pump, a rack of kebabs and a jigsaw puzzle on a table on the windowsill
@@ -843,7 +843,7 @@ a crate of live crabs and a cracked pavement, a water pump and a hanging basket 
 a tricycle taxi and a flock of pigeons, a row of parked scooters and a wheelbarrow on a low table
 a clothesline between balconies, a pile of firewood and a mortar and pestle slightly crooked
 a stone fountain, a market clock and a telescope by the door
-a line of washing, a mailbox and a laptop and a camera tripod chipped
+a line of washing, a mailbox marked "POST" in white capitals and a laptop and a camera tripod chipped
 a farm gate, a tuk-tuk and a toy train set and a samovar in need of repair
 a wooden bench, a stack of woven baskets and a crucifix brand new
 a farm gate, a market scale and a robot vacuum cracked
@@ -864,7 +864,7 @@ a phone box, a camel resting and a baseball bat and an old television chipped
 a well with a bucket, a bale of hay and some finger paints in the corner
 a church bell tower, a fruit stall with crates and a basketball casting a soft light
 a donkey cart and a cat on a wall, a phone box and a violin on a stand in need of repair
-a water pump, a bus shelter with a faded timetable and a rolling pin glinting in the light
+a water pump, a bus shelter with a faded timetable reading "__text_departure__" and a rolling pin glinting in the light
 a plastic stool beside a stall, a phone box and some colouring books on a shelf
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a row of payphones, a cart of oranges and a champagne bucket on a shelf
 a drying rack of fish, a market umbrella and a sleeping bag and a tennis racket cracked
@@ -872,17 +872,17 @@ a goat tied to a rail, a flock of pigeons and a helmet on a low table
 a busker's guitar case, a vending machine glowing and a woven basket in need of repair
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a rusty gate, a line of washing and an office plant half hidden behind a curtain
 a bin overflowing with leaflets and a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a prayer flag and a potted monstera on top of a cabinet
-a bale of hay and a water pump, a war memorial and a grandfather clock beside the sofa
-a wooden fence, a mailbox and a macramé hanging casting a soft light
+a bale of hay and a water pump, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a grandfather clock beside the sofa
+a wooden fence, a mailbox marked "POST" in white capitals and a macramé hanging casting a soft light
 a fishing boat pulled up on the shore, a cart of oranges and a round wall mirror chipped
 a stone fountain, a church bell tower and a jukebox casting a soft light
-a crate of live crabs, a pile of coconuts and a mailbox and a golf bag in the corner
-a stack of sandbags, a bus shelter with a faded timetable and a rice cooker slightly crooked
+a crate of live crabs, a pile of coconuts and a mailbox marked "POST" in white capitals and a golf bag in the corner
+a stack of sandbags, a bus shelter with a faded timetable reading "__text_departure__" and a rice cooker slightly crooked
 a spice stall and a stone fountain, a wheelbarrow and a life ring and a prayer rug slightly crooked
 a flock of pigeons, a spice stall and a printer on the windowsill
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a row of payphones and a telescope and a thermos flask hanging on the wall
 a stone wall, a row of recycling bins and a dartboard freshly polished
-a market scale, a rickshaw waiting and a row of paperbacks and some coat hooks brand new
+a market scale, a rickshaw waiting and a row of paperbacks with spines reading "__name_book_title_any__" in small print and some coat hooks brand new
 a goat tied to a rail, a tricycle taxi and an alarm clock on a low table
 a goat tied to a rail and a water pump, a roadside shrine and a fishing rod freshly polished
 a row of recycling bins, a satellite dish and a desktop computer by the door
@@ -903,14 +903,14 @@ a stray dog sleeping, a cracked pavement and a bottle collection casting a soft 
 a row of parked scooters, a rooftop water tank and a camping stove and a chalkboard covered in dust
 a clothesline between balconies, a market scale and a trampoline on top of a cabinet
 a flower stall, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a zen sand garden brand new
-a mailbox, a flock of pigeons and some speakers chipped
+a mailbox marked "POST" in white capitals, a flock of pigeons and some speakers chipped
 a church bell tower and a rooftop water tank, a delivery van parked at the kerb and a life ring and some building blocks covered in dust
 a charcoal grill and a well with a bucket, a minaret and a chalkboard in the corner
 a church bell tower, a temple bell and a wood-burning stove on a low table
 a temple bell and a bird on a wire, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a terrarium faded
 a row of payphones and a rusty gate, a skateboard ramp and an inflatable pool ring and a brass globe half hidden behind a curtain
 a busker's guitar case, a bus stop sign reading "BUS STOP" in white letters on a blue plate and some paper lanterns and some wind chimes faded
-a market umbrella and a pile of building materials, a war memorial and some binoculars and a koi bowl on a low table
+a market umbrella and a pile of building materials, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and some binoculars and a koi bowl on a low table
 a statue on a plinth, a stone lantern and a tablet on a stand well used
 a rack of kebabs, a pile of coconuts and a blackboard eraser beside the sofa
 a horse tied to a post and a manhole cover steaming, a bale of hay and some finger paints on top of a cabinet
@@ -935,7 +935,7 @@ a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a sta
 a stack of lobster pots and a street piano, a shrine with offerings and some painted tiles chipped
 a goat tied to a rail and a crate of live crabs, a flower stall and an ironing board faded
 a row of payphones, a stone wall and some wellington boots hanging on the wall
-a goat tied to a rail and a cracked pavement, a war memorial and a seven-branched menorah candelabrum half hidden behind a curtain
+a goat tied to a rail and a cracked pavement, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a seven-branched menorah candelabrum half hidden behind a curtain
 a tram stop, a puddle and a desk lamp in the corner
 a stone lantern, a taxi rank and a stack of cardboard boxes on the windowsill
 a horse tied to a post and a goat tied to a rail, a market scale and some dumbbells brand new
@@ -947,8 +947,8 @@ a stack of woven baskets and a satellite dish, a church bell tower and a laundry
 a scaffolding of bamboo and a stack of sandbags, a row of payphones and a cricket bat covered in dust
 a stone wall, a rooftop water tank and a macramé hanging glinting in the light
 a rusty gate, a food truck and a bookend and an easel faded
-a parked bicycle and a wooden bench, a rooftop water tank and a play tent and a stack of hardback books cracked
-a hot-dog cart and a delivery van parked at the kerb, a rooftop water tank and some origami cranes and a mailbox on the floor
+a parked bicycle and a wooden bench, a rooftop water tank and a play tent and a stack of hardback books with spines reading "__name_book_title_any__" in small print cracked
+a hot-dog cart and a delivery van parked at the kerb, a rooftop water tank and some origami cranes and a mailbox marked "POST" in white capitals on the floor
 a puddle, a parked bicycle and some beer taps covered in dust
 a church bell tower, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a goldfish bowl on the floor
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a donkey cart, a wooden fence and a ship's wheel well used
@@ -961,13 +961,13 @@ a shuttered shop front, a cart of oranges and a pendant light faded
 a clothesline between balconies and a plastic stool beside a stall, a farm gate and a brass globe on the floor
 a drying rack of fish, a prayer flag and an office plant and a champagne bucket chipped
 a minaret, a scaffolding of bamboo and a helmet covered in dust
-a wheelbarrow and a bird on a wire, a bin overflowing with leaflets and a lava lamp and a bonsai casting a soft light
+a wheelbarrow and a bird on a wire, a bin overflowing with leaflets reading "__text_flyer__" and a lava lamp and a bonsai casting a soft light
 a stone fountain and a row of recycling bins, a clothesline between balconies and a flip chart on a low table
 a pile of building materials and a charcoal grill, a tuk-tuk and a woven rug chipped
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a mailbox and an oxygen tank on a low table
 a camel resting and a row of parked scooters, a row of recycling bins and some heavy curtains cracked
 a red lantern, a wheelbarrow and an electric kettle on a low table
-a well with a bucket, a busker's guitar case and a row of paperbacks of an old-fashioned design
+a well with a bucket, a busker's guitar case and a row of paperbacks with spines reading "__name_book_title_any__" in small print of an old-fashioned design
 a lamppost with peeling paint, a drying rack of fish and some heavy curtains well used
 a phone box, a tricycle taxi and some beer taps freshly polished
 a flower stall, a street piano and a tackle box and a camera tripod in need of repair
@@ -984,10 +984,10 @@ a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __tex
 a street piano and a goat tied to a rail, a well with a bucket and some lobster pots on the floor
 a clothesline between balconies, a hot-dog cart and some boxing gloves on the floor
 a stack of tyres, a stone fountain and a full-length mirror beside the sofa
-a camel resting, a mailbox and a shoe rack cracked
+a camel resting, a mailbox marked "POST" in white capitals and a shoe rack cracked
 a pile of firewood, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a toy kitchen on the windowsill
-a cart of oranges and a bin overflowing with leaflets, a rickshaw waiting and a fishing rod casting a soft light
-a crate of live crabs and a bus shelter with a faded timetable, a skateboard ramp and a backpack and a lava lamp faded
+a cart of oranges and a bin overflowing with leaflets reading "__text_flyer__", a rickshaw waiting and a fishing rod casting a soft light
+a crate of live crabs and a bus shelter with a faded timetable reading "__text_departure__", a skateboard ramp and a backpack and a lava lamp faded
 a rusty gate, a flower stall and some heavy curtains and an easel faded
 a pile of firewood, a pile of firewood and a terrarium and a chess set on a shelf
 a stack of tyres, a fishing boat pulled up on the shore and a pressure cooker casting a soft light
@@ -1009,23 +1009,23 @@ a tuk-tuk, a hot-dog cart and a sewing machine on a shelf
 a phone box, a clothesline between balconies and a spinning wheel beside the sofa
 a market clock and a wooden bench, a row of parked scooters and a rocking horse on a shelf
 a stack of tyres and a drainpipe with moss, a market clock and a pill organiser and a spinning wheel freshly polished
-a delivery van parked at the kerb and a bus shelter with a faded timetable, a cat on a wall and a tent of an old-fashioned design
+a delivery van parked at the kerb and a bus shelter with a faded timetable reading "__text_departure__", a cat on a wall and a tent of an old-fashioned design
 a goat tied to a rail and a street piano, a cash machine and a wall clock faded
 a row of parked scooters, a rooftop water tank and a broom brand new
-a war memorial, a horse tied to a post and a robot vacuum by the door
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a horse tied to a post and a robot vacuum by the door
 a torii gate, a torii gate and a grandfather clock and a wood-burning stove slightly crooked
 a temple bell, a row of recycling bins and a spider plant on a shelf faded
 a satellite dish, a stack of woven baskets and some dumbbells and a woven rug on a shelf
-a scaffolding of bamboo, a war memorial and a globe lamp chipped
+a scaffolding of bamboo, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a globe lamp chipped
 a cart of oranges, a wooden bench and a family altar and a neon sign in need of repair
 a statue on a plinth and a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a pile of firewood and a hearing-aid case cracked
 a taxi rank and a fruit stall with crates, a stack of sandbags and a ship in a bottle of an old-fashioned design
-a goat tied to a rail, a mailbox and a potted monstera well used
+a goat tied to a rail, a mailbox marked "POST" in white capitals and a potted monstera well used
 a phone box, a crate of live crabs and a leather satchel casting a soft light
 a market scale and a stone wall, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a wheelchair and a backpack brand new
 a tuk-tuk, a camel resting and some painted tiles chipped
-a donkey cart, a bin overflowing with leaflets and a grandfather clock hanging on the wall
-a bin overflowing with leaflets, a taxi rank and some coat hooks and some speakers on a shelf
+a donkey cart, a bin overflowing with leaflets reading "__text_flyer__" and a grandfather clock hanging on the wall
+a bin overflowing with leaflets reading "__text_flyer__", a taxi rank and some coat hooks and some speakers on a shelf
 a water pump and a hot-dog cart, a tricycle taxi and a Tiffany lamp chipped
 a crate of live crabs and a flower stall, a cracked pavement and a world map covered in dust
 a bird on a wire, a stack of woven baskets and a desk lamp half hidden behind a curtain
@@ -1034,7 +1034,7 @@ a wooden fence and a rack of kebabs, a minaret and some speakers on the windowsi
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a stone wall, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a mask collection on top of a cabinet
 a flag fluttering, a scaffolding of bamboo and some paper lanterns cracked
 a chained-up bike, a crate of live crabs and an exercise bike well used
-a stack of sandbags, a war memorial and a filing tray on the windowsill
+a stack of sandbags, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a filing tray on the windowsill
 a temple bell, a pile of firewood and a skateboard covered in dust
 a vending machine glowing, a market clock and some colouring books casting a soft light
 a well with a bucket, a flag fluttering and some crab traps beside the sofa
@@ -1044,7 +1044,7 @@ a goat tied to a rail, a flower stall and an electric kettle cracked
 a row of recycling bins, a shuttered shop front and some herb pots brand new
 a wooden bench and a skateboard ramp, a cracked pavement and a baseball bat on top of a cabinet
 a roadside shrine, a cat on a wall and a bicycle against the wall and a framed poster reading "__text_poster_room__" __text_look_print__ beside the sofa
-a war memorial and a cash machine, a market umbrella and a laundry basket well used
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a cash machine, a market umbrella and a laundry basket well used
 a rusty gate and a satellite dish, a temple bell and a flip chart cracked
 a minaret and a flower stall, a stone wall and a dreamcatcher faded
 a lighthouse in the distance, a stack of woven baskets and a radiator by the door
@@ -1061,7 +1061,7 @@ a horse tied to a post, a rusty gate and a jigsaw puzzle on a table and a humidi
 a hot-dog cart, a fishing boat pulled up on the shore and some fins chipped
 a wooden bench and a rooftop water tank, a wooden fence and an anchor on a shelf
 a temple bell, a torii gate and a hourglass brand new
-a row of colourful umbrellas, a mailbox and a frisbee casting a soft light
+a row of colourful umbrellas, a mailbox marked "POST" in white capitals and a frisbee casting a soft light
 a drainpipe with moss, a row of parked scooters and a spade and fork beside the sofa
 a temple bell, a wooden bench and a samovar of an old-fashioned design
 a wooden fence and a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a stone wall and a shoe rack on a shelf
@@ -1072,12 +1072,12 @@ a wooden fence, a minaret and a neon sign reading "__text_neon_sign__" __text_lo
 a minaret, a rusty gate and a camera tripod of an old-fashioned design
 a rickshaw waiting, a water pump and a colander hanging on the wall
 a chained-up bike and a prayer flag, a rack of kebabs and a smart speaker cracked
-a bin overflowing with leaflets and a donkey cart, a stone fountain and a skull-shaped ornament cracked
+a bin overflowing with leaflets reading "__text_flyer__" and a donkey cart, a stone fountain and a skull-shaped ornament cracked
 a red lantern and a wooden bench, a tricycle taxi and a sewing machine and a disco ball on the floor
 a horse tied to a post, a puddle and a wood-burning stove casting a soft light
-a stone wall and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a bus shelter with a faded timetable and a lunchbox on a low table
+a stone wall and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a bus shelter with a faded timetable reading "__text_departure__" and a lunchbox on a low table
 a delivery van parked at the kerb, a cash machine and some party balloons on the windowsill
-a clothesline between balconies, a mailbox and an oxygen tank and a mop and bucket on a low table
+a clothesline between balconies, a mailbox marked "POST" in white capitals and an oxygen tank and a mop and bucket on a low table
 a cash machine, a street piano and a helmet on a shelf
 a chained-up bike and a row of colourful umbrellas, a cracked pavement and an adding machine half hidden behind a curtain
 a row of parked scooters, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a hanging basket chipped
@@ -1107,7 +1107,7 @@ a rack of kebabs and a manhole cover steaming, a pile of coconuts and a camping 
 a statue on a plinth and a farm gate, a street piano and a sleeping bag chipped
 a rickshaw waiting and a cash machine, a cat on a wall and a humidifier and some beer taps cracked
 a fruit stall with crates, a stack of tyres and a surfboard freshly polished
-a bus shelter with a faded timetable, a market scale and a bee hotel and a globe bar on the floor
+a bus shelter with a faded timetable reading "__text_departure__", a market scale and a bee hotel and a globe bar on the floor
 a pile of coconuts, a busker's guitar case and a cooler bag and a bread bin chipped
 a pile of building materials and a manhole cover steaming, a stone fountain and a ceiling fan in the corner
 a goat tied to a rail, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a floor lamp half hidden behind a curtain
@@ -1116,16 +1116,16 @@ a delivery van parked at the kerb and a wooden bench, a shrine with offerings an
 a donkey cart, a manhole cover steaming and a broom and a space heater beside the sofa
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a torii gate, a bird on a wire and a walking frame in the corner
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a market scale and a telescope slightly crooked
-a cart of oranges, a war memorial and an anchor cracked
-a stack of tyres and a bird on a wire, a bin overflowing with leaflets and a card catalogue well used
+a cart of oranges, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and an anchor cracked
+a stack of tyres and a bird on a wire, a bin overflowing with leaflets reading "__text_flyer__" and a card catalogue well used
 a church bell tower, a market umbrella and a record cabinet of an old-fashioned design
-a spice stall and a bus shelter with a faded timetable, a clothesline between balconies and a hearing-aid case beside the sofa
+a spice stall and a bus shelter with a faded timetable reading "__text_departure__", a clothesline between balconies and a hearing-aid case beside the sofa
 a fruit stall with crates, a parked bicycle and an air purifier cracked
-a temple bell and a bus shelter with a faded timetable, a prayer flag and a wine rack and a birthday banner reading "HAPPY BIRTHDAY" in bright cut-out letters faded
+a temple bell and a bus shelter with a faded timetable reading "__text_departure__", a prayer flag and a wine rack and a birthday banner reading "HAPPY BIRTHDAY" in bright cut-out letters faded
 a flower stall and a lamppost with peeling paint, a torii gate and a reel-to-reel recorder and a deck of cards well used
 a line of washing, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a rolling pin chipped
 a shrine with offerings and a rusty gate, a bird on a wire and a chess set on top of a cabinet
-a bin overflowing with leaflets, a line of washing and a clothes horse with laundry of an old-fashioned design
+a bin overflowing with leaflets reading "__text_flyer__", a line of washing and a clothes horse with laundry of an old-fashioned design
 a church bell tower, a market scale and a stack of cardboard boxes freshly polished
 a stack of sandbags, a plastic stool beside a stall and a candle holder cracked
 a delivery van parked at the kerb, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a dustpan faded
@@ -1140,11 +1140,11 @@ a well with a bucket, a shrine with offerings and some finger paints on a low ta
 a handcart loaded with boxes, a roadside shrine and a bicycle against the wall and a dreamcatcher chipped
 a bus stop sign reading "BUS STOP" in white letters on a blue plate, a roadside shrine and a candle holder brand new
 a wooden fence and a bale of hay, a drying rack of fish and some fairy lights on the floor
-a wooden fence, a mailbox and a chalkboard and a lunchbox covered in dust
+a wooden fence, a mailbox marked "POST" in white capitals and a chalkboard and a lunchbox covered in dust
 a hot-dog cart, a torii gate and a mortar and pestle of an old-fashioned design
-a drying rack of fish and a row of payphones, a fishing boat pulled up on the shore and a stack of hardback books and a bicycle against the wall on a low table
+a drying rack of fish and a row of payphones, a fishing boat pulled up on the shore and a stack of hardback books with spines reading "__name_book_title_any__" in small print and a bicycle against the wall on a low table
 a market clock, a crate of live crabs and a round wall mirror by the door
-a war memorial and a market clock, a row of colourful umbrellas and a crossword puzzle faded
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a market clock, a row of colourful umbrellas and a crossword puzzle faded
 a donkey cart, a tricycle taxi and some scatter cushions casting a soft light
 a rusty gate and a taxi rank, a cat on a wall and a tennis racket and a lunchbox well used
 a pile of firewood, a scaffolding of bamboo and a tapestry slightly crooked
@@ -1168,7 +1168,7 @@ a wooden fence, a chalk-written menu board listing __text_menu_item__ __text_loo
 a drying rack of fish and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a busker's guitar case and a camera tripod chipped
 a food truck, a shuttered shop front and a sleeping bag by the door
 a roadside shrine and a clothesline between balconies, a scaffolding of bamboo and a swing set brand new
-a war memorial, a chained-up bike and a mop and bucket beside the sofa
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a chained-up bike and a mop and bucket beside the sofa
 a lighthouse in the distance and a shuttered shop front, a market scale and a first-aid cabinet freshly polished
 a market scale, a clothesline between balconies and a filing tray cracked
 a stack of tyres, a row of recycling bins and a bee hotel slightly crooked
@@ -1186,10 +1186,10 @@ a water pump and a rusty gate, a goat tied to a rail and some buoys covered in d
 a statue on a plinth and a stack of lobster pots, a row of colourful umbrellas and a shoe rack and a vase of fresh tulips by the door
 a rusty gate, a lighthouse in the distance and some origami cranes in the corner
 a plastic stool beside a stall and a manhole cover steaming, a bird on a wire and a shag rug and an alarm clock by the door
-a mailbox, a wooden fence and a woven basket and an office plant on top of a cabinet
-a charcoal grill, a war memorial and a neon sign in need of repair
+a mailbox marked "POST" in white capitals, a wooden fence and a woven basket and an office plant on top of a cabinet
+a charcoal grill, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a neon sign in need of repair
 a flower stall and a stack of tyres, a shrine with offerings and a surf wax of an old-fashioned design
-a row of parked scooters and a row of recycling bins, a stone fountain and a mailbox brand new
+a row of parked scooters and a row of recycling bins, a stone fountain and a mailbox marked "POST" in white capitals brand new
 a delivery van parked at the kerb, a row of payphones and a washing machine half hidden behind a curtain
 a vending machine glowing, a water pump and a surfboard on the floor
 a well with a bucket, a food truck and a toaster on a shelf
@@ -1197,26 +1197,26 @@ a bird on a wire and a lighthouse in the distance, a flag fluttering and a zen s
 a stone wall, a donkey cart and a birthday banner reading "HAPPY BIRTHDAY" in bright cut-out letters half hidden behind a curtain
 a stone fountain and a wheelbarrow, a goat tied to a rail and an espresso machine and some string lights of an old-fashioned design
 a fruit stall with crates, a roadside shrine and a teddy bear on a low table
-a stack of sandbags and a bus shelter with a faded timetable, a statue on a plinth and a play tent and a reel-to-reel recorder cracked
+a stack of sandbags and a bus shelter with a faded timetable reading "__text_departure__", a statue on a plinth and a play tent and a reel-to-reel recorder cracked
 a row of colourful umbrellas and a puddle, a flock of pigeons and a board game and some paper lanterns on a low table
 a well with a bucket, a market clock and a fruit bowl and a thermos flask glinting in the light
 a statue on a plinth and a stone lantern, a drainpipe with moss and a framed poster reading "__text_poster_room__" __text_look_print__ and a Buddha figurine well used
-a war memorial, a tram stop and a family altar and a globe bar on top of a cabinet
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a tram stop and a family altar and a globe bar on top of a cabinet
 a spice stall, a parked bicycle and a globe lamp covered in dust
 a fruit stall with crates and a row of parked scooters, a tuk-tuk and a dreamcatcher in need of repair
-a mailbox and a market umbrella, a market scale and a record player glinting in the light
+a mailbox marked "POST" in white capitals and a market umbrella, a market scale and a record player glinting in the light
 a spice stall, a satellite dish and some net curtains of an old-fashioned design
 a rickshaw waiting, a lighthouse in the distance and a surfboard casting a soft light
 a red lantern, a lamppost with peeling paint and a bookend in need of repair
-a pile of firewood, a mailbox and a water gun glinting in the light
-a cracked pavement and a taxi rank, a bus shelter with a faded timetable and an electric kettle half hidden behind a curtain
+a pile of firewood, a mailbox marked "POST" in white capitals and a water gun glinting in the light
+a cracked pavement and a taxi rank, a bus shelter with a faded timetable reading "__text_departure__" and an electric kettle half hidden behind a curtain
 a stone fountain, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a beach umbrella glinting in the light
 a street piano and a well with a bucket, a charcoal grill and a games console half hidden behind a curtain
 a red lantern and a drainpipe with moss, a red lantern and a teacup collection in the corner
 a delivery van parked at the kerb and a line of washing, a satellite dish and a rolling pin slightly crooked
 a cat on a wall, a well with a bucket and an upright piano hanging on the wall
 a church bell tower and a bus stop sign reading "BUS STOP" in white letters on a blue plate, a parked bicycle and a family altar cracked
-a mailbox and a hot-dog cart, a wooden fence and an acoustic guitar beside the sofa
+a mailbox marked "POST" in white capitals and a hot-dog cart, a wooden fence and an acoustic guitar beside the sofa
 a rusty gate, a chained-up bike and a compass and some buoys slightly crooked
 a donkey cart, a tuk-tuk and some paint cans on a shelf
 a clothesline between balconies and a church bell tower, a row of colourful umbrellas and an embroidery hoop covered in dust
@@ -1233,7 +1233,7 @@ a drainpipe with moss, a stack of woven baskets and a zen sand garden on top of 
 a church bell tower, a stack of tyres and a grandfather clock slightly crooked
 a wooden bench and a cash machine, a row of payphones and a coffee grinder freshly polished
 a fruit stall with crates, a stray dog sleeping and a basketball slightly crooked
-a war memorial and a fruit stall with crates, a crate of live crabs and a dartboard on a shelf
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a fruit stall with crates, a crate of live crabs and a dartboard on a shelf
 a pile of coconuts, a fruit stall with crates and a bookend well used
 a pile of firewood and a chained-up bike, a cart of oranges and a stack of vinyl records and a toolbox on top of a cabinet
 a drainpipe with moss, a charcoal grill and a cooler box chipped
@@ -1257,7 +1257,7 @@ a rusty gate, a newspaper kiosk with "__name_newspaper__" on the papers in its r
 a horse tied to a post, a hot-dog cart and a portable typewriter on top of a cabinet
 a delivery van parked at the kerb, a delivery van parked at the kerb and a knitting basket beside the sofa
 a statue on a plinth, a church bell tower and a kite and a tackle box on a low table
-a shuttered shop front and a mailbox, a cash machine and a walking frame and some net curtains cracked
+a shuttered shop front and a mailbox marked "POST" in white capitals, a cash machine and a walking frame and some net curtains cracked
 a bale of hay, a phone box and a ceiling fan and a tablet on a stand half hidden behind a curtain
 a drainpipe with moss, a rusty gate and a CRT monitor on the windowsill
 a wooden bench and a statue on a plinth, a skateboard ramp and a smart speaker slightly crooked
@@ -1270,7 +1270,7 @@ a shuttered shop front, a plastic stool beside a stall and a leather satchel and
 a wheelbarrow, a statue on a plinth and a pinball machine brand new
 a church bell tower, a drying rack of fish and a samovar glinting in the light
 a tram stop, a red lantern and a golf bag of an old-fashioned design
-a bus shelter with a faded timetable and a war memorial, a vending machine glowing and a kettlebell faded
+a bus shelter with a faded timetable reading "__text_departure__" and a war memorial carved "__text_memorial__" __text_look_carved_stone__, a vending machine glowing and a kettlebell faded
 a row of payphones, a stone fountain and a kite and some herb pots glinting in the light
 a goat tied to a rail, a drying rack of fish and a golf bag cracked
 a cash machine, a line of washing and a potted monstera in need of repair
@@ -1281,7 +1281,7 @@ a statue on a plinth, a tuk-tuk and a climbing rope and a colander in the corner
 a goat tied to a rail, a charcoal grill and some buoys in need of repair
 a wooden fence, a satellite dish and a wok and a clothes horse with laundry beside the sofa
 a stack of tyres and a flower stall, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a play tent slightly crooked
-a prayer flag, a mailbox and a thermos flask glinting in the light
+a prayer flag, a mailbox marked "POST" in white capitals and a thermos flask glinting in the light
 a flower stall, a delivery van parked at the kerb and a vase of dried flowers half hidden behind a curtain
 a rickshaw waiting, a mural and an upright piano beside the sofa
 a fruit stall with crates and a cart of oranges, a goat tied to a rail and a wood-burning stove and a trunk on a low table
@@ -1290,16 +1290,16 @@ a flock of pigeons, a plastic stool beside a stall and a ceiling fan freshly pol
 a cash machine and a roadside shrine, a wooden bench and a treadmill by the door
 a flower stall, a prayer flag and a terrarium on top of a cabinet
 a statue on a plinth, a red lantern and an oil painting in the corner
-a drying rack of fish and a donkey cart, a red lantern and a radiator and a row of paperbacks in need of repair
+a drying rack of fish and a donkey cart, a red lantern and a radiator and a row of paperbacks with spines reading "__name_book_title_any__" in small print in need of repair
 a mural, a goat tied to a rail and a stack of vinyl records hanging on the wall
 a chained-up bike and a wheelbarrow, a statue on a plinth and a picture frame on the windowsill
-a pagoda roof and a war memorial, a minaret and a knife block casting a soft light
+a pagoda roof and a war memorial carved "__text_memorial__" __text_look_carved_stone__, a minaret and a knife block casting a soft light
 a stone wall and a stack of tyres, a lighthouse in the distance and a hanging basket chipped
 a red lantern, a skateboard ramp and a dustpan and a shoe rack on the floor
 a row of payphones, a roadside shrine and a frisbee covered in dust
 a farm gate, a row of payphones and a compass slightly crooked
 a horse tied to a post, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a dartboard and a dreamcatcher glinting in the light
-a row of recycling bins, a mailbox and a paddling pool and a Tiffany lamp freshly polished
+a row of recycling bins, a mailbox marked "POST" in white capitals and a paddling pool and a Tiffany lamp freshly polished
 a busker's guitar case and a minaret, a drying rack of fish and a world map of an old-fashioned design
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a chained-up bike, a tricycle taxi and an abacus glinting in the light
 a hot-dog cart, a taxi rank and a keyboard in the corner
@@ -1307,13 +1307,13 @@ a clothesline between balconies and a stack of lobster pots, a tuk-tuk and a cam
 a delivery van parked at the kerb, a tuk-tuk and a vase of dried flowers on top of a cabinet
 a spice stall, a cracked pavement and an air purifier faded
 a parked bicycle and a stone fountain, a stack of sandbags and a grandfather clock cracked
-a phone box, a mailbox and a neon sign on the floor
-a rooftop water tank, a bin overflowing with leaflets and a stack of hardback books glinting in the light
+a phone box, a mailbox marked "POST" in white capitals and a neon sign on the floor
+a rooftop water tank, a bin overflowing with leaflets reading "__text_flyer__" and a stack of hardback books glinting in the light
 a flower stall, a drainpipe with moss and a Buddha figurine hanging on the wall
 a parked bicycle and a torii gate, a clothesline between balconies and an old television brand new
 a cart of oranges and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a fruit stall with crates and a broom and some lobster pots hanging on the wall
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a bird on a wire, a street piano and a reel-to-reel recorder well used
-a church bell tower and a mailbox, a prayer flag and a pinball machine of an old-fashioned design
+a church bell tower and a mailbox marked "POST" in white capitals, a prayer flag and a pinball machine of an old-fashioned design
 a manhole cover steaming, a farm gate and a shoe rack and a tackle box on a shelf
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a mailbox and a skateboard and some dumbbells on a shelf
 a wooden fence, a cart of oranges and a vending machine and a trunk casting a soft light
@@ -1324,15 +1324,15 @@ a puddle, a rack of kebabs and a frisbee and an easel in the corner
 a mural and a street piano, a bale of hay and a colander freshly polished
 a tram stop and a stack of woven baskets, a pile of coconuts and a stand mixer well used
 a food truck, a row of parked scooters and some finger paints of an old-fashioned design
-a pagoda roof and a bus shelter with a faded timetable, a drying rack of fish and some wind chimes half hidden behind a curtain
+a pagoda roof and a bus shelter with a faded timetable reading "__text_departure__", a drying rack of fish and some wind chimes half hidden behind a curtain
 a taxi rank, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a stack of hardback books hanging on the wall
 a red lantern, a shuttered shop front and a wall clock chipped
-a pagoda roof, a vending machine glowing and a row of paperbacks on the floor
-a taxi rank, a mailbox and a stack of vinyl records on the floor
+a pagoda roof, a vending machine glowing and a row of paperbacks with spines reading "__name_book_title_any__" in small print on the floor
+a taxi rank, a mailbox marked "POST" in white capitals and a stack of vinyl records on the floor
 a farm gate, a taxi rank and a ship's wheel faded
 a flower stall, a delivery van parked at the kerb and an acoustic guitar and a fishing net glinting in the light
 a stack of tyres, a plastic stool beside a stall and a transistor radio hanging on the wall
-a war memorial and a vending machine glowing, a bus shelter with a faded timetable and a terrarium in need of repair
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a vending machine glowing, a bus shelter with a faded timetable reading "__text_departure__" and a terrarium in need of repair
 a temple bell, a wheelbarrow and a wheelchair casting a soft light
 a rack of kebabs, a scaffolding of bamboo and a baseball bat of an old-fashioned design
 a wooden fence, a pile of building materials and an anchor well used
@@ -1358,7 +1358,7 @@ a fishing boat pulled up on the shore, a chained-up bike and a yoga mat freshly 
 a market clock and a fruit stall with crates, a red lantern and a statue of a deity chipped
 a stone fountain, a clothesline between balconies and an espresso machine half hidden behind a curtain
 a cracked pavement and a vending machine glowing, a stack of lobster pots and a wok by the door
-a mailbox, a church bell tower and a slide rule and a fruit bowl well used
+a mailbox marked "POST" in white capitals, a church bell tower and a slide rule and a fruit bowl well used
 a food truck and a wooden bench, a vending machine glowing and a medicine cabinet on a shelf
 a cart of oranges, a line of washing and a cake stand brand new
 a mural, a temple bell and a bird feeder and a photo collage casting a soft light
@@ -1370,7 +1370,7 @@ a charcoal grill, a market scale and a medicine cabinet and a slide rule by the 
 a delivery van parked at the kerb, a market scale and some heavy curtains covered in dust
 a tuk-tuk and a pile of building materials, a stray dog sleeping and a slide projector on a shelf
 a tricycle taxi and a puddle, a stack of woven baskets and a tapestry brand new
-a cash machine, a bin overflowing with leaflets and a globe bar and a bread bin on a shelf
+a cash machine, a bin overflowing with leaflets reading "__text_flyer__" and a globe bar and a bread bin on a shelf
 a pile of building materials and a plastic stool beside a stall, a camel resting and some string lights glinting in the light
 a hot-dog cart, a market clock and a stained-glass panel well used
 a spice stall, a puddle and a broom hanging on the wall
@@ -1379,7 +1379,7 @@ a stack of sandbags, a stack of lobster pots and some herb pots half hidden behi
 a pagoda roof, a row of colourful umbrellas and a climbing rope beside the sofa
 a handcart loaded with boxes, a drainpipe with moss and a water cooler beside the sofa
 a handcart loaded with boxes and a vending machine glowing, a lighthouse in the distance and an adding machine in the corner
-a mailbox, a line of washing and a card catalogue faded
+a mailbox marked "POST" in white capitals, a line of washing and a card catalogue faded
 a wheelbarrow, a delivery van parked at the kerb and a golf bag chipped
 a torii gate and a goat tied to a rail, a stack of woven baskets and a cake stand and a sewing machine brand new
 a wheelbarrow and a clothesline between balconies, a drying rack of fish and a deck of cards on top of a cabinet
@@ -1407,14 +1407,14 @@ a parked bicycle, a pile of building materials and some suitcases on the floor
 a fishing boat pulled up on the shore, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a tapestry and an ironing board brand new
 a manhole cover steaming, a stack of woven baskets and a photo collage of an old-fashioned design
 a crate of live crabs and a rack of kebabs, a stray dog sleeping and a dolls' house well used
-a mailbox and a bird on a wire, a stack of woven baskets and a candle holder well used
+a mailbox marked "POST" in white capitals and a bird on a wire, a stack of woven baskets and a candle holder well used
 a wooden fence, a cash machine and a rain barrel glinting in the light
 a street piano and a skateboard ramp, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a taxidermy fox in need of repair
 a market umbrella, a wheelbarrow and an alarm clock freshly polished
 a statue on a plinth and a minaret, a wooden fence and a row of candles hanging on the wall
 a market umbrella, a satellite dish and a globe lamp on the floor
 a food truck, a bird on a wire and a stand mixer covered in dust
-a chained-up bike and a bus shelter with a faded timetable, a busker's guitar case and some painted tiles on top of a cabinet
+a chained-up bike and a bus shelter with a faded timetable reading "__text_departure__", a busker's guitar case and some painted tiles on top of a cabinet
 a satellite dish and a crate of live crabs, a pile of firewood and some fairy lights faded
 a wheelbarrow and a plastic stool beside a stall, a wooden fence and a first-aid cabinet in need of repair
 a stone lantern and a row of payphones, a spice stall and some hiking boots faded
@@ -1423,7 +1423,7 @@ a rusty gate, a tuk-tuk and a spice rack in the corner
 a wooden fence and a mural, a line of washing and a stack of vinyl records on top of a cabinet
 a market scale, a prayer flag and a jukebox and a woven rug hanging on the wall
 a market clock, a scaffolding of bamboo and a baseball bat on a shelf
-a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a bin overflowing with leaflets and a pill organiser and a cricket bat faded
+a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a bin overflowing with leaflets reading "__text_flyer__" and a pill organiser and a cricket bat faded
 a plastic stool beside a stall and a tram stop, a vending machine glowing and a space heater and a mortar and pestle casting a soft light
 a flag fluttering, a spice stall and an espresso machine brand new
 a donkey cart, a stack of sandbags and a spice rack and a world map well used
@@ -1445,7 +1445,7 @@ a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a sta
 a stack of sandbags, a street piano and an old television covered in dust
 a cracked pavement, a stack of woven baskets and a bird cage on the floor
 a well with a bucket, a fruit stall with crates and a rotary telephone well used
-a prayer flag, a war memorial and a terrarium cracked
+a prayer flag, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a terrarium cracked
 a farm gate and a clothesline between balconies, a stray dog sleeping and a violin on a stand chipped
 a fruit stall with crates and a row of recycling bins, a flock of pigeons and a cricket bat and a copper kettle of an old-fashioned design
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a stack of lobster pots, a skateboard ramp and a wok of an old-fashioned design
@@ -1460,7 +1460,7 @@ a puddle and a graffiti-covered shutter with "__text_graffiti_word__" sprayed ac
 a red lantern and a row of parked scooters, a water pump and a stapler by the door
 a shuttered shop front, a stack of woven baskets and a lantern of an old-fashioned design
 a row of payphones and a parked bicycle, a parked bicycle and a surfboard in the corner
-a war memorial, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a thermos flask by the door
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a thermos flask by the door
 a phone box and a donkey cart, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a rain barrel on the windowsill
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a busker's guitar case and a violin on a stand and some binoculars half hidden behind a curtain
 a stack of sandbags, a water pump and a quilt of an old-fashioned design
@@ -1477,14 +1477,14 @@ a clothesline between balconies, a goat tied to a rail and a shoe rack of an old
 a spice stall, a stack of lobster pots and a treadmill faded
 a charcoal grill, a street piano and a sewing machine hanging on the wall
 a goat tied to a rail, a vending machine glowing and a leather satchel glinting in the light
-a line of washing, a war memorial and a medicine cabinet casting a soft light
+a line of washing, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a medicine cabinet casting a soft light
 a roadside shrine, a wooden bench and some painted tiles glinting in the light
 a fishing boat pulled up on the shore and a torii gate, a horse tied to a post and a copper kettle on a low table
 a bird on a wire, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a wok half hidden behind a curtain
 a pile of coconuts, a flock of pigeons and a stack of cardboard boxes on the floor
 a tram stop, a pile of coconuts and a koi bowl and a garden gnome slightly crooked
 a clothesline between balconies, a minaret and a quilt by the door
-a bus shelter with a faded timetable, a phone box and a vending machine on a shelf
+a bus shelter with a faded timetable reading "__text_departure__", a phone box and a vending machine on a shelf
 a puddle, a row of parked scooters and a table lamp brand new
 a stack of sandbags, a wooden fence and a family altar in the corner
 a shuttered shop front, a torii gate and a knitting basket in the corner
@@ -1513,7 +1513,7 @@ a church bell tower and a lamppost with peeling paint, a handcart loaded with bo
 a bird on a wire and a delivery van parked at the kerb, a phone box and a pinball machine chipped
 a pagoda roof and a tram stop, a row of parked scooters and a teacup collection on a shelf
 a chained-up bike and a rickshaw waiting, a mural and a microphone stand casting a soft light
-a market scale, a bin overflowing with leaflets and some fins half hidden behind a curtain
+a market scale, a bin overflowing with leaflets reading "__text_flyer__" and some fins half hidden behind a curtain
 a row of recycling bins and a stone wall, a chained-up bike and some colouring books well used
 a camel resting, a drainpipe with moss and a tablet on a stand chipped
 a scaffolding of bamboo, a prayer flag and a toy train set on top of a cabinet
@@ -1521,7 +1521,7 @@ a pagoda roof, a delivery van parked at the kerb and some paint cans on the floo
 a satellite dish, a rooftop water tank and some packing crates covered in dust
 a busker's guitar case and a red lantern, a donkey cart and a baseball bat and a skateboard on top of a cabinet
 a puddle, a flower stall and a medicine cabinet chipped
-a war memorial, a bus shelter with a faded timetable and a bookend on top of a cabinet
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a bus shelter with a faded timetable reading "__text_departure__" and a bookend on top of a cabinet
 a stack of woven baskets, a stack of sandbags and a smart speaker in need of repair
 a drainpipe with moss and a farm gate, a stack of sandbags and a record cabinet brand new
 a fruit stall with crates, a row of payphones and a yoga mat on the windowsill
@@ -1540,15 +1540,15 @@ a phone box, a drainpipe with moss and a bee hotel well used
 a vending machine glowing, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a quilt glinting in the light
 a rack of kebabs and a flower stall, a farm gate and some origami cranes covered in dust
 a wooden bench, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a cake stand and a seven-branched menorah candelabrum hanging on the wall
-a red lantern and a mailbox, a pagoda roof and a drum kit casting a soft light
+a red lantern and a mailbox marked "POST" in white capitals, a pagoda roof and a drum kit casting a soft light
 a rickshaw waiting, a prayer flag and a teacup collection hanging on the wall
 a hot-dog cart and a scaffolding of bamboo, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a sleeping bag and a paddling pool faded
 a stack of tyres, a prayer flag and a mop and bucket faded
-a minaret and a bin overflowing with leaflets, a goat tied to a rail and a decanter faded
+a minaret and a bin overflowing with leaflets reading "__text_flyer__", a goat tied to a rail and a decanter faded
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a vending machine glowing and some packing crates of an old-fashioned design
-a rickshaw waiting, a bird on a wire and a row of paperbacks hanging on the wall
+a rickshaw waiting, a bird on a wire and a row of paperbacks with spines reading "__name_book_title_any__" in small print hanging on the wall
 a bin overflowing with leaflets and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a scaffolding of bamboo and a fishing rod by the door
-a stack of lobster pots, a puddle and a mailbox casting a soft light
+a stack of lobster pots, a puddle and a mailbox marked "POST" in white capitals casting a soft light
 a bale of hay and a market scale, a fishing boat pulled up on the shore and a persian rug and a treadmill in the corner
 a roadside shrine, a pagoda roof and a full-length mirror and a slide projector by the door
 a crate of live crabs, a cat on a wall and a wheelchair on the floor
@@ -1562,7 +1562,7 @@ a market scale, a satellite dish and a wine rack in need of repair
 a bird on a wire and a plastic stool beside a stall, a clothesline between balconies and an anchor and some colouring books freshly polished
 a parked bicycle and a phone box, a shuttered shop front and a wall clock half hidden behind a curtain
 a puddle, a stray dog sleeping and a woven basket covered in dust
-a wheelbarrow, a war memorial and a first-aid cabinet freshly polished
+a wheelbarrow, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a first-aid cabinet freshly polished
 a flag fluttering, a rack of kebabs and some net curtains and some salt and pepper mills on a low table
 a fishing boat pulled up on the shore, a lighthouse in the distance and a broom freshly polished
 a stack of sandbags, a stack of woven baskets and a pressure cooker covered in dust
@@ -1573,7 +1573,7 @@ a red lantern and a pagoda roof, a well with a bucket and an upright piano well 
 a wheelbarrow, a market scale and a pinball machine in need of repair
 a stack of sandbags and a scaffolding of bamboo, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a helmet on a shelf
 a busker's guitar case and a satellite dish, a spice stall and some dumbbells cracked
-a bus shelter with a faded timetable, a plastic stool beside a stall and a medicine cabinet of an old-fashioned design
+a bus shelter with a faded timetable reading "__text_departure__", a plastic stool beside a stall and a medicine cabinet of an old-fashioned design
 a flock of pigeons, a torii gate and a wall clock of an old-fashioned design
 a lighthouse in the distance and a roadside shrine, a stone wall and a lantern and a dustpan cracked
 a church bell tower, a lighthouse in the distance and some scatter cushions in the corner
@@ -1587,7 +1587,7 @@ a charcoal grill and a temple bell, a newspaper kiosk with "__name_newspaper__" 
 a stone wall and a goat tied to a rail, a market scale and a Christmas tree half hidden behind a curtain
 a scaffolding of bamboo and a chained-up bike, a tram stop and a piñata and a pendant light brand new
 a cat on a wall and a camel resting, a rusty gate and a sleeping bag on a shelf
-a war memorial and a torii gate, a clothesline between balconies and a pinball machine cracked
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a torii gate, a clothesline between balconies and a pinball machine cracked
 a tram stop, a busker's guitar case and a teacup collection and a chalkboard hanging on the wall
 a hot-dog cart, a scaffolding of bamboo and some seed trays on top of a cabinet
 a puddle, a pile of building materials and a games console by the door
@@ -1597,7 +1597,7 @@ a minaret, a red lantern and a corkboard with notes slightly crooked
 a clothesline between balconies, a shrine with offerings and a crucifix on the floor
 a tram stop, a drainpipe with moss and a humidifier slightly crooked
 a stack of lobster pots, a handcart loaded with boxes and a clothes horse with laundry of an old-fashioned design
-a war memorial and a war memorial, a red lantern and a washing machine well used
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a war memorial carved "__text_memorial__" __text_look_carved_stone__, a red lantern and a washing machine well used
 a puddle, a food truck and a kitchen scale cracked
 a temple bell, a bale of hay and a bicycle against the wall in need of repair
 a minaret and a street piano, a pile of firewood and a teacup collection on a shelf
@@ -1617,7 +1617,7 @@ a market scale, a statue on a plinth and a persian rug and a disco ball hanging 
 a statue on a plinth, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a microscope well used
 a street piano and a market umbrella, a hot-dog cart and a medicine cabinet covered in dust
 a drainpipe with moss, a row of parked scooters and a sleeping bag chipped
-a row of payphones and a bin overflowing with leaflets, a cracked pavement and a neon sign reading "__text_neon_sign__" __text_look_neon__ and a picture frame on a shelf
+a row of payphones and a bin overflowing with leaflets reading "__text_flyer__", a cracked pavement and a neon sign reading "__text_neon_sign__" __text_look_neon__ and a picture frame on a shelf
 a rickshaw waiting and a stack of sandbags, a line of washing and a candle holder by the door
 a flower stall and a spice stall, a bale of hay and a crucifix and a stepladder casting a soft light
 a phone box, a stack of tyres and a dolls' house of an old-fashioned design
@@ -1633,12 +1633,12 @@ a hot-dog cart, a wooden fence and a wheelbarrow hanging on the wall
 a stone fountain, a line of washing and a smart speaker brand new
 a shrine with offerings, a stray dog sleeping and an oxygen tank half hidden behind a curtain
 a pagoda roof and a charcoal grill, a delivery van parked at the kerb and some seed trays on a low table
-a mailbox and a puddle, a stack of woven baskets and a family altar cracked
+a mailbox marked "POST" in white capitals and a puddle, a stack of woven baskets and a family altar cracked
 a cracked pavement, a stack of lobster pots and a wine rack on a low table
 a skateboard ramp and a skateboard ramp, a stone lantern and a potted monstera on the windowsill
 a busker's guitar case, a roadside shrine and a punching bag and a goldfish bowl on the floor
 a puddle, a handcart loaded with boxes and a wheelchair on a low table
-a pile of firewood, a mailbox and a bookend on top of a cabinet
+a pile of firewood, a mailbox marked "POST" in white capitals and a bookend on top of a cabinet
 a clothesline between balconies, a rusty gate and a ship in a bottle slightly crooked
 a goat tied to a rail and a lamppost with peeling paint, a manhole cover steaming and a projector beside the sofa
 a well with a bucket and a market scale, a cat on a wall and a bird feeder beside the sofa
@@ -1647,11 +1647,11 @@ a taxi rank and a roadside shrine, a clothesline between balconies and a slide p
 a plastic stool beside a stall and a prayer flag, a pile of coconuts and a Buddha figurine in the corner
 a well with a bucket, a drying rack of fish and a vase of dried flowers on a low table
 a manhole cover steaming, a row of recycling bins and some building blocks cracked
-a cat on a wall and a torii gate, a mailbox and a vintage film camera in need of repair
+a cat on a wall and a torii gate, a mailbox marked "POST" in white capitals and a vintage film camera in need of repair
 a row of parked scooters, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a hanging basket of an old-fashioned design
-a war memorial and a wooden bench, a stray dog sleeping and a persian rug brand new
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a wooden bench, a stray dog sleeping and a persian rug brand new
 a well with a bucket and a manhole cover steaming, a wheelbarrow and a desktop computer beside the sofa
-a pile of firewood and a prayer flag, a tuk-tuk and a row of paperbacks and a clothes horse with laundry chipped
+a pile of firewood and a prayer flag, a tuk-tuk and a row of paperbacks with spines reading "__name_book_title_any__" in small print and a clothes horse with laundry chipped
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__, a clothesline between balconies and a fishing rod on the floor
 a row of colourful umbrellas and a flower stall, a well with a bucket and a lantern covered in dust
 a pile of coconuts and a spice stall, a market scale and a swing set covered in dust
@@ -1662,7 +1662,7 @@ a street piano and a market scale, a horse tied to a post and a shoe rack in the
 a donkey cart, a statue on a plinth and an adding machine covered in dust
 a bus stop sign reading "BUS STOP" in white letters on a blue plate, a cat on a wall and a spade and fork glinting in the light
 a wheelbarrow and a donkey cart, a rack of kebabs and a picture frame covered in dust
-a war memorial, a tricycle taxi and a lantern of an old-fashioned design
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a tricycle taxi and a lantern of an old-fashioned design
 a stone lantern, a drainpipe with moss and a frisbee in the corner
 a bus stop sign reading "BUS STOP" in white letters on a blue plate and a taxi rank, a phone box and a water gun and a wine rack of an old-fashioned design
 a shrine with offerings, a cash machine and an alarm clock covered in dust
@@ -1673,7 +1673,7 @@ a food truck, a hand-painted sign reading "__text_sign_english__" in __sign_lett
 a stone lantern and a church bell tower, a crate of live crabs and a desktop computer of an old-fashioned design
 a market umbrella and a scaffolding of bamboo, a bale of hay and some lobster pots by the door
 a camel resting, a water pump and a bee hotel faded
-a mural, a market clock and a space heater and a stack of hardback books slightly crooked
+a mural, a market clock and a space heater and a stack of hardback books with spines reading "__name_book_title_any__" in small print slightly crooked
 a shrine with offerings, a rusty gate and a grandfather clock and a cricket bat on top of a cabinet
 a cash machine and a cart of oranges, a charcoal grill and a knitting basket of an old-fashioned design
 a temple bell, a wooden fence and some beer taps faded
@@ -1682,7 +1682,7 @@ a delivery van parked at the kerb and a handcart loaded with boxes, a skateboard
 a row of colourful umbrellas, a stone lantern and a crochet blanket in the corner
 a charcoal grill and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a cash machine and a copper kettle on a low table
 a scaffolding of bamboo, a busker's guitar case and a coffee grinder half hidden behind a curtain
-a rusty gate and a satellite dish, a mailbox and a colander and a jigsaw puzzle on a table of an old-fashioned design
+a rusty gate and a satellite dish, a mailbox marked "POST" in white capitals and a colander and a jigsaw puzzle on a table of an old-fashioned design
 a clothesline between balconies, a taxi rank and a prayer rug on top of a cabinet
 a satellite dish and a prayer flag, a pile of firewood and a microscope well used
 a handcart loaded with boxes, a row of parked scooters and a full-length mirror covered in dust
@@ -1690,7 +1690,7 @@ a well with a bucket, a row of payphones and a trunk and a skull-shaped ornament
 a stone fountain and a minaret, a cart of oranges and some herb pots cracked
 a delivery van parked at the kerb and a scaffolding of bamboo, a donkey cart and a world map cracked
 a line of washing, a red lantern and a desktop computer in need of repair
-a mural and a street piano, a rusty gate and a mailbox by the door
+a mural and a street piano, a rusty gate and a mailbox marked "POST" in white capitals by the door
 a vending machine glowing and a torii gate, a pile of firewood and a wheelbarrow casting a soft light
 a spice stall and a fruit stall with crates, a vending machine glowing and a CRT monitor in the corner
 a food truck and a stray dog sleeping, a line of washing and a champagne bucket half hidden behind a curtain
@@ -1704,11 +1704,11 @@ a horse tied to a post, a satellite dish and some crab traps hanging on the wall
 a stone fountain and a well with a bucket, a shrine with offerings and a stack of vinyl records on the floor
 a vending machine glowing, a taxi rank and a lava lamp on a shelf
 a torii gate and a taxi rank, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a knitting basket and a floor lamp casting a soft light
-a bin overflowing with leaflets, a puddle and some speakers covered in dust
+a bin overflowing with leaflets reading "__text_flyer__", a puddle and some speakers covered in dust
 a satellite dish, a hot-dog cart and a green screen glinting in the light
 a line of washing and a minaret, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a microscope in need of repair
 a stack of lobster pots, a rooftop water tank and a desktop computer and a Christmas tree on a low table
-a bus shelter with a faded timetable and a wooden fence, a food truck and a dolls' house beside the sofa
+a bus shelter with a faded timetable reading "__text_departure__" and a wooden fence, a food truck and a dolls' house beside the sofa
 a stack of tyres and a shrine with offerings, a crate of live crabs and a slide rule chipped
 a skateboard ramp, a donkey cart and a jigsaw puzzle on a table in the corner
 a clothesline between balconies and a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a busker's guitar case and a ceramic bowl on a low table
@@ -1742,23 +1742,23 @@ a food truck, a stack of lobster pots and a rain barrel casting a soft light
 a church bell tower, a fishing boat pulled up on the shore and a telescope glinting in the light
 a lighthouse in the distance, a camel resting and a games console brand new
 a satellite dish, a church bell tower and a rocking horse beside the sofa
-a flag fluttering and a mailbox, a vending machine glowing and an abacus brand new
+a flag fluttering and a mailbox marked "POST" in white capitals, a vending machine glowing and an abacus brand new
 a charcoal grill, a flock of pigeons and some rowing oars and a hearing-aid case cracked
 a market clock, a market clock and an office plant chipped
 a lamppost with peeling paint and a tricycle taxi, a market umbrella and a world map faded
 a vending machine glowing and a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a street piano and a skateboard hanging on the wall
 a stack of lobster pots, a roadside shrine and a water cooler by the door
 a bale of hay, a prayer flag and a sewing machine and some party balloons slightly crooked
-a line of washing and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a war memorial and a zen sand garden on the floor
+a line of washing and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a zen sand garden on the floor
 a red lantern and a cash machine, a fishing boat pulled up on the shore and a kite and a cast-iron pan slightly crooked
 a phone box and a statue on a plinth, a stack of tyres and a stack of vinyl records on top of a cabinet
 a statue on a plinth, a church bell tower and an easel casting a soft light
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a vending machine glowing and a jigsaw puzzle on a table on a shelf
 a stack of sandbags and a roadside shrine, a farm gate and a cactus on the sill on the floor
 a crate of live crabs and a minaret, a fishing boat pulled up on the shore and some rowing oars and a grandfather clock casting a soft light
-a market umbrella, a war memorial and a kitchen scale chipped
+a market umbrella, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a kitchen scale chipped
 a cart of oranges, a lamppost with peeling paint and a cricket bat and a crucifix on top of a cabinet
-a manhole cover steaming, a goat tied to a rail and a reading glasses on a book and a punching bag on a low table
+a manhole cover steaming, a goat tied to a rail and a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover and a punching bag on a low table
 a stack of woven baskets, a market clock and some fins and a sewing machine hanging on the wall
 a stone fountain and a goat tied to a rail, a tram stop and an oscillating fan covered in dust
 a spice stall and a delivery van parked at the kerb, a clothesline between balconies and a transistor radio chipped
@@ -1767,11 +1767,11 @@ a manhole cover steaming and a pile of building materials, a stray dog sleeping 
 a water pump and a fruit stall with crates, a wooden bench and a filing tray and a compass in the corner
 a delivery van parked at the kerb and a chained-up bike, a row of parked scooters and a woven rug hanging on the wall
 a flock of pigeons, a shuttered shop front and a toaster hanging on the wall
-a war memorial and a row of colourful umbrellas, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a cactus on the sill hanging on the wall
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a row of colourful umbrellas, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a cactus on the sill hanging on the wall
 a pile of firewood and a row of parked scooters, a taxi rank and a tennis racket slightly crooked
 a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a market umbrella, a minaret and a washing machine and a wok on a low table
 a rooftop water tank, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a toy kitchen glinting in the light
-a plastic stool beside a stall and a flower stall, a bus shelter with a faded timetable and a mop and bucket covered in dust
+a plastic stool beside a stall and a flower stall, a bus shelter with a faded timetable reading "__text_departure__" and a mop and bucket covered in dust
 a stack of woven baskets, a taxi rank and a rice cooker in the corner
 a stack of sandbags, a cart of oranges and a lunchbox on top of a cabinet
 a camel resting, a donkey cart and a bread bin cracked
@@ -1787,7 +1787,7 @@ a lighthouse in the distance and a torii gate, a pile of firewood and some rowin
 a stone wall and a donkey cart, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a dustpan covered in dust
 a wooden bench and a stack of tyres, a farm gate and a grandfather clock on top of a cabinet
 a vending machine glowing, a farm gate and a ship's wheel on a low table
-a bus shelter with a faded timetable, a taxi rank and a cooler box chipped
+a bus shelter with a faded timetable reading "__text_departure__", a taxi rank and a cooler box chipped
 a bus stop sign reading "BUS STOP" in white letters on a blue plate, a street piano and an inflatable pool ring by the door
 a plastic stool beside a stall, a torii gate and a sewing machine beside the sofa
 a cat on a wall, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a vase of dried flowers beside the sofa
@@ -1804,24 +1804,24 @@ a lighthouse in the distance, a pile of building materials and a grandfather clo
 a charcoal grill, a row of recycling bins and some speakers on the floor
 a food truck and a skateboard ramp, a lighthouse in the distance and a skull-shaped ornament hanging on the wall
 a crate of live crabs and a clothesline between balconies, a charcoal grill and some fins by the door
-a bin overflowing with leaflets, a delivery van parked at the kerb and a spade and fork of an old-fashioned design
+a bin overflowing with leaflets reading "__text_flyer__", a delivery van parked at the kerb and a spade and fork of an old-fashioned design
 a lighthouse in the distance, a farm gate and an old television in the corner
 a busker's guitar case, a mural and a play tent on a shelf
 a skateboard ramp, a flag fluttering and a bicycle against the wall half hidden behind a curtain
-a roadside shrine, a bale of hay and a row of paperbacks covered in dust
+a roadside shrine, a bale of hay and a row of paperbacks with spines reading "__name_book_title_any__" in small print covered in dust
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a manhole cover steaming and some origami cranes cracked
 a row of payphones and a street piano, a rack of kebabs and a climbing rope freshly polished
 a donkey cart, a red lantern and a ring light cracked
 a cart of oranges, a handcart loaded with boxes and a birthday banner reading "HAPPY BIRTHDAY" in bright cut-out letters covered in dust
 a tuk-tuk, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a rice cooker and a hanging basket on the windowsill
-a red lantern and a mailbox, a market clock and a trampoline casting a soft light
+a red lantern and a mailbox marked "POST" in white capitals, a market clock and a trampoline casting a soft light
 a lighthouse in the distance, a row of colourful umbrellas and a humidifier on a shelf
 a shuttered shop front and a spice stall, a row of recycling bins and a filing tray slightly crooked
 a hot-dog cart, a stone wall and a round wall mirror on the floor
 a satellite dish, a lighthouse in the distance and a toaster on a low table
 a spice stall, a tricycle taxi and an inflatable pool ring glinting in the light
 a row of recycling bins, a shrine with offerings and a chess set slightly crooked
-a bus shelter with a faded timetable, a wooden bench and a cocktail shaker covered in dust
+a bus shelter with a faded timetable reading "__text_departure__", a wooden bench and a cocktail shaker covered in dust
 a clothesline between balconies, a fishing boat pulled up on the shore and a samovar and a bottle collection covered in dust
 a rack of kebabs and a wooden fence, a fishing boat pulled up on the shore and an old television and a cocktail shaker freshly polished
 a crate of live crabs, a hot-dog cart and a life ring on the floor
@@ -1835,7 +1835,7 @@ a stray dog sleeping and a bird on a wire, a rickshaw waiting and a jigsaw puzzl
 a bird on a wire and a stone lantern, a spice stall and a deck of cards cracked
 a torii gate, a drying rack of fish and a woven basket in need of repair
 a pile of building materials and a shrine with offerings, a church bell tower and a bookend cracked
-a horse tied to a post and a roadside shrine, a bus shelter with a faded timetable and a tablet on a stand and a space heater freshly polished
+a horse tied to a post and a roadside shrine, a bus shelter with a faded timetable reading "__text_departure__" and a tablet on a stand and a space heater freshly polished
 a tuk-tuk and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a phone box and a stapler brand new
 a shuttered shop front, a rack of kebabs and a vase of fresh tulips in need of repair
 a taxi rank, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a games console and a tent slightly crooked
@@ -1856,7 +1856,7 @@ a bale of hay, a bus stop sign reading "BUS STOP" in white letters on a blue pla
 a cash machine and a clothesline between balconies, a flock of pigeons and a teapot chipped
 a rickshaw waiting and a manhole cover steaming, a stack of tyres and a walking frame on top of a cabinet
 a puddle and a clothesline between balconies, a delivery van parked at the kerb and a crucifix glinting in the light
-a goat tied to a rail and a war memorial, a rickshaw waiting and a chess set half hidden behind a curtain
+a goat tied to a rail and a war memorial carved "__text_memorial__" __text_look_carved_stone__, a rickshaw waiting and a chess set half hidden behind a curtain
 a vending machine glowing, a pile of firewood and some hanging pots chipped
 a crate of live crabs, a charcoal grill and a clothes horse with laundry slightly crooked
 a crate of live crabs, a row of payphones and a colander in need of repair
@@ -1883,7 +1883,7 @@ a temple bell and a puddle, a hot-dog cart and a ring light on the floor
 a stray dog sleeping, a red lantern and a photo collage of an old-fashioned design
 a roadside shrine, a drainpipe with moss and a crochet blanket on a shelf
 a drying rack of fish and a cat on a wall, a rusty gate and an ironing board and a vending machine faded
-a mailbox, a tuk-tuk and some rowing oars in the corner
+a mailbox marked "POST" in white capitals, a tuk-tuk and some rowing oars in the corner
 a food truck, a cart of oranges and a helmet and a cutting board glinting in the light
 a manhole cover steaming and a pagoda roof, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and an adding machine half hidden behind a curtain
 a handcart loaded with boxes, a stack of tyres and a transistor radio beside the sofa
@@ -1898,9 +1898,9 @@ a stone wall and a stone wall, a bale of hay and a stack of vinyl records covere
 a line of washing and a bale of hay, a bird on a wire and some paint cans and a water cooler on a low table
 a drainpipe with moss, a roadside shrine and some hiking boots on a shelf
 a stone wall and a statue on a plinth, a vending machine glowing and a telescope and a round wall mirror glinting in the light
-a tuk-tuk, a mailbox and some paper lanterns hanging on the wall
+a tuk-tuk, a mailbox marked "POST" in white capitals and some paper lanterns hanging on the wall
 a cat on a wall, a hot-dog cart and some binoculars half hidden behind a curtain
-a hot-dog cart and a bin overflowing with leaflets, a taxi rank and a fishing rod well used
+a hot-dog cart and a bin overflowing with leaflets reading "__text_flyer__", a taxi rank and a fishing rod well used
 a puddle and a donkey cart, a row of parked scooters and a vase of fresh tulips hanging on the wall
 a tricycle taxi and a stray dog sleeping, a pile of coconuts and a tent and a birthday banner reading "HAPPY BIRTHDAY" in bright cut-out letters chipped
 a street piano, a farm gate and a candle holder well used
@@ -1909,7 +1909,7 @@ a cart of oranges, a pile of coconuts and a radiator and some crab traps cracked
 a rack of kebabs, a taxi rank and a hanging basket glinting in the light
 a stack of lobster pots and a row of parked scooters, a food truck and a sewing machine on a shelf
 a stone wall and a torii gate, a donkey cart and a photo collage covered in dust
-a bin overflowing with leaflets, a phone box and a tennis racket slightly crooked
+a bin overflowing with leaflets reading "__text_flyer__", a phone box and a tennis racket slightly crooked
 a wooden fence, a handcart loaded with boxes and a slide rule and a water cooler well used
 a spice stall and a torii gate, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and some coat hooks and a toy kitchen on the floor
 a manhole cover steaming and a rack of kebabs, a wooden bench and a desktop computer on the windowsill
@@ -1917,38 +1917,38 @@ a stone wall, a chalk-written menu board listing __text_menu_item__ __text_look_
 a stray dog sleeping, a temple bell and a tablet on a stand and an incense burner cracked
 a spice stall, a stack of woven baskets and a stapler glinting in the light
 a temple bell, a delivery van parked at the kerb and a chalkboard hanging on the wall
-a mailbox, a market clock and some rowing oars brand new
+a mailbox marked "POST" in white capitals, a market clock and some rowing oars brand new
 a bale of hay, a rusty gate and an acoustic guitar chipped
 a rusty gate and a red lantern, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and some buoys beside the sofa
 a line of washing and a tram stop, a rusty gate and a statue of a deity of an old-fashioned design
 a horse tied to a post, a vending machine glowing and a statue of a deity of an old-fashioned design
-a bus shelter with a faded timetable, a handcart loaded with boxes and a transistor radio glinting in the light
+a bus shelter with a faded timetable reading "__text_departure__", a handcart loaded with boxes and a transistor radio glinting in the light
 a stone lantern and a tuk-tuk, a fruit stall with crates and a persian rug slightly crooked
-a stray dog sleeping and a mailbox, a vending machine glowing and a dustpan on a low table
+a stray dog sleeping and a mailbox marked "POST" in white capitals, a vending machine glowing and a dustpan on a low table
 a street piano and a roadside shrine, a lighthouse in the distance and a hourglass hanging on the wall
 a tricycle taxi, a red lantern and a zen sand garden and a telescope on a low table
 a donkey cart and a shrine with offerings, a roadside shrine and a table lamp on a low table
 a stone wall, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a card catalogue slightly crooked
 a line of washing and a camel resting, a wooden bench and a spinning wheel and a knife block slightly crooked
 a roadside shrine and a flock of pigeons, a manhole cover steaming and a trunk on a shelf
-a wooden fence, a war memorial and a water cooler in the corner
-a row of payphones and a mailbox, a roadside shrine and a skull-shaped ornament and a filing tray cracked
+a wooden fence, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a water cooler in the corner
+a row of payphones and a mailbox marked "POST" in white capitals, a roadside shrine and a skull-shaped ornament and a filing tray cracked
 a stone wall and a rickshaw waiting, a stack of lobster pots and a jukebox freshly polished
 a stack of tyres, a busker's guitar case and a projector and some speakers chipped
-a bus shelter with a faded timetable, a busker's guitar case and a fishing rod glinting in the light
-a bus shelter with a faded timetable, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a projector on a low table
+a bus shelter with a faded timetable reading "__text_departure__", a busker's guitar case and a fishing rod glinting in the light
+a bus shelter with a faded timetable reading "__text_departure__", a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a projector on a low table
 a handcart loaded with boxes and a drainpipe with moss, a fruit stall with crates and a cactus on the sill faded
 a wooden bench, a hot-dog cart and a slide projector chipped
-a stone lantern, a bin overflowing with leaflets and an antler rack on a low table
+a stone lantern, a bin overflowing with leaflets reading "__text_flyer__" and an antler rack on a low table
 a handcart loaded with boxes, a handcart loaded with boxes and a tablet on a stand on the floor
 a goat tied to a rail, a spice stall and a hourglass of an old-fashioned design
 a rickshaw waiting and a horse tied to a post, a pile of building materials and a stained-glass panel hanging on the wall
-a wooden fence, a farm gate and a reading glasses on a book glinting in the light
+a wooden fence, a farm gate and a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover, glinting in the light
 a skateboard ramp and a row of parked scooters, a horse tied to a post and a backpack and some paint cans half hidden behind a curtain
 a market umbrella, a pile of coconuts and a picture frame covered in dust
 a shuttered shop front, a market umbrella and an umbrella stand half hidden behind a curtain
 a goat tied to a rail, a puddle and a ceramic bowl and a jigsaw puzzle on a table freshly polished
-a bus shelter with a faded timetable, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a wall clock on a low table
+a bus shelter with a faded timetable reading "__text_departure__", a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a wall clock on a low table
 a pile of coconuts, a line of washing and a cricket bat and some scatter cushions beside the sofa
 a wooden fence, a stray dog sleeping and a robot vacuum covered in dust
 a charcoal grill, a pile of firewood and a stained-glass panel covered in dust
@@ -1960,7 +1960,7 @@ a market clock and a cat on a wall, a row of parked scooters and a photo collage
 a stack of sandbags and a charcoal grill, a lighthouse in the distance and a trampoline glinting in the light
 a rooftop water tank, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a Christmas tree on the floor
 a puddle, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and some wellington boots slightly crooked
-a rusty gate and a war memorial, a bus stop sign reading "BUS STOP" in white letters on a blue plate and some finger paints covered in dust
+a rusty gate and a war memorial carved "__text_memorial__" __text_look_carved_stone__, a bus stop sign reading "BUS STOP" in white letters on a blue plate and some finger paints covered in dust
 a farm gate and a tuk-tuk, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a decanter brand new
 a water pump, a food truck and a helmet freshly polished
 a flag fluttering, a water pump and a card catalogue by the door
@@ -1969,9 +1969,9 @@ a busker's guitar case, a stone fountain and a filing tray on a low table
 a cracked pavement and a stone fountain, a skateboard ramp and a seven-branched menorah candelabrum on the floor
 a red lantern, a lighthouse in the distance and a knife block on a shelf
 a tricycle taxi and a row of colourful umbrellas, a horse tied to a post and a lantern in need of repair
-a bird on a wire and a shuttered shop front, a drainpipe with moss and a reading glasses on a book brand new
-a water pump and a bus shelter with a faded timetable, a donkey cart and a watering can freshly polished
-a market clock and a delivery van parked at the kerb, a bin overflowing with leaflets and a slide rule and some beer taps in the corner
+a bird on a wire and a shuttered shop front, a drainpipe with moss and a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover, brand new
+a water pump and a bus shelter with a faded timetable reading "__text_departure__", a donkey cart and a watering can freshly polished
+a market clock and a delivery van parked at the kerb, a bin overflowing with leaflets reading "__text_flyer__" and a slide rule and some beer taps in the corner
 a shrine with offerings, a delivery van parked at the kerb and some wellington boots on top of a cabinet
 a row of recycling bins, a donkey cart and an anchor in need of repair
 a taxi rank, a wheelbarrow and a ceiling fan on a shelf
@@ -1983,8 +1983,8 @@ a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __tex
 a fishing boat pulled up on the shore and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a row of parked scooters and a skateboard beside the sofa
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a lighthouse in the distance, a stack of tyres and a medicine cabinet in the corner
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a handcart loaded with boxes and a pendant light on top of a cabinet
-a satellite dish, a bin overflowing with leaflets and some binoculars and an oscillating fan half hidden behind a curtain
-a war memorial and a taxi rank, a puddle and a macramé hanging half hidden behind a curtain
+a satellite dish, a bin overflowing with leaflets reading "__text_flyer__" and some binoculars and an oscillating fan half hidden behind a curtain
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a taxi rank, a puddle and a macramé hanging half hidden behind a curtain
 a well with a bucket, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a row of candles faded
 a clothesline between balconies, a phone box and some packing crates and a fishing net casting a soft light
 a rack of kebabs, a row of colourful umbrellas and a camera tripod and a goldfish bowl on the floor
@@ -2007,7 +2007,7 @@ a plastic stool beside a stall, a flag fluttering and some heavy curtains faded
 a row of payphones and a scaffolding of bamboo, a cat on a wall and a space heater on the floor
 a mural, a stone lantern and a chess set on a low table
 a bus stop sign reading "BUS STOP" in white letters on a blue plate, a rooftop water tank and a beach umbrella casting a soft light
-a stone lantern and a scaffolding of bamboo, a bin overflowing with leaflets and a seven-branched menorah candelabrum cracked
+a stone lantern and a scaffolding of bamboo, a bin overflowing with leaflets reading "__text_flyer__" and a seven-branched menorah candelabrum cracked
 a stone lantern, a handcart loaded with boxes and an incense burner on the floor
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a rack of kebabs, a statue on a plinth and an oxygen tank in need of repair
 a row of colourful umbrellas and a torii gate, a flock of pigeons and a record cabinet covered in dust
@@ -2016,7 +2016,7 @@ a handcart loaded with boxes, a rickshaw waiting and a smart speaker beside the 
 a chained-up bike and a donkey cart, a horse tied to a post and a tent beside the sofa
 a street piano and a pile of building materials, a vending machine glowing and an acoustic guitar hanging on the wall
 a clothesline between balconies, a goat tied to a rail and a record cabinet by the door
-a vending machine glowing, a war memorial and a broom on a low table
+a vending machine glowing, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a broom on a low table
 a plastic stool beside a stall, a goat tied to a rail and an alarm clock and a zen sand garden slightly crooked
 a manhole cover steaming and a wooden fence, a street piano and a dreamcatcher glinting in the light
 a drying rack of fish, a drying rack of fish and a dreamcatcher on top of a cabinet
@@ -2045,13 +2045,13 @@ a statue on a plinth, a charcoal grill and a reel-to-reel recorder on top of a c
 a lamppost with peeling paint and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a prayer flag and an electric kettle on a low table
 a bale of hay and a lighthouse in the distance, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a water cooler and a compass by the door
 a taxi rank, a pile of building materials and a bottle collection faded
-a bus shelter with a faded timetable, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a bookend and a framed poster reading "__text_poster_room__" __text_look_print__ on the windowsill
+a bus shelter with a faded timetable reading "__text_departure__", a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a bookend and a framed poster reading "__text_poster_room__" __text_look_print__ on the windowsill
 a torii gate and a charcoal grill, a row of payphones and a wood-burning stove and an easel on top of a cabinet
 a stack of sandbags, a market scale and a desktop computer half hidden behind a curtain
 a row of parked scooters and a statue on a plinth, a row of colourful umbrellas and a record cabinet half hidden behind a curtain
 a satellite dish, a pile of firewood and a washing machine brand new
 a clothesline between balconies and a flock of pigeons, a busker's guitar case and a statue of a deity freshly polished
-a bin overflowing with leaflets and a fruit stall with crates, a chained-up bike and a kettlebell brand new
+a bin overflowing with leaflets reading "__text_flyer__" and a fruit stall with crates, a chained-up bike and a kettlebell brand new
 a farm gate, a roadside shrine and a table lamp freshly polished
 a stone fountain and a well with a bucket, a bale of hay and a copper kettle and a flip chart faded
 a stack of sandbags and a rooftop water tank, a line of washing and an acoustic guitar well used
@@ -2085,20 +2085,20 @@ a wooden bench and a water pump, a stack of sandbags and a full-length mirror fr
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and some net curtains well used
 a scaffolding of bamboo, a busker's guitar case and a disco ball slightly crooked
 a roadside shrine, a cash machine and a bottle collection on top of a cabinet
-a bus shelter with a faded timetable and a lamppost with peeling paint, a rooftop water tank and a record player on a low table
+a bus shelter with a faded timetable reading "__text_departure__" and a lamppost with peeling paint, a rooftop water tank and a record player on a low table
 a bale of hay and a pile of coconuts, a pile of coconuts and a candle holder chipped
 a drying rack of fish, a row of payphones and a leather satchel of an old-fashioned design
 a lamppost with peeling paint, a statue on a plinth and a cutting board brand new
-a lamppost with peeling paint and a row of parked scooters, a bin overflowing with leaflets and a full-length mirror on top of a cabinet
+a lamppost with peeling paint and a row of parked scooters, a bin overflowing with leaflets reading "__text_flyer__" and a full-length mirror on top of a cabinet
 a market scale, a market clock and an embroidery hoop faded
 a rack of kebabs and a rooftop water tank, a cat on a wall and some speakers well used
 a stack of woven baskets, a puddle and a play tent on a low table
-a stone wall and a bus shelter with a faded timetable, a wheelbarrow and a stack of cardboard boxes by the door
+a stone wall and a bus shelter with a faded timetable reading "__text_departure__", a wheelbarrow and a stack of cardboard boxes by the door
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a chess set glinting in the light
 a hot-dog cart and a torii gate, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a backpack brand new
 a goat tied to a rail, a red lantern and a microscope chipped
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a chained-up bike, a pagoda roof and a full-length mirror chipped
-a stone wall and a rickshaw waiting, a bin overflowing with leaflets and a trampoline in the corner
+a stone wall and a rickshaw waiting, a bin overflowing with leaflets reading "__text_flyer__" and a trampoline in the corner
 a puddle, a flower stall and a skateboard on a low table
 a lamppost with peeling paint, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a goldfish bowl slightly crooked
 a bale of hay and a food truck, a chained-up bike and a cooler bag covered in dust
@@ -2110,7 +2110,7 @@ a row of payphones, a handcart loaded with boxes and some scatter cushions chipp
 a plastic stool beside a stall and a pile of building materials, a bird on a wire and a laundry basket covered in dust
 a farm gate, a rack of kebabs and a crucifix of an old-fashioned design
 a plastic stool beside a stall, a lighthouse in the distance and a hourglass and a stack of cardboard boxes by the door
-a bus shelter with a faded timetable, a water pump and a golf bag chipped
+a bus shelter with a faded timetable reading "__text_departure__", a water pump and a golf bag chipped
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a temple bell and a laptop freshly polished
 a bird on a wire and a stack of lobster pots, a scaffolding of bamboo and a beach umbrella beside the sofa
 a stray dog sleeping, a stray dog sleeping and a vase of dried flowers hanging on the wall
@@ -2119,7 +2119,7 @@ a taxi rank, a wooden fence and a baseball bat on top of a cabinet
 a pile of coconuts, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a knitting basket hanging on the wall
 a hot-dog cart and a donkey cart, a goat tied to a rail and a wheelchair and a samovar by the door
 a stack of tyres, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a stepladder beside the sofa
-a cash machine and a war memorial, a statue on a plinth and a dustpan cracked
+a cash machine and a war memorial carved "__text_memorial__" __text_look_carved_stone__, a statue on a plinth and a dustpan cracked
 a fruit stall with crates, a wheelbarrow and a tent half hidden behind a curtain
 a pile of coconuts and a shrine with offerings, a church bell tower and some party balloons and a rain barrel on a shelf
 a vending machine glowing, a farm gate and a smart speaker and a bonsai by the door
@@ -2128,12 +2128,12 @@ a flower stall and a stone lantern, a stack of tyres and a desk lamp covered in 
 a cat on a wall and a farm gate, a pile of firewood and a stack of cardboard boxes faded
 a crate of live crabs and a delivery van parked at the kerb, a taxi rank and some hiking boots by the door
 a shrine with offerings and a row of colourful umbrellas, a row of colourful umbrellas and a telescope and a thermos flask on a low table
-a flower stall and a drainpipe with moss, a bin overflowing with leaflets and a punching bag well used
+a flower stall and a drainpipe with moss, a bin overflowing with leaflets reading "__text_flyer__" and a punching bag well used
 a bale of hay, a water pump and a candle holder in the corner
 a statue on a plinth, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a lantern and a birthday banner reading "HAPPY BIRTHDAY" in bright cut-out letters in need of repair
 a camel resting, a chained-up bike and a lava lamp and a fire extinguisher on the windowsill
 a bird on a wire and a donkey cart, a stone lantern and a bird cage glinting in the light
-a bin overflowing with leaflets, a statue on a plinth and a whiteboard freshly polished
+a bin overflowing with leaflets reading "__text_flyer__", a statue on a plinth and a whiteboard freshly polished
 a market umbrella and a shuttered shop front, a cat on a wall and a chalkboard glinting in the light
 a stone fountain and a row of colourful umbrellas, a row of parked scooters and a piñata and a hearing-aid case in the corner
 a food truck, a stray dog sleeping and a model aeroplane well used
@@ -2143,7 +2143,7 @@ a cart of oranges, a market scale and a bread bin of an old-fashioned design
 a flower stall, a stone lantern and a bird cage on top of a cabinet
 a bus stop sign reading "BUS STOP" in white letters on a blue plate, a donkey cart and a punching bag on a shelf
 a puddle, a donkey cart and some painted tiles of an old-fashioned design
-a war memorial, a cart of oranges and a pill organiser on a low table
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a cart of oranges and a pill organiser on a low table
 a mural, a rack of kebabs and a ship's wheel on the windowsill
 a stone fountain, a bale of hay and a fishing net in need of repair
 a phone box, a red lantern and some string lights freshly polished
@@ -2154,7 +2154,7 @@ a cat on a wall, a row of colourful umbrellas and a rolling pin and a helmet on 
 a stack of tyres, a street piano and a bicycle against the wall and a first-aid cabinet of an old-fashioned design
 a line of washing, a cash machine and a seven-branched menorah candelabrum on the floor
 a camel resting, a well with a bucket and a broom by the door
-a bus shelter with a faded timetable and a charcoal grill, a rickshaw waiting and a hearing-aid case hanging on the wall
+a bus shelter with a faded timetable reading "__text_departure__" and a charcoal grill, a rickshaw waiting and a hearing-aid case hanging on the wall
 a donkey cart and a spice stall, a puddle and a mask collection in the corner
 a minaret, a stack of lobster pots and a lava lamp on the floor
 a puddle and a well with a bucket, a cat on a wall and a dishwasher and a slide rule on the floor
@@ -2171,13 +2171,13 @@ a cash machine and a horse tied to a post, a row of recycling bins and a persian
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a clothesline between balconies, a pile of building materials and a toolbox brand new
 a fishing boat pulled up on the shore, a tram stop and a rain barrel of an old-fashioned design
 a temple bell and a goat tied to a rail, a lamppost with peeling paint and a bird cage covered in dust
-a bale of hay, a lighthouse in the distance and a mailbox glinting in the light
+a bale of hay, a lighthouse in the distance and a mailbox marked "POST" in white capitals glinting in the light
 a row of parked scooters and a bus stop sign reading "BUS STOP" in white letters on a blue plate, a row of parked scooters and a mop and bucket on top of a cabinet
 a pile of building materials, a stone lantern and a backpack freshly polished
 a lighthouse in the distance, a torii gate and a kite brand new
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a row of payphones, a parked bicycle and a first-aid cabinet on a low table
 a flag fluttering and a stack of woven baskets, a fruit stall with crates and an inflatable pool ring chipped
-a minaret, a mailbox and a stained-glass panel on a low table
+a minaret, a mailbox marked "POST" in white capitals and a stained-glass panel on a low table
 a clothesline between balconies and a street piano, a cat on a wall and a seven-branched menorah candelabrum on a shelf
 a satellite dish, a flag fluttering and a snorkel set half hidden behind a curtain
 a cat on a wall, a tuk-tuk and a blackboard eraser and a toy kitchen in need of repair
@@ -2189,7 +2189,7 @@ a handcart loaded with boxes, a parked bicycle and a blackboard eraser freshly p
 a camel resting and a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a stack of sandbags and some buoys glinting in the light
 a lamppost with peeling paint, a water pump and an antler rack on the floor
 a flag fluttering, a scaffolding of bamboo and a toy kitchen covered in dust
-a pile of coconuts and a rooftop water tank, a mailbox and some buoys and a mixing desk by the door
+a pile of coconuts and a rooftop water tank, a mailbox marked "POST" in white capitals and some buoys and a mixing desk by the door
 a stone wall and a chained-up bike, a camel resting and some paper lanterns brand new
 a drainpipe with moss, a market scale and a potted monstera freshly polished
 a manhole cover steaming, a puddle and a snorkel set by the door
@@ -2217,19 +2217,19 @@ a hot-dog cart, a line of washing and some lobster pots slightly crooked
 a pile of firewood, a bus stop sign reading "BUS STOP" in white letters on a blue plate and an acoustic guitar on the windowsill
 a hot-dog cart and a cash machine, a manhole cover steaming and a record cabinet faded
 a line of washing, a bale of hay and a cocktail shaker in need of repair
-a chained-up bike, a war memorial and an umbrella stand glinting in the light
+a chained-up bike, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and an umbrella stand glinting in the light
 a cracked pavement, a tram stop and a medicine cabinet of an old-fashioned design
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a fishing boat pulled up on the shore, a food truck and a Christmas tree on top of a cabinet
-a bin overflowing with leaflets and a prayer flag, a wheelbarrow and a spice rack and a flip chart by the door
+a bin overflowing with leaflets reading "__text_flyer__" and a prayer flag, a wheelbarrow and a spice rack and a flip chart by the door
 a stone fountain, a stack of sandbags and a fax machine chipped
 a parked bicycle and a church bell tower, a market scale and a robot vacuum on the windowsill
 a donkey cart, a stone fountain and a cactus on the sill chipped
-a mailbox and a vending machine glowing, a tram stop and an acoustic guitar chipped
+a mailbox marked "POST" in white capitals and a vending machine glowing, a tram stop and an acoustic guitar chipped
 a spice stall and a fruit stall with crates, a flag fluttering and a filing tray by the door
 a tuk-tuk and a wooden fence, a lamppost with peeling paint and a rain barrel slightly crooked
 a stack of woven baskets, a prayer flag and a treadmill brand new
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a satellite dish and a vase of fresh tulips on top of a cabinet
-a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a cart of oranges, a bin overflowing with leaflets and a ship in a bottle and a rocking horse of an old-fashioned design
+a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a cart of oranges, a bin overflowing with leaflets reading "__text_flyer__" and a ship in a bottle and a rocking horse of an old-fashioned design
 a cracked pavement, a fruit stall with crates and a vase of dried flowers and a coffee grinder in need of repair
 a fruit stall with crates, a cracked pavement and a medicine cabinet and a humidifier glinting in the light
 a stack of woven baskets, a rack of kebabs and a cooler bag beside the sofa
@@ -2246,18 +2246,18 @@ a cracked pavement, a pagoda roof and an inflatable pool ring and an alarm clock
 a row of payphones, a hot-dog cart and a clapperboard on the windowsill
 a fishing boat pulled up on the shore and a line of washing, a horse tied to a post and a reel-to-reel recorder and a fax machine hanging on the wall
 a market umbrella, a line of washing and a sandcastle bucket and an inflatable pool ring on the floor
-a drying rack of fish, a war memorial and a decanter and a full-length mirror faded
+a drying rack of fish, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a decanter and a full-length mirror faded
 a food truck, a horse tied to a post and a stapler on the windowsill
 a farm gate and a market clock, a stray dog sleeping and a skull-shaped ornament on the windowsill
 a drying rack of fish, a cart of oranges and some wellington boots of an old-fashioned design
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a drainpipe with moss and some binoculars of an old-fashioned design
 a tricycle taxi, a puddle and a spinning wheel and a seven-branched menorah candelabrum on a low table
 a rusty gate and a row of recycling bins, a donkey cart and an oxygen tank of an old-fashioned design
-a mailbox, a chained-up bike and a skull-shaped ornament and a cactus on the sill in need of repair
+a mailbox marked "POST" in white capitals, a chained-up bike and a skull-shaped ornament and a cactus on the sill in need of repair
 a taxi rank and a row of colourful umbrellas, a well with a bucket and a ship in a bottle cracked
 a roadside shrine and a drying rack of fish, a stray dog sleeping and a spider plant on a shelf on the floor
 a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a scaffolding of bamboo and some finger paints chipped
-a market scale, a bin overflowing with leaflets and some wind chimes well used
+a market scale, a bin overflowing with leaflets reading "__text_flyer__" and some wind chimes well used
 a drying rack of fish, a lamppost with peeling paint and a snorkel set hanging on the wall
 a well with a bucket, a tricycle taxi and a crochet blanket and a shag rug glinting in the light
 a food truck, a street piano and a dolls' house slightly crooked
@@ -2265,7 +2265,7 @@ a line of washing and a stone lantern, a cart of oranges and some salt and peppe
 a bale of hay, a torii gate and a filing tray in the corner
 a red lantern, a cart of oranges and a green screen covered in dust
 a food truck and a crate of live crabs, a rooftop water tank and some scatter cushions and a kettlebell on a low table
-a hot-dog cart, a bin overflowing with leaflets and a fishing rod faded
+a hot-dog cart, a bin overflowing with leaflets reading "__text_flyer__" and a fishing rod faded
 a lamppost with peeling paint and a newspaper kiosk with "__name_newspaper__" on the papers in its rack, a taxi rank and a laptop on the windowsill
 a pile of building materials and a pile of firewood, a row of recycling bins and a space heater and a humidifier by the door
 a pagoda roof, a water pump and some paper lanterns slightly crooked
@@ -2298,18 +2298,18 @@ a spice stall, a rickshaw waiting and a sewing machine glinting in the light
 a row of payphones, a torii gate and a violin on a stand in the corner
 a roadside shrine, a charcoal grill and a Tiffany lamp faded
 a flag fluttering and a food truck, a bale of hay and an espresso machine faded
-a shuttered shop front, a war memorial and a corkboard with notes freshly polished
+a shuttered shop front, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a corkboard with notes freshly polished
 a stone wall, a donkey cart and a grandfather clock beside the sofa
 a stone lantern, a rack of kebabs and a stapler on the windowsill
-a handcart loaded with boxes, a mailbox and a camera tripod cracked
+a handcart loaded with boxes, a mailbox marked "POST" in white capitals and a camera tripod cracked
 a cat on a wall and a rusty gate, a row of parked scooters and an oil painting on the floor
 a wooden bench, a pile of building materials and a ceramic bowl beside the sofa
 a market scale, a temple bell and a crossword puzzle brand new
 a torii gate, a pile of firewood and a knitting basket brand new
 a camel resting and a pile of firewood, a satellite dish and some building blocks and a projector glinting in the light
 a stack of tyres, a pile of coconuts and an office plant in need of repair
-a bin overflowing with leaflets, a puddle and an easel and a stack of cardboard boxes in the corner
-a horse tied to a post and a goat tied to a rail, a rickshaw waiting and a mailbox covered in dust
+a bin overflowing with leaflets reading "__text_flyer__", a puddle and an easel and a stack of cardboard boxes in the corner
+a horse tied to a post and a goat tied to a rail, a rickshaw waiting and a mailbox marked "POST" in white capitals covered in dust
 a cat on a wall, a cat on a wall and some wellington boots and a water cooler casting a soft light
 a water pump and a water pump, a bale of hay and a crochet blanket in need of repair
 a camel resting and a church bell tower, a tram stop and a golf bag cracked
@@ -2321,9 +2321,9 @@ a stone wall, a stack of lobster pots and a stack of cardboard boxes on a shelf
 a well with a bucket, a cat on a wall and a lantern on top of a cabinet
 a prayer flag and a market clock, a flock of pigeons and a wheelbarrow on top of a cabinet
 a row of parked scooters, a rooftop water tank and a world map and a slide projector by the door
-a war memorial, a minaret and some crab traps half hidden behind a curtain
+a war memorial carved "__text_memorial__" __text_look_carved_stone__, a minaret and some crab traps half hidden behind a curtain
 a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a stack of lobster pots and a lantern and a candle holder brand new
-a market umbrella and a wheelbarrow, a market umbrella and a stack of hardback books and an antler rack chipped
+a market umbrella and a wheelbarrow, a market umbrella and a stack of hardback books with spines reading "__name_book_title_any__" in small print and an antler rack chipped
 a satellite dish and a puddle, a row of payphones and some beer taps half hidden behind a curtain
 a satellite dish, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a rotary telephone and a quilt casting a soft light
 a well with a bucket, a scaffolding of bamboo and a teapot on top of a cabinet
@@ -2340,12 +2340,12 @@ a stack of woven baskets, a prayer flag and a mask collection faded
 a row of recycling bins and a busker's guitar case, a satellite dish and a ring light on a shelf
 a rickshaw waiting, a stack of lobster pots and a bee hotel and some binoculars on the floor
 a lamppost with peeling paint, a newspaper kiosk with "__name_newspaper__" on the papers in its rack and a teddy bear on the windowsill
-a stone wall and a crate of live crabs, a puddle and a row of paperbacks half hidden behind a curtain
+a stone wall and a crate of live crabs, a puddle and a row of paperbacks with spines reading "__name_book_title_any__" in small print half hidden behind a curtain
 a horse tied to a post, a pile of building materials and a copper kettle slightly crooked
 a hand-painted sign reading "__text_sign_english__" in __sign_lettering__, a row of colourful umbrellas and an oscillating fan slightly crooked
 a row of recycling bins and a shuttered shop front, a market scale and a brass globe faded
-a drying rack of fish and a stack of sandbags, a bus shelter with a faded timetable and a mixing desk covered in dust
-a pile of building materials, a bus shelter with a faded timetable and some building blocks and a smart speaker half hidden behind a curtain
+a drying rack of fish and a stack of sandbags, a bus shelter with a faded timetable reading "__text_departure__" and a mixing desk covered in dust
+a pile of building materials, a bus shelter with a faded timetable reading "__text_departure__" and some building blocks and a smart speaker half hidden behind a curtain
 a camel resting, a cracked pavement and a round wall mirror faded
 a prayer flag, a goat tied to a rail and some rowing oars on top of a cabinet
 a row of payphones and a stray dog sleeping, a clothesline between balconies and a chess set on a low table
@@ -2356,14 +2356,14 @@ a stack of lobster pots, a skateboard ramp and a bicycle against the wall chippe
 a camel resting, a lamppost with peeling paint and a clothes horse with laundry on a shelf
 a pagoda roof and a lamppost with peeling paint, a charcoal grill and a camera tripod freshly polished
 a torii gate, a scaffolding of bamboo and a hearing-aid case and a trunk in the corner
-a vending machine glowing, a bus shelter with a faded timetable and a cake stand and some finger paints in the corner
+a vending machine glowing, a bus shelter with a faded timetable reading "__text_departure__" and a cake stand and some finger paints in the corner
 a tram stop, a tram stop and a walking frame covered in dust
 a farm gate, a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__ and a neon sign in the corner
 a water pump, a water pump and a record player and a baseball bat covered in dust
 a stack of lobster pots, a vending machine glowing and a teacup collection and a beach umbrella half hidden behind a curtain
 a stack of tyres, a tuk-tuk and a watering can faded
 a pile of coconuts and a graffiti-covered shutter with "__text_graffiti_word__" sprayed across it __text_look_graffiti__, a temple bell and a transistor radio well used
-a tricycle taxi and a bin overflowing with leaflets, a bale of hay and a wheelbarrow glinting in the light
+a tricycle taxi and a bin overflowing with leaflets reading "__text_flyer__", a bale of hay and a wheelbarrow glinting in the light
 a pile of coconuts, a tram stop and a fishing rod and an espresso machine slightly crooked
 a goat tied to a rail and a stack of woven baskets, a wooden bench and a Tiffany lamp in the corner
 a cart of oranges, a market scale and a jigsaw puzzle on a table freshly polished
@@ -2382,7 +2382,7 @@ a wheelbarrow and a cash machine, a line of washing and a filing tray well used
 a shrine with offerings, a cracked pavement and some string lights on top of a cabinet
 a line of washing and a red lantern, a food truck and a cooler box well used
 a row of payphones and a stone fountain, a row of parked scooters and a laptop chipped
-a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a bin overflowing with leaflets, a minaret and a toolbox covered in dust
+a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and a bin overflowing with leaflets reading "__text_flyer__", a minaret and a toolbox covered in dust
 a line of washing and a crate of live crabs, a street piano and a desktop computer of an old-fashioned design
 a flock of pigeons and a row of colourful umbrellas, a lighthouse in the distance and some rowing oars hanging on the wall
 a camel resting, a fruit stall with crates and a shag rug cracked
@@ -2403,28 +2403,28 @@ a manhole cover steaming, a well with a bucket and a spinning wheel on a low tab
 a stone lantern, a hand-painted sign reading "__text_sign_english__" in __sign_lettering__ and an anchor brand new
 a row of colourful umbrellas, a mural and an adding machine faded
 a satellite dish and a stack of tyres, a rickshaw waiting and an exercise bike chipped
-a rusty gate and a farm gate, a wheelbarrow and a stack of hardback books of an old-fashioned design
+a rusty gate and a farm gate, a wheelbarrow and a stack of hardback books with spines reading "__name_book_title_any__" in small print of an old-fashioned design
 a bird on a wire and a skateboard ramp, a torii gate and a macramé hanging on a shelf
-a taxi rank and a shrine with offerings, a donkey cart and a cocktail shaker and a reading glasses on a book chipped
+a taxi rank and a shrine with offerings, a donkey cart and a cocktail shaker and a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover, chipped
 a cart of oranges and a row of recycling bins, a plastic stool beside a stall and a washing machine cracked
 a delivery van parked at the kerb and a bird on a wire, a rack of kebabs and a compass on the floor
 a rickshaw waiting, a torii gate and a clapperboard brand new
 a food truck, a scaffolding of bamboo and a stack of vinyl records well used
 a handcart loaded with boxes and a bird on a wire, a rusty gate and some buoys beside the sofa
-a bin overflowing with leaflets, a lamppost with peeling paint and a printer well used
-a bus shelter with a faded timetable, a row of payphones and a reel-to-reel recorder on the floor
+a bin overflowing with leaflets reading "__text_flyer__", a lamppost with peeling paint and a printer well used
+a bus shelter with a faded timetable reading "__text_departure__", a row of payphones and a reel-to-reel recorder on the floor
 a charcoal grill and a pile of firewood, a hot-dog cart and a spinning wheel on the windowsill
-a stack of lobster pots, a statue on a plinth and a reading glasses on a book by the door
+a stack of lobster pots, a statue on a plinth and a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover by the door
 a row of recycling bins, a rooftop water tank and a tent on the windowsill
 a rack of kebabs and a water pump, a bird on a wire and a punching bag and some string lights of an old-fashioned design
-a war memorial and a torii gate, a tram stop and a CRT monitor on top of a cabinet
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a torii gate, a tram stop and a CRT monitor on top of a cabinet
 a torii gate, a tuk-tuk and a basketball on the windowsill
-a taxi rank and a pile of building materials, a bus shelter with a faded timetable and a mortar and pestle in need of repair
+a taxi rank and a pile of building materials, a bus shelter with a faded timetable reading "__text_departure__" and a mortar and pestle in need of repair
 a parked bicycle, a farm gate and an electric kettle glinting in the light
 a water pump and a flock of pigeons, a crate of live crabs and some lobster pots on top of a cabinet
-a bale of hay and a market umbrella, a wheelbarrow and a mailbox freshly polished
+a bale of hay and a market umbrella, a wheelbarrow and a mailbox marked "POST" in white capitals freshly polished
 a minaret, a bus stop sign reading "BUS STOP" in white letters on a blue plate and a samovar in need of repair
-a roadside shrine, a war memorial and a decanter and some salt and pepper mills beside the sofa
+a roadside shrine, a war memorial carved "__text_memorial__" __text_look_carved_stone__ and a decanter and some salt and pepper mills beside the sofa
 a lighthouse in the distance, a market clock and a stand mixer brand new
 a taxi rank, a cat on a wall and a printer in need of repair
 a stack of woven baskets, a manhole cover steaming and a snorkel set on a shelf
@@ -2436,12 +2436,12 @@ a shrine with offerings, a bird on a wire and an embroidery hoop in need of repa
 a row of parked scooters, a market clock and some colouring books cracked
 a wheelbarrow, a pile of coconuts and a drum kit covered in dust
 a horse tied to a post and a tram stop, a cat on a wall and a shag rug slightly crooked
-a statue on a plinth, a delivery van parked at the kerb and a clothes horse with laundry and a mailbox on the windowsill
+a statue on a plinth, a delivery van parked at the kerb and a clothes horse with laundry and a mailbox marked "POST" in white capitals on the windowsill
 a cracked pavement, a torii gate and a pill organiser well used
 a tram stop, a torii gate and a stapler of an old-fashioned design
 a fruit stall with crates, a wooden bench and a washing machine on a low table
 a stone lantern and a bale of hay, a row of recycling bins and a hourglass freshly polished
-a stack of lobster pots and a stray dog sleeping, a mailbox and a Buddha figurine on a shelf
+a stack of lobster pots and a stray dog sleeping, a mailbox marked "POST" in white capitals and a Buddha figurine on a shelf
 a handcart loaded with boxes, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and an anchor glinting in the light
 a plastic stool beside a stall and a rickshaw waiting, a donkey cart and an ironing board of an old-fashioned design
 a drying rack of fish and a plastic stool beside a stall, a pile of building materials and a radiator casting a soft light
@@ -2453,15 +2453,15 @@ a cat on a wall, a row of parked scooters and an alarm clock in the corner
 a vending machine glowing, a cracked pavement and an upright piano on a low table
 a shuttered shop front, a clothesline between balconies and a rolling pin glinting in the light
 a market umbrella, a street piano and a wall clock hanging on the wall
-a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a war memorial, a row of payphones and a reading glasses on a book freshly polished
-a bus shelter with a faded timetable, a drainpipe with moss and a table lamp beside the sofa
+a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a war memorial carved "__text_memorial__" __text_look_carved_stone__, a row of payphones and a reading glasses on a book freshly polished
+a bus shelter with a faded timetable reading "__text_departure__", a drainpipe with moss and a table lamp beside the sofa
 a tuk-tuk, a chalk-written menu board listing __text_menu_item__ __text_look_chalk__ and a mailbox faded
 a row of parked scooters, a skateboard ramp and an embroidery hoop hanging on the wall
 a stack of woven baskets, a manhole cover steaming and a pill organiser glinting in the light
 a handcart loaded with boxes, a chained-up bike and a lantern freshly polished
 a vending machine glowing and a market umbrella, a row of parked scooters and a grandfather clock hanging on the wall
 a fruit stall with crates and a taxi rank, a manhole cover steaming and a ceiling fan well used
-a parked bicycle and a row of parked scooters, a bus shelter with a faded timetable and a blackboard eraser beside the sofa
+a parked bicycle and a row of parked scooters, a bus shelter with a faded timetable reading "__text_departure__" and a blackboard eraser beside the sofa
 a vending machine glowing, a crate of live crabs and a bicycle against the wall slightly crooked
 a pile of firewood, a cat on a wall and a brass globe and a birthday banner reading "HAPPY BIRTHDAY" in bright cut-out letters brand new
 a church bell tower, a clothesline between balconies and a toaster casting a soft light
@@ -2475,7 +2475,7 @@ a flock of pigeons, a cracked pavement and a dreamcatcher slightly crooked
 a scaffolding of bamboo and a stone wall, a line of washing and a mixing desk by the door
 a shuttered shop front, a row of colourful umbrellas and a globe bar on a shelf
 a roadside shrine and a rooftop water tank, a taxi rank and a samovar beside the sofa
-a chained-up bike and a food truck, a rusty gate and a mailbox brand new
+a chained-up bike and a food truck, a rusty gate and a mailbox marked "POST" in white capitals brand new
 a hot-dog cart, a donkey cart and a teapot on a low table
 a vending machine glowing, a rickshaw waiting and a board game half hidden behind a curtain
 a farm gate and a drying rack of fish, a temple bell and a chess set and a tablet on a stand on a low table

@@ -4,7 +4,7 @@ reclining on a sofa, in a deliberate posed moment
 leaning on a table, in a relaxed way
 sitting on a log, in mid-motion
 carrying an umbrella, at rest
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 praying, while looking away
 reaching to the side, with graceful posture
 cooking, with graceful posture
@@ -176,7 +176,7 @@ stepping off a curb, with a slight smile
 clapping, with a calm air
 stretching to the side, in a deliberate posed moment
 holding a plank
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 leaning on a fence
 yawning, while looking into the distance
 standing on a balcony, with quiet confidence
@@ -213,7 +213,7 @@ sitting on a log, with energy
 standing relaxed with arms crossed
 pausing mid-step, with a casual attitude
 resting a chin on a fist, with a calm air
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 leaning on a railing, with careful balance
 standing with feet apart, with quiet confidence
 standing with feet together, with careful balance

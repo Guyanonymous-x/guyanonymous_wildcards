@@ -159,7 +159,7 @@ a folding changing bench
 a book nook bench
 benches
 a bench with a vice
-a bench with a memorial plaque
+a bench with a memorial plaque reading "IN MEMORY OF __name_first_world__ __name_surname_world__" __text_look_brass__
 a bench under a window
 a bench with a dent in the middle
 a bench or two
@@ -238,8 +238,8 @@ benches and shelters
 benches for redressing
 a reclaim bench on the far side
 the inadequate bench on the far side
-a pallet- bench with a memorial plaque screwed to it
-benches with memorial plaques
+a pallet- bench with a memorial plaque reading "IN MEMORY OF __name_first_world__ __name_surname_world__" __text_look_brass__ screwed to it
+benches with memorial plaques reading "IN MEMORY OF __name_first_world__ __name_surname_world__" __text_look_brass__
 the memorial benches with their plaques
 benches for adults
 benches on one side
@@ -327,7 +327,7 @@ bench or separate leather seats with no headrests
 a rear bench and a facing pair of tip-up seats
 a rear bench and two tip-up seats facing it so five can travel and look at each other
 a molded rear bench with no door releases
-a rear bench in molded plastic with a sweet wrapper and a cable tie fragment in the seam
+a rear bench in molded plastic with a sweet wrapper printed "__name_brand_upper__" __text_look_print__ and a cable tie fragment in the seam
 a three-seat bench with the middle one folded into a desk
 a three-seat bench with a folding middle
 a cab bench with a folding middle

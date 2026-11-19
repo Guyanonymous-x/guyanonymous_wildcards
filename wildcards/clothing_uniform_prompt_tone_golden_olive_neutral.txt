@@ -299,7 +299,7 @@ a cheese rolling competitor, dressed in a padded jumper with shorts, with golden
 a chess club champion (club), in a blazer with a club badge and trousers and shoes, with golden olive skin
 a chimney sweep, dressed in a soot-covered coat and a top hat with trousers, with golden olive skin
 a chocolatier (shop), in a white jacket with a hat and a cap, with golden olive skin
-a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes and carrying a hymn book, with golden olive skin
+a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes and carrying a hymn book with "__text_hymn_book__" in gold letters on the cover, the rest of the cover plain, with golden olive skin
 a circus ringmaster (circus), wearing a red tailcoat with gold braid, riding trousers, a top hat and tall boots and carrying a whip, with golden olive skin
 a clockmaker (steampunk), wearing a leather apron with loupe, trousers, a loupe and boots and carrying tiny tools, with golden olive skin
 a clown, dressed in a polka-dot jumpsuit with a huge bow tie with baggy trousers, with golden olive skin
@@ -429,7 +429,7 @@ a mutant wanderer (wasteland), wearing a ragged cloak over a tattered shirt, a h
 a necromancer (fantasy), in a tattered black robe with bone clasps and a hooded cloak and boots, with golden olive skin
 a neon street samurai (cyberpunk), wearing a glowing trench coat, trousers, a visor and boots and carrying a monofilament sword, with golden olive skin
 a news anchor (studio), in a tailored jacket and blouse or shirt and tie and shoes, with golden olive skin
-a newspaper vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots and carrying a stack of papers, with golden olive skin
+a newspaper vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots and carrying a stack of papers, the top front page headed "__name_newspaper__" with "__text_headline__" __text_look_headline__, the rest of the page one large photo, with golden olive skin
 a night vigilante (superhero), wearing a charcoal hooded armoured jacket with a short cape, a half mask and boots and carrying a grappling line, with golden olive skin
 a ninja (cosplay), in a black wrap tunic and a hood and mask, with golden olive skin
 a ninja clan leader (anime-inspired), wearing a dark robe with a mask and scarf, trousers, a headband and sandals, with golden olive skin
@@ -448,7 +448,7 @@ a plumber (call-out), in a work shirt and a knee-padded trouser set and a cap, w
 a polo player (polo), wearing a team jersey, white breeches, a helmet and tall boots, with golden olive skin
 a possessed doll (horror), wearing a lace dress with cracked porcelain makeup and ringlets, with golden olive skin
 a post-apocalyptic scavenger (dystopian), in patched armour of scrap and leather and ragged trousers and boots, with golden olive skin
-a postal worker (city), wearing a uniform shirt with a bag across the body, shorts, a pith helmet and shoes and carrying letters, with golden olive skin
+a postal worker (city), wearing a uniform shirt with a bag across the body, shorts, a pith helmet and shoes and carrying letters addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of each envelope plain, with golden olive skin
 a potter (studio), wearing a clay-stained apron over a loose shirt, trousers and clogs, with golden olive skin
 a prison guard, dressed in a pale blue shirt with a duty belt with dark trousers, with golden olive skin
 a pullman porter (1930s), wearing a double-breasted jacket with brass buttons, trousers, a peaked cap and black shoes, with golden olive skin
@@ -521,7 +521,7 @@ a terraforming botanist (sci-fi), in an olive coverall with a seed pouch and a v
 a three-piece suit wearer, dressed in a pinstripe jacket and waistcoat with a watch chain, a shirt and a tie with suit trousers, with golden olive skin
 a thunder god, dressed in a hammer belt and a cape, with golden olive skin
 a tin man robot, dressed in a metal funnel hat and silver chest piece with silver trousers, with golden olive skin
-a tour guide, dressed in a branded polo and a flag with shorts, with golden olive skin
+a tour guide, dressed in a branded polo with "__name_brand_upper__" on the chest and a flag with shorts, with golden olive skin
 a town crier, dressed in a red and gold coat with breeches, with golden olive skin
 a town mascot cow (farm), in a black and white cow suit and hooves, with golden olive skin
 a traffic officer (road), wearing a high-visibility jacket with white gloves, dark trousers, a reflective cap and boots, with golden olive skin
@@ -535,7 +535,7 @@ a vaquero (Mexico), in a short bolero jacket and embroidered trousers and boots,
 a vaudeville performer (stage), wearing a striped blazer with a straw boater, white trousers, a straw boater and spats and carrying a cane, with golden olive skin
 a veterinarian (clinic), wearing a patterned scrub top with a stethoscope and a cat-print lab coat, scrub trousers and work shoes, with golden olive skin
 a waiter (restaurant), wearing a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, with golden olive skin
-a walking sandwich board seller (street), wearing a hot dog costume with a sandwich board and shoes, with golden olive skin
+a walking sandwich board seller (street), wearing a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, with golden olive skin
 a wandering monster slayer (fantasy), wearing a worn leather jerkin with strapped vials, trousers and boots and carrying a steel sword, with golden olive skin
 a warehouse picker (logistics), in a high-visibility vest and a scanner on the wrist and work trousers and safety shoes, with golden olive skin
 a wasteland raider (wasteland), wearing spiked shoulder pads over bare arms, torn trousers, a skull mask and boots, with golden olive skin

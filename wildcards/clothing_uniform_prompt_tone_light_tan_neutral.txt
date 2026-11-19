@@ -138,12 +138,12 @@ A person dressed as a sword swallower (sideshow), which is a sparkling waistcoat
 A person dressed as a tavern keeper (fantasy), which is an apron over a rolled-sleeve shirt, trousers and boots, with light tan skin
 A person dressed as a tennis player (Wimbledon), which is a white polo shirt, white shorts, a headband and white shoes, with light tan skin
 A person dressed as a thunder god (myth), which is a hammer belt and a cape, a winged helm and boots, with light tan skin
-A person dressed as a tour guide (city), which is a branded polo and a flag, shorts, a sun hat and trainers, with light tan skin
+A person dressed as a tour guide (city), which is a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, with light tan skin
 A person dressed as a town crier (England), which is a red and gold coat, breeches, a tricorn and buckled shoes, with light tan skin
 A person dressed as a traffic officer (road), which is a high-visibility jacket with white gloves, dark trousers, a reflective cap and boots, with light tan skin
 A person dressed as a veterinarian (clinic), which is a patterned scrub top with a stethoscope and a cat-print lab coat, scrub trousers and work shoes, with light tan skin
 A person dressed as a waiter (restaurant), which is a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, with light tan skin
-A person dressed as a walking sandwich board seller (street), which is a hot dog costume with a sandwich board and shoes, with light tan skin
+A person dressed as a walking sandwich board seller (street), which is a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, with light tan skin
 A person dressed as a white-tie tailcoat wearer (white tie), which is a black tailcoat, a white starched waistcoat and a white bow tie, black trousers with braid and patent shoes, with light tan skin
 A person dressed as a winter queen (folklore), which is an ice-white gown with fur and a frost crown, with light tan skin
 A person dressed as an Army field medic (modern military), camouflage combat shirt with a red cross patch and body armour, combat trousers, a helmet with a red cross and combat boots, with light tan skin

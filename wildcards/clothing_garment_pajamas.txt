@@ -1,12 +1,12 @@
 modern jersey piped pyjama set
 cabin velour cotton pyjamas
-modal drawstring pyjama trousers with monogram on the pocket
+modal drawstring pyjama trousers with monogram "__name_initials__" on the pocket
 waffle knit bedroom pyjama jumpsuit with drawstring waist
 silk waffle-knit loungewear set
 contemporary shorts pyjama set
 sleep mask and pyjama set
 1940s linen flannel pyjamas
-bamboo gingham pyjamas with monogram on the pocket
+bamboo gingham pyjamas with monogram "__name_initials__" on the pocket
 luxurious bedsocks with tiny polka dots
 modern waffle-knit loungewear set with tiny polka dots
 terry loungewear set with drawstring waist
@@ -31,7 +31,7 @@ notch-collar pyjamas with tiny polka dots
 bamboo sleep joggers and tee
 terry loungewear set
 flannel pyjamas with drawstring waist
-Oriental-style pyjama set
+Chinese-style pyjama set with a mandarin collar and knotted frog fastenings
 terry cloth strappy satin pyjama set
 timeless 1970s palazzo lounge pyjamas
 luxurious thermal knit thermal pyjama set
@@ -41,7 +41,7 @@ contemporary jersey flannel pyjamas
 flannel pyjamas
 satin pyjama set
 1940s lace-trimmed pyjama set
-1960s henley pyjama set with monogram on the pocket
+1960s henley pyjama set with monogram "__name_initials__" on the pocket
 classic bamboo velour loungewear set
 Soviet-era cotton silk pyjama set
 retro plaid pyjamas
@@ -60,7 +60,7 @@ terry cloth plaid pyjamas with side stripes
 futuristic drawstring pyjama trousers
 1930s lounging pyjamas with contrast piping
 button-up pyjama set with elastic waist
-Oriental-style pyjama set with cropped fit
+Chinese-style pyjama set with a mandarin collar, knotted frog fastenings and cropped fit
 bedsocks with contrast piping
 Chinese-collar pyjamas with elastic waist
 lounge gingham pyjamas with drawstring waist
@@ -68,7 +68,7 @@ heritage striped pyjamas
 heritage terry cloth waffle-knit loungewear set
 futuristic satin sleep mask and pyjama set
 jersey drawstring pyjama trousers
-cabin Chinese-collar pyjamas with monogram on the pocket
+cabin Chinese-collar pyjamas with monogram "__name_initials__" on the pocket
 poplin terry loungewear set
 strappy satin pyjama set
 luxurious kimono-sleeve sleep set with button placket
@@ -99,7 +99,7 @@ thermal knit sleep mask and pyjama set with fleece lining
 waffle knit 1970s palazzo lounge pyjamas
 seersucker notch-collar pyjamas
 cosy shorts pyjama set
-1950s cotton pyjamas with monogram on the pocket
+1950s cotton pyjamas with monogram "__name_initials__" on the pocket
 retro cotton bedroom pyjama jumpsuit
 plaid pyjamas with cropped fit
 vintage bed jacket and nightgown set with scalloped hem
@@ -121,11 +121,11 @@ short-sleeved pyjama set with long trousers with contrast piping
 polka-dot pyjamas
 1960s matching sweatshirt and pant set with lace trim
 1930s lounging pyjamas with elastic waist
-modern polka-dot pyjamas with monogram on the pocket
+modern polka-dot pyjamas with monogram "__name_initials__" on the pocket
 hotel-style thermal knit sleep mask and pyjama set
 silk pyjama set
 contemporary cotton pyjamas
-poplin Oriental-style pyjama set with relaxed fit
+poplin Chinese-style pyjama set with a mandarin collar, knotted frog fastenings and relaxed fit
 cabin fleece terry loungewear set
 relaxed striped pyjamas with lace trim
 futuristic satin pyjama set with cropped fit
@@ -137,7 +137,7 @@ lounge flannel cropped sleep top and shorts
 satin bedsocks
 nightcap and pyjama set with tie waist
 button-up pyjama set with drawstring waist
-vintage matching sweatshirt and pant set with monogram on the pocket
+vintage matching sweatshirt and pant set with monogram "__name_initials__" on the pocket
 velour nightcap and pyjama set
 1980s henley pyjama set
 jersey sleep mask and pyjama set
@@ -171,7 +171,7 @@ cotton terry loungewear set
 jersey pyjama set with contrast piping
 1950s linen satin pyjama set
 poplin drawstring pyjama trousers with tie waist
-silk camisole and shorts set with monogram on the pocket
+silk camisole and shorts set with monogram "__name_initials__" on the pocket
 henley pyjama set with lace trim
 short-sleeved pyjama set with long trousers with fleece lining
 1960s silk cropped sleep top and shorts
@@ -205,7 +205,7 @@ velour loungewear set with stars and moons print
 bedroom pyjama jumpsuit with elastic waist
 shorts pyjama set
 cotton pyjamas
-fleece Oriental-style pyjama set with tiny polka dots
+fleece Chinese-style pyjama set with a mandarin collar, knotted frog fastenings and tiny polka dots
 boxer-style sleep shorts
 timeless gingham pyjamas
 bamboo silk pyjama set with ruffle trim

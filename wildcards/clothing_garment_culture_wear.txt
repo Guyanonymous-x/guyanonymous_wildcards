@@ -84,7 +84,7 @@
 1940s ballistic nylon patched denim jacket
 1940s bandana headband and braided-belt set
 1940s bandana headband and braided-belt set with contrast piping
-1940s bandana headband and braided-belt set with embroidered cursive script
+1940s bandana headband and braided-belt set with embroidered cursive script reading "__name_first_world__"
 1940s bolero and gaucho pants with a pocket handkerchief
 1940s brocade painted-denim jacket with murals
 1940s brocade waistcoat and fedora
@@ -116,7 +116,7 @@
 1940s lowrider-style hat and suspenders
 1940s lowrider-style hat and suspenders with suspenders
 1940s one-piece racing leathers
-1940s pachuco drape coat with embroidered cursive script
+1940s pachuco drape coat with embroidered cursive script reading "__name_first_world__"
 1940s padded riding jacket with armour panels
 1940s padded riding jacket with armour panels with a fringed back yoke
 1940s painted-denim jacket with murals
@@ -126,7 +126,7 @@
 1940s pin-up halter playsuit with oversized lapels
 1940s polka-dot cotton two-tone saddle shoes outfit
 1940s pressed khaki trousers and a crisp white tee with chain wallet details
-1940s pressed pleated trousers with a cuff with embroidered cursive script
+1940s pressed pleated trousers with a cuff with embroidered cursive script reading "__name_first_world__"
 1940s rayon crepe jitterbug rayon dress
 1940s rayon crepe pachuco-style drape jacket and pleated trousers
 1940s riding cape and goggles set
@@ -135,7 +135,7 @@
 1940s satin pachuco-style drape jacket and pleated trousers
 1940s sharkskin jitterbug rayon dress
 1940s sharkskin watch-chain-and-fob suit set
-1940s sleeveless denim cut-off vest with club patches with reflective piping
+1940s sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with reflective piping
 1940s starched cotton brocade waistcoat and fedora
 1940s stud-and-chain harness with reflective piping
 1940s suede riding cape and goggles set
@@ -185,7 +185,7 @@
 1950s flannel shirt and work trousers with a rope-laced side
 1950s flannel shirt and work trousers with a studded belt
 1950s flannel shirt buttoned only at the collar
-1950s flannel shirt buttoned only at the collar with embroidered cursive script
+1950s flannel shirt buttoned only at the collar with embroidered cursive script reading "__name_first_world__"
 1950s gingham sleeveless denim jacket with a back patch
 1950s gingham teddy-style drape coat and brocade waistcoat
 1950s hand-knit poncho and tapered trousers
@@ -210,7 +210,7 @@
 1950s pressed khaki trousers and a crisp white tee
 1950s pressed khaki trousers and a crisp white tee with a rope belt
 1950s pressed pleated trousers with a cuff
-1950s pressed pleated trousers with a cuff with embroidered cursive script
+1950s pressed pleated trousers with a cuff with embroidered cursive script reading "__name_first_world__"
 1950s raw selvedge denim leather motorcycle jacket and cuffed raw denim jeans
 1950s raw selvedge denim poodle skirt and cardigan set
 1950s raw silk striped boat-neck jersey and beret outfit
@@ -222,7 +222,7 @@
 1950s rockabilly polka-dot swing dress
 1950s satin lowrider-style hat and suspenders
 1950s satin poodle skirt and cardigan set
-1950s sleeveless denim cut-off vest with club patches
+1950s sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 1950s slim black capri pants and ballet flats outfit
 1950s slim black capri pants and ballet flats outfit with frayed cuffs
 1950s striped boat-neck jersey and beret outfit
@@ -247,7 +247,7 @@
 1960s beaded leather moccasin outfit with mirror work
 1960s brocade embroidered vintage souvenir jacket
 1960s brocade waistcoat and fedora
-1960s brocade waistcoat and fedora with embroidered cursive script
+1960s brocade waistcoat and fedora with embroidered cursive script reading "__name_first_world__"
 1960s brushed cotton padded riding jacket with armour panels
 1960s button-down shirt and braces
 1960s chelsea boots and cropped trousers
@@ -283,7 +283,7 @@
 1960s khaki twill cropped bomber jacket and high-waisted pants
 1960s knit jersey two-tone ska-style suit
 1960s knit jersey white go-go boots and PVC mini dress
-1960s leather chaps over jeans with club patches
+1960s leather chaps over jeans with club patches reading "__text_club_patch__"
 1960s leather chaps over jeans with zippered cuffs
 1960s macramé vest
 1960s mesh crop top with rhinestones
@@ -295,7 +295,7 @@
 1960s op-art print shift dress
 1960s op-art print shift dress with patch pockets
 1960s pachuco drape coat
-1960s pachuco drape coat with embroidered cursive script
+1960s pachuco drape coat with embroidered cursive script reading "__name_first_world__"
 1960s padded riding jacket with armour panels
 1960s padded riding jacket with armour panels with a chain at the hip
 1960s paisley velvet hand-knit cardigan and headband
@@ -314,8 +314,8 @@
 1960s sequin fabric macramé halter top and wide trousers
 1960s shift mini dress with geometric colour blocks
 1960s shift mini dress with geometric colour blocks with target-roundel patches
-1960s sleeveless denim cut-off vest with club patches with a quilted shoulder
-1960s sleeveless denim cut-off vest with club patches with club patches
+1960s sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a quilted shoulder
+1960s sleeveless denim cut-off vest with club patches with club patches reading "__text_club_patch__"
 1960s slim three-button suit with narrow lapels
 1960s slim three-button suit with narrow lapels with a zip-front collar
 1960s slim three-button suit with narrow lapels with bold geometric panels
@@ -422,7 +422,7 @@
 1970s padded riding jacket with armour panels
 1970s painted-denim jacket with murals
 1970s painted-denim jacket with murals with a rope belt
-1970s painted-denim jacket with murals with embroidered cursive script
+1970s painted-denim jacket with murals with embroidered cursive script reading "__name_first_world__"
 1970s paisley velvet fringed suede vest
 1970s patched denim flower-embroidered denim jacket
 1970s patched denim macramé vest
@@ -439,7 +439,7 @@
 1970s rhinestone-covered corset gown
 1970s riding cape and goggles set with a quilted shoulder
 1970s riding cape and goggles set with a studded belt
-1970s ripped band t-shirt and tartan bondage trousers
+1970s ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 1970s ripped denim safety-pin-held shirt
 1970s ripped fishnet bodystocking under a torn dress with patches stitched crooked
 1970s ruffled peacock-collar shirt
@@ -484,7 +484,7 @@
 1970s ska revival wool skinhead braces-and-boots outfit
 1970s ska revival wool slim three-button suit with narrow lapels
 1970s ska revival wool target-roundel sweater
-1970s sleeveless denim cut-off vest with club patches with a chain at the hip
+1970s sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a chain at the hip
 1970s spandex clingy metallic disco pants
 1970s spandex feather boa and sequin bodysuit
 1970s spandex glitter body-suit with flared sleeves
@@ -495,7 +495,7 @@
 1970s stud-and-chain harness with a fringed back yoke
 1970s studded leather vest with deliberate rips
 1970s suede padded riding jacket with armour panels
-1970s suede sleeveless denim cut-off vest with club patches
+1970s suede sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 1970s sunset-print kaftan
 1970s tie-dye kaftan
 1970s tie-dye kaftan with flared hems
@@ -673,8 +673,8 @@
 1980s revival wide-lapel velvet suit with star-shaped sequins
 1980s revival wrap jersey disco dress with a bare midriff cut
 1980s rhinestone-covered corset gown with bold shoulder pieces
-1980s ripped band t-shirt and tartan bondage trousers
-1980s ripped band t-shirt and tartan bondage trousers with bondage straps
+1980s ripped band t-shirt printed "__name_band__" and tartan bondage trousers
+1980s ripped band t-shirt printed "__name_band__" and tartan bondage trousers with bondage straps
 1980s ripped denim hand-painted battle vest
 1980s ripped denim painted work boots outfit
 1980s ripped denim plaid kilt and mesh top
@@ -694,7 +694,7 @@
 1980s ski jacket in bold panels
 1980s skull-print leggings and a mesh top
 1980s skull-print leggings and a mesh top with fishnet panels
-1980s sleeveless denim cut-off vest with club patches with a rope-laced side
+1980s sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a rope-laced side
 1980s sparkle mesh feathered desert showgirl outfit
 1980s spiked collar and studded wristbands set with spiderweb lace
 1980s starched cotton pressed pleated trousers with a cuff
@@ -745,8 +745,8 @@
 1990s baggy denim jumpsuit
 1990s baggy denim jumpsuit with drawstring hoods
 1990s baggy denim jumpsuit with oversized pockets
-1990s baggy ripped jeans and band tee with hand-sewn patches
-1990s baggy ripped jeans and band tee with skate-sticker patches
+1990s baggy ripped jeans and band tee printed "__name_band__" with hand-sewn patches
+1990s baggy ripped jeans and band tee printed "__name_band__" with skate-sticker patches
 1990s bandana headband and braided-belt set with heavy pressed creases
 1990s bat-wing sleeve top
 1990s big puffy jacket with a fur hood with a heavy zipper
@@ -886,7 +886,7 @@
 1990s reflective nylon neon UV-reactive crop top
 1990s reflective nylon oversized baggy rave pants with reflective tape
 1990s ringer tee and slim work pants
-1990s ripped band t-shirt and tartan bondage trousers
+1990s ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 1990s ripped denim ripped fishnet bodystocking under a torn dress
 1990s safety-pin-held shirt
 1990s safety-pin-held shirt with a ripped sleeve
@@ -895,7 +895,7 @@
 1990s satin pressed pleated trousers with a cuff
 1990s sheer mesh shirt with sequin trim
 1990s shell-necklace-and-hemp outfit
-1990s skate hoodie and baggy cargo shorts with skate-sticker patches
+1990s skate hoodie and baggy cargo shorts with skate-sticker patches reading "__name_brand_upper__" in bold print
 1990s ski jacket in bold panels with bold block colours
 1990s skinny jeans and studded belt outfit
 1990s smiley-print tank and phat pants
@@ -906,7 +906,7 @@
 1990s stripy wild-colour tights and a tutu
 1990s studded leather vest
 1990s tartan mohair sweater with holes
-1990s thermal knit baggy ripped jeans and band tee
+1990s thermal knit baggy ripped jeans and band tee printed "__name_band__"
 1990s thrift-store dress and tights
 1990s torn cotton zippered bondage pants with straps
 1990s track jacket and wide-leg joggers
@@ -938,8 +938,8 @@
 2000s PVC rainbow faux fur boots and bikini
 2000s baggy denim jumpsuit
 2000s baggy jeans and a heavy graphic tee
-2000s baggy ripped jeans and band tee with mismatched buttons
-2000s baggy ripped jeans and band tee with stretched-out knit
+2000s baggy ripped jeans and band tee printed "__name_band__" with mismatched buttons
+2000s baggy ripped jeans and band tee printed "__name_band__" with stretched-out knit
 2000s beaded-and-charm-heavy tank top
 2000s beaded-and-charm-heavy tank top with a rhinestone zip pull
 2000s big puffy jacket with a fur hood
@@ -953,7 +953,7 @@
 2000s bold geometric mesh dress with holographic stripes
 2000s brocade layered tulle petticoat skirt
 2000s bucket hat and puffer vest outfit
-2000s canvas striped arm warmers and a band tee
+2000s canvas striped arm warmers and a band tee printed "__name_band__"
 2000s canvas thermal henley under a slip dress
 2000s canvas work jacket and beanie with hand-sewn patches
 2000s cardigan and slim corduroy trousers with torn hems
@@ -1209,7 +1209,7 @@
 2010s stick-on gem face-and-body adornments set
 2010s stretch denim black hoodie with graphic patches
 2010s stretch denim checkerboard slip-ons outfit
-2010s stretch denim striped arm warmers and a band tee
+2010s stretch denim striped arm warmers and a band tee printed "__name_band__"
 2010s stripy wild-colour tights and a tutu
 2010s stripy wild-colour tights and a tutu with neon outlines
 2010s stripy wild-colour tights and a tutu with rhinestone-encrusted trim
@@ -1285,16 +1285,16 @@
 2020s rainbow faux fur boots and bikini with fluffy fur trim
 2020s rainbow sequin gown
 2020s reflective vest and cargo trousers
-2020s revival baggy ripped jeans and band tee
+2020s revival baggy ripped jeans and band tee printed "__name_band__"
 2020s revival canvas combat boots and floral babydoll dress outfit
 2020s revival canvas work jacket and beanie
 2020s revival cardigan and slim corduroy trousers with chunky wristbands
 2020s revival checkerboard slip-ons outfit
 2020s revival chunky cardigan with holes with a flannel tied at the waist
-2020s revival chunky knit baggy ripped jeans and band tee
+2020s revival chunky knit baggy ripped jeans and band tee printed "__name_band__"
 2020s revival chunky knit combat boots and floral babydoll dress outfit
 2020s revival combat boots and floral babydoll dress outfit
-2020s revival corduroy baggy ripped jeans and band tee
+2020s revival corduroy baggy ripped jeans and band tee printed "__name_band__"
 2020s revival corduroy layered fishnet and shorts
 2020s revival cotton jersey oversized vintage tee and cut-offs
 2020s revival denim overalls with a flannel tied around the waist with faded graphics
@@ -1309,7 +1309,7 @@
 2020s revival ringer tee and slim work pants
 2020s revival skate hoodie and baggy cargo shorts with torn knees
 2020s revival skinny jeans and studded belt outfit with patches and pins
-2020s revival striped arm warmers and a band tee with studded details
+2020s revival striped arm warmers and a band tee printed "__name_band__" with studded details
 2020s revival thermal knit oversized graphic tee dress
 2020s revival thermal knit skate hoodie and baggy cargo shorts
 2020s revival thrifted floral rayon ringer tee and slim work pants
@@ -1510,7 +1510,7 @@ afghan coat with hand-stitched patches
 afghan coat with mirror work
 afghan coat with tie-dye swirls
 afghan coat with wooden bead closures
-alt-rock baggy ripped jeans and band tee
+alt-rock baggy ripped jeans and band tee printed "__name_band__"
 alt-rock canvas work jacket and beanie
 alt-rock chunky cardigan with holes
 alt-rock flannel combat boots and floral babydoll dress outfit
@@ -1519,7 +1519,7 @@ alt-rock oversized flannel shirt worn open
 alt-rock oversized flannel shirt worn open with hand-sewn patches
 alt-rock oversized flannel shirt worn open with torn knees
 alt-rock oversized graphic tee dress
-alt-rock oversized graphic tee dress with skate-sticker patches
+alt-rock oversized graphic tee dress with skate-sticker patches reading "__name_brand_upper__" in bold print
 alt-rock ringer tee and slim work pants with a flannel tied at the waist
 alt-rock thermal henley under a slip dress
 alt-rock thrifted floral rayon skate hoodie and baggy cargo shorts
@@ -1530,7 +1530,7 @@ anarcho chain-hung leather trousers
 anarcho hand-painted battle vest with patches stitched crooked
 anarcho hand-painted battle vest with safety pins
 anarcho mesh chain-hung leather trousers
-anarcho mohair ripped band t-shirt and tartan bondage trousers
+anarcho mohair ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 anarcho mohair sweater with holes
 anarcho mohair sweater with holes with chains and padlocks
 anarcho painted work boots outfit
@@ -1597,9 +1597,9 @@ baggy jeans and a heavy graphic tee
 baggy jeans and a heavy graphic tee with chunky gold chains
 baggy jeans and a heavy graphic tee with elastic cuffs
 baggy jeans and a heavy graphic tee with rolled hems
-baggy ripped jeans and band tee
-baggy ripped jeans and band tee with frayed hems
-baggy ripped jeans and band tee with stripes
+baggy ripped jeans and band tee printed "__name_band__"
+baggy ripped jeans and band tee printed "__name_band__" with frayed hems
+baggy ripped jeans and band tee printed "__name_band__" with stripes
 ball-culture cropped jacket and fishnet bodysuit with sequin clusters
 ball-culture drag-ball feather cape and glitter bodysuit
 ball-culture metallic body paint-free glitter bodysuit
@@ -1616,18 +1616,18 @@ ballistic nylon engineer boots and bandana outfit
 ballistic nylon leather biker jacket with an asymmetric zip
 ballistic nylon leather bomber with a fur collar
 ballistic nylon leather bomber with a fur collar with a chain at the hip
-ballistic nylon leather chaps over jeans with club patches
+ballistic nylon leather chaps over jeans with club patches reading "__text_club_patch__"
 ballistic nylon one-piece racing leathers
 ballistic nylon one-piece racing leathers with rivet details
-ballistic nylon padded riding jacket with armour panels with club patches
+ballistic nylon padded riding jacket with armour panels with club patches reading "__text_club_patch__"
 ballistic nylon patched denim jacket
 ballistic nylon riding cape and goggles set
 ballistic nylon riding cape and goggles set with rivet details
 ballistic nylon riding cape and goggles set with zippered cuffs
 ballistic nylon riding vest with fringe with chrome studs
 ballistic nylon riding vest with fringe with reflective piping
-ballistic nylon sleeveless denim cut-off vest with club patches
-ballistic nylon sleeveless denim cut-off vest with club patches with a rope-laced side
+ballistic nylon sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
+ballistic nylon sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a rope-laced side
 ballistic nylon waxed-cotton riding coat with a quilted shoulder
 ballistic nylon waxed-cotton riding coat with a studded belt
 bandana headband and braided-belt set
@@ -1803,7 +1803,7 @@ black leather pencil skirt and gingham halter top with a popped collar
 black leather poodle skirt and cardigan set with a popped collar
 black leather poodle skirt and cardigan set with contrast-piped pockets
 black leather razor-blade-free pin-and-patch denim jacket with safety pins
-black leather ripped band t-shirt and tartan bondage trousers
+black leather ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 black leather ripped fishnet bodystocking under a torn dress with a ripped sleeve
 black leather ripped fishnet bodystocking under a torn dress with safety pins
 black leather teddy-style drape coat and brocade waistcoat
@@ -1948,11 +1948,11 @@ brushed cotton one-piece racing leathers
 brushed cotton one-piece racing leathers with a chain at the hip
 brushed cotton padded riding jacket with armour panels with zippered cuffs
 brushed cotton riding vest with fringe with a chain at the hip
-brushed cotton sleeveless denim cut-off vest with club patches with a quilted shoulder
+brushed cotton sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a quilted shoulder
 brushed cotton stud-and-chain harness
 brushed cotton stud-and-chain harness with a fringed back yoke
 brushed cotton waxed-cotton riding coat with a rope-laced side
-brushed cotton waxed-cotton riding coat with club patches
+brushed cotton waxed-cotton riding coat with club patches reading "__text_club_patch__"
 bucket hat and puffer vest outfit
 bucket hat and puffer vest outfit with a heavy zipper
 bucket hat and puffer vest outfit with a woven belt
@@ -1970,7 +1970,7 @@ café-racer engineer boots and bandana outfit
 café-racer flannel shirt and work trousers
 café-racer heavy black leather patched denim jacket
 café-racer heavy black leather riding vest with fringe
-café-racer leather biker jacket with an asymmetric zip with club patches
+café-racer leather biker jacket with an asymmetric zip with club patches reading "__text_club_patch__"
 café-racer leather riding pants with a studded belt
 café-racer one-piece racing leathers
 café-racer one-piece racing leathers with a studded belt
@@ -1978,18 +1978,18 @@ café-racer padded riding jacket with armour panels
 café-racer patched denim jacket with rivet details
 café-racer riding cape and goggles set
 café-racer riding vest with fringe
-café-racer sleeveless denim cut-off vest with club patches
+café-racer sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 café-racer suede leather chaps over jeans
 café-racer suede waxed-cotton riding coat
 café-racer waxed canvas padded riding jacket with armour panels
-canvas baggy ripped jeans and band tee
-canvas baggy ripped jeans and band tee with frayed hems
+canvas baggy ripped jeans and band tee printed "__name_band__"
+canvas baggy ripped jeans and band tee printed "__name_band__" with frayed hems
 canvas black hoodie with graphic patches
 canvas cardigan and slim corduroy trousers
 canvas cat-eared hoodie outfit with a thin black tie
 canvas checkerboard slip-ons outfit
 canvas checkerboard slip-ons outfit with checkerboard accents
-canvas chunky cardigan with holes with skate-sticker patches
+canvas chunky cardigan with holes with skate-sticker patches reading "__name_brand_upper__" in bold print
 canvas combat boots and floral babydoll dress outfit
 canvas layered fishnet and shorts
 canvas neon-print tee and skinny jeans
@@ -2002,7 +2002,7 @@ canvas ringer tee and slim work pants
 canvas shell-necklace-and-hemp outfit with stripes
 canvas skate hoodie and baggy cargo shorts with faded graphics
 canvas skinny jeans and studded belt outfit with checkerboard accents
-canvas striped arm warmers and a band tee with torn hems
+canvas striped arm warmers and a band tee printed "__name_band__" with torn hems
 canvas thermal henley under a slip dress
 canvas thrift-store dress and tights
 canvas thrift-store dress and tights with stripes
@@ -2078,7 +2078,7 @@ chelsea boots and cropped trousers with narrow lapels
 chicano bandana headband and braided-belt set with a hand-painted mural back
 chicano brocade waistcoat and fedora
 chicano denim bandana headband and braided-belt set
-chicano embroidered vintage souvenir jacket with embroidered cursive script
+chicano embroidered vintage souvenir jacket with embroidered cursive script reading "__name_first_world__"
 chicano flannel shirt buttoned only at the collar
 chicano flannel shirt buttoned only at the collar with a hand-painted mural back
 chicano khaki twill cropped bomber jacket and high-waisted pants
@@ -2086,9 +2086,9 @@ chicano khaki twill embroidered vintage souvenir jacket
 chicano khaki twill flannel shirt buttoned only at the collar
 chicano khaki twill pressed pleated trousers with a cuff
 chicano lowrider-style hat and suspenders
-chicano lowrider-style hat and suspenders with embroidered cursive script
+chicano lowrider-style hat and suspenders with embroidered cursive script reading "__name_first_world__"
 chicano pachuco drape coat with a bandana trim
-chicano pachuco drape coat with embroidered cursive script
+chicano pachuco drape coat with embroidered cursive script reading "__name_first_world__"
 chicano painted-denim jacket with murals
 chicano painted-denim jacket with murals with a satin lining
 chicano pressed khaki trousers and a crisp white tee
@@ -2099,19 +2099,19 @@ chicano starched cotton lowrider-style hat and suspenders
 chicano starched cotton painted-denim jacket with murals
 chunky cardigan with holes
 chunky cardigan with holes with chain wallet details
-chunky cardigan with holes with skate-sticker patches
-chunky knit baggy ripped jeans and band tee
-chunky knit baggy ripped jeans and band tee with skate-sticker patches
+chunky cardigan with holes with skate-sticker patches reading "__name_brand_upper__" in bold print
+chunky knit baggy ripped jeans and band tee printed "__name_band__"
+chunky knit baggy ripped jeans and band tee printed "__name_band__" with skate-sticker patches
 chunky knit combat boots and floral babydoll dress outfit
 chunky knit combat boots and floral babydoll dress outfit with hand-sewn patches
 chunky knit denim overalls with a flannel tied around the waist
 chunky knit denim overalls with a flannel tied around the waist with a flannel tied at the waist
 chunky knit layered thrift-store knit and corduroy
-chunky knit layered thrift-store knit and corduroy with skate-sticker patches
+chunky knit layered thrift-store knit and corduroy with skate-sticker patches reading "__name_brand_upper__" in bold print
 chunky knit oversized flannel shirt worn open with mismatched buttons
 chunky knit oversized graphic tee dress with stripes
 chunky knit ringer tee and slim work pants
-chunky knit ringer tee and slim work pants with skate-sticker patches
+chunky knit ringer tee and slim work pants with skate-sticker patches reading "__name_brand_upper__" in bold print
 chunky knit shell-necklace-and-hemp outfit with a flannel tied at the waist
 chunky knit skate hoodie and baggy cargo shorts with hand-sewn patches
 chunky knit thermal henley under a slip dress
@@ -2185,8 +2185,8 @@ club padded riding jacket with armour panels with a quilted shoulder
 club padded riding jacket with armour panels with zippered cuffs
 club patched denim jacket with a quilted shoulder
 club riding cape and goggles set with reflective piping
-club riding vest with fringe with club patches
-club sleeveless denim cut-off vest with club patches with rivet details
+club riding vest with fringe with club patches reading "__text_club_patch__"
+club sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with rivet details
 club stud-and-chain harness with a studded belt
 club vinyl leather biker jacket with an asymmetric zip
 club vinyl padded riding jacket with armour panels
@@ -2258,10 +2258,10 @@ colour-block windbreaker and cargo pants with oversized pockets
 combat boots and floral babydoll dress outfit
 combat boots and floral babydoll dress outfit with a flannel tied at the waist
 combat boots and floral babydoll dress outfit with mismatched buttons
-combat boots and floral babydoll dress outfit with skate-sticker patches
+combat boots and floral babydoll dress outfit with skate-sticker patches reading "__name_brand_upper__" in bold print
 corduroy baggy denim jumpsuit with drawstring hoods
 corduroy baggy jeans and a heavy graphic tee
-corduroy baggy ripped jeans and band tee
+corduroy baggy ripped jeans and band tee printed "__name_band__"
 corduroy bomber jacket with a big chain with embroidered logos-free patches
 corduroy bongo-night wrap skirt and leotard with a rope belt
 corduroy bucket hat and puffer vest outfit
@@ -2298,8 +2298,8 @@ corduroy shell-necklace-and-hemp outfit with chain wallet details
 corduroy ski jacket in bold panels
 corduroy skinny jeans and studded belt outfit
 corduroy slim black capri pants and ballet flats outfit with a simple wooden toggle closure
-corduroy striped arm warmers and a band tee
-corduroy striped arm warmers and a band tee with stripes
+corduroy striped arm warmers and a band tee printed "__name_band__"
+corduroy striped arm warmers and a band tee printed "__name_band__" with stripes
 corduroy striped boat-neck jersey and beret outfit
 corduroy striped boat-neck jersey and beret outfit with bold stripes
 corduroy thermal henley under a slip dress
@@ -2323,7 +2323,7 @@ cottage-twee rainbow-striped knee socks and a pleated skirt
 cottage-twee rainbow-striped knee socks and a pleated skirt with checkerboard accents
 cottage-twee rainbow-striped knee socks and a pleated skirt with torn hems
 cottage-twee skinny jeans and studded belt outfit with a thin black tie
-cottage-twee striped arm warmers and a band tee
+cottage-twee striped arm warmers and a band tee printed "__name_band__"
 cottage-twee thrift-store dress and tights with safety pins
 cottage-twee thrifted knit neon-print tee and skinny jeans
 cottage-twee thrifted knit tulle skirt and a graphic tee
@@ -2346,7 +2346,7 @@ cotton drill bandana headband and braided-belt set with chain wallet details
 cotton drill brocade waistcoat and fedora with suspenders
 cotton drill cropped bomber jacket and high-waisted pants
 cotton drill cropped bomber jacket and high-waisted pants with chain wallet details
-cotton drill cropped bomber jacket and high-waisted pants with embroidered cursive script
+cotton drill cropped bomber jacket and high-waisted pants with embroidered cursive script reading "__name_first_world__"
 cotton drill embroidered vintage souvenir jacket
 cotton drill flannel shirt buttoned only at the collar
 cotton drill lowrider-style hat and suspenders
@@ -2358,7 +2358,7 @@ cotton drill pressed pleated trousers with a cuff with contrast piping
 cotton jersey baggy denim jumpsuit
 cotton jersey baggy denim jumpsuit with oversized pockets
 cotton jersey baggy jeans and a heavy graphic tee
-cotton jersey baggy ripped jeans and band tee
+cotton jersey baggy ripped jeans and band tee printed "__name_band__"
 cotton jersey big puffy jacket with a fur hood
 cotton jersey black hoodie with graphic patches with stripes
 cotton jersey bomber jacket with a big chain
@@ -2602,7 +2602,7 @@ denim metallic body-chain harness and bralette
 denim overalls with a flannel tied around the waist
 denim overalls with a flannel tied around the waist with a flannel tied at the waist
 denim overalls with a flannel tied around the waist with faded graphics
-denim overalls with a flannel tied around the waist with skate-sticker patches
+denim overalls with a flannel tied around the waist with skate-sticker patches reading "__name_brand_upper__" in bold print
 denim overalls with a flannel tied around the waist with stretched-out knit
 denim overalls with a flannel tied around the waist with torn knees
 denim oversized sports jersey and baggy shorts
@@ -2788,7 +2788,7 @@ embroidered vintage souvenir jacket
 embroidered vintage souvenir jacket with a bandana trim
 embroidered vintage souvenir jacket with a fedora band
 embroidered vintage souvenir jacket with a satin lining
-embroidered vintage souvenir jacket with embroidered cursive script
+embroidered vintage souvenir jacket with embroidered cursive script reading "__name_first_world__"
 embroidered vintage souvenir jacket with heavy pressed creases
 embroidered vintage souvenir jacket with suspenders
 emo black hoodie with graphic patches
@@ -2804,7 +2804,7 @@ emo oversized vintage tee and cut-offs with a thin black tie
 emo oversized vintage tee and cut-offs with chunky wristbands
 emo rainbow-striped knee socks and a pleated skirt with checkerboard accents
 emo rainbow-striped knee socks and a pleated skirt with torn hems
-emo striped arm warmers and a band tee with checkerboard accents
+emo striped arm warmers and a band tee printed "__name_band__" with checkerboard accents
 emo thrifted knit tulle skirt and a graphic tee
 emo tulle neon-print tee and skinny jeans
 emo tulle skirt and a graphic tee
@@ -2812,7 +2812,7 @@ emo vintage rayon neon-print tee and skinny jeans
 engineer boots and bandana outfit
 engineer boots and bandana outfit with a fringed back yoke
 engineer boots and bandana outfit with a rope-laced side
-engineer boots and bandana outfit with club patches
+engineer boots and bandana outfit with club patches reading "__text_club_patch__"
 engineer boots and bandana outfit with rivet details
 engineer boots outfit
 engineer boots outfit with a back-of-jacket patch
@@ -2989,13 +2989,13 @@ fishnet bodystocking with torn tulle skirt with metal buckles
 fishnet bodystocking with torn tulle skirt with velvet ribbons
 fishnet bodysuit with LED trim
 fishnet bodysuit with LED trim with smiley patches
-flannel baggy ripped jeans and band tee
+flannel baggy ripped jeans and band tee printed "__name_band__"
 flannel bandana headband and braided-belt set
 flannel bandana headband and braided-belt set with contrast piping
 flannel canvas work jacket and beanie with stripes
 flannel chunky cardigan with holes with hand-sewn patches
 flannel chunky cardigan with holes with stripes
-flannel combat boots and floral babydoll dress outfit with skate-sticker patches
+flannel combat boots and floral babydoll dress outfit with skate-sticker patches reading "__name_brand_upper__" in bold print
 flannel combat boots and floral babydoll dress outfit with stretched-out knit
 flannel cropped bomber jacket and high-waisted pants
 flannel denim overalls with a flannel tied around the waist
@@ -3053,8 +3053,8 @@ fleece mini skirt and metallic halter top with a rhinestone zip pull
 fleece neon-print tee and skinny jeans with patches and pins
 fleece oversized vintage tee and cut-offs
 fleece oversized vintage tee and cut-offs with patches and pins
-fleece striped arm warmers and a band tee
-fleece striped arm warmers and a band tee with checkerboard accents
+fleece striped arm warmers and a band tee printed "__name_band__"
+fleece striped arm warmers and a band tee printed "__name_band__" with checkerboard accents
 fleece thrift-store dress and tights with torn hems
 fleece velour tracksuit with rhinestone zip with a rhinestone zip pull
 floral-embroidered denim overalls
@@ -3208,7 +3208,7 @@ granny-style prairie dress
 granny-style prairie dress with a rope tie belt
 granny-style prairie dress with embroidered flowers
 granny-style prairie dress with leather fringe
-grunge baggy ripped jeans and band tee with hand-sewn patches
+grunge baggy ripped jeans and band tee printed "__name_band__" with hand-sewn patches
 grunge chunky knit canvas work jacket and beanie
 grunge combat boots and floral babydoll dress outfit with hand-sewn patches
 grunge corduroy combat boots and floral babydoll dress outfit
@@ -3224,7 +3224,7 @@ grunge ringer tee and slim work pants with torn knees
 grunge shell-necklace-and-hemp outfit
 grunge thermal henley under a slip dress with faded graphics
 grunge thermal henley under a slip dress with stripes
-grunge thermal knit baggy ripped jeans and band tee
+grunge thermal knit baggy ripped jeans and band tee printed "__name_band__"
 gyaru beaded-and-charm-heavy tank top
 gyaru beaded-and-charm-heavy tank top with plush charms
 gyaru cyber-style tube top and cargo pants with bright bow trim
@@ -3317,15 +3317,15 @@ hardcore plaid wool zippered bondage pants with straps
 hardcore razor-blade-free pin-and-patch denim jacket
 hardcore razor-blade-free pin-and-patch denim jacket with a torn hem
 hardcore razor-blade-free pin-and-patch denim jacket with zipper details
-hardcore ripped band t-shirt and tartan bondage trousers
+hardcore ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 hardcore ripped denim leather jacket with spikes and painted slogans reading "__text_punk_slogan__"
 hardcore ripped denim studded leather vest
 hardcore ripped fishnet bodystocking under a torn dress
-hardcore torn cotton ripped band t-shirt and tartan bondage trousers
+hardcore torn cotton ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 hardcore torn cotton ripped fishnet bodystocking under a torn dress
 hardcore zippered bondage pants with straps
 heavy black leather engineer boots and bandana outfit
-heavy black leather engineer boots and bandana outfit with club patches
+heavy black leather engineer boots and bandana outfit with club patches reading "__text_club_patch__"
 heavy black leather biker jacket with an asymmetric zip
 heavy black leather biker jacket with an asymmetric zip with zippered cuffs
 heavy black leather bomber with a fur collar with reflective piping
@@ -3334,8 +3334,8 @@ heavy black leather riding cape and goggles set
 heavy black leather riding vest with fringe
 heavy black leather riding vest with fringe with a chain at the hip
 heavy black leather riding vest with fringe with a fringed back yoke
-heavy black leather sleeveless denim cut-off vest with club patches with a chain at the hip
-heavy black leather sleeveless denim cut-off vest with club patches with a studded belt
+heavy black leather sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a chain at the hip
+heavy black leather sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a studded belt
 heavy fleece baggy jeans and a heavy graphic tee with chunky gold chains
 heavy fleece big puffy jacket with a fur hood
 heavy fleece big puffy jacket with a fur hood with stripe panels
@@ -3451,7 +3451,7 @@ indie-sleaze skinny jeans and studded belt outfit with rainbow lace trims
 indie-sleaze stretch denim tulle skirt and a graphic tee
 indie-sleaze thrifted knit checkerboard slip-ons outfit
 indie-sleaze thrifted knit skinny jeans and studded belt outfit
-indie-sleaze thrifted knit striped arm warmers and a band tee
+indie-sleaze thrifted knit striped arm warmers and a band tee printed "__name_band__"
 indie-sleaze tulle black hoodie with graphic patches
 indie-sleaze tulle skirt and a graphic tee with bright neon accents
 indie-sleaze vintage rayon cat-eared hoodie outfit
@@ -3652,7 +3652,7 @@ layered fishnet and shorts with rainbow lace trims
 layered thrift-store knit and corduroy
 layered thrift-store knit and corduroy with a flannel tied at the waist
 layered thrift-store knit and corduroy with hand-sewn patches
-layered thrift-store knit and corduroy with skate-sticker patches
+layered thrift-store knit and corduroy with skate-sticker patches reading "__name_brand_upper__" in bold print
 layered thrift-store knit and corduroy with stretched-out knit
 layered thrift-store knit and corduroy with stripes
 layered thrift-store knit and corduroy with torn knees
@@ -3972,7 +3972,7 @@ mohair plaid kilt and mesh top
 mohair plaid kilt and mesh top with patches stitched crooked
 mohair pork-pie hat and checked jacket with contrast piping
 mohair razor-blade-free pin-and-patch denim jacket
-mohair ripped band t-shirt and tartan bondage trousers
+mohair ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 mohair roll-neck knit and A-line skirt
 mohair shift mini dress with geometric colour blocks with a zip-front collar
 mohair skinhead braces-and-boots outfit
@@ -4153,7 +4153,7 @@ oi tartan torn tulle skirt and leather bustier
 oi torn tulle skirt and leather bustier
 oi torn tulle skirt and leather bustier with hand-painted slogans reading "__text_punk_slogan__"
 one-piece racing leathers
-one-piece racing leathers with club patches
+one-piece racing leathers with club patches reading "__text_club_patch__"
 one-piece racing leathers with reflective piping
 op-art print shift dress
 op-art print shift dress with checkerboard trim
@@ -4166,7 +4166,7 @@ outlaw engineer boots and bandana outfit
 outlaw heavy black leather riding cape and goggles set
 outlaw leather biker jacket with an asymmetric zip with a studded belt
 outlaw leather bomber with a fur collar
-outlaw leather bomber with a fur collar with club patches
+outlaw leather bomber with a fur collar with club patches reading "__text_club_patch__"
 outlaw leather chaps over jeans with a studded belt
 outlaw leather chaps over jeans with rivet details
 outlaw leather riding pants
@@ -4174,7 +4174,7 @@ outlaw padded nylon riding vest with fringe
 outlaw padded riding jacket with armour panels with reflective piping
 outlaw patched denim jacket
 outlaw riding cape and goggles set
-outlaw sleeveless denim cut-off vest with club patches
+outlaw sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 outlaw stud-and-chain harness
 outlaw waxed canvas leather riding pants
 outlaw waxed canvas riding cape and goggles set
@@ -4195,7 +4195,7 @@ oversized flannel shirt worn open with stripes
 oversized flannel shirt worn open with torn knees
 oversized graphic tee dress
 oversized graphic tee dress with hand-sewn patches
-oversized graphic tee dress with skate-sticker patches
+oversized graphic tee dress with skate-sticker patches reading "__name_brand_upper__" in bold print
 oversized graphic tee dress with stripes
 oversized knit sweater and sandals
 oversized knit sweater and sandals with a hand-stitched patch
@@ -4225,7 +4225,7 @@ pachuco bolero and gaucho pants
 pachuco drape coat
 pachuco drape coat with a satin lining
 pachuco drape coat with chain wallet details
-pachuco drape coat with embroidered cursive script
+pachuco drape coat with embroidered cursive script reading "__name_first_world__"
 pachuco drape coat with suspenders
 pachuco gabardine swing-dance circle skirt and fitted blouse
 pachuco gabardine wide-shouldered double-breasted suit
@@ -4257,14 +4257,14 @@ padded nylon leather chaps over jeans
 padded nylon one-piece racing leathers
 padded nylon riding cape and goggles set
 padded nylon riding vest with fringe
-padded nylon sleeveless denim cut-off vest with club patches with a chain at the hip
+padded nylon sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a chain at the hip
 padded riding jacket with armour panels
 padded riding jacket with armour panels with a fringed back yoke
 padded riding jacket with armour panels with a quilted shoulder
 padded riding jacket with armour panels with a rope-laced side
 padded riding jacket with armour panels with a studded belt
 padded riding jacket with armour panels with chrome studs
-padded riding jacket with armour panels with club patches
+padded riding jacket with armour panels with club patches reading "__text_club_patch__"
 padded riding jacket with armour panels with zippered cuffs
 paint-splattered artist's smock
 paint-splattered artist's smock with a long loose scarf
@@ -4544,12 +4544,12 @@ punk rock black leather mohair sweater with holes
 punk rock black leather safety-pin-held shirt
 punk rock leather jacket with spikes and painted slogans reading "__text_punk_slogan__" with hand-painted slogans reading "__text_punk_slogan__"
 punk rock leather jacket with spikes and painted slogans reading "__text_punk_slogan__" with zipper details
-punk rock mesh ripped band t-shirt and tartan bondage trousers
+punk rock mesh ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 punk rock mesh ripped fishnet bodystocking under a torn dress
 punk rock mohair sweater with holes with bondage straps
 punk rock mohair sweater with holes with deliberate rips
 punk rock razor-blade-free pin-and-patch denim jacket
-punk rock ripped band t-shirt and tartan bondage trousers
+punk rock ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 punk rock ripped denim chain-hung leather trousers
 punk rock ripped denim torn tulle skirt and leather bustier
 punk rock ripped fishnet bodystocking under a torn dress with a ripped sleeve
@@ -4672,13 +4672,13 @@ rhinestone-covered corset gown with sheer overlays
 riding cape and goggles set
 riding cape and goggles set with a fringed back yoke
 riding cape and goggles set with chrome studs
-riding cape and goggles set with club patches
+riding cape and goggles set with club patches reading "__text_club_patch__"
 riding cape and goggles set with reflective piping
 riding cape and goggles set with rivet details
 riding vest with fringe
 riding vest with fringe with a fringed back yoke
 riding vest with fringe with chrome studs
-riding vest with fringe with club patches
+riding vest with fringe with club patches reading "__text_club_patch__"
 riding vest with fringe with zippered cuffs
 ringer tee and slim work pants
 ringer tee and slim work pants with chain wallet details
@@ -4686,14 +4686,14 @@ ringer tee and slim work pants with faded graphics
 ringer tee and slim work pants with frayed hems
 ringer tee and slim work pants with stretched-out knit
 ringer tee and slim work pants with torn knees
-riot-grrrl baggy ripped jeans and band tee with stripes
+riot-grrrl baggy ripped jeans and band tee printed "__name_band__" with stripes
 riot-grrrl canvas layered thrift-store knit and corduroy
 riot-grrrl canvas oversized graphic tee dress
 riot-grrrl chunky cardigan with holes
 riot-grrrl chunky cardigan with holes with chain wallet details
 riot-grrrl chunky knit canvas work jacket and beanie
 riot-grrrl combat boots and floral babydoll dress outfit
-riot-grrrl corduroy baggy ripped jeans and band tee
+riot-grrrl corduroy baggy ripped jeans and band tee printed "__name_band__"
 riot-grrrl corduroy skate hoodie and baggy cargo shorts
 riot-grrrl cotton jersey layered thrift-store knit and corduroy
 riot-grrrl denim overalls with a flannel tied around the waist with hand-sewn patches
@@ -4709,20 +4709,20 @@ riot-grrrl thermal henley under a slip dress
 riot-grrrl thermal knit layered thrift-store knit and corduroy
 riot-grrrl thrifted floral rayon chunky cardigan with holes
 riot-grrrl thrifted floral rayon ringer tee and slim work pants
-riot-grrrl worn denim baggy ripped jeans and band tee
+riot-grrrl worn denim baggy ripped jeans and band tee printed "__name_band__"
 riot-grrrl worn denim oversized flannel shirt worn open
 riot-grrrl worn denim shell-necklace-and-hemp outfit
-ripped band t-shirt and tartan bondage trousers
-ripped band t-shirt and tartan bondage trousers with patches stitched crooked
-ripped band t-shirt and tartan bondage trousers with safety pins
-ripped band t-shirt and tartan bondage trousers with spikes and studs
+ripped band t-shirt printed "__name_band__" and tartan bondage trousers
+ripped band t-shirt printed "__name_band__" and tartan bondage trousers with patches stitched crooked
+ripped band t-shirt printed "__name_band__" and tartan bondage trousers with safety pins
+ripped band t-shirt printed "__name_band__" and tartan bondage trousers with spikes and studs
 ripped denim Mohawk-and-spike studded collar set
 ripped denim Mohawk-and-spike studded collar set with safety pins
 ripped denim mohair sweater with holes
 ripped denim painted work boots outfit
 ripped denim razor-blade-free pin-and-patch denim jacket
 ripped denim razor-blade-free pin-and-patch denim jacket with a torn hem
-ripped denim ripped band t-shirt and tartan bondage trousers with hand-painted slogans reading "__text_punk_slogan__"
+ripped denim ripped band t-shirt printed "__name_band__" and tartan bondage trousers with hand-painted slogans reading "__text_punk_slogan__"
 ripped denim safety-pin-held shirt
 ripped denim torn tulle skirt and leather bustier
 ripped denim torn tulle skirt and leather bustier with zipper details
@@ -4926,7 +4926,7 @@ satin lowrider-style hat and suspenders with a satin lining
 satin lowrider-style hat and suspenders with suspenders
 satin pachuco drape coat
 satin pachuco drape coat with a hand-painted mural back
-satin pachuco drape coat with embroidered cursive script
+satin pachuco drape coat with embroidered cursive script reading "__name_first_world__"
 satin peplum jacket and pencil skirt
 satin pin-up halter playsuit
 satin pressed pleated trousers with a cuff
@@ -4963,14 +4963,14 @@ scene cat-eared hoodie outfit
 scene checkerboard slip-ons outfit with rainbow lace trims
 scene corduroy neon-print tee and skinny jeans
 scene corduroy oversized vintage tee and cut-offs
-scene cotton jersey striped arm warmers and a band tee
+scene cotton jersey striped arm warmers and a band tee printed "__name_band__"
 scene neon-print tee and skinny jeans
 scene rainbow-striped knee socks and a pleated skirt
 scene skinny jeans and studded belt outfit with torn hems
 scene stretch denim cat-eared hoodie outfit
 scene stretch denim checkerboard slip-ons outfit
 scene stretch denim neon-print tee and skinny jeans
-scene striped arm warmers and a band tee
+scene striped arm warmers and a band tee printed "__name_band__"
 scene tulle skirt and a graphic tee
 scene vintage dress and combat boots with torn hems
 scene vintage rayon cardigan and slim corduroy trousers
@@ -5130,7 +5130,7 @@ shell nylon track jacket and wide-leg joggers with elastic cuffs
 shell-necklace-and-hemp outfit
 shell-necklace-and-hemp outfit with a flannel tied at the waist
 shell-necklace-and-hemp outfit with frayed hems
-shell-necklace-and-hemp outfit with skate-sticker patches
+shell-necklace-and-hemp outfit with skate-sticker patches reading "__name_brand_upper__" in bold print
 shell-necklace-and-hemp outfit with stretched-out knit
 shell-suit track set
 shell-suit track set with geometric patterns
@@ -5193,11 +5193,11 @@ skull-print leggings and a mesh top with corset lacing
 skull-print leggings and a mesh top with cross motifs
 skull-print leggings and a mesh top with fishnet panels
 skull-print leggings and a mesh top with spiderweb lace
-sleeveless denim cut-off vest with club patches
-sleeveless denim cut-off vest with club patches with a quilted shoulder
-sleeveless denim cut-off vest with club patches with chrome studs
-sleeveless denim cut-off vest with club patches with reflective piping
-sleeveless denim cut-off vest with club patches with rivet details
+sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
+sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a quilted shoulder
+sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with chrome studs
+sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with reflective piping
+sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with rivet details
 sleeveless denim jacket with a back patch
 sleeveless denim jacket with a back patch with a popped collar
 sleeveless denim jacket with a back patch with a sweetheart neckline
@@ -5364,8 +5364,8 @@ stretch denim rainbow-striped knee socks and a pleated skirt
 stretch denim rainbow-striped knee socks and a pleated skirt with chunky wristbands
 stretch denim rainbow-striped knee socks and a pleated skirt with patches and pins
 stretch denim skinny jeans and studded belt outfit
-stretch denim striped arm warmers and a band tee
-stretch denim striped arm warmers and a band tee with stripes
+stretch denim striped arm warmers and a band tee printed "__name_band__"
+stretch denim striped arm warmers and a band tee printed "__name_band__" with stripes
 stretch denim thrift-store dress and tights
 stretch denim thrift-store dress and tights with checkerboard accents
 stretch denim tulle skirt and a graphic tee
@@ -5378,10 +5378,10 @@ stretch satin glitter body-suit with flared sleeves with star-shaped sequins
 stretch satin glitter-streaked tunic and satin trousers
 stretch satin platform-shoe outfit
 stretch satin wrap jersey disco dress with star-shaped sequins
-striped arm warmers and a band tee
-striped arm warmers and a band tee with a thin black tie
-striped arm warmers and a band tee with patches and pins
-striped arm warmers and a band tee with stripes
+striped arm warmers and a band tee printed "__name_band__"
+striped arm warmers and a band tee printed "__name_band__" with a thin black tie
+striped arm warmers and a band tee printed "__name_band__" with patches and pins
+striped arm warmers and a band tee printed "__name_band__" with stripes
 striped boat-neck jersey and beret outfit
 striped boat-neck jersey and beret outfit with a rolled collar
 striped boat-neck jersey and beret outfit with a simple wooden toggle closure
@@ -5448,15 +5448,15 @@ suede hand-knit cardigan and headband with a crocheted edge
 suede hand-knit cardigan and headband with tie-dye swirls
 suede kaftan-style tunic and harem trousers with frayed cuffs
 suede leather bomber with a fur collar
-suede leather chaps over jeans with club patches
+suede leather chaps over jeans with club patches reading "__text_club_patch__"
 suede leather riding pants
 suede macramé halter top and wide trousers with sheer overlay panels
 suede one-piece racing leathers
-suede one-piece racing leathers with club patches
+suede one-piece racing leathers with club patches reading "__text_club_patch__"
 suede one-piece racing leathers with rivet details
 suede padded riding jacket with armour panels with a studded belt
 suede paint-splattered artist's smock
-suede patched denim jacket with club patches
+suede patched denim jacket with club patches reading "__text_club_patch__"
 suede psychedelic paisley shirt and flared trousers
 suede psychedelic paisley shirt and flared trousers with hand-stitched patches
 suede stud-and-chain harness with a chain at the hip
@@ -5644,8 +5644,8 @@ thermal henley under a slip dress
 thermal henley under a slip dress with mismatched buttons
 thermal henley under a slip dress with stripes
 thermal henley under a slip dress with torn knees
-thermal knit baggy ripped jeans and band tee
-thermal knit baggy ripped jeans and band tee with stripes
+thermal knit baggy ripped jeans and band tee printed "__name_band__"
+thermal knit baggy ripped jeans and band tee printed "__name_band__" with stripes
 thermal knit chunky cardigan with holes
 thermal knit chunky cardigan with holes with mismatched buttons
 thermal knit combat boots and floral babydoll dress outfit
@@ -5690,7 +5690,7 @@ thrifted floral rayon denim overalls with a flannel tied around the waist
 thrifted floral rayon layered thrift-store knit and corduroy
 thrifted floral rayon oversized graphic tee dress with stretched-out knit
 thrifted floral rayon ringer tee and slim work pants
-thrifted floral rayon skate hoodie and baggy cargo shorts with skate-sticker patches
+thrifted floral rayon skate hoodie and baggy cargo shorts with skate-sticker patches reading "__name_brand_upper__" in bold print
 thrifted floral rayon thermal henley under a slip dress
 thrifted knit black hoodie with graphic patches
 thrifted knit cardigan and slim corduroy trousers
@@ -5700,7 +5700,7 @@ thrifted knit checkerboard slip-ons outfit with patches and pins
 thrifted knit checkerboard slip-ons outfit with torn hems
 thrifted knit layered fishnet and shorts
 thrifted knit skinny jeans and studded belt outfit with patches and pins
-thrifted knit striped arm warmers and a band tee with studded details
+thrifted knit striped arm warmers and a band tee printed "__name_band__" with studded details
 thrifted knit thrift-store dress and tights
 thrifted knit tulle skirt and a graphic tee with patches and pins
 thrifted knit vintage dress and combat boots
@@ -5844,9 +5844,9 @@ tulle skirt and a graphic tee
 tulle skirt and a graphic tee with bright neon accents
 tulle skirt and a graphic tee with patches and pins
 tulle skirt and a graphic tee with stripes
-tulle striped arm warmers and a band tee
-tulle striped arm warmers and a band tee with bright neon accents
-tulle striped arm warmers and a band tee with chunky wristbands
+tulle striped arm warmers and a band tee printed "__name_band__"
+tulle striped arm warmers and a band tee printed "__name_band__" with bright neon accents
+tulle striped arm warmers and a band tee printed "__name_band__" with chunky wristbands
 tulle thrift-store dress and tights
 tulle thrift-store dress and tights with chunky wristbands
 tulle skirt and a graphic tee with rainbow lace trims
@@ -6087,7 +6087,7 @@ warehouse sheer glitter mesh neon UV-reactive crop top
 warehouse smiley-print tank and phat pants with cut-out sides
 watch-chain-and-fob suit set
 waxed canvas flannel shirt and work trousers with a studded belt
-waxed canvas flannel shirt and work trousers with club patches
+waxed canvas flannel shirt and work trousers with club patches reading "__text_club_patch__"
 waxed canvas leather biker jacket with an asymmetric zip
 waxed canvas leather biker jacket with an asymmetric zip with a chain at the hip
 waxed canvas leather chaps over jeans
@@ -6096,11 +6096,11 @@ waxed canvas patched denim jacket
 waxed canvas patched denim jacket with a studded belt
 waxed canvas riding cape and goggles set with chrome studs
 waxed canvas riding cape and goggles set with reflective piping
-waxed canvas sleeveless denim cut-off vest with club patches
+waxed canvas sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 waxed canvas waxed-cotton riding coat with a chain at the hip
 waxed-cotton riding coat
 waxed-cotton riding coat with a quilted shoulder
-waxed-cotton riding coat with club patches
+waxed-cotton riding coat with club patches reading "__text_club_patch__"
 waxed-cotton riding coat with reflective piping
 welding-mask-and-apron outfit
 welding-mask-and-apron outfit with brass gears
@@ -6185,7 +6185,7 @@ wool lowrider-style hat and suspenders
 wool pachuco drape coat
 wool pachuco drape coat with a satin lining
 wool painted-denim jacket with murals
-wool painted-denim jacket with murals with embroidered cursive script
+wool painted-denim jacket with murals with embroidered cursive script reading "__name_first_world__"
 wool pressed khaki trousers and a crisp white tee with a fedora band
 wool pressed pleated trousers with a cuff
 wool roll-neck knit and A-line skirt
@@ -6195,16 +6195,16 @@ wool slim three-button suit with narrow lapels with checkerboard trim
 wool two-tone ska-style suit
 wool two-tone ska-style suit with patch pockets
 wool two-tone ska-style suit with target-roundel patches
-worn denim baggy ripped jeans and band tee
+worn denim baggy ripped jeans and band tee printed "__name_band__"
 worn denim canvas work jacket and beanie
 worn denim canvas work jacket and beanie with frayed hems
 worn denim canvas work jacket and beanie with hand-sewn patches
-worn denim canvas work jacket and beanie with skate-sticker patches
+worn denim canvas work jacket and beanie with skate-sticker patches reading "__name_brand_upper__" in bold print
 worn denim chunky cardigan with holes
 worn denim combat boots and floral babydoll dress outfit
 worn denim combat boots and floral babydoll dress outfit with faded graphics
 worn denim oversized graphic tee dress
-worn denim oversized graphic tee dress with skate-sticker patches
+worn denim oversized graphic tee dress with skate-sticker patches reading "__name_brand_upper__" in bold print
 worn denim ringer tee and slim work pants
 worn denim shell-necklace-and-hemp outfit with faded graphics
 worn denim shell-necklace-and-hemp outfit with stretched-out knit

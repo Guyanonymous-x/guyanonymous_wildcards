@@ -34,14 +34,14 @@ A round puck of shaving soap in a wooden bowl, sage green and slightly ribbed, w
 A round puck of shaving soap in a wooden bowl, navy blue and slightly satin, with lather swirled across the top.
 A round puck of shaving soap in a wooden bowl, teal and slightly ribbed, with lather swirled across the top.
 A satin sand bottle of aftershave balm with a pump top. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A frosted ivory bottle of aftershave balm with a pump top.
+A frosted ivory bottle of aftershave balm labeled "__name_brand_upper__" in small black print with a pump top.
 A soft-touch clear bottle of aftershave balm with a pump top. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A frosted amber bottle of aftershave balm with a pump top.
+A frosted amber bottle of aftershave balm labeled "__name_brand_upper__" in small black print with a pump top.
 A frosted burgundy bottle of aftershave balm with a pump top. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
 A glass bottle of aftershave in ivory liquid with a heavy smooth cap and a square base. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A glass bottle of aftershave in teal liquid with a heavy smooth cap and a square base.
+A glass bottle of aftershave labeled "__name_brand_upper__" in small black print, in teal liquid with a heavy smooth cap and a square base.
 A glass bottle of aftershave in mustard yellow liquid with a heavy speckled cap and a square base. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A glass bottle of aftershave in blush pink liquid with a heavy glossy cap and a square base.
+A glass bottle of aftershave labeled "__name_brand_upper__" in small black print, in blush pink liquid with a heavy glossy cap and a square base.
 A glass bottle of aftershave in forest green liquid with a heavy satin cap and a square base. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A cordless beard trimmer in satin forest green with an adjustable guard comb and a small oil bottle beside it.
 A cordless beard trimmer in pearlescent copper with an adjustable guard comb and a small oil bottle beside it.
@@ -49,14 +49,14 @@ A cordless beard trimmer in glossy ivory with an adjustable guard comb and a sma
 A cordless beard trimmer in pearlescent sand with an adjustable guard comb and a small oil bottle beside it.
 A cordless beard trimmer in pearlescent teal with an adjustable guard comb and a small oil bottle beside it.
 A small glass dropper bottle of golden beard oil with a soft white cap, a bead of oil on the tip of the dropper. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A small glass dropper bottle of golden beard oil with a burgundy cap, a bead of oil on the tip of the dropper.
+A small glass dropper bottle of golden beard oil labeled "__name_brand_upper__" in small black print with a burgundy cap, a bead of oil on the tip of the dropper.
 A small glass dropper bottle of golden beard oil with a dusty rose cap, a bead of oil on the tip of the dropper. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A small glass dropper bottle of golden beard oil with a sky blue cap, a bead of oil on the tip of the dropper.
+A small glass dropper bottle of golden beard oil labeled "__name_brand_upper__" in small black print with a sky blue cap, a bead of oil on the tip of the dropper.
 A small glass dropper bottle of golden beard oil with a charcoal grey cap, a bead of oil on the tip of the dropper. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
 A small round tin of beard balm in ivory, its lid off and a thick waxy balm inside. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A small round tin of beard balm in teal, its lid off and a thick waxy balm inside.
+A small round tin of beard balm labeled "__name_brand_upper__" in small black print, in teal, its lid off and a thick waxy balm inside.
 A small round tin of beard balm in mustard yellow, its lid off and a thick waxy balm inside. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A small round tin of beard balm in dusty rose, its lid off and a thick waxy balm inside.
+A small round tin of beard balm labeled "__name_brand_upper__" in small black print, in dusty rose, its lid off and a thick waxy balm inside.
 A small round tin of beard balm in copper, its lid off and a thick waxy balm inside. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A fine-toothed wooden beard comb in cream with a rounded handle, a few strands of hair caught in it.
 A fine-toothed wooden beard comb in copper with a rounded handle, a few strands of hair caught in it.
@@ -69,19 +69,19 @@ A boar-bristle beard brush with a rounded cream wooden handle.
 A boar-bristle beard brush with a rounded pale pink wooden handle.
 A boar-bristle beard brush with a rounded navy blue wooden handle.
 A tiny round tin of moustache wax in sage green with a small comb beside it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A tiny round tin of moustache wax in dusty rose with a small comb beside it.
+A tiny round tin of moustache wax labeled "__name_brand_upper__" in small black print, in dusty rose with a small comb beside it.
 A tiny round tin of moustache wax in copper with a small comb beside it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A tiny round tin of moustache wax in slate grey with a small comb beside it.
+A tiny round tin of moustache wax labeled "__name_brand_upper__" in small white print, in slate grey with a small comb beside it.
 A tiny round tin of moustache wax in frosted white with a small comb beside it. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
 A round brushed navy blue tin of hair pomade, the lid off and a smooth glossy surface with a comb mark in it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A round satin copper tin of hair pomade, the lid off and a smooth glossy surface with a comb mark in it.
+A round satin copper tin of hair pomade labeled "__name_brand_upper__" in small black print, the lid off and a smooth glossy surface with a comb mark in it.
 A round smooth amber tin of hair pomade, the lid off and a smooth glossy surface with a comb mark in it. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A round soft-touch gold tin of hair pomade, the lid off and a smooth glossy surface with a comb mark in it.
+A round soft-touch gold tin of hair pomade labeled "__name_brand_upper__" in small black print, the lid off and a smooth glossy surface with a comb mark in it.
 A round ribbed ivory tin of hair pomade, the lid off and a smooth glossy surface with a comb mark in it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A wide plastic jar of matte hair clay in frosted white with a screw lid placed beside it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A wide plastic jar of matte hair clay in lavender with a screw lid placed beside it.
+A wide plastic jar of matte hair clay labeled "__name_brand_upper__" in small black print, in lavender with a screw lid placed beside it.
 A wide plastic jar of matte hair clay in blush pink with a screw lid placed beside it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A wide plastic jar of matte hair clay in burgundy with a screw lid placed beside it.
+A wide plastic jar of matte hair clay labeled "__name_brand_upper__" in small black print, in burgundy with a screw lid placed beside it.
 A wide plastic jar of matte hair clay in charcoal grey with a screw lid placed beside it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A pair of steel barber scissors with a finger rest and a frosted white handle, on a folded towel.
 A pair of steel barber scissors with a finger rest and a sage green handle, on a folded towel.
@@ -99,24 +99,24 @@ A short white styptic pencil in a mint green case, damp at its tip.
 A short white styptic pencil in a cream case, damp at its tip.
 A short white styptic pencil in a amber case, damp at its tip.
 A rectangular glass bottle of cologne with charcoal grey liquid, a soft-touch cap and a spray nozzle. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A rectangular glass bottle of cologne with lavender liquid, a glossy cap and a spray nozzle.
+A rectangular glass bottle of cologne labeled "__name_brand_upper__" in small black print with lavender liquid, a glossy cap and a spray nozzle.
 A rectangular glass bottle of cologne with mustard yellow liquid, a soft-touch cap and a spray nozzle. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A rectangular glass bottle of cologne with clear liquid, a satin cap and a spray nozzle.
+A rectangular glass bottle of cologne labeled "__name_brand_upper__" in small black print with clear liquid, a satin cap and a spray nozzle.
 A rectangular glass bottle of cologne with dusty rose liquid, a satin cap and a spray nozzle. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A speckled blush pink tube of men's face moisturiser, squeezed to leave a small white dab on a counter. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A frosted silver tube of men's face moisturiser, squeezed to leave a small white dab on a counter.
+A frosted silver tube of men's face moisturiser labeled "__name_brand_upper__" in small black print, squeezed to leave a small white dab on a counter.
 A pearlescent burgundy tube of men's face moisturiser, squeezed to leave a small white dab on a counter. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A ribbed mint green tube of men's face moisturiser, squeezed to leave a small white dab on a counter.
+A ribbed mint green tube of men's face moisturiser labeled "__name_brand_upper__" in small black print, squeezed to leave a small white dab on a counter.
 A satin soft white tube of men's face moisturiser, squeezed to leave a small white dab on a counter. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
 A small glossy mint green squeeze tube of tinted moisturiser with a dab of beige cream smeared beside it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A small brushed charcoal grey squeeze tube of tinted moisturiser with a dab of beige cream smeared beside it.
+A small brushed charcoal grey squeeze tube of tinted moisturiser labeled "__name_brand_upper__" in small black print with a dab of beige cream smeared beside it.
 A small brushed lilac squeeze tube of tinted moisturiser with a dab of beige cream smeared beside it. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A small pearlescent teal squeeze tube of tinted moisturiser with a dab of beige cream smeared beside it.
+A small pearlescent teal squeeze tube of tinted moisturiser labeled "__name_brand_upper__" in small black print with a dab of beige cream smeared beside it.
 A small pearlescent mustard yellow squeeze tube of tinted moisturiser with a dab of beige cream smeared beside it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A slim satin lavender tube of clear brow gel with a small spiral brush wand. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A slim matte ivory tube of clear brow gel with a small spiral brush wand.
+A slim matte ivory tube of clear brow gel labeled "__name_brand_upper__" in small black print with a small spiral brush wand.
 A slim glossy charcoal grey tube of clear brow gel with a small spiral brush wand. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A slim pearlescent rose gold tube of clear brow gel with a small spiral brush wand.
+A slim pearlescent rose gold tube of clear brow gel labeled "__name_brand_upper__" in small black print with a small spiral brush wand.
 A slim pearlescent burgundy tube of clear brow gel with a small spiral brush wand. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A black kohl pencil with a navy blue barrel, freshly sharpened.
 A black kohl pencil with a ivory barrel, freshly sharpened.
@@ -124,9 +124,9 @@ A black kohl pencil with a rose gold barrel, freshly sharpened.
 A black kohl pencil with a amber barrel, freshly sharpened.
 A black kohl pencil with a pale pink barrel, freshly sharpened.
 A small frosted blush pink tube of lip balm, twisted up to show a pale waxy stick. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A small smooth terracotta tube of lip balm, twisted up to show a pale waxy stick.
+A small smooth terracotta tube of lip balm labeled "__name_brand_upper__" in small black print, twisted up to show a pale waxy stick.
 A small smooth mustard yellow tube of lip balm, twisted up to show a pale waxy stick. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A small glossy charcoal grey tube of lip balm, twisted up to show a pale waxy stick.
+A small glossy charcoal grey tube of lip balm labeled "__name_brand_upper__" in small black print, twisted up to show a pale waxy stick.
 A small ribbed forest green tube of lip balm, twisted up to show a pale waxy stick. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
 A coral zippered leather wash bag, open to show a razor, a brush and a bottle inside.
 A amber zippered leather wash bag, open to show a razor, a brush and a bottle inside.

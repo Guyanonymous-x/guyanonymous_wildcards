@@ -111,8 +111,8 @@ Inside it has a hand-sewn leather lining, a velvet-lined compartment and a silk-
 Inside it has a hand-sewn leather lining, a velvet-lined compartment, a gold-plated spring and a hand-fitted suede interior.
 Inside it has a hand-sewn leather lining, a velvet-lined compartment, a silk-lined interior and a gold-plated spring.
 Inside it has a hand-sewn leather lining.
-Inside it has a lining of feathers, silk brocade with a hand-woven gold pattern and silk satin embroidered with the maker's gold monogram.
-Inside it has a lining of feathers, silk satin embroidered with the maker's gold monogram and painted silk with a miniature scene.
+Inside it has a lining of feathers, silk brocade with a hand-woven gold pattern and silk satin embroidered with the maker's gold monogram "__name_initials__".
+Inside it has a lining of feathers, silk satin embroidered with the maker's gold monogram "__name_initials__" and painted silk with a miniature scene.
 Inside it has a lining of feathers.
 Inside it has a mirror-mosaic lining.
 Inside it has a silk-lined interior and a gold-plated spring.
@@ -173,7 +173,7 @@ Inside it has chinchilla fur.
 Inside it has gold-thread brocade and chinchilla fur.
 Inside it has gold-thread brocade and quilted gold silk.
 Inside it has gold-thread brocade.
-Inside it has hand-embroidered silk with seed pearls and silk satin embroidered with the maker's gold monogram.
+Inside it has hand-embroidered silk with seed pearls and silk satin embroidered with the maker's gold monogram "__name_initials__".
 Inside it has hand-embroidered silk with seed pearls.
 Inside it has mink fur and quilted gold silk.
 Inside it has mink fur.
@@ -182,26 +182,26 @@ Inside it has painted silk with a miniature scene, gold-thread brocade and quilt
 Inside it has painted silk with a miniature scene, hand-embroidered silk with seed pearls and a gold-lamé lining stitched with crystals.
 Inside it has painted silk with a miniature scene.
 Inside it has quilted gold silk and sable fur.
-Inside it has quilted gold silk and silk satin embroidered with the maker's gold monogram.
+Inside it has quilted gold silk and silk satin embroidered with the maker's gold monogram "__name_initials__".
 Inside it has quilted gold silk and silk velvet embroidered with pearls.
 Inside it has quilted gold silk, silk brocade with a hand-woven gold pattern and mink fur.
 Inside it has quilted gold silk.
 Inside it has sable fur, a mirror-mosaic lining and mink fur.
 Inside it has sable fur, chinchilla fur and a mirror-mosaic lining.
 Inside it has sable fur, gold-thread brocade and silk velvet embroidered with pearls.
-Inside it has sable fur, silk velvet embroidered with pearls and silk satin embroidered with the maker's gold monogram.
+Inside it has sable fur, silk velvet embroidered with pearls and silk satin embroidered with the maker's gold monogram "__name_initials__".
 Inside it has sable fur.
 Inside it has silk brocade with a hand-woven gold pattern and silk velvet embroidered with pearls.
-Inside it has silk brocade with a hand-woven gold pattern, mink fur and silk satin embroidered with the maker's gold monogram.
+Inside it has silk brocade with a hand-woven gold pattern, mink fur and silk satin embroidered with the maker's gold monogram "__name_initials__".
 Inside it has silk brocade with a hand-woven gold pattern, sable fur and quilted gold silk.
 Inside it has silk brocade with a hand-woven gold pattern.
-Inside it has silk satin embroidered with the maker's gold monogram and hand-embroidered silk with seed pearls.
-Inside it has silk satin embroidered with the maker's gold monogram, chinchilla fur and a gold-lamé lining stitched with crystals.
-Inside it has silk satin embroidered with the maker's gold monogram.
+Inside it has silk satin embroidered with the maker's gold monogram "__name_initials__" and hand-embroidered silk with seed pearls.
+Inside it has silk satin embroidered with the maker's gold monogram "__name_initials__", chinchilla fur and a gold-lamé lining stitched with crystals.
+Inside it has silk satin embroidered with the maker's gold monogram "__name_initials__".
 Inside it has silk velvet embroidered with pearls.
 The interior has a gold-lamé lining stitched with crystals and a lining of feathers.
-The interior has a gold-lamé lining stitched with crystals, gold-thread brocade and silk satin embroidered with the maker's gold monogram.
-The interior has a gold-lamé lining stitched with crystals, silk satin embroidered with the maker's gold monogram and quilted gold silk.
+The interior has a gold-lamé lining stitched with crystals, gold-thread brocade and silk satin embroidered with the maker's gold monogram "__name_initials__".
+The interior has a gold-lamé lining stitched with crystals, silk satin embroidered with the maker's gold monogram "__name_initials__" and quilted gold silk.
 The interior has a gold-lamé lining stitched with crystals.
 The interior has a gold-plated spring and a hand-engraved inner panel.
 The interior has a gold-plated spring and a hand-fitted suede interior.
@@ -372,8 +372,8 @@ The interior has a velvet-lined compartment, a silk-lined interior, a gold-plate
 The interior has a velvet-lined compartment, a silk-lined interior, a hand-engraved inner panel and a hand-fitted suede interior.
 The interior has a velvet-lined compartment.
 The interior has chinchilla fur and a lining of feathers.
-The interior has chinchilla fur and silk satin embroidered with the maker's gold monogram.
-The interior has chinchilla fur, silk satin embroidered with the maker's gold monogram and silk velvet embroidered with pearls.
+The interior has chinchilla fur and silk satin embroidered with the maker's gold monogram "__name_initials__".
+The interior has chinchilla fur, silk satin embroidered with the maker's gold monogram "__name_initials__" and silk velvet embroidered with pearls.
 The interior has chinchilla fur.
 The interior has gold-thread brocade and hand-embroidered silk with seed pearls.
 The interior has gold-thread brocade.
@@ -392,14 +392,14 @@ The interior has quilted gold silk.
 The interior has sable fur and mink fur.
 The interior has sable fur, mink fur and gold-thread brocade.
 The interior has sable fur, painted silk with a miniature scene and a gold-lamé lining stitched with crystals.
-The interior has sable fur, silk satin embroidered with the maker's gold monogram and silk brocade with a hand-woven gold pattern.
+The interior has sable fur, silk satin embroidered with the maker's gold monogram "__name_initials__" and silk brocade with a hand-woven gold pattern.
 The interior has sable fur.
 The interior has silk brocade with a hand-woven gold pattern and mink fur.
 The interior has silk brocade with a hand-woven gold pattern and quilted gold silk.
 The interior has silk brocade with a hand-woven gold pattern.
-The interior has silk satin embroidered with the maker's gold monogram, sable fur and chinchilla fur.
-The interior has silk satin embroidered with the maker's gold monogram, silk velvet embroidered with pearls and gold-thread brocade.
-The interior has silk satin embroidered with the maker's gold monogram.
+The interior has silk satin embroidered with the maker's gold monogram "__name_initials__", sable fur and chinchilla fur.
+The interior has silk satin embroidered with the maker's gold monogram "__name_initials__", silk velvet embroidered with pearls and gold-thread brocade.
+The interior has silk satin embroidered with the maker's gold monogram "__name_initials__".
 The interior has silk velvet embroidered with pearls and silk brocade with a hand-woven gold pattern.
 The interior has silk velvet embroidered with pearls, a gold-lamé lining stitched with crystals and chinchilla fur.
 The interior has silk velvet embroidered with pearls.

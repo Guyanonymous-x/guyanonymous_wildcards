@@ -247,9 +247,9 @@ hugging oneself, with energy
 walking away, in a deliberate posed moment
 standing arms wide open
 shrugging
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 reaching to the side, with graceful posture
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 lying propped on an elbow
 playing guitar, with a calm air
 standing rigid motionless posture
@@ -412,7 +412,7 @@ dancing
 leaning on a railing, while looking away
 standing tall in dramatic power pose
 playing piano, with focus
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 yawning, with a slight smile
 dancing dynamic fluid pose
 perched high on edge of ledge

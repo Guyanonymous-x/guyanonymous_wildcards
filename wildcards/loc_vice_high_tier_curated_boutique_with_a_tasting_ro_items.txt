@@ -1,15 +1,15 @@
 a double-height former bank hall on a prosperous street with the original plaster cornice retained and a new mezzanine inserted in steel and glass
 a receptionist at a stone desk with an appointment tablet and a discreet identification reader
 a ground-floor gallery with eight plinths each carrying one producer's range in heavy glass vessels
-brass placards giving farm
+brass placards reading "__name_town__ 1,400 M" __text_look_brass__ giving farm
 altitude
 harvest date
 cultivar and terpene assay
-a library wall of reference books and a flight of bound producer dossiers
+a library wall of reference books with spines reading "__name_book_title_any__" __text_look_print__ and a flight of bound producer dossiers
 a brass water station
 a vaporizer set on a stone slab with a technician behind it
 a ventilated vitrine of single-harvest lots under lock
-a humidity-controlled walk-in store with a glazed door and a readout
+a humidity-controlled walk-in store with a glazed door and a readout reading "65% 18 C" in red digits
 a packing room with tissue
 boxes and a wax seal
 a courier arrangement board

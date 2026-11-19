@@ -1,10 +1,10 @@
 the main walls, covered in layers of graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 the roof or top, covered in layers of graffiti reading "__text_graffiti_word__" __text_look_graffiti__
-the entrance, covered in layers of graffiti
+the entrance, covered in layers of graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 the windows or openings, covered in layers of graffiti reading "__text_graffiti_word__" __text_look_graffiti__
-the base, covered in layers of graffiti
-the railings, covered in layers of graffiti
+the base, covered in layers of graffiti reading "__text_graffiti_word__" __text_look_graffiti__
+the railings, covered in layers of graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 the stonework or cladding, covered in layers of graffiti reading "__text_graffiti_word__" __text_look_graffiti__
-the paintwork, covered in layers of graffiti
+the paintwork, covered in layers of graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 the ground floor, covered in layers of graffiti reading "__text_graffiti_word__" __text_look_graffiti__
-the edges, covered in layers of graffiti
+the edges, covered in layers of graffiti reading "__text_graffiti_word__" __text_look_graffiti__

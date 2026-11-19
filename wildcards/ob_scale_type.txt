@@ -48,8 +48,8 @@ a weighing scale and a chalkboard with weights and names such as "__name_first__
 a scale and chalkboard
 a set of digital scales on it
 digital scales
-a set of scales on the counter with a calibration sticker on it
-a set of scales with a calibration sticker
+a set of scales on the counter with a calibration sticker reading "CALIBRATED __name_year__" in small black print on a white sticker on it
+a set of scales with a calibration sticker reading "CALIBRATED __name_year__" __text_look_label__
 a -cased scale
 a scale with brass weights
 a hanging scale of 50 kg capacity

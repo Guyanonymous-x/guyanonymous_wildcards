@@ -3,7 +3,7 @@ a mobile phone
 a charging phone
 a lost phone
 a conference phone
-a laminated notice about phone
+a laminated notice reading "PLEASE SWITCH OFF YOUR PHONE" __text_look_paper_notice__, about phone
 an emergency phone
 a wall-mounted phone
 an interior phone
@@ -20,7 +20,7 @@ a phone on charge
 a phone in a locker
 a phone on a mount
 a phone on a stand
-a phone propped against a cereal box
+a phone propped against a cereal box printed "__name_brand_upper__" in bright bold letters
 a phone on the tiny shelf because there is nowhere else
 phones
 a phone on the wall
@@ -35,7 +35,7 @@ a phone at twelve percent
 a phone with a direct line
 a phone propped against a glass
 a phone propped up
-a laminated notice about phones
+a laminated notice about phones reading "PHONES ON SILENT" __text_look_paper_notice__, the rest of the sheet plain white
 a phone propped against the taps
 phone by the toilet in older hotels
 a phone on the cistern playing something
@@ -101,7 +101,7 @@ a phone kept in an inside pocket because it is the link to a key worker
 a phone and a power bank charged at a library or a cafe
 a phone and power bank
 a phone and a power bank charged in a library
-twenty phones on charge with a numbered tag on each
+twenty phones on charge with a numbered tag reading "__name_number_small__" in black marker on each
 because twenty identical black phones on a table is an argument waiting to happen and the tag system is the solution everybody arrives at
 phones with numbered tags
 a mobile phone propped up playing a film from home
@@ -112,7 +112,7 @@ a phone and a battery pack in a dry bag
 a dry-bagged phone and battery
 a phone on a cigarette-lighter charger with the engine off and the battery dropping
 a phone behind the bar face down
-a mobile phone on the desk with the request line number on a sticker
+a mobile phone on the desk with the request line number "__name_phone__" on a sticker
 a mobile phone on the desk with the request line number stuck to it
 a charging phone on a corridor extension
 two charging phones

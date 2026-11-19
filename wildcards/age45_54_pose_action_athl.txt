@@ -127,7 +127,7 @@ rolling up sleeves
 playing guitar, with focus
 leaning on a railing, while looking away
 reaching to the side, with graceful posture
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 using a phone
 sitting on a chair, while looking away
 sitting on a sofa, with focus
@@ -263,7 +263,7 @@ lounging lazily on sofa
 striding briskly
 singing, with energy
 laughing with a friend, while looking away
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 adjusting a jacket, with careful balance
 standing with hands on hips, with a casual attitude
 standing with arms crossed, with energy
@@ -372,7 +372,7 @@ adjusting a hat
 sitting on a windowsill
 leaning against brick wall
 leaning on a railing, with energy
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 sitting on the edge of a bed, with a calm air
 resting a head on a hand, while looking into the distance
 reading aloud, with focus

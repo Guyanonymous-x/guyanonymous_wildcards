@@ -1,7 +1,7 @@
-a rear screen with a menu
+a rear screen with a menu reading "SETTINGS" __text_look_screen__
 a small rear screen with a grid of lines
 a flip-out screen on a hinge
-a tiny top status screen
+a tiny top status screen showing "__name_number_small__00" in black digits
 a rear screen showing a photo
 a small viewfinder window
 a bright rear touch screen

@@ -1,4 +1,4 @@
-here a rock sanctuary on a mountain height, __faith_fa_thracrock_rock__, __faith_fa_thracrock_altar__, __faith_fa_thracrock_rockrite__
-here a rock sanctuary seen from the slope below it, the worshippers small against the sky, __faith_fa_thracrock_rock__, __faith_fa_thracrock_altar__, __faith_fa_thracrock_rockrite__
-here a painted beehive tomb under its great grassy mound, the stone passage standing open and the chambers within in view, __faith_fa_thracrock_tomb__, __faith_fa_thracrock_paint__, __faith_fa_thracrock_tombrite__
-here the entrance of a royal tomb mound with its doors standing open, the painted chamber glimpsed down the passage, __faith_fa_thracrock_tomb__, __faith_fa_thracrock_paint__, __faith_fa_thracrock_tombrite__
+here a rock sanctuary on a mountain height, one view across the rock, filling the picture __faith_fa_thracrock_rock__, on the rock __faith_fa_thracrock_altar__, __faith_fa_thracrock_rockrite__
+here a rock sanctuary seen from the slope below it, the worshippers small against the sky, filling the picture __faith_fa_thracrock_rock__, on its top __faith_fa_thracrock_altar__, __faith_fa_thracrock_rockrite__
+here a painted beehive tomb under its great grassy mound, the stone passage standing open, one view of the mound from outside, in the center of the picture __faith_fa_thracrock_tomb_out__, before it __faith_fa_thracrock_tombrite_out__
+here the entrance of a royal tomb mound with its doors standing open, the painted chamber glimpsed down the passage, one view from the open doors, __faith_fa_thracrock_tomb_in__, on the walls and dome __faith_fa_thracrock_paint__, __faith_fa_thracrock_tombrite_in__

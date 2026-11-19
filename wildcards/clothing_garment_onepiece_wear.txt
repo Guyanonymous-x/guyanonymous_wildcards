@@ -45,7 +45,7 @@
 1930s vinyl dance unitard
 1930s waffle-knit union suit
 1930s waffle-knit union suit with contrast collar
-1930s waffle-knit union suit with embroidered monogram
+1930s waffle-knit union suit with embroidered monogram "__name_initials__"
 1930s wide-leg overalls
 1930s zip-front catsuit
 1940s 1940s playsuit with smocked bodice
@@ -59,7 +59,7 @@
 1940s jersey space-age jumpsuit
 1940s lamé boiler jumpsuit
 1940s leather tuxedo jumpsuit
-1940s long johns union suit with embroidered monogram
+1940s long johns union suit with embroidered monogram "__name_initials__"
 1940s mechanic's coverall with orange stripe trim
 1940s merino wool union suit
 1940s nylon-spandex bodysuit
@@ -80,7 +80,7 @@
 1940s running unitard
 1940s satin romper with elastic waist
 1940s scoop-back bodysuit
-1940s short-sleeved union suit with embroidered monogram
+1940s short-sleeved union suit with embroidered monogram "__name_initials__"
 1940s short-sleeved union suit with ribbed ankles
 1940s tailored jumpsuit with racing stripes
 1940s tailored romper with zip back
@@ -299,7 +299,7 @@ Alpine lambswool button-front union suit
 Alpine lambswool thermal one-piece
 Alpine long-sleeved thermal bodysuit
 Alpine merino wool drop-seat union suit
-Alpine one-piece sleeper suit with feet with embroidered monogram
+Alpine one-piece sleeper suit with feet with embroidered monogram "__name_initials__"
 Alpine silk union suit
 Alpine ski base-layer one-piece
 Alpine ski base-layer one-piece with back flap
@@ -384,7 +384,7 @@ Edwardian stretch cotton halter bodysuit
 Edwardian stretch lace backless bodysuit
 Edwardian tuxedo jumpsuit
 Edwardian waffle knit union suit
-Edwardian waffle-knit union suit with embroidered monogram
+Edwardian waffle-knit union suit with embroidered monogram "__name_initials__"
 Edwardian wrap jumpsuit
 Euro-style fleece polyester leisure jumpsuit
 Euro-style jogging leisure jumpsuit
@@ -458,7 +458,7 @@ Nordic flannel one-piece with contrast collar
 Nordic lambswool ribbed union suit
 Nordic long-sleeved thermal bodysuit
 Nordic merino wool one-piece sleeper suit with feet
-Nordic one-piece pyjama suit with embroidered monogram
+Nordic one-piece pyjama suit with embroidered monogram "__name_initials__"
 Nordic one-piece sleeper suit with feet
 Nordic ribbed union suit
 Nordic thermal knit waffle-knit union suit
@@ -645,7 +645,7 @@ cabin-style one-piece sleeper suit with feet
 cabin-style silk union suit with henley collar
 cabin-style silk wool union suit
 cabin-style sleeveless union suit with button placket
-cabin-style sleeveless union suit with embroidered monogram
+cabin-style sleeveless union suit with embroidered monogram "__name_initials__"
 cabin-style waffle knit one-piece pyjama suit
 cabin-style waffle knit wool union suit
 canvas chest-high waders with ankle-length legs
@@ -683,7 +683,7 @@ cleanroom coverall
 cleanroom coverall with reflective tape bands
 cold-weather base-layer bodysuit
 cold-weather base-layer bodysuit with contrast trim
-cold-weather base-layer bodysuit with embroidered monogram
+cold-weather base-layer bodysuit with embroidered monogram "__name_initials__"
 cold-weather base-layer bodysuit with plaid flannel
 cold-weather base-layer bodysuit with ribbed ankles
 contemporary asbestos-style protective suit
@@ -1121,7 +1121,7 @@ jogging leisure jumpsuit
 jogging leisure jumpsuit with stand collar
 kitchen coverall
 knee-length union suit
-knee-length union suit with embroidered monogram
+knee-length union suit with embroidered monogram "__name_initials__"
 knee-length union suit with ribbed ankles
 lace 1940s playsuit with button front
 lace bodysuit
@@ -1139,7 +1139,7 @@ lace strapless romper with button front
 lace wrap romper with elastic waist
 lambswool cold-weather base-layer bodysuit with contrast trim
 lambswool drop-seat union suit
-lambswool flannel one-piece with embroidered monogram
+lambswool flannel one-piece with embroidered monogram "__name_initials__"
 lambswool flannel one-piece with striped trim
 lambswool one-piece sleeper suit with feet
 lambswool ribbed union suit with contrast trim
@@ -1671,11 +1671,11 @@ silk knee-length union suit with contrast trim
 silk long-sleeved thermal bodysuit
 silk union suit
 silk union suit with contrast trim
-silk union suit with embroidered monogram
+silk union suit with embroidered monogram "__name_initials__"
 silk union suit with ribbed ankles
 silk union suit with striped trim
 silk wool union suit
-silk wool union suit with embroidered monogram
+silk wool union suit with embroidered monogram "__name_initials__"
 silk wrestling-era union suit
 silk-look charmeuse glam-rock jumpsuit with zip pockets
 silk-look charmeuse motorcycle one-piece leathers with bell cuffs

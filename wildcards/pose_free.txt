@@ -138,9 +138,9 @@ Reaching to the side, with graceful posture.
 Reaching up.
 Reaching up, in a deliberate posed moment.
 Reaching up, with quiet confidence.
-Reading a book.
-Reading a book, with a casual attitude.
-Reading a book, with graceful posture.
+Reading a book titled "__name_book_title_any__" in gold capitals on a plain cover.
+Reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude.
+Reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture.
 Reading a map.
 Reading a map, while glancing at the camera.
 Reading a map, while looking into the distance.
@@ -288,10 +288,10 @@ Watering plants.
 Watering plants, while looking away.
 Watering plants, with a calm air.
 Waving.
-Writing in a notebook.
-Writing in a notebook, in a relaxed way.
-Writing in a notebook, while looking into the distance.
-Writing in a notebook, with energy.
+Writing in a notebook with "__text_note__" __text_look_handwriting__ across the top of the page, the rest of the page plain.
+Writing in a notebook with "__text_note__" __text_look_handwriting__ across the top of the page, the rest of the page plain, in a relaxed way.
+Writing in a notebook with "__text_note__" __text_look_handwriting__ across the top of the page, the rest of the page plain, while looking into the distance.
+Writing in a notebook with "__text_note__" __text_look_handwriting__ across the top of the page, the rest of the page plain, with energy.
 Yawning.
 Yawning, in mid-motion.
 Yawning, while looking into the distance.

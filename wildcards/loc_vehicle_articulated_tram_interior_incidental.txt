@@ -1,9 +1,9 @@
 an umbrella dripping in the vestibule with a puddle spreading from it
-a free newspaper on a seat
-a card receipt from a platform machine on the floor
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the page a large photo, on a seat
+a card receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip blank, from a platform machine on the floor
 a chewing gum blob on a window ledge
 a dog's wet paw prints along the aisle
-a crisp packet sliding on the camber of a curve
+a crisp packet printed "__name_brand_upper__" __text_look_print__ sliding on the camber of a curve
 a hairband
 a tag scratched in the glass
 a travelcard in the gap between two seats

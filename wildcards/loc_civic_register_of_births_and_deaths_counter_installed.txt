@@ -1,7 +1,7 @@
 individual desks rather than an open counter because the business is equally birth and death
-a waiting area with a ticket system
+a waiting area with a ticket system with a screen reading "__text_screen__" __text_look_dotmatrix__
 a safe or strongroom for the bound registers
 a certificate printer
 a private room for difficult conversations
-a leaflet rack covering bereavement services
+a leaflet rack covering bereavement services, headed "BEREAVEMENT SUPPORT" __text_look_print__, the rest of the leaflet plain
 a box of tissues on every desk, which is the detail that tells you what the room is

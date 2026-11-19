@@ -137,7 +137,7 @@ reaching to the side
 stepping off a curb
 reclining on a sofa, in a deliberate posed moment
 balancing on one foot, with focus
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 walking along a path
 pausing mid-step, at rest
 lying on the back, while looking away
@@ -348,7 +348,7 @@ painting at an easel, in a natural candid moment
 kneeling on both knees, with careful balance
 talking on the phone, while looking into the distance
 sitting at a table, with careful balance
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting on a sofa
 sitting on a curb
 standing on a balcony
@@ -367,7 +367,7 @@ striding forward aggressively
 sitting on a windowsill, with energy
 huddled tight cold posture
 reaching up
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 leaning against a doorframe
 bending forward
 riding a bicycle, in a deliberate posed moment

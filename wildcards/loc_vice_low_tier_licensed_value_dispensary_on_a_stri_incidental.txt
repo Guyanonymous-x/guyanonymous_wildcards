@@ -1,10 +1,10 @@
 a point-of-sale system logging every gram to a state seed-to-sale database in real time, every gram in the building has a number
 a source and a destination, and the terminal will physically refuse a sale that breaches a daily limit
 a cannabis waste bin with a chain-of-custody log beside it, because product waste is tracked and must be rendered unusable and witnessed, which is a regulatory requirement nobody outside the trade expects
-a ninety-day camera retention notice on the wall
+a ninety-day camera retention notice reading "CCTV IN OPERATION 90 DAYS" in bold black print on a yellow plate on the wall
 a daily purchase limit sign reading "__loc_text_limit__" by the till
 a seated guard with an identification scanner in a vestibule with two interlocked doors
-a numbered ticket dispenser and eight bolted chairs, which make the premises feel like a benefits office and are a deliberate consequence of queue management rules
+a numbered ticket dispenser marked "TAKE A NUMBER" in red letters and eight bolted chairs, which make the premises feel like a benefits office and are a deliberate consequence of queue management rules
 a time clock in the staff room
-menu screens with percentages on them
+menu screens reading "__text_price_line__ THC 18%" __text_look_screen__ with percentages on them
 immediate and entirely contained by a specified extraction system

@@ -22,12 +22,12 @@ a roller map
 maps
 a map in a case
 a map folded badly
-a map with a route drawn on it in ballpoint
-a map with a fold worn through
+a map with "__name_town__" printed in small black type with a route drawn on it in ballpoint
+a map with "__name_town__" printed in small black type with a fold worn through
 a wall map of the district marked with applications
 the wall map
-a map with acetate overlay and chinagraph marks
-a wall map or screen showing the incident
+a map headed "__name_town__" in black capitals with acetate overlay and chinagraph marks
+a wall map or screen showing the incident with "INCIDENT ROOM" in white letters along the top
 the map with acetate overlay
 a map in a frame
 a network map in a frame
@@ -47,9 +47,9 @@ a map in a case on the dash
 a map in a case on the dash with a route penciled on the plastic
 a route map in a frame
 a map folded to the section
-a map with a crease worn through at one fold
-a map with a crease worn through at one fold even though the phone is doing the navigating
-a laminated route map with one junction circled where the gradient catches people out
+a map titled "__name_town__ AND DISTRICT" in black print with a crease worn through at one fold
+a map titled "__name_town__ AND DISTRICT" in black print with a crease worn through at one fold even though the phone is doing the navigating
+a laminated route map titled "__name_town__ ROUTES" in black print with one junction circled where the gradient catches people out
 a field map in a clip
 a field map in a clip with the hazards marked, a pole line
 the hand-marked hazard map
@@ -58,7 +58,7 @@ a map in a rim pocket with the landing permissions marked in pencil, a farmer wh
 the map and the extinguisher
 a fire map in a case with the day's fire drawn on it in marker over a printed base and the wind arrow added by hand
 a set of maps on a wall
-a wall map with pencil marks at the night stops
+a wall map titled "ROUTE MAP" in small black capitals, with pencil marks at the night stops
 wall maps
 a map in a case folded to one grid square
 a map folded to one square
@@ -73,7 +73,7 @@ a map that will not lie flat weighted with four sinkers
 a framed estate map of 1842 on linen 2.1 m by 1.5 m hung over the chimneypiece
 a wall map of the drainage scheme with colored washes
 a framed estate map of 1842 hung over the chimneypiece
-the 1842 estate map with eleven later alterations in four inks
+the 1842 estate map headed "__name_town__ ESTATE 1842" in copperplate, with eleven later alterations in four inks
 a laminated boundary map on a tree
 a map of the world with the territories of the Empire in red
 a map of the county

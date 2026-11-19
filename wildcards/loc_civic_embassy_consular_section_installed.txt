@@ -1,6 +1,6 @@
 a public hall entered through airport-standard security with bag screening and no phones permitted
 glazed windows with pass-through trays
-a ticket system
+a ticket system with a screen reading "__text_screen__" __text_look_dotmatrix__
 biometric capture at each window
 a private interview room for referred cases
 national arms above the windows

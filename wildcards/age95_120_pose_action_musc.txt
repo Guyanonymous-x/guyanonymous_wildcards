@@ -7,7 +7,7 @@ sprawled back reclining posture
 standing with feet together, with a slight smile
 crouching low, in a natural candid moment
 stretching the arms overhead, with a slight smile
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 hopping, in mid-motion
 standing turned three-quarters away
 pulling a suitcase
@@ -150,7 +150,7 @@ standing with hands in pockets
 painting at an easel, in a natural candid moment
 doing a yoga pose
 leaning on a railing, with energy
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 descending steps, with a casual attitude
 kneeling on one knee on ground
 leaning on a tree, with graceful posture
@@ -462,7 +462,7 @@ writing in a notebook, in a relaxed way
 laughing with a friend, in a relaxed way
 leaning on a fence, in a relaxed way
 reading aloud, with careful balance
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 hands behind the back, with quiet confidence
 striding forward aggressively
 hands behind the back, with a calm air

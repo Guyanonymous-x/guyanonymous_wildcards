@@ -1,12 +1,12 @@
 a strip-mall unit with a monument sign reading "__loc_text_notice__"
 a two-door security vestibule with a guard and a scanner
-a waiting area with bolted chairs and a ticket dispenser
+a waiting area with bolted chairs and a ticket dispenser marked "TAKE A NUMBER" in red letters
 a six-position counter behind laminated glass with pass-through drawers
-menu screens
+menu screens showing "__text_price_line__" __text_look_screen__
 a wall of pre-packaged stock
 a compliance point-of-sale system
 a vault room
-cameras throughout with a retention notice
+cameras throughout with a retention notice reading "CCTV IN OPERATION" in bold black print on a yellow plate
 a limit sign reading "__loc_text_notice__"
 a staff room with a time clock
 a logged waste bin

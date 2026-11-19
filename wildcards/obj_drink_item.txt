@@ -6,7 +6,7 @@ a mug of hot chocolate
 a glass of red wine
 a glass of white wine
 a flute of sparkling wine
-a bottle of craft beer
+a bottle of craft beer labeled "__name_brand_upper__" __text_look_print__
 a pint of stout
 a cocktail with a garnish
 a smoothie in a tall glass
@@ -17,12 +17,12 @@ a glass of milk
 a cup of mate
 a chai in a clay cup
 a glass of whisky with ice
-a bottle of sake
+a bottle of sake labeled "__name_brand_upper__" __text_look_print__
 a pot of Turkish coffee
 a water glass with ice
 a shot of tequila with salt and lime
 a mug of mulled wine
-a jar of kombucha
+a jar of kombucha labeled "KOMBUCHA" __text_look_label__
 a carafe of sangria
 a cup of kava
 a gourd of herbal tea

@@ -1,8 +1,8 @@
 key cards
-brochures
+brochures headed "VISIT __name_town__" __text_look_print__, the rest of each cover plain
 maps
 luggage
 umbrellas
-newspapers
+newspapers with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of each front page plain
 registration forms
 flower arrangements

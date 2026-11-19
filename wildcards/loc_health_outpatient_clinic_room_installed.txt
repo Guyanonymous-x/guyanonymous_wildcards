@@ -4,7 +4,7 @@ an examination couch behind a curtain
 a sink
 a computer
 a lamp
-a notice board carrying whichever specialty's posters have survived
-a clinic room number on the door
+a notice board carrying whichever specialty's posters have survived, reading "__text_health_poster__" __text_look_print__
+a clinic room number "__name_number_small__" in white letters on a blue plate on the door
 a call system linked to the waiting area
 a chair placed for a relative

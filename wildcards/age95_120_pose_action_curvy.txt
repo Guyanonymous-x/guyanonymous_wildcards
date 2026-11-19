@@ -53,7 +53,7 @@ standing in a doorway frame, in mid-motion
 leaning on a railing, while looking away
 standing with hands on hips
 praying
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting forward with elbows on knees
 leaning on a counter
 stumbling unsteady walking stance
@@ -240,7 +240,7 @@ resting a head on a hand, while looking into the distance
 doing a lunge, while glancing at the camera
 hands behind the back, with a calm air
 resting a head on a hand
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on a chair, with a calm air
 riding a bicycle
 reaching forward, with energy
@@ -261,7 +261,7 @@ yawning, with a slight smile
 sleeping
 leaning forward resting on railing
 lying on the back
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 eating
 drinking from a cup, while looking into the distance
 clapping, with a calm air

@@ -1,12 +1,12 @@
-a timetable leaflet in a rack curling with damp
+a timetable leaflet headed "__text_departure__" in bold print in a rack curling with damp
 a coffee cup on the base of a stand sign reading "__loc_text_bus__"
 a chewing gum patch at the stand edge
 a dropped travelcard
 a pigeon walking the canopy edge
 a carrier bag of shopping between someone's feet
-a free newspaper blown under a bench
+a free newspaper with the headline "__text_headline__" __text_look_headline__ blown under a bench
 a scooter
 a cigarette end
 a lost glove on a railing
 a charity collector's bucket
-a bus company sticker peeling from a shelter panel
+a bus company sticker reading "__name_trade_corp__ BUSES" __text_look_print__ peeling from a shelter panel

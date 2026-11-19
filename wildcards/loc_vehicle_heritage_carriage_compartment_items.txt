@@ -4,9 +4,9 @@ a framed sepia photograph of a seaside resort above each seat
 a mirror with a beveled edge
 an ashtray in the armrest
 a door handle in brass on the inside
-a communication cord with a penalty notice
+a communication cord with a penalty notice reading "PENALTY FOR IMPROPER USE __name_price__" in white letters on a red plate
 a hat on the rack
 a picnic basket on a seat
-a paper ticket
+a paper ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
 a rug folded
-a timetable leaflet
+a timetable leaflet reading "__text_departure__" __text_look_print__, the rest of the leaflet plain

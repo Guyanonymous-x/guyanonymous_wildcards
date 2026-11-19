@@ -121,15 +121,15 @@ Inside it has sable fur and silk velvet embroidered with pearls.
 Inside it has sable fur.
 Inside it has silk brocade with a hand-woven gold pattern, a mirror-mosaic lining and painted silk with a miniature scene.
 Inside it has silk brocade with a hand-woven gold pattern.
-Inside it has silk satin embroidered with the maker's gold monogram and gold-thread brocade.
-Inside it has silk satin embroidered with the maker's gold monogram, a gold-lamé lining stitched with crystals and sable fur.
-Inside it has silk satin embroidered with the maker's gold monogram, mink fur and sable fur.
-Inside it has silk satin embroidered with the maker's gold monogram, silk brocade with a hand-woven gold pattern and chinchilla fur.
-Inside it has silk satin embroidered with the maker's gold monogram.
+Inside it has silk satin embroidered with the maker's gold monogram "__name_initials__" and gold-thread brocade.
+Inside it has silk satin embroidered with the maker's gold monogram "__name_initials__", a gold-lamé lining stitched with crystals and sable fur.
+Inside it has silk satin embroidered with the maker's gold monogram "__name_initials__", mink fur and sable fur.
+Inside it has silk satin embroidered with the maker's gold monogram "__name_initials__", silk brocade with a hand-woven gold pattern and chinchilla fur.
+Inside it has silk satin embroidered with the maker's gold monogram "__name_initials__".
 Inside it has silk velvet embroidered with pearls and mink fur.
 Inside it has silk velvet embroidered with pearls, painted silk with a miniature scene and sable fur.
 Inside it has silk velvet embroidered with pearls.
-It is backed with a gold-lamé lining stitched with crystals and silk satin embroidered with the maker's gold monogram.
+It is backed with a gold-lamé lining stitched with crystals and silk satin embroidered with the maker's gold monogram "__name_initials__".
 It is backed with a gold-lamé lining stitched with crystals.
 It is backed with a hand-engraved reverse and a hand-fitted gold pin and catch.
 It is backed with a hand-engraved reverse and a platinum safety catch.
@@ -267,10 +267,10 @@ It is backed with quilted gold silk and mink fur.
 It is backed with quilted gold silk.
 It is backed with sable fur.
 It is backed with silk brocade with a hand-woven gold pattern.
-It is backed with silk satin embroidered with the maker's gold monogram and a lining of feathers.
-It is backed with silk satin embroidered with the maker's gold monogram and mink fur.
-It is backed with silk satin embroidered with the maker's gold monogram, painted silk with a miniature scene and mink fur.
-It is backed with silk satin embroidered with the maker's gold monogram.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__" and a lining of feathers.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__" and mink fur.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__", painted silk with a miniature scene and mink fur.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__".
 It is backed with silk velvet embroidered with pearls and a mirror-mosaic lining.
 It is backed with silk velvet embroidered with pearls, quilted gold silk and a lining of feathers.
 It is backed with silk velvet embroidered with pearls.
@@ -386,18 +386,18 @@ The reverse has a secret compartment in the back, a locket-style back, a platinu
 The reverse has a secret compartment in the back, a platinum safety catch and a hand-fitted gold pin and catch.
 The reverse has a secret compartment in the back, a platinum safety catch, a hand-fitted gold pin and catch and a hand-engraved reverse.
 The reverse has a secret compartment in the back.
-The reverse has chinchilla fur, a gold-lamé lining stitched with crystals and silk satin embroidered with the maker's gold monogram.
+The reverse has chinchilla fur, a gold-lamé lining stitched with crystals and silk satin embroidered with the maker's gold monogram "__name_initials__".
 The reverse has chinchilla fur, a lining of feathers and silk velvet embroidered with pearls.
 The reverse has chinchilla fur.
 The reverse has gold-thread brocade.
-The reverse has hand-embroidered silk with seed pearls and silk satin embroidered with the maker's gold monogram.
+The reverse has hand-embroidered silk with seed pearls and silk satin embroidered with the maker's gold monogram "__name_initials__".
 The reverse has hand-embroidered silk with seed pearls, mink fur and a lining of feathers.
 The reverse has hand-embroidered silk with seed pearls, quilted gold silk and a gold-lamé lining stitched with crystals.
 The reverse has hand-embroidered silk with seed pearls.
 The reverse has mink fur.
 The reverse has painted silk with a miniature scene, a lining of feathers and silk velvet embroidered with pearls.
 The reverse has painted silk with a miniature scene.
-The reverse has quilted gold silk, a lining of feathers and silk satin embroidered with the maker's gold monogram.
+The reverse has quilted gold silk, a lining of feathers and silk satin embroidered with the maker's gold monogram "__name_initials__".
 The reverse has quilted gold silk, silk velvet embroidered with pearls and sable fur.
 The reverse has quilted gold silk.
 The reverse has sable fur and silk velvet embroidered with pearls.
@@ -406,7 +406,7 @@ The reverse has sable fur.
 The reverse has silk brocade with a hand-woven gold pattern and a mirror-mosaic lining.
 The reverse has silk brocade with a hand-woven gold pattern, painted silk with a miniature scene and chinchilla fur.
 The reverse has silk brocade with a hand-woven gold pattern.
-The reverse has silk satin embroidered with the maker's gold monogram.
+The reverse has silk satin embroidered with the maker's gold monogram "__name_initials__".
 The reverse has silk velvet embroidered with pearls and painted silk with a miniature scene.
 The reverse has silk velvet embroidered with pearls, a mirror-mosaic lining and chinchilla fur.
 The reverse has silk velvet embroidered with pearls.

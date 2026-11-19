@@ -1,5 +1,5 @@
-a parking ticket on a dashboard
-a pay machine receipt
+a parking ticket printed "PAID UNTIL 18:00" in black print on a dashboard
+a pay machine receipt reading "PAID __name_price__" __text_look_receipt__
 a dropped glove
 a trolley from the shop
 a cone marking an oil spill

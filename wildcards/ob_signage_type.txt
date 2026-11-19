@@ -3,5 +3,5 @@ a wall-mounted directional sign reading "__text_sign_english__" in __sign_letter
 an illuminated exit sign reading "__text_sign_english__" in __sign_lettering__
 a floor-marking sign reading "__text_sign_english__" in __sign_lettering__
 a door plate sign reading "__text_sign_english__" in __sign_lettering__
-a freestanding A-board
+a freestanding A-board reading "__text_price_line__" __text_look_chalk__
 a sign on a post

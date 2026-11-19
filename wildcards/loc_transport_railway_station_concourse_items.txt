@@ -1,8 +1,8 @@
 a suitcase on wheels
 a coffee cup
-a ticket
-a timetable leaflet
-a dropped boarding pass
+a ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
+a timetable leaflet reading "__text_departure__" __text_look_print__, the rest of the leaflet plain
+a dropped boarding pass, printed "BOARDING PASS GATE __name_number_small__" in black print, the rest of the pass plain
 a busker's case
 a charity collector's bucket
 a dog on a lead

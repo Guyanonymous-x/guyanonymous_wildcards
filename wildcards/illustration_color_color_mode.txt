@@ -6,6 +6,6 @@ tritone, three ink colors only
 a limited palette of four to six colors
 a moderate palette of seven to twelve colors
 full color
-flat spot colors only, no blending
+flat spot colors only, each one solid and separate
 1-bit pure black and white pixels
 smooth grayscale like a 3D depth map, near things white and far things black

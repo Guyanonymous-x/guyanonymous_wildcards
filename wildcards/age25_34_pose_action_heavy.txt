@@ -232,7 +232,7 @@ standing on a balcony, while glancing at the camera
 stretching to the side
 reaching to the side
 sitting on a low wall, while looking away
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting at a desk
 hugging the knees, with energy
 lounging lazily on sofa
@@ -278,7 +278,7 @@ running, with a calm air
 lying on the side, with graceful posture
 sitting on a stool
 sitting on a chair, in a natural candid moment
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 sitting at a desk, with a casual attitude
 perching on a stool, in a natural candid moment
 swaying
@@ -434,7 +434,7 @@ hands behind the head, with careful balance
 reclining on a sofa, in a deliberate posed moment
 jogging, with graceful posture
 pulling a suitcase, with quiet confidence
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on steps
 walking toward the camera, in a relaxed way
 sitting on the floor, with a sense of ease

@@ -14,7 +14,7 @@ pulls a napkin across a lap
 lifts the lid of a cake tin
 tips a hat onto a waiting head
 presses the button on a coffee machine
-swats a fly with a rolled-up newspaper
-puts a stamp on an envelope
+swats a fly with a rolled-up newspaper with the masthead "__name_newspaper__" in bold black print showing
+puts a stamp on an envelope, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 feeds a cat a single biscuit
 scratches a dog behind the ear with a back-scratcher

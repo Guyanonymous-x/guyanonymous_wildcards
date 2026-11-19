@@ -1,4 +1,4 @@
 a glowing ring of light on top
 a small digital clock display
 a row of dots that pulse
-a tiny screen showing the time
+a tiny screen showing the time reading "__text_watch_time__" in white digits

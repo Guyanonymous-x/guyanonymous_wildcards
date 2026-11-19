@@ -271,7 +271,7 @@ writing in a notebook, with energy
 descending steps, with quiet confidence
 sitting at a desk
 standing tall in dramatic power pose
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 standing relaxed with arms crossed
 drinking from a cup, with careful balance
 sitting on a rock, in a deliberate posed moment
@@ -305,7 +305,7 @@ tying hair back
 kneeling on one knee on ground
 sitting forward with elbows on knees
 doing a stretch
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting on a log, with energy
 mid-jump, in mid-motion
 shrugging, with a casual attitude
@@ -376,7 +376,7 @@ swaying
 standing with hands on hips, while glancing at the camera
 reaching to the side, while glancing at the camera
 standing with arms crossed
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 doing a stretch, in mid-motion
 lounging in a hammock, in mid-motion
 doing a lunge, while glancing at the camera

@@ -1,4 +1,4 @@
-a newspaper
+a newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a dropped glove
 a bicycle
-a customer information screen
+a customer information screen reading "__text_departure__" __text_look_dotmatrix__, the rest of the screen dark

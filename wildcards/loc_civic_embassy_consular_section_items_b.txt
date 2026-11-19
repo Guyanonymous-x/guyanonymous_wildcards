@@ -1,3 +1,3 @@
-a numbered ticket
-a fee receipt
-a notice in two languages
+a numbered ticket reading "NUMBER __name_number_small__" in bold black print, the rest of the ticket plain
+a fee receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip plain
+a notice in two languages, reading "WELCOME" with "BIENVENIDOS" below it in bold black print, the rest of the sheet plain white

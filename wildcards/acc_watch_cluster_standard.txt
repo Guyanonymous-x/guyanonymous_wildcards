@@ -8,7 +8,7 @@ __acc_adj_standard__ chain-bracelet watch, made of __acc_watch_mat_all_standard_
 __acc_adj_standard__ chess-clock style watch, made of __acc_watch_mat_all_standard__. It is a bold square watch in a retro style.
 __acc_adj_standard__ chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals.
 __acc_adj_standard__ cuff watch, made of __acc_watch_mat_all_standard__. It is a watch set into a wide bracelet.
-__acc_adj_standard__ digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
+__acc_adj_standard__ digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
 __acc_adj_standard__ diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown.
 __acc_adj_standard__ dress watch, made of __acc_watch_mat_all_standard__. It is a slim round watch with a plain face.
 __acc_adj_standard__ enamel dial watch, made of __acc_watch_mat_all_standard__. It has a dial painted in glossy enamel.
@@ -211,8 +211,8 @@ a dapper chain-bracelet watch, made of __acc_watch_mat_all_standard__. It has a 
 a dapper chain-bracelet watch, made of __acc_watch_mat_all_standard__. It has a fine chain band and a small dial. It also includes __acc_watch_practical__.
 a dapper chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals.
 a dapper chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals. It also includes __acc_watch_practical__.
-a dapper digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-a dapper digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+a dapper digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+a dapper digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 a dapper enamel dial watch, made of __acc_watch_mat_all_standard__. It has a dial painted in glossy enamel.
 a dapper enamel dial watch, made of __acc_watch_mat_all_standard__. It has a dial painted in glossy enamel. It also includes __acc_watch_practical__.
 a dapper fitness watch, made of __acc_watch_mat_all_standard__. It tracks steps and heart rate with a rubber strap.
@@ -405,8 +405,8 @@ a pleasing world-time watch, made of __acc_watch_mat_all_standard__. It shows th
 a pleasing world-time watch, made of __acc_watch_mat_all_standard__. It shows the time in many cities at once. It also includes __acc_watch_practical__.
 a polished-up chess-clock style watch, made of __acc_watch_mat_all_standard__. It is a bold square watch in a retro style.
 a polished-up chess-clock style watch, made of __acc_watch_mat_all_standard__. It is a bold square watch in a retro style. It also includes __acc_watch_practical__.
-a polished-up digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-a polished-up digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+a polished-up digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+a polished-up digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 a polished-up enamel dial watch, made of __acc_watch_mat_all_standard__. It has a dial painted in glossy enamel.
 a polished-up enamel dial watch, made of __acc_watch_mat_all_standard__. It has a dial painted in glossy enamel. It also includes __acc_watch_practical__.
 a polished-up mechanical dive watch, made of __acc_watch_mat_all_standard__. It is a watch with a heavy case and a luminous dial.
@@ -435,8 +435,8 @@ a quality chain-bracelet watch, made of __acc_watch_mat_all_standard__. It has a
 a quality chain-bracelet watch, made of __acc_watch_mat_all_standard__. It has a fine chain band and a small dial. It also includes __acc_watch_practical__.
 a quality cuff watch, made of __acc_watch_mat_all_standard__. It is a watch set into a wide bracelet.
 a quality cuff watch, made of __acc_watch_mat_all_standard__. It is a watch set into a wide bracelet. It also includes __acc_watch_practical__.
-a quality digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-a quality digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+a quality digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+a quality digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 a quality field watch, made of __acc_watch_mat_all_standard__. It is a sturdy watch with a clear dial and a canvas strap.
 a quality field watch, made of __acc_watch_mat_all_standard__. It is a sturdy watch with a clear dial and a canvas strap. It also includes __acc_watch_practical__.
 a quality fitness watch, made of __acc_watch_mat_all_standard__. It tracks steps and heart rate with a rubber strap.
@@ -461,8 +461,8 @@ a respectable ancient sundial pendant, made of __acc_watch_mat_all_standard__. I
 a respectable ancient sundial pendant, made of __acc_watch_mat_all_standard__. It is a small portable sundial on a chain. It also includes __acc_watch_practical__.
 a respectable cartoon-dial watch, made of __acc_watch_mat_all_standard__. It has a playful animated face.
 a respectable cartoon-dial watch, made of __acc_watch_mat_all_standard__. It has a playful animated face. It also includes __acc_watch_practical__.
-a respectable digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-a respectable digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+a respectable digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+a respectable digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 a respectable enamel dial watch, made of __acc_watch_mat_all_standard__. It has a dial painted in glossy enamel.
 a respectable enamel dial watch, made of __acc_watch_mat_all_standard__. It has a dial painted in glossy enamel. It also includes __acc_watch_practical__.
 a respectable field watch, made of __acc_watch_mat_all_standard__. It is a sturdy watch with a clear dial and a canvas strap.
@@ -481,8 +481,8 @@ a shapely ancient sundial pendant, made of __acc_watch_mat_all_standard__. It is
 a shapely ancient sundial pendant, made of __acc_watch_mat_all_standard__. It is a small portable sundial on a chain. It also includes __acc_watch_practical__.
 a shapely astronomical watch, made of __acc_watch_mat_all_standard__. It shows stars and the planets.
 a shapely astronomical watch, made of __acc_watch_mat_all_standard__. It shows stars and the planets. It also includes __acc_watch_practical__.
-a shapely digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-a shapely digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+a shapely digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+a shapely digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 a shapely leather wrap watch, made of __acc_watch_mat_all_standard__. It wraps several times around the wrist.
 a shapely leather wrap watch, made of __acc_watch_mat_all_standard__. It wraps several times around the wrist. It also includes __acc_watch_practical__.
 a shapely mechanical dive watch, made of __acc_watch_mat_all_standard__. It is a watch with a heavy case and a luminous dial.
@@ -503,8 +503,8 @@ a smart chess-clock style watch, made of __acc_watch_mat_all_standard__. It is a
 a smart chess-clock style watch, made of __acc_watch_mat_all_standard__. It is a bold square watch in a retro style. It also includes __acc_watch_practical__.
 a smart chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals.
 a smart chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals. It also includes __acc_watch_practical__.
-a smart digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-a smart digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+a smart digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+a smart digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 a smart dress watch, made of __acc_watch_mat_all_standard__. It is a slim round watch with a plain face.
 a smart dress watch, made of __acc_watch_mat_all_standard__. It is a slim round watch with a plain face. It also includes __acc_watch_practical__.
 a smart mechanical dive watch, made of __acc_watch_mat_all_standard__. It is a watch with a heavy case and a luminous dial.
@@ -533,8 +533,8 @@ a solid chain-bracelet watch, made of __acc_watch_mat_all_standard__. It has a f
 a solid chain-bracelet watch, made of __acc_watch_mat_all_standard__. It has a fine chain band and a small dial. It also includes __acc_watch_practical__.
 a solid chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals.
 a solid chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals. It also includes __acc_watch_practical__.
-a solid digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-a solid digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+a solid digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+a solid digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 a solid diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown.
 a solid diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown. It also includes __acc_watch_practical__.
 a solid enamel dial watch, made of __acc_watch_mat_all_standard__. It has a dial painted in glossy enamel.
@@ -621,8 +621,8 @@ a trim chess-clock style watch, made of __acc_watch_mat_all_standard__. It is a 
 a trim chess-clock style watch, made of __acc_watch_mat_all_standard__. It is a bold square watch in a retro style. It also includes __acc_watch_practical__.
 a trim chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals.
 a trim chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals. It also includes __acc_watch_practical__.
-a trim digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-a trim digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+a trim digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+a trim digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 a trim dress watch, made of __acc_watch_mat_all_standard__. It is a slim round watch with a plain face.
 a trim dress watch, made of __acc_watch_mat_all_standard__. It is a slim round watch with a plain face. It also includes __acc_watch_practical__.
 a trim enamel dial watch, made of __acc_watch_mat_all_standard__. It has a dial painted in glossy enamel.
@@ -721,8 +721,8 @@ a well-proportioned chain-bracelet watch, made of __acc_watch_mat_all_standard__
 a well-proportioned chain-bracelet watch, made of __acc_watch_mat_all_standard__. It has a fine chain band and a small dial. It also includes __acc_watch_practical__.
 a well-proportioned chess-clock style watch, made of __acc_watch_mat_all_standard__. It is a bold square watch in a retro style.
 a well-proportioned chess-clock style watch, made of __acc_watch_mat_all_standard__. It is a bold square watch in a retro style. It also includes __acc_watch_practical__.
-a well-proportioned digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-a well-proportioned digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+a well-proportioned digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+a well-proportioned digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 a well-proportioned diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown.
 a well-proportioned diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown. It also includes __acc_watch_practical__.
 a well-proportioned enamel dial watch, made of __acc_watch_mat_all_standard__. It has a dial painted in glossy enamel.
@@ -771,8 +771,8 @@ an appealing chain-bracelet watch, made of __acc_watch_mat_all_standard__. It ha
 an appealing chain-bracelet watch, made of __acc_watch_mat_all_standard__. It has a fine chain band and a small dial. It also includes __acc_watch_practical__.
 an appealing cuff watch, made of __acc_watch_mat_all_standard__. It is a watch set into a wide bracelet.
 an appealing cuff watch, made of __acc_watch_mat_all_standard__. It is a watch set into a wide bracelet. It also includes __acc_watch_practical__.
-an appealing digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-an appealing digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+an appealing digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+an appealing digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 an appealing diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown.
 an appealing diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown. It also includes __acc_watch_practical__.
 an appealing dress watch, made of __acc_watch_mat_all_standard__. It is a slim round watch with a plain face.
@@ -797,8 +797,8 @@ an attractive cartoon-dial watch, made of __acc_watch_mat_all_standard__. It has
 an attractive cartoon-dial watch, made of __acc_watch_mat_all_standard__. It has a playful animated face. It also includes __acc_watch_practical__.
 an attractive cuff watch, made of __acc_watch_mat_all_standard__. It is a watch set into a wide bracelet.
 an attractive cuff watch, made of __acc_watch_mat_all_standard__. It is a watch set into a wide bracelet. It also includes __acc_watch_practical__.
-an attractive digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-an attractive digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+an attractive digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+an attractive digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 an attractive diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown.
 an attractive diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown. It also includes __acc_watch_practical__.
 an attractive dress watch, made of __acc_watch_mat_all_standard__. It is a slim round watch with a plain face.
@@ -841,8 +841,8 @@ an orderly astronomical watch, made of __acc_watch_mat_all_standard__. It shows 
 an orderly astronomical watch, made of __acc_watch_mat_all_standard__. It shows stars and the planets. It also includes __acc_watch_practical__.
 an orderly chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals.
 an orderly chronograph, made of __acc_watch_mat_all_standard__. It is a watch with sub-dials that time short intervals. It also includes __acc_watch_practical__.
-an orderly digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers.
-an orderly digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers. It also includes __acc_watch_practical__.
+an orderly digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__.
+an orderly digital watch, made of __acc_watch_mat_all_standard__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It also includes __acc_watch_practical__.
 an orderly diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown.
 an orderly diver's watch, made of __acc_watch_mat_all_standard__. It is a watch with a rotating bezel and a screw-down crown. It also includes __acc_watch_practical__.
 an orderly dress watch, made of __acc_watch_mat_all_standard__. It is a slim round watch with a plain face.

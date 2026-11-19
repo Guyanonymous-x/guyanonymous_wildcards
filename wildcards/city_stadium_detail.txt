@@ -1,4 +1,4 @@
 floodlight towers
-a scoreboard
+a scoreboard reading "__text_score__" __text_look_dotmatrix__, the rest of the board dark
 banners reading "__text_banner_festival__" __text_look_banner__ hanging
 vendors' counters

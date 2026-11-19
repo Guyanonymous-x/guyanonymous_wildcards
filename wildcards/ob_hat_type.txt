@@ -11,7 +11,7 @@ a fur hat
 a hard hat with the name "__name_surname__" on it
 a hard hat on a hook
 a hard hat with "__name_first__" written on it in marker
-a hard hat with a sticker set
+a hard hat with a sticker set reading "__name_brand_upper__" and "SAFETY FIRST" in bold print
 a sun hat on a chair
 a hat on a hook
 a hat with a frost rime
@@ -21,7 +21,7 @@ a sun hat on a cane
 a hard hat and boots in a bag by the door
 a hard hat on a box
 the hard hats on hooks by the door
-a hard hat on a hook with a sticker on it
+a hard hat on a hook with a sticker reading "FIRST AIDER" in white letters on a green sticker on it
 a hat set down on a seat
 a hat set on a seat
 a hard hat on a shelf
@@ -33,7 +33,7 @@ a hard hat with a visor
 a hard hat hung on a snag
 a hard hat with ear defenders and visor
 a hard hat and hi-vis
-a hard hat with a sticker set that dates its owner
+a hard hat with a sticker set reading "__name_brand_upper__" and "__name_trade_corp__" __text_look_print__ that dates its owner
 a hat from a volunteer group
 a hat and blanket donated by volunteers
 a hat and coat on a peg
@@ -46,13 +46,13 @@ a hat with a frost rime on the brim
 hats on stands
 a hat against the sun
 a hat against the sun on the end of the bed
-a hard hat with a sticker set that tells you how long somebody has worked here
+a hard hat with a sticker set reading "__name_brand_upper__" in bold print that tells you how long somebody has worked here
 a hat on a hook at the end of the row
 a hat on the rack
 a sun hat on a window ledge
 a hard hat on the passenger seat
 a hard hat on the passenger seat with "__name_first__" written on it in marker inside the brim
-a hard hat with a quarry's induction sticker on it next to an older peeling one
+a hard hat with a quarry's induction sticker reading "__name_trade_corp__ QUARRY" __text_look_print__ on it next to an older peeling one
 a hard hat and two vests
 a hard hat and ear defenders on a hook
 a hard hat and ear defenders

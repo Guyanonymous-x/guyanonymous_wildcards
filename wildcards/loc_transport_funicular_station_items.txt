@@ -1,6 +1,6 @@
-a ticket
-a timetable
+a ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
+a timetable reading "__text_departure__" __text_look_paper_notice__, the rest of the sheet plain white
 a handrail
-a leaflet about the line's history
+a leaflet about the line's history, headed "OUR HISTORY" __text_look_print__, the rest of the leaflet plain
 a bench
-a plaque with the opening date
+a plaque with the opening date reading "OPENED BY THE MAYOR __name_year__" __text_look_brass__

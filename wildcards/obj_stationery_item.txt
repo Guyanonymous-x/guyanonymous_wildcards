@@ -1,15 +1,15 @@
-a leather-bound journal
+a leather-bound journal with the initials "__name_initials__" stamped in gold on the cover
 a fountain pen
 a typewriter and paper
-a stack of old books
-a pile of paperbacks
+a stack of old books with "__name_book_title_any__" in faded gold letters on the top spine, the other spines plain
+a pile of paperbacks with spines reading "__name_book_title_any__" in small print
 a library shelf
 a globe
 an atlas
 a calligraphy set
 an inkwell and quill
 a sealed letter with wax
-a postcard
+a postcard reading "GREETINGS FROM __name_town__" in bright capitals, the rest of the card a photo
 a sketchbook
 a watercolour set
 a drawing board
@@ -19,15 +19,15 @@ a rubber stamp
 a label maker
 a clipboard
 a stack of folders
-a ledger
-a notebook with doodles
+a ledger open to a page headed "ACCOUNTS __name_year__" in neat ink, the rest of the page plain
+a notebook with doodles with "__name_first__" in bubble letters among the doodles on the cover
 a scroll
 a rolodex
 a bookmark
-a bible
-a hymnal
-a comic book stack
+a bible with "HOLY BIBLE" in gold capitals on the cover, the rest of the cover plain
+a hymnal with "__text_hymn_book__" in gold capitals on the cover
+a comic book stack with covers titled "__name_book_title_any__" __text_look_print__
 a manga volume
 a newspaper with the headline "__text_headline__" __text_look_headline__
-a magazine pile
-a diary with a lock
+a magazine pile with mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures
+a diary with a lock with "DIARY" in gold script on the cover

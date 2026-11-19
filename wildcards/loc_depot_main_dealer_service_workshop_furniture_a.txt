@@ -1,4 +1,4 @@
 a line of numbered lifts
 foam-cut tool trolleys
 protective covers
-a bay status screen
+a bay status screen reading "BAY __name_number_small__ IN PROGRESS" __text_look_screen__

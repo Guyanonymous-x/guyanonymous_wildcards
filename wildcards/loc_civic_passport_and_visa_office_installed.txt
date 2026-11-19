@@ -1,8 +1,8 @@
-a large waiting room with numbered booths along one side and a ticket display overhead
-a photograph booth with a specification poster
+a large waiting room with numbered booths along one side and a ticket display reading "__text_screen__" __text_look_dotmatrix__ overhead
+a photograph booth with a specification poster headed "PHOTO REQUIREMENTS" __text_look_print__ above sample face photos
 document scanning at each booth
 a glazed screen between applicant and officer
 a private interview room for referred cases
 security at the entrance
-a notice board in several languages
+a notice board in several languages, with sheets headed "PASSPORTS", "PASSEPORTS" and "PASAPORTES" __text_look_paper_notice__, the rest of the sheet plain white
 a strongroom for blank documents

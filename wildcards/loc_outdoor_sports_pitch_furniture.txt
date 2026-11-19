@@ -2,7 +2,7 @@ goals
 nets
 corner flags
 dugouts
-a scoreboard
+a scoreboard reading "__text_score__" __text_look_dotmatrix__, the rest of the board dark
 benches
 a roller
 a line marker

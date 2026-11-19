@@ -54,7 +54,7 @@ standing in a doorway frame, in mid-motion
 running, with a calm air
 praying, at rest
 standing with hands on hips, with a casual attitude
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 hopping
 sitting on a sofa, with focus
 jogging
@@ -176,7 +176,7 @@ standing with feet together
 sitting on a low wall, with a casual attitude
 standing with hands in pockets
 hands behind the head
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sleeping
 lying on the stomach, with focus
 drinking from a cup, with focus
@@ -422,7 +422,7 @@ standing with feet apart, with quiet confidence
 gardening, while glancing at the camera
 leaping
 sitting on steps, with energy
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 riding a bicycle, with a slight smile
 swaying
 sitting on the edge of a bed

@@ -29,7 +29,7 @@ crouching low in dynamic athletic pose
 sprinting
 reaching up
 dancing, while looking away
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 shrugging, with a casual attitude
 laughing with a friend, while looking away
 standing on a balcony
@@ -395,7 +395,7 @@ praying, while looking away
 standing with feet together, with careful balance
 sitting at a desk, with quiet confidence
 sitting on a chair, in mid-motion
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 perching on a stool
 holding a mug with both hands, with careful balance
 brushing hair aside, while glancing at the camera
@@ -404,7 +404,7 @@ sitting at a table
 cowering low defensive pose
 bending to tie a shoe
 pausing mid-step, at rest
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 swaying
 kneeling on one knee, with a slight smile
 relaxed standing weight-shifted pose

@@ -516,8 +516,8 @@ a table with nothing on it
 a table with the oilcloth worn through at six places
 table and island
 a central table with a tray of samples to handle
-a book table with two titles on it
-a book table with two titles rather than a shelf of twenty
+a book table with two titles, "__name_book_title_any__" and "__name_book_title_any__" __text_look_print__, on it
+a book table with two titles, "__name_book_title_any__" and "__name_book_title_any__" __text_look_print__, rather than a shelf of twenty
 a cutting table of two by four meters with a cutting mat and pattern weights
 a four-meter cutting table with mat and weights
 a cutting table with forty years of blade scores and a dished area where the weights sit
@@ -545,8 +545,8 @@ a sectional table and twenty-four chairs
 a sofa table with a work box on it
 two small work tables with silk-lined wells
 a writing table in the window with a blotter and a standish
-a round table in the middle of the room with books laid out
-a round table with the books arranged and the top two actually read
+a round table in the middle of the room with books laid out, the top one titled "__name_book_title_any__" in gilt on its cover
+a round table with the books arranged, the top one titled "__name_book_title_any__" in gilt on its cover, and the top two actually read
 a work table with a silk-lined well holding thread
 two work tables
 a library table with a ring in the leather from a lamp and a knife cut 80 mm long where somebody cut paper without a board

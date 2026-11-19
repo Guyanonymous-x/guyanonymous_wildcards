@@ -1,12 +1,12 @@
 a school bag on a seat
 a phone held up to film out of the front window
-a free newspaper
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a pair of earphones
 a drinks can on the floor
-a bag of chips
+a bag of chips printed "__name_brand_upper__" __text_look_print__
 a rucksack on the seat beside somebody
 a school tie stuffed in a pocket
-a bus ticket
+a bus ticket printed "SINGLE __name_price__" in small black print
 a litter sack at the stair head in some fleets
-a hand-written sticker over a broken window catch
+a hand-written sticker reading "BROKEN" in black marker over a broken window catch
 a glove on the floor

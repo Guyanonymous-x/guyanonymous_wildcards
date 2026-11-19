@@ -3,7 +3,7 @@ an intercom and camera door
 a reception with desk
 waiting chair
 water cooler
-magazines
+magazines with "__name_magazine__" __text_look_print__ across the covers, the rest of each cover plain
 till and card machine
 a cork board with rota and shift sheet
 four rooms with beds
@@ -18,4 +18,4 @@ a cleaner's store
 a tested alarm panel
 first aid and sharps provision
 a bulk stock cupboard
-an accident book
+an accident book with "ACCIDENT BOOK" __text_look_print__ on the cover

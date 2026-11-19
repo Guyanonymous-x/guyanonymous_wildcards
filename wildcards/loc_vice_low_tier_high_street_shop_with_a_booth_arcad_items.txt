@@ -3,7 +3,7 @@ a lobby with a second internal door so the street cannot see in when the first o
 a sales floor with gondola units down the middle and slatwall to both sides
 a counter with a till
 a card terminal
-an age-verification notice and a basket of batteries by the point of sale
+an age-verification notice reading "ID REQUIRED UNDER 25" in bold black print, the rest of the sheet plain white, and a basket of batteries by the point of sale
 a doorway at the back with a beaded curtain and a sign reading "__loc_text_notice__" giving the arcade's prices
 a corridor of eight plywood booths each with a door that bolts inside
 a vinyl-covered bench
@@ -13,7 +13,7 @@ a paper roll holder and a pedal bin
 a cleaner's trolley with bleach
 blue roll and a mop
 an attendant's chair at the corridor mouth
-a cleaning log on a clipboard with hourly initials
+a cleaning log headed "CLEANING LOG" on a clipboard with hourly initials "__name_initials__" __text_look_handwriting__
 a store room with stock in cages
 a staff lavatory
 a license frame by the door

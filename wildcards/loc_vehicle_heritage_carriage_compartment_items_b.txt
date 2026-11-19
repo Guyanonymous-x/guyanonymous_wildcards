@@ -2,5 +2,5 @@ a luggage rack of string netting
 a mirror with a beveled edge
 a door handle in brass on the inside
 a hat on the rack
-a paper ticket
-a timetable leaflet
+a paper ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
+a timetable leaflet reading "__text_departure__" __text_look_print__, the rest of the leaflet plain

@@ -1,3 +1,3 @@
 toilet paper
-graffiti
-flyers
+graffiti reading "__text_graffiti_word__" __text_look_graffiti__
+flyers reading "__text_flyer__" __text_look_print__, the rest of each sheet plain

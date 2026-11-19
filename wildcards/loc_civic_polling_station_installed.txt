@@ -4,7 +4,7 @@ community center or occasionally a pub, fitted out for one day with folding boot
 a presiding officer's table with the register
 a sealed ballot box in view of the staff at all times
 a pencil on a string in each booth
-notices listing the candidates
+notices listing the candidates, headed "NOTICE OF POLL" __text_look_paper_notice__ over rows of "__name_surname_world__"
 an accessible booth
 a sign reading "__loc_text_notice__" outside
 tellers positioned outside the entrance but not within

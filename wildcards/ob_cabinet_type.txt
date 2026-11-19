@@ -178,7 +178,7 @@ a tool cabinet in which every single drawer has a latch and the latches are used
 a tool cabinet with latched drawers
 a spares cabinet of contactors
 a seal kit cabinet with hundreds of drawers
-a seal kit cabinet with hundreds of small drawers and a handwritten index in the top one that is more reliable than the catalog
+a seal kit cabinet with hundreds of small drawers and a handwritten index headed "SEALS" in neat black ink in the top one that is more reliable than the catalog
 a breathing apparatus cabinet with a seal and a monthly check because the chemicals here include chlorine
 a controller cabinet with a door open and a relay rack inside
 a controller cabinet with a relay rack
@@ -186,7 +186,7 @@ a controller cabinet that is either a relay rack from the 1970s or a microproces
 a fireproof battery storage cabinet with a vent
 a fireproof storage cabinet with a vent duct that was installed after an insurer insisted
 a component drawer cabinet with sixty small drawers
-a component drawer cabinet of sixty small drawers whose labels are in three different handwritings from three different decades
+a component drawer cabinet of sixty small drawers whose labels reading "RESISTORS", "CAPACITORS" and "FUSES" are in three different handwritings from three different decades
 a filing cabinet of household files
 a filing cabinet of household files containing the registration documents that determine what every family in the camp is entitled to
 a type cabinet with shallow drawers of loose type and a composing stone on a stand beside it
@@ -201,20 +201,20 @@ glazed cabinets to the ceiling with a brass ladder on a rail
 ceiling-height glazed cabinets with a rail ladder
 the vault is a cabinet in a stock room rather than a room with a door
 a cabinet with tins marked with names such as "__name_person__" in a handwritten order
-a cabinet with the price list hand-written in chalk and unchanged in style for forty years
-a cabinet with a chalk price list
+a cabinet with the price list reading "__text_price_line__" hand-written in chalk and unchanged in style for forty years
+a cabinet with a chalk price list reading "__text_price_line__" __text_look_chalk__
 a chalk cabinet with the slate worn pale where the same prices are rewritten
 a cold cabinet of champagne and a dedicated cashier's window
 a cold cabinet of champagne in the lobby rather than a bar
 a champagne cabinet and a dedicated cashier
 drug cabinet
 a music cabinet of eleven graduated shallow drawers
-a cabinet of nine small drawers holding letters
-a cabinet of nine small drawers with the letters in six of them tied in bundles with tape and the bundles labeled by year in two different hands
+a cabinet of nine small drawers holding letters addressed "__name_first__ __name_surname__" in faded brown ink, the rest of each envelope plain
+a cabinet of nine small drawers with the letters in six of them tied in bundles with tape and the bundles labeled by year "1871" and "1872" in two different hands
 a cigar cabinet of cedar with a hygrometer in the door and four drawers
 a cabinet bolted through the wall in the modern arrangement with a separate small cabinet above it
-a seed cabinet of mahogany with forty-eight drawers each labeled in copperplate
-a seed cabinet of forty-eight drawers labeled in copperplate of about 1860
+a seed cabinet of mahogany with forty-eight drawers each labeled "__text_jar_label__" in copperplate
+a seed cabinet of forty-eight drawers labeled "CARROT", "ONION" and "PARSNIP" in copperplate of about 1860
 stainless cabinets
 a chemical store cabinet with a vented door and a signed register
 a goggles cabinet with a UV tube and eleven pairs inside of which three are scratched blind

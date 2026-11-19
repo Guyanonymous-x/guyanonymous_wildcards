@@ -18,7 +18,7 @@ breton stripes
 tiny dots
 lace motifs
 marle
-logo monogram
+logo monogram of the initials "__name_initials__" in small gold print
 binary code
 bayadere stripes
 islamic geometric
@@ -77,7 +77,7 @@ animal-print
 urban camo
 regimental stripes
 tone-on-tone
-postcards
+postcards reading "GREETINGS FROM __name_town__" __text_look_print__ over a printed view
 tiger-stripe camo
 chinoiserie
 camellia print
@@ -116,9 +116,9 @@ band-tee graphic
 placement print
 large bold florals
 intarsia motifs
-graffiti
+graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 botanical print
-letters
+letters reading "__name_word__" __text_look_print__
 seigaiha waves
 moroccan tiles
 speckled
@@ -262,7 +262,7 @@ lizard print
 ombré dots
 bee print
 smoke swirls
-repeat monogram
+repeat monogram of the initials "__name_initials__" in small gold print
 koi print
 varsity stripes
 diagonal stripes

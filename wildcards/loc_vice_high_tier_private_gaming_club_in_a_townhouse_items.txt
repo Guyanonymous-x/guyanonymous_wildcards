@@ -1,6 +1,6 @@
 a stuccoed townhouse in a garden square with a black door
 a brass number on a plain door
-a marble hall with a porter at a desk and a members' book
+a marble hall with a porter at a desk and a members' book with "MEMBERS" in gold capitals on the cover
 a cloakroom with numbered brass discs
 a ground-floor drawing room with four sofas
 a fire and a bar serving no alcohol in jurisdictions that forbid it and a full bar where permitted
@@ -13,6 +13,6 @@ a dining room of thirty covers with a chef and a wine list
 a library used for private games with one table
 a cameras-everywhere surveillance suite in the basement
 a count room with a two-person rule
-a members' ledger of credit facilities
+a members' ledger of credit facilities open to "__name_surname__ __name_price__" in ink
 a second-floor flat for a resident manager
 a cedar-lined cigar room with its own extraction

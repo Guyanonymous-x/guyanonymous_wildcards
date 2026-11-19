@@ -76,7 +76,7 @@ leaning on a fence, while looking into the distance
 saluting
 playing a violin
 pushing a bicycle
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 reaching forward, in a natural candid moment
 leaning on a tree, with graceful posture
 lying on the side, with a calm air
@@ -250,7 +250,7 @@ hugging oneself, with focus
 leaning on a tree, with quiet confidence
 standing with feet apart
 laughing with a friend
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 sitting on the edge of a bed, in a relaxed way
 adjusting a jacket
 sitting on the edge of a bed, while looking away
@@ -478,7 +478,7 @@ descending steps
 standing with hands on hips
 reaching to the side, with graceful posture
 hugging the knees, with a calm air
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 standing with hands in pockets
 tying hair back, in a deliberate posed moment
 mid-jump, with a casual attitude

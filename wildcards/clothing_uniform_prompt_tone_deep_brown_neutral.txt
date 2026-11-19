@@ -294,7 +294,7 @@ a cheese rolling competitor, dressed in a padded jumper with shorts, with deep b
 a chicken suit wearer (promotion), in a feathered chicken suit and a beaked hood, with deep brown skin
 a chimney sweep, dressed in a soot-covered coat and a top hat with trousers, with deep brown skin
 a chocolatier (shop), wearing a white jacket with a hat, checked trousers, a cap and clogs, with deep brown skin
-a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes and carrying a hymn book, with deep brown skin
+a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes and carrying a hymn book with "__text_hymn_book__" in gold letters on the cover, the rest of the cover plain, with deep brown skin
 a circus ringmaster (circus), in a red tailcoat with gold braid and riding trousers and tall boots, with deep brown skin
 a coal miner (early 20th century), in a canvas jacket and a lamp battery on the belt and work trousers and rubber boots, with deep brown skin
 a coast guard (maritime), in a navy parka with reflective tape and a baseball cap, with deep brown skin
@@ -454,7 +454,7 @@ a potter, dressed in a clay-stained apron over a loose shirt with trousers, with
 a powered-armour engineer hero (superhero), wearing a segmented metal armour suit with glowing vents, a helmet and boots, with deep brown skin
 a prison guard (modern), in a pale blue shirt with a duty belt and dark trousers and boots, with deep brown skin
 a professor, dressed in a flowing academic gown with a hood, with deep brown skin
-a rabbi (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes and carrying a prayer book, with deep brown skin
+a rabbi (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes and carrying a prayer book with "SIDDUR" in gold letters on the cover, the rest of the cover plain, with deep brown skin
 a red-carpet gown wearer (gala), wearing a sequined strapless gown with a long train and heels and carrying a clutch, with deep brown skin
 a reenactor of a Civil War soldier, dressed in a wool sack coat with wool trousers, with deep brown skin
 a retired hero, dressed in a worn old suit under a cardigan, with deep brown skin
@@ -525,7 +525,7 @@ a tengu mountain spirit, dressed in a yamabushi robe with a wooden mask, with de
 a three-piece suit wearer, dressed in a pinstripe jacket and waistcoat with a watch chain, a shirt and a tie with suit trousers, with deep brown skin
 a thunder god (myth), in a hammer belt and a cape and a winged helm, with deep brown skin
 a tin man robot (theatre), wearing a metal funnel hat and silver chest piece, silver trousers, a funnel hat and silver boots and carrying an oil can, with deep brown skin
-a tour guide (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, with deep brown skin
+a tour guide (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, with deep brown skin
 a town crier (England), wearing a red and gold coat, breeches, a tricorn and buckled shoes, with deep brown skin
 a town mascot cow (farm), in a black and white cow suit and hooves, with deep brown skin
 a traffic officer (road), in a high-visibility jacket with white gloves and dark trousers and boots, with deep brown skin
@@ -543,7 +543,7 @@ a veterinarian (clinic), wearing a patterned scrub top with a stethoscope and a 
 a void wanderer (sci-fi), wearing a hooded cloak over a patched suit, a breathing mask and boots, with deep brown skin
 a waiter (restaurant), wearing a white shirt with a black waistcoat and a bow tie, black trousers and black shoes and carrying a tray, with deep brown skin
 a walking Christmas tree, dressed in a green tree suit with lights, with deep brown skin
-a walking sandwich board seller, dressed in a hot dog costume with a sandwich board, with deep brown skin
+a walking sandwich board seller, dressed in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__", with deep brown skin
 a wandering monster slayer, dressed in a worn leather jerkin with strapped vials with trousers, with deep brown skin
 a warehouse picker (logistics), in a high-visibility vest and a scanner on the wrist and work trousers and safety shoes, with deep brown skin
 a wasteland raider, dressed in spiked shoulder pads over bare arms with torn trousers, with deep brown skin

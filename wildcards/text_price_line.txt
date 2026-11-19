@@ -1,0 +1,10 @@
+__text_price_item__ __name_price__
+__text_price_item__ __name_price__
+__text_price_item__ __name_price__ EACH
+__text_price_item__ 2 FOR __name_price__
+TODAY __text_price_item__ __name_price__
+__text_price_item__ SMALL __name_price__
+__text_price_item__ LARGE __name_price__
+__text_price_item__ __name_price__ A POUND
+__text_price_item__ __name_price__ A DOZEN
+SPECIAL __text_price_item__ __name_price__

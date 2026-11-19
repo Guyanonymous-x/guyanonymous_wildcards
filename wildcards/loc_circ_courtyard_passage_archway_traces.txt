@@ -1,4 +1,4 @@
 worn cobbles down the center
-posters layered
+posters reading "__text_poster_event__" __text_look_print__ layered
 a propped bike
-graffiti at exactly the height a standing person writes
+graffiti reading "__text_graffiti_word__" __text_look_graffiti__ at exactly the height a standing person writes

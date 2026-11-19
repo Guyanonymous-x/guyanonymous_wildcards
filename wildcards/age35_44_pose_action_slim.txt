@@ -3,7 +3,7 @@ sitting on a swing, with a casual attitude
 sitting on steps
 reading aloud
 sitting on a log
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 tying hair back, in mid-motion
 reading aloud, while looking into the distance
 pulling a suitcase, in a deliberate posed moment
@@ -137,7 +137,7 @@ twirling, while looking away
 hugging the knees
 reading aloud, with focus
 lying propped on an elbow, at rest
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting casually on wooden chair
 sitting on a rock
 leaning on a table, in a relaxed way
@@ -437,7 +437,7 @@ sitting at a table, with careful balance
 stretching to the side, in a deliberate posed moment
 hands behind the back
 standing at a window, at rest
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 standing with hands on hips
 standing in a doorway frame, with energy
 singing

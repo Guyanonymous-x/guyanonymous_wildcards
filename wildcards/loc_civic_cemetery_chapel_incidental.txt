@@ -4,9 +4,9 @@ a dead wasp on the altar table
 a visitors' book swollen with damp
 a bucket catching a roof leak
 a broom
-a pile of hymn books nobody has opened in a decade
+a pile of hymn books nobody has opened in a decade with "__text_hymn_book__" in gold letters on the covers, the rest of the cover plain
 a plastic flower blown in from a grave
 a bird's nest in the porch
-a notice about a service held three years ago
+a notice about a service held three years ago, reading "MEMORIAL SERVICE __name_year__" __text_look_paper_notice__, the rest of the sheet plain white
 a cobweb across a lancet
 a mat worn through at the threshold

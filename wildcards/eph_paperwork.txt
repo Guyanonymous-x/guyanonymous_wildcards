@@ -1,10 +1,10 @@
-a ration book with stamps
+a ration book headed "RATION BOOK" in black print on its buff cover with stamps
 a school report card
-a handwritten receipt
+a handwritten receipt reading "__text_receipt__" in blue ink, the rest of the slip plain
 a pay packet
-a certificate with a seal
-a pawn ticket
-a railway timetable
-a menu from a ship's dining room
+a certificate headed "__text_certificate__" in gold script with a seal, the rest of the sheet plain
+a pawn ticket reading "PAWN __name_number_small__47" __text_look_print__, the rest of the ticket plain
+a railway timetable reading "__text_departure__" __text_look_print__ in rows, the rest of the sheet plain
+a menu from a ship's dining room, headed "DINNER" in gold script over "__text_price_line__" __text_look_print__, the rest of the card plain
 a wedding invitation
-an old postcard order form
+an old postcard order form headed "ORDER FORM" in bold black print, the rest of the form plain

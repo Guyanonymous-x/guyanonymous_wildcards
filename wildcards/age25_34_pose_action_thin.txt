@@ -334,7 +334,7 @@ riding a bicycle, with a slight smile
 sitting on a sofa, in a relaxed way
 sitting on a chair
 crouching low, in a natural candid moment
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on the edge of a bed, while looking away
 standing in a doorway frame, with energy
 spinning slowly, at rest
@@ -345,7 +345,7 @@ hopping, with a calm air
 walking toward the camera, with careful balance
 kneeling on one knee
 rolling up sleeves, with careful balance
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 relaxed standing weight-shifted pose
 lying propped on an elbow, while looking away
 tying hair back, with a sense of ease
@@ -353,7 +353,7 @@ sitting on steps
 checking a watch, with a casual attitude
 sitting on the edge of a bed, with careful balance
 lying on the back
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 lying on the stomach
 sitting at a table
 strolling casually, with a casual attitude

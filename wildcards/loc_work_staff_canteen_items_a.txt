@@ -1,5 +1,5 @@
 trays
-a menu board with prices
-a till receipt
+a menu board reading "__text_price_line__" __text_look_chalk__ with prices
+a till receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip blank
 a staff card for payment
-a newspaper
+a newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain

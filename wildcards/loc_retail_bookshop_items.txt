@@ -1,10 +1,10 @@
-books face-out and spine-out
+books face-out showing "__name_book_title_any__" __text_look_print__ and spine-out
 bookmarks
-staff recommendation cards in handwriting
-magazines
-greeting cards
+staff recommendation cards reading "STAFF PICK __name_book_title_any__" in handwriting
+magazines with "__name_magazine__" __text_look_print__ across the covers, the rest of each cover plain
+greeting cards reading "HAPPY BIRTHDAY" and "THANK YOU" in gold looping letters
 notebooks
 a tote bag
-event flyers
-a till receipt roll
+event flyers reading "AUTHOR EVENT THURSDAY" in bold print
+a till receipt roll printed "__text_receipt__" __text_look_receipt__
 a cup of coffee on the counter

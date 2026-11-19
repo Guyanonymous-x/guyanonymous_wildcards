@@ -23,7 +23,7 @@ a cut-out stencil mark, combined with a signature-style script mark
 a cut-out stencil mark, combined with a stacked wordmark reading "__name_brand_upper__" with a small icon
 a cut-out stencil mark, combined with a sticker-style label
 a cut-out stencil mark, combined with a tag
-a cut-out stencil mark, combined with a woven label
+a cut-out stencil mark, combined with a woven label reading "__name_brand_upper__"
 a cut-out stencil mark, combined with an animated-looking motion mark
 a diamond badge
 a diamond badge, combined with a cut-out stencil mark
@@ -65,7 +65,7 @@ a glitch mark, combined with a hexagon badge
 a glitch mark, combined with a minimalist dot-and-line mark
 a glitch mark, combined with a signature-style script mark
 a glitch mark, combined with a vintage label
-a glitch mark, combined with a woven label
+a glitch mark, combined with a woven label reading "__name_brand_upper__"
 a glitch mark, combined with an animated-looking motion mark
 a gradient orb mark
 a gradient orb mark, combined with a mascot logo
@@ -161,7 +161,7 @@ a shield badge
 a shield badge, combined with a geometric mark
 a shield badge, combined with a sticker-style label
 a shield badge, combined with a tag
-a shield badge, combined with a woven label
+a shield badge, combined with a woven label reading "__name_brand_upper__"
 a shield badge, combined with an hourglass-shaped emblem
 a sigil
 a sigil, combined with a combination mark of symbol and text
@@ -203,7 +203,7 @@ a sticker-style label
 a sticker-style label, combined with a pennant
 a sticker-style label, combined with a round seal
 a sticker-style label, combined with a vintage label
-a label
+a label reading "__text_box_label__" __text_look_label__
 a tag, combined with a double outline mark
 a tag, combined with a hand-drawn doodle mark
 a tag, combined with a typographic lockup
@@ -229,12 +229,12 @@ a wordmark reading "__name_brand_upper__", combined with a dynamic mark
 a wordmark reading "__name_brand_upper__", combined with a geometric mark
 a wordmark reading "__name_brand_upper__", combined with a sigil
 a wordmark reading "__name_brand_upper__", combined with a stamp mark
-a wordmark reading "__name_brand_upper__", combined with a woven label
-a woven label
-a woven label, combined with a circular text ring around an icon
-a woven label, combined with a pixelated mark
-a woven label, combined with a ribbon banner with text reading "__name_brand_upper__"
-a woven label, combined with a wordmark reading "__name_brand_upper__"
+a wordmark reading "__name_brand_upper__", combined with a woven label reading "__name_brand_upper__"
+a woven label reading "__name_brand_upper__"
+a woven label reading "__name_brand_upper__", combined with a circular text ring around an icon
+a woven label reading "__name_brand_upper__", combined with a pixelated mark
+a woven label reading "__name_brand_upper__", combined with a ribbon banner with text reading "__name_brand_upper__"
+a woven label reading "__name_brand_upper__", combined with a wordmark reading "__name_brand_upper__"
 an abstract mark
 an abstract mark, combined with a combination mark of symbol and text
 an abstract mark, combined with a crest
@@ -243,7 +243,7 @@ an abstract mark, combined with a split-letter mark
 an abstract mark, combined with a stacked wordmark reading "__name_brand_upper__" with a small icon
 an animated-looking motion mark
 an animated-looking motion mark, combined with a minimalist dot-and-line mark
-an animated-looking motion mark, combined with a woven label
+an animated-looking motion mark, combined with a woven label reading "__name_brand_upper__"
 an emblem inside a badge
 an emblem inside a badge, combined with a diamond badge
 an emblem inside a badge, combined with a geometric mark

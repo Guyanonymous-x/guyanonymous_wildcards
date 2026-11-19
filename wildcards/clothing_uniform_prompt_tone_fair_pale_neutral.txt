@@ -130,7 +130,7 @@ A person dressed as a three-piece suit wearer (office), which is a pinstripe jac
 A person dressed as a town mascot cow (farm), which is a black and white cow suit, a cow head and hooves, with fair and pale skin
 A person dressed as a trainspotter (station), which is an anorak with a notebook, trousers, a flat cap and shoes, with fair and pale skin
 A person dressed as a veterinarian (clinic), which is a patterned scrub top with a stethoscope and a cat-print lab coat, scrub trousers and work shoes, with fair and pale skin
-A person dressed as a walking sandwich board seller (street), which is a hot dog costume with a sandwich board and shoes, with fair and pale skin
+A person dressed as a walking sandwich board seller (street), which is a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, with fair and pale skin
 A person dressed as a welder (workshop), which is a leather welding jacket and gauntlets, work trousers, a welding helmet and work boots, with fair and pale skin
 A person dressed as a window cleaner (city), which is a work shirt and a harness, work trousers, a cap and boots, with fair and pale skin
 A person dressed as a witch of the woods (fantasy), which is a ragged shawl over a layered dress with herb bundles, a pointed hat and boots, with fair and pale skin
@@ -518,7 +518,7 @@ a teacher (school), wearing a tweed jacket with chalk-dusted elbow patches, trou
 a tennis player, dressed in a white polo shirt with white shorts, with fair and pale skin
 a thunder god (myth), in a hammer belt and a cape and boots, with fair and pale skin
 a tin man robot, dressed in a metal funnel hat and silver chest piece with silver trousers, with fair and pale skin
-a tour guide, dressed in a branded polo and a flag with shorts, with fair and pale skin
+a tour guide, dressed in a branded polo with "__name_brand_upper__" on the chest and a flag with shorts, with fair and pale skin
 a town crier (England), wearing a red and gold coat, breeches, a tricorn and buckled shoes and carrying a bell, with fair and pale skin
 a traffic officer, dressed in a high-visibility jacket with white gloves with dark trousers, with fair and pale skin
 a train conductor (steam era), wearing a double-breasted jacket with brass buttons and a watch chain, trousers, a peaked cap and black shoes and carrying a punch and whistle, with fair and pale skin

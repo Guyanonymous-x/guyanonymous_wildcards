@@ -97,7 +97,7 @@ standing in a doorway frame, with energy
 riding a scooter, with focus
 shrugging, with a calm air
 standing with arms crossed, in mid-motion
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 laughing with a friend, while glancing at the camera
 drinking from a cup
 lying on the stomach, with graceful posture
@@ -150,7 +150,7 @@ standing arms wide open
 spinning slowly, at rest
 crouching low in dynamic athletic pose
 standing on a balcony, while glancing at the camera
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 holding a mug with both hands, while glancing at the camera
 lying down flat on back
 playing piano, with focus
@@ -465,7 +465,7 @@ rolling up sleeves, with careful balance
 standing with hands in pockets, in a deliberate posed moment
 sitting at a desk, with quiet confidence
 playing guitar, with a calm air
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 carrying a bag, in mid-motion
 waving
 sitting at a table, with careful balance

@@ -1,7 +1,7 @@
 doing a stretch, in mid-motion
 lying on the back, at rest
 talking on the phone, with careful balance
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 adjusting a hat, with energy
 sitting on a swing, with a casual attitude
 sitting at a table, with careful balance
@@ -84,7 +84,7 @@ sitting on steps, with careful balance
 sitting on a windowsill, in a natural candid moment
 playing piano, with a sense of ease
 leaning on a tree, with graceful posture
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 fixing a collar
 standing on a balcony, with a sense of ease
 leaning on a tree, with a calm air
@@ -148,7 +148,7 @@ crouching low, while looking into the distance
 leaning on a fence, while looking away
 stretching the arms overhead, with graceful posture
 standing with weight on one leg
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 pulling a suitcase, in mid-motion
 rolling up sleeves
 riding a scooter, in a relaxed way

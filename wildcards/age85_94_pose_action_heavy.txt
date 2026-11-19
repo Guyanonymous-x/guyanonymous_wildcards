@@ -259,7 +259,7 @@ eating
 laughing with a friend, while looking away
 balancing on one foot
 stepping off a curb, in a deliberate posed moment
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 hugging oneself, with energy
 standing with hands on hips, with a sense of ease
 walking along a path, with a calm air
@@ -302,7 +302,7 @@ cooking, with graceful posture
 kneeling on one knee, in a natural candid moment
 pausing mid-step
 hands behind the back, with a calm air
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 adjusting a jacket, with a casual attitude
 lying on the side, with graceful posture
 perching on a stool, with quiet confidence
@@ -380,7 +380,7 @@ hugging the knees, with a slight smile
 adjusting a jacket, with careful balance
 sitting on the edge of a bed, with a calm air
 turning away
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 perching on a table edge, in mid-motion
 sitting on steps
 playing guitar, with a slight smile

@@ -132,7 +132,7 @@ Inside it has mink fur, a mirror-mosaic lining and gold-thread brocade.
 Inside it has mink fur, a mirror-mosaic lining and silk velvet embroidered with pearls.
 Inside it has mink fur, gold-thread brocade and a lining of feathers.
 Inside it has mink fur, hand-embroidered silk with seed pearls and silk velvet embroidered with pearls.
-Inside it has mink fur, quilted gold silk and silk satin embroidered with the maker's gold monogram.
+Inside it has mink fur, quilted gold silk and silk satin embroidered with the maker's gold monogram "__name_initials__".
 Inside it has mink fur.
 Inside it has painted silk with a miniature scene and a gold-lamé lining stitched with crystals.
 Inside it has painted silk with a miniature scene and a lining of feathers.
@@ -144,13 +144,13 @@ Inside it has sable fur and quilted gold silk.
 Inside it has sable fur, hand-embroidered silk with seed pearls and chinchilla fur.
 Inside it has sable fur, silk velvet embroidered with pearls and painted silk with a miniature scene.
 Inside it has sable fur.
-Inside it has silk brocade with a hand-woven gold pattern and silk satin embroidered with the maker's gold monogram.
+Inside it has silk brocade with a hand-woven gold pattern and silk satin embroidered with the maker's gold monogram "__name_initials__".
 Inside it has silk brocade with a hand-woven gold pattern, chinchilla fur and silk velvet embroidered with pearls.
 Inside it has silk brocade with a hand-woven gold pattern, mink fur and sable fur.
 Inside it has silk brocade with a hand-woven gold pattern, sable fur and a mirror-mosaic lining.
 Inside it has silk brocade with a hand-woven gold pattern.
-Inside it has silk satin embroidered with the maker's gold monogram, sable fur and painted silk with a miniature scene.
-Inside it has silk satin embroidered with the maker's gold monogram.
+Inside it has silk satin embroidered with the maker's gold monogram "__name_initials__", sable fur and painted silk with a miniature scene.
+Inside it has silk satin embroidered with the maker's gold monogram "__name_initials__".
 Inside it has silk velvet embroidered with pearls and a mirror-mosaic lining.
 Inside it has silk velvet embroidered with pearls.
 It is backed with a gold-lamé lining stitched with crystals and a mirror-mosaic lining.
@@ -263,12 +263,12 @@ It is backed with a secret compartment in the back, a platinum safety catch, a h
 It is backed with a secret compartment in the back, a platinum safety catch, a hand-hinged gold bail and a hand-engraved reverse.
 It is backed with a secret compartment in the back, a platinum safety catch, a locket-style back and a hand-hinged gold bail.
 It is backed with a secret compartment in the back.
-It is backed with chinchilla fur and silk satin embroidered with the maker's gold monogram.
+It is backed with chinchilla fur and silk satin embroidered with the maker's gold monogram "__name_initials__".
 It is backed with chinchilla fur, a lining of feathers and a gold-lamé lining stitched with crystals.
 It is backed with chinchilla fur, quilted gold silk and a mirror-mosaic lining.
 It is backed with chinchilla fur.
 It is backed with gold-thread brocade and a lining of feathers.
-It is backed with gold-thread brocade and silk satin embroidered with the maker's gold monogram.
+It is backed with gold-thread brocade and silk satin embroidered with the maker's gold monogram "__name_initials__".
 It is backed with gold-thread brocade.
 It is backed with hand-embroidered silk with seed pearls and gold-thread brocade.
 It is backed with hand-embroidered silk with seed pearls and silk velvet embroidered with pearls.
@@ -278,14 +278,14 @@ It is backed with hand-embroidered silk with seed pearls, mink fur and silk broc
 It is backed with hand-embroidered silk with seed pearls, silk brocade with a hand-woven gold pattern and quilted gold silk.
 It is backed with hand-embroidered silk with seed pearls.
 It is backed with mink fur and a mirror-mosaic lining.
-It is backed with mink fur and silk satin embroidered with the maker's gold monogram.
+It is backed with mink fur and silk satin embroidered with the maker's gold monogram "__name_initials__".
 It is backed with mink fur.
 It is backed with painted silk with a miniature scene, a lining of feathers and sable fur.
 It is backed with painted silk with a miniature scene, gold-thread brocade and chinchilla fur.
 It is backed with painted silk with a miniature scene, gold-thread brocade and hand-embroidered silk with seed pearls.
-It is backed with painted silk with a miniature scene, gold-thread brocade and silk satin embroidered with the maker's gold monogram.
+It is backed with painted silk with a miniature scene, gold-thread brocade and silk satin embroidered with the maker's gold monogram "__name_initials__".
 It is backed with painted silk with a miniature scene, quilted gold silk and a mirror-mosaic lining.
-It is backed with painted silk with a miniature scene, quilted gold silk and silk satin embroidered with the maker's gold monogram.
+It is backed with painted silk with a miniature scene, quilted gold silk and silk satin embroidered with the maker's gold monogram "__name_initials__".
 It is backed with painted silk with a miniature scene.
 It is backed with quilted gold silk and gold-thread brocade.
 It is backed with quilted gold silk and silk velvet embroidered with pearls.
@@ -300,20 +300,20 @@ It is backed with silk brocade with a hand-woven gold pattern and gold-thread br
 It is backed with silk brocade with a hand-woven gold pattern and silk velvet embroidered with pearls.
 It is backed with silk brocade with a hand-woven gold pattern, painted silk with a miniature scene and chinchilla fur.
 It is backed with silk brocade with a hand-woven gold pattern.
-It is backed with silk satin embroidered with the maker's gold monogram and a gold-lamé lining stitched with crystals.
-It is backed with silk satin embroidered with the maker's gold monogram and a mirror-mosaic lining.
-It is backed with silk satin embroidered with the maker's gold monogram and mink fur.
-It is backed with silk satin embroidered with the maker's gold monogram and silk velvet embroidered with pearls.
-It is backed with silk satin embroidered with the maker's gold monogram, chinchilla fur and silk brocade with a hand-woven gold pattern.
-It is backed with silk satin embroidered with the maker's gold monogram, quilted gold silk and gold-thread brocade.
-It is backed with silk satin embroidered with the maker's gold monogram.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__" and a gold-lamé lining stitched with crystals.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__" and a mirror-mosaic lining.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__" and mink fur.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__" and silk velvet embroidered with pearls.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__", chinchilla fur and silk brocade with a hand-woven gold pattern.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__", quilted gold silk and gold-thread brocade.
+It is backed with silk satin embroidered with the maker's gold monogram "__name_initials__".
 It is backed with silk velvet embroidered with pearls and gold-thread brocade.
 It is backed with silk velvet embroidered with pearls.
 The reverse has a gold-lamé lining stitched with crystals and hand-embroidered silk with seed pearls.
 The reverse has a gold-lamé lining stitched with crystals and painted silk with a miniature scene.
 The reverse has a gold-lamé lining stitched with crystals and silk brocade with a hand-woven gold pattern.
 The reverse has a gold-lamé lining stitched with crystals, painted silk with a miniature scene and a lining of feathers.
-The reverse has a gold-lamé lining stitched with crystals, silk satin embroidered with the maker's gold monogram and a mirror-mosaic lining.
+The reverse has a gold-lamé lining stitched with crystals, silk satin embroidered with the maker's gold monogram "__name_initials__" and a mirror-mosaic lining.
 The reverse has a gold-lamé lining stitched with crystals.
 The reverse has a hand-engraved reverse and a hand-hinged gold bail.
 The reverse has a hand-engraved reverse and a locket-style back.
@@ -455,24 +455,24 @@ The reverse has hand-embroidered silk with seed pearls and quilted gold silk.
 The reverse has hand-embroidered silk with seed pearls and silk brocade with a hand-woven gold pattern.
 The reverse has hand-embroidered silk with seed pearls, a mirror-mosaic lining and silk velvet embroidered with pearls.
 The reverse has hand-embroidered silk with seed pearls, silk brocade with a hand-woven gold pattern and silk velvet embroidered with pearls.
-The reverse has hand-embroidered silk with seed pearls, silk satin embroidered with the maker's gold monogram and painted silk with a miniature scene.
+The reverse has hand-embroidered silk with seed pearls, silk satin embroidered with the maker's gold monogram "__name_initials__" and painted silk with a miniature scene.
 The reverse has hand-embroidered silk with seed pearls, silk velvet embroidered with pearls and a gold-lamé lining stitched with crystals.
 The reverse has hand-embroidered silk with seed pearls.
 The reverse has mink fur and a lining of feathers.
 The reverse has mink fur and quilted gold silk.
 The reverse has mink fur, hand-embroidered silk with seed pearls and sable fur.
 The reverse has mink fur, silk brocade with a hand-woven gold pattern and a gold-lamé lining stitched with crystals.
-The reverse has mink fur, silk satin embroidered with the maker's gold monogram and a gold-lamé lining stitched with crystals.
+The reverse has mink fur, silk satin embroidered with the maker's gold monogram "__name_initials__" and a gold-lamé lining stitched with crystals.
 The reverse has mink fur.
 The reverse has painted silk with a miniature scene and a gold-lamé lining stitched with crystals.
 The reverse has painted silk with a miniature scene, a gold-lamé lining stitched with crystals and sable fur.
 The reverse has painted silk with a miniature scene, hand-embroidered silk with seed pearls and gold-thread brocade.
 The reverse has painted silk with a miniature scene, mink fur and a lining of feathers.
-The reverse has painted silk with a miniature scene, silk satin embroidered with the maker's gold monogram and gold-thread brocade.
+The reverse has painted silk with a miniature scene, silk satin embroidered with the maker's gold monogram "__name_initials__" and gold-thread brocade.
 The reverse has painted silk with a miniature scene.
 The reverse has quilted gold silk and a lining of feathers.
 The reverse has quilted gold silk and chinchilla fur.
-The reverse has quilted gold silk and silk satin embroidered with the maker's gold monogram.
+The reverse has quilted gold silk and silk satin embroidered with the maker's gold monogram "__name_initials__".
 The reverse has quilted gold silk, hand-embroidered silk with seed pearls and a gold-lamé lining stitched with crystals.
 The reverse has quilted gold silk, painted silk with a miniature scene and silk velvet embroidered with pearls.
 The reverse has quilted gold silk.
@@ -481,16 +481,16 @@ The reverse has sable fur and hand-embroidered silk with seed pearls.
 The reverse has sable fur, quilted gold silk and silk velvet embroidered with pearls.
 The reverse has sable fur.
 The reverse has silk brocade with a hand-woven gold pattern and sable fur.
-The reverse has silk brocade with a hand-woven gold pattern, a gold-lamé lining stitched with crystals and silk satin embroidered with the maker's gold monogram.
+The reverse has silk brocade with a hand-woven gold pattern, a gold-lamé lining stitched with crystals and silk satin embroidered with the maker's gold monogram "__name_initials__".
 The reverse has silk brocade with a hand-woven gold pattern, a lining of feathers and silk velvet embroidered with pearls.
 The reverse has silk brocade with a hand-woven gold pattern, mink fur and chinchilla fur.
 The reverse has silk brocade with a hand-woven gold pattern, quilted gold silk and a mirror-mosaic lining.
 The reverse has silk brocade with a hand-woven gold pattern.
-The reverse has silk satin embroidered with the maker's gold monogram and hand-embroidered silk with seed pearls.
-The reverse has silk satin embroidered with the maker's gold monogram and mink fur.
-The reverse has silk satin embroidered with the maker's gold monogram.
+The reverse has silk satin embroidered with the maker's gold monogram "__name_initials__" and hand-embroidered silk with seed pearls.
+The reverse has silk satin embroidered with the maker's gold monogram "__name_initials__" and mink fur.
+The reverse has silk satin embroidered with the maker's gold monogram "__name_initials__".
 The reverse has silk velvet embroidered with pearls and quilted gold silk.
-The reverse has silk velvet embroidered with pearls, hand-embroidered silk with seed pearls and silk satin embroidered with the maker's gold monogram.
+The reverse has silk velvet embroidered with pearls, hand-embroidered silk with seed pearls and silk satin embroidered with the maker's gold monogram "__name_initials__".
 The reverse has silk velvet embroidered with pearls.
 x
 Inside it has a plain, simple lining.

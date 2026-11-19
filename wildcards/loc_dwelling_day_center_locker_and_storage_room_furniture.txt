@@ -1,5 +1,5 @@
-numbered lockers
-a labeled bag shelf
+numbered lockers marked "__name_number_small__" in white stenciled numbers
+a labeled bag shelf marked "__name_surname_world__" in black marker
 a sign-in clipboard
 a bedding trolley
 a donated sleeping bag rack
@@ -7,4 +7,4 @@ a washing machine and dryer
 a shower rota
 a pigeonhole frame
 an unclaimed items shelf
-a noticeboard
+a noticeboard pinned with a sheet reading "__text_bulletin__" __text_look_paper_notice__, the rest of the board bare

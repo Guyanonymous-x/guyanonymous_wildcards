@@ -13,7 +13,7 @@ pausing mid-step, with a casual attitude
 talking on the phone, in a natural candid moment
 stretching the arms overhead, with graceful posture
 standing with feet together, with careful balance
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 holding a mug with both hands, while glancing at the camera
 lying on the side
 standing with hands in pockets, with graceful posture
@@ -140,7 +140,7 @@ stretching the arms overhead, in a relaxed way
 sitting on a swing, while looking into the distance
 holding a mug with both hands, with careful balance
 descending steps, with quiet confidence
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 doing a stretch, in a natural candid moment
 drinking from a cup, with focus
 drinking from a cup, while looking into the distance
@@ -309,7 +309,7 @@ sitting cross-legged, in a natural candid moment
 cooking
 sitting on the edge of a bed, with careful balance
 reading aloud, with focus
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 sitting on a sofa, with focus
 standing in a doorway frame, with a casual attitude
 lying on the stomach, with focus

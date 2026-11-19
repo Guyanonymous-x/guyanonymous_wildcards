@@ -6,4 +6,4 @@ cooler colors receding
 focus blur
 detail falloff with distance
 line weight falloff with distance
-no depth cues
+a fully flat picture plane

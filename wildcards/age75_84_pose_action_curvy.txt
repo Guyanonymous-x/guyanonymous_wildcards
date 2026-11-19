@@ -198,7 +198,7 @@ fixing a collar
 pulling a suitcase, with quiet confidence
 striding briskly
 sitting on the edge of a bed, while looking away
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 slouched tired sitting posture
 shrugging, with a calm air
 squatting, with a slight smile
@@ -432,7 +432,7 @@ turning away, in a relaxed way
 standing with hands on hips
 carrying an umbrella, in a deliberate posed moment
 pulling a suitcase, in a deliberate posed moment
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on the edge of a bed
 perching on a stool, in a deliberate posed moment
 kneeling on both knees
@@ -454,7 +454,7 @@ reclining on a sofa
 typing on a laptop, with a sense of ease
 stretching after waking, with a sense of ease
 yawning
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 leaning on a railing, with energy
 laughing with a friend, in mid-motion
 gardening

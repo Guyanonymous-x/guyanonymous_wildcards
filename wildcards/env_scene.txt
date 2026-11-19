@@ -1,5 +1,5 @@
 brushed steel and concrete architecture
-weathered dark brick wall with graffiti
+weathered dark brick wall with graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 decaying wooden planks and beams
 ornate gothic carved stone arches
 sleek glass and chrome skyscraper facade
@@ -231,8 +231,8 @@ shipping containers seen through a haze
 neon tubing in the background
 neon tubing framing the subject
 neon tubing plain and uncluttered
-LED screens running along one side
-LED screens catching the light
+LED screens showing "__text_screen__" __text_look_screen__ running along one side
+LED screens showing "__text_screen__" __text_look_screen__ catching the light
 bookshelves in the background
 bookshelves softly out of focus behind the subject
 bookshelves close behind the subject
@@ -328,18 +328,18 @@ a mural running along one side
 a mural partly in shadow
 a mural textured and detailed
 posters reading "__text_poster_event__" __text_look_print__ softly out of focus behind the subject
-posters close behind the subject
-posters framing the subject
-posters lit from the side
-posters partly in shadow
-posters seen through a haze
-movie posters in the background
+posters reading "__text_poster_room__" __text_look_print__ close behind the subject
+posters reading "__text_poster_room__" __text_look_print__ framing the subject
+posters reading "__text_poster_room__" __text_look_print__ lit from the side
+posters reading "__text_poster_room__" __text_look_print__ partly in shadow
+posters reading "__text_poster_room__" __text_look_print__ seen through a haze
+movie posters reading "__name_movie__" __text_look_print__ in the background
 movie posters reading "__name_movie__" __text_look_print__ softly out of focus behind the subject
-movie posters close behind the subject
-movie posters running along one side
-movie posters catching the light
-movie posters textured and detailed
-movie posters plain and uncluttered
+movie posters reading "__name_movie__" __text_look_print__ close behind the subject
+movie posters reading "__name_movie__" __text_look_print__ running along one side
+movie posters reading "__name_movie__" __text_look_print__ catching the light
+movie posters reading "__name_movie__" __text_look_print__ textured and detailed
+movie posters reading "__name_movie__" __text_look_print__ plain and uncluttered
 vintage signs reading "__text_sign_english__" in __sign_lettering__ filling the background
 vintage signs reading "__text_sign_english__" in __sign_lettering__ softly out of focus behind the subject
 vintage signs reading "__text_sign_english__" in __sign_lettering__ close behind the subject
@@ -348,11 +348,11 @@ vintage signs reading "__text_sign_english__" in __sign_lettering__ running alon
 vintage signs reading "__text_sign_english__" in __sign_lettering__ lit from the side
 vintage signs reading "__text_sign_english__" in __sign_lettering__ partly in shadow
 vintage signs reading "__text_sign_english__" in __sign_lettering__ seen through a haze
-road signs filling the background
-road signs close behind the subject
-road signs framing the subject
-road signs lit from the side
-road signs partly in shadow
-road signs catching the light
-road signs seen through a haze
-road signs plain and uncluttered
+road signs reading "STOP" and "__name_street__ ST" in white letters filling the background
+road signs reading "STOP" and "__name_street__ ST" in white letters close behind the subject
+road signs reading "STOP" and "__name_street__ ST" in white letters framing the subject
+road signs reading "STOP" and "__name_street__ ST" in white letters lit from the side
+road signs reading "STOP" and "__name_street__ ST" in white letters partly in shadow
+road signs reading "STOP" and "__name_street__ ST" in white letters catching the light
+road signs reading "STOP" and "__name_street__ ST" in white letters seen through a haze
+road signs reading "STOP" and "__name_street__ ST" in white letters plain and uncluttered

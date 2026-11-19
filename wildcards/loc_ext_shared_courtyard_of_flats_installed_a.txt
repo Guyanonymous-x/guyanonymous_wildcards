@@ -1,5 +1,5 @@
 a paved or part-planted courtyard enclosed by the building on three or four sides
 a bin store
-entry doors with intercom panels
+entry doors with intercom panels with name rows reading "__text_intercom_row__" in small black print
 lighting on the walls
-numbered doors
+numbered doors, the nearest marked "__name_number_small__" in brass numerals

@@ -1,4 +1,4 @@
 application forms
-a ticket number
-a fee receipt
-a notice about acceptable photographs
+a ticket number "__name_number_small__" in bold black print
+a fee receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip plain
+a notice about acceptable photographs, headed "PHOTO RULES" __text_look_paper_notice__, the rest of the sheet plain white

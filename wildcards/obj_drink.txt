@@ -1,8 +1,8 @@
-a bottle of craft beer, blue, rusted at the edges
-a bottle of craft beer, brown, restored to showroom finish
-a bottle of craft beer, grey, decorated with stickers
-a bottle of craft beer, red, covered in mud
-a bottle of sake, striped, wet with rain
+a bottle of craft beer labeled "__name_brand_upper__" __text_look_print__, blue, rusted at the edges
+a bottle of craft beer labeled "__name_brand_upper__" __text_look_print__, brown, restored to showroom finish
+a bottle of craft beer labeled "__name_brand_upper__" __text_look_print__, grey, decorated with stickers
+a bottle of craft beer labeled "__name_brand_upper__" __text_look_print__, red, covered in mud
+a bottle of sake labeled "__name_brand_upper__" __text_look_print__, striped, wet with rain
 a bubble tea, copper, restored to showroom finish
 a bubble tea, matte black, rusted at the edges
 a carafe of sangria, red, battered but working
@@ -54,13 +54,13 @@ a glass of white wine, gold, battered but working
 a glass of white wine, rainbow-coloured, wet with rain
 a glass of white wine, yellow, brand new and spotless
 a gourd of herbal tea, olive, hand-made and slightly uneven
-a jar of kombucha, chrome, hand-made and slightly uneven
-a jar of kombucha, green, wrapped in protective cover
-a jar of kombucha, purple, dusty from storage
-a jar of kombucha, purple, heavily worn and scratched
-a jar of kombucha, two-tone, covered in frost
-a jar of kombucha, two-tone, freshly polished
-a jar of kombucha, two-tone, rusted at the edges
+a jar of kombucha labeled "KOMBUCHA" __text_look_label__, chrome, hand-made and slightly uneven
+a jar of kombucha labeled "KOMBUCHA" __text_look_label__, green, wrapped in protective cover
+a jar of kombucha labeled "KOMBUCHA" __text_look_label__, purple, dusty from storage
+a jar of kombucha labeled "KOMBUCHA" __text_look_label__, purple, heavily worn and scratched
+a jar of kombucha labeled "KOMBUCHA" __text_look_label__, two-tone, covered in frost
+a jar of kombucha labeled "KOMBUCHA" __text_look_label__, two-tone, freshly polished
+a jar of kombucha labeled "KOMBUCHA" __text_look_label__, two-tone, rusted at the edges
 a latte with art, olive, covered in mud
 a latte with art, silver, brand new and spotless
 a mug of hot chocolate, chrome, freshly polished

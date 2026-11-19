@@ -42,7 +42,7 @@ layered tech tee
 scoop-neck top with shoulder buttons
 longline tunic
 athletic-cut basketball jersey
-boxy band tee
+boxy band tee printed "__name_band__"
 lace-up neck shirt with patch pockets
 pocket tee with a curved hem
 oversized smocked top
@@ -66,7 +66,7 @@ thermal shirt with elbow patches
 chunky henley with a V-neck
 cropped hawaiian shirt
 button-front denim shirt
-vintage band t-shirt
+vintage band t-shirt printed "__name_band__"
 fitted long-sleeve tee
 distressed running singlet
 slouchy baseball tee
@@ -121,7 +121,7 @@ blouse with a high neck
 distressed smocked top
 blouse
 grandad-collar shirt with a lace-up front
-band tee with raglan sleeves
+band tee printed "__name_band__" with raglan sleeves
 chunky cycling jersey
 retro wrap top
 tank top
@@ -140,7 +140,7 @@ relaxed mesh tee with a curved hem
 ruffled rugby shirt
 panelled flannel shirt
 camp-collar shirt with raglan sleeves
-band tee with a wrap front
+band tee printed "__name_band__" with a wrap front
 pocket tee with a scoop neck
 pleated bishop-sleeve blouse
 ringer tee with a curved hem
@@ -205,10 +205,10 @@ football shirt with a V-neck
 tie-neck blouse with a high neck
 camisole with side slits
 shirt jacket with a high neck
-layered band tee with ruched sides
+layered band tee printed "__name_band__" with ruched sides
 minimalist cycling jersey
 one-shoulder top with shoulder buttons
-band tee
+band tee printed "__name_band__"
 bandeau top with a cutout detail
 cropped smocked top
 handmade wrap top
@@ -237,7 +237,7 @@ polo shirt
 pleated kimono top
 vest over a collared shirt with shoulder buttons
 chunky t-shirt
-band t-shirt
+band t-shirt printed "__name_band__"
 peter pan collar blouse with a zip front
 ruffled grandad-collar shirt with a scoop neck
 camp-collar shirt
@@ -251,8 +251,8 @@ layered basketball jersey
 embroidered oxford shirt
 golf polo with raglan sleeves
 puff-sleeve blouse
-band tee with a V-neck
-panelled band tee
+band tee printed "__name_band__" with a V-neck
+panelled band tee printed "__name_band__"
 mandarin-collar shirt with a V-neck
 minimalist t-shirt
 peasant blouse with a lace-up front
@@ -284,7 +284,7 @@ bodysuit with a curved hem
 vintage-style sleeveless gym tee with elbow patches
 ringer tee with exposed seams
 basketball jersey with rolled sleeves
-ribbed band tee
+ribbed band tee printed "__name_band__"
 pique polo with a V-neck
 boxy oxford shirt
 baseball jersey with a frayed hem
@@ -368,7 +368,7 @@ quilted blouse
 sports bra top with a button placket
 button-front polo shirt
 embroidered rugby shirt
-band tee with a lace-up front
+band tee printed "__name_band__" with a lace-up front
 western shirt with a chest pocket
 puff-sleeve blouse with a lace-up front
 pleated overshirt

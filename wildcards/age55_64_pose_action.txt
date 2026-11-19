@@ -48,7 +48,7 @@ pulling a suitcase, in mid-motion
 standing upright, in a relaxed way
 standing upright, in a relaxed way
 reaching to the side, while glancing at the camera
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sprinting, in a relaxed way
 sitting on a rock
 riding a bicycle, with careful balance
@@ -113,7 +113,7 @@ reclining in a chair, in a relaxed way
 riding a bicycle, with a slight smile
 sitting upright formal posture
 lying on the back, at rest
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 brushing hair aside, with quiet confidence
 standing with arms crossed
 adjusting a hat
@@ -133,7 +133,7 @@ meditating
 sitting cross-legged on floor
 pausing mid-step, with a calm air
 sitting on a sofa, in a relaxed way
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 reclining in a chair, with a sense of ease
 hugging the knees
 riding a scooter, in a relaxed way
@@ -313,7 +313,7 @@ reading a map, with graceful posture
 reading aloud, in a natural candid moment
 sitting on the floor, while looking away
 doing a lunge
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 standing on a balcony, while glancing at the camera
 sprinting, while looking away
 lying on the side, in a natural candid moment
@@ -369,7 +369,7 @@ arms raised in celebration, with energy
 leaning on a counter, with a calm air
 doing a lunge
 standing in a doorway frame, with a casual attitude
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 watering plants, with a calm air
 descending steps
 leaning on a fence, while looking into the distance
@@ -1041,7 +1041,7 @@ bending to pick something up, with focus
 hands behind the back, with quiet confidence
 turning away, in a relaxed way
 hands behind the head, with careful balance
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 bending to tie a shoe, in a deliberate posed moment
 adjusting a hat
 walking away
@@ -1134,7 +1134,7 @@ doing a lunge, while glancing at the camera
 reclining in a chair, with quiet confidence
 dancing
 lying on the side, in a natural candid moment
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting at a desk, with a slight smile
 lying on the back, with a casual attitude
 typing on a laptop, with graceful posture
@@ -1311,7 +1311,7 @@ sitting at a desk, with a slight smile
 standing with arms crossed
 pulling a suitcase, with quiet confidence
 reaching forward, with quiet confidence
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 strolling casually
 kneeling on one knee on ground
 leaning on a railing, with careful balance
@@ -1504,7 +1504,7 @@ sitting on a stool
 standing rigid motionless posture
 sitting on a chair, while looking away
 writing in a notebook, with energy
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 perching on a stool, with graceful posture
 typing on a laptop, in mid-motion
 stretching to the side
@@ -1520,7 +1520,7 @@ fixing a collar, in a natural candid moment
 standing with feet together, with careful balance
 standing with arms crossed, with focus
 riding a bicycle, with a casual attitude
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 watering plants, while looking away
 writing in a notebook, while looking into the distance
 sitting on a bench
@@ -1766,7 +1766,7 @@ laughing with a friend, with quiet confidence
 standing with arms crossed, with energy
 drinking from a cup, while looking into the distance
 lying on the stomach, with focus
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 resting a head on a hand
 sitting on a low wall, while looking into the distance
 reaching up, with quiet confidence
@@ -1855,7 +1855,7 @@ sleeping, while looking away
 stretching the arms overhead, with quiet confidence
 holding a mug with both hands, with a slight smile
 talking on the phone, in a deliberate posed moment
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 jogging, with a sense of ease
 riding a bicycle, in a natural candid moment
 kneeling on one knee, at rest

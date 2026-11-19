@@ -126,7 +126,7 @@ a desk
 a desk and chairs
 a desk facing the gate
 a desk with a terminal
-a directory board
+a directory board listing "__name_trade_corp__ SUITE __name_number_small__" in white letters on a black board, the rest of the board bare
 a dishwasher
 a dividing curtain
 a document wallet
@@ -208,7 +208,7 @@ a lantern
 a laptop on velcro
 a large desk
 a large screen
-a leaflet rack
+a leaflet rack holding leaflets headed "__text_flyer__" __text_look_print__, the rest of each cover plain
 a leather chair
 a lectern
 a library table
@@ -251,9 +251,9 @@ a monitor bank
 a monitor on an arm
 a mower
 a mug rack
-a newspaper rack
-a notice board
-a noticeboard
+a newspaper rack holding papers headed "__name_newspaper__" __text_look_headline__, the rest of each front page plain
+a notice board pinned with a sheet reading "__text_bulletin__" __text_look_paper_notice__, the rest of the board bare
+a noticeboard pinned with a sheet reading "__text_bulletin__" __text_look_paper_notice__, the rest of the board bare
 a nurses' station
 a packing bench
 a pallet jack
@@ -314,7 +314,7 @@ a scale
 a scanner
 a scanner cradle
 a scissor lift
-a scoreboard
+a scoreboard reading "__text_score__" __text_look_dotmatrix__, the rest of the board dark
 a screen
 a screen for privacy
 a sealed logbook
@@ -386,7 +386,7 @@ a telephone
 a television
 a television on a bracket
 a thermometer
-a ticket display
+a ticket display showing "NOW SERVING __name_number_small__" __text_look_dotmatrix__, the rest of the display dark
 a till
 a timing machine
 a tire changer
@@ -423,7 +423,7 @@ a waiting room
 a walk-in cooler
 a walkway
 a wall-mounted ash bin
-a war memorial
+a war memorial carved "__text_memorial__" __text_look_carved_stone__
 a wardrobe
 a wardrobe unopened
 a warming cabinet

@@ -1,7 +1,7 @@
-a weight ticket printing
-a docket book
+a weight ticket reading "NET WEIGHT 18,240 KG" __text_look_receipt__ printing
+a docket book headed "DOCKET __name_number_small__" __text_look_print__
 a radio
 a mug
 a clipboard
-a calibration certificate on the wall
+a calibration certificate headed "CERTIFICATE OF CALIBRATION" in black print, the rest of the sheet plain white, on the wall
 a pen on a chain

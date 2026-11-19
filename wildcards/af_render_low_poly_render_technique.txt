@@ -4,5 +4,5 @@ lighting with one simple directional light
 colouring each facet by its angle
 rendering with a smooth sky gradient behind
 reducing a form to a minimal mesh
-shading faces without smoothing
+shading each face as a flat, hard-edged facet
 rendering with soft ambient light

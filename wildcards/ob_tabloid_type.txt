@@ -1,2 +1,2 @@
-a tabloid
-a tabloid folded to the crossword
+a tabloid headlined "__text_headline__" __text_look_headline__
+a tabloid with the masthead "__name_newspaper__" __text_look_headline__ folded to the crossword

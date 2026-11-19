@@ -16,7 +16,7 @@ a cracked mirror propped against a wall
 an old suitcase on a station platform
 a cabbage leaf in raking light
 a jukebox glowing in the dark
-a pile of discarded cigarette packs
+a pile of discarded cigarette packs printed "__name_brand_upper__" __text_look_print__
 a glass of milk catching window light
 a neon sign reading "__text_neon_sign__" __text_look_neon__ reflected in a puddle
 a pair of worn work boots
@@ -42,13 +42,13 @@ a fried egg on toast
 a cup of coffee with a ring stain on paper
 a teapot steaming on a table
 a glass of water refracting window light
-a bottle of milk on a doorstep
+a bottle of milk with "__name_brand_upper__ DAIRY" printed in red on the glass, on a doorstep
 a wine glass with a lipstick mark
 a champagne coupe overflowing
 a cocktail with a paper umbrella
 a tin can opened and empty
-a crushed soda can in a gutter
-a half-empty jar of jam
+a crushed soda can printed "__name_brand_upper__" in white letters on red, in a gutter
+a half-empty jar of jam labeled "STRAWBERRY JAM" __text_look_label__
 a bowl of rice with chopsticks
 a stack of tins in a pantry
 a refrigerator open with a single light
@@ -97,17 +97,17 @@ a traffic cone in the snow
 a stop sign reading "STOP" in white capitals on a red octagon riddled with holes
 a neon motel sign reading "__text_neon_sign__" __text_look_neon__ half lit
 a broken neon letter on a wall
-a hand-painted advertisement fading on bricks
+a hand-painted advertisement reading "__name_brand_upper__" in faded painted capitals fading on bricks
 a torn poster reading "__text_poster_event__" __text_look_print__ on a wall
-a stack of old magazines
+a stack of old magazines with mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures
 a typewriter with a half-written letter
 a fountain pen and an ink blot
-a pair of reading glasses on an open book
-a dog-eared paperback
+a pair of reading glasses on an open book, its page headed "CHAPTER __name_number_small__" in small black print, the rest of the page plain
+a dog-eared paperback titled "__name_book_title_any__" __text_look_print__
 an old encyclopedia set
 a globe in a dusty study
 a world map pinned with thumbtacks
-a postcard rack
+a postcard rack of cards printed "GREETINGS FROM __name_town__" in bold colored letters
 a stamp collection under a magnifier
 a letter sealed with wax
 a photograph album open on a lap
@@ -137,7 +137,7 @@ an empty armchair with a blanket
 a rocking chair on a porch
 a deckchair facing the sea
 a bench with a plaque
-a swing moving with no one on it
+an empty swing moving on its own
 a seesaw tilted down
 a merry-go-round horse
 a carnival prize teddy hanging
@@ -157,7 +157,7 @@ a match struck and smoking
 an ashtray overflowing
 a cigarette burning on an ashtray edge
 a lighter flame in the dark
-a lipstick tube without its cap
+an open, uncapped lipstick tube
 a perfume bottle on a vanity
 a compact mirror with powder
 a hairbrush with tangled hair
@@ -188,7 +188,7 @@ a stethoscope on a desk
 a hospital drip stand
 a wheelchair in a corridor
 a pair of crutches by a door
-a pill bottle spilled
+a pill bottle labeled "__name_brand_upper__" __text_look_label__, spilled
 a bandage on a cut
 a glass eye in a box
 a set of false teeth in a glass
@@ -203,7 +203,7 @@ a trumpet on a bar stool
 a drum kit in an empty room
 a microphone on a stage
 a spotlight on an empty stage
-a theater ticket on the floor
+a theater ticket printed "__text_ticket__" in small black print on the floor
 a cinema popcorn box spilled
 a film poster reading "__text_poster_event__" __text_look_print__ peeling
 a mannequin missing an arm
@@ -216,7 +216,7 @@ a crown on a velvet cushion
 a medal on a ribbon
 a trophy with a dent
 a flag folded in a triangle
-a gravestone covered in moss
+a gravestone reading "__text_headstone__" __text_look_carved_stone__ covered in moss
 a statue with a pigeon on its head
 a stone angel with a broken wing
 a fountain with coins
@@ -225,7 +225,7 @@ a weathervane on a barn
 a scarecrow in a field
 a tractor tire half buried
 a rusted gate in a stone wall
-a mailbox shaped like a fish
+a mailbox marked "__name_surname__" in painted letters shaped like a fish
 a garden gnome with a chipped hat
 a watering can by a door
 a wheelbarrow full of leaves

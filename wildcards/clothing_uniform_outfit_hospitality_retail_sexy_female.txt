@@ -4,7 +4,7 @@ A black tailcoat with a white shirt and a white bow tie, striped trousers, black
 A black waistcoat with a tastevin on a chain, black trousers, polished shoes, the full outfit of a sommelier in a sexy feminine costume-shop style
 A blazer with a lanyard, trousers, shoes, the full outfit of a museum guide in a sexy feminine costume-shop style
 A blouse with a bow and a cardigan, a pencil skirt, court shoes, the full outfit of a secretary in a sexy feminine costume-shop style
-A branded polo and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide in a sexy feminine costume-shop style
+A branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide in a sexy feminine costume-shop style
 A canvas apron over a shirt, jeans, a flat cap, trainers, the full outfit of a barista in a sexy feminine costume-shop style
 A cardigan and a lanyard, trousers, shoes, the full outfit of a bookseller in a sexy feminine costume-shop style
 A cardigan with a chain of glasses, a skirt, shoes, the full outfit of a librarian in a sexy feminine costume-shop style
@@ -43,7 +43,7 @@ A person dressed as a stockbroker in a sexy feminine costume-shop style (1980s),
 A person dressed as a supermarket cashier in a sexy feminine costume-shop style (shop), with a polo shirt with an apron, trousers and trainers, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
 A person dressed as a sushi chef in a sexy feminine costume-shop style (Japan), with a white happi coat and a hachimaki headband, trousers, a headband and sandals, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
 A person dressed as a teacher in a sexy feminine costume-shop style (school), with a tweed jacket with chalk-dusted elbow patches, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
-A person dressed as a tour guide in a sexy feminine costume-shop style (city), with a branded polo and a flag, shorts, a sun hat and trainers, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
+A person dressed as a tour guide in a sexy feminine costume-shop style (city), with a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
 A person dressed as a waiter in a sexy feminine costume-shop style (restaurant), with a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
 A person dressed as an office worker in a sexy feminine costume-shop style (1960s), with a short sleeve shirt and thin tie with a pocket protector, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
 A pinstripe suit with braces and a loud tie, suit trousers, polished shoes, the full outfit of a stockbroker in a sexy feminine costume-shop style
@@ -81,7 +81,7 @@ a bartender in a sexy feminine costume-shop style (cocktail bar), wearing a wais
 a bartender in a sexy feminine costume-shop style, dressed in a waistcoat with sleeve garters over a white shirt with trousers
 a bookseller in a sexy feminine costume-shop style (shop), in a cardigan and a lanyard and trousers and shoes
 a bookseller in a sexy feminine costume-shop style (shop), wearing a cardigan and a lanyard, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
-a bookseller in a sexy feminine costume-shop style (shop), wearing a cardigan and a lanyard, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels and carrying a stack of books
+a bookseller in a sexy feminine costume-shop style (shop), wearing a cardigan and a lanyard, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels and carrying a stack of books with "__name_book_title_any__" in small gold capitals on the top spine, the other spines plain
 a bookseller in a sexy feminine costume-shop style, dressed in a cardigan and a lanyard with trousers
 a butler in a sexy feminine costume-shop style (stately home), in a black tailcoat with a white shirt and a white bow tie and striped trousers and black shoes
 a butler in a sexy feminine costume-shop style (stately home), wearing a black tailcoat with a white shirt and a white bow tie, striped trousers and black shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
@@ -153,7 +153,7 @@ a postmaster in a sexy feminine costume-shop style, dressed in a double-breasted
 a professor in a sexy feminine costume-shop style (university), in a flowing academic gown with a hood and a mortarboard
 a professor in a sexy feminine costume-shop style (university), in a flowing academic gown with a hood and shoes
 a professor in a sexy feminine costume-shop style (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
-a professor in a sexy feminine costume-shop style (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots and carrying a book
+a professor in a sexy feminine costume-shop style (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots and carrying a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain
 a professor in a sexy feminine costume-shop style, dressed in a flowing academic gown with a hood
 a road crossing guard in a sexy feminine costume-shop style (road), in a high-visibility coat and a cap
 a road crossing guard in a sexy feminine costume-shop style (road), in a high-visibility coat and trousers and shoes
@@ -190,11 +190,11 @@ a teacher in a sexy feminine costume-shop style (school), in a tweed jacket with
 a teacher in a sexy feminine costume-shop style (school), wearing a tweed jacket with chalk-dusted elbow patches, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
 a teacher in a sexy feminine costume-shop style (school), wearing a tweed jacket with chalk-dusted elbow patches, trousers and shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels and carrying chalk
 a teacher in a sexy feminine costume-shop style, dressed in a tweed jacket with chalk-dusted elbow patches with trousers
-a tour guide in a sexy feminine costume-shop style (city), in a branded polo and a flag and a sun hat
-a tour guide in a sexy feminine costume-shop style (city), in a branded polo and a flag and shorts and trainers
-a tour guide in a sexy feminine costume-shop style (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
-a tour guide in a sexy feminine costume-shop style (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings and carrying a flag
-a tour guide in a sexy feminine costume-shop style, dressed in a branded polo and a flag with shorts
+a tour guide in a sexy feminine costume-shop style (city), in a branded polo with "__name_brand_upper__" on the chest and a flag and a sun hat
+a tour guide in a sexy feminine costume-shop style (city), in a branded polo with "__name_brand_upper__" on the chest and a flag and shorts and trainers
+a tour guide in a sexy feminine costume-shop style (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
+a tour guide in a sexy feminine costume-shop style (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings and carrying a flag
+a tour guide in a sexy feminine costume-shop style, dressed in a branded polo with "__name_brand_upper__" on the chest and a flag with shorts
 a waiter in a sexy feminine costume-shop style (restaurant), in a white shirt with a black waistcoat and a bow tie and black trousers and black shoes
 a waiter in a sexy feminine costume-shop style (restaurant), wearing a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels
 a waiter in a sexy feminine costume-shop style (restaurant), wearing a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, a sexy costume-shop version, short and fitted with a plunging neckline, a cinched waist, a short hemline, stockings and high heels and carrying a tray

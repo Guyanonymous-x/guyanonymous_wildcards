@@ -1,6 +1,6 @@
-a thermal receipt
-a long till receipt
-a carbon copy receipt
-a card terminal receipt
-a handwritten receipt
-a receipt in a pile
+a thermal receipt reading "__text_receipt__" __text_look_receipt__
+a long till receipt reading "__text_receipt__" __text_look_receipt__
+a carbon copy receipt reading "__text_receipt__" in faint blue carbon print
+a card terminal receipt reading "__text_receipt__" __text_look_receipt__
+a handwritten receipt reading "__text_receipt__" in blue ink, the rest of the slip plain
+a receipt reading "__text_receipt__" __text_look_receipt__ in a pile

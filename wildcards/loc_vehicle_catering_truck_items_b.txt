@@ -2,5 +2,5 @@ a ladle on a hook
 a thermometer probe in a sleeve
 a container of cutlery in a crate
 a hand gel bottle at the door
-a chalk menu board
-a tub of coffee beans
+a chalk menu board reading "__text_price_line__" __text_look_chalk__, the rest of the board bare
+a tub of coffee beans labeled "__name_brand_upper__ COFFEE" __text_look_print__

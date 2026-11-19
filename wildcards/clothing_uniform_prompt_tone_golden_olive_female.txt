@@ -422,7 +422,7 @@ a mushroom forager in a feminine cut (forest), in a wicker basket and a coat and
 a mutant wanderer in a feminine cut (wasteland), wearing a ragged cloak over a tattered shirt, a hood and boots, tailored in a feminine cut with a nipped-in waist and carrying a staff, with golden olive skin
 a necromancer in a feminine cut, dressed in a tattered black robe with bone clasps and a hooded cloak, with golden olive skin
 a neon street samurai in a feminine cut (cyberpunk), in a glowing trench coat and trousers and boots, with golden olive skin
-a newspaper vendor in a feminine cut (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a feminine cut with shaped seams and a flattering line and carrying a stack of papers, with golden olive skin
+a newspaper vendor in a feminine cut (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a feminine cut with shaped seams and a flattering line and carrying a stack of papers, the top front page headed "__name_newspaper__" with "__text_headline__" __text_look_headline__, the rest of the page one large photo, with golden olive skin
 a night vigilante in a feminine cut (superhero), wearing a charcoal hooded armoured jacket with a short cape, a half mask and boots, in a feminine cut with shaped seams and a flattering line, with golden olive skin
 a ninja in a feminine cut (cosplay), wearing a black wrap tunic, trousers, a hood and mask and split-toe shoes, tailored in a feminine cut with a nipped-in waist, with golden olive skin
 a nurse in a traditional white uniform in a feminine cut (1950s Europe and North America), in a starched white dress with a belt and a breast pocket watch and a white skirt and white stockings and white lace-up shoes, with golden olive skin
@@ -445,7 +445,7 @@ a police officer in a feminine cut (modern), in a dark shirt with a badge, shoul
 a polo player in a feminine cut, dressed in a team jersey with white breeches, with golden olive skin
 a possessed doll in a feminine cut (horror), wearing a lace dress with cracked porcelain makeup and ringlets, tailored in a feminine cut with a nipped-in waist, with golden olive skin
 a post-apocalyptic scavenger in a feminine cut (dystopian), in patched armour of scrap and leather and ragged trousers and boots, with golden olive skin
-a postal worker in a feminine cut (city), wearing a uniform shirt with a bag across the body, shorts, a pith helmet and shoes, in a feminine cut with shaped seams and a flattering line and carrying letters, with golden olive skin
+a postal worker in a feminine cut (city), wearing a uniform shirt with a bag across the body, shorts, a pith helmet and shoes, in a feminine cut with shaped seams and a flattering line and carrying letters addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of each envelope plain, with golden olive skin
 a potato sack racer in a feminine cut (fair), wearing a hessian sack, tailored in a feminine cut with a nipped-in waist, with golden olive skin
 a potter in a feminine cut (studio), wearing a clay-stained apron over a loose shirt, trousers and clogs, tailored in a feminine cut with a nipped-in waist, with golden olive skin
 a powered-armour engineer hero in a feminine cut (superhero), in a segmented metal armour suit with glowing vents and boots, with golden olive skin
@@ -531,7 +531,7 @@ a three-piece suit wearer in a feminine cut (office), in a pinstripe jacket and 
 a thunder god in a feminine cut (myth), in a hammer belt and a cape and a winged helm, with golden olive skin
 a tin man robot in a feminine cut (theatre), in a metal funnel hat and silver chest piece and silver trousers and silver boots, with golden olive skin
 a toilet paper roll costume wearer in a feminine cut (party), wearing a white tube suit, tailored in a feminine cut with a nipped-in waist, with golden olive skin
-a tour guide in a feminine cut (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, in a feminine cut with shaped seams and a flattering line and carrying a flag, with golden olive skin
+a tour guide in a feminine cut (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a feminine cut with shaped seams and a flattering line and carrying a flag, with golden olive skin
 a town mascot cow in a feminine cut (farm), in a black and white cow suit and hooves, with golden olive skin
 a traffic officer in a feminine cut (road), in a high-visibility jacket with white gloves and a reflective cap, with golden olive skin
 a train conductor in a feminine cut, dressed in a double-breasted jacket with brass buttons and a watch chain with trousers, with golden olive skin
@@ -545,7 +545,7 @@ a veterinarian in a feminine cut (clinic), in a patterned scrub top with a steth
 a void wanderer in a feminine cut (sci-fi), wearing a hooded cloak over a patched suit, a breathing mask and boots, cut for a feminine figure with a fitted waist and carrying a lantern, with golden olive skin
 a waiter in a feminine cut, dressed in a white shirt with a black waistcoat and a bow tie with black trousers, with golden olive skin
 a walking Christmas tree in a feminine cut (festive), wearing a green tree suit with lights and a star hat, in a feminine cut with shaped seams and a flattering line, with golden olive skin
-a walking sandwich board seller in a feminine cut, dressed in a hot dog costume with a sandwich board, with golden olive skin
+a walking sandwich board seller in a feminine cut, dressed in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__", with golden olive skin
 a wandering monster slayer in a feminine cut (fantasy), wearing a worn leather jerkin with strapped vials, trousers and boots, tailored in a feminine cut with a nipped-in waist and carrying a steel sword, with golden olive skin
 a warehouse picker in a feminine cut, dressed in a high-visibility vest and a scanner on the wrist with work trousers, with golden olive skin
 a wasteland raider in a feminine cut (wasteland), wearing spiked shoulder pads over bare arms, torn trousers, a skull mask and boots, in a feminine cut with shaped seams and a flattering line, with golden olive skin

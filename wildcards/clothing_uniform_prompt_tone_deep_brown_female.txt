@@ -4,7 +4,7 @@ A blazer with a club badge, trousers, shoes, the full outfit of a chess club cha
 A blouse with a bow and a cardigan, a pencil skirt, court shoes, the full outfit of a secretary in a feminine cut, with deep brown skin
 A bodysuit with visible mechanical limbs, a face plate, boots, the full outfit of a cyborg in a feminine cut, with deep brown skin
 A boxy armoured suit, a robot helmet, boots, the full outfit of a giant robot in a feminine cut, with deep brown skin
-A branded polo and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide in a feminine cut, with deep brown skin
+A branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide in a feminine cut, with deep brown skin
 A brass-plated chest with gears, a brass face plate, boots, the full outfit of a clockwork automaton in a feminine cut, with deep brown skin
 A brocade coat with a half mask, breeches, a plumed hat, shoes, the full outfit of a masked ball guest in a feminine cut, with deep brown skin
 A bulky armoured suit with shoulder plates, a helmet with a visor, heavy boots, the full outfit of an armoured space trooper in a feminine cut, with deep brown skin
@@ -535,7 +535,7 @@ a vaquero in a feminine cut (Mexico), in a short bolero jacket and embroidered t
 a void wanderer in a feminine cut (sci-fi), wearing a hooded cloak over a patched suit, a breathing mask and boots, cut for a feminine figure with a fitted waist and carrying a lantern, with deep brown skin
 a waiter in a feminine cut (restaurant), wearing a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, tailored in a feminine cut with a nipped-in waist and carrying a tray, with deep brown skin
 a walking Christmas tree in a feminine cut (festive), wearing a green tree suit with lights and a star hat, in a feminine cut with shaped seams and a flattering line, with deep brown skin
-a walking sandwich board seller in a feminine cut (street), wearing a hot dog costume with a sandwich board and shoes, in a feminine cut with shaped seams and a flattering line, with deep brown skin
+a walking sandwich board seller in a feminine cut (street), wearing a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, in a feminine cut with shaped seams and a flattering line, with deep brown skin
 a wasteland raider in a feminine cut, dressed in spiked shoulder pads over bare arms with torn trousers, with deep brown skin
 a wedding kimono wearer in a feminine cut, dressed in a white silk shiromuku with a wide obi, with deep brown skin
 a white-tie tailcoat wearer in a feminine cut (white tie), wearing a black tailcoat, a white starched waistcoat and a white bow tie, black trousers with braid and patent shoes, cut for a feminine figure with a fitted waist and carrying white gloves, with deep brown skin

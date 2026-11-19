@@ -1,4 +1,4 @@
-a free newspaper folded into a seat back
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the page a large photo, folded into a seat back
 a coffee cup balanced on a bin lid because the bin is full
 a dropped glove on the terrazzo
 a suitcase wheel that has sheared off and been left
@@ -9,4 +9,4 @@ a bunch of flowers held by someone meeting a train
 a pigeon on a girder
 a lost teddy placed on a ledge by staff
 a cardboard sign reading "__loc_text_cardboard__" held by someone sleeping rough at the edge of the concourse
-a crumpled receipt from the ticket machine
+a crumpled receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip blank, from the ticket machine

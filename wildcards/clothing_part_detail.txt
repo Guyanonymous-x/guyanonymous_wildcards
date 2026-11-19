@@ -425,10 +425,10 @@ chain stitching
 decorative bar tacks
 contrast buttonholes
 handmade buttonholes
-monogrammed cuff
-embroidered initials
-woven label 
-printed care label visible
+monogrammed cuff reading "__name_initials__" __text_look_stitch__
+embroidered initials "__name_initials__" __text_look_stitch__
+woven label reading "__name_brand_upper__" 
+printed care label reading "100% COTTON MACHINE WASH COLD" in small black print, the rest of the label plain white, visible
 signature tab
 beaded fringe
 hand-embroidered border

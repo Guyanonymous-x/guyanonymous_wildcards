@@ -1,4 +1,4 @@
-a large waiting room with numbered booths along one side and a ticket display overhead
+a large waiting room with numbered booths along one side and a ticket display reading "__text_screen__" __text_look_dotmatrix__ overhead
 document scanning at each booth
 a private interview room for referred cases
-a notice board in several languages
+a notice board in several languages, with sheets headed "PASSPORTS", "PASSEPORTS" and "PASAPORTES" __text_look_paper_notice__, the rest of the sheet plain white

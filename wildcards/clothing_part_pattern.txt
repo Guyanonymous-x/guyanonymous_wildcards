@@ -17,7 +17,7 @@ faded Hawaiian floral print
 checkerboard grid pattern
 nordic fair-isle knit pattern
 subtle herringbone weave pattern
-faded band logo print
+faded band logo print reading "__name_band__" in cracked white letters
 bright zebra stripe pattern
 vertical thin stripe pattern
 retro 70s swirl print pattern
@@ -191,8 +191,8 @@ faded circuit-board print
 painterly pixel art pattern
 vintage-style halftone dots pattern
 sparse comic-book dots pattern
-dense logo monogram pattern
-oversized letters pattern
+dense logo monogram pattern of the initials "__name_initials__" in small gold print
+oversized letters pattern of "__name_word__" __text_look_print__
 faded text all-over pattern
 geometric text all-over pattern
 painterly text all-over pattern
@@ -211,7 +211,7 @@ high-contrast desert cacti pattern
 repeating southwestern sunset pattern
 modern minimalist southwestern sunset pattern
 tiny bicycles pattern
-washed-out postcards pattern
+washed-out postcards pattern reading "GREETINGS FROM __name_town__" __text_look_print__ over a printed view
 repeating fruit print
 subtle cherries pattern
 painterly pineapples pattern
@@ -431,12 +431,12 @@ ASCII text pattern
 newsprint
 typography print
 slogan reading "__name_merch_slogan__" print
-repeat monogram pattern
+repeat monogram pattern of the initials "__name_initials__" in small gold print
 initials pattern
 numbers pattern
-letters pattern
+letters pattern of "__name_word__" __text_look_print__
 text all-over pattern
-graffiti pattern
+graffiti pattern of the tags "__text_graffiti_word__" __text_look_graffiti__
 street-art tags pattern
 sports numbers pattern
 embroidered patches pattern
@@ -462,7 +462,7 @@ vintage cars pattern
 bicycles pattern
 airplanes pattern
 travel stamps pattern
-postcards pattern
+postcards pattern reading "GREETINGS FROM __name_town__" __text_look_print__ over a printed view
 fruit print
 cherries pattern
 strawberries pattern

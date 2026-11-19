@@ -1,11 +1,11 @@
 old leather-bound books with gilt spines
-paperbacks with cracked spines
-comics with vivid painted covers
+paperbacks with cracked spines reading "__name_book_title_any__" in faded print
+comics with vivid painted covers titled "__name_book_title_any__" __text_look_print__
 manga volumes with dramatic art
 art books with glossy plates
 atlases and maps
 cookbooks with food photographs
 poetry chapbooks
 pulp novels with lurid painted covers
-vintage postcards
-newspapers folded in piles
+vintage postcards printed "__name_town__" in bold colored letters
+newspapers with mastheads reading "__name_newspaper__" in heavy black print above front-page photos folded in piles

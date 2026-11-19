@@ -1,7 +1,7 @@
-a paper train ticket
-a cardboard raffle ticket
-a thermal-printed ticket
-a punched tram ticket
-a cinema ticket stub
-a car park ticket
-a ticket in a plastic sleeve
+a paper train ticket printed "SINGLE __name_town__" in black capitals
+a cardboard raffle ticket printed "NUMBER 47" in red print
+a thermal-printed ticket reading "__text_ticket__" __text_look_receipt__
+a punched tram ticket printed "TRAM __name_price__" in black print
+a cinema ticket stub printed "ADMIT ONE" in black print
+a car park ticket printed "__name_hours__" in black print
+a ticket printed "ADMIT ONE" in black print in a plastic sleeve

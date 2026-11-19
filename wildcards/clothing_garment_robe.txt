@@ -92,7 +92,7 @@ towelling fleece robe
 contemporary double-breasted robe with back hanger loop
 Victorian linen three-quarter-sleeve robe
 Edwardian velour kimono robe
-velour cotton robe with monogram on the chest
+velour cotton robe with monogram "__name_initials__" on the chest
 post-war kimono robe with belt with loops
 button-front robe with tie belt
 1970s lightweight cotton robe
@@ -146,7 +146,7 @@ heritage chenille fleece robe
 floor-length robe with lace trim
 charmeuse linen robe
 oversized hooded blanket robe
-brushed cotton three-quarter-sleeve robe with monogram on the chest
+brushed cotton three-quarter-sleeve robe with monogram "__name_initials__" on the chest
 1930s full-length robe
 hooded towelling poncho
 towelling short robe with contrast piping
@@ -179,7 +179,7 @@ knee-length robe with lace trim
 linen plush robe
 modern cotton robe
 linen velvet dressing gown with plush lining
-thick winter linen robe with monogram on the chest
+thick winter linen robe with monogram "__name_initials__" on the chest
 satin dressing gown with belt with loops
 plush fleece bed jacket
 flannel dressing gown
@@ -187,7 +187,7 @@ silk shawl-collar robe
 microfibre double-breasted robe
 silk sherpa-lined robe with turned-back cuffs
 1960s towelling bathrobe with belt with loops
-bamboo towelling dressing gown with monogram on the chest
+bamboo towelling dressing gown with monogram "__name_initials__" on the chest
 Edwardian microfibre kimono robe
 lightweight cotton robe
 lightweight dressing gown
@@ -257,7 +257,7 @@ terry cloth velvet dressing gown
 flannel spa robe with hidden pockets
 Art Deco lightweight cotton robe with patch pockets
 shawl-collar robe with turned-back cuffs
-Victorian oversized hooded blanket robe with monogram on the chest
+Victorian oversized hooded blanket robe with monogram "__name_initials__" on the chest
 vintage satin double-breasted robe
 kimono robe with quilted lining
 jersey floor-length robe with notch collar

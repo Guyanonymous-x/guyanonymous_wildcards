@@ -1,6 +1,6 @@
 a strip-mall unit with a monument sign reading "__loc_text_notice__"
-a waiting area with bolted chairs and a ticket dispenser
-menu screens
+a waiting area with bolted chairs and a ticket dispenser marked "TAKE A NUMBER" in red letters
+menu screens showing "__text_price_line__" __text_look_screen__
 a compliance point-of-sale system
-cameras throughout with a retention notice
+cameras throughout with a retention notice reading "CCTV IN OPERATION" in bold black print on a yellow plate
 a staff room with a time clock

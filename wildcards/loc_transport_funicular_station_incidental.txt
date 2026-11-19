@@ -1,11 +1,11 @@
-a leaflet about the line's history curling in a rack
+a leaflet about the line's history headed "OUR HISTORY" in bold print curling in a rack
 a coin in the slot of an honesty box
-a dropped ticket
+a dropped ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
 a child's ice cream dripping onto the stepped platform
-a bench with a memorial plaque
+a bench with a memorial plaque reading "IN MEMORY OF __name_first_world__ __name_surname_world__" __text_look_brass__
 a lost glove
 a seagull on the canopy
-a brass plaque polished at one corner where everyone touches it
-a timetable board with the winter service pasted over the summer one
+a brass plaque reading "__text_plaque__" __text_look_brass__ polished at one corner where everyone touches it
+a timetable board reading "__text_departure__" in black print with the winter service pasted over the summer one
 a mug in the winding house
 a geranium in a pot

@@ -47,14 +47,14 @@ a walkway threading between machine
 a chocolate tempering machine
 a soft-serve machine
 a paint mixing machine
-a nameplate tag machine
+a nameplate tag machine with a tag reading "__name_first__" __text_look_stamped__
 a floor cleaning machine
 a polishing machine
 a dry cleaning machine
 a press machine
 a bagging machine
 a soap vending machine
-a handwritten sign about broken machine
+a handwritten sign reading "OUT OF ORDER" __text_look_marker__ about broken machine
 a blood pressure machine
 a lens edging machine
 an anesthesia machine
@@ -65,7 +65,7 @@ a haze machine
 a karaoke machine
 a pinball machine
 a claw machine
-a ticket counting machine
+a ticket counting machine with a display reading "TICKETS 250" in red digital numbers
 a slot machine
 a shuffle machine
 a transcript writer's steno machine
@@ -115,7 +115,7 @@ ticket machines
 pay machines
 an ECG machine
 a coffee machine on a gimbal shelf with four mugs
-a cash machine with a fee notice
+a cash machine with a fee notice reading "FEE __name_price__" in black print on a white sticker
 machines with no stake or prize notices and no category markings
 coffee machine
 washing machine under the counter
@@ -136,14 +136,14 @@ vending machine
 soft-serve machine
 a key cutting machine behind the counter
 a key-cutting machine with swarf beneath it
-a nameplate tag machine with a test tag reading TEST
+a nameplate tag machine with a test tag reading "TEST" in raised stamped capitals
 sewing machines
 press machines
 the cleaning machine and presses visible behind a glazed partition
 washing machines in a row
 machines in banks against the walls with a gangway between
-a machine with a handwritten out-of-order sign
-a handwritten sign about a broken machine
+a machine with a handwritten out-of-order sign reading "OUT OF ORDER" __text_look_marker__
+a handwritten sign reading "OUT OF ORDER" __text_look_marker__ about a broken machine
 a washing machine in the back
 a hand-written note about a machine
 key cutting machines
@@ -200,7 +200,7 @@ a conductor's ticket machine and rack
 a coffee machine on a gimbal shelf with four mugs on hooks and a fifth hook empty
 a machine on a curly lead stretched out of shape
 a bay built round two machines and a wall, a tire changer bolted to the floor with a vertical post
-a machine on the counter with the receipt roll running out
+a machine on the counter with the receipt roll printed "__text_receipt__" __text_look_receipt__ running out
 a ticket machine on a bench with the cover off
 a ticket machine on a bench with the cover off and a note on it about which machine it came out of
 a hydraulic hose crimping machine with a rack of fittings

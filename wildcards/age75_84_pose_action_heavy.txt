@@ -131,7 +131,7 @@ rolling up sleeves
 lying on the back, with a casual attitude
 perched high on edge of ledge
 sitting casually on wooden chair
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 leaning on a wall, with graceful posture
 lying on the side
 sitting on the edge of a bed, with careful balance
@@ -457,13 +457,13 @@ striding briskly
 kneeling on one knee on ground
 sitting on a rock, in a deliberate posed moment
 standing in a doorway frame, with a casual attitude
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 stretching to the side
 eating, in a deliberate posed moment
 swaying
 hopping
 saluting
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting on a log, at rest
 sitting on the floor
 sitting at a desk, with a slight smile

@@ -1,7 +1,7 @@
 a glazed box high in the stand with a counter running its width
 power and data at every position
-numbered seats allocated by outlet
-monitors showing the broadcast feed and the stats
+numbered seats marked "__name_number_small__" in white print allocated by outlet
+monitors showing the broadcast feed and the stats reading "__text_score__" in white letters on a dark blue screen
 a clock
 climate control
 a separate broadcast position with its own booth

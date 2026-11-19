@@ -180,7 +180,7 @@ writing in a notebook
 yawning
 lounging in a hammock
 standing on a balcony, with quiet confidence
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 sitting on a sofa, in a deliberate posed moment
 stretching after waking, with a sense of ease
 painting at an easel, with careful balance
@@ -296,7 +296,7 @@ standing with hands on hips, while glancing at the camera
 yawning, while looking into the distance
 standing with weight on one leg
 pulling a suitcase, with a sense of ease
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 brushing hair aside, while looking into the distance
 standing rigid motionless posture
 standing with weight on one leg, while glancing at the camera
@@ -470,7 +470,7 @@ hands behind the head, in a natural candid moment
 kneeling on one knee, in a natural candid moment
 leaning on a counter
 leaning on a railing
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 walking along a path, with a calm air
 standing on a balcony, while looking away
 checking a watch, with a casual attitude

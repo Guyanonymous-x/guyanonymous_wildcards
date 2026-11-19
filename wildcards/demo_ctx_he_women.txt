@@ -1,32 +1,32 @@
-A bag with a sticker of his female partner's favourite band hangs from his shoulder.
-A bag with a sticker of his fiancée's favourite band hangs from his shoulder.
-A bag with a sticker of his girlfriend's favourite band hangs from his shoulder.
-A bag with a sticker of his wife's favourite band hangs from his shoulder.
-A second coffee mug, for his female partner, stands next to his own.
-A second coffee mug, for his fiancée, stands next to his own.
-A second coffee mug, for his girlfriend, stands next to his own.
-A second coffee mug, for his wife, stands next to his own.
-He is holding hands with his female partner, only the linked fingers visible.
-He is holding hands with his fiancée, only the linked fingers visible.
-He is holding hands with his girlfriend, only the linked fingers visible.
-He is holding hands with his wife, only the linked fingers visible.
-He is reading a message from his female partner on a phone.
-He is reading a message from his fiancée on a phone.
-He is reading a message from his girlfriend on a phone.
-He is reading a message from his wife on a phone.
-He keeps a small keepsake from his female partner in a pocket.
-He keeps a small keepsake from his fiancée in a pocket.
-He keeps a small keepsake from his girlfriend in a pocket.
-He keeps a small keepsake from his wife in a pocket.
-He wears a plain ring on the left hand, a gift from his female partner.
-He wears a plain ring on the left hand, a gift from his fiancée.
-He wears a plain ring on the left hand, a gift from his girlfriend.
-He wears a plain ring on the left hand, a gift from his wife.
-His female partner appears beside him in a framed photograph on a nearby shelf.
-His fiancée appears beside him in a framed photograph on a nearby shelf.
-His girlfriend appears beside him in a framed photograph on a nearby shelf.
-His wife appears beside him in a framed photograph on a nearby shelf.
-In the background, his female partner waves from across the room.
-In the background, his fiancée waves from across the room.
-In the background, his girlfriend waves from across the room.
-In the background, his wife waves from across the room.
+A bag with a sticker of their {female partner|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their {fiancée|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their {girlfriend|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their {wife|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A second coffee mug, for their {female partner|partner}, stands next to their own.
+A second coffee mug, for their {fiancée|partner}, stands next to their own.
+A second coffee mug, for their {girlfriend|partner}, stands next to their own.
+A second coffee mug, for their {wife|partner}, stands next to their own.
+They are holding hands with their {female partner|partner}, only the linked fingers visible.
+They are holding hands with their {fiancée|partner}, only the linked fingers visible.
+They are holding hands with their {girlfriend|partner}, only the linked fingers visible.
+They are holding hands with their {wife|partner}, only the linked fingers visible.
+They are reading a message from their {female partner|partner} on a phone.
+They are reading a message from their {fiancée|partner} on a phone.
+They are reading a message from their {girlfriend|partner} on a phone.
+They are reading a message from their {wife|partner} on a phone.
+They keep a small keepsake from their {female partner|partner} in a pocket.
+They keep a small keepsake from their {fiancée|partner} in a pocket.
+They keep a small keepsake from their {girlfriend|partner} in a pocket.
+They keep a small keepsake from their {wife|partner} in a pocket.
+They wear a plain ring on the left hand, a gift from their {female partner|partner}.
+They wear a plain ring on the left hand, a gift from their {fiancée|partner}.
+They wear a plain ring on the left hand, a gift from their {girlfriend|partner}.
+They wear a plain ring on the left hand, a gift from their {wife|partner}.
+Their {female partner|partner} appears beside them in a framed photograph on a nearby shelf.
+Their {fiancée|partner} appears beside them in a framed photograph on a nearby shelf.
+Their {girlfriend|partner} appears beside them in a framed photograph on a nearby shelf.
+Their {wife|partner} appears beside them in a framed photograph on a nearby shelf.
+In the background, their {female partner|partner} waves from across the room.
+In the background, their {fiancée|partner} waves from across the room.
+In the background, their {girlfriend|partner} waves from across the room.
+In the background, their {wife|partner} waves from across the room.

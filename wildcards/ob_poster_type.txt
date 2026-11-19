@@ -1,60 +1,60 @@
-a poster
-a self-exclusion poster
-a motivational poster
-a gig poster
-a seasonal poster
-a workshop poster
-an event poster
-a periodic table poster
-a competing poster
-a christmas posting deadline poster
-a fight poster
-a photo specification poster
-a laminated diabetic foot check poster
-a peeling poster
-a first aid poster
-a behavior policy poster
-a laminated poster
-posters
-a poster on the ceiling
-a workshop poster for a Thursday evening event
-a poster with one corner come loose
-a poster with a corner come away from the wall
-competing posters
-a poster with a corner loose
+a poster reading "__text_poster_event__" __text_look_print__
+a self-exclusion poster headed "TAKE A BREAK" in bold print, the rest of the sheet plain white
+a motivational poster reading "BELIEVE" in white capitals under a photo
+a gig poster reading "__text_poster_room__" __text_look_print__
+a seasonal poster reading "__text_banner_festival__" __text_look_print__
+a workshop poster reading "WORKSHOP SATURDAY" __text_look_print__
+an event poster reading "__text_poster_event__" __text_look_print__, the rest of the poster a bold photo
+a periodic table poster, headed "PERIODIC TABLE OF THE ELEMENTS" in bold black print, the rest of the poster a grid of plain colored squares
+a competing poster reading "__text_poster_event__" __text_look_print__
+a christmas posting deadline poster reading "LAST POSTING DATES FOR CHRISTMAS" in bold red print, the rest of the sheet plain white
+a fight poster reading "FIGHT NIGHT" __text_look_print__
+a photo specification poster headed "PHOTO REQUIREMENTS" in bold print, the rest of the sheet plain white
+a laminated diabetic foot check poster reading "CHECK YOUR FEET DAILY" in bold blue print
+a peeling poster reading "__text_poster_event__" __text_look_print__
+a first aid poster headed "FIRST AID" in white letters on green, the rest in small black print
+a behavior policy poster headed "OUR BEHAVIOR POLICY" in bold print, the rest of the sheet plain white
+a laminated poster reading "__text_health_poster__" __text_look_print__
+posters reading "__text_poster_event__" __text_look_print__, the rest of each poster plain
+a poster reading "RELAX" in large white letters over a beach photograph on the ceiling
+a workshop poster reading "WORKSHOP THURSDAY 7 PM" __text_look_print__, the rest of the poster a bold photo, for a Thursday evening event
+a poster reading "__text_poster_room__" __text_look_print__ with one corner come loose
+a poster reading "__text_poster_room__" __text_look_print__ with a corner come away from the wall
+competing posters reading "__text_poster_room__" __text_look_print__
+a poster reading "__text_poster_room__" __text_look_print__ with a corner loose
 a poster that is actually a backdrop
-a motivational poster that was a gift
-motivational posters
-a poster for a film the studio worked on years ago
-posters on the wall
-a gig poster for a local band
-a gig poster taped to the wall layered over three older ones
-a poster taped to the ceiling above the chair
-posters of current stamp issues
-a Christmas posting deadline poster still up in March
-posters of past performers
-posters taped up
-fight posters and photographs covering the walls
-posters of fighters who trained there layered over decades
-the photo specification poster
-a poster for a jumble sale that has happened
-a poster taped to the ceiling directly above the chair
-a poster of the scrub technique
-a poster of the scrub sequence above each sink
-a poster of the scrub sequence curling at the corners from steam
-posters from three different specialties on one board
-posters from three different specialties on one noticeboard
-peeling posters
-posters from a decade that has passed
-a seasonal poster of a new model
-a seasonal poster of a new model on the wall with a previous season's behind it
-an event poster with three previous dates showing where it has been overlaid
-posters and a scarf
-a self-exclusion poster and a gambling-support helpline card holder by the door
-a self-exclusion poster and a helpline card holder by the door
-a self-exclusion poster and card holder
-a poster of the school's behavior policy in four steps
-a behavior policy poster with a corner curled where it has been pulled at from the seat beneath it
-a periodic table poster from a publisher that stopped printing them
-a laminated poster of a reading-age chart
-posters of parables in a plastic sleeve and a roll of poster tape
+a motivational poster reading "KEEP GOING" in bold white letters over a mountain photograph that was a gift
+motivational posters reading "TEAMWORK" in white capitals under a mountain photo
+a poster for a film the studio worked on years ago reading "__name_movie__" __text_look_print__
+posters reading "__text_poster_event__" __text_look_print__ on the wall
+a gig poster reading "__name_band__ LIVE TONIGHT" __text_look_print__ for a local band
+a gig poster reading "__name_band__ LIVE TONIGHT" __text_look_print__ taped to the wall layered over three older ones
+a poster reading "RELAX" in large white letters over a beach photograph taped to the ceiling above the chair
+posters of current stamp issues headed "NEW STAMPS" in bold print
+a Christmas posting deadline poster reading "LAST POSTING DATES FOR CHRISTMAS" in bold red print still up in March
+posters reading "LIVE TONIGHT __name_first_world__ __name_surname_world__" __text_look_print__ of past performers
+posters reading "NOW SHOWING __name_movie__" __text_look_print__ taped up
+fight posters reading "__name_surname_world__ VS __name_surname_world__" __text_look_print__ and photographs covering the walls
+posters of fighters reading "__name_surname_world__ VS __name_surname_world__" __text_look_print__ who trained there layered over decades
+the photo specification poster headed "PHOTO REQUIREMENTS" in bold print, the rest of the sheet plain white
+a poster for a jumble sale that has happened, reading "JUMBLE SALE SATURDAY 2 PM" __text_look_print__, the rest of the poster plain
+a poster reading "RELAX" in large white letters over a beach photograph taped to the ceiling directly above the chair
+a poster of the scrub technique headed "SURGICAL HAND SCRUB" in bold blue print above numbered pictures
+a poster of the scrub sequence headed "SURGICAL HAND SCRUB" in bold blue print over numbered pictures, above each sink
+a poster of the scrub sequence headed "SURGICAL HAND SCRUB" in bold blue print above numbered pictures curling at the corners from steam
+posters reading "__text_health_poster__" __text_look_print__ from three different specialties on one board
+posters reading "__text_health_poster__" __text_look_print__ from three different specialties on one noticeboard
+peeling posters reading "__text_poster_event__" __text_look_print__
+posters reading "__text_poster_room__" __text_look_print__ from a decade that has passed
+a seasonal poster reading "NEW FOR __name_year__" __text_look_print__ of a new model
+a seasonal poster reading "NEW FOR __name_year__" __text_look_print__ of a new model on the wall with a previous season's behind it
+an event poster reading "__text_poster_event__" __text_look_print__ with three previous dates showing where it has been overlaid
+posters reading "__name_team__" __text_look_print__ and a scarf
+a self-exclusion poster reading "SELF-EXCLUSION ASK STAFF" __text_look_print__ and a gambling-support helpline card holder by the door
+a self-exclusion poster reading "SELF-EXCLUSION ASK STAFF" __text_look_print__ and a helpline card holder by the door
+a self-exclusion poster reading "SELF-EXCLUSION ASK STAFF" __text_look_print__ and card holder
+a poster of the school's behavior policy in four steps, headed "OUR BEHAVIOR POLICY" in bold black print above four short numbered lines "1" "2" "3" "4", the rest of the sheet plain white
+a behavior policy poster headed "OUR BEHAVIOR POLICY" in bold black print, the rest of the sheet plain white, with a corner curled where it has been pulled at from the seat beneath it
+a periodic table poster, headed "PERIODIC TABLE OF THE ELEMENTS" in bold black print, the rest of the poster a grid of plain colored squares, from a publisher that stopped printing them
+a laminated poster of a reading-age chart, headed "READING AGE" in bold black print, the rest in rows of printed numbers
+posters of parables headed "THE GOOD SAMARITAN" in bold print in a plastic sleeve and a roll of poster tape

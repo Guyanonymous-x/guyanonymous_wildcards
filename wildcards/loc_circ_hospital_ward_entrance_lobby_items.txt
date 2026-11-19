@@ -1,6 +1,6 @@
 a hand-gel dispenser
-a visiting times notice
-a buzzer with an intercom
+a visiting times notice reading "VISITING TIMES 2 PM TO 8 PM" __text_look_paper_notice__, the rest of the sheet plain white
+a buzzer with an intercom labeled "PRESS AND WAIT" in white letters on a black strip
 a bouquet someone is carrying
 a wheelchair parked
-a leaflet rack
+a leaflet rack holding leaflets headed "__text_flyer__" __text_look_print__, the rest of each cover plain

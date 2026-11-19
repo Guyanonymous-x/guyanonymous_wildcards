@@ -70,7 +70,7 @@ reaching to the side, while glancing at the camera
 standing with hands on hips, with a casual attitude
 waving
 reclining on a sofa, while looking away
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 praying
 riding a scooter
 talking on the phone, with energy
@@ -106,7 +106,7 @@ reading a map, with energy
 reclining in a chair, with a sense of ease
 sitting on a swing, in a natural candid moment
 sleeping, with energy
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on steps, with energy
 lying on the stomach, while glancing at the camera
 walking forward with purposeful stride
@@ -147,7 +147,7 @@ standing on a balcony
 hands behind the back
 sitting cross-legged on floor
 shrugging, with a casual attitude
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 carrying a box
 laughing with a friend, while glancing at the camera
 standing with arms crossed, with focus

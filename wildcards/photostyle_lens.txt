@@ -11,7 +11,7 @@ a vintage uncoated lens with flare and low contrast, veiling haze, washed-out bl
 a macro lens revealing tiny details at life size, extreme close-up of insects, petals or textures, razor-thin depth of field, creamy blurred surroundings, sharp surface detail, bright and richly textured miniature worlds
 a tilt-shift lens creating a miniature-model effect, a narrow band of sharpness with strong blur above and below, saturated toy-like colour, high viewpoint, tiny people and vehicles looking like painted models
 a swirling-bokeh vintage portrait lens, sharp subject with background highlights twisting into spirals around the edges, soft glow, dreamy swirling circles of light, vintage character and painterly emphasis on the face
-a perspective-control lens keeping verticals perfectly parallel, tall buildings upright without leaning, flat rectilinear precision, sharp architectural lines, neat symmetry and clean geometric clarity with soft texture and a distinctive, characterful finish across the whole frame
+a perspective-control lens keeping verticals perfectly parallel, tall buildings standing perfectly upright, flat rectilinear precision, sharp architectural lines, neat symmetry and clean geometric clarity with soft texture and a distinctive, characterful finish across the whole frame
 a cheap plastic meniscus lens with smeared edges, soft centre, blurred corners, low contrast, dreamy glow, chromatic colour fringes, vignetting, simple naive look with a faded charming imperfection
 an anamorphic lens with oval bokeh and horizontal flare streaks, cinematic wide frame, stretched vertical oval highlights, blue streak across bright lights, subtle edge softness, filmic shallow focus and moody atmosphere
 a wide-angle lens tilted deliberately off level, slanted horizon, diagonal lines, exaggerated depth, dynamic unsteady composition, wide spatial distortion, restless urgency and a disorienting energy
@@ -29,7 +29,7 @@ a large-format 300mm lens wide open with a shallow, painterly focus falloff, sel
 a soviet-era lens with low contrast and swirling, nervous bokeh, background highlights twisting into busy spirals, flare-prone glow, warm slightly muted colour, sharp centre and a vintage, quirky look
 a selective-focus lens with a single sweet spot of sharpness, circular area of focus surrounded by smearing blur, dreamy radial softness, glowing colours, bold subject placement and a surreal, handmade feel
 a zoom lens racked during the exposure, streaking radially from the center, rays of light and colour bursting outward, sharp or ghosted core, explosive motion lines, abstract tunnels of lights and energy
-a 24mm shift lens keeping a tall building perfectly upright, straight vertical walls, wide field with no converging lines, crisp architectural detail, calm symmetry and a clean, measured look
+a 24mm shift lens keeping a tall building perfectly upright, straight vertical walls, wide field with parallel vertical lines, crisp architectural detail, calm symmetry and a clean, measured look
 a 24mm wide-angle lens used at street distance, environmental and clean, subject within full context, mild perspective stretch, deep focus, straight lines, honest contemporary street and reportage rendering
 an 18mm ultra-wide lens with dramatically stretched corners, widened faces at the edges, steep perspective, large sweeping skies, enlarged foreground, bold deep-focus drama with soft texture and a distinctive, characterful finish across the whole frame
 a 10mm ultra-wide lens creating extreme spatial distortion, huge foreground, tiny background, strongly stretched corners, tall objects tilting inward, giant skies, wildly exaggerated space with soft texture and a distinctive, characterful finish across the whole frame
@@ -39,7 +39,7 @@ a 45mm slightly long normal lens, natural and composed, mild compression, sharp 
 a 58mm vintage lens with soft, glowing rendering wide open, dreamy halation around highlights, low contrast, swirling bokeh at the edge, warm slightly hazy colour and nostalgic portrait rendering
 a 75mm lens on a rangefinder, close and discreet, mild compression, gently blurred backgrounds, sharp central detail, intimate half-length portraits and a quiet street feel
 a 90mm lens with compressed, intimate street perspective, moderate blur, tight framing of faces and gestures, flat background layers, crisp detail and candid closeness from a short distance
-a 100mm macro lens at close focus with paper-thin depth, sharp tiny details such as dew or stamens, smooth creamy background, clear texture, bright natural light and an intimate miniature world
+a 100mm macro lens at close focus with paper-thin depth, sharp tiny surface details, smooth creamy background, clear texture, bright natural light and an intimate miniature world
 a 120mm medium-format macro lens isolating detail, large-format sharpness, fine surface texture, thin focal plane, smooth blurred surroundings, rich colour and refined close-up clarity with soft texture and a distinctive, characterful finish across the whole frame
 a 150mm medium-format portrait lens, gentle and painterly, smooth skin rendering, soft background, rich tonal depth, mild compression and a classic elegant studio feel with soft texture and a distinctive, characterful finish across the whole frame
 a 180mm lens with smooth, compressed background, isolated subject, creamy blur, fine detail, flat perspective, calm portraits from a distance and gentle highlight rendering with soft texture and a distinctive, characterful finish across the whole frame
@@ -56,9 +56,9 @@ a rehoused vintage cine lens with creamy, low-contrast rendering, soft glowing h
 a triplet lens producing soap-bubble bokeh, background highlights shown as bright thin-edged rings, crisp edges on circles, sharp subject, dreamy playful backdrop and a luminous, translucent mood
 a portrait lens with a soft-focus control dialed in, sharp detail wrapped in smooth glow, adjustable bloom, gentle skin rendering, dreamy luminous highlights and a flattering romantic look
 a defocus-control lens with smooth bokeh, creamy melted background, soft round highlights, sharp subject, gentle foreground blur and refined portrait separation with soft texture and a distinctive, characterful finish across the whole frame
-an apodization lens with exceptionally soft background blur, perfectly smooth round bokeh without ring edges, silky out-of-focus areas, sharp subject, delicate transition and flawless portrait rendering
+an apodization lens with exceptionally soft background blur, perfectly smooth round bokeh with soft feathered edges, silky out-of-focus areas, sharp subject, delicate transition and flawless portrait rendering
 a tilt lens used to make a single diagonal plane of focus, slanted strip of sharpness crossing the image, blurred top and bottom, miniature-like effect, surreal selective emphasis and dreamy softness
-a shift lens creating a stitched panorama with no distortion, wide flat view, straight lines, high detail, seamless width, clean architectural or landscape coverage and a calm, even perspective
+a shift lens creating a stitched panorama with true straight geometry, wide flat view, straight lines, high detail, seamless width, clean architectural or landscape coverage and a calm, even perspective
 a large-format wide-angle lens close to a building, steep perspective, straight lines, crisp detail across the frame, rich tonal range, towering facades and stately graphic presence
 a large-format portrait lens from the 1900s with gentle aberrations, soft glow around highlights, gentle blur toward the edges, smooth tonal grade, delicate skin rendering and an antique atmosphere
 a brass swirl-bokeh lens of the 1840s design with a swirling background, sharp central subject, background twisting into spirals, strong vignette, painterly character and antique portrait charm
@@ -73,7 +73,7 @@ an f/8 street aperture, zone-focused and reliable, a wide range of sharpness, qu
 an f/2 aperture separating the subject gently from the background, soft but legible backdrop, sharp subject, mild bokeh, natural light and an airy, easy portrait feel
 an f/32 aperture with starburst sun and deep focus, pointed rays on bright lights, sharp foreground and distance, slight diffraction softness, detailed landscapes and crisp texture
 a soft-focus portrait attachment over a sharp lens, sharp detail wrapped in a luminous veil, gentle bloom, flattering glow on skin, dreamy highlights and a romantic vintage portrait feel
-a pinhole aperture producing infinite, soft depth of field, everything equally dreamy, glowing light, no sharp edges, strong vignette and a gentle, timeless blur with soft texture and a distinctive, characterful finish across the whole frame
+a pinhole aperture producing infinite, soft depth of field, everything equally dreamy, glowing light, soft melting edges, strong vignette and a gentle, timeless blur with soft texture and a distinctive, characterful finish across the whole frame
 a zone plate producing a glowing, haloed image, ringed halos around bright areas, soft fuzzy detail, concentric diffraction patterns, ghostly shimmering light and dreamlike contrast
 a magnifying glass taped in front of the lens as a crude macro, enlarged close detail, soft warped edges, colour fringing, bright centre, hand-made experimental look and strange magnification
 a reversed lens for extreme close-up magnification, huge tiny details, sharp narrow slice of focus, strong vignette, sometimes dark corners, hazy surroundings, abstract textures and macro drama
@@ -92,7 +92,7 @@ a smartphone wide lens with slight edge stretching, broad view, deep focus, mild
 a smartphone telephoto lens at 3x with flat perspective, slight compression, moderate detail, mild blur from digital processing, subject-isolating portraits and a smoothed digital look
 a smartphone ultra-wide lens with curved edges, wide field, bending lines near the borders, stretched corners, deep sharpness and a sweeping, casual phone-photo feel with soft texture and a distinctive, characterful finish across the whole frame
 a lens with a deep red coating giving warm flare, red-orange haze across highlights, warm glow, ghost streaks of ruby colour, softened contrast and cinematic warmth
-a modern multicoated lens with perfect contrast and no flare, clean deep blacks, crisp neutral colour, clinical sharpness, clear highlights without glare and polished contemporary rendering
+a modern multicoated lens with perfect contrast and crystal-clear light, clean deep blacks, crisp neutral colour, clinical sharpness, clear, controlled highlights and polished contemporary rendering
 a vintage single-coated lens with a warm golden flare, soft golden haze near the sun, gentle contrast, warm nostalgic colour, rounded flare blobs and a glowing backlit feel
 a long portrait lens used from across a room, subject framed tightly from a distance, gentle compression, soft background, calm candid expressions and unobtrusive intimacy
 a wide lens held at ground level pointed upward, towering subject against sky, strong converging lines, exaggerated height, heroic low angle, dramatic perspective and bold sky

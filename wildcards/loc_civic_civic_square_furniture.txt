@@ -1,7 +1,7 @@
 benches
 bollards
 a fountain
-a war memorial
+a war memorial carved "__text_memorial__" __text_look_carved_stone__
 planters
 lighting columns
 a stage when an event is on

@@ -80,19 +80,19 @@ cocktail glasses
 glasses
 a salt film inside the glass
 a looking glass over the chimneypiece
-reading glasses on a folded newspaper
-a glass on a book
+reading glasses on a folded newspaper with the headline "__text_headline__" __text_look_headline__
+a glass on a book titled "__name_book_title_any__" in bold print on its cover
 a glass with a wine ring on a coaster beside it rather than on it
 a glass of something on the hearth
 a pair of 3D glasses from a cinema
-a magnifying glass on the newspaper
+a magnifying glass on the newspaper with the headline "__text_headline__" __text_look_headline__
 a pint glass from a pub
 a pint glass from a pub with the pub's name, "__name_pub__", on it
 a glass half drunk
 a water glass on the nightstand with a bubble clinging to the inside
 a glass with a straw bent
 a magnifying glass on a pile of papers
-reading glasses folded on a book
+reading glasses folded on a book titled "__name_book_title_any__" in bold print on its cover
 glasses on every surface with different levels left in them
 glasses on every surface with different amounts in them
 a glass of wine on a wall from last night
@@ -151,17 +151,17 @@ a pair of glasses in a case on a locker
 the queue visible through the glass
 a patient's glasses in a tray by the door
 a pair of glasses in a tray
-a pair of glasses in a labeled bag
+a pair of glasses in a labeled bag reading "PATIENT PROPERTY" in black print
 a pair of glasses set on a ledge
-a patient's glasses in a labeled bag
+a patient's glasses in a labeled bag reading "__name_surname_world__" in black marker
 a pair of glasses
 a pair of glasses in a case
 a glass of water for the faint
-a glass of water and a packet of glucose tablets for the faint
+a glass of water and a packet of glucose tablets printed "GLUCOSE" in bold orange letters for the faint
 a drinking glass with a long straw bent to a specific angle
 a pair of reading glasses folded on a windowsill
 a hook block visible below through the floor glass
-a pair of reading glasses folded on an open book
+a pair of reading glasses folded on an open book, its page headed "CHAPTER __name_number_small__" in small black print
 a glass with an inch of something in it
 a pair of reading glasses folded on a logbook
 gauge glasses
@@ -175,7 +175,7 @@ a glass left on an ice table
 a glass with the base frozen to the ice shelf it was left on
 a glass with an inch left in it on a side table
 a glass with nothing in it and a ring under it painted on
-a pair of reading glasses folded on a book that is open at a page
+a pair of reading glasses folded on a book that is open at a page headed "CHAPTER __name_number_small__" in small black print
 a tag scratched into the glass
 a wine glass in a rack
 a wine glass with a ring of red at the base

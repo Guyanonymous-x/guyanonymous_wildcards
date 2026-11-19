@@ -20,7 +20,7 @@ gardening
 shrugging, with a casual attitude
 resting a chin on a fist
 perching on a table edge, with a calm air
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 pointing
 walking away, in a deliberate posed moment
 stretching to the side, in a deliberate posed moment
@@ -152,7 +152,7 @@ holding a plank, with quiet confidence
 hugging oneself
 leaning on a railing, while looking away
 mid-jump, in mid-motion
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 hands behind the back
 reaching to the side
 walking forward with purposeful stride
@@ -291,7 +291,7 @@ lying on the back, at rest
 twirling
 sitting on the edge of a bed, in a relaxed way
 standing with feet together, with a slight smile
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 carrying an umbrella
 pausing mid-step, with a calm air
 descending steps, with quiet confidence

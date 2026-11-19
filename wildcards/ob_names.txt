@@ -1,10 +1,10 @@
 can
 ticket
 locker
-signage
+signage reading "__text_sign_english__" __text_look_print__
 napkin
 chart
-newspaper
+newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 trolley
 radiator
 logbook
@@ -13,13 +13,13 @@ jar
 photograph
 cooler
 tank
-menu
+menu reading "__text_price_line__" __text_look_print__
 channel
 tub
 microphone
 fireplace
 cctv
-receipt
+receipt reading "__text_receipt__" __text_look_receipt__
 fencing
 tissue
 sack
@@ -30,12 +30,12 @@ clipboard
 charger
 planter
 generator
-flyer
+flyer reading "__text_flyer__" __text_look_print__, the rest of the sheet plain
 sticker
 litter
 hatch
 handrail
-noticeboard
+noticeboard with a sheet reading "__text_bulletin__" __text_look_paper_notice__, __text_rest_plain__
 shed
 vent
 packet
@@ -55,7 +55,7 @@ lectern
 intercom
 pipework
 toiletry
-brochure
+brochure headed "__name_town__" __text_look_print__
 notepad
 projector
 printer

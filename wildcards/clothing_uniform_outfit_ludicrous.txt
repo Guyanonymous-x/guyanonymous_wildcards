@@ -12,7 +12,7 @@ A grey plush shark onesie, a shark hood, slippers, the full outfit of a shark on
 A headscarf and a heavy shawl with jangling bracelets, a layered skirt, a headscarf, boots, the full outfit of a fortune teller
 A hessian sack, the full outfit of a potato sack racer
 A hexagonal yellow tube suit, a pointed hat, the full outfit of a giant pencil costume wearer
-A hot dog costume with a sandwich board, shoes, the full outfit of a walking sandwich board seller
+A hot dog costume with a sandwich board reading "HOT DOGS __name_price__", shoes, the full outfit of a walking sandwich board seller
 A huge flowered dress with a bonnet, a gaudy wig, boots, the full outfit of a pantomime dame
 A huge furry suit, an oversized head, big feet, the full outfit of a mascot character
 A long robe in a board pattern, a tall crown or helmet, the full outfit of a living chess piece
@@ -52,7 +52,7 @@ A person dressed as a tin man robot (theatre), which is a metal funnel hat and s
 A person dressed as a toilet paper roll costume wearer (party), with a white tube suit
 A person dressed as a town mascot cow (farm), which is a black and white cow suit, a cow head and hooves
 A person dressed as a walking Christmas tree (festive), which is a green tree suit with lights and a star hat
-A person dressed as a walking sandwich board seller (street), which is a hot dog costume with a sandwich board and shoes
+A person dressed as a walking sandwich board seller (street), which is a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes
 A person dressed as an inflatable dinosaur costume wearer (party), with a bulbous inflatable dinosaur suit and a dinosaur head
 A person dressed as an ostrich costume (party), which is a feathered suit with long legs, a long-necked head and big feet
 A person dressed as an unicorn onesie wearer (home), which is a plush unicorn onesie with a horn, a horned hood and slippers
@@ -180,9 +180,9 @@ a town mascot cow, dressed in a black and white cow suit
 a walking Christmas tree (festive), in a green tree suit with lights and a star hat
 a walking Christmas tree (festive), wearing a green tree suit with lights and a star hat
 a walking Christmas tree, dressed in a green tree suit with lights
-a walking sandwich board seller (street), in a hot dog costume with a sandwich board and shoes
-a walking sandwich board seller (street), wearing a hot dog costume with a sandwich board and shoes
-a walking sandwich board seller, dressed in a hot dog costume with a sandwich board
+a walking sandwich board seller (street), in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes
+a walking sandwich board seller (street), wearing a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes
+a walking sandwich board seller, dressed in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__"
 an inflatable dinosaur costume wearer (party), in a bulbous inflatable dinosaur suit and a dinosaur head
 an inflatable dinosaur costume wearer (party), wearing a bulbous inflatable dinosaur suit and a dinosaur head
 an inflatable dinosaur costume wearer, dressed in a bulbous inflatable dinosaur suit

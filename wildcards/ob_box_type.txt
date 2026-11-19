@@ -7,8 +7,8 @@ a first aid box
 a charity box
 a donation box
 a fish box
-a pizza box
-a cereal box
+a pizza box printed "__name_brand_upper__ PIZZA" in red print on the lid
+a cereal box printed "__name_brand_upper__" __text_look_print__
 a recycling box
 a lunch box
 an alms box
@@ -21,7 +21,7 @@ a games box
 a control box
 a steam box
 a traveling box
-a labeled box
+a labeled box reading "__text_box_label__" __text_look_label__
 a christmas decoration box
 a storage box
 a floor box
@@ -51,7 +51,7 @@ a flattened box
 a jigsaw box
 a honesty box
 a charity collection box
-a visitors' leaflet box
+a visitors' leaflet box reading "TAKE ONE" in white capitals
 a telephone box
 a tackle box
 a transport box
@@ -119,8 +119,8 @@ a sealed ballot box
 a sealed box
 a wall-mounted alms box
 a simulator box
-a leaflet box
-a padlocked leaflet box
+a leaflet box labeled "VISITOR GUIDE" in white painted letters
+a padlocked leaflet box reading "LEAFLETS" in white capitals
 a compartment box
 a yellow telephone box
 a children's book box
@@ -201,11 +201,11 @@ a box of tissues
 a box of matches
 boxes
 a box of recycling
-cereal boxes
-pizza boxes
+cereal boxes printed "__name_brand_upper__" in large red block capitals
+pizza boxes printed "PIZZA" in red letters on the lid
 a box of gloves
 four boxes under four beds
-boxes of identical purchases
+boxes of identical purchases printed "__name_brand_upper__" __text_look_print__
 a box of cables for devices that no longer exist
 a box of spare pens
 a box with a water stain down one side
@@ -222,7 +222,7 @@ a box of condoms on the window sill
 toilet boxes
 three traveling boxes under three beds
 four boxes
-a cereal box with the inner bag rolled down
+a cereal box printed "__name_brand_upper__" in bright bold letters with the inner bag rolled down
 takeaway boxes
 a box of matches with two left
 a cereal box with the name "__name_first__" on it
@@ -232,7 +232,7 @@ a box of things from a previous occupant
 boxes stacked
 boxes to the ceiling
 a box of tissues within reach
-labeled boxes
+labeled boxes reading "__text_box_label__" in black marker
 a box of light bulbs of three different fittings
 a box of candles
 a box of candles kept for power cuts
@@ -245,8 +245,8 @@ a box of car-boot stock
 a box of car-boot stock that has been to no car boot
 storage boxes
 a storage box with a lid that does not match
-labeled boxes by room
-labeled boxes stacked by the door
+labeled boxes reading "KITCHEN" and "BEDROOM" in black marker by room
+labeled boxes reading "__text_box_label__" __text_look_label__ stacked by the door
 opened boxes with contents half out
 a box of decorations with the lid never quite fitting again
 a recycling box set out
@@ -258,12 +258,12 @@ a recycling box with a lid missing
 floor boxes with power and data
 a box of tissues in cold season
 a box of someone's things from a desk move
-boxes of ceiling tiles
+boxes of ceiling tiles printed "__name_brand_upper__" in bold black print
 floor boxes for power
 a box of tissues in HR versions
 a floor box for power at the presenting end
-a box of marketing brochures
-a box of brochures under the consultation table
+a box of marketing brochures headed "__name_brand_upper__" __text_look_print__
+a box of brochures headed "__name_town__" __text_look_print__ under the consultation table
 a birthday cake box with two slices left
 lunch boxes on the table
 a box of photocopier paper stored here because there is space
@@ -296,7 +296,7 @@ a box of refills
 a gift box with the ribbon already untied
 a stack of boxes
 a box of cleaning supplies
-a box of menus
+a box of menus headed "MENU" in gold script
 a box of unsold stock
 a box of cardboard by the recycling
 a tissue box on a windowsill
@@ -309,22 +309,22 @@ a box of new stock half unpacked
 a box of unsorted house clearance
 a tissue box on the customer side of the counter
 a jigsaw box taped shut with a note saying all pieces checked
-a box with a corner crushed and a reduced sticker on it
+a box with a corner crushed and a reduced sticker reading "REDUCED" in black print on yellow on it
 a box of returned items
 a box of leads
 a box of 50p records by the door
 a cash box under the table
-a honesty box with a handwritten note
+a honesty box with a handwritten note reading "PLEASE PAY HERE"
 a tissue box on the customer side
 detergent boxes and bottles
 a tissue box for difficult conversations
 a tissue box on the counter
 a box of paper offcuts kept for scrap pads
 a glazed box of a building with the cars visible from the road
-boxes of tissues placed everywhere
+boxes of tissues printed "__name_brand_upper__" __text_look_print__ placed everywhere
 acid-free boxes
 a box of uncatalogued material that has been there for years
-a box of brochures under a bench
+a box of brochures headed "__name_town__" __text_look_print__ under a bench
 a chocolate box from the interval
 candy boxes
 a cool box in a boot
@@ -343,34 +343,34 @@ a box of chain-polish cloths
 a box of tissues on the counter
 a box of tissues on every desk
 a box of stock awaiting disposal
-a box of leaflets for a campaign that ended
+a box of leaflets headed "__text_placard__" __text_look_print__ for a campaign that ended
 a ballot box with a seal
 a sealed ballot box in view of the staff at all times
 the sealed box in plain view
-a pizza box in a bin
+a pizza box printed "__name_brand_upper__" in red print in a bin
 a box of toys and a rug
 a wall-mounted alms box with two locks
 an alms box with two locks because two churchwardens hold one key each
 two alms boxes
 a simulator box with a laptop on a shelf and eight sensors
 a box of eight rope-tail knots re-tied so often that the tails are 200 mm shorter than they were
-a visitors' leaflet box with a slot and a padlock
-a visitors' leaflet box with a padlock and a slot and no leaflets in it
-a padlocked leaflet box with nothing in it
+a visitors' leaflet box labeled "VISITOR GUIDE" in white painted letters with a slot and a padlock
+a visitors' leaflet box labeled "VISITOR GUIDE" in white painted letters with a padlock and a slot and no leaflets in it
+a padlocked leaflet box labeled "VISITOR GUIDE" in white painted letters with nothing in it
 a box of stained oak 2.3 m wide
 a three-compartment box
 box
 a charity box of nine compartments
 a box of loan head scarves
 a donation box of glazed steel
-a box of citizenship certificates in a folder
+a box of citizenship certificates in a folder, headed "CERTIFICATE OF CITIZENSHIP" in fine black script, the rest of each certificate plain
 a tissue box on the family's bench
 a jury box in some inquests
 a jury box where the inquest requires one
 a tissue box on the family bench which is a standing fixture
 the tissue box on the family's bench
 a box of tissues already half empty by mid-morning
-a pile of pizza boxes at hour twelve
+a pile of pizza boxes printed "PIZZA" in red letters on the lid at hour twelve
 a box of donated objects not yet accessioned and quietly becoming a problem
 a box of Christmas decorations in the cupboard in July
 a sandwich box on a toolbox
@@ -385,8 +385,8 @@ fish boxes stacked
 a box of chocolates from a grateful patient opened and half gone
 a charity collection box with a coin jammed
 a box of toys
-a box of leaflets under the table
-a box of toothbrushes in branded wrappers
+a box of leaflets headed "__text_health_poster__" __text_look_print__ under the table
+a box of toothbrushes in branded wrappers printed "__name_brand_upper__"
 a box of gloves wedged in the door pocket
 a cool box for vaccines
 a cool box for anything requiring the cold chain
@@ -401,7 +401,7 @@ implant boxes
 a play specialist's box of distraction toys
 a transport box with a temperature logger
 transport boxes
-a box of files awaiting scanning with a handwritten date on the side
+a box of files awaiting scanning with a handwritten date reading "__name_year__" in black marker on the side
 a box of tissues within reach of every chair
 a box of gloves with one size always empty
 a box of castors
@@ -423,19 +423,19 @@ a box of sawdust beside the table with a scoop in it
 the sawdust box under the table
 floating boxes
 a snap-lid box for snap with the lid shut
-a jigsaw box with a note on the lid about a missing piece
+a jigsaw box with a note on the lid reading "ONE PIECE MISSING" in blue ballpoint handwriting about a missing piece
 ledges below the boxes
 nest boxes in tiers
 a refuge box on stilts
 bone boxes
-document boxes
+document boxes labeled "__name_year__" in black ink
 a collecting box with a slot worn shiny
 a tissue box on a side table
 moulding boxes
 a sandwich box with "__name_first__" written on it in marker and dust in the seal
 individual kennel boxes on posts or a tether line
 a sandwich box with "__name_first__" written on it in marker and crumbs in the seal
-boxes of identical purchases which record a decision made repeatedly
+boxes of identical purchases printed "__name_brand_upper__" in bold print, which record a decision made repeatedly
 boxes stacked on the floor
 a charity-shop box with a sweater on top that went in and came out twice
 a box of gloves in three sizes
@@ -458,8 +458,8 @@ a box of spare fuses
 a spill kit box with the seal broken and one pad missing
 a roof box on bars
 a box of tissues in the rear armrest
-a box of business cards in the door pocket
-a box of business cards with the lid lost
+a box of business cards printed "__name_first__ __name_surname__" in black print, the rest of each card plain white, in the door pocket
+a box of business cards printed "__name_first__ __name_surname__" in black print, the rest of each card plain white, with the lid lost
 a box of latex gloves
 a box of latex gloves with the lid torn off
 a box on a suspended platform
@@ -477,7 +477,7 @@ the traded ration box
 a rock box on the floor with a seal that mattered enormously
 a box of spare printer rolls on the deck under the chart table
 a box of spare printer rolls on the deck under the chart table that has been there for two years and is stepped round
-an unopened sextant box beside a used poster
+an unopened sextant box beside a used poster headed "STAR CHART" in black print
 a stepped-round box of printer rolls
 a control box on one post with an up lever and a lock release
 a control box with the up lever's rubber boot split
@@ -497,7 +497,7 @@ a steam box for bending timber with a kettle feeding it
 a steam box for bending timber
 the steam box with its hand-written soaking times
 a lock-out box with a dozen padlocks on a rack
-a lock-out box with a rack of padlocks each stamped with a fitter's initials and each carrying only one key
+a lock-out box with a rack of padlocks each stamped with a fitter's initials "__name_initials__" __text_look_stamped__ and each carrying only one key
 a box of shims in brass and steel in graded thicknesses
 a box of shims in graded thicknesses with the commonest two thicknesses nearly out and the tissue-paper-thin ones untouched
 the shim box with two thicknesses exhausted
@@ -542,8 +542,8 @@ a box of shared food and a shelf of single named items
 a cash box or a cigar box rather than a till
 a cash box or cigar box rather than a till
 a cash box with a dent
-a cash box and a notebook in which the house's float and the players' markers are written in pencil
-a cash box and pencil ledger
+a cash box and a notebook in which the house's float and the players' markers are written in pencil, reading "__name_first__ __name_price__"
+a cash box and pencil ledger open to "__name_first__ __name_price__" in hurried pencil scrawl
 a cash box under the ticket table
 a set of carrying boxes stacked against a wall with ventilation holes drilled in the lids
 a set of carrying boxes with ventilation holes drilled in the lids
@@ -573,9 +573,9 @@ alms boxes
 a japanned box with a farm name, "__name_town__", stenciled on it and a strip of paper gummed over that name with another, "__name_town__", written on it in pencil
 japanned boxes
 a cash box and scale
-forty-two deed boxes of japanned tin on open iron shelving
-nineteen deed boxes of earlier date with iron corners and painted lettering
-a lead-lined box of papers labeled in a nineteenth-century hand
+forty-two deed boxes of japanned tin stenciled "__name_surname__ ESTATE" in white capitals on open iron shelving
+nineteen deed boxes of earlier date with iron corners and painted lettering reading "__name_surname__ ESTATE" in faded white
+a lead-lined box of papers labeled "PRIVATE" in a nineteenth-century hand
 a salt box by the fire
 a sand box and a spittoon
 a plate-powder box and three chamois leathers on a rail
@@ -629,10 +629,10 @@ a box of picture cards in sets held by elastic bands
 a box of picture cards in sets held by perished elastic bands
 an assessment kit box with a corner reinforced in parcel tape and the kit's edition year inked on the lid
 a box of board games
-a board game box with the lid corners taped and a handwritten note inside the lid about a missing piece
+a board game box with the lid corners taped and a handwritten note reading "ONE RED PIECE MISSING" in blue ballpoint inside the lid about a missing piece
 a box of tissues on the low table beside the sofa rather than on the desk
-a box of magnetic letters
-a box of magnetic letters missing two vowels and with four of one consonant
+a box of magnetic letters "A", "E" and "K" in bright red, blue and yellow plastic
+a box of magnetic letters missing two vowels and with four of one consonant, the pieces including "E", "O" and four "T" in bright plastic colors
 a box of disposable gloves
 the dust shadow around the unopened auto-injector box
 toy boxes
@@ -642,7 +642,7 @@ a construction box with a sorting tray somebody made from a cut-down cereal pack
 a table-top cable box with two sockets and a video input
 a table-top cable box with a video input whose cable has been removed and whose aperture now collects pen lids
 a box of pencils and a box of erasers
-a box of offertory envelopes nobody uses
+a box of offertory envelopes printed "OFFERTORY" in black print, which nobody uses
 a box of lost property
 a box on a cupboard shelf with a group's name in marker crossed out twice and rewritten
 a lost property box with one glove and a cardigan in it since the spring

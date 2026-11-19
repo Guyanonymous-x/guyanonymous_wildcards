@@ -157,7 +157,7 @@ lying on the stomach
 meditating
 standing with feet together
 sitting at a desk, with a casual attitude
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 brushing hair aside, with quiet confidence
 reclining in a chair, with quiet confidence
 holding a plank, while glancing at the camera
@@ -217,7 +217,7 @@ resting a chin on a fist
 sitting on the edge of a bed, with energy
 mid-jump
 leaning forward resting on railing
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 reading a map, with energy
 rolling up sleeves
 checking a watch
@@ -380,7 +380,7 @@ hands behind the back, with a calm air
 stumbling unsteady walking stance
 talking on the phone, in a deliberate posed moment
 crouching low, while looking into the distance
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 carrying a bag, with a casual attitude
 pausing mid-step, with a calm air
 hands behind the head

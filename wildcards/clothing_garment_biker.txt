@@ -1,27 +1,27 @@
-suede one-piece racing leathers with club patches
-suede patched denim jacket with club patches
+suede one-piece racing leathers with club patches reading "__text_club_patch__"
+suede patched denim jacket with club patches reading "__text_club_patch__"
 suede leather bomber with a fur collar
 club leather chaps over jeans with a studded belt
-sleeveless denim cut-off vest with club patches with rivet details
+sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with rivet details
 café-racer suede waxed-cotton riding coat
 heavy black leather bomber with a fur collar with reflective piping
-club riding vest with fringe with club patches
+club riding vest with fringe with club patches reading "__text_club_patch__"
 club vinyl padded riding jacket with armour panels
 leather chaps over jeans with chrome studs
 ballistic nylon leather biker jacket with an asymmetric zip
 club heavy black leather flannel shirt and work trousers
-padded riding jacket with armour panels with club patches
+padded riding jacket with armour panels with club patches reading "__text_club_patch__"
 ballistic nylon riding cape and goggles set with zippered cuffs
 1980s padded riding jacket with armour panels
 1940s waxed canvas stud-and-chain harness
 1950s waxed canvas one-piece racing leathers
 ballistic nylon waxed-cotton riding coat with a quilted shoulder
-engineer boots and bandana outfit with club patches
+engineer boots and bandana outfit with club patches reading "__text_club_patch__"
 riding cape and goggles set
 café-racer brushed cotton padded riding jacket with armour panels
 1970s ballistic nylon stud-and-chain harness
 ballistic nylon riding cape and goggles set
-1970s sleeveless denim cut-off vest with club patches with a chain at the hip
+1970s sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a chain at the hip
 brushed cotton stud-and-chain harness
 ballistic nylon riding vest with fringe with chrome studs
 padded nylon riding cape and goggles set
@@ -29,7 +29,7 @@ padded nylon riding cape and goggles set
 waxed-cotton riding coat with a quilted shoulder
 1940s patched denim jacket
 denim leather riding pants
-riding cape and goggles set with club patches
+riding cape and goggles set with club patches reading "__text_club_patch__"
 outlaw waxed canvas leather riding pants
 1970s stud-and-chain harness with a fringed back yoke
 1950s flannel shirt and work trousers with a studded belt
@@ -42,7 +42,7 @@ outlaw leather chaps over jeans with rivet details
 1940s waxed-cotton riding coat with rivet details
 outlaw ballistic nylon padded riding jacket with armour panels
 suede one-piece racing leathers with rivet details
-ballistic nylon sleeveless denim cut-off vest with club patches with a rope-laced side
+ballistic nylon sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a rope-laced side
 1960s patched denim jacket with a rope-laced side
 1960s flannel shirt and work trousers with rivet details
 1940s one-piece racing leathers
@@ -56,7 +56,7 @@ café-racer one-piece racing leathers
 riding vest with fringe with a fringed back yoke
 1980s leather chaps over jeans with chrome studs
 denim patched denim jacket with reflective piping
-ballistic nylon padded riding jacket with armour panels with club patches
+ballistic nylon padded riding jacket with armour panels with club patches reading "__text_club_patch__"
 1980s leather chaps over jeans with a chain at the hip
 1970s leather chaps over jeans
 suede flannel shirt and work trousers with reflective piping
@@ -67,7 +67,7 @@ suede flannel shirt and work trousers with reflective piping
 ballistic nylon engineer boots and bandana outfit
 brushed cotton flannel shirt and work trousers
 stud-and-chain harness
-1960s sleeveless denim cut-off vest with club patches with a quilted shoulder
+1960s sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a quilted shoulder
 suede engineer boots and bandana outfit
 engineer boots and bandana outfit with a rope-laced side
 waxed canvas leather chaps over jeans
@@ -92,14 +92,14 @@ vinyl stud-and-chain harness with rivet details
 waxed canvas leather biker jacket with an asymmetric zip
 café-racer suede leather chaps over jeans
 leather bomber with a fur collar with a rope-laced side
-club sleeveless denim cut-off vest with club patches with rivet details
+club sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with rivet details
 stud-and-chain harness with rivet details
-outlaw sleeveless denim cut-off vest with club patches
+outlaw sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 outlaw patched denim jacket
 1970s heavy black leather bomber with a fur collar
 riding vest with fringe with chrome studs
 1980s one-piece racing leathers with reflective piping
-1960s leather chaps over jeans with club patches
+1960s leather chaps over jeans with club patches reading "__text_club_patch__"
 flannel shirt and work trousers with reflective piping
 heavy black leather biker jacket with an asymmetric zip with zippered cuffs
 1970s waxed-cotton riding coat with a chain at the hip
@@ -114,13 +114,13 @@ riding cape and goggles set with reflective piping
 waxed canvas waxed-cotton riding coat with a chain at the hip
 leather biker jacket with an asymmetric zip with a rope-laced side
 1960s one-piece racing leathers with a chain at the hip
-suede leather chaps over jeans with club patches
+suede leather chaps over jeans with club patches reading "__text_club_patch__"
 brushed cotton one-piece racing leathers with a chain at the hip
 suede stud-and-chain harness with reflective piping
 padded riding jacket with armour panels with a quilted shoulder
 suede one-piece racing leathers
 ballistic nylon leather bomber with a fur collar
-sleeveless denim cut-off vest with club patches
+sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 leather biker jacket with an asymmetric zip
 denim leather riding pants with a chain at the hip
 1970s waxed-cotton riding coat
@@ -130,25 +130,25 @@ riding vest with fringe with zippered cuffs
 vinyl stud-and-chain harness with a studded belt
 outlaw padded riding jacket with armour panels with reflective piping
 1970s waxed-cotton riding coat with a rope-laced side
-ballistic nylon leather chaps over jeans with club patches
-waxed canvas flannel shirt and work trousers with club patches
-café-racer sleeveless denim cut-off vest with club patches
+ballistic nylon leather chaps over jeans with club patches reading "__text_club_patch__"
+waxed canvas flannel shirt and work trousers with club patches reading "__text_club_patch__"
+café-racer sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 club vinyl leather biker jacket with an asymmetric zip
 leather biker jacket with an asymmetric zip with chrome studs
 club stud-and-chain harness with a studded belt
 brushed cotton stud-and-chain harness with a fringed back yoke
 1980s leather riding pants
 1940s stud-and-chain harness with reflective piping
-outlaw leather bomber with a fur collar with club patches
+outlaw leather bomber with a fur collar with club patches reading "__text_club_patch__"
 1960s heavy black leather stud-and-chain harness
-heavy black leather sleeveless denim cut-off vest with club patches with a chain at the hip
+heavy black leather sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a chain at the hip
 1980s heavy black leather waxed-cotton riding coat
 padded nylon riding vest with fringe
 riding cape and goggles set with a fringed back yoke
 denim leather biker jacket with an asymmetric zip
 1950s flannel shirt and work trousers with a rope-laced side
 leather bomber with a fur collar with a chain at the hip
-ballistic nylon sleeveless denim cut-off vest with club patches
+ballistic nylon sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 1960s padded riding jacket with armour panels
 1940s leather chaps over jeans
 riding vest with fringe
@@ -163,7 +163,7 @@ brushed cotton leather chaps over jeans with a quilted shoulder
 engineer boots and bandana outfit
 denim engineer boots and bandana outfit with zippered cuffs
 brushed cotton waxed-cotton riding coat with a rope-laced side
-sleeveless denim cut-off vest with club patches with a quilted shoulder
+sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a quilted shoulder
 one-piece racing leathers with reflective piping
 club ballistic nylon leather bomber with a fur collar
 1970s heavy black leather biker jacket with an asymmetric zip
@@ -180,24 +180,24 @@ waxed-cotton riding coat
 heavy black leather engineer boots and bandana outfit
 one-piece racing leathers
 1940s suede waxed-cotton riding coat
-waxed canvas sleeveless denim cut-off vest with club patches
+waxed canvas sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 brushed cotton padded riding jacket with armour panels with zippered cuffs
 stud-and-chain harness with a chain at the hip
 vinyl engineer boots and bandana outfit with rivet details
 outlaw leather bomber with a fur collar
 1950s padded riding jacket with armour panels
-one-piece racing leathers with club patches
+one-piece racing leathers with club patches reading "__text_club_patch__"
 denim leather chaps over jeans with a studded belt
 padded riding jacket with armour panels with a rope-laced side
-café-racer leather biker jacket with an asymmetric zip with club patches
-riding vest with fringe with club patches
-1960s sleeveless denim cut-off vest with club patches with club patches
+café-racer leather biker jacket with an asymmetric zip with club patches reading "__text_club_patch__"
+riding vest with fringe with club patches reading "__text_club_patch__"
+1960s sleeveless denim cut-off vest with club patches with club patches reading "__text_club_patch__"
 1980s stud-and-chain harness
 1950s leather riding pants
 1970s leather chaps over jeans with a quilted shoulder
 ballistic nylon riding cape and goggles set with rivet details
 1980s heavy black leather riding vest with fringe
-1950s sleeveless denim cut-off vest with club patches
+1950s sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 1970s riding cape and goggles set with a quilted shoulder
 padded riding jacket with armour panels with a fringed back yoke
 denim engineer boots and bandana outfit
@@ -205,7 +205,7 @@ outlaw leather riding pants
 patched denim jacket with a studded belt
 vinyl flannel shirt and work trousers
 padded riding jacket with armour panels with zippered cuffs
-heavy black leather engineer boots and bandana outfit with club patches
+heavy black leather engineer boots and bandana outfit with club patches reading "__text_club_patch__"
 patched denim jacket with chrome studs
 1940s suede riding cape and goggles set
 club padded riding jacket with armour panels with zippered cuffs
@@ -213,7 +213,7 @@ club padded riding jacket with armour panels with zippered cuffs
 café-racer riding vest with fringe
 vinyl riding cape and goggles set with a chain at the hip
 ballistic nylon waxed-cotton riding coat with a studded belt
-1940s sleeveless denim cut-off vest with club patches with reflective piping
+1940s sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with reflective piping
 waxed canvas riding cape and goggles set with chrome studs
 ballistic nylon patched denim jacket
 café-racer heavy black leather patched denim jacket
@@ -224,10 +224,10 @@ ballistic nylon leather bomber with a fur collar with a chain at the hip
 1970s padded riding jacket with armour panels
 1950s riding vest with fringe
 1970s riding cape and goggles set with a studded belt
-sleeveless denim cut-off vest with club patches with reflective piping
-1970s suede sleeveless denim cut-off vest with club patches
+sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with reflective piping
+1970s suede sleeveless denim cut-off vest with club patches reading "__text_club_patch__"
 1940s flannel shirt and work trousers with a fringed back yoke
-waxed-cotton riding coat with club patches
+waxed-cotton riding coat with club patches reading "__text_club_patch__"
 outlaw engineer boots and bandana outfit
 club leather biker jacket with an asymmetric zip with a fringed back yoke
 brushed cotton one-piece racing leathers
@@ -241,24 +241,24 @@ leather bomber with a fur collar with reflective piping
 vinyl leather riding pants with rivet details
 1940s riding cape and goggles set
 café-racer one-piece racing leathers with a studded belt
-brushed cotton sleeveless denim cut-off vest with club patches with a quilted shoulder
+brushed cotton sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a quilted shoulder
 1940s flannel shirt and work trousers
 vinyl leather chaps over jeans
 outlaw leather chaps over jeans with a studded belt
 leather riding pants
 outlaw heavy black leather riding cape and goggles set
 waxed canvas flannel shirt and work trousers with a studded belt
-brushed cotton waxed-cotton riding coat with club patches
+brushed cotton waxed-cotton riding coat with club patches reading "__text_club_patch__"
 denim leather bomber with a fur collar
 padded nylon one-piece racing leathers
-heavy black leather sleeveless denim cut-off vest with club patches with a studded belt
+heavy black leather sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a studded belt
 flannel shirt and work trousers
-padded nylon sleeveless denim cut-off vest with club patches with a chain at the hip
+padded nylon sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a chain at the hip
 leather chaps over jeans with zippered cuffs
 café-racer padded riding jacket with armour panels
 leather bomber with a fur collar
 1950s riding cape and goggles set
-1980s sleeveless denim cut-off vest with club patches with a rope-laced side
+1980s sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with a rope-laced side
 outlaw waxed canvas riding cape and goggles set
 engineer boots and bandana outfit with rivet details
 denim leather biker jacket with an asymmetric zip with a studded belt
@@ -294,7 +294,7 @@ riding cape and goggles set with chrome studs
 padded riding jacket with armour panels with a studded belt
 1970s heavy black leather riding vest with fringe
 heavy black leather one-piece racing leathers
-sleeveless denim cut-off vest with club patches with chrome studs
+sleeveless denim cut-off vest with club patches reading "__text_club_patch__" __text_look_stitch__ with chrome studs
 club ballistic nylon one-piece racing leathers
 1960s engineer boots and bandana outfit with a fringed back yoke
 1970s vinyl stud-and-chain harness

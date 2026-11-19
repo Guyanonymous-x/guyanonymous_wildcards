@@ -4,8 +4,8 @@ a dropped glove
 a cardboard box
 a cleaning trolley parked and forgotten
 a fire extinguisher with its inspection tag
-a notice about keeping the route clear ignored directly beneath it
-a crisp packet
+a notice about keeping the route clear ignored directly beneath it, reading "FIRE EXIT KEEP CLEAR" __text_look_paper_notice__, the rest of the sheet plain white
+a crisp packet printed "__name_brand_upper__" __text_look_print__
 a bucket
 a lost pen
 a dead moth under an emergency light

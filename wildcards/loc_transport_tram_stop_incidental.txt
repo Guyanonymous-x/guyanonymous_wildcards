@@ -1,11 +1,11 @@
-a dropped ticket in the rail groove
+a dropped ticket printed "__text_ticket__" in black print, the rest of the ticket plain, in the rail groove
 a coffee cup on the shelter ledge
 a bicycle locked to the shelter frame
 chewing gum on the validator buttons
 a carrier bag of shopping
-a free newspaper
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a cigarette end in the rail slot
-a sticker over a fare notice
+a sticker over a fare notice reading "FARES" __text_look_paper_notice__, the rest of the sheet plain white
 a glove on a bench
 a leaf drift against the platform edge
 a busker's case

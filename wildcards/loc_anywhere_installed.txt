@@ -93,8 +93,8 @@ a low vaulted ceiling
 a mess room
 a mile post
 a mirror
-a notice board
-a noticeboard
+a notice board pinned with a sheet reading "__text_bulletin__" __text_look_paper_notice__, the rest of the board bare
+a noticeboard pinned with a sheet reading "__text_bulletin__" __text_look_paper_notice__, the rest of the board bare
 a one-way door at the exit
 a panic alarm
 a parcel shelf
@@ -209,7 +209,7 @@ curtains permanently drawn
 dark
 dimmable lighting
 dimmers
-directory board
+directory board listing "__name_trade_corp__ SUITE __name_number_small__" in white letters on a black board, the rest of the board bare
 door closers
 door lock
 doors to the garden
@@ -238,7 +238,7 @@ fire doors at each level
 fire suppression by gas rather than water
 fireplace
 flagstone floor
-flight information screens at intervals
+flight information screens showing "__text_departure__" __text_look_dotmatrix__, the rest of the screens dark at intervals
 floodlight masts
 floodlights
 floor drain
@@ -273,7 +273,7 @@ lime-washed walls
 lockers
 low lighting
 magnification
-menu board
+menu board reading "__text_price_line__" __text_look_chalk__, the rest of the board bare
 mirrors
 a windowless room lit only by lamps
 an open doorway
@@ -291,7 +291,7 @@ a dry room supplied only by carried water
 windowless walls
 windowless walls
 non-slip floor
-numbered doors
+numbered doors, the nearest marked "__name_number_small__" in brass numerals
 one window
 open shelving
 overhead racks with a lip

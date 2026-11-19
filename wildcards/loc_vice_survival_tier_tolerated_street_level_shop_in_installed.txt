@@ -1,5 +1,5 @@
 a street-level premises trading openly under a municipal tolerance or a limited license
-a published price list on the wall
+a published price list reading "__text_price_line__" in black print on the wall
 calibrated scales
 an enforced minimum age
 a camera
@@ -16,4 +16,4 @@ income divided between the product and the café offer
 a small amount of stock behind the counter
 staff of one or two
 a landlord who knows exactly what the premises is, and an operating life measured in decades rather than months
-a municipal licence notice in the window
+a municipal licence notice reading "LICENSE" in black print, the rest of the sheet plain white, in the window

@@ -1,15 +1,15 @@
 a hand-painted shop sign reading "__text_sign_english__" in __sign_lettering__
 a neon open sign reading "__text_neon_sign__" __text_look_neon__
-a wooden road sign
-a vintage tin advertisement
-a cinema marquee
-a chalkboard menu
+a wooden road sign reading "__name_town__ __name_number_small__" in painted capitals
+a vintage tin advertisement reading "__name_brand_upper__" __text_look_paint__ above a painted picture
+a cinema marquee reading "NOW SHOWING __name_movie__" in black capitals on a lit white panel
+a chalkboard menu reading "__text_price_line__" __text_look_chalk__
 a street-name sign reading "__text_sign_english__" in __sign_lettering__
 a billboard reading "__name_product__" __text_look_print__
 a banner reading "__text_banner_festival__" __text_look_banner__ on a pole
 a stone engraved sign reading "__text_sign_english__" in __sign_lettering__
 a lantern with a name
-a window decal
+a window decal reading "__sign_message__" in cut vinyl letters
 a pub hanging sign reading "__text_sign_english__" in __sign_lettering__
 a barber pole
 a pharmacy cross sign reading "__text_sign_english__" in __sign_lettering__
@@ -26,4 +26,4 @@ a wayfinding totem
 a protest placard reading "__text_banner_protest__" in thick hand-painted letters
 a banner reading "__text_banner_festival__" __text_look_banner__ at a festival
 a fabric shop flag
-a ship's nameplate
+a ship's nameplate reading "__name_word__" in raised capitals

@@ -527,7 +527,7 @@ a three-piece suit wearer in a masculine cut, dressed in a pinstripe jacket and 
 a thunder god in a masculine cut (myth), wearing a hammer belt and a cape, a winged helm and boots, in a masculine cut with a roomy chest and shoulders, with light tan skin
 a tin man robot in a masculine cut, dressed in a metal funnel hat and silver chest piece with silver trousers, with light tan skin
 a toilet paper roll costume wearer in a masculine cut (party), wearing a white tube suit, in a masculine cut with a roomy chest and shoulders, with light tan skin
-a tour guide in a masculine cut (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders, with light tan skin
+a tour guide in a masculine cut (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders, with light tan skin
 a town crier in a masculine cut (England), in a red and gold coat and breeches and buckled shoes, with light tan skin
 a train conductor in a masculine cut (steam era), in a double-breasted jacket with brass buttons and a watch chain and a peaked cap, with light tan skin
 a troll in a masculine cut (folklore), wearing a mossy furry tunic, tailored in a masculine cut with a straight waist and carrying a club, with light tan skin
@@ -538,7 +538,7 @@ a vaudeville performer in a masculine cut, dressed in a striped blazer with a st
 a veterinarian in a masculine cut (clinic), wearing a patterned scrub top with a stethoscope and a cat-print lab coat, scrub trousers and work shoes, cut for a masculine frame with broad shoulders, with light tan skin
 a void wanderer in a masculine cut (sci-fi), wearing a hooded cloak over a patched suit, a breathing mask and boots, tailored in a masculine cut with a straight waist, with light tan skin
 a walking Christmas tree in a masculine cut (festive), in a green tree suit with lights and a star hat, with light tan skin
-a walking sandwich board seller in a masculine cut (street), wearing a hot dog costume with a sandwich board and shoes, cut for a masculine frame with broad shoulders, with light tan skin
+a walking sandwich board seller in a masculine cut (street), wearing a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, cut for a masculine frame with broad shoulders, with light tan skin
 a wandering monster slayer in a masculine cut (fantasy), wearing a worn leather jerkin with strapped vials, trousers and boots, cut for a masculine frame with broad shoulders and carrying a steel sword, with light tan skin
 a warehouse picker in a masculine cut (logistics), wearing a high-visibility vest and a scanner on the wrist, work trousers and safety shoes, in a masculine cut with a roomy chest and shoulders, with light tan skin
 a wasteland raider in a masculine cut, dressed in spiked shoulder pads over bare arms with torn trousers, with light tan skin

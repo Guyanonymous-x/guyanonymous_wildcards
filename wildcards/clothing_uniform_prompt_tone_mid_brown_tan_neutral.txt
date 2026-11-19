@@ -10,7 +10,7 @@ A black tailcoat with a white shirt and a white bow tie, striped trousers, black
 A black wrap tunic, trousers, a hood and mask, split-toe shoes, the full outfit of a ninja, with mid-tone brown tanned skin
 A blue coverall with a patch, a ball cap, rubber-soled shoes, the full outfit of a submariner, with mid-tone brown tanned skin
 A bodice with a layered tutu, tights, a bun with a tiara, pointe shoes, the full outfit of a tutu ballet dancer, with mid-tone brown tanned skin
-A branded polo and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide, with mid-tone brown tanned skin
+A branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide, with mid-tone brown tanned skin
 A brown cloak over a harness with grappling gear, trousers, boots, the full outfit of a grapple-line scout, with mid-tone brown tanned skin
 A bulbous inflatable dinosaur suit, a dinosaur head, the full outfit of an inflatable dinosaur costume wearer, with mid-tone brown tanned skin
 A cardigan with a chain of glasses, a skirt, shoes, the full outfit of a librarian, with mid-tone brown tanned skin
@@ -200,7 +200,7 @@ a Balinese temple dancer (Bali), wearing a gold-braided costume with a sash, a w
 a Bedouin chief (desert), wearing a long robe with a cloak, a head cloth with a cord and sandals, with mid-tone brown tanned skin
 a British bobby (London, 20th century), wearing a dark tunic with silver buttons and a whistle chain, dark trousers, a tall custodian helmet and black boots and carrying a truncheon, with mid-tone brown tanned skin
 a Carnival of Venice reveller, dressed in a brocade cape, with mid-tone brown tanned skin
-a Catholic priest (church), wearing a black cassock with a white clerical collar, a biretta and black shoes and carrying a prayer book, with mid-tone brown tanned skin
+a Catholic priest (church), wearing a black cassock with a white clerical collar, a biretta and black shoes and carrying a prayer book with "ROMAN MISSAL" in gold letters on the cover, the rest of the cover plain, with mid-tone brown tanned skin
 a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square badge and cloth boots, with mid-tone brown tanned skin
 a Chinese opera performer (Beijing), wearing a heavily embroidered robe with long water sleeves, an elaborate headdress and platform boots, with mid-tone brown tanned skin
 a Cold War astronaut trainer, dressed in a pressure suit, with mid-tone brown tanned skin
@@ -288,7 +288,7 @@ a cheerleader (pep rally), wearing a pleated uniform top, a pleated skirt, a hai
 a chicken suit wearer (promotion), in a feathered chicken suit and a beaked hood, with mid-tone brown tanned skin
 a chimney sweep (Victorian), wearing a soot-covered coat and a top hat, trousers, a battered top hat and boots, with mid-tone brown tanned skin
 a chocolatier (shop), wearing a white jacket with a hat, checked trousers, a cap and clogs, with mid-tone brown tanned skin
-a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes and carrying a hymn book, with mid-tone brown tanned skin
+a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes and carrying a hymn book with "__text_hymn_book__" in gold letters on the cover, the rest of the cover plain, with mid-tone brown tanned skin
 a circus ringmaster (circus), wearing a red tailcoat with gold braid, riding trousers, a top hat and tall boots and carrying a whip, with mid-tone brown tanned skin
 a circus strongperson (stage), in a leopard-print leotard and boots, with mid-tone brown tanned skin
 a clown (circus), in a polka-dot jumpsuit with a huge bow tie and baggy trousers and oversized shoes, with mid-tone brown tanned skin
@@ -452,7 +452,7 @@ a professor, dressed in a flowing academic gown with a hood, with mid-tone brown
 a pullman porter (1930s), wearing a double-breasted jacket with brass buttons, trousers, a peaked cap and black shoes and carrying a luggage cart, with mid-tone brown tanned skin
 a punk (1977 London), in a studded jacket with safety pins and torn trousers and boots, with mid-tone brown tanned skin
 a quilter (home), wearing an apron with pins on the front, a skirt and slippers and carrying a quilt, with mid-tone brown tanned skin
-a rabbi (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes and carrying a prayer book, with mid-tone brown tanned skin
+a rabbi (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes and carrying a prayer book with "SIDDUR" in gold letters on the cover, the rest of the cover plain, with mid-tone brown tanned skin
 a reenactor of a Civil War soldier (field), wearing a wool sack coat, wool trousers, a kepi and brogans, with mid-tone brown tanned skin
 a reenactor of a Roman soldier (field), in a red tunic with armour and sandals, with mid-tone brown tanned skin
 a road crossing guard (road), in a high-visibility coat and a cap, with mid-tone brown tanned skin
@@ -535,7 +535,7 @@ a vaudeville performer (stage), wearing a striped blazer with a straw boater, wh
 a veterinarian (clinic), wearing a patterned scrub top with a stethoscope and a cat-print lab coat, scrub trousers and work shoes, with mid-tone brown tanned skin
 a void wanderer (sci-fi), wearing a hooded cloak over a patched suit, a breathing mask and boots and carrying a lantern, with mid-tone brown tanned skin
 a walking Christmas tree, dressed in a green tree suit with lights, with mid-tone brown tanned skin
-a walking sandwich board seller (street), in a hot dog costume with a sandwich board and shoes, with mid-tone brown tanned skin
+a walking sandwich board seller (street), in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, with mid-tone brown tanned skin
 a wandering monster slayer (fantasy), in a worn leather jerkin with strapped vials and trousers and boots, with mid-tone brown tanned skin
 a warehouse picker (logistics), wearing a high-visibility vest and a scanner on the wrist, work trousers and safety shoes, with mid-tone brown tanned skin
 a wasteland raider (wasteland), in spiked shoulder pads over bare arms and a skull mask, with mid-tone brown tanned skin

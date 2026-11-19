@@ -231,11 +231,11 @@ one hand holding a phone, graceful
 one hand holding a phone, hesitant
 one hand holding a phone, confident
 one hand holding a phone, unconscious
-one hand holding a book, held gently
-one hand holding a book, relaxed
-one hand holding a book, casual
-one hand holding a book, deliberate
-one hand holding a book, caught mid-gesture
+one hand holding a book titled "__name_book_title_any__" in gold capitals on a plain cover, held gently
+one hand holding a book titled "__name_book_title_any__" in gold capitals on a plain cover, relaxed
+one hand holding a book titled "__name_book_title_any__" in gold capitals on a plain cover, casual
+one hand holding a book titled "__name_book_title_any__" in gold capitals on a plain cover, deliberate
+one hand holding a book titled "__name_book_title_any__" in gold capitals on a plain cover, caught mid-gesture
 a hand holding a flower, held firmly
 a hand holding a flower, held tensely
 a hand holding a flower, casual

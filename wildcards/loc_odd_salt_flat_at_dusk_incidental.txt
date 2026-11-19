@@ -3,8 +3,8 @@ a bottle of water with the label reading "__loc_text_label__" half gone
 a pair of sunglasses with one arm
 a lens cap
 a tire track going out and curving away
-a sweet wrapper
+a sweet wrapper printed "__name_brand_upper__" __text_look_print__
 a dropped glove
-a crisp packet
+a crisp packet printed "__name_brand_upper__" __text_look_print__
 a shoe with a salt crust on the sole
 a car with a white line of salt along the sills

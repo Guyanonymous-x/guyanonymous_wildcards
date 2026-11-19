@@ -1,6 +1,6 @@
 folded knitwear in stacks
 handbags on stands
-price tags
+price tags reading "__text_price_tag__" in black print
 carrier bags
-receipts
+receipts reading "__text_receipt__" __text_look_receipt__, the rest of each strip plain
 cotton pads at the beauty counter

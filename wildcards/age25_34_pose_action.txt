@@ -90,7 +90,7 @@ leaning on a counter
 mid-jump, in mid-motion
 perching on a stool, with quiet confidence
 leaning on a table
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 standing at a window
 standing on a balcony, while glancing at the camera
 standing tall in dramatic power pose
@@ -341,7 +341,7 @@ sitting on the floor
 standing rigid motionless posture
 arms raised in celebration
 squatting, with a slight smile
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 standing with feet together, with careful balance
 leaning on a railing
 riding a bicycle, with a slight smile
@@ -352,7 +352,7 @@ sitting on the edge of a bed, in a relaxed way
 fixing a collar
 clapping, in a natural candid moment
 reclining on a sofa, while looking away
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 yawning
 sitting at a table, with careful balance
 playing guitar, with a slight smile
@@ -642,7 +642,7 @@ leaning on a counter
 sitting on the edge of a bed, with a calm air
 drinking from a cup, with focus
 praying, at rest
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 painting at an easel, with careful balance
 walking toward the camera, with quiet confidence
 crouching low
@@ -744,7 +744,7 @@ reaching forward, in a natural candid moment
 twirling, while looking into the distance
 stepping off a curb, in a deliberate posed moment
 laughing with a friend, with focus
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 stirring a pot
 sitting on steps, with energy
 perching on a table edge
@@ -782,7 +782,7 @@ sitting on a bench, at rest
 resting a head on a hand
 typing on a laptop, with careful balance
 pulling a suitcase, with a sense of ease
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 laughing with a friend, in mid-motion
 sitting at a desk, with a slight smile
 reaching forward
@@ -1092,7 +1092,7 @@ adjusting a hat, in a relaxed way
 arms raised in celebration
 standing upright, while looking away
 shrugging, with a calm air
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 walking away looking back over shoulder
 sitting on the edge of a bed, with energy
 reading aloud, while looking into the distance
@@ -1109,7 +1109,7 @@ kneeling on one knee, with a slight smile
 sleeping, in a natural candid moment
 sitting on a sofa, in a deliberate posed moment
 sitting on the edge of a bed, with a calm air
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 eating
 leaning on a fence, while looking away
 hugging the knees, with a slight smile
@@ -1165,7 +1165,7 @@ pointing, in a natural candid moment
 fixing a collar, in a natural candid moment
 shrugging, with graceful posture
 leaning against a doorframe
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 clapping
 running fast with windblown hair
 pointing, in a natural candid moment
@@ -1372,7 +1372,7 @@ bending to pick something up, with focus
 brushing hair aside, with quiet confidence
 praying
 playing a violin
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 reaching forward, with quiet confidence
 kneeling on one knee, in a natural candid moment
 laughing with a friend
@@ -1570,7 +1570,7 @@ bending to pick something up, in a natural candid moment
 reaching up
 squatting, with a slight smile
 watering plants
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 standing on a balcony, with quiet confidence
 leaning on a fence, with energy
 sleeping
@@ -1583,7 +1583,7 @@ standing with arms crossed, in mid-motion
 standing relaxed with arms crossed
 standing turned three-quarters away
 carrying a box
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 standing with weight on one leg, while glancing at the camera
 sitting on steps
 twirling, in mid-motion

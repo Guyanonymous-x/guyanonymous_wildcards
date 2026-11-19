@@ -229,7 +229,7 @@ a Carnival of Venice reveller, dressed in a brocade cape
 a Catholic priest (church), in a black cassock with a white clerical collar and a biretta
 a Catholic priest (church), in a black cassock with a white clerical collar and black shoes
 a Catholic priest (church), wearing a black cassock with a white clerical collar, a biretta and black shoes
-a Catholic priest (church), wearing a black cassock with a white clerical collar, a biretta and black shoes and carrying a prayer book
+a Catholic priest (church), wearing a black cassock with a white clerical collar, a biretta and black shoes and carrying a prayer book with "ROMAN MISSAL" in gold capitals on the cover, the rest of the cover plain
 a Catholic priest, dressed in a black cassock with a white clerical collar
 a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square badge and a hat with a button
 a Chinese imperial court official (Qing dynasty), in a long silk robe with a mandarin square badge and cloth boots
@@ -398,7 +398,7 @@ a bishop (church), wearing a purple cassock with a cope and a pectoral cross, a 
 a bishop, dressed in a purple cassock with a cope and a pectoral cross
 a choir singer (cathedral), in a long red cassock with a white ruff and shoes
 a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes
-a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes and carrying a hymn book
+a choir singer (cathedral), wearing a long red cassock with a white ruff and shoes and carrying a hymn book with "__text_hymn_book__" in gold capitals on the cover, the rest of the cover plain
 a choir singer, dressed in a long red cassock with a white ruff
 a druid (ancient Britain), in a long white robe with a gold sickle and an oak-leaf crown
 a druid (ancient Britain), in a long white robe with a gold sickle and sandals
@@ -452,7 +452,7 @@ a punk, dressed in a studded jacket with safety pins with torn trousers
 a rabbi (synagogue), in a black coat with a prayer shawl and a black hat
 a rabbi (synagogue), in a black coat with a prayer shawl and trousers and shoes
 a rabbi (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes
-a rabbi (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes and carrying a prayer book
+a rabbi (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes and carrying a prayer book with "סידור" in gold Hebrew letters on the cover, the rest of the cover plain
 a rabbi, dressed in a black coat with a prayer shawl with trousers
 a shaman (Siberia), in a robe hung with ribbons and bells and a feathered headdress
 a shaman (Siberia), in a robe hung with ribbons and bells and fur boots
@@ -479,7 +479,7 @@ an Andean festival dancer (Bolivia), wearing a heavily sequined jacket, a flared
 an Andean festival dancer, dressed in a heavily sequined jacket with a flared skirt
 an Anglican vicar (village church), in a black cassock with a white surplice and black shoes
 an Anglican vicar (village church), wearing a black cassock with a white surplice and black shoes
-an Anglican vicar (village church), wearing a black cassock with a white surplice and black shoes and carrying a bible
+an Anglican vicar (village church), wearing a black cassock with a white surplice and black shoes and carrying a bible with "HOLY BIBLE" in gold capitals on the cover, the rest of the cover plain
 an Anglican vicar, dressed in a black cassock with a white surplice
 an Aztec jaguar warrior (Mexico), in a jaguar-skin suit and a jaguar-head helmet
 an Aztec jaguar warrior (Mexico), in a jaguar-skin suit and sandals

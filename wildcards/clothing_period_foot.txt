@@ -64,7 +64,7 @@ a Sogdian boot made of wool
 an Anglo-Saxon leather shoe of leather with Maya glyph bands
 a Ghanaian sandal of plastic and suede
 a Mughal jutti
-a Viking turnshoe in jet, decorated with Abbasid calligraphic borders
+a Viking turnshoe in jet, decorated with Abbasid calligraphic borders reading "الملك لله" in angular Kufic letters
 a wrapped bronze-age leather shoe patterned with wave bands in leather
 an Inuit mukluk in lace, decorated with Ballets Russes bold colours
 a Roman caliga boot patterned with Roman roundel patterns in linen
@@ -211,7 +211,7 @@ a Ghanaian sandal of vinyl with pastel Miami colours
 a Cuban-heel boot worn with psychedelic swirls detailing
 a Moche leather boot of wool with Sassanian pearl roundels
 a Byzantine shoe in camel hair, decorated with Arab geometric borders
-an Indian kolhapuri chappal in denim, decorated with K-pop logo motifs
+an Indian kolhapuri chappal in denim, decorated with K-pop logo motifs reading "__name_band__"
 a Hausa leather sandal in silk, decorated with Kievan fur trims
 a clog worn with tie-dye detailing
 a Tiwanaku leather shoe made of ivory
@@ -233,7 +233,7 @@ simple hide foot-wraps tied with thongs of sealskin and tanned deer hide
 a kitten heel pump with a trim of tulle
 a Byzantine leather shoe with pearls in silk, decorated with Frankish garnet cloisonne
 a Tang leather boot of leather with Arab geometric borders
-a minimalist sneaker worn with K-pop logo motifs detailing
+a minimalist sneaker worn with K-pop logo motifs reading "__name_band__" detailing
 a cork-footbed sandal worn with African wax print motifs detailing
 an Indian kolhapuri chappal
 a leather sandal with a toe strap of Egypt of fine linen with geometric key patterns
@@ -710,8 +710,8 @@ an Indian jutti of velvet with Fair Isle knits
 a Joseon cloth shoe of wool with swing-era polka dots
 a T-strap Mary Jane heel of wool and crepe de chine
 an Aztec sandal in feathers, decorated with Japanese Muromachi patterns
-an Andalusian ankle boot in hemp, decorated with Abbasid calligraphic borders
-an Abbasid leather slipper patterned with Abbasid calligraphic borders in jade
+an Andalusian ankle boot in hemp, decorated with Abbasid calligraphic borders reading "الملك لله" in angular Kufic letters
+an Abbasid leather slipper patterned with Abbasid calligraphic borders reading "الملك لله" in angular Kufic letters in jade
 a Han cloth shoe of glass with Moche stepped patterns
 a Ming embroidered cloth shoe patterned with Vijayanagara temple motifs in fur
 a Showa geta patterned with Shanghai qipao florals in cotton
@@ -747,7 +747,7 @@ an Indian leather sandal (padukas) patterned with Moche waves in bronze
 a Han cloth shoe with an upturned toe made of linen
 an Indian jutti worn with swing-era polka dots detailing
 a Norman leather shoe worn with Norman embroidered borders detailing
-a Carolingian leather shoe of felt with Abbasid calligraphic borders
+a Carolingian leather shoe of felt with Abbasid calligraphic borders reading "الملك لله" in angular Kufic letters
 a Kushan felt boot of pearl and glass
 a Fatimid slipper of gold with Ottonian embroidered borders
 a peep-toe pump with a trim of rhinestones
@@ -1012,7 +1012,7 @@ a Fatimid slipper worn with Kievan fur trims detailing
 an Italian Renaissance leather slipper made of pearl
 a Joseon cloth shoe of feathers and pearls
 a Norman leather shoe with Song plum blossom motifs
-an Andalusian ankle boot worn with Abbasid calligraphic borders detailing
+an Andalusian ankle boot worn with Abbasid calligraphic borders reading "الملك لله" in angular Kufic letters detailing
 papyrus sandals worn with animal friezes detailing
 a Hausa leather sandal made of jade
 a moccasin-like single-piece hide shoe patterned with animal tracks painted on hide in nettle fibre
@@ -1129,7 +1129,7 @@ a Kushan felt boot with a trim of hemp
 a Minoan lace-up boot of lapis with geometric key patterns
 an Edwardian spat with a trim of wool
 a Persian soft boot of amber and jade
-an Indian leather sandal in jet, decorated with Abbasid calligraphic borders
+an Indian leather sandal in jet, decorated with Abbasid calligraphic borders reading "الملك لله" in angular Kufic letters
 an Indian leather sandal in felt, decorated with Igbo-Ukwu coil patterns
 a high-top sneaker with a trim of shiny satin
 an Edwardian button boot in feathers, decorated with Persian Qajar floral motifs

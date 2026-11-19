@@ -1,12 +1,12 @@
 a logbook listing every ship docked since the 1960s
 a mug on a window ledge
-a tin of brass polish
+a tin of brass polish labeled "BRASS POLISH" __text_look_print__
 a rag in a back pocket
 a kettle
 a radio
 a photograph of a ship in the dock pinned up
 a valve key hung on its own painted hook outline
-a newspaper
+a newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a pair of ear defenders
 a chair brought down from an office
 a calendar from a pump manufacturer

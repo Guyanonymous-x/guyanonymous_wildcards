@@ -1,4 +1,4 @@
-a slot ticket dropped and trodden
+a slot ticket printed "CASH OUT __name_price__" in small black print dropped and trodden
 a cocktail glass on a machine ledge
 a player's card on a lanyard hanging from a machine
 a coat over the back of a stool
@@ -9,4 +9,4 @@ a tissue
 a drink coaster
 a cigarette end in a tray in the smoking rooms
 a cushion brought to a favored machine
-a bottle of water from the complimentary stand
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ from the complimentary stand

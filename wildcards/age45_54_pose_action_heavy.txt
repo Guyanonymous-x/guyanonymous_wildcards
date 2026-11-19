@@ -328,7 +328,7 @@ turning to look over the shoulder, in a deliberate posed moment
 leaning on a counter
 hands behind the back, with a calm air
 tying hair back, with careful balance
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 lying on the side, with graceful posture
 standing with feet apart, with quiet confidence
 standing with hands in pockets
@@ -451,7 +451,7 @@ kneeling on one knee
 leaping
 carrying a bag, with careful balance
 resting a chin on a fist
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 leaning on a wall
 sleeping
 standing tall in dramatic power pose
@@ -477,7 +477,7 @@ sitting on a sofa
 leaning on a table, with focus
 walking away
 hopping, in mid-motion
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 mid-jump, with a casual attitude
 leaning on a railing, with energy
 sitting on a chair, with a calm air

@@ -4,7 +4,7 @@ pots stacked in towers
 a dibber
 labels reading "__loc_text_plant__" and a pencil
 a thermometer on a hook
-a bag of compost split open
+a bag of compost printed "__name_brand_upper__ COMPOST" __text_look_print__ split open
 tomato side-shoots in a pile
 a watering can
 string for tying in

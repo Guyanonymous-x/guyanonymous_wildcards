@@ -1,11 +1,11 @@
 a trolley abandoned at an angle across two bays
 an oil stain in the shape of the car that always parks there
-a dropped ticket
+a dropped ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
 a cone over a drain
-a crisp packet in a corner
+a crisp packet printed "__name_brand_upper__" __text_look_print__ in a corner
 a shopping bag handle snapped off
 a cigarette end cluster by the stair door
 a child's dropped toy
-a receipt blown against a curb
+a receipt printed "__text_receipt__" __text_look_receipt__ blown against a curb
 a lost glove on a bollard
 a pigeon on a light fitting

@@ -299,7 +299,7 @@ holding a mug with both hands, with careful balance
 reading aloud, with careful balance
 stretching the arms overhead
 walking along a path, with quiet confidence
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 standing with feet together, with careful balance
 brushing hair aside
 typing on a laptop, with careful balance
@@ -417,7 +417,7 @@ lying on the stomach, with a calm air
 sitting on a low wall, while looking into the distance
 sitting on the edge of a bed, with energy
 squatting
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 sitting at a desk
 reading a map, with energy
 reading a map
@@ -466,7 +466,7 @@ leaning on a table
 sitting on a sofa
 lying on the side, with a calm air
 hugging oneself, with energy
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 standing relaxed with arms crossed
 striding forward aggressively
 stretching to the side, in a deliberate posed moment

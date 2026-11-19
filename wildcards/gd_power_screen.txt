@@ -3,4 +3,4 @@ a tiny digital percentage display
 a ring of blue light
 a single green light
 a bar of five dots
-a screen showing a percentage
+a screen showing a percentage reading "__name_number_small__0%" in white digits

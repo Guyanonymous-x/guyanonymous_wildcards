@@ -4,7 +4,7 @@ a printer spitting pick lists
 a roll of parcel tape in a dispenser
 a stack of flat-pack boxes
 a bin of jiffy bags
-a laminated price list
+a laminated price list reading "__text_price_line__" __text_look_print__, the rest of the sheet plain white
 a trolley of picks waiting to go to the workshop
 a trade customer's order on a clipboard
 a returns tray with three items and a note on each

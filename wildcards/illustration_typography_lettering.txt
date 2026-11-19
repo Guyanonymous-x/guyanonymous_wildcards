@@ -8,7 +8,7 @@ stencil lettering reading "__name_merch_slogan__"
 blackletter gothic type
 comic book lettering reading "__name_merch_slogan__"
 psychedelic warped lettering reading "__name_merch_slogan__" that fills its shape
-graffiti
+graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 scrawled crossed-out handwriting
 flowing copperplate script
 character-specific lettering reading "__name_merch_slogan__" styles

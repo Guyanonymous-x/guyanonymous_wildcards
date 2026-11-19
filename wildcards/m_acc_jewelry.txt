@@ -5,7 +5,7 @@ stacked leather and beaded bracelets
 silver signet ring
 single stud earring
 thick silver chain bracelet
-dog tags on a ball chain
+dog tags stamped "__name_surname__ __name_initials__" in raised letters on a ball chain
 worn leather-strap watch
 rugged titanium sports watch
 plain wedding band only
@@ -261,15 +261,15 @@ a locket in a bold statement style
 a locket in a delicate style
 a locket with a shell detail
 a locket with engraved detail
-dog tags in polished metal
-dog tags in brushed metal
-dog tags in hammered metal
-dog tags in a minimalist style
-dog tags in a vintage style
-dog tags in a bold statement style
-dog tags with a wooden bead detail
-dog tags with enamel detail
-dog tags with engraved detail
+dog tags stamped "__name_initials__" in raised stamped capitals in polished metal
+dog tags stamped "__name_surname_world__ __name_initials__" in raised stamped capitals, in brushed metal
+dog tags stamped "__name_initials__" in raised stamped capitals in hammered metal
+dog tags stamped "__name_initials__" in raised stamped capitals in a minimalist style
+dog tags stamped "__name_surname_world__ __name_initials__" in raised stamped capitals, in a vintage style
+dog tags stamped "__name_surname_world__ __name_initials__" in raised stamped capitals, in a bold statement style
+dog tags stamped "__name_surname__ __name_initials__" in raised letters with a wooden bead detail
+dog tags stamped "__name_surname__ __name_initials__" in raised letters with enamel detail
+dog tags stamped "__name_surname__ __name_initials__" in raised letters with engraved detail
 a medallion in hammered metal
 a medallion set with a single gem
 a medallion in a minimalist style

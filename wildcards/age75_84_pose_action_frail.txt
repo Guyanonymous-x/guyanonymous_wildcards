@@ -293,7 +293,7 @@ hugging oneself
 sitting on a log
 descending steps
 lying on the side, with a calm air
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 reading a map, with a casual attitude
 reading a map, with graceful posture
 sitting on a sofa
@@ -390,7 +390,7 @@ kneeling on one knee on ground
 talking on the phone, in a natural candid moment
 leaning on a counter, with a calm air
 hands behind the head, with careful balance
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 stretching after waking
 reading aloud, with focus
 playing guitar
@@ -438,7 +438,7 @@ perching on a stool, while glancing at the camera
 standing arms wide open
 slouched tired sitting posture
 playing a violin
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 walking forward with purposeful stride
 leaning on a fence
 sitting on the floor, with a sense of ease

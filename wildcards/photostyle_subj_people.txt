@@ -49,7 +49,7 @@ twin brothers in matching sweaters
 three sisters squeezed onto one sofa
 a family eating dinner in front of the television
 a family packed into a car for a road trip
-a grandmother and grandson playing cards
+a grandmother and grandson playing cards, the cards showing the corner letters "A", "K", "Q" and "J" in small red and black print
 a widower tending his wife's garden
 a man shaving at a sink in a vest
 a woman in curlers smoking on a balcony
@@ -121,15 +121,15 @@ a soldier writing a letter
 a sailor on the deck of a ship
 a pilot in a cockpit
 a flight attendant in an aisle
-a train conductor punching tickets
+a train conductor punching tickets printed "__name_town__ RETURN" in small black print
 a bus driver at the wheel
 a taxi driver with a cigarette at a rank
 a truck driver at a roadside stop
 a courier on a bicycle in traffic
 a postman with a satchel
 a teacher at a blackboard
-a professor surrounded by stacks of books
-a librarian shelving books
+a professor surrounded by stacks of books, the nearest spine titled "__name_book_title_any__" in gold capitals, the rest of the spines plain
+a librarian shelving books, the nearest spine titled "__name_book_title_any__" in gold capitals, the rest of the spines plain
 a scientist looking into a microscope
 an astronaut in a training suit
 a chemist with glassware
@@ -193,7 +193,7 @@ a calligrapher with a brush and ink
 a model between looks backstage at a fashion show
 a makeup artist working on a model
 a fashion designer pinning a dress on a mannequin
-a fortune teller with tarot cards
+a fortune teller with tarot cards, the top card titled "THE TOWER" in small black capitals along the bottom
 a monk sweeping a temple courtyard
 a nun walking along a cloister
 a rabbi reading by a window

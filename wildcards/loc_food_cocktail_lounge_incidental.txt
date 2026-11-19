@@ -1,4 +1,4 @@
-a matchbook with a phone number inside the cover
+a matchbook with a phone number inside the cover reading "__name_phone__" __text_look_handwriting__
 a candle burnt down in a holder
 a cocktail napkin with a ring on it
 a coat over a chair back
@@ -6,6 +6,6 @@ a handbag on a stool
 a phone face-down
 a dropped olive
 a cherry stem knotted on a napkin
-a cloakroom ticket
+a cloakroom ticket printed "__name_number_small__" in large black numbers
 a jacket on a hook under the bar
 a dropped earring

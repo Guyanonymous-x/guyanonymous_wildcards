@@ -146,7 +146,7 @@ reading aloud, in a natural candid moment
 perching on a stool, with quiet confidence
 stretching the arms overhead, with a slight smile
 striding forward aggressively
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on a rock, at rest
 reading a map
 perching on a stool, with graceful posture
@@ -404,7 +404,7 @@ lying on the stomach, while looking into the distance
 playing a violin
 pausing mid-step, at rest
 leaning on a counter
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 standing with feet apart, with quiet confidence
 eating
 pulling a suitcase, with quiet confidence
@@ -430,7 +430,7 @@ standing on a balcony, while looking away
 jogging
 sitting on a swing
 sitting on a sofa
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting on a chair, at rest
 lying on the back, at rest
 crouching low, in a natural candid moment

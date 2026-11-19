@@ -4,7 +4,7 @@ A black tailcoat with a white shirt and a white bow tie, striped trousers, black
 A black waistcoat with a tastevin on a chain, black trousers, polished shoes, the full outfit of a sommelier in a masculine cut
 A blazer with a lanyard, trousers, shoes, the full outfit of a museum guide in a masculine cut
 A blouse with a bow and a cardigan, trousers, court shoes, the full outfit of a secretary in a masculine cut
-A branded polo and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide in a masculine cut
+A branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide in a masculine cut
 A canvas apron over a shirt, jeans, a flat cap, trainers, the full outfit of a barista in a masculine cut
 A cardigan and a lanyard, trousers, shoes, the full outfit of a bookseller in a masculine cut
 A cardigan with a chain of glasses, trousers, shoes, the full outfit of a librarian in a masculine cut
@@ -43,7 +43,7 @@ A person dressed as a stockbroker in a masculine cut (1980s), which is a pinstri
 A person dressed as a supermarket cashier in a masculine cut (shop), with a polo shirt with an apron, trousers and trainers, tailored in a masculine cut with a straight waist
 A person dressed as a sushi chef in a masculine cut (Japan), which is a white happi coat and a hachimaki headband, trousers, a headband and sandals, in a masculine cut with a roomy chest and shoulders
 A person dressed as a teacher in a masculine cut (school), which is a tweed jacket with chalk-dusted elbow patches, trousers and shoes, tailored in a masculine cut with a straight waist
-A person dressed as a tour guide in a masculine cut (city), which is a branded polo and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders
+A person dressed as a tour guide in a masculine cut (city), which is a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders
 A person dressed as a waiter in a masculine cut (restaurant), which is a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, in a masculine cut with a roomy chest and shoulders
 A person dressed as an office worker in a masculine cut (1960s), with a short sleeve shirt and thin tie with a pocket protector, trousers and shoes, cut for a masculine frame with broad shoulders
 A pinstripe suit with braces and a loud tie, suit trousers, polished shoes, the full outfit of a stockbroker in a masculine cut
@@ -81,7 +81,7 @@ a bartender in a masculine cut (cocktail bar), wearing a waistcoat with sleeve g
 a bartender in a masculine cut, dressed in a waistcoat with sleeve garters over a white shirt with trousers
 a bookseller in a masculine cut (shop), in a cardigan and a lanyard and trousers and shoes
 a bookseller in a masculine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, tailored in a masculine cut with a straight waist
-a bookseller in a masculine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, tailored in a masculine cut with a straight waist and carrying a stack of books
+a bookseller in a masculine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, tailored in a masculine cut with a straight waist and carrying a stack of books with "__name_book_title_any__" in small gold capitals on the top spine, the other spines plain
 a bookseller in a masculine cut, dressed in a cardigan and a lanyard with trousers
 a butler in a masculine cut (stately home), in a black tailcoat with a white shirt and a white bow tie and striped trousers and black shoes
 a butler in a masculine cut (stately home), wearing a black tailcoat with a white shirt and a white bow tie, striped trousers and black shoes, cut for a masculine frame with broad shoulders
@@ -153,7 +153,7 @@ a postmaster in a masculine cut, dressed in a double-breasted jacket with trouse
 a professor in a masculine cut (university), in a flowing academic gown with a hood and a mortarboard
 a professor in a masculine cut (university), in a flowing academic gown with a hood and shoes
 a professor in a masculine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a masculine cut with a straight waist
-a professor in a masculine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a masculine cut with a straight waist and carrying a book
+a professor in a masculine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a masculine cut with a straight waist and carrying a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain
 a professor in a masculine cut, dressed in a flowing academic gown with a hood
 a road crossing guard in a masculine cut (road), in a high-visibility coat and a cap
 a road crossing guard in a masculine cut (road), in a high-visibility coat and trousers and shoes
@@ -190,11 +190,11 @@ a teacher in a masculine cut (school), in a tweed jacket with chalk-dusted elbow
 a teacher in a masculine cut (school), wearing a tweed jacket with chalk-dusted elbow patches, trousers and shoes, tailored in a masculine cut with a straight waist
 a teacher in a masculine cut (school), wearing a tweed jacket with chalk-dusted elbow patches, trousers and shoes, tailored in a masculine cut with a straight waist and carrying chalk
 a teacher in a masculine cut, dressed in a tweed jacket with chalk-dusted elbow patches with trousers
-a tour guide in a masculine cut (city), in a branded polo and a flag and a sun hat
-a tour guide in a masculine cut (city), in a branded polo and a flag and shorts and trainers
-a tour guide in a masculine cut (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders
-a tour guide in a masculine cut (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders and carrying a flag
-a tour guide in a masculine cut, dressed in a branded polo and a flag with shorts
+a tour guide in a masculine cut (city), in a branded polo with "__name_brand_upper__" on the chest and a flag and a sun hat
+a tour guide in a masculine cut (city), in a branded polo with "__name_brand_upper__" on the chest and a flag and shorts and trainers
+a tour guide in a masculine cut (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders
+a tour guide in a masculine cut (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders and carrying a flag
+a tour guide in a masculine cut, dressed in a branded polo with "__name_brand_upper__" on the chest and a flag with shorts
 a waiter in a masculine cut (restaurant), in a white shirt with a black waistcoat and a bow tie and black trousers and black shoes
 a waiter in a masculine cut (restaurant), wearing a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, in a masculine cut with a roomy chest and shoulders
 a waiter in a masculine cut (restaurant), wearing a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, in a masculine cut with a roomy chest and shoulders and carrying a tray

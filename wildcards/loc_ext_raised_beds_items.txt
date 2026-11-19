@@ -3,5 +3,5 @@ seedlings in modules waiting to go in
 a watering can
 labels reading "__loc_text_plant__"
 twine
-a bag of compost split open
+a bag of compost printed "__name_brand_upper__ COMPOST" __text_look_print__ split open
 slug traps

@@ -1,6 +1,6 @@
 a travelcard being touched to a reader
-a paper ticket
+a paper ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
 a map in a frame
 a busker's case beyond the gates
-a free newspaper in a bin
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the page a large photo, in a bin
 a station assistant's lanyard

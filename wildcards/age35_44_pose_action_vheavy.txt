@@ -226,7 +226,7 @@ sitting on a rock, in a deliberate posed moment
 standing with hands on hips
 laughing with a friend, while looking away
 reaching forward, while looking into the distance
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 bending forward
 sitting on the edge of a bed, in a relaxed way
 standing with hands in pockets, with graceful posture
@@ -281,7 +281,7 @@ drinking from a cup, with focus
 brushing hair aside, while glancing at the camera
 holding a mug with both hands
 sitting on a curb, in mid-motion
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 perching on a stool, in a natural candid moment
 leaning on a table, with focus
 standing with feet apart, with a slight smile
@@ -353,7 +353,7 @@ reading aloud
 leaning on a counter
 sitting at a table
 perching on a stool, with quiet confidence
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 eating, in a deliberate posed moment
 talking on the phone, while looking into the distance
 arms raised in celebration, with energy

@@ -44,7 +44,7 @@ a boxy armoured suit
 a boxy silver suit made of panels
 a braided jacket with a fur-trimmed pelisse
 a braided tunic with a plume
-a branded polo and a flag
+a branded polo with "__name_brand_upper__" on the chest and a flag
 a brass-buttoned waistcoat with goggles and gears
 a brass-plated chest with gears
 a brass-studded coat
@@ -214,7 +214,7 @@ a hooded leather jerkin
 a hooded long robe
 a hoodie with circuit patterns
 a hooped jersey with a padded collar
-a hot dog costume with a sandwich board
+a hot dog costume with a sandwich board reading "HOT DOGS __name_price__"
 a huge ball gown with a tiara
 a huge flowered dress with a bonnet
 a huge furry suit

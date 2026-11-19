@@ -1,12 +1,12 @@
 a wet towel on the heated rail beside the sign reading "__loc_text_towel__"
 a phone charger plugged in and about to be forgotten
-a room service menu with a thumbprint on the breakfast page
-a shopping bag from a shop in this city
-a boarding pass on the desk
+a room service menu headed "IN-ROOM DINING" in gold print with a thumbprint on the breakfast page
+a shopping bag printed "__name_brand_upper__" in bold black print from a shop in this city
+a boarding pass printed "BOARDING PASS __name_town__" in small black print, the rest of the pass plain white, on the desk
 a hanger with a skirt clip
 a do-not-disturb card
 a slipper half under the bed
-a receipt
+a receipt printed "__text_receipt__" __text_look_receipt__, the rest of the strip plain
 a travel adaptor
 a child's toy
 a curtain gap that will not close

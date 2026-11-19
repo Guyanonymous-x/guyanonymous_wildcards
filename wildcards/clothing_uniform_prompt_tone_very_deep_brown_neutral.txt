@@ -3,7 +3,7 @@ A blouse with a bow and a cardigan, a pencil skirt, court shoes, the full outfit
 A bodysuit with a cape, a mask, boots, the full outfit of a superhero, with very deep brown skin
 A boxy armoured suit, a robot helmet, boots, the full outfit of a giant robot, with very deep brown skin
 A braided jacket with a fur-trimmed pelisse, tight breeches, a shako, tall boots, the full outfit of a Napoleonic hussar, with very deep brown skin
-A branded polo and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide, with very deep brown skin
+A branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide, with very deep brown skin
 A brocade coat with a sash, trousers, a turban, slippers, the full outfit of a Persian court musician, with very deep brown skin
 A bulbous inflatable dinosaur suit, a dinosaur head, the full outfit of an inflatable dinosaur costume wearer, with very deep brown skin
 A dark blue tunic with a kepi, blue trousers, a kepi, black boots, the full outfit of a gendarme, with very deep brown skin
@@ -28,7 +28,7 @@ A heat-resistant apron and sleeves, trousers, boots, the full outfit of a glassb
 A heavy embroidered kaftan with a fur collar, a large turban with a jewel, slippers, the full outfit of an Ottoman sultan, with very deep brown skin
 A high-visibility jacket and gloves, work trousers, boots, the full outfit of a refuse collector, with very deep brown skin
 A hooded cloak over a patched suit, a breathing mask, boots, the full outfit of a void wanderer, with very deep brown skin
-A hot dog costume with a sandwich board, shoes, the full outfit of a walking sandwich board seller, with very deep brown skin
+A hot dog costume with a sandwich board reading "HOT DOGS __name_price__", shoes, the full outfit of a walking sandwich board seller, with very deep brown skin
 A huge flowered dress with a bonnet, a gaudy wig, boots, the full outfit of a pantomime dame, with very deep brown skin
 A leather harness, a short kilt, a crested helmet, sandals, the full outfit of a Roman gladiator, with very deep brown skin
 A leopard-print singlet, boots, the full outfit of a strongman, with very deep brown skin
@@ -434,7 +434,7 @@ a mutant wanderer (wasteland), in a ragged cloak over a tattered shirt and a hoo
 a necromancer (fantasy), in a tattered black robe with bone clasps and a hooded cloak and boots, with very deep brown skin
 a neon street samurai, dressed in a glowing trench coat with trousers, with very deep brown skin
 a news anchor (studio), wearing a tailored jacket and blouse or shirt and tie and shoes, with very deep brown skin
-a newspaper vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots and carrying a stack of papers, with very deep brown skin
+a newspaper vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots and carrying a stack of papers, the top front page headed "__name_newspaper__" with "__text_headline__" __text_look_headline__, the rest of the page one large photo, with very deep brown skin
 a ninja (cosplay), in a black wrap tunic and a hood and mask, with very deep brown skin
 a ninja clan leader (anime-inspired), in a dark robe with a mask and scarf and trousers and sandals, with very deep brown skin
 a nun (convent), wearing a long habit with a veil, a wimple and veil and sandals, with very deep brown skin
@@ -557,7 +557,7 @@ a zombie nurse (horror), wearing a blood-stained nurse's dress and a cap, with v
 an Amazon warrior, dressed in a leather breastplate with arm guards with a short skirt, with very deep brown skin
 an American Civil War infantry soldier (1860s), wearing a wool sack coat, wool trousers, a kepi and brogans and carrying a musket, with very deep brown skin
 an American football player (gridiron), in a jersey over shoulder pads and a helmet with a facemask, with very deep brown skin
-an Anglican vicar (village church), wearing a black cassock with a white surplice and black shoes and carrying a bible, with very deep brown skin
+an Anglican vicar (village church), wearing a black cassock with a white surplice and black shoes and carrying a bible with "HOLY BIBLE" in gold letters on the cover, the rest of the cover plain, with very deep brown skin
 an Army field medic (modern military), in camouflage combat shirt with a red cross patch and body armour and a helmet with a red cross, with very deep brown skin
 an Ayurvedic practitioner (South Asia), wearing a white kurta with a shoulder cloth, a dhoti and leather sandals and carrying a small pouch of herbs, with very deep brown skin
 an Edwardian suffragette (1900s), wearing a tailored jacket with a sash, a long skirt, a hat and boots, with very deep brown skin

@@ -1,6 +1,6 @@
 a boarding card
 a foot passenger's rucksack
-a car deck ticket on a windscreen
-a timetable
+a car deck ticket printed "LANE __name_number_small__" in large black print on a windscreen
+a timetable reading "__text_departure__" __text_look_paper_notice__, the rest of the sheet plain white
 a coffee cup
-a notice about dangerous goods
+a notice about dangerous goods headed "DANGEROUS GOODS" in bold red print

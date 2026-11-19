@@ -3,9 +3,9 @@ a surface plate
 a comb plate
 a blanking plate
 a l plate
-a license plate
+a license plate reading "__name_initials__ __name_number_small__" in black stamped letters on white
 a csc plate
-a name plate
+a name plate reading "__name_surname__" __text_look_brass__
 a boot print pattern worn into plate
 a trade plate
 a bridge plate
@@ -14,7 +14,7 @@ a single plate
 a cracked plate
 a fruit plate
 a cheese plate
-a registration plate
+a registration plate reading "__name_initials__ __name_number_small__" in black capitals on white
 a hot plate
 an original cast maker's plate
 a maker's plate
@@ -32,18 +32,18 @@ a scuffed tread plate
 a biscuit plate
 a collection plate
 a lock plate
-a lock number plate
+a lock number plate reading "LOCK __name_number_small__" in white letters on a black cast plate
 a cameras reading plate
-a grouse butt's number plate
-a grouse butt number plate
+a grouse butt's number plate reading "__name_number_small__" in white painted numerals
+a grouse butt number plate reading "__name_number_small__" in white painted numerals
 a pressure plate
 a gait plate
 an environmental monitoring plate
 a walkway plate
-a car number plate
+a car number plate reading "__name_initials__ __name_number_small__" in black capitals on white
 a cut plate
 a broken plate
-a number plate
+a number plate reading "__name_initials__ __name_number_small__" in black capitals on white
 a tender shoveling plate
 a stove flue going up through flashed plate
 a compostable plate
@@ -64,13 +64,13 @@ an original tank's riveted floor plate
 an exposed riveted tank plate
 a tank plate
 a polished bell plate
-a postcard plate
+a postcard plate reading "GREETINGS FROM __name_town__" in bright capitals
 a wrong finger plate
 a damper plate
 plates
 a plate under the bed
 the comb plate
-a registration plate on a stand
+a registration plate reading "KR51 TDM" in black letters on a white plate on a stand
 a plate with toast crumbs under the bed
 a plate with crumbs
 a plate of pastries reduced to the almond ones
@@ -107,19 +107,19 @@ the plate set flush in the road with its edge gaps
 a pair of L plates
 the L plates in the parking lot
 a set of L plates leaning in a corner
-a license plate on the rear
-a grouse butt number plate with the screw missing
+a license plate reading "__name_initials__ __name_jersey_number__" in black stamped characters on a white plate on the rear
+a grouse butt number plate reading "__name_number_small__" in white painted numerals with the screw missing
 a pressure plate or gait mat
 a gait plate set into the floor in some rooms
 environmental monitoring plates
 a walkway plate over a drainage channel
 a boot print pattern worn into the plate at the valve stations only
-a car number plate from a vehicle driven too late
+a car number plate reading "KR51 TDM" in black letters on a yellow plate from a vehicle driven too late
 cut plate stacked
 stacks of plate
 a boot print pattern worn into the plate at one station
 a boot print pattern worn into the plate at the pulpit
-a number plate on the ground with the screws still in it
+a number plate reading "KR51 TDM" in black letters on a yellow plate on the ground with the screws still in it
 the tender shoveling plate behind
 a plate half buried
 a plate with a fork on it on top of a stack
@@ -127,7 +127,7 @@ a set of plates in a cupboard with a retaining rail
 the stove flue going up through a flashed plate in the canvas
 a set of four plates in a rack
 a stack of compostable plates
-a license plate fixed inside by regulation
+a license plate reading "__name_initials__ __name_jersey_number__" in black stamped characters on a white plate fixed inside by regulation
 L plates
 the blanked door release plate
 a set of trade plates
@@ -172,7 +172,7 @@ a CSC plate
 the CSC plate and shipping number left on the outside
 a maker's plate kept and polished
 a chassis plate and a V5 showing the vehicle's new body type
-a chassis plate and a V5 registration document reclassified to a motor caravan
+a chassis plate and a V5 registration document reclassified to a motor caravan, headed "VEHICLE REGISTRATION CERTIFICATE" in red print, the rest of the sheet plain
 a stitch plate and a bolted connection at each corner being made up by two operatives from a hop-up inside the corridor void
 a stitch plate with the paint scraped at the bolt holes
 a plate of bread and cheese that converts the drinking into something else

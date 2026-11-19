@@ -142,7 +142,7 @@ standing at a window, with a slight smile
 climbing steps
 standing on a balcony, with quiet confidence
 relaxed standing weight-shifted pose
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 standing with weight on one leg, while glancing at the camera
 cooking, at rest
 standing upright
@@ -455,7 +455,7 @@ perching on a stool, with graceful posture
 standing in a doorway frame, with energy
 jogging, with graceful posture
 perching on a table edge, with a calm air
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 watering plants, with a calm air
 sleeping
 leaping
@@ -496,5 +496,5 @@ bending forward
 pulling a suitcase, in mid-motion
 running fast with windblown hair
 standing at a window
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 reading a map, with energy

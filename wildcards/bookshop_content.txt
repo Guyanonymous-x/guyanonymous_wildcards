@@ -1,11 +1,11 @@
-fashion magazines with glossy cover portraits
-celebrity gossip magazines in loud colors
-sports magazines with action shots
-car magazines with gleaming cars
-cooking magazines with steaming dishes
-gaming magazines with bright art
-science magazines with planets and cells
-travel magazines with turquoise beaches
+fashion magazines with glossy cover portraits and mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures
+celebrity gossip magazines in loud colors and mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures
+sports magazines with action shots and mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures
+car magazines with gleaming cars and mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures
+cooking magazines with steaming dishes and mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures
+gaming magazines with bright art and mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures
+science magazines with planets and cells and mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures
+travel magazines with turquoise beaches and mastheads reading "__name_magazine__" __text_look_print__ above the cover pictures
 news weeklies with stern photographs
 puzzle books
-hardback novels with bold jackets
+hardback novels with bold jackets titled "__name_book_title_any__" __text_look_print__

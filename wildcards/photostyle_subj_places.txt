@@ -51,7 +51,7 @@ a cinema foyer with a candy counter
 an empty theater with red velvet seats
 a backstage corridor lined with costumes
 a circus tent at night
-a funfair with the lights on and no one riding
+a funfair with the lights on and the rides empty
 a ghost train entrance at a seaside pier
 a seaside pier stretching into fog
 a boardwalk with closed arcades in winter
@@ -98,8 +98,8 @@ a Hindu temple with oil lamps
 a Shinto shrine with red torii gates
 a synagogue interior with stained glass
 a tiny white chapel on a hill
-a cemetery with leaning headstones
-a war memorial with poppies
+a cemetery with leaning headstones reading "__text_headstone__" __text_look_carved_stone__
+a war memorial carved "__text_memorial__" __text_look_carved_stone__ with poppies
 a mausoleum with marble statues
 a museum gallery with a single bench
 a natural history museum with dinosaur bones
@@ -176,7 +176,7 @@ a railway platform in the countryside
 a railway yard with idle locomotives
 a level crossing in fog
 a metro station with tiled walls
-a subway car with no passengers
+an empty subway car
 a bus station with rows of buses
 a tram stop on a hill
 a highway interchange from above

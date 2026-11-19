@@ -1,26 +1,26 @@
 a card
-a birthday card
-a business card
+a birthday card reading "HAPPY BIRTHDAY" in gold script, the rest of the card plain
+a business card printed "__name_surname__ LOCKSMITHS __name_phone__" in bold black print
 a playing card
-a name card
+a name card reading "__name_first__" in bold black print
 a key card
 a laminated card
 a request card
 a safety card
 a laminated procedure card
 a numbered card
-a calling card
-a membership card
+a calling card reading "__name_first_world__ __name_surname_world__" in fine engraved script, the rest of the card plain
+a membership card reading "MEMBER __name_first__ __name_surname__" __text_look_print__, the rest of the card plain
 a memorial card
 a christmas card
 a dance card
 a good-luck card
 a route card
-a menu card
+a menu card reading "__text_price_line__" in neat black print, the rest of the card plain
 a do-not-disturb card
 a treatment card
 a recipe card
-a handwritten card
+a handwritten card reading "__text_note__" in neat black ink
 a thank-you card
 a tracer card
 a fare card
@@ -29,8 +29,8 @@ a tachograph card
 a bunk card
 a wine bin card
 a get-well card
-an index card
-a place card
+an index card reading "__text_note__" __text_look_handwriting__
+a place card reading "__name_first__" in looping black script
 a staff recommendation card
 a signature card
 a memory card
@@ -49,7 +49,7 @@ a laminated role card
 a donor card
 a laminated route card
 a breakfast order card
-a laminated name card
+a laminated name card reading "__name_first__" in bold black print
 a parking card
 a ferry boarding card
 a phrase card
@@ -67,7 +67,7 @@ a family ration card
 a gym card
 a house rule card
 a printed card
-a laminated menu card
+a laminated menu card reading "__text_price_line__" __text_look_print__
 a picture card
 a capture card
 a meter reading card
@@ -88,12 +88,12 @@ a sizing card
 a loyalty card
 a gift card
 a greeting card
-a handwritten shelf card
+a handwritten shelf card reading "STAFF PICK" in neat black ink
 a trading card
-a handwritten divider card
+a handwritten divider card reading "A - F" in neat black ink
 a change card
 a prescription card
-a sold sticker applied slightly crooked across window card
+a sold sticker reading "SOLD" in white capitals on red applied slightly crooked across window card
 a luck card
 a swipe card
 a player card
@@ -105,7 +105,7 @@ a recording caution card
 a biometric scanner's instruction card
 a crumpled landing card
 a florist's card
-an identity card
+an identity card printed "IDENTITY CARD" with "__name_first_world__ __name_surname_world__" in small black print
 a framed contrition card
 a fuel card
 a boarding card
@@ -118,13 +118,13 @@ a tide table card
 a plot number card
 a get well card
 a hand-drawn card
-a decorated name card
+a decorated name card reading "__name_first__" in bold marker capitals
 a laminated fasting instruction card
 a condolence card
 a record card
 a laminated script card
 a tide-table card
-a hand-written index card
+a hand-written index card reading "__text_note__" __text_look_handwriting__
 a painted title card
 a title card
 a worn role card
@@ -135,8 +135,8 @@ a hand-written visit card
 a key safe code card
 a destination card
 a penciled breakfast card
-a timetable card
-a handled menu card
+a timetable card reading "__text_departure__" in small black print
+a handled menu card headed "MENU" in gold script, with "__text_price_line__" below in black print, the rest of the card plain
 a life jacket demonstration card
 a juice line down door card
 a charging network card
@@ -149,7 +149,7 @@ an identification card
 a crease worn through briefing card
 a laminated rest rotation card
 a laminated water briefing card
-a handwritten knee card
+a handwritten knee card reading "ATIS 127.8 RWY 27" in pencil
 a procedure card
 a pilot card
 a ballpoint-backed sprayout card
@@ -167,7 +167,7 @@ a parcel-room notification card
 a parcel card
 an information card
 an eleven card
-a furry name card
+a furry name card reading "__name_first__" in bold marker capitals
 a phonics card
 a laminated prompt card
 a desk card
@@ -175,10 +175,10 @@ a cloudy spoon card
 playing cards
 a card from a grandchild
 name cards reading names such as "__name_person__"
-business cards
+business cards reading "__name_first__ __name_surname__" in neat black print, the rest of each card plain
 a card from the hospital
 a card left by a meter reader
-place cards
+place cards reading "__name_first__" in looping black script, the rest of each card plain
 cards
 key cards
 dance cards
@@ -189,22 +189,22 @@ a laminated card on the wall giving the unit number
 printed cards on stands giving material
 a card propped against a candlestick
 a card from a grandchild on the mantelpiece
-calling cards in a tray
-a calling card in a tray with a corner turned down
+calling cards engraved "__name_first__ __name_surname__" in fine engraved script in a tray
+a calling card engraved "__name_first__ __name_surname__" in fine engraved script in a tray with a corner turned down
 a card with the wifi password
 a card propped on a sill
-index cards
+index cards reading "__text_note__" in neat black ink handwriting
 a card or key meter in some
 a card propped on the mantel
 a card propped on the mantel from a birthday that has passed
 cards and flowers from visitors
 a card propped on a shelf
 a card left by a meter reader who could not get access
-a birthday card still standing on a desk three weeks later
-a leaving card in an envelope being passed round quietly
-a stack of business cards in a plastic holder
+a birthday card reading "HAPPY BIRTHDAY" in gold script still standing on a desk three weeks later
+a leaving card in an envelope with "__name_first__" in blue marker on the front being passed round quietly
+a stack of business cards printed "__name_first__ __name_surname__" in black print, the rest of each card plain white, in a plastic holder
 a laminated card of rebuttals curling at the corner
-a stack of business cards
+a stack of business cards printed "__name_first__ __name_surname__" in black print, the rest of each card plain white
 a staff card for payment
 prayer intention cards in a box
 intention cards in many hands
@@ -213,13 +213,13 @@ prayer request cards and a pen
 request cards in many hands
 color cards
 a stock card in a bin
-a birthday card pinned to a noticeboard
-a birthday card propped on the shelf
+a birthday card reading "HAPPY BIRTHDAY" in gold script pinned to a noticeboard
+a birthday card propped on the shelf, reading "HAPPY BIRTHDAY" in gold script across the front, the rest of the card plain
 do-not-disturb card
 safety card dropped in
 a safety card dropped in
 password card
-a birthday card propped against a vase
+a birthday card reading "HAPPY BIRTHDAY" in gold looping letters on the front propped against a vase
 a Christmas card from a customer
 a key card dropped on the carpet
 a room key card in a towel
@@ -228,15 +228,15 @@ a dance card with three names, "__name_first__", "__name_first__" and "__name_fi
 recipe cards
 a recipe card with a splash on it
 a do-not-disturb card hung and forgotten
-a birthday card from the team
+a birthday card reading "HAPPY BIRTHDAY" in gold looping letters on the front from the team
 loyalty cards
 gift cards
-staff recommendation cards in handwriting
-greeting cards
-handwritten shelf cards
-a staff recommendation card in handwriting with a drawing on it
+staff recommendation cards reading "STAFF PICK __name_book_title_any__" in handwriting
+greeting cards reading "HAPPY BIRTHDAY" and "THANK YOU" in gold looping letters
+handwritten shelf cards reading "FICTION" and "POETRY"
+a staff recommendation card reading "STAFF PICK __name_book_title_any__" in handwriting with a drawing on it
 trading cards
-a handwritten divider card with a joke on it
+a handwritten divider card reading "JAZZ ETC" with a joke on it
 cards on a spike
 a card from a bouquet dropped on the floor
 a recipe card for a customer who asked
@@ -250,12 +250,12 @@ a card with an appointment written on it
 a card from a patient
 a memorial card pinned behind reception
 signature cards
-business cards in boxes
+business cards printed "__name_first__ __name_surname__ __name_phone__" in small black print in boxes
 memory cards
-a memory card in a sleeve with a scribbled number
+a memory card in a sleeve with a scribbled number "__name_number_small__" in black marker
 memorial cards
 a card in the window gone yellow because the property has not sold
-a SOLD sticker applied slightly crooked across a window card
+a SOLD sticker reading "SOLD" in white capitals on red applied slightly crooked across a window card
 accession cards
 accession cards in successive hands over a century
 a good-luck card propped against a lighting stand
@@ -269,7 +269,7 @@ player cards on lanyards
 a player's card on a lanyard hanging from a machine
 hint cards
 a hint card dropped on the floor
-calling cards
+calling cards reading "__name_first_world__ __name_surname_world__" in fine engraved script, the rest of each card plain
 a dance card with three names, "__name_first__", "__name_first__" and "__name_first__", written on it
 a card from a retirement
 name cards reading names such as "__name_person__" from a previous meeting
@@ -278,44 +278,44 @@ a funeral director's card on the desk
 a date-stamped withdrawal card in older stock
 landing cards
 a landing card dropped
-a handwritten card on a wreath
-a handwritten card in a plastic sleeve with the ink run
+a handwritten card reading "__text_memorial__" in neat black ink on a wreath
+a handwritten card reading "__text_memorial__" in neat black ink in a plastic sleeve with the ink run
 a card from the florist
 a florist's card still in its plastic holder
 a memorial card from a previous service in the seat pocket
-the identity card that accompanies the coffin through every stage
-a birthday card at a niche
+the identity card printed "IDENTITY CARD" with "__name_first_world__ __name_surname_world__" in small black print that accompanies the coffin through every stage
+a birthday card at a niche, reading "HAPPY BIRTHDAY" in gold script, the rest of the card plain
 a card of the act of contrition in a frame screwed to the wall at kneeling eye height
 a card of the act of contrition screwed to the wall and set at 1,050 mm
 a repair card on a locomotive's cab
 repair cards
-a birthday card on a console ledge
-a congratulations card on the noticeboard from a passed candidate
+a birthday card reading "HAPPY BIRTHDAY" in gold looping letters on the front on a console ledge
+a congratulations card reading "THANK YOU" in gold looping letters on the noticeboard from a passed candidate
 an RFID card
 a laminated instruction card in the yellow phone box gone yellow itself
 a laminated incident card with a coffee ring
 a Christmas card from a customer pinned in the mess
-a birthday card in a plastic sleeve gone cloudy
+a birthday card reading "HAPPY BIRTHDAY" in gold looping letters on the front in a plastic sleeve gone cloudy
 a thank-you card propped on a shelf
 appointment cards
 a Christmas card from a patient's family still clipped to the visor in March
 a request card with a smudged barcode
 a Get Well card in a handbag
-a card with children's handwriting in it
+a card reading "Get well soon" with children's handwriting in it
 a card from a workplace
 a hand-drawn card from a grandchild
 the decorated name card reading "__name_first__"
 a card from a family member
-a birthday card on a noticeboard
+a birthday card reading "HAPPY BIRTHDAY" in gold looping letters on the front on a noticeboard
 the tracer cards
 tracer cards in several hands
 a tracer card in three different hands
 a card with the person's name, "__name_person__"
 a card with the person's name, "__name_person__", written by a staff member in careful handwriting
 a card propped on the windowsill
-a card propped on the sill with a child's handwriting in it
+a card reading "Love you more" propped on the sill with a child's handwriting in it
 a card on the sideboard
-a birthday card from last month still standing on the sideboard
+a birthday card reading "HAPPY BIRTHDAY" in gold looping letters on the front from last month still standing on the sideboard
 a condolence card half written and turned face-down
 a card half written
 a bundle of triage cards on a loop of string
@@ -328,19 +328,19 @@ a card taped where it cannot be seen by its recipient
 a record card in a wooden drawer
 a playing card in a locker
 a tide-table card pinned up
-a hand-written index card with a correction
+a hand-written index card reading "SILVER DENARIUS" with a correction
 prayer cards
 a sample card pinned to a post with the colors faded unevenly
 a route card with a thumb-mark on one corner
 a card of instructions
 a card on each describing the reel inside
 the painted title cards
-a birthday card from 2009 still standing
+a birthday card reading "HAPPY BIRTHDAY" in gold looping letters on the front from 2009 still standing
 a card on the mantel
 a card on the mantel from a birthday that has passed
 a laminated role card at each position
 a laminated role card with a corner curled from thumbing
-a hand-written card taped inside the door giving the next visit date in a hand that has stamped books for twenty years
+a hand-written card taped inside the door giving the next visit date "NEXT VISIT TUESDAY" in a hand that has stamped books for twenty years
 the hand-written next-visit card taped inside the door
 a pile of donor cards
 a donor card with the name "__name_person__" on it left on a couch arm
@@ -353,8 +353,8 @@ a reservation card left behind
 a breakfast order card hung on the door handle
 a key card on the ledge
 a breakfast order card hung on the outside door handle with the boxes ticked in pencil
-a timetable card behind the mirror
-a menu card with a corner softened by handling
+a timetable card headed "TIMETABLE" with "__text_departure__" below in black print, the rest of the card plain, behind the mirror
+a menu card headed "MENU" in gold script, with "__text_price_line__" below in black print, the rest of the card plain, with a corner softened by handling
 a life jacket demonstration card in a frame
 a key card on the shelf
 a key card left in the door slot
@@ -386,16 +386,16 @@ a safety briefing card in a pocket
 a safety briefing card in a seat pocket with a crease worn through
 identification cards
 a crease worn through a briefing card
-a menu card with a corner torn off
+a menu card headed "MENU" in gold script, with "__text_price_line__" below in black print, the rest of the card plain, with a corner torn off
 a laminated card of the rest rotation
 a laminated rest rotation card at the entrance with names such as "__name_first__" and times written in wipe-clean marker
 the rotation card in wipe-clean marker
 a laminated water briefing card that passengers actually read
-the handwritten card on the knee board
+the handwritten card reading "__text_note__" in black marker on the knee board
 a shift rotation card taped to a bulkhead with names such as "__name_surname__" in marker
 a laminated procedure card with the two steps that matter most highlighted and the laminate gone cloudy at that fold
 procedure cards
-a pilot card and a wheelhouse poster laminated and screwed to the bulkhead
+a pilot card headed "PILOT CARD" in black print and a wheelhouse poster headed "TURNING CIRCLES" in black print above a printed diagram laminated and screwed to the bulkhead
 the ballpoint-backed sprayout cards in a filing box
 a workshop card in a holder
 a workshop approval card in a holder on the wall with the renewal date circled
@@ -416,13 +416,13 @@ the cards and the camera
 a family ration card and a registration slip in a pouch
 a family ration card and registration slip in a pouch
 the gym card kept for the shower
-a membership card or a password written on a slip
-a membership card or a password on a slip
+a membership card printed "MEMBER" in gold letters or a password "SWORDFISH" written on a slip
+a membership card reading "MEMBER __name_number_small__" in white print or a password on a slip
 a card of eight to twelve bouts assembled in the fortnight before and changed on the day
 a parcel-room notification card on the mat
 information cards on stands
-a laminated menu card under the glass listing varieties
-a laminated menu card under the counter glass listing varieties
+a laminated menu card reading "__text_price_line__" in black print under the glass listing varieties
+a laminated menu card reading "__text_price_line__" in black print under the counter glass listing varieties
 house rule cards
 seat cards
 a card rolled into a door jamb
@@ -441,4 +441,4 @@ a picture card for *spoon* so handled that the laminate has gone cloudy and the 
 card and object trays
 the picture card for *spoon* worn cloudy
 the cloudy *spoon* card
-the index cards in three hands
+the index cards reading "CHAPTER 3" and "CHECK SOURCES" in three hands

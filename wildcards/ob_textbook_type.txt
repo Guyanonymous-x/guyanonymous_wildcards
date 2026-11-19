@@ -1,4 +1,4 @@
-a textbook
-an unopened textbook
-a stack of textbooks on a shelf with the class set number written on each spine
-a textbook with its class set number inked on the spine and a different number crossed out beneath it
+a textbook titled "__name_book_title_any__" in bold capitals on the cover
+an unopened textbook titled "INTRODUCTION TO ECONOMICS" in bold print on the cover
+a stack of textbooks on a shelf with the class set number "__name_number_small__" written on each spine in black marker
+a textbook with its class set number "__name_number_small__" inked on the spine and a different number "__name_number_small__" crossed out beneath it

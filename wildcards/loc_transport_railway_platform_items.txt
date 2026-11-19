@@ -1,8 +1,8 @@
 a suitcase
-a newspaper
+a newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a coffee cup on a bench
 a dropped glove
 a cigarette end beyond the line
 a bicycle
 a platform number sign reading "Platform __name_number_small__"
-a customer information screen
+a customer information screen reading "__text_departure__" __text_look_dotmatrix__, the rest of the screen dark

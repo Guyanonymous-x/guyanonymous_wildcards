@@ -1,8 +1,8 @@
-a newspaper left open
+a newspaper left open at a page headed "__text_headline__" __text_look_headline__
 a crossword part done
 a phone on charge
 a lunchbox
-a magazine
+a magazine titled "__name_magazine__" __text_look_print__ across the cover, the rest of the cover plain
 a deck of cards
 a kettle
-a staff notice about the microwave
+a staff notice about the microwave reading "PLEASE CLEAN THE MICROWAVE" in black marker, the rest of the sheet plain white

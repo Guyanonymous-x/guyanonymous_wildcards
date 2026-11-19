@@ -4,7 +4,7 @@ a rucksack under a seat
 a coffee cup in a holder with a lid
 a safety card in a seat pocket
 a crew member's handheld radio
-a newspaper
+a newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a child's tablet
 a water bottle
 a pair of earphones

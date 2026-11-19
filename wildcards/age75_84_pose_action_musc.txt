@@ -3,7 +3,7 @@ bending to pick something up, with focus
 sitting at a desk
 pulling a suitcase, in mid-motion
 sitting forward with elbows on knees
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 lying on the back
 sitting on a rock, in a deliberate posed moment
 standing with hands in pockets, with graceful posture
@@ -60,7 +60,7 @@ stepping off a curb, with a casual attitude
 standing at a doorway, in mid-motion
 leaning on a fence, in a relaxed way
 laughing with a friend, in mid-motion
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 praying, while looking away
 stretching the arms overhead, in a relaxed way
 reading aloud, with careful balance
@@ -139,7 +139,7 @@ drinking from a cup, with careful balance
 sitting on the floor, while looking away
 carrying a box
 reaching up, with quiet confidence
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 reaching up, in a deliberate posed moment
 sleeping, in a relaxed way
 sitting on a windowsill, while glancing at the camera

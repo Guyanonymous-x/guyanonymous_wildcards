@@ -1,27 +1,27 @@
-a magazine
-a regimental magazine
-a planning magazine
+a magazine titled "__name_magazine__" __text_look_print__ across the cover, the rest of the cover plain
+a regimental magazine titled "THE REGIMENTAL JOURNAL" in dark blue capitals, the rest of the cover plain
+a planning magazine with "__name_magazine__" across the cover in bold capitals
 an eight cartridge magazine
 a cartridge magazine
-magazines
-a magazine from a dentist's waiting room
-a magazine from two years ago
-a magazine from eighteen months ago
-a magazine left for the next person
-a magazine from years ago
-a magazine from months ago
-a planning magazine from two years ago
-magazines of uncertain age
-a magazine from four years ago
-a magazine on a side table
-a magazine in the waiting area
-a magazine with the crossword filled in by three people
-a magazine from three months ago on a day room table
-a magazine folded under a seat
-a magazine from the seat pocket
-a magazine folded at a page
-a magazine that somebody has done the crossword in with a borrowed pen
-a magazine from 2019 on the chair
-a magazine from 2019 on the waiting chair that has been read by four hundred people
+magazines with "__name_magazine__" __text_look_print__ across the covers, the rest of each cover plain
+a magazine with "__name_magazine__" across the cover in bold masthead letters from a dentist's waiting room
+a magazine with "__name_magazine__" __text_look_print__ across the cover, the rest of the cover a large photo, from two years ago
+a magazine with "__name_magazine__" __text_look_print__ across the cover, the rest of the cover a large photo, from eighteen months ago
+a magazine with "__name_magazine__" across the cover in bold masthead letters left for the next person
+a magazine with "__name_magazine__" across the cover in bold masthead letters from years ago
+a magazine titled "__name_magazine__" in large bold letters across the cover from months ago
+a planning magazine from two years ago, titled "PLANNING" in large bold letters, the rest of the cover plain
+magazines with "__name_magazine__" across the covers in bold masthead letters, of uncertain age
+a magazine with "__name_magazine__" across the cover in bold masthead letters, the rest of the cover plain, from four years ago
+a magazine with "__name_magazine__" across the cover in bold masthead letters, the rest of the cover plain, on a side table
+a magazine with "__name_magazine__" across the cover in bold masthead letters, the rest of the cover plain, in the waiting area
+a magazine with "__name_magazine__" across the cover in bold masthead letters with the crossword filled in by three people
+a magazine with "__name_magazine__" across the cover in bold masthead letters, the rest of the cover plain, from three months ago on a day room table
+a magazine with "__name_magazine__" __text_look_print__ across the cover, the rest of the cover a large photo, folded under a seat
+a magazine with "__name_magazine__" __text_look_print__ across the cover, the rest of the cover a large photo, from the seat pocket
+a magazine with "__name_magazine__" __text_look_print__ across the cover, the rest of the cover a large photo, folded at a page
+a magazine with "__name_magazine__" __text_look_print__ across the cover, the rest of the cover a large photo, that somebody has done the crossword in with a borrowed pen
+a magazine titled "__name_magazine__" in large bold letters across the cover from 2019 on the chair
+a magazine titled "__name_magazine__" in large bold letters across the cover from 2019 on the waiting chair that has been read by four hundred people
 eight cartridge magazines of japanned tin stenciled with a name, "__name_surname__"
 cartridge magazines

@@ -103,7 +103,7 @@ bending to tie a shoe, in a deliberate posed moment
 sitting at a desk, with a casual attitude
 standing with hands on hips, while glancing at the camera
 striding briskly
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 leaning on a railing, while looking away
 leaning against brick wall
 sitting on a low wall
@@ -248,7 +248,7 @@ standing at a window, at rest
 sitting upright formal posture
 adjusting a hat, with energy
 drinking from a cup, with focus
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 hugging the knees
 walking toward the camera, in a relaxed way
 sitting on a swing, with quiet confidence
@@ -399,7 +399,7 @@ standing with hands in pockets, in a deliberate posed moment
 reading a map, while glancing at the camera
 lying on the stomach, with graceful posture
 standing in a doorway frame, with a casual attitude
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 talking on the phone, while looking into the distance
 stepping off a curb, with a casual attitude
 sitting cross-legged on floor

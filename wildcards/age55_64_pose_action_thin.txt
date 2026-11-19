@@ -203,7 +203,7 @@ talking on the phone, while looking into the distance
 sitting on a rock, in a deliberate posed moment
 playing guitar, with a slight smile
 standing with feet apart, at rest
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 doing a yoga pose
 hugging the knees, with a calm air
 sitting on the floor, with a calm air
@@ -334,7 +334,7 @@ leaning on a car
 reaching up, in a deliberate posed moment
 leaning against a doorframe, with a sense of ease
 sitting on a windowsill, with energy
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 lying on the side, in a natural candid moment
 playing piano, with focus
 standing with weight on one leg, with quiet confidence
@@ -379,7 +379,7 @@ jogging, with graceful posture
 standing on a balcony, while glancing at the camera
 resting a head on a hand, with energy
 hands behind the back, with quiet confidence
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 descending steps
 perching on a table edge, in mid-motion
 hands behind the back

@@ -1,4 +1,4 @@
-no outlines, shapes only
+shapes meeting edge to edge, shapes only
 implied edges defined only by color changes
 selective outlines on key edges only
 outline-only drawing

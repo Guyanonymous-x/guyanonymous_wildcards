@@ -4,8 +4,8 @@ a projector screen
 a privacy screen
 a fly screen
 a large screen
-a menu screen
-a departure screen
+a menu screen showing "__text_price_line__" __text_look_screen__
+a departure screen reading "__text_departure__" __text_look_dotmatrix__, the rest of the screen dark
 a clear-view screen
 a glazed screen
 a projection screen
@@ -21,7 +21,7 @@ a slatted screen
 a wall-mounted screen
 a folding screen
 a shower screen
-a flight information screen
+a flight information screen showing "__text_departure__" __text_look_screen__
 a tower screen
 a pop-up screen
 a sliding screen
@@ -32,7 +32,7 @@ a terminal screen
 a yield monitor screen
 a display screen
 a bulkhead screen
-a bay status screen
+a bay status screen reading "BAY __name_number_small__ IN PROGRESS" __text_look_screen__
 a replacement screen
 a draft screen
 a low folding screen
@@ -56,8 +56,8 @@ a ride photo screen
 a hemispherical dome screen
 an interpretation screen
 a rood screen
-a customer information screen
-an information screen
+a customer information screen reading "__text_departure__" __text_look_dotmatrix__, the rest of the screen dark
+an information screen showing "__text_screen__" __text_look_screen__
 a call screen
 an imaging screen
 a dispatch screen
@@ -77,7 +77,7 @@ a scanner screen
 a front screen
 a dozen screen
 a gps guidance screen
-a flight computer screen
+a flight computer screen reading "ALT 1,200 FT" __text_look_screen__
 a balancer screen
 a smeared balancer screen
 a hanging screen
@@ -100,9 +100,9 @@ a screen or projector
 a screen for privacy
 screen
 shower screen
-menu screens
-flight information screens at intervals
-departure screens
+menu screens showing "__text_price_line__" __text_look_screen__
+flight information screens showing "__text_departure__" __text_look_dotmatrix__, the rest of the screens dark at intervals
+departure screens showing "__text_departure__" __text_look_dotmatrix__
 six display screens
 projector screen or large panel
 a chair turned toward a different screen
@@ -137,9 +137,9 @@ the glazed screen with its tray
 a screen for photographs
 a rood screen or its surviving base across the chancel arch
 a tower screen of glazed oak
-a tower screen with a bat-droppings tray on the sill behind it and a laminated notice stating that the bats are a protected species and must not be disturbed
+a tower screen with a bat-droppings tray on the sill behind it and a laminated notice headed "PROTECTED SPECIES" __text_look_paper_notice__, stating that the bats are a protected species and must not be disturbed
 a screen for images
-information screens
+information screens showing "__text_departure__" __text_look_screen__
 large screens
 a call screen or audio system announcing names such as "__name_person__"
 the lead screen with its small window
@@ -149,7 +149,7 @@ lead screens on arms
 a lead screen on an arm between operator and patient
 a dispatch screen or radio on the mess wall
 pop-up screens on wheels
-pop-up screens and signage
+pop-up screens and signage reading "__text_sign_english__" __text_look_print__
 a screen on a frame
 mobile screens on frames
 a glazed screen at one end against wind
@@ -191,13 +191,13 @@ a projector screen for the film
 a projector screen at the front of the main cabin for a single film everybody watched at once
 a clear-view screen on the center pane
 a clear-view screen on the center pane only
-the bay status screen in red
+the bay status screen showing "BAY 3 READY" in red
 a balancer screen with a smear across the weight-position display
 a job timer screen on the wall
 a job timer screen on the wall counting the minutes against a standard time
 a screen with a burn hole in it at elbow height
 hanging screens on a rail
-a stack of replacement screens in branded boxes
+a stack of replacement screens in branded boxes printed "__name_brand_upper__" in white letters
 a stack of replacement screens in boxes with the grades written on, original
 a screen and battery stock with grade distinctions
 a privacy screen on wheels
@@ -207,8 +207,8 @@ a fly screen of mesh over the food end
 a fly screen of mesh over the food preparation end
 the improvised mesh fly screen
 the sliding screen
-menu screens with percentages on them
-a menu screen with one dead pixel column
+menu screens reading "__text_price_line__ THC 18%" __text_look_screen__ with percentages on them
+a menu screen reading "__text_price_line__" __text_look_screen__ with one dead pixel column
 a smoking-room screen with a smeared patch at hand height on the door
 a screen on castors wheeled across the inner door in winter
 a fire screen with a scorch mark on the back
@@ -238,7 +238,7 @@ a projection screen with a crease across its lower third from being wound crooke
 projection screens
 a wall-mounted screen with a short-throw projector on a bracket
 a wall screen and short-throw projector
-a desk screen with a layer of index cards pinned to it in three different hands
+a desk screen with a layer of index cards reading "__text_note__" pinned to it in three different hands
 a sofa facing a wall-mounted screen
 the lifted desk lid used as a screen
 four low folding screens on castors covered in hessian

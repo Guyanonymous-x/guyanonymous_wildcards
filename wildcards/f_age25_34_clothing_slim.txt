@@ -52,7 +52,7 @@ a dark navy sundress with an emerald green blazer and flat sandals
 a knee-length pencil skirt suit with a silk blouse and ballet flats
 a jet black plaid tea dress and loafers
 a fitted stone textured cotton crop top with black leggings and wedge sandals
-summer festival look with a band t-shirt and fringed accessories
+summer festival look with a band t-shirt printed "__name_band__" and fringed accessories
 an aqua floral-print maxi dress and knee-high boots
 a relaxed-fit off-white jersey v-neck t-shirt with soft white cotton shorts
 a relaxed-fit washed black cotton fleece sweatshirt with brick red tailored trousers and black sneakers
@@ -387,7 +387,7 @@ a relaxed-fit dark navy cotton long-sleeve tee with charcoal leggings under a bl
 a royal blue midi dress and espadrilles
 a cropped caramel cotton crew-neck t-shirt with golden yellow midi skirt and canvas sneakers
 an oversized black cotton tank top with mid-wash straight-leg jeans under an oatmeal fleece jacket and ballet flats
-teacher in semi-casual attire with glasses and a book
+teacher in semi-casual attire with glasses and a book titled "__name_book_title_any__" in gold on a plain cover
 a faded white sundress
 a relaxed-fit marled grey cotton crew-neck t-shirt with faded blue straight-leg jeans and canvas sneakers
 a relaxed-fit dove grey striped chunky-knit oversized sweater with dark indigo denim skirt and flat sandals
@@ -661,7 +661,7 @@ a jet black fine-knit cardigan with black leggings under a cobalt blue puffer ja
 a jumpsuit and loafers
 a bright white striped midi dress with a dove grey cardigan and leather ankle boots
 a loose white floral-print soft cotton crew-neck t-shirt with bright white cargo pants and white sneakers
-a spirited cheer outfit featuring a tank top with a dynamic logo, a mini skort, and two-tone pom-poms
+a spirited cheer outfit featuring a tank top with a dynamic logo reading "__name_team__" __text_look_print__, a mini skort, and two-tone pom-poms
 a sand t-shirt dress with an olive green wool coat and ballet flats
 a fitted caramel oxford cotton button-up shirt with faded black tailored trousers and slip-on shoes
 a cobalt blue shirt dress

@@ -1,5 +1,5 @@
-a record sleeve left out beside the player
-a coffee-table book opened once
+a record sleeve printed "__name_band__" in bold white letters left out beside the player
+a coffee-table book titled "__name_book_title_any__" in large white letters on its cover opened once
 a glass with a wine ring on a coaster beside it rather than on it
 a laptop sleeping on the sofa arm
 a basket of blankets with one pulled out
@@ -8,5 +8,5 @@ a plant that has outgrown its pot
 a candle burnt unevenly
 a cushion on the floor
 a dog's toy
-a receipt used as a bookmark
+a receipt reading "__text_receipt__" __text_look_receipt__ used as a bookmark
 a cable tidy that has failed

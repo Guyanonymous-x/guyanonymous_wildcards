@@ -4,7 +4,7 @@ a ring flash wrapping the face in even, shadowless light with doughnut-shaped ca
 soft north-facing window light that falls off quickly into velvety shadow on the far side of the face, cool gentle gradient, subtle blue-grey tones, smooth skin, a quiet intimate painterly mood
 classic painterly three-quarter lighting with a small inverted triangle of light on the shadowed cheek, dark background, warm key from high at one side, deep shadow on the other, a dramatic contemplative mood
 low raking sidelight skimming across surfaces and exaggerating every texture, long thin shadows behind every bump and grain, bright ridges against dark hollows, a tactile gritty mood
-flat overcast daylight with no visible shadows, even, grey and quietly democratic, soft low contrast, muted colours, evenly lit faces and walls, a plain neutral documentary mood
+flat overcast daylight with soft light wrapping evenly around everything, even, grey and quietly democratic, soft low contrast, muted colours, evenly lit faces and walls, a plain neutral documentary mood
 blue-hour ambient light mixed with warm tungsten glowing from windows, deep blue sky and shadows against small orange-yellow lit rooms, soft balanced exposure, a calm twilight mood
 orange sodium-vapor streetlight casting a sickly monochrome glow over wet asphalt, everything tinted amber-orange, deep black shadows, glossy reflections, a lonely seedy nocturnal mood, slick reflections on the road
 buzzing overhead fluorescent tubes giving skin a faint green cast, flat cool top light, sallow complexions, faint shadows under brows and chins, drab institutional walls, an uneasy sterile mood
@@ -21,13 +21,13 @@ classic clamshell beauty lighting, a broad soft source above and a reflector bel
 a hard theatrical spot creating a sharp-edged pool of light on a dark stage, bright circle on the floor, performer glowing within, black surrounds, a focused dramatic mood
 a single bare bulb hanging overhead, harsh top light and deep eye sockets, sharp shadows beneath nose and chin, a small bright pool on the floor, dim bare room, a bleak interrogation-like mood
 dappled light filtering through leaves, scattering coins of brightness across the scene, shifting soft-edged spots over skin and ground, green-tinted shade, a dreamy summery mood
-night flash exploding out of total darkness, revealing startled faces and nothing beyond, hard white light, red eyes, harsh shadows on nearby walls, black background, a raw chaotic party snapshot mood
+night flash exploding out of total darkness, revealing startled faces against pure black, hard white light, red eyes, harsh shadows on nearby walls, black background, a raw chaotic party snapshot mood
 dim available light in a cramped interior, pushed film and murky shadows, coarse grain, low contrast brown-grey tones, soft smeared highlights, a gritty documentary mood
 bright snow-reflected light bouncing up from below, soft and luminous, shadows filled and lifted, cool white glow under chins and hat brims, squinting faces, a clean bright wintry mood
 butterfly lighting from directly above and in front, a small shadow under the nose, glowing forehead and cheekbones, shadowed hollows beneath the cheeks and chin, a glamorous old-cinema mood
 eerie underlighting from below the chin, upward shadows across eyes and nose, glowing chin and lips, a dark ceiling, a spooky campfire-story mood and a pale ghostly face
 gelled colored strobes, one red and one teal, painting opposite sides of the subject, vivid split colour on face and clothing, dark background, a club-like cinematic mood
-a subject silhouetted against a bright sky or window, completely without detail, solid black shape with crisp outline, glowing blown-out background, a graphic mysterious mood
+a subject silhouetted against a bright sky or window, completely dark and featureless, solid black shape with crisp outline, glowing blown-out background, a graphic mysterious mood
 flash bounced off a low ceiling, soft and slightly yellow, even gentle light on faces, soft shadows beneath chins, warm interior tones, a casual party-photo mood
 a narrow slit of light falling across eyes in an otherwise dark frame, a bright band across the upper face, the rest in deep shadow, a mysterious tense cinematic mood
 storm light breaking through heavy cloud and spotlighting a single patch of land, a bright golden pool in a dark landscape, steel-blue cloud above, dramatic contrast, an epic mood
@@ -67,7 +67,7 @@ light through a striped awning casting bars of shadow across a cafe table, warm 
 sun through a chain-link fence throwing a diamond grid of shadows onto a body, repeating crisp lattice pattern on skin and ground, hard bright light, a gritty urban mood
 sun glinting through a gap between skyscrapers, a sudden slab of gold in a dark canyon, deep blue-grey shadow around, strong lens flare, glowing glass and steel, a dramatic city mood
 the last sliver of sun on the top floors of buildings while the street is in shadow, glowing orange upper facades, dim blue streets below, a strong vertical contrast, a fleeting dusk mood
-eclipse-dim daylight, eerie and colorless, flat grey-blue light, strange sharp thin shadows, dulled landscape, a hushed unnatural mood with no warmth in the sky and a muted, quiet scene
+eclipse-dim daylight, eerie and colorless, flat grey-blue light, strange sharp thin shadows, dulled landscape, a hushed unnatural mood with a cold, pale sky and a muted, quiet scene
 the bruised yellow-green light before a thunderstorm, sickly glowing sky, dark clouds, saturated vivid greens, odd flat illumination, a tense ominous mood and heavy low clouds
 a lightning flash freezing a landscape in a white instant, harsh bright blue-white light, stark shadows, glowing cloud, frozen rain streaks, a dramatic stark mood
 headlamps of a miners helmet cutting through underground darkness, narrow white beams, dusty air glowing, rough rock walls in sharp relief, black surroundings, a claustrophobic gritty mood
@@ -145,7 +145,7 @@ the glow of a bonfire on a beach at night with stars overhead, orange faces and 
 light reflected off a cars chrome bumper onto a face, a hot bright glint, sharp white spots, metallic cool flare, dark body panels, a roadside summer mood
 the shimmering light of a swimming pool reflected under a diving board, moving blue-green ripple patterns, bright netlike lines on concrete, cool turquoise glow, a lazy summer mood
 an aquarium tank glowing blue in a dark room, cool soft aqua light on walls and faces, moving ripples, drifting fish silhouettes, a calm hypnotic mood
-city glow on a cloudy night lighting the landscape a dull orange, low clouds glowing, dark ground, soft muted sodium tones, no stars, a gloomy urban mood
+city glow on a cloudy night lighting the landscape a dull orange, low clouds glowing, dark ground, soft muted sodium tones, a solid cloud cover overhead, a gloomy urban mood
 starlight only, a very long exposure revealing faint ghostly detail, deep blue-black sky full of stars, softly lit landscape, grainy shadows, a silent cosmic mood
 moonlight on water, a silver path to the horizon, glittering ripples, dark sky, cool blue tones, soft silhouettes, a peaceful romantic mood on black water
 the strobe of a police light painting a street red and blue, alternating colour on walls, faces and wet asphalt, hard flashes, deep shadows, a tense urgent mood
@@ -197,5 +197,5 @@ a wall of lit windows in an apartment block at night, glowing yellow, orange and
 the twinkle of distant city lights below a dark hillside, scattered golden points, black slopes, soft bokeh, deep blue sky, a quiet romantic mood and faint haze overhead
 sunrise light hitting only the tops of trees above a misty valley, glowing golden crowns, blue shadowed mist below, soft layers, a serene awakening mood
 a solar-eclipse glow, a thin ring of brilliance around darkness, a black disc with white corona, deep blue sky, strange dim light, an awed eerie mood
-soft light at dusk from a pale sky with no sun visible, even gentle illumination, lavender and grey tones, faint shadows, a quiet fading mood
+soft light at dusk from a pale sky after the sun has set, even gentle illumination, lavender and grey tones, faint shadows, a quiet fading mood
 light glinting off a single tear on a cheek, a tiny bright highlight, soft skin, shallow focus, gentle window light, a tender emotional mood against a soft out-of-focus face

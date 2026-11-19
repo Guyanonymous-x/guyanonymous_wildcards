@@ -1,8 +1,8 @@
-a small business card with a printed name and number
+a small business card with a printed name and number reading "__name_first__ __name_surname__" and "__name_phone__" in neat black print, the rest of the card plain
 a stack of cards held with a clip
-an index card full of handwriting
-a luggage label with a string
+an index card full of handwriting, the lines reading "__text_note__"
+a luggage label reading "__name_first__ __name_surname__" __text_look_handwriting__ with a string
 a library card in a pocket
-a membership card with a photograph slot
+a membership card with a photograph slot, printed "MEMBER __name_number_small__" __text_look_print__, the rest of the card plain
 a boxed pack of plain cards
-a place card on a stand
+a place card reading "__name_first__" __text_look_handwriting__, the rest of the card plain on a stand

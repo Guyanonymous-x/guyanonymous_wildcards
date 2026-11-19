@@ -6,5 +6,5 @@ a soil sample bag with a field name, "__name_town__", on it in marker
 a dropped glove
 a flask in a tractor cab
 a bale string
-a crisp packet from a passing car
+a crisp packet printed "__name_brand_upper__" __text_look_print__ from a passing car
 a dead rabbit

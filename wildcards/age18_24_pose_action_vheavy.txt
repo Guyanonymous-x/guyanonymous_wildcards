@@ -26,7 +26,7 @@ shrugging, with a casual attitude
 reading a map, with graceful posture
 sitting cross-legged
 sitting on steps, with a casual attitude
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 laughing with a friend, while looking away
 carrying a box
 bending to tie a shoe
@@ -111,7 +111,7 @@ standing on a balcony
 sitting cross-legged, while glancing at the camera
 lying propped on an elbow, at rest
 typing on a laptop
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 standing with hands on hips
 standing at a window, while looking away
 standing with hands in pockets, in a deliberate posed moment
@@ -212,7 +212,7 @@ standing at a doorway
 carrying an umbrella
 kneeling on both knees, with careful balance
 sitting on a curb, in mid-motion
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 standing rigid motionless posture
 riding a scooter, in a relaxed way
 reading a map, while glancing at the camera

@@ -1,5 +1,5 @@
 a single large hall with a sprung or boarded floor marked for badminton
 a kitchen behind a serving hatch
-a noticeboard of bookings
+a noticeboard of bookings, with a sheet headed "HALL BOOKINGS" __text_look_paper_notice__, __text_rest_plain__
 heaters that are inadequate
-a war memorial plaque or a foundation stone recording the hall's origin
+a war memorial plaque reading "__text_memorial__" __text_look_brass__ or a foundation stone recording the hall's origin

@@ -32,7 +32,7 @@ playing piano
 sitting on a curb
 hugging the knees, with energy
 hands behind the head
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 reading aloud, with careful balance
 lying on the back
 stretching the arms overhead
@@ -100,7 +100,7 @@ pointing, in a natural candid moment
 twirling, while looking away
 perching on a stool, in a natural candid moment
 leaning forward resting on railing
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 stretching the arms overhead, with graceful posture
 reclining in a chair
 lying on the back, with a casual attitude
@@ -416,7 +416,7 @@ riding a scooter
 arms raised in celebration
 standing with feet apart, at rest
 reading a map
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 crouching low in dynamic athletic pose
 standing with arms crossed
 jogging

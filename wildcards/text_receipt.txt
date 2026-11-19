@@ -1,0 +1,25 @@
+THANK YOU COME AGAIN
+TOTAL __name_price__
+CASH __name_price__ CHANGE __name_price__
+COFFEE __name_price__ TOTAL __name_price__
+PAID
+PAID IN FULL
+INVOICE 2047
+INVOICE 0193 DUE IN 30 DAYS
+SUBTOTAL __name_price__ TAX __name_price__
+APPROVED
+CUSTOMER COPY
+MERCHANT COPY
+ORDER 58
+TABLE 6
+GUESTS 2
+__name_trade_corp__
+KEEP FOR YOUR RECORDS
+REFUND __name_price__
+TIP __name_price__
+BALANCE DUE __name_price__
+RECEIVED WITH THANKS
+DELIVERY NOTE 7731
+PACKING SLIP
+ITEMS 3
+VISA APPROVED

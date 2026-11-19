@@ -1,4 +1,4 @@
-envelopes
+envelopes addressed to "__name_first__ __name_surname__" in blue ballpoint handwriting
 parcels
 stamps on a sheet
 packing tape
@@ -10,4 +10,4 @@ bubble wrap
 mail sacks
 rubber bands
 tracking slips
-a queue ticket
+a queue ticket reading "NUMBER __name_number_small__" in bold black print, the rest of the ticket plain

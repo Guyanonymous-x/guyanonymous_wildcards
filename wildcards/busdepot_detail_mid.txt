@@ -1,4 +1,4 @@
 mechanics' pits
-timetable boards
-ticket kiosks
+timetable boards reading "__text_departure__" __text_look_dotmatrix__
+ticket kiosks with signs reading "TICKETS" __text_look_backlit__
 __busdepot_detail_any__

@@ -49,7 +49,7 @@ a maker's name inside case
 a hard case
 a document case
 a picnic case
-a cassette case
+a cassette case with an insert reading "__name_band__" in black ink
 a padded case
 a borescope case
 a torque screwdriver case
@@ -81,7 +81,7 @@ refrigerated deli case
 refrigerated fish case
 -fronted neta case
 the case of fish at the chef's elbow
-a busker's case with a few coins and a handwritten sign
+a busker's case with a few coins and a handwritten sign reading "THANK YOU" __text_look_marker__
 a busker's open case with a few coins
 rolling cases
 a rolling case with a wheel that squeaks audibly down the whole pier
@@ -125,11 +125,11 @@ a sample case in the boot
 a sample case in the boot with the foam insert cut out for one missing item
 a chart case with a pencil sharpened at both ends
 a map case with fire maps and radio frequencies
-a map case with radio frequencies written on the inside of the lid because they change with the incident
-a cassette case in the door pocket with a hand-written label and a tape that has been eaten once and spliced
+a map case with radio frequencies "121.5" and "123.45" in black marker written on the inside of the lid because they change with the incident
+a cassette case in the door pocket with a hand-written label reading "__name_band__" and a tape that has been eaten once and spliced
 the padded case for a profile gauge
 a reverently-handled borescope case
-a torque screwdriver case with a calibration label and a next-due date
+a torque screwdriver case with a calibration label and a next-due date reading "CALIBRATED NEXT DUE __name_year__" in black print on a white sticker
 the slip gauge case with a note inside the lid
 the lockers holding regulars' chip cases
 instrument cases

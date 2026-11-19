@@ -1,5 +1,5 @@
 six seats a row either side of a single aisle
-a seat pocket with a safety card and a magazine
+a seat pocket with a safety card and a magazine with "__name_magazine__" __text_look_print__ across the cover, the rest of the cover a large photo
 an overhead bin along both sides
 a seatbelt sign reading "__loc_text_notice__"
 a drinks trolley in the aisle

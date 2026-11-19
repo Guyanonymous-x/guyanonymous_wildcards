@@ -1,7 +1,7 @@
-a paperback
-a paperback with a boarding card as a bookmark
-a paperback with salt swollen pages
+a paperback titled "__name_book_title_any__" __text_look_print__, the rest of the cover plain
+a paperback titled "__name_book_title_any__" in bold print on the cover with a boarding card as a bookmark
+a paperback titled "__name_book_title_any__" in bold print on the cover with salt swollen pages
 a paperback with the cover off from being read by everybody
-a paperback with the cover curled by salt air
+a paperback titled "__name_book_title_any__" in bold print on the cover with the cover curled by salt air
 a paperback with the cover off
-a paperback on the window ledge
+a paperback with the title "__name_book_title_any__" __text_look_print__ on the cover, the rest of the cover a painted scene, on the window ledge

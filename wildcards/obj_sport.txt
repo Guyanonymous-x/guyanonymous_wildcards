@@ -13,7 +13,7 @@ a baseball bat and glove, blue, antique with a patina
 a baseball bat and glove, matte black, wet with rain
 a baseball bat and glove, rainbow-coloured, restored to showroom finish
 a basketball, blue, hand-made and slightly uneven
-a basketball, burgundy, decorated with stickers
+a basketball, burgundy, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a basketball, pastel, covered in mud
 a bicycle helmet, purple, heavily worn and scratched
 a bouldering wall, grey, battered but working
@@ -37,7 +37,7 @@ a curling stone, neon, covered in frost
 a curling stone, pastel, battered but working
 a curling stone, red, antique with a patina
 a dartboard, cream, well used with light wear
-a dartboard, green, decorated with stickers
+a dartboard, green, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a dartboard, matte black, antique with a patina
 a dartboard, orange, covered in mud
 a dartboard, purple, wrapped in protective cover
@@ -56,7 +56,7 @@ a fencing foil, gold, covered in mud
 a fencing foil, neon, hand-made and slightly uneven
 a football, black, wrapped in protective cover
 a football, brown, freshly polished
-a football, teal, decorated with stickers
+a football, teal, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a frisbee, copper, heavily worn and scratched
 a frisbee, cream, battered but working
 a frisbee, matte black, dusty from storage
@@ -71,7 +71,7 @@ a gymnastics beam, rainbow-coloured, battered but working
 a gymnastics beam, red, faded by sun
 a gymnastics beam, white, freshly polished
 a gymnastics beam, white, heavily worn and scratched
-a hockey stick and puck, burgundy, decorated with stickers
+a hockey stick and puck, burgundy, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a hockey stick and puck, green, covered in mud
 a hockey stick and puck, navy, well used with light wear
 a hockey stick and puck, olive, battered but working
@@ -79,7 +79,7 @@ a hockey stick and puck, olive, restored to showroom finish
 a hockey stick and puck, pink, hand-made and slightly uneven
 a hockey stick and puck, pink, heavily worn and scratched
 a hockey stick and puck, rainbow-coloured, wrapped in protective cover
-a hurdles set, brown, decorated with stickers
+a hurdles set, brown, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a hurdles set, chrome, restored to showroom finish
 a hurdles set, cream, dusty from storage
 a hurdles set, matte black, freshly polished
@@ -90,9 +90,9 @@ a javelin, grey, hand-made and slightly uneven
 a javelin, pastel, heavily worn and scratched
 a javelin, pink, dusty from storage
 a javelin, two-tone, freshly polished
-a javelin, white, decorated with stickers
+a javelin, white, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a kettlebell, brown, dusty from storage
-a kettlebell, olive, decorated with stickers
+a kettlebell, olive, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a kettlebell, pink, covered in mud
 a kettlebell, purple, restored to showroom finish
 a kettlebell, rainbow-coloured, faded by sun
@@ -103,12 +103,12 @@ a lacrosse stick, striped, antique with a patina
 a luge, orange, hand-made and slightly uneven
 a paddle, brown, battered but working
 a paddle, rainbow-coloured, faded by sun
-a paddle, white, decorated with stickers
+a paddle, white, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a paddle, yellow, covered in frost
 a pair of skis, brown, faded by sun
 a pair of skis, green, freshly polished
 a pair of skis, green, hand-made and slightly uneven
-a pair of skis, olive, decorated with stickers
+a pair of skis, olive, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a pair of skis, silver, rusted at the edges
 a pair of skis, two-tone, restored to showroom finish
 a pole vault pole, olive, restored to showroom finish
@@ -122,12 +122,12 @@ a pool table with cues, cream, battered but working
 a pool table with cues, navy, hand-made and slightly uneven
 a pool table with cues, red, wrapped in protective cover
 a pool table with cues, two-tone, faded by sun
-a pool table with cues, yellow, decorated with stickers
+a pool table with cues, yellow, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a punching bag, burgundy, antique with a patina
 a punching bag, cream, covered in frost
 a punching bag, olive, restored to showroom finish
 a punching bag, red, brand new and spotless
-a punching bag, red, decorated with stickers
+a punching bag, red, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a rowing machine, cream, well used with light wear
 a rowing machine, green, hand-made and slightly uneven
 a rowing machine, pastel, battered but working
@@ -140,7 +140,7 @@ a sailing rig, gold, brand new and spotless
 a sailing rig, pastel, hand-made and slightly uneven
 a sailing rig, rainbow-coloured, covered in frost
 a sailing rig, speckled, faded by sun
-a sailing rig, teal, decorated with stickers
+a sailing rig, teal, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a sailing rig, two-tone, antique with a patina
 a skateboard, blue, heavily worn and scratched
 a skateboard, chrome, covered in frost
@@ -170,7 +170,7 @@ a trampoline, chrome, faded by sun
 a trampoline, matte black, battered but working
 a trampoline, neon, brand new and spotless
 a treadmill, blue, rusted at the edges
-a treadmill, burgundy, decorated with stickers
+a treadmill, burgundy, decorated with stickers reading "__name_brand_upper__" and "__name_merch_slogan__" in bright printed letters
 a treadmill, matte black, covered in frost
 a treadmill, two-tone, battered but working
 a volleyball, navy, wrapped in protective cover

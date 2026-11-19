@@ -1,7 +1,7 @@
 a tag
-a price tag
+a price tag reading "__text_price_tag__" in black print
 a numbered tag
-a graffiti tag
+a graffiti tag reading "__text_graffiti_word__" __text_look_graffiti__
 a scratched tag
 a dry-cleaning tag
 a security tag
@@ -13,55 +13,55 @@ a cleaning tag
 a rack inspection tag
 a reject tag
 a valve tag
-a handwritten price tag
-a nameplate tag
+a handwritten price tag reading "__name_price__" in black ink
+a nameplate tag reading "__name_first__" __text_look_stamped__
 a survey marker tag
 a barcoded hire tag
 a hire tag
 an inventory tag
 a cable drum tag
-a handwritten key tag
+a handwritten key tag reading "__name_street__" in neat black ink
 a hand-written key tag
 a serviceable tag
-graffiti tags
-a dry-cleaning tag on a hanger
+graffiti tags reading "__text_graffiti_word__" __text_look_graffiti__
+a dry-cleaning tag printed "4471" in black on a hanger
 valve tags
 tags
-a tag with a room number on it
-price tags
+a tag with a room number "214" in black marker on it
+price tags reading "__text_price_tag__" in black print
 security tags
 a tag left behind
-a numbered tag on a hook with nothing attached to it
-price tags on string
-the price tags on string
-handwritten price tags
-a price tag on string with the figure written three times and crossed out twice
+a numbered tag reading "__name_number_small__" in white on red plastic on a hook with nothing attached to it
+price tags reading "__text_price_tag__" in neat black ink handwriting on string
+the price tags reading "__name_price__" in black ink on string
+handwritten price tags reading "__text_price_tag__"
+a price tag on string with the figure "$40" written three times and crossed out twice
 nameplate tags reading names such as "__name_first__" on a rack
 claim tags
-a claim tag with a number and no garment
-graffiti tags at reachable height
+a claim tag reading "__name_number_small__47" in black print with a number and no garment
+graffiti tags reading "__text_graffiti_word__" __text_look_graffiti__ at reachable height
 a security tag with nothing attached
-a tag on a valve
-a survey marker tag on a cord
-a service tag with eight dates on it and a gap of nine years
+a tag reading "VALVE 12" in stamped letters on a valve
+a survey marker tag reading "STATION 7" in black marker on a cord
+a service tag reading "SERVICED __name_year__" in black marker with eight dates on it and a gap of nine years
 a tag left by a survey team
 barcoded hire tags
 hire tags from past productions still attached
-a coin bag tag on the floor of the vault
-a coin bag tag on the floor
-a scratched tag on the window glass in acid
-a scratched tag on glass
-a tag on the glass
+a coin bag tag reading "__name_price__ COINS" in black print on the floor of the vault
+a coin bag tag reading "__name_price__ COINS" in black print on the floor
+a scratched tag reading "__text_graffiti_word__" on the window glass in acid
+a scratched tag reading "__text_graffiti_word__" on glass
+a tag reading "__text_graffiti_word__" scratched on the glass
 a scratched tag in the door rubber
 a key tag in somebody's hand
 a cable drum tag in marker with four previous tour names crossed out above the current one, "__name_band__"
-handwritten key tags
+handwritten key tags reading "__name_initials__ __name_jersey_number__"
 hand-written key tags
-the serviceable tags on every part in the cage
-a tag on an engine
+the serviceable tags reading "SERVICEABLE" in black print on green on every part in the cage
+a tag reading "UNSERVICEABLE" in black print on red on an engine
 a tag and recall system so every instrument comes back on schedule
-a numbered tag on each phone and a corresponding number on a list
-the numbered tags on twenty identical phones
+a numbered tag reading "__name_number_small__" in black marker on each phone and a corresponding number on a list
+the numbered tags reading "1" to "20" in black marker on twenty identical phones
 numbered tags and a matching list
-a key tag with a number written by somebody in an office
+a key tag with a number "__name_number_small__" written by somebody in an office
 tags in five hands across three centuries

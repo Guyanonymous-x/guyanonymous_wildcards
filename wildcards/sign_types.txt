@@ -10,7 +10,7 @@ notice on a door
 box sign
 ship name board
 licence plate
-banner
+banner reading "__text_banner_festival__" __text_look_banner__
 shop window lettering
 brass nameplate
 roadside sign

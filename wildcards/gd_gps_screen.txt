@@ -1,6 +1,6 @@
 a bright colour map screen with a route line
 a small monochrome map
-a wide screen showing an arrow
+a wide screen showing an arrow and "__name_number_small__00 M" in white digits
 a screen with a compass
-a map with tiny roads and a pulse of light
-a touch screen with a menu
+a map with tiny roads labeled "__name_street__ RD" in small white print and a pulse of light
+a touch screen with a menu reading "NAVIGATE" __text_look_screen__

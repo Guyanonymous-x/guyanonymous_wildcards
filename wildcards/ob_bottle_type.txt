@@ -4,7 +4,7 @@ a hot water bottle
 a hand sanitizer bottle
 a milk bottle
 a hand gel bottle
-a medicine bottle
+a medicine bottle, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a spray bottle
 a shampoo bottle
 a gas bottle
@@ -16,7 +16,7 @@ an oil bottle
 a staff member's water bottle
 a condiment bottle
 a sample bottle
-a pill bottle
+a pill bottle labeled "__name_surname__ TAKE 1 DAILY" in small black print
 a small bottle
 a polish bottle
 a misting bottle
@@ -84,10 +84,10 @@ a water bottle with "__name_first__" written on it in marker
 squeeze bottles
 a bottle of water in a bracket
 a milk bottle with a note in it
-a bottle of sunscreen
+a bottle of sunscreen labeled "__name_brand_upper__ SPF 30" in white print on orange
 shampoo bottles
-a bottle of water untouched
-a bottle of hand gel in the cup holder
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ untouched
+a bottle of hand gel labeled "HAND GEL" __text_look_print__ in the cup holder
 a water bottle on a ledge
 a bottle of water in a holder
 a bottle of water in the door pocket
@@ -95,126 +95,126 @@ a bottle to urinate in
 a water bottle in a pocket
 empty bottles
 an empty bottle on a windowsill
-a bottle of gripe water
-medicine bottles and a dosing spoon
-a bottle of something cheap
+a bottle of gripe water labeled "GRIPE WATER" in blue print on white
+medicine bottles labeled "__name_surname__ TAKE 1 DAILY" in small black print and a dosing spoon
+a bottle of something cheap, labeled "__name_brand_upper__" in bold print
 a water bottle with the name "__name_first__" on it
-a bottle of softener with a drip crust
+a bottle of softener labeled "__name_brand_upper__" in blue print with a drip crust
 a spray bottle for creases
 wine bottles on their sides
 bottles on a stone thrall
 a wine bottle on its side with the label gone
-a bottle of sunscreen from two summers ago
+a bottle of sunscreen labeled "__name_brand_upper__ SPF 30" in white print on orange from two summers ago
 bottles and sterilizing equipment drying
 a bottle with a candle in it
-a dusty bottle of oil left by someone
+a dusty bottle of oil labeled "__name_brand_upper__" in gold print left by someone
 a milk bottle with the foil pecked by birds
 a bottle in a cooler
 a bottle in a cooler with the ice long gone
-a bottle of deck cleaner
-a bottle of sunscreen with the cap crusted
-a bottle of whisky given at Christmas
-a bottle of eye drops
-a bottle of antacid
-a bottle of water going warm
-a bottle of whisky in a bottom drawer
+a bottle of deck cleaner labeled "__name_brand_upper__" __text_look_print__
+a bottle of sunscreen labeled "__name_brand_upper__ SPF 30" in white print on orange with the cap crusted
+a bottle of whisky labeled "__name_brand_upper__ WHISKY" in gold print on a black label given at Christmas
+a bottle of eye drops labeled "__name_brand_upper__" in black print on a white label
+a bottle of antacid labeled "__name_brand_upper__" in black print on a white label
+a bottle of water labeled "__name_brand_upper__ WATER" in white letters on a blue label, going warm
+a bottle of whisky labeled "__name_brand_upper__ WHISKY" in gold print on a black label in a bottom drawer
 a water bottle left behind
-a bottle of screen wipes
-bottles of water on a stool
+a bottle of screen wipes labeled "__name_brand_upper__" in black print on a white label
+bottles of water labeled "__name_brand_upper__ WATER" in white letters on a blue label on a stool
 a water bottle under every third seat
 bottles and a cool bag
 a shampoo bottle on a shower ledge
-a small bottle of oil
+a small bottle of oil labeled "HOLY OIL" in neat black ink handwriting
 eye wash station bottles
-a bottle of distilled water with the label peeling
-a bottle of water that is not supposed to be in here
+a bottle of distilled water with the label reading "DISTILLED WATER" in blue print peeling
+a bottle of water labeled "__name_brand_upper__ WATER" in white letters on a blue label, that is not supposed to be in here
 a shampoo bottle with the lid missing
 the clutter of mismatched bottles
-a medicine bottle on a high shelf out of reach
+a medicine bottle labeled "__name_brand_upper__" in black print on a white label on a high shelf out of reach
 perfume bottles
-a bottle of something expensive bought in an airport
-a bottle of shower gel on the floor because the niche is full
-a bottle of eucalyptus oil with a drip down the side
+a bottle of something expensive labeled "__name_brand_upper__" in gold letters on a black label bought in an airport
+a bottle of shower gel labeled "__name_brand_upper__" __text_look_print__ on the floor because the niche is full
+a bottle of eucalyptus oil labeled "EUCALYPTUS OIL" in black print on a white label with a drip down the side
 oil bottles
-a bottle of energy drink on a window ledge
+a bottle of energy drink printed "__name_brand_upper__" in bold green letters on a window ledge
 a bottle of somebody's own oat milk with the name "__name_first__" on it
 liquor bottles
 bitters bottles
-a bottle of sunscreen on a bench
+a bottle of sunscreen labeled "__name_brand_upper__ SPF 30" in white print on orange on a bench
 condiment bottles
 a condiment bottle with the nozzle crusted
 wine bottles
-a bottle of ketchup that does not match the presentation
-a bottle of sunscreen with sand stuck to it
-a bottle of oil with a ring beneath it
-a bottle of beer in the changing room
+a bottle of ketchup labeled "KETCHUP" in white letters on a red label that does not match the presentation
+a bottle of sunscreen labeled "__name_brand_upper__ SPF 30" in white print on orange with sand stuck to it
+a bottle of oil labeled "__name_brand_upper__" in gold print with a ring beneath it
+a bottle of beer labeled "__name_brand_upper__" in gold print in the changing room
 water bottle
 a water bottle left on the tiled bench
 a eucalyptus oil bottle with a drip down the side
-a bottle of water at every third seat
+a bottle of water labeled "__name_brand_upper__" in blue print at every third seat
 a bottle in a corner
 a staff member's water bottle behind a till
 a staff member's water bottle under the counter
 aftershave bottles
 polish bottles in racks by color
-a polish bottle with its label worn
-a bottle of water for the client
-a bottle of oil with a ring on the shelf beneath it
-pill bottles
+a polish bottle with its label reading "POLISH" in faded red print worn
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ for the client
+a bottle of oil labeled "__name_brand_upper__" __text_look_print__ with a ring on the shelf beneath it
+pill bottles labeled "__name_first__ __name_surname__" __text_look_label__
 motor oil bottles
 a screenwash bottle on a shelf
-a bottle of water for the artist
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ for the artist
 a water bottle in the wings with "__name_first__" written on it in marker
 a water bottle with a name such as "__name_first__" on it on every surface
-a bottle of water under a chair
-a bottle of water on the floor
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ under a chair
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ on the floor
 bottles with sparklers in the booths
-a bottle of whisky
-a bottle of water from the complimentary stand
-a bottle of water left by a games master
+a bottle of whisky labeled "__name_brand_upper__" __text_look_print__
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ from the complimentary stand
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ left by a games master
 a water bottle at the briefing room door
 a fog machine fluid bottle in a corner
-a bottle of water for the actors
-a bottle of water and a chair in an actor's alcove behind a flat
-a bottle of water in the wings
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ for the actors
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ and a chair in an actor's alcove behind a flat
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in the wings
 a misting bottle on a trolley
 a water bottle at every barre
 a bottle of water with the label picked off
 a bottle of water with the name "__name_first__" written on it in marker
-a bottle of water for the registrar
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ for the registrar
 a water bottle at the edge
 a water bottle left by a drill instructor
-a bottle of screenwash
+a bottle of screenwash labeled "SCREENWASH" __text_look_print__
 a hand sanitizer bottle with a drip down the side
-a bottle of water half frozen
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ half frozen
 a water bottle left in a refuge by a track worker
-a bottle of water in the shade of a post
-a bottle of water gone warm
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in the shade of a post
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ gone warm
 a vaccine bottle in a cool bag
 a sun cream bottle with sand stuck to it
 a bottle in the reeds at the exact spot the wind puts everything
 a bottle in the cutting's drainage ditch
-a bottle of water in a cab
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in a cab
 a bottle in the footwell of a dumper cab with the label gone white
 a bottle in the margin
 a bottle and a bale-wrap corner caught on the barbed wire at the flood line
 a sun-bleached bottle in a rabbit scrape
 a bottle in the cliff-edge gorse
-a bottle of marker spray
-a squeezy bottle of brown sauce on the counter
+a bottle of marker spray labeled "__name_brand_upper__" __text_look_print__
+a squeezy bottle of brown sauce labeled "BROWN SAUCE" __text_look_print__ on the counter
 a squeezy sauce bottle with a crust round the nozzle
 a bottle of something yellow thrown from a cab window
 a bottle of urine thrown from a cab
 a hand gel bottle with a drip down the side
 blood bottles in color-coded tops
-a bottle of water outside the line
-a bottle of warmed gel
+a bottle of water labeled "__name_brand_upper__" in blue print outside the line
+a bottle of warmed gel labeled "ULTRASOUND GEL" in blue print
 the gel warmer's bottle half used
-a bottle of gel with the pump sticky
-a bottle of antiseptic
-a bottle of hand cream
+a bottle of gel labeled "ULTRASOUND GEL" in blue print with the pump sticky
+a bottle of antiseptic labeled "ANTISEPTIC" in green print on white
+a bottle of hand cream labeled "__name_brand_upper__" in gold print
 a water bottle with a straw
-a bottle of water with a straw
+a bottle of water labeled "__name_brand_upper__" in blue print with a straw
 blood bottles in color-coded tops ranked in a rack
 a water bottle in a net pocket
 an oxygen bottle in a frame
@@ -225,8 +225,8 @@ a hand-gel bottle in the cup holder with the pump sticky
 a hot water bottle in a knitted cover
 a hot water bottle in a cover knitted by somebody
 a chloroform bottle and a mask in the later versions
-a chloroform bottle with the label peeling
-medicine bottles
+a chloroform bottle with the label reading "CHLOROFORM" in black print peeling
+medicine bottles labeled "__name_surname__" in faded black print
 a bottle half full of something not water
 a water bottle left on a sill
 bottles stacked in bins
@@ -238,76 +238,76 @@ encrusted bottles
 a bottle with the cork still in
 a bottle with sand in the bottom
 a bottle caught on a stilt at the tide line
-a bottle of water in a net bag
+a bottle of water labeled "__name_brand_upper__" in blue print in a net bag
 a bottle with the glass gone cloudy
-a bottle of water with the label scorched
-a bottle of water in the shade
+a bottle of water with the label reading "SPRING WATER" in blue print scorched
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in the shade
 a bottle of water with the label sun-bleached white
 a bottle of something on a ledge
-bottles of red drink with straws
+bottles of red drink labeled "__name_brand_upper__" in white print with straws
 the bottles of red drink with straws inserted
-a bottle of ghee with the label scorched
+a bottle of ghee with the label reading "GHEE" in red print scorched
 a hot water bottle with a knitted cover gone thin
-a bottle of water outside the threshold
-a bottle of water on a ledge with the label scorched
-a bottle that came off the line and is kept on a windowsill because the label printed crooked
-a bottle of water wedged by the footboard
+a bottle of water labeled "__name_brand_upper__" in blue print outside the threshold
+a bottle of water on a ledge with the label reading "SPRING WATER" in blue print scorched
+a bottle that came off the line and is kept on a windowsill because the label, reading "__name_brand_upper__" in bold print, printed crooked
+a bottle of water labeled "__name_brand_upper__" in blue print wedged by the footboard
 chemical bottles
 a water bottle with a dust film
-a bottle of correcting fluid
-a bottle of water with the label half gone
-a bottle of water warm on one side
-a bottle of water with the label peeling in the heat
+a bottle of correcting fluid labeled "__name_brand_upper__" __text_look_print__
+a bottle of water with the label reading "SPRING" in blue print half gone
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ warm on one side
+a bottle of water with the label reading "SPRING WATER" in blue print peeling in the heat
 a water bottle in a net bag
 a water bottle with a salt rim on the cap
-a bottle of hand gel with the pump gone stiff
+a bottle of hand gel labeled "__name_brand_upper__" in blue print with the pump gone stiff
 a hand-gel bottle in the cup holder with the pump gone sticky
-a bottle of water in a net pocket
-a bottle of water in the console holder
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in a net pocket
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in the console holder
 a water bottle in a seat-back pocket where there is one
-a bottle of water in the seat-back net
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in the seat-back net
 a water bottle in a side pocket
-a bottle of water in the cup holder
-a bottle of water in a net at the pillow end
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in the cup holder
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in a net at the pillow end
 a water bottle in the net gone warm
 a water bottle in a seat pocket
-a bottle of something on the lounge table
+a bottle of something labeled "__name_brand_upper__" __text_look_print__ on the lounge table
 an empty bottle in the lounge bin that somebody will deal with
-a bottle of water in a cup holder
-a bottle of water rolling in the cab footwell
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in a cup holder
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ rolling in the cab footwell
 a hand gel bottle at the door
 a hand gel bottle at the door with a drip run down it
-a bottle of water with a glass
-a bottle of water in the control cubby
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ with a glass
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in the control cubby
 a water bottle in every door pocket
 a water bottle in the door pocket with a bite mark in the lid
-a bottle of water in a door pocket
-a bottle of water in a net
-a bottle of water in a net that rolls audibly on every corner
-a bottle of water and an empty one beside it
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in a door pocket
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in a net
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in a net that rolls audibly on every corner
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ and an empty one beside it
 an empty water bottle and a full one kept carefully separate
-a bottle of water half gone
-a bottle of water in each rear door pocket
-a bottle of water in each rear door pocket as an unasked-for courtesy
-a water bottle with the label gone soft
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ half gone
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in each rear door pocket
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in each rear door pocket as an unasked-for courtesy
+a water bottle with the label reading "SPRING WATER" in blue print gone soft
 a water bottle in a cooler
 a water bottle in a cooler because the cab is hot
 a bottle of water in a bracket with the label scuffed off
 the bottle
-a bottle of de-icer in the door
+a bottle of de-icer labeled "DE-ICER" __text_look_print__ in the door
 a bottle with a foil top pecked open by a bird
-a bottle of screen wash behind the seat
+a bottle of screen wash labeled "SCREEN WASH" __text_look_print__ behind the seat
 a chemical toilet bottle in a locker
 a chemical toilet bottle in a locker that nobody discusses and everybody has
 the retaining bar across the sauce bottles
 a bottle for the twelve-hour problem
 a bottle for the twelve-hour problem and a blanket each
 the bottle and the blankets
-a bottle of water per seat
-a bottle of water per seat with the labels facing the same way at the start of the trip and not at the end
-a bottle of water per bunk
-a bottle of water per bunk with the cap loosened in advance
-a bottle of water in a bracket drunk between loads because the cockpit is hot
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ per seat
+a bottle of water per seat with the labels reading "__name_brand_upper__ WATER" in blue print facing the same way at the start of the trip and not at the end
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ per bunk
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ per bunk with the cap loosened in advance
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in a bracket drunk between loads because the cockpit is hot
 a water bottle with a tube
 a water bottle with a drinking tube routed over a shoulder because a five-hour flight needs hands-free water
 a water bottle in a cockpit pocket with a straw routed up to the helmet because there is no other way to drink
@@ -317,25 +317,25 @@ a water bottle clipped to a rail
 a condiment bottle with a crust at the nozzle
 dropper bottles for condiments
 the dropper bottles of liquid salt and pepper
-a bottle of brake fluid and a can of easing oil on the bench
-a bottle of glass cleaner and a pack of microfiber cloths
+a bottle of brake fluid labeled "__name_brand_upper__" __text_look_print__ and a can of easing oil on the bench
+a bottle of glass cleaner labeled "__name_brand_upper__" __text_look_print__ and a pack of microfiber cloths
 the oil cleanliness sample bottle
 a sample bottle in use
-a bottle of toilet tank fluid
-a bottle of tank fluid in a blue that appears nowhere else
+a bottle of toilet tank fluid labeled "__name_brand_upper__" __text_look_print__
+a bottle of tank fluid labeled "__name_brand_upper__" __text_look_print__ in a blue that appears nowhere else
 a nitrogen bottle on a trolley
 a nitrogen bottle on a trolley with a regulator and a tire inflation chart taped to it
-a bottle of air tool oil
+a bottle of air tool oil labeled "__name_brand_upper__" __text_look_print__
 a pH buffer solution bottle with its opening date written on in marker because buffers go off
-a bottle of oil with a date on it because watch oil degrades and an old oil is worse than none
-a bottle of water and a sandwich on the van's shelf
+a bottle of oil with a date on it reading "__name_year__" __text_look_handwriting__ because watch oil degrades and an old oil is worse than none
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ and a sandwich on the van's shelf
 a water bottle in a corner
-a bottle of water and a container for more
-a bottle of water filled at a drinking fountain
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ and a container for more
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ filled at a drinking fountain
 a hand sanitizer bottle hung on a cord
 a hand sanitizer bottle hung on a cord at the door
 a sanitizer bottle hung and refilled
-a bottle of oil with a nozzle
+a bottle of oil labeled "__name_brand_upper__" __text_look_print__ with a nozzle
 no services beyond a bottle and a battery
 a gas bottle and a cooktop
 colored bottles set in among the log ends as light-passing inserts
@@ -347,28 +347,28 @@ a water bottle and a filter
 a bottle and filter
 a water bottle and a steel tumbler
 a bottle and tumbler
-a small bottle of de-icer
+a small bottle of de-icer labeled "__name_brand_upper__" __text_look_print__
 bottles kept under the counter rather than on a back shelf
 bottles kept under the counter and not on the back shelf
 shared quart bottles and enamel mugs rather than individual glasses
 bottles and glass swept to a corner
-an oil bottle and a bottle of linseed
-a medicine cupboard holding eleven bottles of which four are labeled in a copperplate hand and seven in pencil
-a bottle of vinegar
-a bottle of whiting and a chamois
-a bottle of vinegar and a tin of whiting
+an oil bottle and a bottle of linseed labeled "LINSEED OIL" __text_look_label__
+a medicine cupboard holding eleven bottles of which four are labeled in a copperplate hand reading "LAUDANUM" and seven in pencil
+a bottle of vinegar labeled "__name_brand_upper__ VINEGAR" __text_look_label__
+a bottle of whiting labeled "WHITING" in black print on a cream label and a chamois
+a bottle of vinegar labeled "VINEGAR" in black print on a cream label and a tin of whiting with "WHITING" in black print on its lid
 a medicine bottle with a label in the housekeeper's hand giving the name "__name_person__"
-a bottle of port and a bottle of sherry
-a port bottle and a sherry bottle on the sideboard with a chalked line on the label of each
-a bottle of neatsfoot oil and a jar of harness blacking
+a bottle of port labeled "PORT" in gold print on a black label and a bottle of sherry labeled "SHERRY" in black print on a cream label
+a port bottle and a sherry bottle on the sideboard with a chalked line on the label of each, the labels reading "PORT" and "SHERRY" in black print
+a bottle of neatsfoot oil labeled "NEATSFOOT OIL" in black print on a cream label and a jar of harness blacking labeled "HARNESS BLACKING" in black print
 eleven bottles in two hands
-a bottle of Indian ink and a set of ruling pens
-three bottles of ceramic sealant and nine microfiber cloths folded in a drawer
+a bottle of Indian ink labeled "INDIAN INK" in black print on a cream label and a set of ruling pens
+three bottles of ceramic sealant labeled "__name_brand_upper__ SEALANT" in bold black print on a white label and nine microfiber cloths folded in a drawer
 a gas-suppression bottle in a cage
 a gas-suppression bottle in a cage with a service tag three months out of date
 a water bottle with the name worn off the sticker
 a water bottle and a single glove
-a bottle of milk and a sealed box marked in the technician's writing
-a pump bottle of ultramarine whose pump has seized at half depression and which is operated by unscrewing the top instead
-a bottle of ink powder and a jug
-a bottle of water and a stack of paper cups
+a bottle of milk and a sealed box marked in the technician's writing reading "__text_box_label__"
+a pump bottle of ultramarine labeled "ULTRAMARINE" __text_look_label__ whose pump has seized at half depression and which is operated by unscrewing the top instead
+a bottle of ink powder labeled "__name_brand_upper__" __text_look_print__ and a jug
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ and a stack of paper cups

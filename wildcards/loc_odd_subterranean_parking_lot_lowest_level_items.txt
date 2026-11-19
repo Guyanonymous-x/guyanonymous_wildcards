@@ -1,4 +1,4 @@
-a payment machine ticket dropped on the floor
+a payment machine ticket printed "PAID __name_price__" in black print dropped on the floor
 a trolley from the supermarket above
 a hi-vis vest on a hook
 a litter picker
@@ -7,6 +7,6 @@ a wet floor sign reading "__loc_text_notice__"
 a fire extinguisher in a bracket
 a spill kit box
 a sweeping brush
-a parking ticket under a wiper
+a parking ticket reading "PENALTY NOTICE" in bold black print on a yellow sleeve under a wiper
 a shopping bag
 a torch at the attendant's station

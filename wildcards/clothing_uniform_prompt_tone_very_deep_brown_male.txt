@@ -131,7 +131,7 @@ A person dressed as a surgeon in scrubs in a masculine cut (modern hospital), wi
 A person dressed as a sushi chef in a masculine cut (Japan), which is a white happi coat and a hachimaki headband, trousers, a headband and sandals, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 A person dressed as a tank crew in a masculine cut (modern), which is a padded coverall with a headset, a crewman helmet and boots, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 A person dressed as a three-piece suit wearer in a masculine cut (office), with a pinstripe jacket and waistcoat with a watch chain, a shirt and a tie, suit trousers and brogues, tailored in a masculine cut with a straight waist, with very deep brown skin
-A person dressed as a tour guide in a masculine cut (city), which is a branded polo and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
+A person dressed as a tour guide in a masculine cut (city), which is a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 A person dressed as a town mascot cow in a masculine cut (farm), with a black and white cow suit, a cow head and hooves, tailored in a masculine cut with a straight waist, with very deep brown skin
 A person dressed as a train conductor in a masculine cut (steam era), with a double-breasted jacket with brass buttons and a watch chain, trousers, a peaked cap and black shoes, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
 A person dressed as a turkey harvest costume in a masculine cut (autumn), with a feathered tunic, tailored in a masculine cut with a straight waist, with very deep brown skin
@@ -287,7 +287,7 @@ a blue-coat staff officer in a masculine cut (anime-inspired), wearing a blue mi
 a board game night host in a masculine cut (home), wearing a wizard robe over a hoodie, jeans, a pointed hat and slippers, cut for a masculine frame with broad shoulders and carrying dice, with very deep brown skin
 a bog witch in a masculine cut (folklore), in a muddy cloak with reeds and boots, with very deep brown skin
 a bomb disposal technician in a masculine cut, dressed in a heavy blast suit, with very deep brown skin
-a bookseller in a masculine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, tailored in a masculine cut with a straight waist and carrying a stack of books, with very deep brown skin
+a bookseller in a masculine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, tailored in a masculine cut with a straight waist and carrying a stack of books with "__name_book_title_any__" in small gold capitals on the top spine, the other spines plain, with very deep brown skin
 a bricklayer in a masculine cut (site), wearing a work shirt and high-visibility vest, work trousers, a hard hat and boots, tailored in a masculine cut with a straight waist, with very deep brown skin
 a bridal gown wearer in a masculine cut, dressed in a fitted lace bodice with a sweetheart neckline and a long veil with trousers, with very deep brown skin
 a bunker dweller in a masculine cut (wasteland), in a grey jumpsuit with patches and boots, with very deep brown skin
@@ -305,7 +305,7 @@ a cheese rolling competitor in a masculine cut (England), wearing a padded jumpe
 a chicken suit wearer in a masculine cut (promotion), in a feathered chicken suit and a beaked hood, with very deep brown skin
 a chimney sweep in a masculine cut (Victorian), in a soot-covered coat and a top hat and trousers and boots, with very deep brown skin
 a chocolatier in a masculine cut (shop), wearing a white jacket with a hat, checked trousers, a cap and clogs, in a masculine cut with a roomy chest and shoulders, with very deep brown skin
-a choir singer in a masculine cut (cathedral), wearing a long red cassock with a white ruff and shoes, tailored in a masculine cut with a straight waist and carrying a hymn book, with very deep brown skin
+a choir singer in a masculine cut (cathedral), wearing a long red cassock with a white ruff and shoes, tailored in a masculine cut with a straight waist and carrying a hymn book with "__text_hymn_book__" in gold letters on the cover, the rest of the cover plain, with very deep brown skin
 a circus strongperson in a masculine cut (stage), wearing a leopard-print leotard and boots, cut for a masculine frame with broad shoulders, with very deep brown skin
 a clockmaker in a masculine cut, dressed in a leather apron with loupe with trousers, with very deep brown skin
 a clockwork automaton in a masculine cut (steampunk), wearing a brass-plated chest with gears, a brass face plate and boots, cut for a masculine frame with broad shoulders and carrying a key, with very deep brown skin
@@ -542,7 +542,7 @@ a vaudeville performer in a masculine cut (stage), in a striped blazer with a st
 a veterinarian in a masculine cut (clinic), wearing a patterned scrub top with a stethoscope and a cat-print lab coat, scrub trousers and work shoes, cut for a masculine frame with broad shoulders and carrying a small animal carrier, with very deep brown skin
 a void wanderer in a masculine cut (sci-fi), wearing a hooded cloak over a patched suit, a breathing mask and boots, tailored in a masculine cut with a straight waist, with very deep brown skin
 a walking Christmas tree in a masculine cut (festive), in a green tree suit with lights and a star hat, with very deep brown skin
-a walking sandwich board seller in a masculine cut, dressed in a hot dog costume with a sandwich board, with very deep brown skin
+a walking sandwich board seller in a masculine cut, dressed in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__", with very deep brown skin
 a wandering monster slayer in a masculine cut, dressed in a worn leather jerkin with strapped vials with trousers, with very deep brown skin
 a warehouse picker in a masculine cut (logistics), in a high-visibility vest and a scanner on the wrist and work trousers and safety shoes, with very deep brown skin
 a wedding kimono wearer in a masculine cut (Japan), in a white silk shiromuku with a wide obi and zori, with very deep brown skin

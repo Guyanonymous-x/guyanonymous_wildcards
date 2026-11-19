@@ -2,5 +2,5 @@ a set list in a back pocket
 a drink on the stool
 a microphone
 a notebook
-receipts
-flyers
+receipts reading "__text_receipt__" __text_look_receipt__, the rest of each strip plain
+flyers reading "__text_flyer__" __text_look_print__, the rest of each sheet plain

@@ -30,7 +30,7 @@ A deeply cushioned footbed knit with air pockets.
 A gold-lamé lining stitched with crystals and hand-embroidered silk with seed pearls.
 A gold-lamé lining stitched with crystals and sable fur.
 A gold-lamé lining stitched with crystals and silk brocade with a hand-woven gold pattern.
-A gold-lamé lining stitched with crystals, quilted gold silk and silk satin embroidered with the maker's gold monogram.
+A gold-lamé lining stitched with crystals, quilted gold silk and silk satin embroidered with the maker's gold monogram "__name_initials__".
 A gold-lamé lining stitched with crystals.
 A gusseted hand-shaped toe and a deeply cushioned footbed knit with air pockets.
 A gusseted hand-shaped toe and a hand-cupped heel.
@@ -147,13 +147,13 @@ A lining of feathers and silk brocade with a hand-woven gold pattern.
 A lining of feathers, chinchilla fur and a mirror-mosaic lining.
 A lining of feathers, chinchilla fur and sable fur.
 A lining of feathers, gold-thread brocade and hand-embroidered silk with seed pearls.
-A lining of feathers, hand-embroidered silk with seed pearls and silk satin embroidered with the maker's gold monogram.
+A lining of feathers, hand-embroidered silk with seed pearls and silk satin embroidered with the maker's gold monogram "__name_initials__".
 A lining of feathers, sable fur and hand-embroidered silk with seed pearls.
 A lining of feathers.
 A mirror-mosaic lining and gold-thread brocade.
 A mirror-mosaic lining and painted silk with a miniature scene.
 A mirror-mosaic lining and sable fur.
-A mirror-mosaic lining and silk satin embroidered with the maker's gold monogram.
+A mirror-mosaic lining and silk satin embroidered with the maker's gold monogram "__name_initials__".
 A mirror-mosaic lining and silk velvet embroidered with pearls.
 A mirror-mosaic lining, a lining of feathers and quilted gold silk.
 A mirror-mosaic lining, painted silk with a miniature scene and a lining of feathers.
@@ -198,12 +198,12 @@ Gold-thread brocade and mink fur.
 Gold-thread brocade and quilted gold silk.
 Gold-thread brocade and sable fur.
 Gold-thread brocade, mink fur and sable fur.
-Gold-thread brocade, quilted gold silk and silk satin embroidered with the maker's gold monogram.
+Gold-thread brocade, quilted gold silk and silk satin embroidered with the maker's gold monogram "__name_initials__".
 Gold-thread brocade, sable fur and silk velvet embroidered with pearls.
 Gold-thread brocade.
 Hand-embroidered silk with seed pearls and quilted gold silk.
 Hand-embroidered silk with seed pearls and sable fur.
-Hand-embroidered silk with seed pearls, a mirror-mosaic lining and silk satin embroidered with the maker's gold monogram.
+Hand-embroidered silk with seed pearls, a mirror-mosaic lining and silk satin embroidered with the maker's gold monogram "__name_initials__".
 Hand-embroidered silk with seed pearls, chinchilla fur and gold-thread brocade.
 Hand-embroidered silk with seed pearls.
 Mink fur and hand-embroidered silk with seed pearls.
@@ -234,14 +234,14 @@ Silk brocade with a hand-woven gold pattern, a lining of feathers and hand-embro
 Silk brocade with a hand-woven gold pattern, chinchilla fur and a lining of feathers.
 Silk brocade with a hand-woven gold pattern, mink fur and a mirror-mosaic lining.
 Silk brocade with a hand-woven gold pattern.
-Silk satin embroidered with the maker's gold monogram and a gold-lamé lining stitched with crystals.
-Silk satin embroidered with the maker's gold monogram and mink fur.
-Silk satin embroidered with the maker's gold monogram and quilted gold silk.
-Silk satin embroidered with the maker's gold monogram, a lining of feathers and chinchilla fur.
-Silk satin embroidered with the maker's gold monogram, chinchilla fur and quilted gold silk.
-Silk satin embroidered with the maker's gold monogram, painted silk with a miniature scene and a gold-lamé lining stitched with crystals.
-Silk satin embroidered with the maker's gold monogram, quilted gold silk and gold-thread brocade.
-Silk satin embroidered with the maker's gold monogram.
+Silk satin embroidered with the maker's gold monogram "__name_initials__" and a gold-lamé lining stitched with crystals.
+Silk satin embroidered with the maker's gold monogram "__name_initials__" and mink fur.
+Silk satin embroidered with the maker's gold monogram "__name_initials__" and quilted gold silk.
+Silk satin embroidered with the maker's gold monogram "__name_initials__", a lining of feathers and chinchilla fur.
+Silk satin embroidered with the maker's gold monogram "__name_initials__", chinchilla fur and quilted gold silk.
+Silk satin embroidered with the maker's gold monogram "__name_initials__", painted silk with a miniature scene and a gold-lamé lining stitched with crystals.
+Silk satin embroidered with the maker's gold monogram "__name_initials__", quilted gold silk and gold-thread brocade.
+Silk satin embroidered with the maker's gold monogram "__name_initials__".
 Silk velvet embroidered with pearls and a lining of feathers.
 Silk velvet embroidered with pearls and chinchilla fur.
 Silk velvet embroidered with pearls and hand-embroidered silk with seed pearls.
@@ -286,7 +286,7 @@ They have a deeply cushioned footbed knit with air pockets.
 They have a gold-lamé lining stitched with crystals and a mirror-mosaic lining.
 They have a gold-lamé lining stitched with crystals and hand-embroidered silk with seed pearls.
 They have a gold-lamé lining stitched with crystals and painted silk with a miniature scene.
-They have a gold-lamé lining stitched with crystals and silk satin embroidered with the maker's gold monogram.
+They have a gold-lamé lining stitched with crystals and silk satin embroidered with the maker's gold monogram "__name_initials__".
 They have a gold-lamé lining stitched with crystals, chinchilla fur and hand-embroidered silk with seed pearls.
 They have a gold-lamé lining stitched with crystals, silk velvet embroidered with pearls and a mirror-mosaic lining.
 They have a gold-lamé lining stitched with crystals.
@@ -390,7 +390,7 @@ They have a lining of feathers, sable fur and a mirror-mosaic lining.
 They have a lining of feathers, sable fur and chinchilla fur.
 They have a lining of feathers.
 They have a mirror-mosaic lining and gold-thread brocade.
-They have a mirror-mosaic lining and silk satin embroidered with the maker's gold monogram.
+They have a mirror-mosaic lining and silk satin embroidered with the maker's gold monogram "__name_initials__".
 They have a mirror-mosaic lining, chinchilla fur and mink fur.
 They have a mirror-mosaic lining, mink fur and a lining of feathers.
 They have a mirror-mosaic lining, silk velvet embroidered with pearls and a lining of feathers.
@@ -434,7 +434,7 @@ They have gold-thread brocade.
 They have hand-embroidered silk with seed pearls and a lining of feathers.
 They have hand-embroidered silk with seed pearls and a mirror-mosaic lining.
 They have hand-embroidered silk with seed pearls and mink fur.
-They have hand-embroidered silk with seed pearls and silk satin embroidered with the maker's gold monogram.
+They have hand-embroidered silk with seed pearls and silk satin embroidered with the maker's gold monogram "__name_initials__".
 They have hand-embroidered silk with seed pearls, quilted gold silk and sable fur.
 They have hand-embroidered silk with seed pearls, sable fur and painted silk with a miniature scene.
 They have hand-embroidered silk with seed pearls, silk brocade with a hand-woven gold pattern and painted silk with a miniature scene.
@@ -474,25 +474,25 @@ They have silk brocade with a hand-woven gold pattern and sable fur.
 They have silk brocade with a hand-woven gold pattern, a lining of feathers and mink fur.
 They have silk brocade with a hand-woven gold pattern, gold-thread brocade and a lining of feathers.
 They have silk brocade with a hand-woven gold pattern, painted silk with a miniature scene and sable fur.
-They have silk brocade with a hand-woven gold pattern, painted silk with a miniature scene and silk satin embroidered with the maker's gold monogram.
+They have silk brocade with a hand-woven gold pattern, painted silk with a miniature scene and silk satin embroidered with the maker's gold monogram "__name_initials__".
 They have silk brocade with a hand-woven gold pattern.
-They have silk satin embroidered with the maker's gold monogram and mink fur.
-They have silk satin embroidered with the maker's gold monogram and painted silk with a miniature scene.
-They have silk satin embroidered with the maker's gold monogram and quilted gold silk.
-They have silk satin embroidered with the maker's gold monogram and silk velvet embroidered with pearls.
-They have silk satin embroidered with the maker's gold monogram, a lining of feathers and a mirror-mosaic lining.
-They have silk satin embroidered with the maker's gold monogram, a mirror-mosaic lining and sable fur.
-They have silk satin embroidered with the maker's gold monogram, chinchilla fur and a mirror-mosaic lining.
-They have silk satin embroidered with the maker's gold monogram, hand-embroidered silk with seed pearls and quilted gold silk.
-They have silk satin embroidered with the maker's gold monogram, silk velvet embroidered with pearls and mink fur.
-They have silk satin embroidered with the maker's gold monogram.
+They have silk satin embroidered with the maker's gold monogram "__name_initials__" and mink fur.
+They have silk satin embroidered with the maker's gold monogram "__name_initials__" and painted silk with a miniature scene.
+They have silk satin embroidered with the maker's gold monogram "__name_initials__" and quilted gold silk.
+They have silk satin embroidered with the maker's gold monogram "__name_initials__" and silk velvet embroidered with pearls.
+They have silk satin embroidered with the maker's gold monogram "__name_initials__", a lining of feathers and a mirror-mosaic lining.
+They have silk satin embroidered with the maker's gold monogram "__name_initials__", a mirror-mosaic lining and sable fur.
+They have silk satin embroidered with the maker's gold monogram "__name_initials__", chinchilla fur and a mirror-mosaic lining.
+They have silk satin embroidered with the maker's gold monogram "__name_initials__", hand-embroidered silk with seed pearls and quilted gold silk.
+They have silk satin embroidered with the maker's gold monogram "__name_initials__", silk velvet embroidered with pearls and mink fur.
+They have silk satin embroidered with the maker's gold monogram "__name_initials__".
 They have silk velvet embroidered with pearls and a gold-lamé lining stitched with crystals.
 They have silk velvet embroidered with pearls and a lining of feathers.
 They have silk velvet embroidered with pearls and gold-thread brocade.
 They have silk velvet embroidered with pearls and hand-embroidered silk with seed pearls.
 They have silk velvet embroidered with pearls and sable fur.
 They have silk velvet embroidered with pearls and silk brocade with a hand-woven gold pattern.
-They have silk velvet embroidered with pearls and silk satin embroidered with the maker's gold monogram.
+They have silk velvet embroidered with pearls and silk satin embroidered with the maker's gold monogram "__name_initials__".
 They have silk velvet embroidered with pearls, sable fur and hand-embroidered silk with seed pearls.
 They have silk velvet embroidered with pearls.
 Inside it has a plain, simple lining.

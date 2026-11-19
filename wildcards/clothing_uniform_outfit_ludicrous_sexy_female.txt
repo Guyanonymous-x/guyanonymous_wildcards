@@ -12,7 +12,7 @@ A grey plush shark onesie, a shark hood, slippers, the full outfit of a shark on
 A headscarf and a heavy shawl with jangling bracelets, a layered skirt, a headscarf, boots, the full outfit of a fortune teller in a sexy feminine costume-shop style
 A hessian sack, the full outfit of a potato sack racer in a sexy feminine costume-shop style
 A hexagonal yellow tube suit, a pointed hat, the full outfit of a giant pencil costume wearer in a sexy feminine costume-shop style
-A hot dog costume with a sandwich board, shoes, the full outfit of a walking sandwich board seller in a sexy feminine costume-shop style
+A hot dog costume with a sandwich board reading "HOT DOGS __name_price__", shoes, the full outfit of a walking sandwich board seller in a sexy feminine costume-shop style
 A huge flowered dress with a bonnet, a gaudy wig, boots, the full outfit of a pantomime dame in a sexy feminine costume-shop style
 A huge furry suit, an oversized head, big feet, the full outfit of a mascot character in a sexy feminine costume-shop style
 A long robe in a board pattern, a tall crown or helmet, the full outfit of a living chess piece in a sexy feminine costume-shop style
@@ -52,7 +52,7 @@ A person dressed as a tin man robot in a sexy feminine costume-shop style (theat
 A person dressed as a toilet paper roll costume wearer in a sexy feminine costume-shop style (party), with a white tube suit, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels
 A person dressed as a town mascot cow in a sexy feminine costume-shop style (farm), with a black and white cow suit, a cow head and hooves, a sexy version with a bare midriff, a plunging neckline, a very short skirt and heels
 A person dressed as a walking Christmas tree in a sexy feminine costume-shop style (festive), with a green tree suit with lights and a star hat, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
-A person dressed as a walking sandwich board seller in a sexy feminine costume-shop style (street), with a hot dog costume with a sandwich board and shoes, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
+A person dressed as a walking sandwich board seller in a sexy feminine costume-shop style (street), with a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
 A person dressed as an inflatable dinosaur costume wearer in a sexy feminine costume-shop style (party), with a bulbous inflatable dinosaur suit and a dinosaur head, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
 A person dressed as an ostrich costume in a sexy feminine costume-shop style (party), with a feathered suit with long legs, a long-necked head and big feet, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
 A person dressed as an unicorn onesie wearer in a sexy feminine costume-shop style (home), with a plush unicorn onesie with a horn, a horned hood and slippers, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
@@ -180,9 +180,9 @@ a town mascot cow in a sexy feminine costume-shop style, dressed in a black and 
 a walking Christmas tree in a sexy feminine costume-shop style (festive), in a green tree suit with lights and a star hat
 a walking Christmas tree in a sexy feminine costume-shop style (festive), wearing a green tree suit with lights and a star hat, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
 a walking Christmas tree in a sexy feminine costume-shop style, dressed in a green tree suit with lights
-a walking sandwich board seller in a sexy feminine costume-shop style (street), in a hot dog costume with a sandwich board and shoes
-a walking sandwich board seller in a sexy feminine costume-shop style (street), wearing a hot dog costume with a sandwich board and shoes, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
-a walking sandwich board seller in a sexy feminine costume-shop style, dressed in a hot dog costume with a sandwich board
+a walking sandwich board seller in a sexy feminine costume-shop style (street), in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes
+a walking sandwich board seller in a sexy feminine costume-shop style (street), wearing a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, a sexy fitted version in glossy tight material, off-the-shoulder, with a thigh-high hemline and boots
+a walking sandwich board seller in a sexy feminine costume-shop style, dressed in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__"
 an inflatable dinosaur costume wearer in a sexy feminine costume-shop style (party), in a bulbous inflatable dinosaur suit and a dinosaur head
 an inflatable dinosaur costume wearer in a sexy feminine costume-shop style (party), wearing a bulbous inflatable dinosaur suit and a dinosaur head, a sexy version with a corset bodice, deep cleavage, a short skirt and fishnet stockings
 an inflatable dinosaur costume wearer in a sexy feminine costume-shop style, dressed in a bulbous inflatable dinosaur suit

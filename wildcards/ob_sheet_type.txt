@@ -28,21 +28,21 @@ a daily check sheet
 a meal sign-up sheet
 a pictorial assembly instruction sheet
 a wordless pictorial instruction sheet
-a timetable sheet
+a timetable sheet headed "SCHEDULE" in black marker above "20:00 __name_first__" and "22:00 __name_first__"
 a single sheet
 a sandpaper sheet
 a printed risk sheet
-a no signage beyond printed sheet
+a no signage beyond printed sheet reading "__text_door_notice__" __text_look_paper_notice__
 a printed scoring sheet
 a signature sheet
 a printed prayer sheet
 a white sheet
-an address labels peeling off backing sheet
+an address labels reading "__name_first__ __name_surname__ __name_street__" in black print peeling off backing sheet
 a cleaning log sheet
 a thermometer log sheet
 a quiz sheet
 a brew sheet
-a label sheet
+a label sheet printed "__text_box_label__" in black print
 an acetate sheet
 a nori sheet
 a flatwork ironer feeding sheet
@@ -57,10 +57,10 @@ a laminated weather minima sheet
 a laminated scope tracking sheet
 a printed result sheet
 a vehicle daily check sheet
-a batch-number sticker sheet
+a batch-number sticker sheet printed "BATCH __name_initials__ __name_number_small__" in small black print
 a shift handover sheet
 a survey sheet
-a newspaper used as dust sheet
+a newspaper headlined "__text_headline__" __text_look_headline__ used as dust sheet
 a colored sheet
 a cork sheet
 a mesh sheet
@@ -106,7 +106,7 @@ a sheet folded by somebody who cannot fold fitted sheets
 a sheet of cardboard
 a sheet laid to catch cuttings
 a sheet of plastic
-no signage beyond a printed sheet on the door
+no signage beyond a printed sheet reading "__text_door_notice__" __text_look_paper_notice__ on the door
 a flipchart sheet rolled and leaning in a corner
 flip-chart sheets taped around the walls as the day accumulates
 a flip-chart sheet from a previous course still taped to a wall
@@ -119,7 +119,7 @@ song sheets
 song sheets left behind
 a printed prayer sheet in two alphabets
 white sheets over the floor for sitting
-address labels peeling off a backing sheet
+address labels reading "__name_first__ __name_surname__ __name_street__" in black print peeling off a backing sheet
 a tally sheet with a ballpoint tied to it
 a work instruction sheet in a plastic sleeve with a thumbprint on it
 a results sheet on a clipboard
@@ -127,8 +127,8 @@ a results sheet with a correction initialed twice
 cleaning log sheet on clipboard
 a sheet of toilet paper used as a note
 a quiz sheet with a pen through the fold
-a brew sheet on a clipboard with a wet corner
-a label sheet with one peeled off
+a brew sheet headed "BREW LOG" in bold print, the rest of the sheet plain white, on a clipboard with a wet corner
+a label sheet printed "__text_box_label__" in black print with one peeled off
 acetate sheets
 a sheet of acetate
 nori sheets
@@ -158,9 +158,9 @@ a tally sheet on a clipboard
 the sheet of water with the grass tips showing through it
 exercise sheets left on a bench
 an exercise sheet left on a bench with the name "__name_person__" on it
-a tally sheet on a clipboard with the figures corrected twice
+a tally sheet headed "TALLY" in bold black marker on a clipboard with the figures corrected twice
 a dust sheet over a console
-a newspaper used as a dust sheet with a readable date
+a newspaper used as a dust sheet with a readable date reading "__name_year__" in small black print
 colored sheets in a rack
 cork sheet
 mesh sheets
@@ -176,13 +176,13 @@ a spoiled sheet with a swear word in the margin
 a dust sheet in the closed examples
 a dust sheet half pulled off and left in the closed examples
 a dust sheet folded over a cabinet
-a route sheet on a clipboard with the stops ticked and one circled
-a take sheet on a notebook with takes crossed out and one circled
+a route sheet headed "ROUTE __name_jersey_number__" __text_look_handwriting__ on a clipboard with the stops ticked and one circled
+a take sheet headed "TAKE SHEET" __text_look_print__ on a notebook with takes crossed out and one circled
 a call sheet taped to the inside of the door
 a call sheet taped inside the door with tomorrow's weather printed on it and somebody's note added in ballpoint
 the call sheet taped inside the door
-a log sheet on a clipboard with hour-meter readings
-a log sheet on a clipboard with hour-meter readings in a column going back months and a smudge where a thumb went down oily
+a log sheet on a clipboard with hour-meter readings "4,512" "4,520" "4,531" in pencil
+a log sheet on a clipboard with hour-meter readings "4,512" "4,520" "4,531" in pencil in a column going back months and a smudge where a thumb went down oily
 a laminated sheet of maneuver diagrams
 a laminated maneuver sheet with one diagram worn pale from being pointed at
 a load sheet on a clipboard
@@ -194,25 +194,25 @@ the limits sheet taped above the panel rather than filed
 a sheet of plastic sheeting folded
 a sheet folded badly and reused four times
 a pile of inspection sheets on a clipboard
-a pile of statutory inspection sheets on a clipboard with the current one on top and six weeks of them beneath
+a pile of statutory inspection sheets on a clipboard with the current one headed "STATUTORY INSPECTION" __text_look_paper_notice__ on top and six weeks of them beneath
 the hand-ticked wall sheet
 the tool inventory sheet on a box lid
 a laminated single-point lesson sheet on the wall
 a laminated lesson sheet on the wall about a failure that happened once and cost a shift
 a dust sheet over a finished instrument
-a dust sheet over a finished piano with a note pinned to it
+a dust sheet over a finished piano with a note reading "SOLD __name_surname_world__" __text_look_handwriting__ pinned to it
 the floor sheet with its edges turned up at the walls
 a sheet under a mattress
 a sheet set issued on arrival
 a sheet of corrugated iron as a door on a hinge of strap
-a sheet on the wall with a previous manufacturer's lettering still visible on it
+a sheet on the wall with a previous manufacturer's lettering reading "__name_brand_upper__" in faded paint still visible on it
 sheet or concrete
 sheet or fabric on skids or a trailer frame
 sheet or sod on top
 a meal sign-up sheet on a clipboard by the door with a week's dates and numbers on it
 a meal sign-up sheet on a clipboard by the door with the week's dates and a number written against each household
 a laundry booking sheet in a room with three shared machines
-a sign-up sheet with the same households' handwriting week after week
+a sign-up sheet headed "SIGN UP" in bold print with "__name_surname__" in blue ballpoint below it, with the same households' handwriting week after week
 a tarp used as a ground sheet and an awning in turn
 a sheet of cardboard flat against one side to be laid down at night
 a sheet of cardboard kept flat against one side to be laid down at night
@@ -223,13 +223,13 @@ a pictorial assembly instruction sheet with no words on it anywhere
 an instruction sheet that is entirely pictorial
 the wordless pictorial instruction sheet
 a sheet of paper with the week's timetable and the DJs' names, such as "__name_first__", on it
-a timetable sheet with slots crossed out and rewritten
+a timetable sheet headed "SCHEDULE" in black marker above "20:00 __name_first__" and "22:00 __name_first__" with slots crossed out and rewritten
 a single sheet of paper and a pencil on the table and nothing written down
 a single sheet of paper and a pencil with nothing written down
 one sheet of paper and a pencil
 the sheet of paper with nothing written on it
 a chipboard sheet with four screw holes and two previous sets
-a tally sheet of payouts in a notebook with a cash float in a biscuit tin
+a tally sheet of payouts reading "__name_first__ __name_price__" in pencil in a notebook with a cash float in a biscuit tin
 a dust sheet over each vehicle
 a dust sheet over each vehicle whose folds have gone stiff and whose underside is black where it has lain on a varnished panel for a decade
 national survey sheets
@@ -238,4 +238,4 @@ a sheet of plywood leaned against the rack with a classful of names such as "__n
 a laminated sheet of the day's structure on the supervisor's desk
 a stack of assessment record sheets on a clipboard
 a stack of spare sheets
-a sheet of stickers in the pencil box that the tutor keeps out of sight
+a sheet of stickers printed "WELL DONE" in gold letters on stars in the pencil box that the tutor keeps out of sight

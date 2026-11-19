@@ -2,6 +2,6 @@ a cylinder key
 a logbook
 a pressure chart
 a torch
-a warning notice
+a warning notice reading "__text_warning__" __text_look_paper_notice__, the rest of the sheet plain white
 a wrench
 a hard hat

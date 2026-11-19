@@ -137,7 +137,7 @@ kneeling on both knees, in a deliberate posed moment
 riding a bicycle
 standing relaxed with arms crossed
 sleeping
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting on a sofa, with focus
 hugging the knees
 reading aloud, while looking into the distance
@@ -391,7 +391,7 @@ mid-jump
 holding a plank, with focus
 standing on a balcony
 descending steps, with a casual attitude
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 praying, at rest
 kneeling on both knees
 playing guitar, with focus
@@ -449,7 +449,7 @@ clapping
 swaying, in a natural candid moment
 talking on the phone, in a deliberate posed moment
 mid-jump airborne action pose
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 striding briskly
 hugging the knees, with a casual attitude
 tying hair back, in mid-motion

@@ -1,3 +1,3 @@
 The bus is a British low-floor bus with patterned moquette
 The bus is American with seats along the sides and a fare box by the driver
-The bus is Asian with rows of hanging hand straps and bright LED signs
+The bus is Asian with rows of hanging hand straps and bright LED signs reading "{__text_sign_japanese__|__text_sign_korean__|__text_sign_chinese_traditional__|__text_sign_chinese_simplified__|__text_sign_thai__}" in red LED letters

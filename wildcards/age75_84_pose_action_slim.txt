@@ -139,7 +139,7 @@ tying hair back, with a sense of ease
 singing, with graceful posture
 doing a yoga pose
 using a phone, with careful balance
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 perched high on edge of ledge
 carrying a bag, with careful balance
 standing at a window, at rest
@@ -334,7 +334,7 @@ playing piano, with focus
 standing with feet together, with a slight smile
 typing on a laptop, with careful balance
 leaning on a wall
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 reaching forward, with quiet confidence
 reaching forward, while looking into the distance
 leaning on a table, with focus
@@ -397,7 +397,7 @@ kneeling on both knees, in a deliberate posed moment
 lounging in a hammock, in mid-motion
 lying on the stomach, with a calm air
 writing in a notebook, while looking into the distance
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 standing with arms crossed, with energy
 adjusting a jacket, with careful balance
 crouching low in dynamic athletic pose

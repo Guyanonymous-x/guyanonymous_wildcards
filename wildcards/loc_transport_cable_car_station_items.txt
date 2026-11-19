@@ -1,6 +1,6 @@
-a ticket
+a ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
 a ski pass on a jacket
 poles
 a glove dropped
-a safety notice
+a safety notice reading "__text_warning__" __text_look_paper_notice__, the rest of the sheet plain white
 a queue marshal's whistle

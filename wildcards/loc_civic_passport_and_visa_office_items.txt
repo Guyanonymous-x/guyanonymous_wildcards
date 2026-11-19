@@ -1,7 +1,7 @@
 application forms
 photographs to specification
-a ticket number
+a ticket number "__name_number_small__" in bold black print
 supporting documents in a folder
-a fee receipt
+a fee receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip plain
 a pen on a chain
-a notice about acceptable photographs
+a notice about acceptable photographs, headed "PHOTO RULES" __text_look_paper_notice__, the rest of the sheet plain white

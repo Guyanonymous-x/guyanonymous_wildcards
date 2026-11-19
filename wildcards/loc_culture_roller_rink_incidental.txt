@@ -1,11 +1,11 @@
-a rental skate with a size written on the heel in marker
+a rental skate with a size "__name_number_small__" written on the heel in marker
 a sock bought at the counter
 a wristband cut off and dropped
 a jacket in a heap on a bench
 a birthday banner reading "__loc_text_birthday__"
 a dropped token
 a plaster from the first aid kit
-a bag of chips going cold
+a bag of chips printed "__name_brand_upper__" __text_look_print__ going cold
 a lost earring on the carpet surround
 a phone filming from the rail
 a mirror ball with one facet missing

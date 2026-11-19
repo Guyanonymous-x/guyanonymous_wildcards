@@ -5,7 +5,7 @@ an air drop
 a power drop on a reel
 a laptop position and a bin
 a sealed and painted floor with bay markings and walkway lines that are actually observed
-a bay status screen linked to the workshop control system so a job's state is public
+a bay status screen reading "BAY __name_number_small__ IN PROGRESS" __text_look_screen__ linked to the workshop control system so a job's state is public
 tool control by foam-cut trolleys so a missing tool is instantly obvious
 a parts supply system that picks a job's parts before the car arrives
 protective covers used as a standard

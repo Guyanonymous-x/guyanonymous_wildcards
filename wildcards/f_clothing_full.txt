@@ -11,9 +11,9 @@ only ornately body painted face makeup
 deep blue velvet ao dai with silver lotus embroidery
 competitive racing swimsuit
 no clothing
-a book held in front of her breasts
-a book held in front of her pussy
-a book held in front of her vagina
+a book titled "__name_book_title_any__" in gold on a plain cover held in front of her breasts
+a book titled "__name_book_title_any__" in gold on a plain cover held in front of her pussy
+a book titled "__name_book_title_any__" in gold on a plain cover held in front of her vagina
 vibrant Mexican huipil, adorned with intricate floral embroidery
 ripped and torn cloth
 Tailored trousers, a silk blouse, and a blazer for a professional look.
@@ -52,7 +52,7 @@ baby blue mini skirt with ruffles, white ribbed crop tank top, dainty gold chain
 cozy pajama style for a lazy Sunday morning
 Grunge, Plaid flannel shirt, ripped jeans, combat boots.
 Boho-Sporty, Flowy maxi skirt, sports bra, and sneakers.
-a spirited cheer outfit featuring a tank top with a dynamic logo, a mini skort, and two-tone pom-poms
+a spirited cheer outfit featuring a tank top with a dynamic logo reading "__name_team__" __text_look_print__, a mini skort, and two-tone pom-poms
 a sophisticated white sheath dress with lace details, accessorized with a simple gold chain
 home-made clothing
 soft pastel colors for a spring picnic outfit
@@ -203,7 +203,7 @@ only a bikini top
 only shoes
 tropical leafy print bikini with a sarong wrap
 rags
-professional female sommelier in crisp white blouse and tailored vest, inspecting a bottle of red wine
+professional female sommelier in crisp white blouse and tailored vest, inspecting a bottle of red wine labeled "__name_brand_upper__ __name_year__" in gold script on a cream label
 A calm and composed figure, standing upright with one hand on his chest, fingers gracefully arranged. His tailored suit is impeccably fitted, and his expression is one of quiet confidence and sophistication. Soft, ominous lighting enhances his mysterious aura.  
 a classic red silk cheongsam with delicate golden embroidery, featuring traditional dragon and phoenix motifs, gracefully hugging the figure
 A-line mini dress with a fun pattern, paired with a leather jacket and ankle boots.
@@ -259,7 +259,7 @@ A cyclist's attire with a padded shorts and a zip-front jersey.
 a handmade cosplay costume
 ripped and torn clothes
 a sheer chiffon long gown that drapes softly over her body, creating a sense of ethereal beauty and mystery
-Rocker, Leather pants, band tee, moto boots, and studded accessories.
+Rocker, Leather pants, band tee printed "__name_band__", moto boots, and studded accessories.
 spring dress with cherry blossom patterns
 vintage-inspired dress with a modern twist
 a sleek, satin cheongsam in a bold, abstract pattern, featuring a daring low back and high side slits, merging traditional design with modern sensuality
@@ -291,7 +291,7 @@ babydoll and panty set. A playful and romantic lingerie set, featuring a loose-f
 strapless bra and boy shorts set. A versatile and practical lingerie set, ideal for wearing under strapless or off-the-shoulder outfits
 tasteful culinary props, such as champagne glasses or strawberries
 a woman embodies festival fashion with a hip-hop twist. She wears denim shorts with fishnet tights, a cropped tank top with a bold print, and a fanny pack slung across her chest. Her hair is adorned with colorful beads, and she accessorizes with layered necklaces and face jewels
-a varsity cheer uniform with a lettered tank, cheer briefs, and classic pom-poms with a glimmer finish
+a varsity cheer uniform with a lettered tank reading "__name_team__" in white varsity letters, cheer briefs, and classic pom-poms with a glimmer finish
 Preppy, Pleated skirt, button-down shirt, cardigan, and loafers.
 A detailed portrait of a woman in an Ukrainian vyshyvanka, showcasing the intricate embroidery and folk motifs of this traditional blouse.
 mix of different colors, patterns, and textures in an oversized fashion. She expresses her unique style through her clothing choices
@@ -350,7 +350,7 @@ a lingerie ensemble with a longline bra design
 construction worker with hard hat, safety vest, and tools
 Peru, A woman in a colorful Andean costume, her hair adorned with braids and flowers, performs a traditional Peruvian dance. Her movements are lively and energetic, her skirt swirling around her like a kaleidoscope.
 Ireland, An Irish step dancer, her feet moving with lightning speed, performs a traditional jig. Her arms are held stiffly at her sides, her focus solely on the intricate footwork.
-teacher in semi-casual attire with glasses and a book
+teacher in semi-casual attire with glasses and a book titled "__name_book_title_any__" in gold on a plain cover
 pop and flashy Harajuku style outfit with multiple layers and accessories
 a delicate lace long dress with intricate patterns, creating a sense of femininity and romance
 a stunning ice-blue dress with rhinestone embellishments, paired with crystal-clustered earrings
@@ -384,8 +384,8 @@ a woman adorned in delicate lace lingerie
 pastel pink ao dai with delicate cherry blossom patterns
 sleek high-tech __clothing_outfit_color__ sci-fi suit, metallic armor plates
 An ethereal white gown with flowing layers, golden thread trim, and a deep neckline, paired with a sapphire pendant necklace and a golden vine crown.  
-summer festival look with a band t-shirt and fringed accessories
-a vibrant cheerleader uniform in school colors, complete with pleated skirt, letterman jacket, and pom-poms
+summer festival look with a band t-shirt printed "__name_band__" and fringed accessories
+a vibrant cheerleader uniform in school colors, complete with pleated skirt, letterman jacket with a large chenille "V" on the chest, and pom-poms
 fall layered outfit with a flannel shirt, denim jacket, and beanie for a young Japanese woman
 floral pattern lingerie
 an enigmatic crystal ball held or positioned thoughtfully
@@ -506,7 +506,7 @@ A woman dressed in a captivating steampunk ensemble, embodying the fusion of Vic
 convertible sailor-blazer hybrid uniform
 Retro-Hippie, Bell-bottom jeans, tie-dye shirt, and platform sandals.
 female police officer in crisp blue uniform with badge and cap
-a collegiate-style cheer uniform with a cardigan, A-line skirt, and monogrammed pom-poms
+a collegiate-style cheer uniform with a cardigan, A-line skirt, and monogrammed pom-poms with "__name_initials__" stitched on the handles in white
 playful polka-dot mini skirt, layered ruffle top in soft pink, knee-high socks with lace trim, ballet flats; hair in a high ponytail adorned with a large bow, light eye makeup with shimmering eyeshadow and natural lip color
 A swimming ensemble featuring a competitive one-piece swimsuit.
 a timeless red satin dress with a thigh-high slit, accessorized with gold bangles and strappy heels
@@ -666,7 +666,7 @@ leather blindfold, matching leather collar with leash ring, leather gauntlets
 rainy day outfit with a pastel raincoat and waterproof boots
 bright yellow mini skirt, white graphic crop tank top featuring a popular J-pop band, multiple friendship bracelets, colorful sneakers; hair in two fishtail braids with fun hair clips, natural makeup with a tinted lip balm
 A detailed portrait of a woman in a Peruvian pollera, showcasing the intricate embroidery and vibrant colors of this Andean garment.
-Grunge Rocker, Ripped jeans, band tee, leather jacket, and combat boots.
+Grunge Rocker, Ripped jeans, band tee printed "__name_band__", leather jacket, and combat boots.
 a lingerie set with an enchanting ombre effect
 A fitted brown leather dress with copper piping, intricate lace trim, a clockwork belt, a pocket watch necklace, and aviator goggles pushed back on her intricately styled hair.  
 an all-star cheer uniform with a sublimated print top, athletic mesh panels, and ombré pom-poms
@@ -731,7 +731,7 @@ spring pastel-colored mini skirt and white sneakers
 a long trench coat with brass buttons, a bustled underskirt, an ornate corset with cog details, a leather satchel, and thigh-high boots. A mechanical bird perches on her shoulder
 athletic one-piece swimsuit with a swimming cap
 g-String crafted from lustrous latex, with a sleek, modern look, and accented with metallic studs along the edges
-corduroy mini skirt, vintage band t-shirt, layered necklaces including a choker, combat boots; messy bun with a bandana, smoky eye makeup, and a no clothing matte lipstick
+corduroy mini skirt, vintage band t-shirt printed "__name_band__", layered necklaces including a choker, combat boots; messy bun with a bandana, smoky eye makeup, and a no clothing matte lipstick
 elegant crimson red ao dai for formal occasions
 traditional Brazilian baiana dress, with its voluminous skirts and colorful patterns
 Retro-Pinup Swimwear, High-waisted bikini with a retro swim cap.
@@ -864,12 +864,12 @@ vintage denim jacket, a high-waisted floral print skirt, and platform sandals. S
 Boho-Vintage, Maxi bohemian dress, round sunglasses, and fringe bag.
 a luxurious long gown adorned with intricate lace and sparkling beadwork, creating a sense of opulence and glamour
 velvet-textured bikini
-a woman channels the golden era of hip-hop fashion. She wears high-waisted Adidas track pants, a classic logo t-shirt, and a Kangol bucket hat. Her hair is styled in a side ponytail with a scrunchie, and she accessorizes with gold hoop earrings and a chunky ring
+a woman channels the golden era of hip-hop fashion. She wears high-waisted Adidas track pants, a classic logo t-shirt reading "__name_brand_upper__" __text_look_print__, and a Kangol bucket hat. Her hair is styled in a side ponytail with a scrunchie, and she accessorizes with gold hoop earrings and a chunky ring
 sundress, a denim jacket, and platform sandals. She accessorizes with a straw hat, sunglasses, and a few bohemian necklaces
 A vibrant depiction of a woman wearing a traditional Polynesian sarong, showcasing the bright colors and floral patterns.
 Office, Pencil skirt, blouse, blazer, and pumps.
 high-waisted bikini with a bold animal print and a tie-front detail, in a deep emerald green
-a young Japanese woman combines streetwear elements with references to JoJo's Bizarre Adventure, creating a unique and stylish look. She might wear a branded hoodie, ripped jeans, and platform sneakers, accessorizing with a JoJo-inspired hat or backpack
+a young Japanese woman combines streetwear elements with references to JoJo's Bizarre Adventure, creating a unique and stylish look. She might wear a branded hoodie reading "__name_brand_upper__" __text_look_print__, ripped jeans, and platform sneakers, accessorizing with a JoJo-inspired hat or backpack
 Flowing floral maxi dress with a denim jacket and sandals.
 Vintage Beach, High-waisted bikini, retro sunglasses, and a floppy hat.
 A majestic portrait of a woman wearing a traditional Zulu isicholo hat, showcasing the intricate beadwork and vibrant colors.
@@ -891,7 +891,7 @@ tight black tactical stealth suit with widows bite bracelets and an utility belt
 futuristic jumpsuit
 high-waisted bikini with a striped pattern and a knot detail at the hip, in a classic navy blue
 A sporty casual outfit with a baseball cap and sneakers.
-a young woman exudes confidence in a classic hip-hop outfit. She wears baggy jeans with a graffiti-print crop top, a chunky gold chain necklace, and fresh white sneakers. Her hair is styled in long braids, and she accessorizes with hoop earrings and a snapback cap
+a young woman exudes confidence in a classic hip-hop outfit. She wears baggy jeans with a graffiti-print crop top reading "__text_graffiti_word__" __text_look_graffiti__, a chunky gold chain necklace, and fresh white sneakers. Her hair is styled in long braids, and she accessorizes with hoop earrings and a snapback cap
 glamorous sunglasses for a touch of Hollywood style
 military-inspired outfit that is appropriate for the weather. She chooses pieces that are both stylish and functional
 Colorful sari draped gracefully, Indian woman with bindi, bangles, and anklets, posing in ornate temple.
@@ -956,7 +956,7 @@ __f_outfit_formal_mixed__
 A young Japanese woman wears a vibrant outfit inspired by the iconic color palettes of JoJo's Bizarre Adventure. She combines bold colors and patterns to create a unique and eye-catching look.
 a young European noblewoman enjoying a leisurely afternoon in the gardens. She wears a simple yet elegant white cotton dress with a high waistline and lace trim. A straw hat shields her face from the sun, and a single strand of pearls adds a touch of sophistication
 fun brightly colored tie-dye one-piece swimsuit
-a young European noblewoman reading a book in a sunlit library. She wears a comfortable yet elegant dressing gown made of soft wool, with a shawl draped over her shoulders. A pair of spectacles rests on her nose, and a cup of tea sits beside her on a small table
+a young European noblewoman reading a book titled "__name_book_title_any__" in gold on a plain cover in a sunlit library. She wears a comfortable yet elegant dressing gown made of soft wool, with a shawl draped over her shoulders. A pair of spectacles rests on her nose, and a cup of tea sits beside her on a small table
 color-blocked one-piece swimsuit
 A young Japanese woman creates a JoJo-inspired outfit using sustainable materials and ethical practices. She might choose to thrift or upcycle clothing, buy from sustainable brands, or make her own costume.
 A young Japanese woman poses in a dynamic JoJo pose", wearing a black crop top, high-waisted jeans, and platform boots. She accessorizes with a few silver rings and a choker necklace."
@@ -971,7 +971,7 @@ a young Japanese woman dresses up in a JoJo-inspired outfit for a special event,
 red, blue, and gold powerful superhero uniform with glowing cosmic energy (Captain Marvel cosplay)
 a bridal-inspired white lace lingerie ensemble
 cut-out sides bikini with metal accents, ruffled cover-up, beaded earrings, and beach slippers
-Ripped jeans, a band tee, and a leather jacket with combat boots.
+Ripped jeans, a band tee printed "__name_band__", and a leather jacket with combat boots.
 white lace bikini with sheer panels
 a rustic outfit of a linen tunic cinched at the waist, a long skirt with slit sides, and a leather shoulder bag, ideal for a healer or herbalist
 Island Getaway, Tropical print maxi dress, floppy hat, and espadrilles.
@@ -1064,7 +1064,7 @@ floral print high-leg bikini, smocked beach top, bucket hat, and rubber slides
 t-shirt or hoodie featuring her favorite Stand from JoJo's Bizarre Adventure. She pairs it with jeans or a skirt and sneakers, and accessorizes with a few subtle references to her favorite character
 Resort, White linen jumpsuit, straw hat, and espadrille wedges.
 bold zebra print swimsuit with high waist bottoms
-Classic Rock, Band tee, distressed jeans, leather jacket, and boots.
+Classic Rock, Band tee printed "__name_band__" __text_look_print__, distressed jeans, leather jacket, and boots.
 A bold red and black asymmetrical dress with layered tulle, glittering rhinestones, and fingerless gloves.  
 elegant flight attendant in tailored blazer and neck scarf
 sleek __clothing_outfit_color__ __clothing_outfit_material__ swimming suit, athletic aquatic wear
@@ -1115,7 +1115,7 @@ Woman, stoic expression, Rei Ayanami, Evangelion plugsuit, blue hair, holding La
 a casual, everyday T-shirt bra and panty set
 Woman, mischievous grin, Nezuko Kamado, Demon Slayer, bamboo muzzle, pink kimono.
 Tailored grey pants, a crisp white button-down shirt, and blazer.
-a woman embodies a 90s hip-hop aesthetic. She wears oversized denim overalls with one strap down, a colorful bandana as a headband, and chunky sneakers. Her hair is styled in bantu knots, and she accessorizes with bamboo earrings and a nameplate necklace
+a woman embodies a 90s hip-hop aesthetic. She wears oversized denim overalls with one strap down, a colorful bandana as a headband, and chunky sneakers. Her hair is styled in bantu knots, and she accessorizes with bamboo earrings and a nameplate necklace reading "__name_first__" in gold script
 monokini with side cut-outs
 Athleisure, Joggers, hoodie, sneakers, and a baseball cap.
 __clothing_outfit_color__ __clothing_outfit_material__ __f_outfit_casual_top__, __clothing_outfit_color__ __f_outfit_casual_bottom__, sneakers, casual style
@@ -1123,7 +1123,7 @@ A metallic blue crop top with puffed sleeves paired with a pleated skirt, star-s
 Summer BBQ, Denim shorts, tank top, sandals, and a floppy hat.
 a vibrant portrait of a woman in a traditional Spanish flamenco dress, adorned with ruffles and polka dots
 two-tone silk ao dai with a high mandarin collar
-Rock Concert, Ripped jeans, band tee, leather jacket, and boots.
+Rock Concert, Ripped jeans, band tee printed "__name_band__", leather jacket, and boots.
 Ripped mom jeans, a crop top, and a bomber jacket with platform sneakers.
 cherry print ruffle bikini
 traditional white ao dai with graceful, flowing silk fabric
@@ -1175,7 +1175,7 @@ A vibrant portrait of a woman in a traditional Spanish flamenco dress, adorned w
 A dance aerobics outfit with colorful leggings and headband.
 sporty surf bikini with long sleeve rash guard
 Retro Beach, High-waisted bikini, cat-eye sunglasses, and a floppy hat.
-A young Japanese woman combines streetwear elements with references to JoJo's Bizarre Adventure, creating a unique and stylish look. She might wear a branded hoodie, ripped jeans, and platform sneakers, accessorizing with a JoJo-inspired hat or backpack.
+A young Japanese woman combines streetwear elements with references to JoJo's Bizarre Adventure, creating a unique and stylish look. She might wear a branded hoodie reading "__name_brand_upper__" __text_look_print__, ripped jeans, and platform sneakers, accessorizing with a JoJo-inspired hat or backpack.
 A velvet Victorian gown with brass accents, a fitted bodice featuring clockwork details, layered underskirts with lace trims, and a leather choker with a dangling gear pendant.  
 drawstring beach playsuit, t-strap sandals, seashell earrings, and macramé bag
 A martial arts casual outfit with loose pants and a simple top.
@@ -1251,7 +1251,7 @@ traditional sailor uniform with blue accents
 a playful off-shoulder crop top that reveals her midriff, paired with a high-waisted long skirt that elongates her figure and adds a touch of femininity
 elegant white capelet over a white and gold trimmed dress with black tights and elf ears (Frieren cosplay)
 A vibrant portrait of a woman in a traditional Indian sari, adorned with intricate embroidery and gold jewelry.
-Rock 'n' Roll Concert, Ripped jeans, band tee, leather jacket, and boots.
+Rock 'n' Roll Concert, Ripped jeans, band tee printed "__name_band__", leather jacket, and boots.
 a cheongsam with a twist, combining a traditional silk bodice with a flowing, tulle skirt, creating a unique blend of cultural heritage and modern fashion
 A festive cheongsam in a bright, auspicious color, adorned with beading and sequins, perfect for celebrations and special occasions.
 Russia, A woman in a traditional sarafan dress, her head covered in a kokoshnik headdress, performs a graceful Russian folk dance. Her movements are fluid and elegant, her long sleeves creating a mesmerizing visual effect.

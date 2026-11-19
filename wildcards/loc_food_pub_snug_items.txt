@@ -3,5 +3,5 @@ beer mats
 darts
 cards
 cribbage board
-newspaper
-pub menu
+newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
+pub menu headed "__name_brand_invented__ ARMS" in gold print

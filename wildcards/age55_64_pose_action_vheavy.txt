@@ -43,7 +43,7 @@ watering plants
 brushing hair aside, with quiet confidence
 standing with hands in pockets
 leaning on a railing, with careful balance
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 carrying a box
 standing at a window, with a slight smile
 sitting forward with elbows on knees
@@ -251,7 +251,7 @@ hopping, with a calm air
 leaning on a tree, with quiet confidence
 reclining in a chair, with quiet confidence
 reading a map, with graceful posture
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 talking on the phone, with energy
 reaching forward, in a natural candid moment
 hands behind the head
@@ -367,7 +367,7 @@ sitting on a swing, with a casual attitude
 reclining in a chair, in a relaxed way
 reading a map, with a casual attitude
 sprinting, in a relaxed way
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 lying on the side
 turning to look over the shoulder
 standing in a doorway frame, with a casual attitude

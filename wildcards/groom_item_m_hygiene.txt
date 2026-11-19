@@ -4,9 +4,9 @@ A glossy forest green deodorant stick in a cylinder, its cap off and the white s
 A smooth coral deodorant stick in a cylinder, its cap off and the white stick twisted out.
 A matte silver deodorant stick in a cylinder, its cap off and the white stick twisted out. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
 A tall squeezable bottle of body wash in pearlescent coral plastic with a flip cap. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A tall squeezable bottle of body wash in brushed frosted white plastic with a flip cap.
+A tall squeezable bottle of body wash labeled "__name_brand_upper__" in small black print, in brushed frosted white plastic with a flip cap.
 A tall squeezable bottle of body wash in pearlescent pale pink plastic with a flip cap. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A tall squeezable bottle of body wash in satin lilac plastic with a flip cap.
+A tall squeezable bottle of body wash labeled "__name_brand_upper__" in small black print, in satin lilac plastic with a flip cap.
 A tall squeezable bottle of body wash in glossy olive green plastic with a flip cap. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A rectangular bar of soap in dusty rose with rounded edges and a faintly frosted surface, resting on a ceramic dish.
 A rectangular bar of soap in rose gold with rounded edges and a faintly ribbed surface, resting on a ceramic dish.
@@ -19,19 +19,19 @@ A flat refill pouch of shower gel in sage green with a spout at the top. On the 
 A flat refill pouch of shower gel in lavender with a spout at the top.
 A flat refill pouch of shower gel in ivory with a spout at the top. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
 A matte copper bottle of men's intimate wash with a pump top. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A brushed blush pink bottle of men's intimate wash with a pump top.
+A brushed blush pink bottle of men's intimate wash labeled "__name_brand_upper__" in small black print with a pump top.
 A soft-touch charcoal grey bottle of men's intimate wash with a pump top. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A brushed sage green bottle of men's intimate wash with a pump top.
+A brushed sage green bottle of men's intimate wash labeled "__name_brand_upper__" in small black print with a pump top.
 A matte lavender bottle of men's intimate wash with a pump top. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A shaker tin of foot powder in satin lilac metal with a perforated cap. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A shaker tin of foot powder in ribbed matte black metal with a perforated cap.
+A shaker tin of foot powder labeled "__name_brand_upper__" in small white print, in ribbed matte black metal with a perforated cap.
 A shaker tin of foot powder in smooth mint green metal with a perforated cap. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A shaker tin of foot powder in soft-touch frosted white metal with a perforated cap.
+A shaker tin of foot powder labeled "__name_brand_upper__" in small black print, in soft-touch frosted white metal with a perforated cap.
 A shaker tin of foot powder in frosted olive green metal with a perforated cap. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
 A round tin of body powder in pale pink with a puff resting beside it and fine white powder dusted around it. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A round tin of body powder in sky blue with a puff resting beside it and fine white powder dusted around it.
+A round tin of body powder labeled "__name_brand_upper__" in small black print, in sky blue with a puff resting beside it and fine white powder dusted around it.
 A round tin of body powder in silver with a puff resting beside it and fine white powder dusted around it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A round tin of body powder in clear with a puff resting beside it and fine white powder dusted around it.
+A round tin of body powder labeled "__name_brand_upper__" in small black print, in clear with a puff resting beside it and fine white powder dusted around it.
 A round tin of body powder in burgundy with a puff resting beside it and fine white powder dusted around it. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A cordless body groomer in speckled soft white with a narrow trimmer head and a guard comb beside it.
 A cordless body groomer in smooth teal with a narrow trimmer head and a guard comb beside it.
@@ -54,9 +54,9 @@ A toothbrush with a thick cream handle and firm bristles, in a ceramic cup.
 A toothbrush with a thick dusty rose handle and firm bristles, in a ceramic cup.
 A toothbrush with a thick mustard yellow handle and firm bristles, in a ceramic cup.
 A squeezable tube of shaving gel in brushed cream with a screw cap. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A squeezable tube of shaving gel in speckled silver with a screw cap.
+A squeezable tube of shaving gel labeled "__name_brand_upper__" in small black print, in speckled silver with a screw cap.
 A squeezable tube of shaving gel in glossy pale pink with a screw cap. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A squeezable tube of shaving gel in brushed mint green with a screw cap.
+A squeezable tube of shaving gel labeled "__name_brand_upper__" in small black print, in brushed mint green with a screw cap.
 A squeezable tube of shaving gel in satin sky blue with a screw cap. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
 A folded ivory towel with a woven stripe at one end, on a gym bench.
 A folded olive green towel with a woven stripe at one end, on a gym bench.
@@ -64,7 +64,7 @@ A folded mint green towel with a woven stripe at one end, on a gym bench.
 A folded frosted white towel with a woven stripe at one end, on a gym bench.
 A folded silver towel with a woven stripe at one end, on a gym bench.
 A tall satin sand aerosol can of antiperspirant with a button cap. On the front, the name "__name_brand__" is printed in large letters on the first line and "__name_variant_household__" on the second line.
-A tall satin sky blue aerosol can of antiperspirant with a button cap.
+A tall satin sky blue aerosol can of antiperspirant labeled "__name_brand_upper__" in small black print with a button cap.
 A tall frosted slate grey aerosol can of antiperspirant with a button cap. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.
-A tall speckled soft white aerosol can of antiperspirant with a button cap.
+A tall speckled soft white aerosol can of antiperspirant labeled "__name_brand_upper__" in small black print with a button cap.
 A tall matte frosted white aerosol can of antiperspirant with a button cap. The front reads "__name_brand__" on the first line and "__name_type_household__" on the second line, with "__name_weight_household__" in small letters at the bottom.

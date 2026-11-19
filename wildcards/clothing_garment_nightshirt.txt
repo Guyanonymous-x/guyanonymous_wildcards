@@ -74,17 +74,17 @@ thermal knit henley nightshirt
 cotton drawstring nightshirt with rolled sleeves
 seersucker drawstring nightshirt
 cabin-style brushed cotton thigh-length sleep shirt
-brushed cotton grandpa-style nightshirt with embroidered monogram
+brushed cotton grandpa-style nightshirt with embroidered monogram "__name_initials__"
 Edwardian nightshirt with ruffled collar with lace-trimmed yoke
 silk thigh-length sleep shirt with tiny checks
-linen cotton nightshirt with embroidered monogram
+linen cotton nightshirt with embroidered monogram "__name_initials__"
 Victorian satin sleep shirt
 rustic pocketed nightshirt
 modal hooded sleep shirt with tiny checks
 1930s jersey sleep shirt with short placket
 Victorian silk nightshirt
 linen nightshirt
-side-slit nightshirt with embroidered monogram
+side-slit nightshirt with embroidered monogram "__name_initials__"
 muslin kaftan-style nightshirt with elbow patches
 1940s grandpa-style nightshirt with long tails
 linen nightshirt
@@ -95,7 +95,7 @@ muslin henley nightshirt with tie neck
 long-sleeved nightshirt
 contemporary striped nightshirt with contrast piping
 retro Edwardian nightshirt with ruffled collar with short placket
-bamboo jersey grandpa-style nightshirt with embroidered monogram
+bamboo jersey grandpa-style nightshirt with embroidered monogram "__name_initials__"
 graphic-free band-tee-style sleep shirt with lace-trimmed yoke
 2000s oversized sleep shirt
 thermal knit tunic-style sleep shirt
@@ -212,13 +212,13 @@ rustic graphic-free band-tee-style sleep shirt with soft brushed finish
 classic nightshirt with drop shoulders
 brushed cotton flannel nightshirt
 post-war silk piped pyjama-style nightshirt
-cotton pocketed nightshirt with embroidered monogram
+cotton pocketed nightshirt with embroidered monogram "__name_initials__"
 cotton lawn Edwardian nightshirt with ruffled collar
 Soviet-era tunic-style sleep shirt
 knee-length nightshirt with woven stripes
 1960s poplin knee-length nightshirt
 Edwardian nightshirt with ruffled collar
-Edwardian nightshirt with ruffled collar with embroidered monogram
+Edwardian nightshirt with ruffled collar with embroidered monogram "__name_initials__"
 side-slit nightshirt with elbow patches
 modern linen plaid flannel nightshirt
 short-sleeved sleep tee dress
@@ -247,7 +247,7 @@ Victorian nightshirt
 1930s silk Victorian nightshirt
 futuristic flannel nightshirt
 1950s thermal knit cotton nightshirt
-satin grandpa-style nightshirt with embroidered monogram
+satin grandpa-style nightshirt with embroidered monogram "__name_initials__"
 1970s tunic-style sleep shirt
 piped pyjama-style nightshirt with ruffled hem
 Soviet-era classic nightshirt
@@ -273,7 +273,7 @@ silk nightshirt
 contemporary high-low nightshirt with contrast piping
 drawstring nightshirt
 side-slit nightshirt
-grandpa-style nightshirt with embroidered monogram
+grandpa-style nightshirt with embroidered monogram "__name_initials__"
 jersey sleep shirt with button placket
 modal thermal nightshirt with tie neck
 jersey Edwardian nightshirt with ruffled collar

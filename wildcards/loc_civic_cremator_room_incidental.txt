@@ -2,11 +2,11 @@ a mug on a shelf well away from the working area
 a radio playing quietly
 a calendar from a plant supplier
 a pair of work boots
-a tin of hand cleaner
-a notice about a maintenance visit
+a tin of hand cleaner printed "HAND CLEANER" __text_look_print__
+a notice about a maintenance visit, reading "ENGINEER VISIT THURSDAY" __text_look_paper_notice__, the rest of the sheet plain white
 a sweeping brush
 a pair of gloves shaped to one person's hands
 a tray of name plates with names such as "__name_person__" awaiting collection
-a handwritten note about a difficult charge
+a handwritten note reading "Go slow on number 2" in hurried pencil scrawl about a difficult charge
 a ballpoint
 a kettle

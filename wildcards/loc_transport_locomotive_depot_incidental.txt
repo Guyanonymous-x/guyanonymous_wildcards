@@ -1,7 +1,7 @@
 a mug on a cab step
 a works calendar from a bearing supplier
-a newspaper in the pit
-a tin of hand cleaner
+a newspaper with the headline "__text_headline__" __text_look_headline__ in the pit
+a tin of hand cleaner printed "HAND CLEANER" __text_look_print__
 a radio playing over the compressors
 a photograph of a withdrawn class pinned in the mess
 a nameplate reading "__name_person__" propped against a wall awaiting a presentation

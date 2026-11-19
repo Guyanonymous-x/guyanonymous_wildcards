@@ -194,7 +194,7 @@ a miller, dressed in a dusty smock with trousers
 a newspaper vendor (1920s), in a flat cap, a waistcoat and rolled sleeves and a flat cap
 a newspaper vendor (1920s), in a flat cap, a waistcoat and rolled sleeves and trousers and boots
 a newspaper vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots
-a newspaper vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots and carrying a stack of papers
+a newspaper vendor (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots and carrying a stack of papers, the top front page headed "__name_newspaper__" with "__text_headline__" __text_look_headline__, the rest of the page one large photo
 a newspaper vendor, dressed in a flat cap, a waistcoat and rolled sleeves with trousers
 a plumber (call-out), in a work shirt and a knee-padded trouser set and a cap
 a plumber (call-out), in a work shirt and a knee-padded trouser set and work trousers and boots
@@ -204,7 +204,7 @@ a plumber, dressed in a work shirt and a knee-padded trouser set with work trous
 a postal worker (city), in a uniform shirt with a bag across the body and a pith helmet
 a postal worker (city), in a uniform shirt with a bag across the body and shorts and shoes
 a postal worker (city), wearing a uniform shirt with a bag across the body, shorts, a pith helmet and shoes
-a postal worker (city), wearing a uniform shirt with a bag across the body, shorts, a pith helmet and shoes and carrying letters
+a postal worker (city), wearing a uniform shirt with a bag across the body, shorts, a pith helmet and shoes and carrying letters addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of each envelope plain
 a postal worker, dressed in a uniform shirt with a bag across the body with shorts
 a potter (studio), in a clay-stained apron over a loose shirt and trousers and clogs
 a potter (studio), wearing a clay-stained apron over a loose shirt, trousers and clogs

@@ -15,11 +15,11 @@ a thin chain necklace set with small stones
 a signet ring in brushed metal
 worn leather-strap watch
 drop earrings in a minimalist style
-dog tags on a ball chain
+dog tags stamped "__name_surname__ __name_initials__" in raised letters on a ball chain
 a locket in antiqued metal
 a lapel pin in a handmade style
 a belly chain in a bold statement style
-dog tags in hammered metal
+dog tags stamped "__name_initials__" in raised stamped capitals in hammered metal
 a leather wrist cuff in a vintage style
 a charm necklace in a minimalist style
 cufflinks with a wooden bead detail
@@ -29,7 +29,7 @@ a stack of thin rings in a delicate style
 ear cuffs in a handmade style
 a hair jewel in antiqued metal
 single stud earring
-dog tags in polished metal
+dog tags stamped "__name_initials__" in raised stamped capitals in polished metal
 a cuff bracelet in a bold statement style
 a leather wrist cuff in a delicate style
 a statement ring in polished metal
@@ -39,7 +39,7 @@ a cuff bracelet in a vintage style
 a chunky chain necklace in a minimalist style
 a layered set of necklaces with enamel detail
 drop earrings with a wooden bead detail
-dog tags in a minimalist style
+dog tags stamped "__name_initials__" in raised stamped capitals in a minimalist style
 a hair jewel with enamel detail
 a cameo brooch in a layered look
 a cameo brooch in brushed metal
@@ -138,9 +138,9 @@ a tie clip set with a single gem
 a tie clip in a vintage style
 a pendant on a cord with engraved detail
 body chains in a delicate style
-dog tags in a vintage style
+dog tags stamped "__name_surname_world__ __name_initials__" in raised stamped capitals, in a vintage style
 a locket in a handmade style
-dog tags with a wooden bead detail
+dog tags stamped "__name_surname__ __name_initials__" in raised letters with a wooden bead detail
 stud earrings in antiqued metal
 simple leather cord necklace
 a watch with a glass bead detail
@@ -176,7 +176,7 @@ prayer beads in a handmade style
 hoop earrings with a woven cord
 a belly chain with enamel detail
 an anklet in brushed metal
-dog tags with enamel detail
+dog tags stamped "__name_surname__ __name_initials__" in raised letters with enamel detail
 a statement ring in hammered metal
 a bangle with a shell detail
 a bracelet stack in a minimalist style
@@ -216,7 +216,7 @@ a cuff bracelet with enamel detail
 a lapel pin with a glass bead detail
 a belly chain with a glass bead detail
 turquoise ring and a leather cuff
-dog tags in polished metal
+dog tags stamped "__name_initials__" in raised stamped capitals in polished metal
 stacked leather and beaded bracelets
 a tie clip in a handmade style
 a tie clip with a woven cord
@@ -243,7 +243,7 @@ a locket in a bold statement style
 a bracelet stack in a minimalist style
 a locket set with a single gem
 friendship bracelets in a bold statement style
-dog tags in brushed metal
+dog tags stamped "__name_surname_world__ __name_initials__" in raised stamped capitals, in brushed metal
 a beaded bracelet with enamel detail
 body chains in a minimalist style
 a cameo brooch in a handmade style
@@ -323,7 +323,7 @@ a brooch in hammered metal
 plain wedding band only
 a cameo brooch with engraved detail
 dive watch with a rotating bezel
-dog tags with a wooden bead detail
+dog tags stamped "__name_surname__ __name_initials__" in raised letters with a wooden bead detail
 a belly chain in a bold statement style
 hoop earrings in a layered look
 a lapel pin set with a single gem
@@ -423,7 +423,7 @@ a bangle with a shell detail
 a statement ring with a shell detail
 a nose stud with engraved detail
 diamond stud earrings
-dog tags in a bold statement style
+dog tags stamped "__name_surname_world__ __name_initials__" in raised stamped capitals, in a bold statement style
 a charm necklace in hammered metal
 a thin chain necklace with enamel detail
 cufflinks in brushed metal
@@ -446,7 +446,7 @@ friendship bracelets set with small stones
 a cuff bracelet in antiqued metal
 a pearl strand set with small stones
 a bracelet stack in a handmade style
-dog tags in a minimalist style
+dog tags stamped "__name_initials__" in raised stamped capitals in a minimalist style
 a cuff bracelet in brushed metal
 drop earrings in a handmade style
 an anklet in a handmade style
@@ -460,7 +460,7 @@ a bracelet stack with a shell detail
 ear cuffs set with small stones
 plain wedding band only
 a stack of thin rings with a wooden bead detail
-dog tags in a vintage style
+dog tags stamped "__name_surname_world__ __name_initials__" in raised stamped capitals, in a vintage style
 drop earrings set with small stones
 religious pendant on a fine chain
 a stack of thin rings in a delicate style
@@ -550,7 +550,7 @@ a chunky chain necklace with a glass bead detail
 body chains in polished metal
 a pendant on a cord set with small stones
 a belly chain in a handmade style
-dog tags with engraved detail
+dog tags stamped "__name_surname__ __name_initials__" in raised letters with engraved detail
 a belly chain with enamel detail
 a pendant on a cord in brushed metal
 a pearl strand in hammered metal
@@ -599,7 +599,7 @@ stud earrings with a wooden bead detail
 a statement ring with a glass bead detail
 a layered set of necklaces in antiqued metal
 a layered set of necklaces in hammered metal
-dog tags in brushed metal
+dog tags stamped "__name_surname_world__ __name_initials__" in raised stamped capitals, in brushed metal
 a cameo brooch in a vintage style
 a pearl strand in antiqued metal
 a cuff bracelet with a wooden bead detail
@@ -615,7 +615,7 @@ a brooch in hammered metal
 stud earrings set with a single gem
 a cuff bracelet in a vintage style
 a leather wrist cuff with enamel detail
-dog tags on a ball chain
+dog tags stamped "__name_surname__ __name_initials__" in raised letters on a ball chain
 a bracelet stack with a wooden bead detail
 a bracelet stack with engraved detail
 a bangle set with a single gem
@@ -627,7 +627,7 @@ a hair jewel with engraved detail
 a thin chain necklace in hammered metal
 a layered set of necklaces with engraved detail
 drop earrings in brushed metal
-dog tags in hammered metal
+dog tags stamped "__name_initials__" in raised stamped capitals in hammered metal
 a hair jewel with a shell detail
 a thin chain necklace in a handmade style
 a nose stud in hammered metal
@@ -636,9 +636,9 @@ puka shell necklace
 a statement ring set with small stones
 a charm necklace in a layered look
 a hair jewel in brushed metal
-dog tags with enamel detail
+dog tags stamped "__name_surname__ __name_initials__" in raised letters with enamel detail
 a leather wrist cuff set with a single gem
-dog tags with engraved detail
+dog tags stamped "__name_surname__ __name_initials__" in raised letters with engraved detail
 a statement ring in a vintage style
 a statement ring in a delicate style
 a locket with engraved detail
@@ -647,7 +647,7 @@ hoop earrings in a bold statement style
 drop earrings in hammered metal
 a belly chain in a vintage style
 a signet ring with a shell detail
-dog tags in a bold statement style
+dog tags stamped "__name_surname_world__ __name_initials__" in raised stamped capitals, in a bold statement style
 a beaded bracelet with a woven cord
 prayer beads with a wooden bead detail
 a leather wrist cuff in a vintage style

@@ -321,7 +321,7 @@ sitting on a rock
 reaching to the side
 singing, with graceful posture
 walking away
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 saluting
 leaning on a table, in a relaxed way
 strolling casually, with a casual attitude
@@ -348,7 +348,7 @@ pulling a suitcase, with a sense of ease
 sitting on a chair, with a calm air
 kneeling on one knee
 fixing a collar, in a natural candid moment
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on a sofa, with focus
 kneeling on one knee on ground
 praying, while looking away
@@ -408,7 +408,7 @@ cowering low defensive pose
 squatting
 standing in a doorway frame
 playing piano, with focus
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 standing on a balcony, with quiet confidence
 turning away, with a sense of ease
 tying hair back

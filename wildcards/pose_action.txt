@@ -333,8 +333,8 @@ fixing a collar, in a natural candid moment
 fixing a collar, while glancing at the camera
 rolling up sleeves, with careful balance
 checking a watch, with a casual attitude
-reading a book, with graceful posture
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 reading a map, with energy
 reading a map, with graceful posture
 reading a map, with a casual attitude
@@ -524,7 +524,7 @@ brushing hair aside
 fixing a collar
 rolling up sleeves
 checking a watch
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 reading a map
 writing in a notebook
 using a phone

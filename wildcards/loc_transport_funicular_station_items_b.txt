@@ -1,3 +1,3 @@
-a timetable
-a leaflet about the line's history
-a plaque with the opening date
+a timetable reading "__text_departure__" __text_look_paper_notice__, the rest of the sheet plain white
+a leaflet about the line's history, headed "OUR HISTORY" __text_look_print__, the rest of the leaflet plain
+a plaque with the opening date reading "OPENED BY THE MAYOR __name_year__" __text_look_brass__

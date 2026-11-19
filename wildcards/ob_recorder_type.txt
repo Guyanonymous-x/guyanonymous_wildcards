@@ -10,7 +10,7 @@ chart recorders
 chart recorders with pens drawing on rolls
 a chart recorder with a pen trace on a rolling paper
 a chart recorder with a pen trace on rolling paper
-a chart recorder or a trend screen showing flow
+a chart recorder or a trend screen showing flow as "__name_number_small__ L/S" in green letters on black
 a chart recorder or trend screen
 a chart recorder on the drying room door showing temperature and humidity for the last ninety days
 the ninety-day chart recorder on the drying room door

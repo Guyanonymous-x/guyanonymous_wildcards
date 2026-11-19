@@ -122,7 +122,7 @@ towel ring
 a wet ring on the bar
 tart rings
 coffee rings
-the ring of lit vendor signs
+the ring of lit vendor signs reading "__text_price_item__" __text_look_backlit__
 life ring
 a ring on the nightstand
 rings
@@ -132,7 +132,7 @@ a client's rings in a small dish
 a mug ring on a desk
 a cup ring on a windowsill out of sight
 a pint ring on the stage edge
-a drink ring on the song book cover
+a drink ring on the song book cover titled "SONG BOOK" in bold white letters, the rest of the cover plain
 the ring
 a ring of light leaking at the tent's base
 linking rings
@@ -174,8 +174,8 @@ the mooring rings in the rock
 the mooring rings
 a mug ring on a cabinet top where somebody set a cup down once
 a scorch ring on the bench where something went wrong
-a wedding ring in an envelope
-a wedding ring in a small envelope with a reference number
+a wedding ring in an envelope marked "NUMBER __name_number_small__" in pencil
+a wedding ring in a small envelope with a reference number reading "__name_initials__ __name_number_small__" in pencil
 a mug ring on a table edge where drinks are forbidden
 a ring of limescale at the old waterline
 a scorch ring on the rock

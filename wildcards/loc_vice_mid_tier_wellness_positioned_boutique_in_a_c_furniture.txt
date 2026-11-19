@@ -7,8 +7,8 @@ a sample table
 a consultation corner
 a terrazzo counter with terminal and no till
 aproned staff with name lanyards reading names such as "__name_first__"
-a book and leaflet shelf
-an event poster
+a book and leaflet shelf of leaflets headed "__text_health_poster__" __text_look_print__
+an event poster reading "__text_poster_event__" __text_look_print__, the rest of the poster a bold photo
 a lingerie rail and fitting room
 a customer lavatory
 a framed license

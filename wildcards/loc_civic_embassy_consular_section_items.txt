@@ -1,7 +1,7 @@
 visa application forms
-a numbered ticket
+a numbered ticket reading "NUMBER __name_number_small__" in bold black print, the rest of the ticket plain
 a photograph to specification
-a fee receipt
-a passport being handed through a tray
-a notice in two languages
+a fee receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip plain
+a passport being handed through a tray, with "PASSPORT" in gold capitals on its cover, the rest of the cover plain
+a notice in two languages, reading "WELCOME" with "BIENVENIDOS" below it in bold black print, the rest of the sheet plain white
 a pen on a chain

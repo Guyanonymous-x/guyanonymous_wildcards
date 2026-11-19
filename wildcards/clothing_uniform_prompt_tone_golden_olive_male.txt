@@ -289,7 +289,7 @@ a cheese rolling competitor in a masculine cut (England), wearing a padded jumpe
 a chicken suit wearer in a masculine cut (promotion), wearing a feathered chicken suit, a beaked hood and yellow feet, tailored in a masculine cut with a straight waist, with golden olive skin
 a chimney sweep in a masculine cut (Victorian), wearing a soot-covered coat and a top hat, trousers, a battered top hat and boots, cut for a masculine frame with broad shoulders and carrying a brush, with golden olive skin
 a chocolatier in a masculine cut (shop), wearing a white jacket with a hat, checked trousers, a cap and clogs, in a masculine cut with a roomy chest and shoulders, with golden olive skin
-a choir singer in a masculine cut (cathedral), wearing a long red cassock with a white ruff and shoes, tailored in a masculine cut with a straight waist and carrying a hymn book, with golden olive skin
+a choir singer in a masculine cut (cathedral), wearing a long red cassock with a white ruff and shoes, tailored in a masculine cut with a straight waist and carrying a hymn book with "__text_hymn_book__" in gold letters on the cover, the rest of the cover plain, with golden olive skin
 a circus ringmaster in a masculine cut (circus), in a red tailcoat with gold braid and a top hat, with golden olive skin
 a clockmaker in a masculine cut (steampunk), in a leather apron with loupe and trousers and boots, with golden olive skin
 a clockwork automaton in a masculine cut (steampunk), wearing a brass-plated chest with gears, a brass face plate and boots, cut for a masculine frame with broad shoulders, with golden olive skin
@@ -528,7 +528,7 @@ a tennis player in a masculine cut (Wimbledon), in a white polo shirt and a head
 a terraforming botanist in a masculine cut (sci-fi), in an olive coverall with a seed pouch and boots, with golden olive skin
 a thunder god in a masculine cut, dressed in a hammer belt and a cape, with golden olive skin
 a tin man robot in a masculine cut, dressed in a metal funnel hat and silver chest piece with silver trousers, with golden olive skin
-a tour guide in a masculine cut (city), in a branded polo and a flag and shorts and trainers, with golden olive skin
+a tour guide in a masculine cut (city), in a branded polo with "__name_brand_upper__" on the chest and a flag and shorts and trainers, with golden olive skin
 a traffic officer in a masculine cut (road), wearing a high-visibility jacket with white gloves, dark trousers, a reflective cap and boots, cut for a masculine frame with broad shoulders, with golden olive skin
 a trainspotter in a masculine cut (station), in an anorak with a notebook and trousers and shoes, with golden olive skin
 a trickster god in a masculine cut, dressed in a green and gold cape, with golden olive skin
@@ -540,7 +540,7 @@ a vaudeville performer in a masculine cut (stage), in a striped blazer with a st
 a veterinarian in a masculine cut (clinic), wearing a patterned scrub top with a stethoscope and a cat-print lab coat, scrub trousers and work shoes, cut for a masculine frame with broad shoulders and carrying a small animal carrier, with golden olive skin
 a void wanderer in a masculine cut, dressed in a hooded cloak over a patched suit, with golden olive skin
 a waiter in a masculine cut, dressed in a white shirt with a black waistcoat and a bow tie with black trousers, with golden olive skin
-a walking sandwich board seller in a masculine cut (street), in a hot dog costume with a sandwich board and shoes, with golden olive skin
+a walking sandwich board seller in a masculine cut (street), in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, with golden olive skin
 a wandering monster slayer in a masculine cut (fantasy), in a worn leather jerkin with strapped vials and trousers and boots, with golden olive skin
 a warehouse picker in a masculine cut (logistics), in a high-visibility vest and a scanner on the wrist and work trousers and safety shoes, with golden olive skin
 a welder in a masculine cut (workshop), in a leather welding jacket and gauntlets and a welding helmet, with golden olive skin
@@ -556,7 +556,7 @@ a yoga instructor in a masculine cut (studio), in a fitted top and yoga trousers
 a zombie nurse in a masculine cut (horror), wearing a blood-stained nurse's dress and a cap, tailored in a masculine cut with a straight waist and carrying a syringe, with golden olive skin
 an Amazon warrior in a masculine cut (fantasy), in a leather breastplate with arm guards and trousers and sandals, with golden olive skin
 an American Civil War infantry soldier in a masculine cut, dressed in a wool sack coat with wool trousers, with golden olive skin
-an Anglican vicar in a masculine cut (village church), wearing a black cassock with a white surplice and black shoes, in a masculine cut with a roomy chest and shoulders and carrying a bible, with golden olive skin
+an Anglican vicar in a masculine cut (village church), wearing a black cassock with a white surplice and black shoes, in a masculine cut with a roomy chest and shoulders and carrying a bible with "HOLY BIBLE" in gold letters on the cover, the rest of the cover plain, with golden olive skin
 an Ayurvedic practitioner in a masculine cut (South Asia), wearing a white kurta with a shoulder cloth, a dhoti and leather sandals, in a masculine cut with a roomy chest and shoulders, with golden olive skin
 an Aztec jaguar warrior in a masculine cut (Mexico), in a jaguar-skin suit and a jaguar-head helmet, with golden olive skin
 an Edwardian suffragette in a masculine cut (1900s), wearing a tailored jacket with a sash, trousers, a hat and boots, in a masculine cut with a roomy chest and shoulders and carrying a banner reading "VOTES FOR WOMEN" __text_look_banner__, with golden olive skin

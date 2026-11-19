@@ -2,7 +2,7 @@ a lanyard
 a conference lanyard
 a lost lanyard
 a work lanyard
-a dual-branded lanyard
+a dual-branded lanyard printed "__name_brand_upper__" and "__name_brand_invented__" in white print
 a charity collector's lanyard
 a station assistant's lanyard
 a crusted torch lanyard
@@ -32,5 +32,5 @@ a lanyard on the gearlever
 a lanyard with the alarm's paint worn off
 a lanyard with a first name, "__name_first__", on it rather than a uniform
 a lanyard with the store's badge and the brand's name "__name_brand__" under it
-the dual-branded lanyard
+the dual-branded lanyard printed "__name_brand_upper__" and "__name_brand_upper__" in white capitals
 eleven conference lanyards on a single drawing pin

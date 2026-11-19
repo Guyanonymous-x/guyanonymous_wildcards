@@ -1,6 +1,6 @@
-a ticket validator
-a timetable
+a ticket validator marked "VALIDATE TICKET" in white letters on a blue panel
+a timetable reading "__text_departure__" __text_look_paper_notice__, the rest of the sheet plain white
 a shopping bag
 a bicycle
-a dropped ticket
-a leaflet about fares
+a dropped ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
+a leaflet about fares headed "FARES" __text_look_print__, with "__text_price_line__" below, the rest of the leaflet plain

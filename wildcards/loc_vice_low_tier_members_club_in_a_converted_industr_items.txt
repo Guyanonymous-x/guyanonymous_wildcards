@@ -1,5 +1,5 @@
 a first-floor unit in a small industrial building reached by an external steel stair
-a street-level door with an intercom and a membership card reader
+a street-level door with an intercom and a membership card reader marked "MEMBERS" in white letters
 a lobby with a desk
 a laminated constitution of the association on the wall and a framed statute extract
 a membership register in a ring binder and a card printer
@@ -14,6 +14,6 @@ a logbook and a per-member monthly allocation chart
 a cultivation room behind a locked door with lighting rig
 extraction ducting and a sign reading "__loc_text_notice__" limiting access to two named members
 a vaporizer bar with four units
-a notice board of general meetings
+a notice board of general meetings headed "GENERAL MEETING __name_year__" __text_look_paper_notice__, the rest of the board bare cork
 a smoking terrace on the roof with a canopy
 a fire alarm panel and a tested log

@@ -1,5 +1,5 @@
-a cork noticeboard crowded with papers
-a glass-fronted noticeboard
-a felt noticeboard
-a whiteboard noticeboard
-a painted noticeboard with a frame
+a cork noticeboard crowded with papers headed "__text_bulletin__" __text_look_paper_notice__, the rest of each sheet plain
+a glass-fronted noticeboard with sheets headed "__text_bulletin__" __text_look_paper_notice__, the rest of each sheet plain
+a felt noticeboard with sheets headed "__text_bulletin__" __text_look_paper_notice__, the rest of each sheet plain
+a whiteboard noticeboard reading "__text_note__" in blue marker
+a painted noticeboard with sheets headed "__text_bulletin__" __text_look_paper_notice__, the rest of each sheet plain, with a frame

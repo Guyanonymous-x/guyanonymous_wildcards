@@ -1,7 +1,7 @@
 tankards
 playing cards
 board games
-newspapers
+newspapers with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of each front page plain
 maps
 firewood
 candles

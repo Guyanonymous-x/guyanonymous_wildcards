@@ -7,8 +7,8 @@ a divot tool
 a because tool
 a string winding tool
 a measuring tool
-a sign about returning tool
-a handwritten sign about returning tool
+a sign reading "RETURN TOOLS HERE" __text_look_paper_notice__ about returning tool
+a handwritten sign reading "RETURN TOOLS HERE" __text_look_marker__ about returning tool
 a power tool
 a carving tool
 a tuning tool
@@ -29,8 +29,8 @@ a tool and cutter grinder
 tools and firewood
 tools hung in silhouette
 measuring tools on a magnetic strip
-a sign about returning tools
-a handwritten sign about returning tools with three exclamation marks
+a sign reading "RETURN TOOLS HERE" __text_look_paper_notice__ about returning tools
+a handwritten sign reading "RETURN TOOLS HERE!!!" __text_look_marker__ about returning tools with three exclamation marks
 process tools
 power tools
 a frame adjustment tool in a drawer

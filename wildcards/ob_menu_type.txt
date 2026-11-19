@@ -1,6 +1,6 @@
-a laminated menu
-a chalkboard menu
-a printed card menu
-a folded menu
-a menu in a stand
-a handwritten menu on a clipboard
+a laminated menu reading "__text_price_line__" __text_look_print__
+a chalkboard menu reading "__text_price_line__" __text_look_chalk__
+a printed card menu headed "MENU" in gold script with "__text_price_line__" below in black print
+a folded menu headed "MENU" in gold script
+a menu reading "__text_price_line__" __text_look_print__ in a stand
+a handwritten menu reading "__text_price_line__" __text_look_handwriting__ on a clipboard

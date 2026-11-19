@@ -1,11 +1,11 @@
 a mug with a regimental crest
-a newspaper folded to the crossword
-a tin of biscuits
+a newspaper with "CROSSWORD" in bold black print above the grid folded to the crossword
+a tin of biscuits printed "__name_brand_upper__ BISCUITS" in gold letters on the lid
 a portable heater
-a paperback
+a paperback titled "__name_book_title_any__" __text_look_print__, the rest of the cover plain
 a dropped visitor pass
 a kettle with limescale
-a football result written on a pad
+a football result "__text_score__" in blue ballpoint written on a pad
 a radio tuned to one station for years
 a pair of boots drying
 a sandwich box

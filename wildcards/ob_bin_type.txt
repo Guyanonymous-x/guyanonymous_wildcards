@@ -23,7 +23,7 @@ a grain bin
 a sawdust bin
 an overhead shelf rather than bin
 a parts bin
-a labeled bin
+a labeled bin reading "RECYCLING" __text_look_label__
 a filter findings bin
 a pedal bin
 a floor-standing bin
@@ -38,7 +38,7 @@ an offcut bin
 a reclaim bin
 a diaper bin
 a dalek bin
-a notice about somebody's bin
+a notice about somebody's bin, reading "PLEASE TAKE YOUR BIN IN" __text_look_paper_notice__, the rest of the sheet plain white
 a small-parts bin
 a smoking bin
 a standing bin
@@ -120,14 +120,14 @@ a bin of failed attempts
 a bin of crumpled paper that is slightly performative
 a bin left out after collection
 a bin that is empty
-a wheelie bin with a house number painted on in white
+a wheelie bin with a house number "__name_number_small__" painted on in white
 a bin with a brick on the lid
 a compost bin at the end
 a feed bin with a weighted lid
 a bin with a cracked lid taped
 a compost bin under the bench
 bins on collection day
-a notice about somebody's bins
+a notice about somebody's bins, headed "PLEASE MOVE YOUR BINS" __text_look_paper_notice__, the rest of the sheet plain white
 the overhead bin with a task light beneath
 bins for waste separation
 a bin with separated waste
@@ -142,7 +142,7 @@ a waste bin for sharps
 a bin of gloves
 a smoking bin by the door
 commercial bins
-the row of different-colored bins with their streams labeled
+the row of different-colored bins with their streams labeled "PAPER", "PLASTIC" and "GLASS" in white capitals
 waste bins
 sharps bin in some
 laundry bin for used towels
@@ -164,7 +164,7 @@ display bins
 crate bins at browsing height
 the browsing bins with hands flipping through them
 a bin for stem waste
-a bin of flowers past their best with a reduced sign
+a bin of flowers past their best with a reduced sign reading "REDUCED __name_price__" in red marker
 a recycling bin for offcuts
 trash bins
 laundry bins
@@ -234,8 +234,8 @@ a bin of empty cups each with a different color ring in the bottom
 a bin of used cloths
 a bin of blown fuses
 a bin of blown fuses kept because the pattern of what blows tells you something
-a parts bin of the owner's spares with labels in fountain pen
-a parts bin with labels in fountain pen in a handwriting that belongs to somebody who retired
+a parts bin of the owner's spares with labels reading "FUSES" and "SPRINGS" in fountain pen
+a parts bin with labels reading "FUSES" and "SPRINGS" in fountain pen in a handwriting that belongs to somebody who retired
 a bin of split air lines
 a bin of split air lines kept because the pattern of splits tells you which route is worst for them
 a bin of buckles and tensioners
@@ -263,9 +263,9 @@ a bin of broken window glazing clips
 a bin of broken window glazing clips which break constantly and which nobody has ever redesigned
 the bin of blue swarf
 a bin of lost property in a cage
-a bin of failed relays with labels
-a bin of failed relays each with a label giving the location it came from and the symptom
-the labeled bin of failed relays
+a bin of failed relays with labels reading "BAY __name_number_small__" __text_look_label__
+a bin of failed relays each with a label reading "BAY __name_number_small__ STICKS" in black marker on masking tape, giving the location it came from and the symptom
+the labeled bin of failed relays, its label reading "FAILED RELAYS" in black marker on masking tape
 a bin of used clips and pandrol fasteners
 a bin of used clips kept separately from new ones and both of them kept because the used ones go back in on a reclaimed job
 a bin of reclaimed clips
@@ -349,12 +349,12 @@ a sharps bin on a bracket at the exact height it is needed
 a sharps bin at a worn height
 a bin at the gate that is the only bin anybody emptied
 a bin that is emptied
-four labeled bins for compost
+four labeled "COMPOST", "PAPER", "GLASS" and "PLASTIC" in black marker bins for compost
 bulk food bins
 a sharps bin or a medication lockbox in some units
 bin or kettle
 a pedal bin with the pedal bent
-a sharps bin and a clinical waste contract sticker on the lid
+a sharps bin and a clinical waste contract sticker reading "CLINICAL WASTE" in black print on a yellow sticker on the lid
 sharps bin and elbow taps
 a bin of remaindered DVDs at a pound each
 a bin of remaindered DVDs at a pound

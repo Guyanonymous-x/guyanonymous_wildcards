@@ -1,12 +1,12 @@
-a newspaper folded on the dash
+a newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the page a large photo, folded on the dash
 an air freshener hanging from the mirror
 a flask in the door pocket
 a phone cradle with a cracked clamp
 a child's seat in the boot
 a bottle of water
-a receipt pad with a ballpoint through the spiral
+a receipt pad with a top sheet reading "__text_receipt__" __text_look_handwriting__, the rest of the sheet plain, with a ballpoint through the spiral
 a parking permit curling on the windscreen
-a bag of sweets in the door
+a bag of sweets printed "__name_brand_upper__" __text_look_print__ in the door
 a prayer bead or charm hung from the mirror
 a photograph of family clipped to a visor
 a dog blanket on the back seat

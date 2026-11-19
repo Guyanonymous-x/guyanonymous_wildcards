@@ -58,7 +58,7 @@ hugging oneself, with focus
 standing with feet apart
 reaching to the side
 stumbling unsteady walking stance
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 standing with hands on hips
 lounging in a hammock
 lying on the back, while looking away
@@ -119,7 +119,7 @@ stepping off a curb, in a deliberate posed moment
 watering plants
 walking away, in a deliberate posed moment
 standing on a balcony, while looking away
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 balancing on one foot, with focus
 resting a head on a hand
 stretching the arms overhead, with graceful posture
@@ -402,7 +402,7 @@ stepping off a curb, with a slight smile
 pulling a suitcase, in a deliberate posed moment
 carrying a bag, with careful balance
 carrying a bag
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 hands behind the back, with a calm air
 sitting casually on wooden chair
 sitting on a low wall, while looking into the distance

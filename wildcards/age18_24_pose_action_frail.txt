@@ -159,13 +159,13 @@ sitting on a curb
 descending steps, with quiet confidence
 drinking from a cup, with focus
 running fast with windblown hair
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 lying on the side, in a natural candid moment
 lying on the side, with graceful posture
 stepping off a curb, with a slight smile
 kneeling on both knees, with careful balance
 talking on the phone
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 holding a mug with both hands
 sitting on a log, at rest
 holding a plank, in a relaxed way
@@ -344,7 +344,7 @@ squatting, with careful balance
 doing a lunge, while glancing at the camera
 typing on a laptop, with quiet confidence
 yawning, with a slight smile
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 standing with arms crossed, with focus
 swaying
 sitting on a stool

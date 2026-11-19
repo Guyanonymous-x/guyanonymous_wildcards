@@ -459,7 +459,7 @@ a powered-armour engineer hero in a feminine cut (superhero), in a segmented met
 a professor in a feminine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a feminine cut with a nipped-in waist, with light tan skin
 a punk in a feminine cut (1977 London), in a studded jacket with safety pins and a mohawk, with light tan skin
 a quilter in a feminine cut (home), wearing an apron with pins on the front, a skirt and slippers, cut for a feminine figure with a fitted waist, with light tan skin
-a rabbi in a feminine cut (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes, in a feminine cut with shaped seams and a flattering line and carrying a prayer book, with light tan skin
+a rabbi in a feminine cut (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes, in a feminine cut with shaped seams and a flattering line and carrying a prayer book with "SIDDUR" in gold letters on the cover, the rest of the cover plain, with light tan skin
 a red-carpet gown wearer in a feminine cut (gala), wearing a sequined strapless gown with a long train and heels, cut for a feminine figure with a fitted waist and carrying a clutch, with light tan skin
 a reenactor of a Civil War soldier in a feminine cut (field), in a wool sack coat and a kepi, with light tan skin
 a reenactor of a medieval market trader in a feminine cut (fair), in a linen tunic with a belt pouch and hose and shoes, with light tan skin
@@ -532,7 +532,7 @@ a teacher in a feminine cut (school), in a tweed jacket with chalk-dusted elbow 
 a terraforming botanist in a feminine cut (sci-fi), wearing an olive coverall with a seed pouch, a visor and boots, cut for a feminine figure with a fitted waist and carrying a sample jar, with light tan skin
 a thunder god in a feminine cut (myth), in a hammer belt and a cape and a winged helm, with light tan skin
 a tin man robot in a feminine cut (theatre), in a metal funnel hat and silver chest piece and a funnel hat, with light tan skin
-a tour guide in a feminine cut (city), in a branded polo and a flag and a sun hat, with light tan skin
+a tour guide in a feminine cut (city), in a branded polo with "__name_brand_upper__" on the chest and a flag and a sun hat, with light tan skin
 a town crier in a feminine cut (England), in a red and gold coat and a tricorn, with light tan skin
 a train conductor in a feminine cut, dressed in a double-breasted jacket with brass buttons and a watch chain with trousers, with light tan skin
 a trainspotter in a feminine cut (station), in an anorak with a notebook and trousers and shoes, with light tan skin
@@ -545,7 +545,7 @@ a valkyrie in a feminine cut (fantasy), wearing a winged helm and a breastplate 
 a vampire in a feminine cut (gothic), wearing a high-collared cape over a ruffled shirt, trousers and boots, cut for a feminine figure with a fitted waist, with light tan skin
 a vaquero in a feminine cut (Mexico), in a short bolero jacket and embroidered trousers and boots, with light tan skin
 a walking Christmas tree in a feminine cut (festive), in a green tree suit with lights and a star hat, with light tan skin
-a walking sandwich board seller in a feminine cut (street), wearing a hot dog costume with a sandwich board and shoes, in a feminine cut with shaped seams and a flattering line, with light tan skin
+a walking sandwich board seller in a feminine cut (street), wearing a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, in a feminine cut with shaped seams and a flattering line, with light tan skin
 a welder in a feminine cut (workshop), in a leather welding jacket and gauntlets and a welding helmet, with light tan skin
 a white-tie tailcoat wearer in a feminine cut (white tie), in a black tailcoat, a white starched waistcoat and a white bow tie and black trousers with braid and patent shoes, with light tan skin
 a wildland firefighter in a feminine cut, dressed in a yellow flame-resistant shirt and a webbing harness with green flame-resistant trousers, with light tan skin

@@ -1,5 +1,5 @@
-books face-out and spine-out
-staff recommendation cards in handwriting
-greeting cards
+books face-out showing "__name_book_title_any__" __text_look_print__ and spine-out
+staff recommendation cards reading "STAFF PICK __name_book_title_any__" in handwriting
+greeting cards reading "HAPPY BIRTHDAY" and "THANK YOU" in gold looping letters
 a tote bag
-a till receipt roll
+a till receipt roll printed "__text_receipt__" __text_look_receipt__

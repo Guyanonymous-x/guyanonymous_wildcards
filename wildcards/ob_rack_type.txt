@@ -1,9 +1,9 @@
 a rack
 a drying rack
 a shoe rack
-a leaflet rack
+a leaflet rack holding leaflets headed "__text_flyer__" __text_look_print__, the rest of each cover plain
 a boot rack
-a newspaper rack
+a newspaper rack holding papers headed "__name_newspaper__" __text_look_headline__, the rest of each front page plain
 a bike rack
 a luggage rack
 a magazine rack
@@ -56,7 +56,7 @@ a ballast bag rack
 a battery charger rack
 a hydroponic rack
 a cocktail rack
-a ticket rack
+a ticket rack holding tickets printed "__text_ticket__" in black print
 a job rack
 an exhaust rack
 a pattern rack
@@ -94,7 +94,7 @@ a display rack
 a spinning rack
 a lumber rack
 a browsing rack
-a poster rack
+a poster rack holding posters reading "__text_poster_event__" __text_look_print__
 a ribbon dispenser rack
 a conveyor garment rack
 a forms rack
@@ -170,7 +170,7 @@ a donated sleeping bag rack
 a scaffold bike rack
 a color chip rack
 a chip rack
-a pole newspaper rack
+a pole newspaper rack holding papers with the masthead "__name_newspaper__" in bold black print
 a sleeved magazine rack
 a hanging hide rack
 a court-roll rack
@@ -222,7 +222,7 @@ a drying rack with washing that will not dry
 a rack of snacks
 sample display racks
 the mat rack
-a leaflet rack of health posters
+a leaflet rack of health posters headed "__text_health_poster__" __text_look_print__
 two-tier bike racks
 the two-tier rack with bikes nose-up
 the shoe rack
@@ -242,15 +242,15 @@ luggage rack
 the luggage rack
 shoe rack
 display racks
-a leaflet rack with the common leaflets gone
-a leaflet rack with the bereavement leaflets taken
+a leaflet rack with the common leaflets gone, holding leaflets headed "__text_health_poster__" __text_look_print__, the rest of the leaflet plain
+a leaflet rack with the bereavement leaflets taken, headed "BEREAVEMENT SUPPORT" in white letters on a blue background, the rest of the leaflet plain
 wall racks for instruments and tools
 lumber racks
 a rack at the back with a saw
 browsing racks
-poster racks
+poster racks holding posters reading "__text_poster_room__" __text_look_print__
 racks at the exact height for flipping through records
-a leaflet rack with the common ones emptied
+a leaflet rack with leaflets headed "__text_health_poster__" in bold print with the common ones emptied
 the forms rack
 racks of paper stock by weight and color
 the racks by weight
@@ -269,8 +269,8 @@ a storage rack of puppets hung by their controls
 weapon racks
 weapon racks with each position numbered and padlocked or barred
 the numbered racks with a bar through the trigger guards
-a leaflet rack of rights information in multiple languages
-a rack of forty loan prayer books by the door
+a leaflet rack of rights information in multiple languages, headed "YOUR RIGHTS", "VOS DROITS" and "SUS DERECHOS" in bold black print, the rest of the leaflet plain
+a rack of forty loan prayer books with "SIDDUR" in gold on the spines by the door
 a loan prayer-book rack with forty books of which the eleven at the front are soft and the rest stiff
 its own shoe racks and a screen or a glazed panel to the hall
 a rack of forty prayer mats rolled for visitors
@@ -302,13 +302,13 @@ the graded pipe racks
 racks for finished panels
 the rack of colored sheets lit from the edge
 a paint rack of tiny pots
-racks of instruments awaiting work with tickets tied on
+racks of instruments awaiting work with tickets reading "__name_surname_world__" in blue ballpoint tied on
 a rack of lasts in sizes
 the rack of lasts
 a rack of shallow trays graded by color
 the rack of color-graded tesserae trays
 a rack for finished units
-shelving racks of labeled boxes
+shelving racks of labeled boxes reading "SEEDS __name_number_small__" in black print
 heavy shelving racks
 padded racks
 a boot rack by the door because boots are never worn inside
@@ -317,7 +317,7 @@ a boot rack with everyone's boots in order
 drying racks or a loft above
 keg racks
 a roof rack with a stretcher and a ladder
-a leaflet rack with the leaflets out of order
+a leaflet rack of leaflets headed "__text_health_poster__" __text_look_print__ with the leaflets out of order
 a luggage rack at floor level
 luggage racks at low level with a retaining rail
 the low luggage racks with their retaining rails
@@ -358,7 +358,7 @@ a boot rack in the passageway
 a dosimeter rack with a gap where somebody's is because they are wearing it
 a dosimeter rack and a marked boundary for drinks and food
 an oven rack with a scorch pattern
-a newspaper rack with yesterday's papers in it from a city the passengers have left
+a newspaper rack with yesterday's papers with the masthead "__name_newspaper__" __text_look_headline__ in it from a city the passengers have left
 a ballast bag rack with sand or water bags and a tally chalked on the frame
 a flask rack of four
 racks for stores
@@ -381,10 +381,10 @@ a sagging rack at one position
 a magazine rack with the airline's own in-flight publication
 a cocktail rack behind the bar
 a cocktail rack behind the bar with real glass in it
-a magazine rack with the airline's magazine and a newspaper from that morning's departure city
-a ticket rack with four colors
-a ticket rack with four paper colors and a rubber band round the thinnest one
-shelving racks in rows to the ceiling with a bin location label at every position
+a magazine rack with the airline's magazine titled "__name_magazine__" __text_look_print__ and a newspaper with the masthead "__name_newspaper__" __text_look_headline__ from that morning's departure city
+a ticket rack with four colors, each ticket printed "__text_ticket__" in black print
+a ticket rack with four paper colors and a rubber band round the thinnest one, each ticket printed "__text_ticket__" in black print
+shelving racks in rows to the ceiling with a bin location label reading "A-__name_number_small__" __text_look_label__ at every position
 a cantilever rack of tires with the top row pressing out of shape
 cantilever racks
 cantilever racks for long and heavy items
@@ -408,7 +408,7 @@ a PTO shaft rack
 a rack of scrap steel sorted by length
 a rack of scrap steel sorted by length and never by type because length is what matters when you are making something
 an LPG bottle rack
-an LPG bottle rack with a chain across it and a sign
+an LPG bottle rack with a chain across it and a sign reading "LPG FLAMMABLE GAS" in red print
 an LPG rack
 a rack of proof-load tested shackles with their tags
 a rack of tested shackles with their tags wired on and a test date stamped into the body
@@ -420,7 +420,7 @@ relay racks and a bench
 a rack of rail lengths on bearers
 a rack of engine cowl stands
 a rack of impellers and raw water pump kits
-a rack of impellers whose rubber perishes on the shelf so the dates are written on the bags
+a rack of impellers whose rubber perishes on the shelf so the dates "__name_year__" in black marker are written on the bags
 a rack of rope on reels with a measuring wheel and a cutting hot knife
 a rack of charts in a plan chest
 a rope rack with a measuring wheel and a hot knife whose blade has a rope-melt crust on it
@@ -431,7 +431,7 @@ a radio charging rack with one handset always missing
 the padlock rack with initialed locks and one key each
 a rack of panel schematics in folders
 a rack of panel schematics in folders with a drawing's revision penciled over the printed one because the panel was modified in 2011 and the drawing never was
-a rack of transmitters awaiting calibration with tags on
+a rack of transmitters awaiting calibration with tags reading "AWAITING CAL" in black marker on
 a rack of transmitters awaiting calibration each with a tag giving its plant number and its last date
 a rack of box section and angle
 a template rack in plywood
@@ -440,7 +440,7 @@ a press brake tooling rack with the most-used vee die's edges rounded
 the template rack of past jobs
 a rack of ground tool blanks in high speed steel
 a rack of ground tool blanks in high speed steel ground by hand to profiles the operator decided on
-a rack of danger and caution notices on boards
+a rack of danger and caution notices reading "DANGER HIGH VOLTAGE" and "CAUTION" in red and white painted letters on boards
 a rack of danger
 a rack of diaphragm and tube kits for metering pumps
 a rack of actuator spares
@@ -471,23 +471,23 @@ a roof rack with a ladder
 a rack of chips in three colors with no cash value printed on them
 a three-color chip rack
 a chip rack with one color almost gone
-a newspaper rack with the papers on poles
-a rack of magazines in plastic sleeves with the prices stickered over twice
+a newspaper rack holding papers with the masthead "__name_newspaper__" in bold black print with the papers on poles
+a rack of magazines with "__name_magazine__" __text_look_print__ across the covers in plastic sleeves with the prices stickered "__name_price__" over twice
 racks of hide and skin hung by the edge
 racks of hide hung by the edge rather than rolled because a fold becomes a permanent crease
 hanging hide racks
 clipper rack
 racks with vessel-shaped dust rings
-a rack of numbered seat cards
+a rack of numbered seat cards reading "SEAT __name_jersey_number__" in black print
 a cue rack with twelve numbered slots of which four cues are personal property
 a cue rack with rests and spider
 a pipe rack of nine pipes
 a pipe rack and tobacco jar
-a rack of cleaning rods and a tin of wads
+a rack of cleaning rods and a tin of wads with "WADS" in black print on its lid
 a boot rack with a drying rail over it and a gas pipe or hot pipe through it
 a boot rack of nine pairs of which three pairs are the same size and belong to the same person
 a boot rack with a drying rail
-a newspaper rack with two papers in it
+a newspaper rack of papers with the masthead "__name_newspaper__" __text_look_headline__ with two papers in it
 a -bound tray rack of nine trays
 a tray rack with nine trays of which one is bent and kept at the back
 a wrought- spit rack with four spits and two cradles
@@ -505,7 +505,7 @@ a pulley rack under the ceiling with a cord cleated at 1,600 mm and the cleat wo
 a gaiter rack of nine pairs
 a second rack of thirty-one shades in opal
 racks of ninety chimneys and thirty-one shades
-a newspaper rack with two newspapers and a weekly paper
+a newspaper rack of papers with the masthead "__name_newspaper__" __text_look_headline__ with two newspapers and a weekly paper
 a bit rack of thirty-one bits
 a rug rack of six bars
 a bit rack of thirty-one bits of which five are in use and polished to a mirror at the mouthpiece and twenty-six are dull with a bloom

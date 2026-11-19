@@ -1,14 +1,14 @@
-a notice board
+a notice board pinned with a sheet reading "__text_bulletin__" __text_look_paper_notice__, the rest of the board bare
 a board
 a key board
 a tally board
-a honors board
+a honors board lettered "__name_initials__ __name_surname_world__ 104" in gold leaf letters
 a chalk board
 a display board
-a menu board
+a menu board reading "__text_price_line__" __text_look_chalk__
 a tool board
 a cribbage board
-a directory board
+a directory board listing "__name_trade_corp__ SUITE __name_number_small__" in white letters on a black board, the rest of the board bare
 a shadow board
 a draining board
 a shift board
@@ -39,14 +39,14 @@ an andon board
 a cutting board
 a cheese board
 a cake board
-a price board
+a price board reading "RICE __name_price__" and "OIL __name_price__" in black marker, the rest of the board bare
 a spotting board
 a rate board
 a schedule board
 a results board
 an eleven peal board
 a printed board
-a departure board
+a departure board showing "__text_departure__" __text_look_dotmatrix__
 an interpretation board
 a checklist board
 a swab count board
@@ -86,20 +86,20 @@ a broken pallet board
 a pallet board
 a drainage board
 a water darkening board
-a flyer board
-a chalk price board
+a flyer board covered in flyers reading "__text_flyer__" __text_look_print__, the rest of each sheet plain
+a chalk price board reading "__text_price_line__" __text_look_chalk__
 a rate display board
 a key blank board
 a scoring board
 an appeals board
-a sandwich board
-a battle honors board
-a strict timetable board
+a sandwich board reading "__text_price_line__" __text_look_chalk__
+a battle honors board headed "BATTLE HONORS" in gold leaf letters
+a strict timetable board reading "__text_departure__" in white letters on black
 a royal arms board
 a peal board
 a bell-weight board
 a tide board
-a timetable board
+a timetable board reading "__text_departure__" in white letters on black
 a roster board
 a snapped board
 a water-level gauge board
@@ -111,7 +111,7 @@ a towel stiff as board
 a mimic board
 a scaffold board
 a landing board
-a tide timetable board
+a tide timetable board reading "HIGH WATER 06:42 LOW WATER 12:55" in white letters on black
 a staging board
 a walkway repaired board
 a visibility marker board
@@ -120,8 +120,8 @@ a tracing board
 an oil soaked into board
 a license board
 a none crawl board
-a sign board
-a chalk menu board
+a sign board reading "__text_sign_english__" __text_look_paint__
+a chalk menu board reading "__text_price_line__" __text_look_chalk__, the rest of the board bare
 a worn cribbage board
 a creeper board
 a long board
@@ -133,24 +133,24 @@ a chalk job board
 a chalked boat name board reading "__name_ship__"
 a job tracking board
 an entrance name board reading "__name_town__"
-a hand-painted name board
-a hand- name board
+a hand-painted name board reading "__name_surname__" in white capitals
+a hand- name board reading "__name_surname__" __text_look_paint__
 a decisions board
 an alphabet board
 a skirt board
-a minutes notice board
+a minutes notice board with sheets headed "MINUTES" __text_look_paper_notice__, __text_rest_plain__
 a shared tool shadow board
 a benefaction board
-a name board
+a name board reading "__name_surname__" __text_look_paint__
 an effect skirt rather than board
 a no menu board
-a candidates' notice board
+a candidates' notice board with sheets headed "CANDIDATES" __text_look_paper_notice__, the rest of each sheet plain white
 a bookmaker's board
-a store directory board
-a meetings notice board
+a store directory board listing "FLOOR 1 SHOES" and "FLOOR 2 HOME" in white letters on black, the rest of the board plain
+a meetings notice board with sheets headed "GENERAL MEETING __name_year__" __text_look_paper_notice__, the rest of the board bare cork
 a courier board
-an electronic display board
-a numbered ticket board
+an electronic display board showing "__text_screen__" __text_look_dotmatrix__
+a numbered ticket board showing "NOW SERVING __name_number_small__" in red digital numerals
 a marking board
 a no bell board
 a chalked tally board
@@ -168,17 +168,17 @@ a same discipline as school workshop's shadow board
 a washed writing board
 a large -colored wall board
 a stripped pin-up board
-menu board
+menu board reading "__text_price_line__" __text_look_chalk__, the rest of the board bare
 the key board
 display boards
 cutting boards
-directory board
-the honors boards
+directory board listing "__name_trade_corp__ SUITE __name_number_small__" in white letters on a black board, the rest of the board bare
+the honors boards listing "__name_initials__ __name_surname__ __name_year__" in gold leaf
 bare boards
 a key board with numbered hooks and a car key on most of them
-a notice board of general meetings
+a notice board of general meetings headed "GENERAL MEETING __name_year__" __text_look_paper_notice__, the rest of the board bare cork
 a staff training board with product notes
-honors boards
+honors boards listing "__name_initials__ __name_surname_world__ __name_year__" in gold leaf letters
 chopping boards
 bread board
 one chopping board
@@ -188,19 +188,19 @@ boards with a rug
 a bottle cap fallen between the boards where it will stay forever
 a splinter-raised board that catches a bare foot
 the gravel board at the base
-a menu board with prices
-the notice board
+a menu board reading "__text_price_line__" __text_look_chalk__ with prices
+the notice board with sheets headed "__text_bulletin__" __text_look_paper_notice__, the rest of each sheet plain white
 the tool board with outlined tools
 the andon board with its color showing
 a tool board with outlined shapes
 the tool board with painted outlines
 a tally board with frost on it
-a notice board with supplier instructions
+a notice board with supplier instructions headed "SUPPLIER INSTRUCTIONS" __text_look_paper_notice__
 a shadow board for tools on loan
 the shadow board with outlines where tools are missing
 a shadow board with one outline empty and a note about who has it
 the shift board
-notice board
+notice board pinned with a sheet reading "__text_bulletin__" __text_look_paper_notice__, the rest of the board bare
 drainage board and floor duckboards
 cheese boards
 a cheese board with the rind left
@@ -208,16 +208,16 @@ cribbage board
 a cribbage board with the pegs still in from a game that ended hours ago
 cake boards
 a cake board with a thumbprint in the icing
-price board
-menu board and speaker post
+price board reading "__text_price_line__" and "__text_price_line__" in black print on a white board
+menu board reading "__text_price_line__" and "__text_price_line__" __text_look_backlit__ and speaker post
 water darkening the boards
 a display board with staples from three displays ago
 the display boards
 a display board with staples from earlier displays
-a notice board of visiting times and infection control
-a flyer board by the door
-the chalk price board
-a chalk board in the butcher's handwriting
+a notice board of visiting times and infection control, with sheets headed "VISITING TIMES" and "INFECTION CONTROL" __text_look_paper_notice__, the rest of the sheet plain white
+a flyer board with flyers reading "__text_flyer__" in bold print by the door
+the chalk price board reading "__text_price_line__" __text_look_chalk__
+a chalk board reading "__text_price_line__" in the butcher's handwriting
 a spotting board with a steam gun and vacuum
 a memorial board in some practices
 a memorial board with photographs
@@ -225,20 +225,20 @@ the rate board with its two columns
 a key board at the office window
 a key board with gaps where blanks have run out
 a key blank board with a dozen hooks empty
-a directory board at each level
+a directory board reading "LEVEL 1" above "__name_brand_upper__" and "__name_brand_upper__" in white letters on a dark panel at each level
 a scoring board with a running total in chalk
 a tactics board with magnets
 the tactics board
 a board with the last team talk still on it
 a tactics board with the last team talk still on it
-a notice board with the call sheet
-a notice board of appeals and wanted posters
+a notice board with the call sheet headed "CALL SHEET" __text_look_paper_notice__ over rows of "__name_first_world__ 10:00"
+a notice board of appeals and wanted posters, with sheets headed "APPEAL FOR WITNESSES" and "WANTED" __text_look_paper_notice__, the rest of the sheet plain white
 the appeals board
 a running board with the crew's names, such as "__name_surname__"
-a sandwich board for a consultation event
-a notice board in several languages
+a sandwich board for a consultation event, reading "CONSULTATION TODAY" __text_look_chalk__, the rest of the board bare
+a notice board in several languages, with sheets headed "PASSPORTS", "PASSEPORTS" and "PASAPORTES" __text_look_paper_notice__, the rest of the sheet plain white
 an ironing board with a scorch mark
-a strict timetable board in the office
+a strict timetable board headed "SERVICES TODAY" with rows reading "10:30 __name_surname_world__" in white letters on black in the office
 a hymn board with brass numerals in a tin box
 a royal arms board over the tower arch
 a hymn board with brass numerals in a tin box and three numerals missing
@@ -250,20 +250,20 @@ a memorial board of forty-eight brass panels each with a small electric lamp bes
 a memorial board with lamps
 a printed board of the day's six service times
 a printed board of six service times with the first corrected in pen
-a honors board with space left for more names
-departure boards
-the departure board with the crowd facing it and the simultaneous movement when a platform is announced
+a honors board listing "__name_initials__ __name_surname_world__ __name_year__" in gold leaf letters with space left for more names
+departure boards reading "__text_departure__" __text_look_dotmatrix__, the rest of the screen dark
+the departure board showing "__text_departure__" __text_look_dotmatrix__ with the crowd facing it and the simultaneous movement when a platform is announced
 tide boards
-a notice board of loads and jobs
-a timetable board with the winter service pasted over the summer one
+a notice board of loads and jobs with cards reading "__text_bulletin__" __text_look_handwriting__, the rest of the board bare cork
+a timetable board reading "__text_departure__" in black print with the winter service pasted over the summer one
 the roster board
 a board of past rescues
-a notice board of sessions and workdays
-the notice board of workdays
+a notice board of sessions and workdays with sheets headed "WORKDAYS" in bold marker
+the notice board of workdays with sheets headed "WORKDAYS" __text_look_paper_notice__, the rest of each sheet plain white
 a board with worn griptape
 a snapped board in a bin
-an honors board
-the honors board
+an honors board lettered "__name_initials__ __name_surname_world__ 104" in gold leaf letters
+the honors board listing "__name_initials__ __name_surname__ __name_year__" in gold leaf
 the gauge board half submerged
 an information board at the parking lot
 a board with the name "__name_surname__" and a time
@@ -291,7 +291,7 @@ a tally board with chalk
 interpretation boards
 the scaffold boards and ladders
 the landing board and sprung trap
-tide timetable boards at each end
+tide timetable boards reading "SAFE CROSSING 08:15 TO 11:20" in black print on white boards at each end
 staging boards
 the walkway repaired board by board over decades
 the visibility marker board on the seaward wall
@@ -312,7 +312,7 @@ a tally board of launches with the last date chalked in a different hand
 none; a crawl board at most
 a crawl board laid across them
 the crawl board
-a sign board for the pitch
+a sign board reading "__name_team__" __text_look_paint__ for the pitch
 a worn board where the guard stands at the lookout
 a chalk board in one hand
 a knee board with a card on it
@@ -337,7 +337,7 @@ the chalked possession board
 a chalk board with the day's wheel diameters
 a chalk board with the day's wheel diameters written in columns and the ones approaching the condemning limit circled
 the chalk board of diameters with the limits circled
-a possession planning board in the mess hut with the weekend's work chalked on it against a timetable of when the line will be handed over and handed back
+a possession planning board in the mess hut with the weekend's work chalked on it reading "SATURDAY 22:00 HANDBACK MONDAY 05:00" in white chalk capitals against a timetable of when the line will be handed over and handed back
 a shadow board with every tool in place
 worn dock boards at access points
 a chalk board of jobs by boat name, such as "__name_ship__"
@@ -345,34 +345,34 @@ a shift board with the lines down the left and the shifts across the top
 a shift board with lines down one side and shifts across the top
 the breakdown board with a ringed repeat offender
 a permit board with a slot per circuit and a key safe where the keys to the isolators live
-notice boards
+notice boards reading "DANGER HIGH VOLTAGE" in red and white painted letters
 a permit board and key safe
-notice boards with prescribed wording
+notice boards reading "DANGER HIGH VOLTAGE" in red and white painted letters with prescribed wording
 the permit board with a slot per circuit
-a notice board with the paint chipped at the hanging hole
+a notice board reading "CAUTION" in red and white painted letters with the paint chipped at the hanging hole
 a board of key blanks hanging in hundreds on numbered hooks
 a board of key blanks hanging in hundreds on numbered hooks with the numbering system worn illegible at the most-used positions and rewritten in marker
 a blank board of several hundred profiles because the world's lock manufacturers have never agreed on anything
 a pouch board with a split pouch exposed
-a notice board of information that is read constantly
-a notice board with services and rules on it
-a notice board at the entrance with outreach times
+a notice board with sheets headed "__text_bulletin__" __text_look_paper_notice__, the rest of each sheet plain white, of information that is read constantly
+a notice board with services and rules on it, with sheets headed "SERVICES" and "RULES" __text_look_paper_notice__, __text_rest_plain__
+a notice board with a sheet reading "OUTREACH TUESDAY 10 AM" __text_look_paper_notice__ at the entrance with outreach times
 the hand-painted name board reading "__name_town__" at the entrance
 the rota board
 a board on two posts with the week's decisions written on it
 a board on two posts with the week's decisions written on it in marker so that people who were not at the meeting are bound by them
 a gutting board and a knife outside
 a skirt board and a gravel drip trench round the deck keeping splash off the canvas
-a notice board with minutes of the last meeting pinned to it
-a notice board with the minutes of the last meeting pinned to it
+a notice board with sheets headed "MINUTES" __text_look_paper_notice__ with minutes of the last meeting pinned to it
+a notice board with sheets headed "MINUTES" __text_look_paper_notice__ with the minutes of the last meeting pinned to it
 a rota board with the ghost of a hundred previous weeks under the chalk
 a shared tool shadow board in a workshop with outlines drawn round each tool so a missing one is visible
 the shadow board in the workshop
 a work roster board by the dining hall door
 a work roster board by the dining hall door assigning every member to a job for the week
-a notice board with a warden's hours and a coffee morning on it
+a notice board with a warden's hours and a coffee morning on it reading "WARDEN 9 AM" and "COFFEE MORNING THURSDAY" in black print, the rest of the board bare
 a founder's benefaction board in the courtyard or the chapel naming the person who endowed the charity in 1603 or 1842 and the terms on which they did so
-a notice board with the warden's hours
+a notice board with the warden's hours reading "WARDEN MONDAY TO FRIDAY 9 AM" in black print, the rest of the board bare
 the founder's benefaction board in the courtyard
 a notice board with a name taken down and another, "__name_person__", added
 a board by the door with five or six separate electricity sub-meters on it
@@ -382,32 +382,32 @@ a -effect skirt rather than board
 a temporary distribution board on a stand with a yellow 110-volt lead running to the drill
 a temporary distribution board on a stand with a yellow lead
 no menu board and no window
-a notice board with a list of candidates proposed and seconded
-a notice board with a list of candidates proposed and seconded and left up for a stated number of weeks so that any member may object
-a notice board of candidates
-the candidates' notice board
+a notice board with a list of candidates, headed "CANDIDATES FOR ELECTION" in neat black ink handwriting, proposed and seconded
+a notice board with a list of candidates, reading "__name_first__ __name_surname__" __text_look_paper_notice__, proposed and seconded and left up for a stated number of weeks so that any member may object
+a notice board of candidates with sheets headed "CANDIDATES FOR ELECTION" in neat black ink handwriting
+the candidates' notice board with sheets headed "CANDIDATES" __text_look_paper_notice__, the rest of each sheet plain white
 a bookmaker's board or a man with a notebook taking bets
-a notice board of permitted photographs
-a notice board of photographs
+a notice board of permitted photographs headed "PERMITTED ITEMS" in black print
+a notice board of photographs headed "FAMILY PHOTOS" in black print
 a cork board with rota and shift sheet
 a cork board with four years of pin holes
 the store directory board on the escalator landing listing the brand by name, "__name_brand__", alongside fine lingerie and nightwear
 a clicking board and a half-moon knife
 a clicking board and half-moon knife
-a notice board with every general meeting since the founding pinned in order
+a notice board with every general meeting since the founding pinned in order headed "GENERAL MEETING __name_year__" __text_look_paper_notice__
 a training board with three months of layers
-a menu board in three languages above the counter
+a menu board reading "__text_price_line__" __text_look_backlit__ in three languages above the counter
 a tote board and two electronic number displays either side of the proscenium
 a tote board and two number displays
-electronic display boards over the roulette bank showing the last twenty numbers
-a numbered ticket board in the cloakroom lobby with 212 hooks and 190 tickets on it
+electronic display boards over the roulette bank showing the last twenty numbers "17 32 5 0 21 8" in glowing red and green digits
+a numbered ticket board of brass tags stamped "1" to "212" in the cloakroom lobby with 212 hooks and 190 tickets on it
 a marking board of slate with chalk and a cloth on a string
 a tally board with the week's bag chalked on it
 a tally board with this week chalked over the ghost of last week and a hundred previous weeks showing as a gray haze that no washing removes
 a worn board at a standing desk and a shine on its foot rail
 a bell board of twenty-four bells on coiled springs high on the wall
 a cribbage board and a pack of cards on the dresser
-a bell board of twenty-four bells with the paper labels beneath them rewritten twice and two labels blank
+a bell board of twenty-four bells with the paper labels beneath them reading "DINING ROOM" and "STUDY" in faded ink rewritten twice and two labels blank
 a cribbage board with 30,000 games' worth of peg holes worn oval
 a bell board of twelve bells for the principal rooms repeated here
 a knife board of leather faced with emery and a knife box beside it
@@ -418,7 +418,7 @@ a draining board of slatted deal
 a draining board of slatted deal 400 mm wide
 the tally board with the ruled paint worn away in two columns of four
 a board of 2.4 m by 600 mm in varnished pine fixed at 2.2 m carrying thirty-two bells of 60 to 90 mm on coiled steel springs 150 mm long
-a board of thirty-two spring bells with cranks and labels
+a board of thirty-two spring bells with cranks and labels reading "DRAWING ROOM" and "BEDROOM __name_number_small__" in faded ink
 bare scrubbed boards
 four renewed kicking boards and one iron patch over a kicked hole
 a cribbage board and a penciled wages note
@@ -426,8 +426,8 @@ a cribbage board and a wages note
 a louvre board on the south-west face with a 200 mm split and a strip of zinc nailed over it
 a tally board in the passage recording in chalk how many baskets have been taken out and when
 two worn bin boards in eleven
-a honors board with the lettering in gold leaf up to 1987 and in a different hand and a flatter paint after that
-the honors board where the lettering changes hand in 1987
+a honors board listing "__name_initials__ __name_surname__ __name_year__" with the lettering in gold leaf up to 1987 and in a different hand and a flatter paint after that
+the honors board listing "__name_initials__ __name_surname__ __name_year__" where the lettering changes hand in 1987
 a tool board with every tool silhouetted in painted outline and two outlines empty
 the tool board with two empty silhouettes
 a chopping board in the color-coded set that has been cut so deeply along one line that the groove holds water
@@ -440,7 +440,7 @@ a key board of numbered hooks covering most of one wall with a key or a gap at e
 a shadow board where three tool silhouettes are empty and one tool is hanging in the wrong silhouette
 a tool shadow board with a silhouette outline painted over once
 a self-registration board of photographs with names such as "__name_first__"
-an electrical practice board on the rack with a cable entry grommet missing and a pencil note on the board's edge giving a fault code
+an electrical practice board on the rack with a cable entry grommet missing and a pencil note reading "FAULT 3" on the board's edge giving a fault code
 a tool sign-out board with twelve hooks and three tokens left on it at four in the afternoon
 the same discipline as the school workshop's shadow board at a larger scale; bay numbers and walkway lines painted on the floor
 a tally board by the door

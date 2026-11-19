@@ -3,9 +3,9 @@ a radiator cover gap used as letterbox
 letterboxes
 a letterbox with a cage behind it
 a letterbox on the gate in some countries
-a letterbox with a street address on it
-a letterbox with a street address
-the letterbox with a street address
+a letterbox with a street address "__name_number_small__ __name_street__" in brass numbers and letters on it
+a letterbox with a street address reading "__name_number_small__ __name_street__" in white painted letters
+the letterbox with a street address reading "__name_number_small__ __name_street__" in white painted letters
 a letterbox with post in it
 a letterbox or a separate council tax entry
 a radiator cover gap used as a letterbox

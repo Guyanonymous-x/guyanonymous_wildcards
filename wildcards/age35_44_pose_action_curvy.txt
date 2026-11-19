@@ -265,7 +265,7 @@ standing at a doorway
 doing a yoga pose
 sitting on steps, with careful balance
 sitting at a desk, with a slight smile
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 perching on a table edge, in mid-motion
 tying hair back, in mid-motion
 arms raised in celebration, in mid-motion
@@ -298,7 +298,7 @@ standing with hands on hips, with a sense of ease
 sitting on a rock
 leaning on a railing, with careful balance
 sitting at a desk, with quiet confidence
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 kneeling on one knee
 sitting on a chair, at rest
 adjusting a jacket
@@ -435,7 +435,7 @@ reaching forward, while looking into the distance
 kneeling on one knee, at rest
 dancing dynamic fluid pose
 holding a mug with both hands, while glancing at the camera
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sprinting
 standing turned three-quarters away
 gardening, while glancing at the camera

@@ -12,7 +12,7 @@ A grey plush shark onesie, a shark hood, slippers, the full outfit of a shark on
 A headscarf and a heavy shawl with jangling bracelets, trousers, a headscarf, boots, the full outfit of a fortune teller in a masculine cut
 A hessian sack, the full outfit of a potato sack racer in a masculine cut
 A hexagonal yellow tube suit, a pointed hat, the full outfit of a giant pencil costume wearer in a masculine cut
-A hot dog costume with a sandwich board, shoes, the full outfit of a walking sandwich board seller in a masculine cut
+A hot dog costume with a sandwich board reading "HOT DOGS __name_price__", shoes, the full outfit of a walking sandwich board seller in a masculine cut
 A huge flowered dress with a bonnet, a gaudy wig, boots, the full outfit of a pantomime dame in a masculine cut
 A huge furry suit, an oversized head, big feet, the full outfit of a mascot character in a masculine cut
 A long robe in a board pattern, a tall crown or helmet, the full outfit of a living chess piece in a masculine cut
@@ -52,7 +52,7 @@ A person dressed as a tin man robot in a masculine cut (theatre), with a metal f
 A person dressed as a toilet paper roll costume wearer in a masculine cut (party), with a white tube suit, in a masculine cut with a roomy chest and shoulders
 A person dressed as a town mascot cow in a masculine cut (farm), with a black and white cow suit, a cow head and hooves, tailored in a masculine cut with a straight waist
 A person dressed as a walking Christmas tree in a masculine cut (festive), with a green tree suit with lights and a star hat, tailored in a masculine cut with a straight waist
-A person dressed as a walking sandwich board seller in a masculine cut (street), with a hot dog costume with a sandwich board and shoes, cut for a masculine frame with broad shoulders
+A person dressed as a walking sandwich board seller in a masculine cut (street), with a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, cut for a masculine frame with broad shoulders
 A person dressed as an inflatable dinosaur costume wearer in a masculine cut (party), with a bulbous inflatable dinosaur suit and a dinosaur head, in a masculine cut with a roomy chest and shoulders
 A person dressed as an ostrich costume in a masculine cut (party), with a feathered suit with long legs, a long-necked head and big feet, cut for a masculine frame with broad shoulders
 A person dressed as an unicorn onesie wearer in a masculine cut (home), with a plush unicorn onesie with a horn, a horned hood and slippers, cut for a masculine frame with broad shoulders
@@ -180,9 +180,9 @@ a town mascot cow in a masculine cut, dressed in a black and white cow suit
 a walking Christmas tree in a masculine cut (festive), in a green tree suit with lights and a star hat
 a walking Christmas tree in a masculine cut (festive), wearing a green tree suit with lights and a star hat, tailored in a masculine cut with a straight waist
 a walking Christmas tree in a masculine cut, dressed in a green tree suit with lights
-a walking sandwich board seller in a masculine cut (street), in a hot dog costume with a sandwich board and shoes
-a walking sandwich board seller in a masculine cut (street), wearing a hot dog costume with a sandwich board and shoes, cut for a masculine frame with broad shoulders
-a walking sandwich board seller in a masculine cut, dressed in a hot dog costume with a sandwich board
+a walking sandwich board seller in a masculine cut (street), in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes
+a walking sandwich board seller in a masculine cut (street), wearing a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, cut for a masculine frame with broad shoulders
+a walking sandwich board seller in a masculine cut, dressed in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__"
 an inflatable dinosaur costume wearer in a masculine cut (party), in a bulbous inflatable dinosaur suit and a dinosaur head
 an inflatable dinosaur costume wearer in a masculine cut (party), wearing a bulbous inflatable dinosaur suit and a dinosaur head, in a masculine cut with a roomy chest and shoulders
 an inflatable dinosaur costume wearer in a masculine cut, dressed in a bulbous inflatable dinosaur suit

@@ -5,10 +5,10 @@ a sharps container
 a gray waste container
 a shared water container
 a microwave meal container
-a labeled food container
+a labeled food container reading "LEFTOVERS" in black marker on masking tape
 a food container
 a deli container
-a labeled deli container
+a labeled deli container reading "SOUP" in black marker on masking tape
 an unlabeled container
 a salad container
 a soap container
@@ -26,18 +26,18 @@ a waste container
 a clinical waste container
 water containers
 a gray waste container under the sink outlet and a wheeled chemical toilet cassette beside the step
-labeled food containers
+labeled food containers reading "__name_first__" in black marker on masking tape
 a food container with the name "__name_first__" written on it in marker
 takeaway containers
 takeaway containers from the first night
 a takeaway container from a shift that ran over
 a microwave meal container in the bin
 deli containers
-labeled deli containers
+labeled deli containers reading "COLESLAW" and "OLIVES" in black marker on masking tape
 an unlabeled container of something frozen solid that nobody will claim
 salad containers
 soap containers
-a cremated remains container with a label
+a cremated remains container with a label reading "__name_first_world__ __name_surname_world__" __text_look_label__
 a shift office container set in a side drift
 a container of cutlery in a crate
 containers

@@ -1,2 +1,2 @@
-a free newspaper
-an advertisement panel
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
+an advertisement panel showing "__name_product__" __text_look_print__

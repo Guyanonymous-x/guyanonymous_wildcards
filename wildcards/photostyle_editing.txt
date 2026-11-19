@@ -1,4 +1,4 @@
-a light, honest edit with nothing obviously manipulated, natural colour, gentle contrast, true skin tones, faithful shadows and highlights, and a clean, unforced, documentary finish
+a light, honest edit with every element left true to life, natural colour, gentle contrast, true skin tones, faithful shadows and highlights, and a clean, unforced, documentary finish
 a heavy darkroom-style dodge and burn shaping the light by hand, brightened faces, darkened edges, glowing centre, deeper corners, sculpted contrast, and a dramatic, painterly tonal depth
 a bright, airy edit with lifted shadows and soft, creamy highlights, light pastel colour, little darkness, gentle glow, clean whites, and a fresh, open, breezy mood
 a dark, moody edit with deep crushed shadows and desaturated color, muted greens and browns, heavy blacks, restrained highlights, a subdued palette, and a brooding atmosphere
@@ -12,7 +12,7 @@ an unretouched, warts-and-all treatment showing every blemish, visible pores, fr
 a hyperreal edit with exaggerated local contrast and saturation, crunchy details, intense colour, glowing edges, overly sharp textures, and a dramatic, almost unreal richness
 a soft, glowing diffusion bloom in the highlights, bright areas spilling a gentle haze, softened contrast, silky skin, dreamy warm light, and a romantic, luminous quality
 a gritty, contrasty edit with grain added back on top, coarse speckled texture, dark shadows, bright harsh highlights, sharp edges, and a raw, rugged, street-level look
-a clean, neutral, archival edit faithful to the scene, true colours, even exposure, precise detail, no stylisation, balanced shadows, and a quiet, accurate, documentary finish
+a clean, neutral, archival edit faithful to the scene, true colours, even exposure, precise detail, a plain true rendering, balanced shadows, and a quiet, accurate, documentary finish
 a painterly edit with smoothed transitions and rich, deep color, soft brush-like gradations, saturated warm and cool hues, gentle blur in detail, and a canvas-like depth
 a bleach-bypass look, silvery, contrasty and low in saturation, hard dark shadows, metallic grey highlights, washed colours, coarse texture, and a gritty, austere, wartime-film mood
 an orange-and-teal blockbuster grade, warm orange skin and sunlit surfaces, cool teal shadows and backgrounds, strong contrast, glossy polish, and a bold, heroic, big-screen look
@@ -20,7 +20,7 @@ a warm, golden nostalgic grade with soft contrast, amber light, honey-coloured h
 a cool, steely blue grade with crisp shadows, bluish-grey tones, clean cold highlights, restrained warm skin, sharp edges, and a cold, calm, wintry feeling
 a green-tinted, sickly grade like a psychological thriller, murky green cast, pale unwell skin, dim yellow lights, deep dark corners, and a tense, uneasy, clinical mood
 a pastel grade with lifted shadows and softened saturation, powdery pinks, mint, lilac and cream, low contrast, bright airy whites, and a sweet, dreamy, gentle mood
-a crushed, contrasty grade with deep blacks and punchy highlights, strong dark areas with no detail, bold bright patches, vivid colour pop, and a dramatic, hard-hitting look
+a crushed, contrasty grade with deep blacks and punchy highlights, strong solid black dark areas, bold bright patches, vivid colour pop, and a dramatic, hard-hitting look
 a matte grade with milky black levels and muted greens, faded shadows, soft cream whites, earthy olive foliage, low contrast, and a calm, filmic, understated finish
 a high-saturation travel-magazine grade with deep blue skies, vivid turquoise water, rich green plants, warm sunlit stone, strong clarity, and a bright, inviting, postcard-like feel
 a muted documentary grade, natural and slightly cool, soft low-saturation colour, honest skin, grey-blue light, restrained shadows, and a sober, observational realism
@@ -58,11 +58,11 @@ a slightly overexposed, airy minimal edit, bright pale tones, thin shadows, clea
 a heavy local-contrast edit bringing out grit in faces, deep wrinkles, textured skin, sharp pores, dark shadows, gritty detail, and a rugged, intense, close-up quality
 a color-pop edit desaturating everything except one hue, a grey scene with a single vivid red, yellow or blue object, strong visual focus, and a graphic, selective feel
 a hue-shifted surreal edit turning skies pink or foliage blue, unnatural bold colours, familiar shapes in strange hues, soft glowing contrast, and a dreamlike, otherworldly look
-a duotone edit in two strong colors, all tones mapped between two hues such as deep blue and bright orange, flat graphic feel, smooth gradients, and a bold, poster-like look
+a duotone edit in two strong colors, all tones mapped between two strongly contrasting hues, flat graphic feel, smooth gradients, and a bold, poster-like look
 a faded print look with yellowed whites, creamy aged highlights, washed colours, lifted blacks, slight stains, and a soft, tired, nostalgic quality
 a crisp, modern commercial edit, bright and clean, vivid colour, spotless surfaces, sharp edges, white highlights, and a fresh, polished, professional feel
 a dark, cinematic noir edit with deep shadow pools, hard-edged light shafts, black surroundings, bright faces, smoky air, and a tense, mysterious, nocturnal mood
-a restrained, honest edit that preserves exactly what was seen, natural colour, balanced exposure, true textures, nothing exaggerated, and a quiet, faithful finish
+a restrained, honest edit that preserves exactly what was seen, natural colour, balanced exposure, true textures, everything kept true to life, and a quiet, faithful finish
 a heavy vignette and soft-focus edge, romantic and old-fashioned, blurred dark corners, a sharp glowing centre, warm faded tone, and a nostalgic portrait feel
 a sun-flare overlay edit, warm and hazy, golden streaks of light across the frame, orange glow, low contrast, soft bloom, and a summery, dreamy feeling
 a bleached, overexposed fashion edit with blown skin highlights, pale washed skin, bright white clothing, minimal shadow, strong glare, and a cool, high-fashion look
@@ -79,11 +79,11 @@ a natural-light edit with gently warm white balance, soft golden daylight, true 
 a tungsten-left-uncorrected edit, deeply orange, amber cast over everything, orange walls and skin, blue-black shadows, and a warm indoor evening feeling
 a fluorescent-left-uncorrected edit, deeply green, sickly green cast on walls and faces, flat harsh light, dull shadows, and an office-like, unflattering atmosphere
 a mixed-light edit embracing clashing color temperatures, orange tungsten glow beside cool blue window light, split colour on faces, and a lively, real-life mix
-a no-crop, no-adjustment edit straight from the camera, plain unprocessed colour, flat default contrast, slight noise, original framing, and a raw, unpolished look
+a full-frame, as-shot edit straight from the camera, plain unprocessed colour, flat default contrast, slight noise, original framing, and a raw, unpolished look
 a deliberate tilt correction to perfectly level horizons, straight vertical walls, a flat horizon line, clean geometry, tidy symmetry, and a precise, ordered feel
 a tight crop into a portion of the original frame, enlarged detail, visible grain or softness, close framing, cut-off edges, and an intimate, intense feeling
 a square crop with centered subject, equal sides, a subject in the middle, balanced margins, symmetrical composition, and a calm, stable look
-a panoramic crop with letterboxed proportions, a long wide frame, thin height, stretched horizon, black bars or none, and a cinematic, sweeping feel
+a panoramic crop with letterboxed proportions, a long wide frame, thin height, stretched horizon, sometimes black bars, and a cinematic, sweeping feel
 an edit adding soft light leaks at the frame edge, warm orange and red glows bleeding in from one side, hazy streaks, faded colour, and a dreamy, film-camera accident look
 a darkroom-style edge burn with a thin white border, dark burned borders inside a narrow clean white line, a bright centre, and a classic fine-art print feeling
 a sharpened, crunchy edit for gritty texture, hard edges, strong grain, rough surfaces, dark contrast, tiny halos, and a rough, tactile intensity

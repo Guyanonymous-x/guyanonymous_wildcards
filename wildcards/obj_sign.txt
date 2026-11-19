@@ -18,18 +18,18 @@ a bus-stop sign reading "STOP" in white capitals on a red octagon, grey, freshly
 a bus-stop sign reading "STOP" in white capitals on a red octagon, orange, wrapped in protective cover
 a bus-stop sign reading "STOP" in white capitals on a red octagon, purple, covered in mud
 a bus-stop sign reading "STOP" in white capitals on a red octagon, teal, decorated with stickers
-a chalkboard menu, chrome, covered in frost
-a chalkboard menu, matte black, faded by sun
-a chalkboard menu, speckled, restored to showroom finish
-a chalkboard menu, teal, decorated with stickers
-a chalkboard menu, teal, freshly polished
-a cinema marquee, brown, battered but working
-a cinema marquee, burgundy, covered in frost
-a cinema marquee, chrome, freshly polished
-a cinema marquee, copper, antique with a patina
-a cinema marquee, neon, covered in mud
-a cinema marquee, white, brand new and spotless
-a cinema marquee, yellow, heavily worn and scratched
+a chalkboard menu reading "__text_price_line__" __text_look_chalk__, the rest of the board bare, chrome, covered in frost
+a chalkboard menu reading "__text_price_line__" __text_look_chalk__, the rest of the board bare, matte black, faded by sun
+a chalkboard menu reading "__text_price_line__" __text_look_chalk__, the rest of the board bare, speckled, restored to showroom finish
+a chalkboard menu reading "__text_price_line__" __text_look_chalk__, the rest of the board bare, teal, decorated with stickers
+a chalkboard menu reading "__text_price_line__" __text_look_chalk__, the rest of the board bare, teal, freshly polished
+a cinema marquee reading "NOW SHOWING __name_movie__" in black capitals on a lit white panel, brown, battered but working
+a cinema marquee reading "NOW SHOWING __name_movie__" in black capitals on a lit white panel, burgundy, covered in frost
+a cinema marquee reading "NOW SHOWING __name_movie__" in black capitals on a lit white panel, chrome, freshly polished
+a cinema marquee reading "NOW SHOWING __name_movie__" in black capitals on a lit white panel, copper, antique with a patina
+a cinema marquee reading "NOW SHOWING __name_movie__" in black capitals on a lit white panel, neon, covered in mud
+a cinema marquee reading "NOW SHOWING __name_movie__" in black capitals on a lit white panel, white, brand new and spotless
+a cinema marquee reading "NOW SHOWING __name_movie__" in black capitals on a lit white panel, yellow, heavily worn and scratched
 a fabric shop flag, black, freshly polished
 a fabric shop flag, rainbow-coloured, faded by sun
 a flag on a mast, gold, covered in mud
@@ -83,36 +83,36 @@ a pub hanging sign reading "__text_sign_english__" in __sign_lettering__, pink, 
 a pub hanging sign reading "__text_sign_english__" in __sign_lettering__, red, wrapped in protective cover
 a pub hanging sign reading "__text_sign_english__" in __sign_lettering__, white, rusted at the edges
 a pub hanging sign reading "__text_sign_english__" in __sign_lettering__, yellow, restored to showroom finish
-a ship's nameplate, black, covered in mud
-a ship's nameplate, copper, rusted at the edges
-a ship's nameplate, matte black, decorated with stickers
-a ship's nameplate, matte black, well used with light wear
-a ship's nameplate, neon, faded by sun
+a ship's nameplate reading "__name_word__" in raised capitals, black, covered in mud
+a ship's nameplate reading "__name_word__" in raised capitals, copper, rusted at the edges
+a ship's nameplate reading "__name_word__" in raised capitals, matte black, decorated with stickers
+a ship's nameplate reading "__name_word__" in raised capitals, matte black, well used with light wear
+a ship's nameplate reading "__name_word__" in raised capitals, neon, faded by sun
 a stone engraved sign reading "__text_sign_english__" in __sign_lettering__, black, dusty from storage
 a stone engraved sign reading "__text_sign_english__" in __sign_lettering__, silver, brand new and spotless
 a street-name sign reading "__text_sign_english__" in __sign_lettering__, brown, hand-made and slightly uneven
 a street-name sign reading "__text_sign_english__" in __sign_lettering__, burgundy, covered in mud
 a street-name sign reading "__text_sign_english__" in __sign_lettering__, chrome, freshly polished
 a street-name sign reading "__text_sign_english__" in __sign_lettering__, green, dusty from storage
-a vintage tin advertisement, black, battered but working
-a vintage tin advertisement, brown, dusty from storage
-a vintage tin advertisement, chrome, heavily worn and scratched
-a vintage tin advertisement, pink, rusted at the edges
-a vintage tin advertisement, rainbow-coloured, wet with rain
-a vintage tin advertisement, turquoise, brand new and spotless
+a vintage tin advertisement reading "__name_brand_upper__" __text_look_paint__ above a painted picture, black, battered but working
+a vintage tin advertisement reading "__name_brand_upper__" __text_look_paint__ above a painted picture, brown, dusty from storage
+a vintage tin advertisement reading "__name_brand_upper__" __text_look_paint__ above a painted picture, chrome, heavily worn and scratched
+a vintage tin advertisement reading "__name_brand_upper__" __text_look_paint__ above a painted picture, pink, rusted at the edges
+a vintage tin advertisement reading "__name_brand_upper__" __text_look_paint__ above a painted picture, rainbow-coloured, wet with rain
+a vintage tin advertisement reading "__name_brand_upper__" __text_look_paint__ above a painted picture, turquoise, brand new and spotless
 a warning triangle, rainbow-coloured, covered in mud
 a warning triangle, speckled, heavily worn and scratched
 a wayfinding totem, gold, antique with a patina
 a wayfinding totem, navy, battered but working
-a window decal, black, well used with light wear
-a window decal, brown, heavily worn and scratched
-a window decal, purple, rusted at the edges
-a window decal, speckled, antique with a patina
-a wooden road sign, copper, covered in frost
-a wooden road sign, neon, heavily worn and scratched
-a wooden road sign, orange, covered in mud
-a wooden road sign, purple, rusted at the edges
-a wooden road sign, speckled, battered but working
+a window decal reading "__sign_message__" in cut vinyl letters, black, well used with light wear
+a window decal reading "__sign_message__" in cut vinyl letters, brown, heavily worn and scratched
+a window decal reading "__sign_message__" in cut vinyl letters, purple, rusted at the edges
+a window decal reading "__sign_message__" in cut vinyl letters, speckled, antique with a patina
+a wooden road sign reading "__name_town__ __name_number_small__" in painted capitals, copper, covered in frost
+a wooden road sign reading "__name_town__ __name_number_small__" in painted capitals, neon, heavily worn and scratched
+a wooden road sign reading "__name_town__ __name_number_small__" in painted capitals, orange, covered in mud
+a wooden road sign reading "__name_town__ __name_number_small__" in painted capitals, purple, rusted at the edges
+a wooden road sign reading "__name_town__ __name_number_small__" in painted capitals, speckled, battered but working
 an exit sign reading "__text_sign_english__" in __sign_lettering__, black, wrapped in protective cover
 an exit sign reading "__text_sign_english__" in __sign_lettering__, neon, rusted at the edges
 an exit sign reading "__text_sign_english__" in __sign_lettering__, pink, brand new and spotless

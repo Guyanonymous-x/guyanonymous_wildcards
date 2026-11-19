@@ -171,8 +171,8 @@ brushing hair aside, while looking into the distance
 talking on the phone, in a deliberate posed moment
 hands behind the back, with a calm air
 kneeling on one knee on ground
-reading a book, with a casual attitude
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 mid-jump
 sitting at a table
 reclining in a chair, with graceful posture
@@ -300,7 +300,7 @@ leaning on a railing
 holding a mug with both hands, with focus
 leaning on a fence, in a relaxed way
 sitting on a curb, with graceful posture
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on a swing, in a natural candid moment
 reading a map
 reading a map, with energy

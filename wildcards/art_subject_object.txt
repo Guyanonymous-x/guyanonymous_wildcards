@@ -6,15 +6,15 @@ a banana
 a banana with a grasshopper perched on it
 a banana with an albatross perched on it
 a banana with an apple growing from it
-a banknote
-a banknote with a citrus slice growing from it
-a banknote with a gazelle perched on it
-a banknote with a koala perched on it
+a banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters
+a banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters with a citrus slice growing from it
+a banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters with a gazelle perched on it
+a banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters with a koala perched on it
 a beer mug
 a beer mug with a magpie perched on it
 a beer mug with a pike perched on it
 a beer mug with a pug perched on it
-a bejeweled banknote
+a bejeweled banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters
 a bejeweled cannon
 a bejeweled cheese wedge
 a bejeweled chess king
@@ -455,7 +455,7 @@ a gemstone
 a gemstone with a moth perched on it
 a gemstone with a palm frond growing from it
 a gemstone with an orca perched on it
-a gentle banknote
+a gentle banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters
 a gentle boombox
 a gentle cabin
 a gentle candy cane
@@ -716,9 +716,9 @@ a many-eyed water tower
 a many-eyed wine glass
 a many-eyed yo-yo
 a map
-a map with a jellyfish perched on it
-a map with a rabbit perched on it
-a map with a sunflower growing from it
+a map labeled "__name_town__" in small black print, its other places unlabeled with a jellyfish perched on it
+a map labeled "__name_town__" in small black print, its other places unlabeled with a rabbit perched on it
+a map labeled "__name_town__" in small black print, its other places unlabeled with a sunflower growing from it
 a matchbox
 a matchbox with a moose perched on it
 a matchbox with a viper perched on it
@@ -773,7 +773,7 @@ a mirror with a cactus growing from it
 a mirror with an octopus perched on it
 a mossy airship
 a mossy anchor
-a mossy banknote
+a mossy banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters
 a mossy biplane
 a mossy coffee bean
 a mossy cogwheels
@@ -1496,7 +1496,7 @@ an anchor
 an anchor with a damselfly perched on it
 an anchor with a gourd growing from it
 an anchor with a wisteria growing from it
-an ancient banknote
+an ancient banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters
 an ancient cabin
 an ancient candle
 an ancient comb
@@ -1530,7 +1530,7 @@ an ancient yo-yo
 an antlered anchor
 an antlered avocado half
 an antlered bacon strip
-an antlered banknote
+an antlered banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters
 an antlered button
 an antlered candy cane
 an antlered chalice

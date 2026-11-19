@@ -1,6 +1,6 @@
 a folded newspaper with the headline "__text_headline__" __text_look_headline__
 a broadsheet spread open
-a tabloid
+a tabloid headlined "__text_headline__" __text_look_headline__
 a local free paper
 a newspaper with the headline "__text_headline__" __text_look_headline__ in a wooden holder
 a newspaper with the headline "__text_headline__" __text_look_headline__ pushed under a door

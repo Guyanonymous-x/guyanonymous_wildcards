@@ -10,8 +10,8 @@ Ancient and weathered pilum from Rome, a long iron shank on a wooden shaft; made
 Ancient and weathered qiang from China, a spear with a red tassel; made of an obsidian head on a wooden shaft, with a cord-wrapped handle and a clean ceremonial finish.
 Ancient and weathered ranseur from Europe, a spear with side prongs; made of a flint head on a bamboo shaft, with a ray-skin grip and an etched pattern along the blade.
 Ancient and weathered sarissa from Macedonia, an extremely long pike; made of an iron head on an ash shaft, with a woven strap and a clean ceremonial finish.
-Ancient and weathered trident from ancient Mediterranean, which is a three-pronged spear; made of a bronze head on a hardwood shaft, with a gold-inlaid hilt and engraved inscriptions.
-Ancient and weathered trident from ancient Mediterranean, which is a three-pronged spear; made of a steel head on an ironwood shaft, with a woven strap and engraved inscriptions.
+Ancient and weathered trident from ancient Mediterranean, which is a three-pronged spear; made of a bronze head on a hardwood shaft, with a gold-inlaid hilt and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
+Ancient and weathered trident from ancient Mediterranean, which is a three-pronged spear; made of a steel head on an ironwood shaft, with a woven strap and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Ancient and weathered vel from South India, a leaf-shaped spearhead; made of an obsidian head on a wooden shaft, with a leather-wrapped grip and a patterned surface.
 Ancient and weathered yari from Japan, a straight spear with a long head; made of a flint head on a bamboo shaft, with a rope-wrapped haft and a battle-worn finish.
 Battle-worn assegai from southern Africa, a short throwing spear with a leaf-shaped blade; made of a bronze head on a hardwood shaft, with a ray-skin grip and nicks and scratches from use.
@@ -38,7 +38,7 @@ Ceremonial harpoon from Arctic and Pacific, a barbed head on a line; made of an 
 Ceremonial iklwa from Zulu southern Africa, a short stabbing spear with a long blade; made of a flint head on a bamboo shaft, with a silver-wire grip and an etched pattern along the blade.
 Ceremonial naginata from Japan, a curved blade on a long pole; made of a steel head on an ironwood shaft, with feather and bead decorations and an etched pattern along the blade.
 Ceremonial naginata from Japan, a curved blade on a long pole; made of an iron head on an ash shaft, with a tooled leather sheath and an etched pattern along the blade.
-Ceremonial partisan from Europe, a spear with a broad double-edged blade; made of an obsidian head on a wooden shaft, with feather and bead decorations and engraved inscriptions.
+Ceremonial partisan from Europe, a spear with a broad double-edged blade; made of an obsidian head on a wooden shaft, with feather and bead decorations and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Ceremonial pike from medieval Europe, a very long infantry spear; made of a flint head on a bamboo shaft, with a tassel at the pommel and a battle-worn finish.
 Ceremonial pole-hook from Africa, a long hooked spear; made of an obsidian head on a wooden shaft, with a carved wooden handle and a battle-worn finish.
 Ceremonial qiang from China, a spear with a red tassel; made of an iron head on an ash shaft, with a tooled leather sheath and a clean ceremonial finish.
@@ -50,7 +50,7 @@ Ceremonial trident from ancient Mediterranean, a three-pronged spear; made of a 
 Lovingly restored assegai from southern Africa, a short throwing spear with a leaf-shaped blade; made of a steel head on an ironwood shaft, with a tassel at the pommel and nicks and scratches from use.
 Lovingly restored bill hook from England, a hooked blade on a long pole; made of a flint head on a bamboo shaft, with a leather-wrapped grip and an etched pattern along the blade.
 Lovingly restored fishing spear from Pacific, a multi-pronged spear; made of an iron head on an ash shaft, with a tassel at the pommel and engraved inscriptions.
-Lovingly restored glaive from medieval Europe, a long single-edged blade on a pole; made of a bronze head on a hardwood shaft, with a tooled leather sheath and engraved inscriptions.
+Lovingly restored glaive from medieval Europe, a long single-edged blade on a pole; made of a bronze head on a hardwood shaft, with a tooled leather sheath and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Lovingly restored glaive from medieval Europe, a long single-edged blade on a pole; made of a bronze head on a hardwood shaft, with painted geometric designs and a clean ceremonial finish.
 Lovingly restored glaive from medieval Europe, a long single-edged blade on a pole; made of a flint head on a bamboo shaft, with a ray-skin grip and a battle-worn finish.
 Lovingly restored guandao from China, a heavy curved blade on a long pole; made of a steel head on an ironwood shaft, with a carved wooden handle and an etched pattern along the blade.
@@ -102,7 +102,7 @@ Ornate halberd from Switzerland, an axe, spike and hook on a pole; made of an ob
 Ornate iklwa from Zulu southern Africa, a short stabbing spear with a long blade; made of a bronze head on a hardwood shaft, with a lacquered scabbard and nicks and scratches from use.
 Ornate javelin from ancient Greece, a light throwing spear; made of an iron head on an ash shaft, with feather and bead decorations and an etched pattern along the blade.
 Ornate naga danda from India, a serpent-headed spear; made of a bronze head on a hardwood shaft, with a carved wooden handle and a mirror polish.
-Ornate partisan from Europe, a spear with a broad double-edged blade; made of an iron head on an ash shaft, with a lacquered scabbard and engraved inscriptions.
+Ornate partisan from Europe, a spear with a broad double-edged blade; made of an iron head on an ash shaft, with a lacquered scabbard and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Ornate pole-hook from Africa, a long hooked spear; made of a bronze head on a hardwood shaft, with a brass guard and carved spirals.
 Ornate spear from ancient world, a pointed head on a long wooden shaft; made of a bronze head on a hardwood shaft, with painted geometric designs and nicks and scratches from use.
 Ornate yari from Japan, a straight spear with a long head; made of an iron head on an ash shaft, with a cord-wrapped handle and a battle-worn finish.
@@ -139,9 +139,9 @@ Rusted bo spear from Japan, a long staff-spear; made of an iron head on an ash s
 Rusted bo spear from Japan, a long staff-spear; made of an obsidian head on a wooden shaft, with a brass guard and painted designs.
 Rusted guandao from China, a heavy curved blade on a long pole; made of an obsidian head on a wooden shaft, with a tassel at the pommel and carved spirals.
 Rusted lance from medieval Europe, a long jousting spear with a hand guard; made of a steel head on an ironwood shaft, with painted geometric designs and a clean ceremonial finish.
-Rusted lance from medieval Europe, a long jousting spear with a hand guard; made of an iron head on an ash shaft, with a ray-skin grip and engraved inscriptions.
+Rusted lance from medieval Europe, a long jousting spear with a hand guard; made of an iron head on an ash shaft, with a ray-skin grip and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Rusted naga danda from India, a serpent-headed spear; made of a bronze head on a hardwood shaft, with a tooled leather sheath and a battle-worn finish.
-Rusted partisan from Europe, a spear with a broad double-edged blade; made of a steel head on an ironwood shaft, with a brass guard and engraved inscriptions.
+Rusted partisan from Europe, a spear with a broad double-edged blade; made of a steel head on an ironwood shaft, with a brass guard and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Rusted pike from medieval Europe, a very long infantry spear; made of an iron head on an ash shaft, with a woven strap and a mirror polish.
 Rusted pilum from Rome, a long iron shank on a wooden shaft; made of a flint head on a bamboo shaft, with a ray-skin grip and nicks and scratches from use.
 Rusted spear from ancient world, a pointed head on a long wooden shaft; made of an iron head on an ash shaft, with a carved wooden handle and painted designs.

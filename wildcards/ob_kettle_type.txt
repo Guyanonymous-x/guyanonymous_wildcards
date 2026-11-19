@@ -37,12 +37,12 @@ a kettle in the backstage area
 a kettle and sink unit
 a kettle in the booth
 a kettle and four mugs
-a kettle and a tin of biscuits in the back room
+a kettle and a tin of biscuits labeled "__name_brand_upper__" __text_look_print__ in the back room
 a kettle in the shed
 a kettle in the workshop
 a kettle in a van
 a kettle in the hut
-a kettle and a tin of teabags
+a kettle and a tin of teabags printed "TEA" in white letters on red
 a kettle and a small fridge on a counter
 the kettle
 a kettle and a wall of mugs with names such as "__name_first__" on them
@@ -79,7 +79,7 @@ a kettle that is used more than in any car workshop because the jobs are shorter
 a kettle in constant use
 a kettle and two armchairs
 a kettle and two chairs which are genuinely part of the equipment because the customer visits and stays
-a kettle on a shelf beside a jar of instant and a single mug
+a kettle on a shelf beside a jar of instant labeled "__name_brand_upper__" __text_look_print__ and a single mug
 a kettle and a battered sofa
 a kettle and sofa
 a kettle on a stand
@@ -105,7 +105,7 @@ a kettle and cups
 a kettle and a stack of cups
 a kettle in the better establishments
 a kettle on a filing cabinet with a ring under it
-a kettle and a jar of coffee on a crate
+a kettle and a jar of coffee labeled "__name_brand_upper__ COFFEE" in black print on a white label on a crate
 a spirit kettle on a stand with a burner
 a fish kettle on a nail
 a kettle on a trivet in the grate
@@ -113,14 +113,14 @@ a kettle with a limescaled spout
 a kettle and a flat iron on its top
 a kettle on a tray
 a kettle and one mug
-a kettle and exactly one mug on a bench in a room full of chemical hazard labels
-the kettle and one mug among the hazard labels
+a kettle and exactly one mug on a bench in a room full of chemical hazard labels reading "TOXIC" and "CORROSIVE" in black capitals on orange
+the kettle and one mug among the hazard labels reading "TOXIC" and "CORROSIVE" in black capitals on orange
 a kettle and two mugs on a tray
 a kettle and a radio
 a kettle and six mugs on a filing cabinet
 a kettle on a filing cabinet with a limescale tidemark and a mug beside it whose owner left in 2022
 a kettle and two cups on a shelf
 a kettle on a shelf with a mug beside it and a second mug kept specifically for visitors
-a kettle and a tin of instant coffee on a cupboard top
+a kettle and a tin of instant coffee labeled "__name_brand_upper__" __text_look_print__ on a cupboard top
 a kettle on a cupboard top
 a kettle with the lid off so it dries

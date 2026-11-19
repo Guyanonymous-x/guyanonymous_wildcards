@@ -24,7 +24,7 @@ a deft chess-clock style watch, made of __acc_watch_mat_odd_fine__. It is a bold
 a deft chronograph, made of __acc_watch_mat_odd_fine__. It is a watch with sub-dials that time short intervals.
 a deft leather wrap watch, made of __acc_watch_mat_odd_fine__. It wraps several times around the wrist. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a deft railway watch, made of __acc_watch_mat_odd_fine__. It is a pocket watch with a very legible dial.
-a discerning digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+a discerning digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a discerning leather wrap watch, made of __acc_watch_mat_odd_fine__. It wraps several times around the wrist. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a discerning moon-phase watch, made of __acc_watch_mat_odd_fine__. It shows the moon's phases in a small window.
 a discerning pendant watch, made of __acc_watch_mat_odd_fine__. It is a small watch hung on a chain around the neck.
@@ -99,12 +99,12 @@ a skilfully made oval watch, made of __acc_watch_mat_odd_fine__. It has an oval 
 a sleek dress watch, made of __acc_watch_mat_odd_fine__. It is a slim round watch with a plain face.
 a sleek ring watch, made of __acc_watch_mat_odd_fine__. It is a tiny watch set into a ring.
 a sleek skeleton watch, made of __acc_watch_mat_odd_fine__. It has an open dial showing the moving parts.
-a sophisticated digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+a sophisticated digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a sophisticated enamel dial watch, made of __acc_watch_mat_odd_fine__. It has a dial painted in glossy enamel. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a sophisticated moon-phase watch, made of __acc_watch_mat_odd_fine__. It shows the moon's phases in a small window.
 a stylish cartoon-dial watch, made of __acc_watch_mat_odd_fine__. It has a playful animated face. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a stylish chain-bracelet watch, made of __acc_watch_mat_odd_fine__. It has a fine chain band and a small dial.
-a stylish digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+a stylish digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a stylish diver's watch, made of __acc_watch_mat_odd_fine__. It is a watch with a rotating bezel and a screw-down crown.
 a stylish enamel dial watch, made of __acc_watch_mat_odd_fine__. It has a dial painted in glossy enamel. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a stylish pilot's watch, made of __acc_watch_mat_odd_fine__. It is a large watch with a clear dial and big numerals.
@@ -122,7 +122,7 @@ a subtle square watch, made of __acc_watch_mat_odd_fine__. It has a square case.
 a subtle world-time watch, made of __acc_watch_mat_odd_fine__. It shows the time in many cities at once.
 a superior Art Deco watch, made of __acc_watch_mat_odd_fine__. It is a rectangular watch with a stepped case.
 a superior bangle watch, made of __acc_watch_mat_odd_fine__. It has a rigid bangle band and a small dial.
-a superior digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+a superior digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a superior pilot's watch, made of __acc_watch_mat_odd_fine__. It is a large watch with a clear dial and big numerals.
 a superior world-time watch, made of __acc_watch_mat_odd_fine__. It shows the time in many cities at once.
 a tailored Art Deco watch, made of __acc_watch_mat_odd_fine__. It is a rectangular watch with a stepped case.
@@ -134,14 +134,14 @@ a tailored pilot's watch, made of __acc_watch_mat_odd_fine__. It is a large watc
 a tailored wooden watch, made of __acc_watch_mat_odd_fine__. It has a case and strap made of wood.
 a tailored world-time watch, made of __acc_watch_mat_odd_fine__. It shows the time in many cities at once.
 a thoughtfully finished ancient sundial pendant, made of __acc_watch_mat_odd_fine__. It is a small portable sundial on a chain.
-a thoughtfully finished digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+a thoughtfully finished digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a thoughtfully finished moon-phase watch, made of __acc_watch_mat_odd_fine__. It shows the moon's phases in a small window.
 a thoughtfully finished railway watch, made of __acc_watch_mat_odd_fine__. It is a pocket watch with a very legible dial.
 a thoughtfully finished ring watch, made of __acc_watch_mat_odd_fine__. It is a tiny watch set into a ring.
 a well-bred Japanese quartz watch, made of __acc_watch_mat_odd_fine__. It is a slim, precise watch with a clean dial.
 a well-bred chess-clock style watch, made of __acc_watch_mat_odd_fine__. It is a bold square watch in a retro style.
 a well-bred cuff watch, made of __acc_watch_mat_odd_fine__. It is a watch set into a wide bracelet.
-a well-bred digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+a well-bred digital watch, made of __acc_watch_mat_odd_fine__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a well-bred oval watch, made of __acc_watch_mat_odd_fine__. It has an oval case. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a well-bred square watch, made of __acc_watch_mat_odd_fine__. It has a square case. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a well-bred tank watch, made of __acc_watch_mat_odd_fine__. It is a long rectangular watch with a plain dial.

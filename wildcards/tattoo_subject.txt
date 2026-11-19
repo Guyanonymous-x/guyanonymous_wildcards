@@ -73,7 +73,7 @@ a banana leaf entwined with a wisteria
 a banana with a grasshopper perched on it
 a banana with an albatross perched on it
 a banana with an apple growing from it
-a banknote with a gazelle perched on it
+a banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters with a gazelle perched on it
 a banner reading "__text_banner_festival__" __text_look_banner__
 a banner reading "__text_banner_festival__" __text_look_banner__ with a name
 a banshee hanging upside down
@@ -99,7 +99,7 @@ a bear fishing in a river
 a bear in the forest
 a bear with its mouth open
 a beaver
-a beaver and a banknote
+a beaver and a banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters
 a beaver in a field of ivy
 a beaver with its head tilted
 a bee
@@ -113,7 +113,7 @@ a beetle and a ring
 a beetle in a field of plum blossom
 a bejeweled apple
 a bejeweled banana leaf
-a bejeweled banknote
+a bejeweled banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters
 a bejeweled banshee
 a bejeweled baobab
 a bejeweled chess king
@@ -1190,7 +1190,7 @@ a griffin stalking
 a griffin under a cliff
 a griffin wrapped around a branch
 a guitar
-a gypsy fortune teller
+a fortune teller in a fringed shawl with a crystal ball
 a halftone gradient
 a halftone gradient, broken into fragments
 a halftone gradient, overlapping itself
@@ -1569,7 +1569,7 @@ a many-eyed tortoise
 a many-eyed troll
 a many-eyed turkey
 a map
-a map with a sunflower growing from it
+a map labeled "__name_town__" in small black print, its other places unlabeled with a sunflower growing from it
 a maple leaf
 a maple leaf entwined with a holly
 a maple leaf entwined with a kelp
@@ -2682,7 +2682,7 @@ a tapir wearing a tiny hat
 a tarantula and a typewriter
 a tarantula in a field of barley
 a tarantula yawning
-a tarot card
+a tarot card titled "THE TOWER" in small black capitals along the bottom
 a tattered acorn
 a tattered anvil
 a tattered baobab
@@ -3209,7 +3209,7 @@ an alligator and a compass rose
 an aloe
 an aloe entwined with a peony
 an anchor with a damselfly perched on it
-an ancient banknote
+an ancient banknote printed "BANK OF __name_town__" and "__name_number_small__0" in fine engraved letters
 an ancient buffalo
 an ancient bulldog
 an ancient candle

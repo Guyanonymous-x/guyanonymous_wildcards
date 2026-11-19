@@ -159,12 +159,12 @@ whiteboard
 globe
 map
 book
-newspaper
-magazine
+newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
+magazine with "__name_magazine__" across the cover in bold capitals
 ticket
-banknote
+banknote printed "20" in large ornate numerals
 coin
-postcard
+postcard reading "GREETINGS FROM __name_town__" in bright capitals, the rest of the card a photo
 envelope
 letterbox
 stamp

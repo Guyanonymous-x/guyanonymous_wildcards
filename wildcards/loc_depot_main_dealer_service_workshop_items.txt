@@ -6,7 +6,7 @@ a steering wheel cover and a floor mat in paper
 a job pack in a plastic wallet on each car's wing
 a workwear-matched technician at each bay
 an air hose reel overhead
-a parts trolley with the day's picks in labeled bags
+a parts trolley with the day's picks in labeled bags marked "BAY __name_number_small__" in black marker
 a bin per bay for packaging
 a tool trolley with a foam-cut top layer
-a wall screen showing bay status
+a wall screen showing bay status "BAY __name_number_small__ IN PROGRESS" in white letters on a dark blue screen

@@ -1,5 +1,5 @@
-franking a stack of letters
-sorting letters into pigeonholes
+franking a stack of letters addressed "__name_first__ __name_surname__" __text_look_handwriting__
+sorting letters addressed "__name_first__ __name_surname__" __text_look_handwriting__ into pigeonholes
 weighing a parcel
 loading a van with sacks
-stamping a passport form
+stamping a passport form headed "PASSPORT APPLICATION" in black print, the rest of the form plain

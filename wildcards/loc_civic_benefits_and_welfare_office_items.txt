@@ -1,7 +1,7 @@
 forms
-a ticket number
-a leaflet rack
-a notice about abuse of staff
+a ticket number "__name_number_small__" in bold black print
+a leaflet rack holding leaflets headed "__text_flyer__" __text_look_print__, the rest of each cover plain
+a notice about abuse of staff, headed "PLEASE RESPECT OUR STAFF" __text_look_paper_notice__, the rest of the sheet plain white
 a phone on the wall for claims
 a child's toy in a corner
 a pen on a chain

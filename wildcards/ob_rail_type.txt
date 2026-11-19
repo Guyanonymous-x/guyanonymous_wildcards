@@ -36,12 +36,12 @@ an arris rail
 a cobweb between rail
 a tray rail
 a fold-down grab rail
-a ticket rail
+a ticket rail holding order slips reading "__text_price_item__" in black ballpoint
 a speed rail
 a hanging salami rail
 a refrigerated topping rail
 a city skyline beyond rail
-a signage rail
+a signage rail holding a sign reading "__text_door_notice__" __text_look_print__
 a dado rail
 a stair rail
 a coffee cup wedged into window rail
@@ -105,14 +105,14 @@ grab rails bolted to reinforced walls
 grab rail in the bath
 towel rail
 the grab rails
-the ticket rail with orders clipped along it
+the ticket rail with orders reading "__text_price_item__" in black ballpoint clipped along it
 picture rail and artwork
 speed rail
 hanging salami rail
 refrigerated topping rail
 queue rail
 the city skyline beyond the rail
-signage rails
+signage rails holding signs reading "__text_door_notice__" __text_look_print__
 dado rail
 the stair rail
 crash rails
@@ -125,7 +125,7 @@ rolling rails of stock
 rails on wheels
 a rail with hooks running into the cold room behind
 the rail of hooks
-a rail of work in progress with tickets
+a rail of work in progress with tickets reading "__name_surname_world__" in blue ballpoint
 a queue rail in the busier locations
 quick-change rails
 a costume rail with hangers marked with names such as "__name_first__"

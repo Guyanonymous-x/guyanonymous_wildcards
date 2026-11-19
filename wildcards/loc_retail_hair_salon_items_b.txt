@@ -3,6 +3,6 @@ brushes
 foils
 capes
 hairspray
-magazines
+magazines with "__name_magazine__" __text_look_print__ across the covers, the rest of each cover plain
 hair clippings on the floor
 a tip jar

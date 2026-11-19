@@ -2,8 +2,8 @@ a salt and pepper set that is deliberately bottom-heavy so it does not walk acro
 a cloth with the fold creases still showing
 a single flower in a vase that is slightly the wrong flower for the season
 a wine glass with a ring of red at the base
-a bill on a saucer with a coin on it
+a bill reading "__text_receipt__" __text_look_receipt__ on a saucer with a coin on it
 a steward's cloth over a chair back
-a menu card with a corner softened by handling
+a menu card headed "MENU" in gold script, with "__text_price_line__" below in black print, the rest of the card plain, with a corner softened by handling
 a napkin refolded into a shape nobody taught
 a crumb brush on the service counter

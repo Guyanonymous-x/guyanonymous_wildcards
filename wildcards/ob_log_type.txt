@@ -61,11 +61,11 @@ a dust-count log with a spike circled in ballpoint
 a generator log with a fuel figure corrected in ballpoint
 a hand-written mileage log on a clipboard in the door pocket
 a temperature log on a clipboard
-a temperature log on a clipboard with figures taken by hand from thermometers that must be read by eye
+a temperature log headed "TEMP LOG" on a clipboard with figures "4.2 4.1 3.9" __text_look_handwriting__ taken by hand from thermometers that must be read by eye
 a rum log in several hands
 a Doppler log
 a technical log on a clipboard
-a technical log on a clipboard which is the aircraft's legal record and which an engineer signs to release it to service
+a technical log headed "TECHNICAL LOG" in black print, the rest of the sheet ruled boxes, on a clipboard which is the aircraft's legal record and which an engineer signs to release it to service
 the hand-filled humidity log
 a hand-filled log in two handwritings
 logs and pallet seats round it at a judged distance
@@ -79,8 +79,8 @@ a visitors' log
 the visitors' log
 a log in many hands
 a wall built log by log by hand over two or three summers with the builder's sorting decisions visible in every course
-a cleaning log on a clipboard with hourly initials
-a cleaning log on a clipboard with hourly initials beside the arcade corridor
+a cleaning log headed "CLEANING LOG" on a clipboard with hourly initials "__name_initials__" __text_look_handwriting__
+a cleaning log on a clipboard with hourly initials reading "__name_initials__" in blue ballpoint beside the arcade corridor
 an hourly cleaning log
 the hourly cleaning log with initials
 a cleaning log with eighteen months of initials in four hands

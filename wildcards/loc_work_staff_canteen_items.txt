@@ -1,9 +1,9 @@
 trays
 cutlery in a tub
-a menu board with prices
+a menu board reading "__text_price_line__" __text_look_chalk__ with prices
 condiment sachets
-a till receipt
+a till receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip blank
 a jug of water
 a staff card for payment
 a half-eaten lunch
-a newspaper
+a newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain

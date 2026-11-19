@@ -25,7 +25,7 @@ a cork mat
 a blue mat
 a place mat
 a worn mat
-a pizza leaflet trodden into mat
+a pizza leaflet printed "PIZZA __name_price__" in red capitals trodden into mat
 a yoga mat
 a square mat
 an anti-fatigue mat
@@ -66,7 +66,7 @@ a beer mat under a table leg
 a mat on the floor
 a changing mat on the floor
 a prayer mat rolled
-a pizza leaflet trodden into the mat
+a pizza leaflet headed "__name_brand_invented__ PIZZA" in bold red print, the rest of the leaflet plain, trodden into the mat
 a kneeling mat with a split
 a kneeling mat with a split in the foam
 a yoga mat rolled in a corner

@@ -14,7 +14,7 @@ brushing hair aside, with quiet confidence
 hugging the knees, with a calm air
 crouching low
 standing with feet apart
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 cooking, while looking away
 stretching to the side
 striding forward aggressively
@@ -126,7 +126,7 @@ sitting on a swing, while looking into the distance
 doing a yoga pose
 lying on the stomach, with graceful posture
 perching on a table edge
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 mid-jump, in mid-motion
 descending steps
 gardening
@@ -253,7 +253,7 @@ riding a scooter, with focus
 sitting at a table, with careful balance
 riding a bicycle
 sitting upright formal posture
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 hugging oneself
 doing a lunge, while glancing at the camera
 twirling

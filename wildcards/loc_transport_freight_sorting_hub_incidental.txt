@@ -6,6 +6,6 @@ a chute label reading "__name_town__" corrected in marker over a printed one
 an energy drink can
 a pair of gloves shaped to one person's hands
 a cardboard sign reading "Hold" in marker capitals
-a sweet wrapper
-a sticker from a courier firm on a post
+a sweet wrapper printed "__name_brand_upper__" __text_look_print__
+a sticker from a courier firm reading "__name_trade_corp__" __text_look_print__ on a post
 a bird in the roof space

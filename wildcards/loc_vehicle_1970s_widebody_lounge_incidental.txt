@@ -6,7 +6,7 @@ a swiveling tub chair bolted down with the swivel stiff on one side
 a cocktail glass rack behind the bar with real glass in it
 an ashtray on every flat surface including the bar top and the table
 a projector screen at the front of the main cabin for a single film everybody watched at once
-a magazine rack with the airline's magazine and a newspaper from that morning's departure city
+a magazine rack with the airline's magazine titled "__name_magazine__" __text_look_print__ and a newspaper with the masthead "__name_newspaper__" __text_look_headline__ from that morning's departure city
 a low table with a lip round it and a ring pattern of many glasses
 carpet
 spirits and jet fuel

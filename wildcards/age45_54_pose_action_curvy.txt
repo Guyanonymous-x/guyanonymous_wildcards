@@ -21,7 +21,7 @@ standing with feet apart
 leaning on a railing, with careful balance
 crouching low in dynamic athletic pose
 kneeling on one knee, in a natural candid moment
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 leaning on a table, in a relaxed way
 sitting on a sofa, with focus
 standing with arms crossed
@@ -77,7 +77,7 @@ sitting on the floor
 sitting on a log, with energy
 lying propped on an elbow, while looking away
 sitting at a desk
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 leaning on a fence, while looking into the distance
 sitting cross-legged
 leaning on a car, in a natural candid moment
@@ -496,5 +496,5 @@ reclining on a sofa, while looking away
 reaching forward
 reaching to the side, with graceful posture
 playing piano
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 lying on the back

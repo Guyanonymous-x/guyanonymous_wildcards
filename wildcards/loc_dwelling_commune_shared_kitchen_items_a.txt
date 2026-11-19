@@ -1,7 +1,7 @@
 a very large kitchen with two domestic cookers side by side and a catering range beyond them
-a wall of open shelving with catering tins and labeled jars
-a second chalkboard with a shopping list anybody can add to
+a wall of open shelving with catering tins and labeled jars marked "__text_jar_label__" in black marker
+a second chalkboard with a shopping list reading "Milk eggs bread" in white chalk script anybody can add to
 a pair of industrial sinks and a dish rack the size of a door
 a wholefood store with bulk sacks of rice
 a fridge with names such as "__name_first__" written on shelves in marker
-a recycling and compost station with four labeled bins
+a recycling and compost station with four labeled bins marked "COMPOST", "PAPER", "GLASS" and "PLASTIC" in black marker

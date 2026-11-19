@@ -1,5 +1,5 @@
 glazed service windows
 fixed waiting seating
-a ticket display
+a ticket display showing "NOW SERVING __name_number_small__" __text_look_dotmatrix__, the rest of the display dark
 a scanning and biometric station
 a supervisor's position

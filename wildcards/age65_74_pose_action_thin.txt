@@ -153,7 +153,7 @@ sitting on a sofa, with focus
 stretching to the side
 kneeling on one knee, with a slight smile
 carrying a bag, in mid-motion
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 clapping
 using a phone, with careful balance
 slouched tired sitting posture
@@ -386,7 +386,7 @@ tying hair back
 lounging lazily on sofa
 squatting, with a slight smile
 pausing mid-step, with a casual attitude
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting on a chair, with a calm air
 talking on the phone, with careful balance
 adjusting a hat, in a relaxed way
@@ -461,7 +461,7 @@ standing with feet apart, with quiet confidence
 leaning on a railing, with energy
 lying on the stomach, while looking into the distance
 stretching the arms overhead, with quiet confidence
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sleeping
 descending steps
 sitting on the edge of a bed

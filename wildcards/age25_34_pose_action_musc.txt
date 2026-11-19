@@ -27,7 +27,7 @@ standing at a doorway, while looking away
 leaning on a railing, while looking away
 holding a mug with both hands, with focus
 leaning on a tree, with graceful posture
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 twirling
 sitting on a low wall, with a casual attitude
 praying
@@ -100,7 +100,7 @@ typing on a laptop
 sitting on a windowsill, in a natural candid moment
 carrying a bag
 sitting on a bench, with focus
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 lying on the side, in a natural candid moment
 sitting on the floor, while looking away
 leaning against brick wall
@@ -481,7 +481,7 @@ running
 bending to pick something up, in a natural candid moment
 pausing mid-step, with a casual attitude
 sitting on a chair, while looking away
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 bending to tie a shoe
 sitting on the edge of a bed, with energy
 standing with hands in pockets

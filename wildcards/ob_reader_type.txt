@@ -1,6 +1,6 @@
 a card reader on a wall
-a barcode reader
-a ticket reader
+a barcode reader showing "READY" in green letters on a small screen
+a ticket reader showing "READY" in green letters on a small screen
 a handheld reader
 a fingerprint reader
-an e-ticket reader
+an e-ticket reader showing "READY" in green letters on a small screen

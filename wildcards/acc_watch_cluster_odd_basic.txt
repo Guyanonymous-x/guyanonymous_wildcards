@@ -82,7 +82,7 @@ a mass-produced oval watch, made of __acc_watch_mat_odd_basic__. It has an oval 
 a mass-produced pendant watch, made of __acc_watch_mat_odd_basic__. It is a small watch hung on a chain around the neck.
 a mass-produced world-time watch, made of __acc_watch_mat_odd_basic__. It shows the time in many cities at once.
 a matter-of-fact cartoon-dial watch, made of __acc_watch_mat_odd_basic__. It has a playful animated face. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
-a matter-of-fact digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+a matter-of-fact digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a matter-of-fact diver's watch, made of __acc_watch_mat_odd_basic__. It is a watch with a rotating bezel and a screw-down crown.
 a matter-of-fact enamel dial watch, made of __acc_watch_mat_odd_basic__. It has a dial painted in glossy enamel. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a matter-of-fact field watch, made of __acc_watch_mat_odd_basic__. It is a sturdy watch with a clear dial and a canvas strap.
@@ -129,7 +129,7 @@ a ready-to-wear leather wrap watch, made of __acc_watch_mat_odd_basic__. It wrap
 a ready-to-wear tonneau watch, made of __acc_watch_mat_odd_basic__. It has a barrel-shaped case. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a rudimentary ancient sundial pendant, made of __acc_watch_mat_odd_basic__. It is a small portable sundial on a chain.
 a rudimentary chess-clock style watch, made of __acc_watch_mat_odd_basic__. It is a bold square watch in a retro style.
-a rudimentary digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+a rudimentary digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a rudimentary field watch, made of __acc_watch_mat_odd_basic__. It is a sturdy watch with a clear dial and a canvas strap.
 a rudimentary ring watch, made of __acc_watch_mat_odd_basic__. It is a tiny watch set into a ring.
 a serviceable chain-bracelet watch, made of __acc_watch_mat_odd_basic__. It has a fine chain band and a small dial.
@@ -141,7 +141,7 @@ a simple tonneau watch, made of __acc_watch_mat_odd_basic__. It has a barrel-sha
 a standard-issue Art Deco watch, made of __acc_watch_mat_odd_basic__. It is a rectangular watch with a stepped case.
 a standard-issue ancient sundial pendant, made of __acc_watch_mat_odd_basic__. It is a small portable sundial on a chain.
 a standard-issue chronograph, made of __acc_watch_mat_odd_basic__. It is a watch with sub-dials that time short intervals.
-a standard-issue digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+a standard-issue digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a standard-issue diver's watch, made of __acc_watch_mat_odd_basic__. It is a watch with a rotating bezel and a screw-down crown.
 a standard-issue pocket watch, made of __acc_watch_mat_odd_basic__. It is a round watch that sits in a pocket, on a chain.
 a standard-issue railway watch, made of __acc_watch_mat_odd_basic__. It is a pocket watch with a very legible dial.
@@ -149,7 +149,7 @@ a standard-issue world-time watch, made of __acc_watch_mat_odd_basic__. It shows
 a straightforward ancient sundial pendant, made of __acc_watch_mat_odd_basic__. It is a small portable sundial on a chain.
 a straightforward bangle watch, made of __acc_watch_mat_odd_basic__. It has a rigid bangle band and a small dial.
 a straightforward chronograph, made of __acc_watch_mat_odd_basic__. It is a watch with sub-dials that time short intervals.
-a straightforward digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+a straightforward digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 a straightforward nurse's fob watch, made of __acc_watch_mat_odd_basic__. It is a small watch with a big second hand, pinned to a uniform.
 a straightforward skeleton watch, made of __acc_watch_mat_odd_basic__. It has an open dial showing the moving parts.
 a straightforward tonneau watch, made of __acc_watch_mat_odd_basic__. It has a barrel-shaped case. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
@@ -162,7 +162,7 @@ a workaday chess-clock style watch, made of __acc_watch_mat_odd_basic__. It is a
 a workaday chronograph, made of __acc_watch_mat_odd_basic__. It is a watch with sub-dials that time short intervals.
 a workaday fob watch, made of __acc_watch_mat_odd_basic__. It is a small watch pinned to the chest.
 a workaday pendant watch, made of __acc_watch_mat_odd_basic__. It is a small watch hung on a chain around the neck.
-an entry-level digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+an entry-level digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 an entry-level dress watch, made of __acc_watch_mat_odd_basic__. It is a slim round watch with a plain face.
 an entry-level skeleton watch, made of __acc_watch_mat_odd_basic__. It has an open dial showing the moving parts.
 an entry-level wooden watch, made of __acc_watch_mat_odd_basic__. It has a case and strap made of wood.
@@ -184,7 +184,7 @@ an ordinary skeleton watch, made of __acc_watch_mat_odd_basic__. It has an open 
 an ordinary tank watch, made of __acc_watch_mat_odd_basic__. It is a long rectangular watch with a plain dial.
 an ordinary wooden watch, made of __acc_watch_mat_odd_basic__. It has a case and strap made of wood.
 an understated bangle watch, made of __acc_watch_mat_odd_basic__. It has a rigid bangle band and a small dial.
-an understated digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
+an understated digital watch, made of __acc_watch_mat_odd_basic__. It has a screen showing numbers reading "__text_watch_time__" __text_look_screen__. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.
 an understated field watch, made of __acc_watch_mat_odd_basic__. It is a sturdy watch with a clear dial and a canvas strap.
 an understated fob watch, made of __acc_watch_mat_odd_basic__. It is a small watch pinned to the chest.
 an understated leather wrap watch, made of __acc_watch_mat_odd_basic__. It wraps several times around the wrist. It is worn on the wrist, with a round or rectangular face on top and a strap or bracelet that fastens round the wrist with a buckle or clasp.

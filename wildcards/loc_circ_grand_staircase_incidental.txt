@@ -3,7 +3,7 @@ a program folded and dropped
 a single shoe shed by somebody running for a taxi
 a cigarette being smoked at the bottom of the steps
 a glove on a railing
-a flyer
+a flyer reading "__text_flyer__" __text_look_print__, the rest of the leaflet plain
 a coat over an arm
 a bottle of water
-a dropped ticket stub
+a dropped ticket stub printed "__text_ticket__" in small black print

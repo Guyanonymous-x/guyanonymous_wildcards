@@ -120,7 +120,7 @@ A person dressed as a sea shanty sailor in a masculine cut (18th century), with 
 A person dressed as a secretary in a masculine cut (1950s), which is a blouse with a bow and a cardigan, trousers and court shoes, cut for a masculine frame with broad shoulders, with mid-tone brown tanned skin
 A person dressed as a smoking jacket wearer in a masculine cut (1920s), with a quilted velvet smoking jacket with a silk cravat, a tasselled cap and slippers, in a masculine cut with a roomy chest and shoulders, with mid-tone brown tanned skin
 A person dressed as a surgeon in scrubs in a masculine cut (modern hospital), with a green scrub top with a surgical gown, a paper mask and gloves, matching scrub trousers, a surgical cap and washable clogs, tailored in a masculine cut with a straight waist, with mid-tone brown tanned skin
-A person dressed as a tour guide in a masculine cut (city), which is a branded polo and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders, with mid-tone brown tanned skin
+A person dressed as a tour guide in a masculine cut (city), which is a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders, with mid-tone brown tanned skin
 A person dressed as a turkey harvest costume in a masculine cut (autumn), with a feathered tunic, tailored in a masculine cut with a straight waist, with mid-tone brown tanned skin
 A person dressed as a void wanderer in a masculine cut (sci-fi), with a hooded cloak over a patched suit, a breathing mask and boots, tailored in a masculine cut with a straight waist, with mid-tone brown tanned skin
 A person dressed as a walking Christmas tree in a masculine cut (festive), with a green tree suit with lights and a star hat, tailored in a masculine cut with a straight waist, with mid-tone brown tanned skin
@@ -197,7 +197,7 @@ a Bollywood dancer in a masculine cut, dressed in a sparkling blouse with trouse
 a Brazilian samba dancer in a masculine cut (Carnival), wearing a feathered bodysuit, a huge feather headdress and heels, in a masculine cut with a roomy chest and shoulders, with mid-tone brown tanned skin
 a British bobby in a masculine cut (London, 20th century), in a dark tunic with silver buttons and a whistle chain and a tall custodian helmet, with mid-tone brown tanned skin
 a Carnival of Venice reveller in a masculine cut, dressed in a brocade cape, with mid-tone brown tanned skin
-a Catholic priest in a masculine cut (church), wearing a black cassock with a white clerical collar, a biretta and black shoes, in a masculine cut with a roomy chest and shoulders and carrying a prayer book, with mid-tone brown tanned skin
+a Catholic priest in a masculine cut (church), wearing a black cassock with a white clerical collar, a biretta and black shoes, in a masculine cut with a roomy chest and shoulders and carrying a prayer book with "ROMAN MISSAL" in gold letters on the cover, the rest of the cover plain, with mid-tone brown tanned skin
 a Chinese opera performer in a masculine cut (Beijing), in a heavily embroidered robe with long water sleeves and platform boots, with mid-tone brown tanned skin
 a Cold War astronaut trainer in a masculine cut (1960s), in a pressure suit and a white helmet, with mid-tone brown tanned skin
 a Day of the Dead catrina in a masculine cut (Mexico), in a long ruffled dress and shoes, with mid-tone brown tanned skin
@@ -269,7 +269,7 @@ a bell ringer in a masculine cut (church), wearing a jumper with the name "__nam
 a birdwatcher in a masculine cut (nature), in a khaki vest with binoculars and trousers and boots, with mid-tone brown tanned skin
 a bishop in a masculine cut (church), wearing a purple cassock with a cope and a pectoral cross, a tall mitre and shoes, tailored in a masculine cut with a straight waist and carrying a crook-shaped staff, with mid-tone brown tanned skin
 a bog witch in a masculine cut (folklore), in a muddy cloak with reeds and a wide hat, with mid-tone brown tanned skin
-a bookseller in a masculine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, tailored in a masculine cut with a straight waist and carrying a stack of books, with mid-tone brown tanned skin
+a bookseller in a masculine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, tailored in a masculine cut with a straight waist and carrying a stack of books with "__name_book_title_any__" in small gold capitals on the top spine, the other spines plain, with mid-tone brown tanned skin
 a bounty hunter in a masculine cut (fantasy), in a patched leather cloak with a bandolier and a wide hat, with mid-tone brown tanned skin
 a bricklayer in a masculine cut (site), in a work shirt and high-visibility vest and work trousers and boots, with mid-tone brown tanned skin
 a bridal gown wearer in a masculine cut (wedding), wearing a fitted lace bodice with a sweetheart neckline and a long veil, trousers, a veil and satin shoes, tailored in a masculine cut with a straight waist and carrying a bouquet, with mid-tone brown tanned skin
@@ -452,7 +452,7 @@ a postmaster in a masculine cut (village), in a double-breasted jacket and a pea
 a potato sack racer in a masculine cut (fair), wearing a hessian sack, in a masculine cut with a roomy chest and shoulders, with mid-tone brown tanned skin
 a potter in a masculine cut (studio), wearing a clay-stained apron over a loose shirt, trousers and clogs, cut for a masculine frame with broad shoulders, with mid-tone brown tanned skin
 a prison guard in a masculine cut (modern), in a pale blue shirt with a duty belt and dark trousers and boots, with mid-tone brown tanned skin
-a professor in a masculine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a masculine cut with a straight waist and carrying a book, with mid-tone brown tanned skin
+a professor in a masculine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a masculine cut with a straight waist and carrying a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain, with mid-tone brown tanned skin
 a pullman porter in a masculine cut (1930s), in a double-breasted jacket with brass buttons and trousers and black shoes, with mid-tone brown tanned skin
 a punk in a masculine cut (1977 London), in a studded jacket with safety pins and a mohawk, with mid-tone brown tanned skin
 a quilter in a masculine cut (home), in an apron with pins on the front and trousers and slippers, with mid-tone brown tanned skin
@@ -546,7 +546,7 @@ a vaquero in a masculine cut (Mexico), wearing a short bolero jacket, embroidere
 a vaudeville performer in a masculine cut, dressed in a striped blazer with a straw boater with white trousers, with mid-tone brown tanned skin
 a veterinarian in a masculine cut (clinic), in a patterned scrub top with a stethoscope and a cat-print lab coat and scrub trousers and work shoes, with mid-tone brown tanned skin
 a waiter in a masculine cut (restaurant), in a white shirt with a black waistcoat and a bow tie and black trousers and black shoes, with mid-tone brown tanned skin
-a walking sandwich board seller in a masculine cut (street), in a hot dog costume with a sandwich board and shoes, with mid-tone brown tanned skin
+a walking sandwich board seller in a masculine cut (street), in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, with mid-tone brown tanned skin
 a warehouse picker in a masculine cut, dressed in a high-visibility vest and a scanner on the wrist with work trousers, with mid-tone brown tanned skin
 a wedding kimono wearer in a masculine cut, dressed in a white silk shiromuku with a wide obi, with mid-tone brown tanned skin
 a welder in a masculine cut (workshop), wearing a leather welding jacket and gauntlets, work trousers, a welding helmet and work boots, cut for a masculine frame with broad shoulders, with mid-tone brown tanned skin

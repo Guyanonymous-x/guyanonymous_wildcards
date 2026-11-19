@@ -47,7 +47,7 @@ crouching low in dynamic athletic pose
 watering plants, with a calm air
 standing on a balcony, with a sense of ease
 sitting on a swing, in a natural candid moment
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 resting a chin on a fist, with careful balance
 praying, while looking away
 standing with weight on one leg, while glancing at the camera
@@ -196,7 +196,7 @@ walking forward with purposeful stride
 leaning on a fence, with energy
 stretching to the side
 bending to pick something up, with focus
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 standing at a doorway
 holding a mug with both hands, while glancing at the camera
 resting a head on a hand, with energy
@@ -313,7 +313,7 @@ shrugging, with graceful posture
 carrying a box
 arms raised in celebration, in mid-motion
 reclining in a chair, with quiet confidence
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 resting a chin on a fist, with a sense of ease
 sitting on a swing
 kneeling on one knee on ground

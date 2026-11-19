@@ -277,7 +277,7 @@ sitting casually on wooden chair
 sprinting, with energy
 playing piano
 riding a bicycle
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 laughing with a friend, with focus
 stretching the arms overhead, in a relaxed way
 leaning on a railing, with energy
@@ -326,7 +326,7 @@ twirling, while looking into the distance
 sitting at a table, with careful balance
 perching on a stool, in a deliberate posed moment
 standing on a balcony
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 standing with arms crossed, in mid-motion
 standing with arms crossed, with focus
 sitting on steps
@@ -433,7 +433,7 @@ leaning on a car
 reading a map, with energy
 standing on a balcony, with a sense of ease
 twirling, while looking away
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 yawning
 stepping off a curb, with a casual attitude
 pulling a suitcase, with a sense of ease

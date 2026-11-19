@@ -5,7 +5,7 @@ A black cassock with a white clerical collar, a biretta, black shoes, the full o
 A blood-stained nurse's dress, a cap, the full outfit of a zombie nurse in a sexy masculine costume-shop style, with light tan skin
 A blue tunic with a long white beard, a tall red hat, boots, the full outfit of a gnome in a sexy masculine costume-shop style, with light tan skin
 A bodysuit with armour pads, a helmet, boots, the full outfit of a mecha pilot in a sexy masculine costume-shop style, with light tan skin
-A branded polo and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide in a sexy masculine costume-shop style, with light tan skin
+A branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide in a sexy masculine costume-shop style, with light tan skin
 A brass-buttoned waistcoat with goggles and gears, breeches, a top hat with goggles, boots, the full outfit of a steampunk inventor in a sexy masculine costume-shop style, with light tan skin
 A bright orange bodysuit with a small cape, goggles, boots, the full outfit of a masked apprentice hero in a sexy masculine costume-shop style, with light tan skin
 A bright shirt with a protective vest, chaps over jeans, a cowboy hat, boots, the full outfit of a rodeo cowboy in a sexy masculine costume-shop style, with light tan skin
@@ -138,7 +138,7 @@ A person dressed as a stockbroker in a sexy masculine costume-shop style (1980s)
 A person dressed as a swamp creature in a sexy masculine costume-shop style (horror), with a scaled green suit and a fish head, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with light tan skin
 A person dressed as a toilet paper roll costume wearer in a sexy masculine costume-shop style (party), with a white tube suit, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with light tan skin
 A person dressed as a trickster god in a sexy masculine costume-shop style (myth), with a green and gold cape, a horned helmet and boots, a sexy sleeveless version with bare arms and chest, fitted trousers and boots, with light tan skin
-A person dressed as a walking sandwich board seller in a sexy masculine costume-shop style (street), with a hot dog costume with a sandwich board and shoes, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with light tan skin
+A person dressed as a walking sandwich board seller in a sexy masculine costume-shop style (street), with a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with light tan skin
 A person dressed as a yoga instructor in a sexy masculine costume-shop style (studio), with a fitted top, yoga trousers and barefoot, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with light tan skin
 A person dressed as an Aboriginal elder in ceremonial body paint in a sexy masculine costume-shop style (Australia), ochre body paint and a headband, a sexy fitted version with a deep open neckline, bare muscular forearms and a tight waist, with light tan skin
 A person dressed as an Amazon warrior in a sexy masculine costume-shop style (fantasy), with a leather breastplate with arm guards, trousers, a headband and sandals, a sexy version worn open at the chest, the shirt unbuttoned to the waist, with tight trousers and rolled sleeves, with light tan skin
@@ -449,7 +449,7 @@ a polo player in a sexy masculine costume-shop style (polo), wearing a team jers
 a possessed doll in a sexy masculine costume-shop style (horror), wearing a lace dress with cracked porcelain makeup and ringlets, a sexy version with a bare chest and abs under a short open jacket and tight low-slung trousers, with light tan skin
 a postal worker in a sexy masculine costume-shop style (city), in a uniform shirt with a bag across the body and shorts and shoes, with light tan skin
 a powered-armour engineer hero in a sexy masculine costume-shop style, dressed in a segmented metal armour suit with glowing vents, with light tan skin
-a professor in a sexy masculine costume-shop style (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, a sexy sleeveless version with bare arms and chest, fitted trousers and boots and carrying a book, with light tan skin
+a professor in a sexy masculine costume-shop style (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, a sexy sleeveless version with bare arms and chest, fitted trousers and boots and carrying a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain, with light tan skin
 a pullman porter in a sexy masculine costume-shop style, dressed in a double-breasted jacket with brass buttons with trousers, with light tan skin
 a punk in a sexy masculine costume-shop style, dressed in a studded jacket with safety pins with torn trousers, with light tan skin
 a quilter in a sexy masculine costume-shop style (home), in an apron with pins on the front and trousers and slippers, with light tan skin

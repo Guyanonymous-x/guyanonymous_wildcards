@@ -2,5 +2,5 @@ a shelter
 a bench
 a ticket machine
 a validator
-a departure screen
+a departure screen reading "__text_departure__" __text_look_dotmatrix__, the rest of the screen dark
 a bin

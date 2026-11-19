@@ -41,7 +41,7 @@ standing in a doorway frame, with a casual attitude
 adjusting a jacket, with a casual attitude
 standing rigid motionless posture
 sleeping, while looking away
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 perching on a table edge
 sitting on a windowsill, with energy
 standing with hands on hips
@@ -125,7 +125,7 @@ checking a watch
 leaning on a table, in a relaxed way
 kneeling on one knee, in a natural candid moment
 sitting on a chair, with a calm air
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 holding a plank, in a relaxed way
 stretching to the side, in a deliberate posed moment
 bending forward
@@ -134,7 +134,7 @@ lying down flat on back
 saluting
 standing with feet apart, with quiet confidence
 reading aloud
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 stretching the arms overhead
 hopping
 sitting on a rock

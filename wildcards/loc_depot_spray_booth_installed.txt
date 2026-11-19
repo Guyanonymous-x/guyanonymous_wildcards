@@ -1,7 +1,7 @@
 a sealed cabin with air drawn in through ceiling filters and out through floor filters in a steady downward flow
 a lit ceiling and lit upper walls giving a specified color temperature and an extremely high and extremely even light level because color must be judged inside the booth
 a burner and a bake cycle that raises the cabin to a set temperature for a set time
-a control panel outside the door with a cycle timer and a temperature readout
+a control panel outside the door with a cycle timer and a temperature readout reading "__name_number_small__" in red digital numbers
 air-fed breathing equipment because isocyanate paints cannot be filtered by a cartridge
 a door with a window
 an airlock or a tacking bay in the larger installations

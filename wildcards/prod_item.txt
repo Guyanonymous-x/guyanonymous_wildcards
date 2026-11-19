@@ -16,8 +16,8 @@ a wool blanket, which is a thick folded blanket with woven stripes
 a pair of headphones, which are cushioned ear cups on a padded metal band
 a handheld mirror, which is a round glass mirror in a carved wooden frame
 a bar of soap, which is a rectangular bar of cream soap pressed with a simple pattern
-a tin of tea, which is a round metal tin with a tight lid
-a jar of honey, which is a glass jar of golden honey with a wooden dipper
+a tin of tea, which is a round metal tin with a tight lid, printed "__name_brand_upper__ TEA" __text_look_print__
+a jar of honey labeled "HONEY" __text_look_label__, which is a glass jar of golden honey with a wooden dipper
 a metal kettle, which is a rounded kettle with a long spout and a curved handle
 a pair of scissors, which are steel blades with orange handles
 a tool roll, which is a canvas roll holding steel hand tools

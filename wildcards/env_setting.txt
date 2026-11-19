@@ -244,8 +244,8 @@ a weathered seaside promenade
 a bustling pedestrian bridge
 a historic pedestrian bridge
 a tidy pedestrian bridge
-a cosy underpass with graffiti
-a modern underpass with graffiti
+a cosy underpass with graffiti reading "__text_graffiti_word__" __text_look_graffiti__
+a modern underpass with graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 a lived-in skate park
 a cosy basketball court
 a sunlit basketball court
@@ -626,7 +626,7 @@ a market square
 a village lane
 a seaside promenade
 a pedestrian bridge
-an underpass with graffiti
+an underpass with graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 a skate park
 a basketball court
 a football pitch

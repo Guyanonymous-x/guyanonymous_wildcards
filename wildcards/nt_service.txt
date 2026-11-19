@@ -1,8 +1,8 @@
 a handwritten price label reading "__name_price__"
-a paper tag tied on with string
+a paper tag tied on with string, reading "__name_surname_world__" __text_look_handwriting__, the rest of the tag plain
 scratched the letters "__name_initial__ __name_initial__"
-a faded paper label
-a dated inscription
+a faded paper label reading "__text_maker_mark__" in faded brown ink, the rest of the label plain
+a dated inscription reading "__name_initials__ __name_year__" __text_look_engraved__
 a small stamp
 a chip on one edge
 a tiny repair mark

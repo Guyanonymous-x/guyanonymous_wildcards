@@ -12,7 +12,7 @@ A grey plush shark onesie, a shark hood, slippers, the full outfit of a shark on
 A headscarf and a heavy shawl with jangling bracelets, a layered skirt, a headscarf, boots, the full outfit of a fortune teller in a feminine cut
 A hessian sack, the full outfit of a potato sack racer in a feminine cut
 A hexagonal yellow tube suit, a pointed hat, the full outfit of a giant pencil costume wearer in a feminine cut
-A hot dog costume with a sandwich board, shoes, the full outfit of a walking sandwich board seller in a feminine cut
+A hot dog costume with a sandwich board reading "HOT DOGS __name_price__", shoes, the full outfit of a walking sandwich board seller in a feminine cut
 A huge flowered dress with a bonnet, a gaudy wig, boots, the full outfit of a pantomime dame in a feminine cut
 A huge furry suit, an oversized head, big feet, the full outfit of a mascot character in a feminine cut
 A long robe in a board pattern, a tall crown or helmet, the full outfit of a living chess piece in a feminine cut
@@ -52,7 +52,7 @@ A person dressed as a tin man robot in a feminine cut (theatre), with a metal fu
 A person dressed as a toilet paper roll costume wearer in a feminine cut (party), with a white tube suit, tailored in a feminine cut with a nipped-in waist
 A person dressed as a town mascot cow in a feminine cut (farm), with a black and white cow suit, a cow head and hooves, tailored in a feminine cut with a nipped-in waist
 A person dressed as a walking Christmas tree in a feminine cut (festive), with a green tree suit with lights and a star hat, in a feminine cut with shaped seams and a flattering line
-A person dressed as a walking sandwich board seller in a feminine cut (street), with a hot dog costume with a sandwich board and shoes, in a feminine cut with shaped seams and a flattering line
+A person dressed as a walking sandwich board seller in a feminine cut (street), with a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, in a feminine cut with shaped seams and a flattering line
 A person dressed as an inflatable dinosaur costume wearer in a feminine cut (party), with a bulbous inflatable dinosaur suit and a dinosaur head, tailored in a feminine cut with a nipped-in waist
 A person dressed as an ostrich costume in a feminine cut (party), with a feathered suit with long legs, a long-necked head and big feet, in a feminine cut with shaped seams and a flattering line
 A person dressed as an unicorn onesie wearer in a feminine cut (home), with a plush unicorn onesie with a horn, a horned hood and slippers, tailored in a feminine cut with a nipped-in waist
@@ -180,9 +180,9 @@ a town mascot cow in a feminine cut, dressed in a black and white cow suit
 a walking Christmas tree in a feminine cut (festive), in a green tree suit with lights and a star hat
 a walking Christmas tree in a feminine cut (festive), wearing a green tree suit with lights and a star hat, in a feminine cut with shaped seams and a flattering line
 a walking Christmas tree in a feminine cut, dressed in a green tree suit with lights
-a walking sandwich board seller in a feminine cut (street), in a hot dog costume with a sandwich board and shoes
-a walking sandwich board seller in a feminine cut (street), wearing a hot dog costume with a sandwich board and shoes, in a feminine cut with shaped seams and a flattering line
-a walking sandwich board seller in a feminine cut, dressed in a hot dog costume with a sandwich board
+a walking sandwich board seller in a feminine cut (street), in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes
+a walking sandwich board seller in a feminine cut (street), wearing a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, in a feminine cut with shaped seams and a flattering line
+a walking sandwich board seller in a feminine cut, dressed in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__"
 an inflatable dinosaur costume wearer in a feminine cut (party), in a bulbous inflatable dinosaur suit and a dinosaur head
 an inflatable dinosaur costume wearer in a feminine cut (party), wearing a bulbous inflatable dinosaur suit and a dinosaur head, tailored in a feminine cut with a nipped-in waist
 an inflatable dinosaur costume wearer in a feminine cut, dressed in a bulbous inflatable dinosaur suit

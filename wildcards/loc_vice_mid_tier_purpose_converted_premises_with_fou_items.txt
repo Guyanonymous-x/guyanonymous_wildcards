@@ -2,7 +2,7 @@ a converted end-of-terrace commercial building over two floors with a solid door
 an intercom and a camera
 a reception with a desk
 a chair for waiting
-a water cooler and a rack of magazines
+a water cooler and a rack of magazines with "__name_magazine__" __text_look_print__ across the covers
 a till and a card machine
 a staff rota and a shift sheet pinned to a cork board behind the desk
 four rooms on two floors each with a bed
@@ -24,4 +24,4 @@ a first aid box and a sharps bin
 a stock cupboard of condoms
 lubricant
 gloves and paper
-an accident book
+an accident book with "ACCIDENT BOOK" __text_look_print__ on the cover

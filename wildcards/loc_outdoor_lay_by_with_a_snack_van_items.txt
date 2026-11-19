@@ -1,7 +1,7 @@
 a bacon roll in a paper napkin
 a polystyrene cup of tea
-a squeezy bottle of brown sauce on the counter
-a laminated price list
+a squeezy bottle of brown sauce labeled "BROWN SAUCE" __text_look_print__ on the counter
+a laminated price list reading "__text_price_line__" __text_look_print__, the rest of the sheet plain white
 a card reader on a string
 a bin bag on a hook
 a gas bottle

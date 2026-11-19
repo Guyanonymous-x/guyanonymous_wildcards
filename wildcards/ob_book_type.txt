@@ -1,330 +1,330 @@
-a book
-a visitors book
+a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain
+a visitors book with "VISITORS" stamped in gold on its cover
 a guest book
-a prayer book
+a prayer book with "PRAYER BOOK" in gold capitals on the cover, the rest of the cover plain
 a tally book
-a game book
-a hymn book
-a crossword book
-an exercise book
-an accident book
-a rent book
-a log book
-a bothy book
-a visitor book
-a child's coloring book
+a game book headed "GAME BOOK __name_year__" in gold
+a hymn book with "__text_hymn_book__" in gold capitals on the cover, the rest of the cover plain
+a crossword book titled "CROSSWORDS" in bold print on its cover
+an exercise book with "__name_first__" written on its cover __text_look_handwriting__
+an accident book with "ACCIDENT BOOK" __text_look_print__ on the cover
+a rent book with "RENT BOOK" printed on its cover in black
+a log book with "LOG BOOK" written on its cover in black marker
+a bothy book with "BOTHY BOOK" written on its cover in black marker
+a visitor book with "VISITORS" stamped in gold on its cover
+a child's coloring book titled "__name_book_title_any__" __text_look_print__ on the cover
 a bird book
-a membership book
-an account book
-a stores book
-a brewing book
-a picture book
-a docket book
-a minute book
-a checklist book
-a ticket book
-a rent receipt book
-a visitors' log book
+a membership book with "MEMBERS" in gold capitals on the cover
+an account book with "ACCOUNTS" in gold capitals on the spine
+a stores book with "STORES" in faded ink on its cover
+a brewing book with "BREWING __name_year__" in faded ink on its cover
+a picture book titled "__name_book_title_any__" in large red block capitals
+a docket book headed "DOCKET __name_number_small__" __text_look_print__
+a minute book headed "MINUTES" in neat ink
+a checklist book titled "CHECKLIST" __text_look_print__
+a ticket book of tickets printed "__name_number_small__" in red
+a rent receipt book printed "RENT RECEIPT" in black print with "__name_price__" in blue ballpoint
+a visitors' log book with "VISITORS" written on its cover in black marker
 a stillroom book
 a crop book
-a swatch book
+a swatch book with "__name_brand_upper__" in white print on its cover
 a chanting book
 a color swatch book
-a song book
+a song book with "SONGS" in bold print on its cover
 a train register book
 a red book
-a prescription book
-a color recipe book
-a recipe book
-a ration return book
+a prescription book with "PRESCRIPTIONS" in gold on its cover
+a color recipe book open to a page headed "INDIGO __name_number_small__" in neat ink
+a recipe book titled "RECIPES" in gold capitals on its cover
+a ration return book with "RATION RETURN" __text_look_print__ on the cover
 a bell book
 an oil record book
 a garbage record book
 a credit book
 a wine book
-a wages book
+a wages book with "WAGES" in faded ink on its cover
 a lamp-trimming book
-a coffee-table book
+a coffee-table book titled "__name_book_title_any__" in large white capitals on its cover
 a read book
-a library book
-a signed minute book
-a cocktail book
-a loan ticket book
+a library book with a spine label reading "__name_number_small__" __text_look_label__
+a signed minute book with "MINUTES" in gilt on its cover
+a cocktail book titled "COCKTAILS" in gold capitals on its cover
+a loan ticket book printed "LOAN TICKET" in black print
 a measurement book
 a key book
-a bench book
+a bench book with "BENCH BOOK" in gold capitals on its spine
 a clerk's minute book
-a lost property book
-a mess bill book
+a lost property book with "LOST PROPERTY" written on its cover in black marker
+a mess bill book with "MESS BILLS" in gold on its cover
 a loan book
 an eleven soft loan book
-a raffle book
-a wildflower book
-a plant identification book
-a scattered exercise book
+a raffle book of tickets numbered "__name_number_small__" in red print
+a wildflower book titled "WILDFLOWERS" __text_look_print__, the rest of the cover plain
+a plant identification book titled "WILD PLANTS" __text_look_print__, the rest of the cover plain
+a scattered exercise book with "__name_first__" written on its cover __text_look_handwriting__
 a gold leaf book
 a leaf book
 an old book
 a ritual book
 a stamp book
 a dried flower pressed into book
-a code book
+a code book stamped "SECRET" in red rubber-stamp capitals
 a prop book
-a hand-written round book
-a ration book
-a ballast water record book
+a hand-written round book open to "__name_street__" __text_look_handwriting__
+a ration book with "RATION BOOK" printed on its buff cover in black capitals
+a ballast water record book with "BALLAST WATER RECORD BOOK" __text_look_print__ on the cover
 a statutory record book
 a defect book
 a child's school exercise book
-a child's exercise book
-a receptionist's appointment book
-a rule book
-a handwritten appointment book
+a child's exercise book with "__name_first__" written on its cover __text_look_handwriting__
+a receptionist's appointment book open to a page headed "APPOINTMENTS" in black print with "__name_surname__ 10:30" __text_look_handwriting__ below it
+a rule book titled "HOUSE RULES" __text_look_print__
+a handwritten appointment book open to a page headed "APPOINTMENTS" with "__name_surname__ 10:30" in blue ballpoint handwriting
 an appointment book
-an invoice book
-a ledger-style account book
+an invoice book open to a page headed "INVOICE __name_jersey_number__" __text_look_handwriting__
+a ledger-style account book with "ACCOUNTS" in gold capitals on its cover
 a members book
-a better bindings among eight hymn book
-a household account book
+a better bindings among eight hymn book with "__text_hymn_book__" in gold capitals on the covers
+a household account book with "ACCOUNTS" in gold capitals on its cover
 a letter book
-a procedure book
+a procedure book with "PROCEDURES" in bold black print on its cover
 a reading book
 a banded book
-a thirty exercise book
-a faced-out book
-an accident record book
+a thirty exercise book with "__name_first__" written on its cover __text_look_handwriting__
+a faced-out book titled "__name_book_title_any__" __text_look_print__ on its cover
+an accident record book with "ACCIDENT BOOK" printed on its cover in black
 a reading-scheme book
 a copy book
-a fire log book
+a fire log book with "FIRE LOG" printed on its cover in red capitals
 a visitors' book
 books
-the visitors' book
+the visitors' book with "VISITORS" stamped in gold on its cover
 a book of remembrance
 a book with the cover off
-a prayer book with a thumb-worn page corner
+a prayer book with "__text_holy_book_christian__" in gold letters on the cover with a thumb-worn page corner
 a tally book of credit given
-a rent receipt book on a shelf
-a membership book on the end of the bar with a ballpoint on a string
-a book of remembrance on a stand by the door
+a rent receipt book headed "RENT RECEIPT" in red print over blank ruled lines on a shelf
+a membership book open to "__name_first__ __name_surname__" __text_look_handwriting__ on the end of the bar with a ballpoint on a string
+a book of remembrance with "BOOK OF REMEMBRANCE" in gold capitals on its cover on a stand by the door
 coffee-table books
-a book left open on a stand
+a book left open on a stand, its page headed "CHAPTER __name_number_small__" in small black print
 books on the nightstand
-a book with a receipt as a bookmark
+a book with a receipt reading "__text_receipt__" __text_look_receipt__ as a bookmark
 picture books
-a picture book with a torn page mended with tape
-a book left by a previous guest
+a picture book titled "__name_book_title_any__" in bright letters on its cover with a torn page mended with tape
+a book with "__name_book_title_any__" in gold on its spine left by a previous guest
 books stacked on the floor
 books stacked because there are no shelves
-a rent book in a drawer
+a rent book printed "RENT BOOK" in black print on its cover in a drawer
 a stack of read books with slips in them
-a book on the windowsill
+a book titled "__name_book_title_any__" in bold print on its cover on the windowsill
 library books in a bag
-a book left on a shelf by a departed member
-a book left by someone who has gone
+a book titled "__name_book_title_any__" in bold black print on its spine left on a shelf by a departed member
+a book titled "__name_book_title_any__" in bold black print on its cover left by someone who has gone
 a visitor book or tablet
-a swatch book with a page torn out
-prayer books on a shelf
-a prayer book with a cracked spine
-prayer books with transliteration and English alongside Hebrew
-a hymn book with a holy picture used as a bookmark
+a swatch book with "__name_brand_upper__" in white print on its cover with a page torn out
+prayer books with "סידור" in gold Hebrew letters on the spines on a shelf
+a prayer book with "סידור" in gold Hebrew letters on the cover with a cracked spine
+prayer books with "סידור" in gold Hebrew letters on the spines with transliteration and English alongside Hebrew
+a hymn book with "__text_hymn_book__" in gold capitals on the cover with a holy picture used as a bookmark
 chanting books in Pali with transliteration
-a chanting book with a cracked spine
+a chanting book titled "CHANTING BOOK" in faded gilt on its cover with a cracked spine
 prayer books
-a visitors' book with written messages
-a visitors' book with messages in several hands and several languages
+a visitors' book with written messages such as "Thinking of you" in looping blue cursive
+a visitors' book with messages such as "Thinking of you" in looping blue cursive in several hands and several languages
 a book left face-down on the cistern
-a book of cartoons on the cistern
+a book of cartoons titled "__name_book_title_any__" in bold black print on the cistern
 cocktail books
 a book in a language nobody else reads
-a prayer book left on a bench
-a loan ticket book with carbon sheets
+a prayer book left on a bench, with "BOOK OF COMMON PRAYER" in gold on its cover
+a loan ticket book headed "LOAN TICKET" in red print with carbon sheets
 books in boxes
 a book with the name "__name_person__" written inside the cover
 the measurement book
-a book of customers' measurements going back years
+a book of customers' measurements open at a page headed "__name_surname__" __text_look_handwriting__ going back years
 a book left face-down on a plastic chair
 a color swatch book with fingerprints on the popular pages
-a guest book on a stand
-the guest book in many hands
-a guest book with messages in several hands
+a guest book open to the signature "__name_first__ __name_surname__" __text_look_handwriting__ on a stand
+the guest book signed "__name_first__ __name_surname__" in ink in many hands
+a guest book with messages such as "Rest in peace __name_first__" in blue ink in several hands
 the key book with names such as "__name_person__"
-a song book with a page torn out
-a visitors' book in many hands
+a song book with "SONGS" in bold print on its cover with a page torn out
+a visitors' book with "VISITORS" stamped in gold on its cover in many hands
 a child's coloring book in the waiting area
 books on tables
 a book left face-down
-books in call-number order
-the log book
-a hymn book from a different denomination
-180 hymn books and 180 prayer books in the pew racks
+books with spine labels reading "__name_number_small__" __text_look_label__ in call-number order
+the log book with "LOG BOOK" written on its cover in black marker
+a hymn book from a different denomination, titled "__text_hymn_book__" in gold letters, the rest of the cover plain
+180 hymn books titled "__text_hymn_book__" in gold letters and 180 prayer books in the pew racks
 a visitors' book on a lectern with a pen on a chain
 a visitors' book for ringers
-a visitors' book with entries from ringers who have come to ring this tower because of its bells
+a visitors' book with "VISITORS" stamped in gold on its cover with entries from ringers who have come to ring this tower because of its bells
 a visitors' book of ringers
 a book of forms and a small crucifix on the shelf
 loan books and head coverings
 eleven soft loan books in forty
-a visitors' book with comments
-a stack of hymn books from a service years ago
-a docket book with carbon sheets
-a bird book with a rubber band round it
+a visitors' book with "VISITORS" stamped in gold on its cover, filled with comments
+a stack of hymn books from a service years ago, titled "__text_hymn_book__" in gold letters, the rest of the cover plain
+a docket book headed "DOCKET __name_number_small__" __text_look_print__ with carbon sheets
+a bird book titled "BIRDS" __text_look_print__ with a rubber band round it
 a visitors' book in a box on some summits
 a visitors' book in a biscuit tin inside a box with a stone on the lid
-the guest book
-the guest book with entries from decades
-a guest book with entries from decades and several languages
-a book of remembrance stand
+the guest book with "GUEST BOOK" stamped in gold on its cover
+the guest book open to an entry reading "__name_first__ __name_town__ __name_year__" __text_look_handwriting__ with entries from decades
+a guest book open to an entry reading "__name_first__ __name_town__ __name_year__" __text_look_handwriting__ with entries from decades and several languages
+a book of remembrance stand, the open page reading "__text_memorial_name__" in neat black ink, the rest of the page plain
 the red books with entries in several hands over years
 a red book with a bent corner
-a book of remembrance open at a page
-a hymn book on a side table
-a visitors' book at the door
-a hymn book with a bookmark in it
-a prayer book and texts of several faiths on a shelf
-a book with a marker in it
-a book on a frame with a page-turner
-a book on a reading frame with a mouth-stick beside it
-a visitors' book with four signatures today
+a book of remembrance open at a page headed "IN LOVING MEMORY" in fine gold script above "__text_memorial_name__" __text_look_handwriting__
+a hymn book with "__text_hymn_book__" in gold letters on the cover on a side table
+a visitors' book with "VISITORS" in gold on its cover at the door
+a hymn book with "__text_hymn_book__" in gold letters on the cover with a bookmark in it
+a prayer book with "BOOK OF COMMON PRAYER" in gold letters on the cover and texts of several faiths on a shelf
+a book with "__name_book_title_any__" in gold on its spine with a marker in it
+a book open at a page headed "CHAPTER __name_number_small__" in small black print on a frame with a page-turner
+a book open at a page headed "CHAPTER __name_number_small__" in small black print on a reading frame with a mouth-stick beside it
+a visitors' book with "VISITORS" in gold on its cover with four signatures today
 scattered exercise books
-a visitor book in a box in maintained examples
-a book for the slack periods
-a book with a swollen cover
+a visitor book with "VISITORS" in gold on its cover in a box in maintained examples
+a book titled "__name_book_title_any__" in bold print on its cover for the slack periods
+a book with a swollen cover printed "__name_book_title_any__" in faded letters
 gold leaf books
 a book of somebody's own that has been waiting years for its turn
 old books
-a prescription book in successive hands
-a book left face-down and splayed which would horrify a librarian
+a prescription book with "PRESCRIPTIONS" in gold on its cover in successive hands
+a book with "__name_book_title_any__" in gold on its spine left face-down and splayed which would horrify a librarian
 ritual books
-a minute book in successive secretaries' hands
-a minute book with an attendance list and two apologies
+a minute book headed "MINUTES" in neat ink in successive secretaries' hands
+a minute book headed "MINUTES" in neat ink with an attendance list and two apologies
 the stamp book
 a guest book with entries in nine languages and one drawing
 a dried flower pressed into a book
-the visitors' book with entries from people who walked up in bad weather
-a visitors' book with the last entry three weeks ago
-a hymn book with a pressed flower in it
+the visitors' book with "VISITORS" in gold on its cover with entries from people who walked up in bad weather
+a visitors' book with "VISITORS" in gold on its cover with the last entry three weeks ago
+a hymn book with "__text_hymn_book__" in gold letters on the cover with a pressed flower in it
 a book in some regimes and nothing in others
 a book in a language nobody on staff reads
 exercise books
-a book with a library stamp
-a book with a library stamp from a town none of them are from
-a recipe book in successive dyers' hands
-a color recipe book with a dye thumbprint on every page corner
-a book of poems
-a book of poems open and weighted with a stone
+a book with a library stamp reading "__name_town__ LIBRARY" in purple rubber-stamp capitals
+a book with a library stamp reading "__name_town__ LIBRARY" in purple rubber-stamp capitals from a town none of them are from
+a recipe book open to a page headed "INDIGO __name_number_small__" in neat ink in successive dyers' hands
+a color recipe book open to a page headed "INDIGO __name_number_small__" in neat ink with a dye thumbprint on every page corner
+a book of poems titled "POEMS" in gold on its cover
+a book of poems open at a page headed "__name_word__" in small black print and weighted with a stone
 a book of folded card music
-a game book on a stand recording every season's tally
-the game book in successive hands across a century
-a game book with a hand-written tally and a complaint about the weather
-a bothy book with entries in six hands and one drawing and a complaint about the weather
-a prop book that does not open
+a game book headed "GAME BOOK __name_year__" in gold on a stand recording every season's tally
+the game book headed "GAME BOOK __name_year__" in gold in successive hands across a century
+a game book with a hand-written tally reading "__name_number_small__ BRACE" and a complaint about the weather
+a bothy book headed "BOTHY BOOK" in black marker on its cover with entries in six hands and one drawing and a complaint about the weather
+a prop book with "__name_book_title_any__" in gold on its spine that does not open
 a book with blank pages on a side table
-a child's coloring book with the pencils rolling off onto the carpet
-a crossword book with two hands' writing in it
-a book in a seat-back pocket
-a book in a seat-back pocket with a page torn
-a book or a tablet
-a tally book and a stub of pencil
+a child's coloring book titled "__name_book_title_any__" __text_look_print__ on the cover with the pencils rolling off onto the carpet
+a crossword book titled "CROSSWORDS" __text_look_print__ with two hands' writing in it
+a book titled "__name_book_title_any__" __text_look_print__ in a seat-back pocket
+a book titled "__name_book_title_any__" __text_look_print__ in a seat-back pocket with a page torn
+a book titled "__name_book_title_any__" __text_look_print__ or a tablet
+a tally book open to "__name_street__" in pencil and a stub of pencil
 a tally book with a pencil stub in its spiral and a column per house kept in a handwriting nobody else could read
 the tally book with a pencil stub in the spiral
 a tally book in private handwriting
-a ration return book with the chef's own notes about what the crew actually ate
-a ration book with private annotations
-a book left in the bunk by whoever was in it last and read by whoever is in it next
-a book or a tablet bungeed
-a checklist book on a velcro patch
-a checklist book on a velcro patch with tabs that have been added to by hand
-statutory record books
-a defect book with the same three handwritings in it
-a ticket book with a carbon copy
-a ticket book with carbon copies going back months
+a ration return book with "RATION RETURN" __text_look_print__ on the cover with the chef's own notes about what the crew actually ate
+a ration book with private annotations "__text_note__" __text_look_handwriting__
+a book titled "__name_book_title_any__" __text_look_print__ on the cover left in the bunk by whoever was in it last and read by whoever is in it next
+a book titled "__name_book_title_any__" __text_look_print__ or a tablet bungeed
+a checklist book titled "CHECKLIST" __text_look_print__ on a velcro patch
+a checklist book titled "CHECKLIST" __text_look_print__ on a velcro patch with tabs that have been added to by hand
+statutory record books with "OIL RECORD BOOK" __text_look_print__ on the covers
+a defect book with "DEFECTS" written on its cover in black marker with the same three handwritings in it
+a ticket book of tickets printed "__name_number_small__" in red with a carbon copy
+a ticket book of tickets printed "__name_number_small__" in red with carbon copies going back months
 a child's exercise book kept flat under a mattress to keep it clean
 an exercise book kept flat under a mattress
 a book or a paper
 the tally book of credit
-a credit book in one careful hand
+a credit book reading "__name_first_world__ __name_price__" __text_look_handwriting__ in one careful hand
 a book and stationery store kept in the room
-the exercise books kept in the room and not taken home
-a visitors' book of journalists and donors
-the rent receipt book
-a rent book kept carefully
-a visitors' book and a framed photograph of the last keepers
-a visitors' log book on the table
-a visitors' log book on the table with entries going back decades
-the visitors' log book with decades of entries
-a bothy book in a sealed plastic bag
-a bothy book in a sealed plastic bag with entries from walkers going back years
-the bothy book in its plastic bag
+the exercise books with "__name_first__" written on the top cover __text_look_handwriting__ kept in the room and not taken home
+a visitors' book with "VISITORS" stamped in gold on its cover of journalists and donors
+the rent receipt book printed "RENT RECEIPT" in black print with "__name_price__" in blue ballpoint
+a rent book with "RENT BOOK" printed on its cover in black kept carefully
+a visitors' book with "VISITORS" stamped in gold on its cover and a framed photograph of the last keepers
+a visitors' log book with "VISITORS" written on its cover in black marker on the table
+a visitors' log book with "VISITORS" written on its cover in black marker on the table with entries going back decades
+the visitors' log book with "VISITORS" written on its cover in black marker with decades of entries
+a bothy book with "BOTHY BOOK" written on its cover in black marker in a sealed plastic bag
+a bothy book with "BOTHY BOOK" written on its cover in black marker in a sealed plastic bag with entries from walkers going back years
+the bothy book with "BOTHY BOOK" written on its cover in black marker in its plastic bag
 books in a language the next generation does not read
-a rent book and license agreement in a drawer
+a rent book with "RENT BOOK" printed on its cover in black capitals and license agreement in a drawer
 a credit book which is where the harm concentrates
 the membership book with its ballpoint on a string
 a book left open for objection and a committee ballot
-the visitors' book with its fountain pen
-a visitors' book with the same member's hand every Thursday for thirty years
-an accident book and a first aid box and a sharps bin
-the accident book
-an accident book with entries
-a book of house rules on the hall table
-a receptionist's appointment book kept in pen alongside a card terminal in a drawer
-a book of house rules on the hall table concerning discretion
-the handwritten appointment book beside a card terminal kept in a drawer
-an appointment book in the same hand for years
-a visitors' book from 1912 kept on a stand
-a visitors' book from 1912 kept on a stand and shown to people
-a 1912 visitors' book
-the 1912 visitors' book on its stand
-a visitors' book with two hundred years of hands in it
-a crossword book with four years of them done
-a book and leaflet shelf
-a ledger-style account book still kept
-an account book kept in the old form for perhaps forty remaining account customers
-an account book in six hands
-a members' book with the same signatures weekly for a decade
-a book behind a window cushion
-two better bindings among eight hymn books
-a game book on a sloping desk with a pen and an inkwell
-a game book on a sloping desk written in eleven different hands across ninety years
+the visitors' book with "VISITORS" stamped in gold on its cover with its fountain pen
+a visitors' book with the signature "__name_first__ __name_surname__" in blue ink, written with the same member's hand every Thursday for thirty years
+an accident book with "ACCIDENT BOOK" printed on its cover in black capitals and a first aid box and a sharps bin
+the accident book with "ACCIDENT BOOK" printed on its cover in black capitals
+an accident book with "ACCIDENT BOOK" __text_look_print__ on the cover with entries
+a book of house rules titled "HOUSE RULES" in gold capitals on the hall table
+a receptionist's appointment book kept in pen, reading "__text_watch_time__ __name_first__" alongside a card terminal in a drawer
+a book of house rules titled "HOUSE RULES" in gold capitals on the hall table concerning discretion
+the handwritten appointment book open to a page headed "APPOINTMENTS" with "__name_surname__ 10:30" in blue ballpoint handwriting beside a card terminal kept in a drawer
+an appointment book reading "__text_watch_time__ __name_first__" in ink in the same hand for years
+a visitors' book from 1912 open to "__name_first__ __name_surname__" in faded brown ink, kept on a stand
+a visitors' book with "VISITORS" stamped in gold on its cover from 1912 kept on a stand and shown to people
+a 1912 visitors' book with "VISITORS" in gold capitals on the cover
+the 1912 visitors' book with "VISITORS" stamped in gold on its cover on its stand
+a visitors' book open to "__name_first__ __name_surname__" in faded brown ink with two hundred years of hands in it
+a crossword book titled "CROSSWORDS" in bold black print on the cover with four years of them done
+a book and leaflet shelf of leaflets headed "__text_health_poster__" __text_look_print__
+a ledger-style account book with "ACCOUNTS" in gold capitals on the spine still kept
+an account book with "ACCOUNTS" in gold capitals on the spine kept in the old form for perhaps forty remaining account customers
+an account book open to "__name_surname__ __name_price__" in ink in six hands
+a members' book signed "__name_first__ __name_surname__" in ink with the same signatures weekly for a decade
+a book titled "__name_book_title_any__" in gilt on its spine behind a window cushion
+two better bindings among eight hymn books with "__text_hymn_book__" in gold capitals on the covers
+a game book with "GAME BOOK" in gilt on its cover on a sloping desk with a pen and an inkwell
+a game book with "GAME BOOK" in gilt on its cover on a sloping desk written in eleven different hands across ninety years
 the game book in eleven hands with three pages in a child's
-a game book in eleven hands
-a wine book on a sloping desk
-a wine book in three hands with the last entry in 1938 and a pencil line ruled under it
-a set of household account books in a stack
-a wages book in which this room's occupant's own wage is entered among the others
-account books
-a stillroom book on a shelf
+a game book in eleven hands, "GAME BOOK" in gilt on its cover
+a wine book with "CELLAR BOOK" in gilt on its cover on a sloping desk
+a wine book open to a page headed "CELLAR 1938" in faded ink, in three hands with the last entry in 1938 reading "CLARET 6 DOZEN" in neat black ink handwriting and a pencil line ruled under it, the rest of the page plain
+a set of household account books with "ACCOUNTS" in gilt on their spines in a stack
+a wages book with "WAGES" in faded ink on its cover in which this room's occupant's own wage is entered among the others
+account books with "ACCOUNTS __name_year__" in gilt on their spines
+a stillroom book with "RECEIPTS" in faded ink on its cover on a shelf
 a stillroom book on the shelf in four hands across ninety years containing 300 recipes of which forty are for things nobody in the house has eaten since 1880
 the stillroom book in four hands with forty recipes for things nobody has eaten since 1880 and a lock of hair in the back
-a recipe book in four hands with a pressed flower in it
-a stores book on a shelf with a pencil on a string
+a recipe book with "RECEIPTS" in faded ink on its cover in four hands with a pressed flower in it
+a stores book with "STORES" in faded ink on its cover on a shelf with a pencil on a string
 a stores book with a pencil on a string in which every issue from this room was entered against a date and a name such as "__name_surname__" for ninety years
-a stores book in six hands with three pages torn out
-a brewing book on a shelf
-a brewing book on the shelf in five hands recording every brew for a hundred and ten years, the date
+a stores book with "STORES" in faded ink on its cover in six hands with three pages torn out
+a brewing book with "BREWING" in faded ink on its spine on a shelf
+a brewing book with "BREWING" in faded ink on its spine on the shelf in five hands recording every brew for a hundred and ten years, the date
 the brewing book in five hands ending with eleven blank pages
-a lamp-trimming book on a shelf
-a lamp-trimming book in two hands recording which lamp went to which room and when its wick was last renewed
-a book in two hands with one lamp recorded eleven times more than any other
-a crop book and a wages book
-a crop book in four hands recording what was sown
-a crop book and wages book
-a letter book of 500 tissue leaves
-a book of eleven numbered procedures in a plastic wallet
+a lamp-trimming book with "LAMPS" in faded ink on its cover on a shelf
+a lamp-trimming book with "LAMPS" in faded ink on its cover in two hands recording which lamp went to which room and when its wick was last renewed
+a book with "LAMPS" in faded ink on its cover in two hands with one lamp recorded eleven times more than any other
+a crop book with "CROPS" in faded ink on its cover and a wages book with "WAGES" in faded ink on its cover
+a crop book in four hands recording what was sown, a page reading "BARLEY __name_year__" in faded ink
+a crop book with "CROPS" in faded ink on its cover and wages book with "WAGES" in faded ink on its cover
+a letter book of 500 tissue leaves with "LETTERS __name_year__" in gilt on its spine
+a book of eleven numbered procedures headed "EMERGENCY PROCEDURES" in bold black print in a plastic wallet
 a picture book with the corner of page four softened and curled by a wet thumb
 exercise books in a stack banded by table color
-a reading book with a bus ticket used as a bookmark
+a reading book with a bus ticket printed "SINGLE __name_price__" in small black print used as a bookmark
 exercise books in subject-colored covers stacked by table
-a book of merit stickers
+a book of merit stickers printed "WELL DONE" in gold letters on stars
 a banded book with the color sticker half picked off because the band is the thing a seven-year-old is most sensitive about in the room
-a visitor book and a lanyard tray
-a visitor book with a page corner curled and a column of signatures that are all the same three people
+a visitor book with "VISITORS" in black print on its cover and a lanyard tray
+a visitor book with "VISITORS" in black print on its cover with a page corner curled and a column of signatures that are all the same three people
 thirty exercise books in a crate by the door
-a book on the faced-out display plinth with a sun-bleached spine from standing in the same window position for two years while the front cover is still bright
-a faced-out book with a sun-bleached spine and a bright cover
+a book titled "__name_book_title_any__" in black print on the faced-out display plinth with a sun-bleached spine from standing in the same window position for two years while the front cover is still bright
+a faced-out book with a sun-bleached spine and a bright cover titled "__name_book_title_any__" __text_look_print__
 an accident book with a column of entries in which the same three names, "__name_first__", "__name_first__" and "__name_first__", recur
-the book of remembrance on a stand by the door
-a reading-scheme book with a prison library stamp and an older stamp from a public library beneath it
-the log book and the attendance register
-the log book beside it with an entry for the weather and an entry for the absences and an entry naming the field work that has emptied half the benches
-a copy book with the first line perfect in the master's hand and the eighth line sloping
-a fire log book on a shelf
+the book of remembrance open to a page reading "__text_memorial_name__" in fine black calligraphy, the rest of the page plain, on a stand by the door
+a reading-scheme book with a prison library stamp reading "__name_town__ PRISON LIBRARY" in purple ink and an older stamp from a public library beneath it
+the log book with "LOG BOOK" in gold on its cover and the attendance register
+the log book with "LOG BOOK" written on its cover in black marker beside it with an entry for the weather and an entry for the absences and an entry naming the field work that has emptied half the benches
+a copy book with the first line perfect in the master's hand reading "Honesty is the best policy" and the eighth line sloping
+a fire log book with "FIRE LOG BOOK" in red print on its cover on a shelf

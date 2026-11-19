@@ -2,9 +2,9 @@ laundry baskets
 detergent boxes and bottles
 dryer sheets
 coins stacked on a machine top
-magazines
+magazines with "__name_magazine__" __text_look_print__ across the covers, the rest of each cover plain
 folded clothes
 a lost sock on a windowsill
 a change card
 a phone on charge
-a book
+a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain

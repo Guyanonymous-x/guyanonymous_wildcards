@@ -41,7 +41,7 @@ a convenience store counter
 a makeup counter
 a shoe rental counter
 a shoe counter
-a ticket redemption counter
+a ticket redemption counter under a sign reading "PRIZES" in bright yellow letters
 a redemption counter
 a skate rental counter
 a skate counter
@@ -104,7 +104,7 @@ a counter with a wrapping shelf
 locking counters
 a counter with small accessories
 a refrigerated display counter with a glass front angled toward the customer
-a counter with a ticket spike
+a counter with a ticket spike with tickets reading "__name_surname_world__" in blue ballpoint
 a service wash counter in the staffed ones
 a raised dispensing counter with the dispensary behind it visible but not accessible
 a teller counter with screens
@@ -184,11 +184,11 @@ a yard rule let into a counter and still used
 a twelve-meter counter with a brass yard rule
 a counter with a dished area in front of the till position and the yard rule worn bright at the inch marks
 a counter of chipped laminate across most of the width with a glass top
-a counter with a glass-topped menu card
+a counter with a glass-topped menu card reading "__text_price_line__" __text_look_print__
 a service counter of six positions behind laminated glass with pass-through drawers
 a six-position counter behind laminated glass with pass-through drawers
 a -fronted service counter at the far end with a numbered ticket system and a menu board above it in three languages
-a glazed service counter with ticket system and trilingual menu board
+a glazed service counter with ticket system and trilingual menu board reading "__text_price_line__" __text_look_backlit__
 a cake counter with the plinth kicked at toe height
 a service counter at one end with a locked ventilated cabinet and a member's allocation held in sealed tins marked with names such as "__name_person__"
 a service counter with a locked ventilated cabinet of tins marked with names such as "__name_person__"
@@ -196,7 +196,7 @@ a staffed counter with card reader
 the dabber counter where the cinema sold sweets
 a servery counter with a heated gantry and a sneeze screen
 a servery counter with a heated gantry
-a counter with a till and a wipe-clean menu board of two columns
+a counter with a till and a wipe-clean menu board of two columns reading "__text_price_line__" and "__text_price_line__" in black marker
 a counter and till
 a long bar counter with eight taps and a back bar of optics
 a bar counter with taps and a back bar

@@ -24,7 +24,7 @@ a curling paper-thin brass vine and a stitched smiling cloud
 a curling paper-thin brass vine on the calf and a little enamel snail shell at the ankle
 a curling paper-thin brass vine on the calf and a tiny pocket watch that doesn't tick up the side of the leg
 a curling paper-thin brass vine on the calf and tiny knitted ears at the back of each cuff up the side of the leg
-a curling paper-thin brass vine on the cuff and a knitted-in hidden message on the sole
+a curling paper-thin brass vine on the cuff and a knitted-in hidden message reading "__text_hidden_message__" in small knitted letters on the sole
 a curling paper-thin brass vine on the heel and a hidden message in tiny script on the cuff
 a curling paper-thin brass vine on the heel and a tiny enamel dachshund on the cuff
 a curling paper-thin brass vine on the sole and glow-in-the-dark stitching on the toes
@@ -97,9 +97,9 @@ a hidden message in tiny script at the ankle and a pair of small felt cat ears u
 a hidden message in tiny script at the ankle and a tiny sailboat on a thread sea along the top band
 a hidden message in tiny script on the cuff and pompoms at the back of each heel along the top band
 a hidden message in tiny script on the sole and a sculpted fried egg on the heel
-a knitted-in hidden message on the sole and a sculpted fried egg
-a knitted-in hidden message on the sole at the ankle and a wee brass bell on the sole
-a knitted-in hidden message on the sole on the cuff and a cluster of enamel clover up the side of the leg
+a knitted-in hidden message reading "__text_hidden_message__" in small knitted letters on the sole and a sculpted fried egg
+a knitted-in hidden message reading "__text_hidden_message__" in small knitted letters on the sole at the ankle and a wee brass bell on the sole
+a knitted-in hidden message reading "__text_hidden_message__" in small knitted letters on the sole on the cuff and a cluster of enamel clover up the side of the leg
 a lace-trimmed cloud and a pair of tiny wire glasses on the calf
 a lace-trimmed cloud on the sole and a small wind-up key on the sole
 a lace-trimmed cloud on the toes and a bright pom-pom cluster on the toes
@@ -196,7 +196,7 @@ a miniature rolled scroll and a tiny working zipper that opens nothing
 a miniature rolled scroll on the cuff and a spiral of glass seed beads like a snail shell on the calf
 a miniature rolled scroll on the cuff and a tiny brass key at the ankle
 a miniature rolled scroll on the cuff and a wee brass bell along the top band
-a miniature rolled scroll on the cuff and tiny embroidered stars that spell a secret word along the cuff on the cuff
+a miniature rolled scroll on the cuff and tiny embroidered stars that spell a secret word "__name_word__" along the cuff on the cuff
 a minuscule lantern that glows and a hand-embroidered snail
 a minuscule lantern that glows and a miniature hourglass filled with colored sand along the top band
 a minuscule lantern that glows on the sole and a printed star-chart
@@ -274,7 +274,7 @@ a row of miniature pearls shaped like peas in a pod on the cuff and a tiny feath
 a row of tiny pom-poms and a minuscule lantern that glows on the toes
 a row of tiny pom-poms and a printed star-chart
 a row of tiny pom-poms and a tiny enamel strawberry on the heel
-a row of tiny pom-poms at the ankle and a knitted-in hidden message on the sole
+a row of tiny pom-poms at the ankle and a knitted-in hidden message reading "__text_hidden_message__" in small knitted letters on the sole
 a row of tiny pom-poms at the ankle and a small knitted pocket at the cuff for a key
 a row of tiny pom-poms at the ankle and a stitched cactus in a pot on the toes
 a row of tiny pom-poms at the ankle and a tiny working zipper that opens nothing on the cuff
@@ -297,7 +297,7 @@ a sculpted resin beetle on the toes and a printed star-chart on the sole
 a sculpted resin mushroom and a wooden toggle shaped like a carrot on the heel
 a sculpted resin mushroom on the cuff and a ladybird-shaped button
 a sculpted resin mushroom on the cuff and a stitched blue whale up the side of the leg
-a sculpted resin mushroom on the heel and a knitted-in hidden message on the sole at the ankle
+a sculpted resin mushroom on the heel and a knitted-in hidden message reading "__text_hidden_message__" in small knitted letters on the sole at the ankle
 a sculpted resin mushroom on the toes and a row of tiny pom-poms on the cuff
 a sculpted resin mushroom up the side of the leg and a tiny enamel strawberry on the cuff
 a sculpted wax seal and a tiny knitted cat's face on each toe at the ankle
@@ -399,8 +399,8 @@ a tiny enamel dachshund at the ankle and a tiny enamel dachshund on the heel
 a tiny enamel dachshund on the cuff and a printed hot-air balloon along the top band
 a tiny enamel dachshund on the heel and a cluster of enamel clover at the ankle
 a tiny enamel dachshund on the heel and a faux-gold sheriff star at the ankle
-a tiny enamel dachshund on the heel and a knitted-in hidden message on the sole on the calf
-a tiny enamel owl and a knitted-in hidden message on the sole on the calf
+a tiny enamel dachshund on the heel and a knitted-in hidden message reading "__text_hidden_message__" in small knitted letters on the sole on the calf
+a tiny enamel owl and a knitted-in hidden message reading "__text_hidden_message__" in small knitted letters on the sole on the calf
 a tiny enamel owl and a mirrored disco-ball bead
 a tiny enamel owl and a pair of googly eyes on the calf
 a tiny enamel owl and a printed treasure map

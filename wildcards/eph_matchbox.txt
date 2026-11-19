@@ -1,6 +1,6 @@
-a matchbox with a bright printed label
-a book of matches with an advertisement
-a large wooden matchbox from a hotel
+a matchbox with a bright printed label reading "__name_brand_upper__" in bold print
+a book of matches with an advertisement reading "__name_brand_upper__" __text_look_print__
+a large wooden matchbox from a hotel printed "HOTEL __name_word__" in small gold print
 a box of safety matches with a picture of a ship
 a matchbox with a hand-drawn cartoon
-a collection of matchbox labels pasted on a card
+a collection of matchbox labels reading "__name_brand_upper__" in bold print pasted on a card

@@ -12,12 +12,12 @@ mobile racking on rails
 pigeonhole racking by department
 two-tier racking with gas-strut upper tiers
 pallet racking in runs
-adjustable pallet racking with beam-level labels
+adjustable pallet racking with beam-level labels reading "A-__name_number_small__" in black on yellow
 racking for pallets awaiting putaway
 bin racking behind it
 bin racking to the ceiling with aisle numbers
 barrel racking in rows
-racking to the ceiling with aisle labels
+racking to the ceiling with aisle labels reading "AISLE __name_number_small__" in black on yellow
 racking for sterile sets
 racking for slings and small equipment
 racking for consumables

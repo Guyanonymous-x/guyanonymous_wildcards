@@ -1,12 +1,12 @@
-a scoreboard
-a sliding scoreboard
-a dartboard scoreboard
-scoreboards with sliding counters
-sliding scoreboards
-the sliding scoreboard
-a scoreboard and screen
-a scoreboard with chalk marks
-a scoreboard with two brass sliders and a bone pointer
-a scoreboard with a bone pointer whose tip is worn to a chisel
-a scoreboard and marking board
-a scoreboard with one digit segment dead
+a scoreboard reading "__text_score__" __text_look_dotmatrix__, the rest of the board dark
+a sliding scoreboard showing "__text_score__" in white painted numbers on black slides
+a dartboard scoreboard reading "__name_first__ 301" and "__name_first__ 245" in white chalk
+scoreboards numbered "5 10 15 20 25" in painted black numbers with sliding counters
+sliding scoreboards numbered "5 10 15 20 25" in painted black numbers
+the sliding scoreboard showing "__text_score__" in white painted numbers on black slides
+a scoreboard reading "__text_score__" in yellow lights and screen
+a scoreboard reading "HOME 12 AWAY 9" in white chalk with chalk marks
+a scoreboard painted "HOME" and "GUESTS" in gold letters with two brass sliders and a bone pointer
+a scoreboard painted "HOME" and "GUESTS" in gold letters with a bone pointer whose tip is worn to a chisel
+a scoreboard painted "HOME" and "GUESTS" in gold letters and marking board
+a scoreboard reading "__text_score__" in red digits with one digit segment dead

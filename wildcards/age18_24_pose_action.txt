@@ -58,7 +58,7 @@ reclining in a chair, with a casual attitude
 leaning on a table, with focus
 kneeling on one knee, at rest
 walking away
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 reclining in a chair, in a relaxed way
 reading aloud
 stretching after waking
@@ -172,7 +172,7 @@ holding a plank, with focus
 reaching up
 leaning on a fence, while looking away
 reading a map, with a casual attitude
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 singing, with energy
 twirling, in mid-motion
 leaning on a car
@@ -218,7 +218,7 @@ cowering low defensive pose
 walking along a path, with quiet confidence
 leaning on a counter, with a calm air
 dancing dynamic fluid pose
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 cooking
 leaning on a railing, with careful balance
 laughing with a friend, in mid-motion
@@ -591,7 +591,7 @@ standing in a doorway frame, with graceful posture
 sitting on a low wall, while looking away
 lying on the stomach, with focus
 leaning on a wall, with graceful posture
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 brushing hair aside, while looking into the distance
 sitting cross-legged, with a sense of ease
 sitting on a low wall, while looking into the distance
@@ -785,7 +785,7 @@ yawning
 reclining in a chair, with a sense of ease
 sitting on steps, with a casual attitude
 stretching to the side, in a deliberate posed moment
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 reaching to the side
 standing in a doorway frame, with a casual attitude
 typing on a laptop, in mid-motion
@@ -1119,7 +1119,7 @@ lying on the back
 reaching to the side, with graceful posture
 perched high on edge of ledge
 eating, in a deliberate posed moment
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting on the edge of a bed, with a calm air
 standing with weight on one leg, with quiet confidence
 cooking, at rest
@@ -1209,7 +1209,7 @@ tying hair back
 standing at a window, with a slight smile
 sprawled back reclining posture
 perching on a table edge, with a calm air
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 perching on a table edge, with a calm air
 kneeling on one knee, at rest
 leaning on a railing, with energy
@@ -1263,7 +1263,7 @@ mid-jump, in mid-motion
 dancing, while looking away
 standing at a doorway, with careful balance
 hopping, with a calm air
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 praying, at rest
 cooking, with graceful posture
 standing at a window, at rest
@@ -1566,7 +1566,7 @@ standing with feet apart
 cooking, while looking away
 sleeping, while looking away
 strolling casually, with a casual attitude
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 sitting casually on wooden chair
 spinning slowly, while looking into the distance
 lying on the back, with a casual attitude
@@ -1618,7 +1618,7 @@ standing upright
 sitting on a log, with energy
 running fast with windblown hair
 brushing hair aside, while looking into the distance
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 sitting on the edge of a bed
 playing guitar, with focus
 yawning, in mid-motion
@@ -1647,7 +1647,7 @@ laughing with a friend, in mid-motion
 adjusting a hat
 sitting on the edge of a bed, with careful balance
 carrying a bag
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 sitting on a sofa, while looking into the distance
 standing with feet together, with careful balance
 reaching to the side, with graceful posture
@@ -1904,7 +1904,7 @@ standing with feet apart
 eating
 running
 pointing, in a natural candid moment
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 bending to tie a shoe
 kneeling on both knees, with careful balance
 lying on the back, at rest

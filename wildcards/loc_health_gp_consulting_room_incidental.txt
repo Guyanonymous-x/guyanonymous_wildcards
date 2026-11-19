@@ -2,11 +2,11 @@ a mug with an old pharmaceutical company's logo reading "__name_brand__"
 a child's drawing pinned up with the artist's name "__name_first__" in a parent's handwriting
 a jar of lollipops
 a desk fan in summer
-a packet of tissues brought by a patient
+a packet of tissues printed "__name_brand_upper__" in soft blue letters brought by a patient
 a cardigan over the chair because the room is cold
 a family photograph angled away from patients
 a dead pot plant on the windowsill
-a laminated poster about a vaccination campaign that ended two winters ago
+a laminated poster reading "__text_health_poster__" __text_look_print__ about a vaccination campaign that ended two winters ago
 a pen that has been borrowed and not returned three times
 a hand gel bottle with a drip down the side
 a stack of samples in a drawer

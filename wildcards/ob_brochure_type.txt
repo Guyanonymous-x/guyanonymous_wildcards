@@ -1,6 +1,6 @@
-a glossy brochure
-a folded leaflet
-a stack of brochures in a rack
-a spiral-bound brochure
-a hand-stapled brochure
-a brochure with coffee rings
+a glossy brochure headed "__name_town__" __text_look_print__
+a folded leaflet headed "__name_town__" __text_look_print__
+a stack of brochures headed "__name_town__" __text_look_print__ in a rack
+a spiral-bound brochure headed "__name_town__" __text_look_print__
+a hand-stapled brochure headed "__name_town__" __text_look_print__
+a brochure headed "__name_town__" __text_look_print__ with coffee rings

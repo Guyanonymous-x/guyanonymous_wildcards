@@ -1,3 +1,3 @@
 a buzzer
-buzzer and intercom panel
-a buzzer with an intercom
+buzzer and intercom panel with name strips reading "__text_intercom_row__" in small black print
+a buzzer with an intercom labeled "PRESS AND WAIT" in white letters on a black strip

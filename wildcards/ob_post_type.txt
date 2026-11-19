@@ -12,14 +12,14 @@ a height gauge post
 a corner post
 a wires strung between post
 a beam spanning between post
-an intercom post
+an intercom post with a panel reading "PRESS FOR HELP" in white capitals
 a listening post
 a lamp post
 a trellis post
 a bale string knotted round post
 a tally cut into post
 a lost mitten pushed onto fence post
-a gantry sign post
+a gantry sign post holding a sign reading "__name_town__" in white letters on green
 a revolving central post
 a mooring post
 a working volume rather than room post
@@ -44,7 +44,7 @@ post for an upstairs occupant
 post for an upstairs occupant piled on a sill
 post that has accumulated for days
 post for several flats in a pile
-post for several flats in a pile with one envelope for somebody who moved out years ago
+post for several flats in a pile with one envelope addressed to "__name_first__ __name_surname__" in blue ballpoint handwriting for somebody who moved out years ago
 corner posts
 wires strung between posts for cane fruit
 posts set in metal shoes
@@ -62,7 +62,7 @@ a speaker post with a cable repaired in tape
 lamp posts
 mile posts
 the mile post
-a mile post with moss in the lettering
+a mile post with moss in the lettering reading "__name_town__ __name_number_small__"
 trellis posts and wires
 a fence post with three different staples in it from three different decades
 a bale string knotted round a post
@@ -77,7 +77,7 @@ a lost mitten pushed onto a fence post by a parent hoping its owner returns
 a fence post leaning downstream with silt packed against it
 a waymark post with an acorn
 a fence post leaning with wool combed off on it
-gantry sign post
+gantry sign post holding a sign reading "__name_town__" in white letters on green
 a revolving central post with ladder arms reaching every box
 marker posts
 the marker posts

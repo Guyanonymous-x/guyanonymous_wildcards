@@ -1,7 +1,7 @@
 a float of coins
-a receipt roll
+a receipt roll with a curl of paper reading "__text_receipt__" __text_look_receipt__
 a tag reader's display
 a radio
 a flask
-a notice of tariffs
+a notice of tariffs headed "TARIFFS" __text_look_paper_notice__, with "__text_price_line__" below, the rest of the sheet plain white
 a hand sanitizer bottle

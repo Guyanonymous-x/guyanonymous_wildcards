@@ -169,8 +169,8 @@ fair isle sweater
 jumper with a removable belt
 cropped cardigan
 slouchy fine-gauge knit with elbow patches
-band tee
-band tee with raglan sleeves
+band tee printed "__name_band__"
+band tee printed "__name_band__" with raglan sleeves
 long-sleeve tee with a zip front
 cable-knit sweater
 peter pan collar blouse with elbow patches
@@ -220,7 +220,7 @@ tailored pullover with side slits
 waffle-knit top with a split hem
 double-layered pullover with side slits
 button-front corset-style top
-band tee with a lace-up front
+band tee printed "__name_band__" with a lace-up front
 chunky tie-dye tee with a stand collar
 crew-neck sweater
 longline waffle-knit top
@@ -281,7 +281,7 @@ crochet knit shirt with a high neck
 fair isle sweater with rolled sleeves
 baseball tee with exposed seams
 modern shawl-collar cardigan
-boxy band tee
+boxy band tee printed "__name_band__"
 retro ribbed knit top with elbow patches
 lightweight pique polo
 henley with raglan sleeves
@@ -301,7 +301,7 @@ camisole with side slits
 henley with side slits
 tucked-in blouse
 tie-front cardigan
-vintage band t-shirt
+vintage band t-shirt printed "__name_band__"
 pleated basketball jersey
 quarter-zip pullover
 chunky fisherman sweater
@@ -326,7 +326,7 @@ lightweight sweater with a contrast yoke
 high-waisted cropped cardigan
 layered waffle-knit shirt
 linen tunic with a scoop neck
-layered band tee with ruched sides
+layered band tee printed "__name_band__" with ruched sides
 wrap top
 textured tennis polo with ruched sides
 handmade turtleneck sweater with deep side pockets
@@ -401,7 +401,7 @@ slouchy cardigan with a contrast yoke
 ruched top with a button placket
 chunky sweater vest
 tailored cable-knit sweater with a contrast yoke
-ribbed band tee
+ribbed band tee printed "__name_band__"
 handmade pique polo
 knotted work shirt
 distressed thermal shirt with a contrast collar
@@ -493,12 +493,12 @@ ribbed football shirt
 chunky cycling jersey
 draped cropped cardigan with side slits
 tie-front merino turtleneck
-band t-shirt
+band t-shirt printed "__name_band__"
 muscle tee with a button placket
 minimalist tank top
 distressed crewneck sweater
 pleated v-neck sweater
-band tee with a V-neck
+band tee printed "__name_band__" with a V-neck
 tie-front thermal shirt
 long-sleeved v-neck sweater
 hooded ruffled blouse with a contrast collar
@@ -509,7 +509,7 @@ draped ribbed knit top with side slits
 washed waffle-knit shirt
 ringer tee with a curved hem
 double-layered chunky knit sweater
-panelled band tee
+panelled band tee printed "__name_band__"
 pullover with elbow patches
 lightweight fleece pullover
 cowl-neck sweater with ruched sides
@@ -589,7 +589,7 @@ jersey with a split hem
 oversized tee with side slits
 slouchy cardigan
 oversized tee with a frayed hem
-band tee with a wrap front
+band tee printed "__name_band__" with a wrap front
 kimono top with a button placket
 pleated waffle-knit shirt with elbow patches
 sleeveless gym tee with a wrap front

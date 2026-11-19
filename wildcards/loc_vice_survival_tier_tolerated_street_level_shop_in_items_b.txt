@@ -1,8 +1,8 @@
 a bead curtain in the doorway and a step down from the sidewalk
-a laminated menu card under the glass listing varieties
-a set of scales on the counter with a calibration sticker on it
+a laminated menu card reading "__text_price_line__" in black print under the glass listing varieties
+a set of scales on the counter with a calibration sticker reading "CALIBRATED __name_year__" in small black print on a white sticker on it
 a man on a stool
-a wall of faded posters and a football scarf
+a wall of faded posters reading "__name_team__" __text_look_print__ and a football scarf
 ashtrays on every table
 a coffee machine with a stained drip tray
 an extraction fan in the rear wall running continuously

@@ -2,7 +2,7 @@ a visitor log
 a pass printer
 a radio
 a flask
-a newspaper
+a newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a set of keys on a board
 a torch
 a clipboard of expected deliveries

@@ -1,8 +1,8 @@
-a paper label from a crate of fruit
-a luggage label from a steamship line
-a bright cigar box label with a portrait
-a wine bottle label with a crest
-a hotel luggage sticker
-an old jam jar label
+a paper label reading "__name_brand_upper__" in big bright letters from a crate of fruit
+a luggage label reading "__name_town__" in bold blue print from a steamship line
+a bright cigar box label reading "__name_brand_upper__" in gold script with a portrait
+a wine bottle label reading "__name_brand_upper__ __name_year__" in fine black script with a crest
+a hotel luggage sticker printed "HOTEL __name_word__" in bold colored print
+an old jam jar label reading "__text_jar_label__" __text_look_handwriting__
 a tea chest stencil
-a canning label with a picture of the vegetable
+a canning label reading "__name_brand_upper__" in red block capitals with a picture of the vegetable

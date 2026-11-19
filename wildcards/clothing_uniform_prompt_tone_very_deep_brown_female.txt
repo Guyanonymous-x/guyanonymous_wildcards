@@ -36,7 +36,7 @@ A grey robe with lightning stitching and a heavy cloak, a wide-brimmed pointed h
 A hardened leather flight jacket with scale pads, trousers, a goggled helm, boots, the full outfit of a dragon rider in a feminine cut, with very deep brown skin
 A harness and high-visibility vest, work trousers, a hard hat, boots, the full outfit of a scaffolder in a feminine cut, with very deep brown skin
 A hooped jersey with a padded collar, shorts, studded boots, the full outfit of a rugby player in a feminine cut, with very deep brown skin
-A hot dog costume with a sandwich board, shoes, the full outfit of a walking sandwich board seller in a feminine cut, with very deep brown skin
+A hot dog costume with a sandwich board reading "HOT DOGS __name_price__", shoes, the full outfit of a walking sandwich board seller in a feminine cut, with very deep brown skin
 A huge hide tunic, the full outfit of a giant in a feminine cut, with very deep brown skin
 A khaki shirt, trousers, sandals, the full outfit of a tuk-tuk driver in a feminine cut, with very deep brown skin
 A kimono with a sash, hakama, sandals, the full outfit of a kimono swordsman in a feminine cut, with very deep brown skin
@@ -427,7 +427,7 @@ a museum guide in a feminine cut, dressed in a blazer with a lanyard with trouse
 a mushroom forager in a feminine cut (forest), in a wicker basket and a coat and trousers and boots, with very deep brown skin
 a mutant wanderer in a feminine cut (wasteland), in a ragged cloak over a tattered shirt and boots, with very deep brown skin
 a neon street samurai in a feminine cut (cyberpunk), in a glowing trench coat and a visor, with very deep brown skin
-a newspaper vendor in a feminine cut (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a feminine cut with shaped seams and a flattering line and carrying a stack of papers, with very deep brown skin
+a newspaper vendor in a feminine cut (1920s), wearing a flat cap, a waistcoat and rolled sleeves, trousers, a flat cap and boots, in a feminine cut with shaped seams and a flattering line and carrying a stack of papers, the top front page headed "__name_newspaper__" with "__text_headline__" __text_look_headline__, the rest of the page one large photo, with very deep brown skin
 a night vigilante in a feminine cut (superhero), wearing a charcoal hooded armoured jacket with a short cape, a half mask and boots, in a feminine cut with shaped seams and a flattering line, with very deep brown skin
 a ninja clan leader in a feminine cut (anime-inspired), wearing a dark robe with a mask and scarf, trousers, a headband and sandals, in a feminine cut with shaped seams and a flattering line, with very deep brown skin
 a ninja in a feminine cut (cosplay), in a black wrap tunic and trousers and split-toe shoes, with very deep brown skin
@@ -456,7 +456,7 @@ a potter in a feminine cut (studio), wearing a clay-stained apron over a loose s
 a powered-armour engineer hero in a feminine cut (superhero), wearing a segmented metal armour suit with glowing vents, a helmet and boots, cut for a feminine figure with a fitted waist, with very deep brown skin
 a professor in a feminine cut (university), in a flowing academic gown with a hood and a mortarboard, with very deep brown skin
 a quilter in a feminine cut (home), in an apron with pins on the front and a skirt and slippers, with very deep brown skin
-a rabbi in a feminine cut (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes, in a feminine cut with shaped seams and a flattering line and carrying a prayer book, with very deep brown skin
+a rabbi in a feminine cut (synagogue), wearing a black coat with a prayer shawl, trousers, a black hat and shoes, in a feminine cut with shaped seams and a flattering line and carrying a prayer book with "SIDDUR" in gold letters on the cover, the rest of the cover plain, with very deep brown skin
 a reenactor of a Roman soldier in a feminine cut (field), in a red tunic with armour and a helmet, with very deep brown skin
 a refuse collector in a feminine cut (city), wearing a high-visibility jacket and gloves, work trousers and boots, cut for a feminine figure with a fitted waist, with very deep brown skin
 a retired hero in a feminine cut, dressed in a worn old suit under a cardigan, with very deep brown skin
@@ -525,7 +525,7 @@ a terraforming botanist in a feminine cut (sci-fi), in an olive coverall with a 
 a thunder god in a feminine cut (myth), in a hammer belt and a cape and a winged helm, with very deep brown skin
 a tin man robot in a feminine cut (theatre), in a metal funnel hat and silver chest piece and silver trousers and silver boots, with very deep brown skin
 a toilet paper roll costume wearer in a feminine cut, dressed in a white tube suit, with very deep brown skin
-a tour guide in a feminine cut, dressed in a branded polo and a flag with shorts, with very deep brown skin
+a tour guide in a feminine cut, dressed in a branded polo with "__name_brand_upper__" on the chest and a flag with shorts, with very deep brown skin
 a town crier in a feminine cut (England), in a red and gold coat and a tricorn, with very deep brown skin
 a town mascot cow in a feminine cut (farm), in a black and white cow suit and a cow head, with very deep brown skin
 a traffic officer in a feminine cut (road), in a high-visibility jacket with white gloves and dark trousers and boots, with very deep brown skin

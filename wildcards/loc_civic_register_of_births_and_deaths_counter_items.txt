@@ -2,7 +2,7 @@ forms
 a bound register
 a certificate printer
 a green form
-a death certificate
+a death certificate headed "CERTIFICATE OF DEATH" in black print, the rest of the form in neat black ink
 a pen on a chain
-a ticket number display
+a ticket number display reading "__text_screen__" __text_look_dotmatrix__
 a box of tissues on the counter

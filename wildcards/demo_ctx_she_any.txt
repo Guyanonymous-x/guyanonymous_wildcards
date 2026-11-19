@@ -1,32 +1,32 @@
-A bag with a sticker of her boyfriend's favourite band hangs from her shoulder.
-A bag with a sticker of her girlfriend's favourite band hangs from her shoulder.
-A bag with a sticker of her partner's favourite band hangs from her shoulder.
-A bag with a sticker of her spouse's favourite band hangs from her shoulder.
-A second coffee mug, for her boyfriend, stands next to her own.
-A second coffee mug, for her girlfriend, stands next to her own.
-A second coffee mug, for her partner, stands next to her own.
-A second coffee mug, for her spouse, stands next to her own.
-Her boyfriend appears beside her in a framed photograph on a nearby shelf.
-Her girlfriend appears beside her in a framed photograph on a nearby shelf.
-Her partner appears beside her in a framed photograph on a nearby shelf.
-Her spouse appears beside her in a framed photograph on a nearby shelf.
-In the background, her boyfriend waves from across the room.
-In the background, her girlfriend waves from across the room.
-In the background, her partner waves from across the room.
-In the background, her spouse waves from across the room.
-She is holding hands with her boyfriend, only the linked fingers visible.
-She is holding hands with her girlfriend, only the linked fingers visible.
-She is holding hands with her partner, only the linked fingers visible.
-She is holding hands with her spouse, only the linked fingers visible.
-She is reading a message from her boyfriend on a phone.
-She is reading a message from her girlfriend on a phone.
-She is reading a message from her partner on a phone.
-She is reading a message from her spouse on a phone.
-She keeps a small keepsake from her boyfriend in a pocket.
-She keeps a small keepsake from her girlfriend in a pocket.
-She keeps a small keepsake from her partner in a pocket.
-She keeps a small keepsake from her spouse in a pocket.
-She wears a plain ring on the left hand, a gift from her boyfriend.
-She wears a plain ring on the left hand, a gift from her girlfriend.
-She wears a plain ring on the left hand, a gift from her partner.
-She wears a plain ring on the left hand, a gift from her spouse.
+A bag with a sticker of their {boyfriend|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their {girlfriend|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their {spouse|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A second coffee mug, for their {boyfriend|partner}, stands next to their own.
+A second coffee mug, for their {girlfriend|partner}, stands next to their own.
+A second coffee mug, for their partner, stands next to their own.
+A second coffee mug, for their {spouse|partner}, stands next to their own.
+Their {boyfriend|partner} appears beside their in a framed photograph on a nearby shelf.
+Their {girlfriend|partner} appears beside their in a framed photograph on a nearby shelf.
+Their partner appears beside their in a framed photograph on a nearby shelf.
+Their {spouse|partner} appears beside their in a framed photograph on a nearby shelf.
+In the background, their {boyfriend|partner} waves from across the room.
+In the background, their {girlfriend|partner} waves from across the room.
+In the background, their partner waves from across the room.
+In the background, their {spouse|partner} waves from across the room.
+They are holding hands with their {boyfriend|partner}, only the linked fingers visible.
+They are holding hands with their {girlfriend|partner}, only the linked fingers visible.
+They are holding hands with their partner, only the linked fingers visible.
+They are holding hands with their {spouse|partner}, only the linked fingers visible.
+They are reading a message from their {boyfriend|partner} on a phone.
+They are reading a message from their {girlfriend|partner} on a phone.
+They are reading a message from their partner on a phone.
+They are reading a message from their {spouse|partner} on a phone.
+They keep a small keepsake from their {boyfriend|partner} in a pocket.
+They keep a small keepsake from their {girlfriend|partner} in a pocket.
+They keep a small keepsake from their partner in a pocket.
+They keep a small keepsake from their {spouse|partner} in a pocket.
+They wear a plain ring on the left hand, a gift from their {boyfriend|partner}.
+They wear a plain ring on the left hand, a gift from their {girlfriend|partner}.
+They wear a plain ring on the left hand, a gift from their partner.
+They wear a plain ring on the left hand, a gift from their {spouse|partner}.

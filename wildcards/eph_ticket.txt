@@ -1,10 +1,10 @@
-a small rectangular cardboard train ticket with a punched hole
-a theatre ticket with a torn stub
-a cinema ticket in faded pink
-a bus ticket on thin paper
-a fairground ride ticket
-a football match ticket
-a ferry boat ticket with a printed route
-a museum entrance ticket
-a concert ticket with a bold design
-a raffle ticket strip
+a small rectangular cardboard train ticket printed "__name_town__ TO __name_town__" __text_look_print__ with a punched hole
+a theatre ticket printed "__text_ticket__" __text_look_print__ with a torn stub
+a cinema ticket printed "__text_ticket__" __text_look_print__ in faded pink
+a bus ticket printed "SINGLE __name_price__" __text_look_print__ on thin paper
+a fairground ride ticket printed "__text_ticket__" __text_look_print__
+a football match ticket printed "__text_ticket__" __text_look_print__
+a ferry boat ticket printed "__name_town__ TO __name_town__" __text_look_print__ with a printed route
+a museum entrance ticket printed "__text_ticket__" __text_look_print__
+a concert ticket printed "__text_ticket__" __text_look_print__ with a bold design
+a raffle ticket strip printed "NUMBER __name_number_small__" __text_look_print__

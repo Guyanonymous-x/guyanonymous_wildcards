@@ -4,7 +4,7 @@ A black tailcoat with a white shirt and a white bow tie, striped trousers, black
 A black waistcoat with a tastevin on a chain, black trousers, polished shoes, the full outfit of a sommelier in a feminine cut
 A blazer with a lanyard, trousers, shoes, the full outfit of a museum guide in a feminine cut
 A blouse with a bow and a cardigan, a pencil skirt, court shoes, the full outfit of a secretary in a feminine cut
-A branded polo and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide in a feminine cut
+A branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat, trainers, the full outfit of a tour guide in a feminine cut
 A canvas apron over a shirt, jeans, a flat cap, trainers, the full outfit of a barista in a feminine cut
 A cardigan and a lanyard, trousers, shoes, the full outfit of a bookseller in a feminine cut
 A cardigan with a chain of glasses, a skirt, shoes, the full outfit of a librarian in a feminine cut
@@ -43,7 +43,7 @@ A person dressed as a stockbroker in a feminine cut (1980s), which is a pinstrip
 A person dressed as a supermarket cashier in a feminine cut (shop), with a polo shirt with an apron, trousers and trainers, cut for a feminine figure with a fitted waist
 A person dressed as a sushi chef in a feminine cut (Japan), which is a white happi coat and a hachimaki headband, trousers, a headband and sandals, tailored in a feminine cut with a nipped-in waist
 A person dressed as a teacher in a feminine cut (school), which is a tweed jacket with chalk-dusted elbow patches, trousers and shoes, cut for a feminine figure with a fitted waist
-A person dressed as a tour guide in a feminine cut (city), which is a branded polo and a flag, shorts, a sun hat and trainers, in a feminine cut with shaped seams and a flattering line
+A person dressed as a tour guide in a feminine cut (city), which is a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a feminine cut with shaped seams and a flattering line
 A person dressed as a waiter in a feminine cut (restaurant), which is a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, tailored in a feminine cut with a nipped-in waist
 A person dressed as an office worker in a feminine cut (1960s), with a short sleeve shirt and thin tie with a pocket protector, trousers and shoes, in a feminine cut with shaped seams and a flattering line
 A pinstripe suit with braces and a loud tie, suit trousers, polished shoes, the full outfit of a stockbroker in a feminine cut
@@ -81,7 +81,7 @@ a bartender in a feminine cut (cocktail bar), wearing a waistcoat with sleeve ga
 a bartender in a feminine cut, dressed in a waistcoat with sleeve garters over a white shirt with trousers
 a bookseller in a feminine cut (shop), in a cardigan and a lanyard and trousers and shoes
 a bookseller in a feminine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, cut for a feminine figure with a fitted waist
-a bookseller in a feminine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, cut for a feminine figure with a fitted waist and carrying a stack of books
+a bookseller in a feminine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, cut for a feminine figure with a fitted waist and carrying a stack of books with "__name_book_title_any__" in small gold capitals on the top spine, the other spines plain
 a bookseller in a feminine cut, dressed in a cardigan and a lanyard with trousers
 a butler in a feminine cut (stately home), in a black tailcoat with a white shirt and a white bow tie and striped trousers and black shoes
 a butler in a feminine cut (stately home), wearing a black tailcoat with a white shirt and a white bow tie, striped trousers and black shoes, cut for a feminine figure with a fitted waist
@@ -153,7 +153,7 @@ a postmaster in a feminine cut, dressed in a double-breasted jacket with trouser
 a professor in a feminine cut (university), in a flowing academic gown with a hood and a mortarboard
 a professor in a feminine cut (university), in a flowing academic gown with a hood and shoes
 a professor in a feminine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a feminine cut with a nipped-in waist
-a professor in a feminine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a feminine cut with a nipped-in waist and carrying a book
+a professor in a feminine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a feminine cut with a nipped-in waist and carrying a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain
 a professor in a feminine cut, dressed in a flowing academic gown with a hood
 a road crossing guard in a feminine cut (road), in a high-visibility coat and a cap
 a road crossing guard in a feminine cut (road), in a high-visibility coat and trousers and shoes
@@ -190,11 +190,11 @@ a teacher in a feminine cut (school), in a tweed jacket with chalk-dusted elbow 
 a teacher in a feminine cut (school), wearing a tweed jacket with chalk-dusted elbow patches, trousers and shoes, cut for a feminine figure with a fitted waist
 a teacher in a feminine cut (school), wearing a tweed jacket with chalk-dusted elbow patches, trousers and shoes, cut for a feminine figure with a fitted waist and carrying chalk
 a teacher in a feminine cut, dressed in a tweed jacket with chalk-dusted elbow patches with trousers
-a tour guide in a feminine cut (city), in a branded polo and a flag and a sun hat
-a tour guide in a feminine cut (city), in a branded polo and a flag and shorts and trainers
-a tour guide in a feminine cut (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, in a feminine cut with shaped seams and a flattering line
-a tour guide in a feminine cut (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, in a feminine cut with shaped seams and a flattering line and carrying a flag
-a tour guide in a feminine cut, dressed in a branded polo and a flag with shorts
+a tour guide in a feminine cut (city), in a branded polo with "__name_brand_upper__" on the chest and a flag and a sun hat
+a tour guide in a feminine cut (city), in a branded polo with "__name_brand_upper__" on the chest and a flag and shorts and trainers
+a tour guide in a feminine cut (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a feminine cut with shaped seams and a flattering line
+a tour guide in a feminine cut (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a feminine cut with shaped seams and a flattering line and carrying a flag
+a tour guide in a feminine cut, dressed in a branded polo with "__name_brand_upper__" on the chest and a flag with shorts
 a waiter in a feminine cut (restaurant), in a white shirt with a black waistcoat and a bow tie and black trousers and black shoes
 a waiter in a feminine cut (restaurant), wearing a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, tailored in a feminine cut with a nipped-in waist
 a waiter in a feminine cut (restaurant), wearing a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, tailored in a feminine cut with a nipped-in waist and carrying a tray

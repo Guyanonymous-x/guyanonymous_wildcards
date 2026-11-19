@@ -14,14 +14,14 @@ a beaker
 a bell
 a bell rope
 a belt
-a bible
+a bible with "HOLY BIBLE" in gold capitals on the cover, the rest of the cover plain
 a bidon
 a birch whisk
 a blaster
 a bleeding bowl and razors
 a blowpipe
 a board
-a book
+a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain
 a bouquet
 a bow
 a bowl of chocolate
@@ -106,7 +106,7 @@ a harp
 a harpoon
 a herbal kit
 a huge axe
-a hymn book
+a hymn book with "__text_hymn_book__" in gold capitals on the cover, the rest of the cover plain
 a katana
 a key
 a key ring
@@ -170,7 +170,7 @@ a plasma torch
 a pocket watch
 a pointer
 a pot of gold
-a prayer book
+a prayer book with "PRAYER BOOK" in gold capitals on the cover, the rest of the cover plain
 a prescription tray
 a processional cross
 a prop weapon
@@ -303,7 +303,7 @@ goggles
 grey gloves
 handkerchiefs
 jars and a mortar
-letters
+letters reading "__name_word__" __text_look_print__
 opera glasses
 poles
 pom-poms

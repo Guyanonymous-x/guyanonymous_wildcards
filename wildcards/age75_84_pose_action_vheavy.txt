@@ -91,7 +91,7 @@ sitting on a swing, with quiet confidence
 squatting, with careful balance
 reclining in a chair, with quiet confidence
 leaning on a car, in a natural candid moment
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 sitting forward with elbows on knees
 perching on a stool, in a natural candid moment
 holding a plank, in a relaxed way
@@ -330,7 +330,7 @@ kneeling on one knee on ground
 perching on a table edge, in mid-motion
 pulling a suitcase, with quiet confidence
 standing with arms crossed, with focus
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on a low wall, while looking into the distance
 reaching forward, with quiet confidence
 arms raised in celebration
@@ -365,7 +365,7 @@ reading aloud, with careful balance
 sitting on the edge of a bed, in a relaxed way
 holding a plank, with focus
 kneeling on both knees
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sleeping, while looking away
 carrying an umbrella
 painting at an easel, with a slight smile

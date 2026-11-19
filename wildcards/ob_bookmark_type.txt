@@ -1,21 +1,21 @@
 a bookmark
-a boarding pass used as bookmark
-a receipt used as bookmark
+a boarding pass printed "BOARDING PASS" in bold black capitals, the rest of the pass plain white, used as bookmark
+a receipt reading "__text_receipt__" __text_look_receipt__ used as bookmark
 a letter being used as bookmark
-a ticket stub used as bookmark
-a boarding pass as bookmark
+a ticket stub printed "__text_ticket__" in faded black print used as bookmark
+a boarding pass printed "BOARDING PASS" in bold black capitals, the rest of the pass plain white, as bookmark
 a child's drawing used as bookmark
-a bus-ticket bookmark
+a bus-ticket bookmark printed "SINGLE __name_price__" in small black print
 bookmarks
-a boarding pass used as a bookmark
-a receipt used as a bookmark
+a boarding pass used as a bookmark, printed "BOARDING PASS GATE __name_number_small__" in black print, the rest of the pass plain
+a receipt reading "__text_receipt__" __text_look_receipt__ used as a bookmark
 a letter being used as a bookmark
 a bookmark from a shop that closed
 a bookmark from a different shop left in a secondhand copy
 a bookmark left in a returned book
-a ticket stub used as a bookmark
-a boarding pass as a bookmark
-a bookmark that is a receipt
+a ticket stub printed "__text_ticket__" in small black print used as a bookmark
+a boarding pass printed "BOARDING PASS __name_town__" in small black print as a bookmark
+a bookmark that is a receipt reading "__text_receipt__" __text_look_receipt__
 a child's drawing used as a bookmark in a book about something else entirely
 a stack of bookmarks
 a bookmark in a shared guidebook

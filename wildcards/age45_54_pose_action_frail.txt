@@ -63,7 +63,7 @@ standing with feet together, with careful balance
 praying
 stretching after waking, with a sense of ease
 leaning on a table, in a relaxed way
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 standing with weight on one leg, while glancing at the camera
 riding a scooter, in a relaxed way
 leaning on a tree, with quiet confidence
@@ -199,7 +199,7 @@ standing turned three-quarters away
 pausing mid-step, with a casual attitude
 riding a scooter, with focus
 lounging in a hammock, in mid-motion
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 carrying a bag, with careful balance
 resting a chin on a fist
 reading aloud, with focus
@@ -481,7 +481,7 @@ talking on the phone, with careful balance
 leaping
 cooking, at rest
 walking away
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 stretching the arms overhead
 walking along a path, with quiet confidence
 arms raised in celebration

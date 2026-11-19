@@ -61,7 +61,7 @@ doing a stretch, in mid-motion
 fixing a collar, while glancing at the camera
 walking along a path, with a calm air
 hands behind the head, with careful balance
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 talking on the phone, in a deliberate posed moment
 riding a bicycle, with a slight smile
 holding a mug with both hands
@@ -123,7 +123,7 @@ reaching forward, in a natural candid moment
 sitting on a chair, with a calm air
 typing on a laptop
 resting a chin on a fist, with careful balance
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 resting a chin on a fist, with a sense of ease
 doing a stretch
 mid-jump, with a casual attitude
@@ -162,7 +162,7 @@ meditating
 reading aloud, with careful balance
 carrying a bag, with a casual attitude
 sitting on the edge of a bed, with careful balance
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 laughing with a friend, with quiet confidence
 standing with hands in pockets
 strolling casually

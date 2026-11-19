@@ -1,11 +1,11 @@
-a free newspaper folded on a seat
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the page a large photo, folded on a seat
 a school bag in a footwell
 a buggy folded against the luggage rail
 a shopping bag with a loaf showing
 a pair of earphones trailing from a pocket
-a ticket in a hand
+a ticket in a hand reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
 a water bottle in a seat-back pocket where there is one
-a bus company leaflet in a rack
+a bus company leaflet headed "__name_town__ BUSES" __text_look_print__, the rest of the leaflet plain, in a rack
 a litter bin by the exit door in some fleets
 a hand-written out-of-order card over a validator
 a wheelchair ramp handle in a recess

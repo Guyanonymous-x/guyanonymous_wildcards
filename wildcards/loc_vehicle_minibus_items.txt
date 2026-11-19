@@ -1,4 +1,4 @@
-a clipboard with a passenger list on the dash
+a clipboard with a passenger list on the dash headed "PASSENGERS" __text_look_handwriting__
 a first aid kit in a bracket
 a fire extinguisher by the door
 a box of tissues on the dash
@@ -6,7 +6,7 @@ a bag of spare blankets
 a wheelchair clamp and strap set in a locker
 a step stool
 a radio
-a bottle of water in the cup holder
-a bag of crisps in the door pocket
+a bottle of water labeled "__name_brand_upper__" __text_look_print__ in the cup holder
+a bag of crisps printed "__name_brand_upper__" __text_look_print__ in the door pocket
 a child's booster seat
 a laminated route card

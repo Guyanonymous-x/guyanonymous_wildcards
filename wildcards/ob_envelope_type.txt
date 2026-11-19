@@ -1,17 +1,17 @@
-an envelope
+an envelope, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a job envelope
-a torn envelope
-a charity collection envelope
+a torn envelope, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
+a charity collection envelope printed "SADAQAH" in green print
 an insulated envelope
 a cabin slung beneath envelope
-a penciled job envelope
-envelopes
-envelopes in sorting pigeonholes
-a torn envelope with its contents removed
-an envelope with handwriting on it
+a penciled job envelope reading "RUNS SLOW" in pencil
+envelopes addressed to "__name_first__ __name_surname__" in blue ballpoint handwriting
+envelopes addressed "__name_surname__" in black print in sorting pigeonholes
+a torn envelope addressed "__name_first__ __name_surname__" in black print, the rest of the envelope plain, with its contents removed
+an envelope with handwriting reading "__name_first__ __name_surname__" on it
 an insulated envelope with coved panel joints
 a cabin slung beneath an envelope with large sloping windows
-a job envelope with a movement in it
+a job envelope penciled "__name_surname_world__" __text_look_handwriting__ with a movement in it
 a job envelope with a customer's name, "__name_person__"
-job envelopes
-the job envelope with a penciled fault and a timing trace in it
+job envelopes penciled "__name_surname_world__" __text_look_handwriting__
+the job envelope with a penciled fault reading "MISFIRE AT IDLE" and a timing trace in it

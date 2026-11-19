@@ -6,5 +6,5 @@ a ball cage
 mat stacks
 a cricket net on a track
 a divider net
-a scoreboard
+a scoreboard reading "__text_score__" __text_look_dotmatrix__, the rest of the board dark
 roller-shutter storage recesses

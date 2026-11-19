@@ -116,7 +116,7 @@ A person dressed as a sommelier in a masculine cut (fine dining), with a black w
 A person dressed as a supervillain in a masculine cut (comics), with a flowing cape over a dark bodysuit, a helmet and boots, tailored in a masculine cut with a straight waist, with deep brown skin
 A person dressed as a tavern keeper in a masculine cut (fantasy), with an apron over a rolled-sleeve shirt, trousers and boots, tailored in a masculine cut with a straight waist, with deep brown skin
 A person dressed as a thunder god in a masculine cut (myth), which is a hammer belt and a cape, a winged helm and boots, in a masculine cut with a roomy chest and shoulders, with deep brown skin
-A person dressed as a tour guide in a masculine cut (city), which is a branded polo and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders, with deep brown skin
+A person dressed as a tour guide in a masculine cut (city), which is a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders, with deep brown skin
 A person dressed as a valkyrie in a masculine cut (fantasy), which is a winged helm and a breastplate with a flowing cape, trousers, a winged helm and boots, in a masculine cut with a roomy chest and shoulders, with deep brown skin
 A person dressed as a wedding kimono wearer in a masculine cut (Japan), with a white silk shiromuku with a wide obi, a white hood and zori, cut for a masculine frame with broad shoulders, with deep brown skin
 A person dressed as a white-tie tailcoat wearer in a masculine cut (white tie), with a black tailcoat, a white starched waistcoat and a white bow tie, black trousers with braid and patent shoes, in a masculine cut with a roomy chest and shoulders, with deep brown skin
@@ -454,7 +454,7 @@ a planet colonist in a masculine cut, dressed in a padded jumpsuit with patches,
 a police officer in a masculine cut (modern), in a dark shirt with a badge, shoulder patches, an utility belt and a radio and dark trousers and black boots, with deep brown skin
 a post-apocalyptic scavenger in a masculine cut (dystopian), wearing patched armour of scrap and leather, ragged trousers, a gas mask and boots, cut for a masculine frame with broad shoulders, with deep brown skin
 a postmaster in a masculine cut (village), wearing a double-breasted jacket, trousers, a peaked cap and shoes, tailored in a masculine cut with a straight waist, with deep brown skin
-a professor in a masculine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a masculine cut with a straight waist and carrying a book, with deep brown skin
+a professor in a masculine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a masculine cut with a straight waist and carrying a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain, with deep brown skin
 a pullman porter in a masculine cut (1930s), wearing a double-breasted jacket with brass buttons, trousers, a peaked cap and black shoes, cut for a masculine frame with broad shoulders and carrying a luggage cart, with deep brown skin
 a punk in a masculine cut (1977 London), wearing a studded jacket with safety pins, torn trousers, a mohawk and boots, in a masculine cut with a roomy chest and shoulders, with deep brown skin
 a quilter in a masculine cut (home), wearing an apron with pins on the front, trousers and slippers, cut for a masculine frame with broad shoulders and carrying a quilt, with deep brown skin
@@ -547,7 +547,7 @@ a vaudeville performer in a masculine cut, dressed in a striped blazer with a st
 a veterinarian in a masculine cut (clinic), wearing a patterned scrub top with a stethoscope and a cat-print lab coat, scrub trousers and work shoes, cut for a masculine frame with broad shoulders, with deep brown skin
 a waiter in a masculine cut (restaurant), wearing a white shirt with a black waistcoat and a bow tie, black trousers and black shoes, in a masculine cut with a roomy chest and shoulders and carrying a tray, with deep brown skin
 a walking Christmas tree in a masculine cut (festive), wearing a green tree suit with lights and a star hat, tailored in a masculine cut with a straight waist, with deep brown skin
-a walking sandwich board seller in a masculine cut (street), in a hot dog costume with a sandwich board and shoes, with deep brown skin
+a walking sandwich board seller in a masculine cut (street), in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, with deep brown skin
 a wandering monster slayer in a masculine cut (fantasy), wearing a worn leather jerkin with strapped vials, trousers and boots, cut for a masculine frame with broad shoulders and carrying a steel sword, with deep brown skin
 a warehouse picker in a masculine cut, dressed in a high-visibility vest and a scanner on the wrist with work trousers, with deep brown skin
 a wasteland raider in a masculine cut (wasteland), in spiked shoulder pads over bare arms and torn trousers and boots, with deep brown skin

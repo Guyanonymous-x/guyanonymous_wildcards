@@ -261,7 +261,7 @@ a bishop in a masculine cut (church), in a purple cassock with a cope and a pect
 a black knight in a masculine cut (fantasy), wearing blackened plate armour with a tattered cape, a closed helm and boots, cut for a masculine frame with broad shoulders and carrying a mace, with fair and pale skin
 a blacksmith in a masculine cut (forge), in a leather apron over a sooty linen shirt and heavy trousers and work boots, with fair and pale skin
 a blue-coat staff officer in a masculine cut, dressed in a blue military coat with trousers, with fair and pale skin
-a bookseller in a masculine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, tailored in a masculine cut with a straight waist and carrying a stack of books, with fair and pale skin
+a bookseller in a masculine cut (shop), wearing a cardigan and a lanyard, trousers and shoes, tailored in a masculine cut with a straight waist and carrying a stack of books with "__name_book_title_any__" in small gold capitals on the top spine, the other spines plain, with fair and pale skin
 a boxer in a masculine cut, dressed in a satin robe with satin shorts, with fair and pale skin
 a bricklayer in a masculine cut (site), in a work shirt and high-visibility vest and work trousers and boots, with fair and pale skin
 a bridal gown wearer in a masculine cut (wedding), wearing a fitted lace bodice with a sweetheart neckline and a long veil, trousers, a veil and satin shoes, tailored in a masculine cut with a straight waist and carrying a bouquet, with fair and pale skin
@@ -439,12 +439,12 @@ a plumber in a masculine cut (call-out), wearing a work shirt and a knee-padded 
 a police officer in a masculine cut (modern), in a dark shirt with a badge, shoulder patches, an utility belt and a radio and dark trousers and black boots, with fair and pale skin
 a polo player in a masculine cut, dressed in a team jersey with white breeches, with fair and pale skin
 a possessed doll in a masculine cut (horror), wearing a lace dress with cracked porcelain makeup and ringlets, in a masculine cut with a roomy chest and shoulders, with fair and pale skin
-a postal worker in a masculine cut (city), wearing a uniform shirt with a bag across the body, shorts, a pith helmet and shoes, cut for a masculine frame with broad shoulders and carrying letters, with fair and pale skin
+a postal worker in a masculine cut (city), wearing a uniform shirt with a bag across the body, shorts, a pith helmet and shoes, cut for a masculine frame with broad shoulders and carrying letters addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of each envelope plain, with fair and pale skin
 a postmaster in a masculine cut, dressed in a double-breasted jacket with trousers, with fair and pale skin
 a potato sack racer in a masculine cut (fair), wearing a hessian sack, in a masculine cut with a roomy chest and shoulders, with fair and pale skin
 a powered-armour engineer hero in a masculine cut, dressed in a segmented metal armour suit with glowing vents, with fair and pale skin
 a prison guard in a masculine cut (modern), wearing a pale blue shirt with a duty belt, dark trousers and boots, tailored in a masculine cut with a straight waist and carrying a key ring, with fair and pale skin
-a professor in a masculine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a masculine cut with a straight waist and carrying a book, with fair and pale skin
+a professor in a masculine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a masculine cut with a straight waist and carrying a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain, with fair and pale skin
 a pullman porter in a masculine cut (1930s), in a double-breasted jacket with brass buttons and trousers and black shoes, with fair and pale skin
 a punk in a masculine cut (1977 London), in a studded jacket with safety pins and a mohawk, with fair and pale skin
 a quilter in a masculine cut (home), wearing an apron with pins on the front, trousers and slippers, cut for a masculine frame with broad shoulders, with fair and pale skin
@@ -524,7 +524,7 @@ a tengu mountain spirit in a masculine cut (folklore), in a yamabushi robe with 
 a three-piece suit wearer in a masculine cut, dressed in a pinstripe jacket and waistcoat with a watch chain, a shirt and a tie with suit trousers, with fair and pale skin
 a thunder god in a masculine cut, dressed in a hammer belt and a cape, with fair and pale skin
 a tin man robot in a masculine cut (theatre), wearing a metal funnel hat and silver chest piece, silver trousers, a funnel hat and silver boots, in a masculine cut with a roomy chest and shoulders and carrying an oil can, with fair and pale skin
-a tour guide in a masculine cut (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders and carrying a flag, with fair and pale skin
+a tour guide in a masculine cut (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a masculine cut with a roomy chest and shoulders and carrying a flag, with fair and pale skin
 a town crier in a masculine cut (England), wearing a red and gold coat, breeches, a tricorn and buckled shoes, in a masculine cut with a roomy chest and shoulders and carrying a bell, with fair and pale skin
 a traffic officer in a masculine cut, dressed in a high-visibility jacket with white gloves with dark trousers, with fair and pale skin
 a train conductor in a masculine cut, dressed in a double-breasted jacket with brass buttons and a watch chain with trousers, with fair and pale skin
@@ -536,7 +536,7 @@ a tuxedo wearer in a masculine cut (black tie), wearing a black dinner jacket wi
 a vaquero in a masculine cut (Mexico), in a short bolero jacket and a wide sombrero, with fair and pale skin
 a vaudeville performer in a masculine cut (stage), wearing a striped blazer with a straw boater, white trousers, a straw boater and spats, cut for a masculine frame with broad shoulders and carrying a cane, with fair and pale skin
 a veterinarian in a masculine cut, dressed in a patterned scrub top with a stethoscope and a cat-print lab coat with scrub trousers, with fair and pale skin
-a walking sandwich board seller in a masculine cut (street), in a hot dog costume with a sandwich board and shoes, with fair and pale skin
+a walking sandwich board seller in a masculine cut (street), in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, with fair and pale skin
 a wandering monster slayer in a masculine cut (fantasy), wearing a worn leather jerkin with strapped vials, trousers and boots, cut for a masculine frame with broad shoulders, with fair and pale skin
 a welder in a masculine cut (workshop), wearing a leather welding jacket and gauntlets, work trousers, a welding helmet and work boots, cut for a masculine frame with broad shoulders, with fair and pale skin
 a werewolf in a masculine cut (horror), wearing a ragged shirt with fur on the arms and torn trousers, in a masculine cut with a roomy chest and shoulders, with fair and pale skin
@@ -554,7 +554,7 @@ an Amazon warrior in a masculine cut, dressed in a leather breastplate with arm 
 an American Civil War infantry soldier in a masculine cut (1860s), wearing a wool sack coat, wool trousers, a kepi and brogans, in a masculine cut with a roomy chest and shoulders and carrying a musket, with fair and pale skin
 an American football player in a masculine cut (gridiron), in a jersey over shoulder pads and a helmet with a facemask, with fair and pale skin
 an Andean festival dancer in a masculine cut (Bolivia), in a heavily sequined jacket and a feather hat, with fair and pale skin
-an Anglican vicar in a masculine cut (village church), wearing a black cassock with a white surplice and black shoes, in a masculine cut with a roomy chest and shoulders and carrying a bible, with fair and pale skin
+an Anglican vicar in a masculine cut (village church), wearing a black cassock with a white surplice and black shoes, in a masculine cut with a roomy chest and shoulders and carrying a bible with "HOLY BIBLE" in gold letters on the cover, the rest of the cover plain, with fair and pale skin
 an Army field medic in a masculine cut (modern military), in camouflage combat shirt with a red cross patch and body armour and combat trousers and combat boots, with fair and pale skin
 an Ayurvedic practitioner in a masculine cut, dressed in a white kurta with a shoulder cloth with a dhoti, with fair and pale skin
 an Aztec jaguar warrior in a masculine cut, dressed in a jaguar-skin suit, with fair and pale skin

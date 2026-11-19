@@ -1,122 +1,122 @@
-a notice
-a hand-written notice
-a warning notice
-a visiting times notice
-a laminated notice
-a commission notice
-a safety notice
-a times notice
-a person rule notice
-a legal notice
-a laminated no-smoking notice
-a laminated esd notice
-a laminated maximum-exposure-time notice
-a clear desk notice
-a clear-desk notice
-an instruction notice
-a faded lost property notice
-a hand-wash notice
-a chemical coshh notice
-a laminated blasting notice
-a diversion notice
-a laminated timing notice
-a laminated stock rotation notice
-a lease notice
-a curfew notice
-a timetable notice
-an emergency exit notice
-a wartime notice
-a laminated arc flash boundary notice
-a needle disposal notice
-a hours notice
-a device notice
-a maintenance organizer's notice
-a bothy code notice
-a fire door notice
-a rules notice
-an age-verification notice
-a ninety-day camera retention notice
-a hearing loop notice
-a flag-state notice
-a carrying union notice
-a fire evacuation notice
-an induction loop notice
-a notice from the managing agent
-a notice taped over an older notice
-a notice of rights
-a notice in two languages
-the legal notice on the door
-a notice from the managing agent on a board
+a notice reading "CONFESSIONS SATURDAY 11 AM" in neat black print, the rest of the card plain
+a hand-written notice reading "__text_note__" __text_look_handwriting__, the rest of the sheet plain
+a warning notice reading "__text_warning__" __text_look_paper_notice__, the rest of the sheet plain white
+a visiting times notice reading "VISITING TIMES 2 PM TO 8 PM" __text_look_paper_notice__, the rest of the sheet plain white
+a laminated notice reading "__text_bulletin__" __text_look_paper_notice__, the rest of the sheet plain white
+a commission notice reading "COMMISSION 2%" in bold black print
+a safety notice reading "__text_warning__" __text_look_paper_notice__, the rest of the sheet plain white
+a times notice reading "OPEN TUESDAY AND THURSDAY 10 AM TO 2 PM" __text_look_paper_notice__, the rest of the sheet plain white
+a person rule notice reading "TWO PERSON RULE" __text_look_paper_notice__
+a legal notice headed "LEGAL NOTICE" __text_look_paper_notice__, the rest of the sheet plain white
+a laminated no-smoking notice reading "SMOKE FREE AREA" in red print
+a laminated esd notice reading "ESD PROTECTED AREA" in black on yellow
+a laminated maximum-exposure-time notice reading "MAXIMUM EXPOSURE 15 MINUTES" in bold black print, the rest of the sheet plain white
+a clear desk notice reading "CLEAR DESK POLICY" in bold black print
+a clear-desk notice reading "CLEAR DESK POLICY" __text_look_paper_notice__, the rest of the sheet plain white
+an instruction notice headed "INSTRUCTIONS" __text_look_paper_notice__, the rest of the sheet plain white
+a faded lost property notice, headed "LOST PROPERTY" in faded black print, the rest of the sheet plain white
+a hand-wash notice reading "WASH YOUR HANDS" __text_look_paper_notice__, the rest of the sheet plain white
+a chemical coshh notice headed "COSHH" __text_look_paper_notice__, the rest of the sheet plain white
+a laminated blasting notice reading "DANGER BLASTING IN PROGRESS" in bold black print on a yellow sheet
+a diversion notice reading "PATH DIVERSION" in bold black print, the rest of the sheet plain white
+a laminated timing notice reading "SCRUB FOR 3 MINUTES" in black print
+a laminated stock rotation notice reading "FIRST IN FIRST OUT" in bold black print
+a lease notice headed "NOTICE OF LEASE" __text_look_paper_notice__, the rest of the sheet plain white
+a curfew notice reading "DOORS CLOSE AT 22:00" in bold black print
+a timetable notice reading "__text_departure__" __text_look_paper_notice__
+an emergency exit notice reading "EMERGENCY EXIT" in white capitals on a green panel
+a wartime notice reading "KEEP CALM AND CARRY ON" in white capitals on red
+a laminated arc flash boundary notice reading "ARC FLASH HAZARD" in black print on an orange panel
+a needle disposal notice reading "SHARPS DISPOSAL HERE" in black on yellow
+a hours notice reading "OPEN __name_hours__" __text_look_paper_notice__
+a device notice reading "PLEASE SWITCH OFF YOUR DEVICES" __text_look_paper_notice__, the rest of the sheet plain white
+a maintenance organizer's notice headed "MAINTENANCE" __text_look_paper_notice__, the rest of the sheet plain white
+a bothy code notice headed "THE BOTHY CODE" __text_look_paper_notice__, the rest of the sheet plain white
+a fire door notice reading "FIRE DOOR KEEP SHUT" in white on blue
+a rules notice headed "RULES" __text_look_paper_notice__, the rest of the sheet plain white
+an age-verification notice reading "ID REQUIRED" __text_look_paper_notice__
+a ninety-day camera retention notice reading "CCTV IN OPERATION" in black on yellow
+a hearing loop notice reading "HEARING LOOP" in white on blue
+a flag-state notice headed "FLAG STATE" __text_look_paper_notice__, the rest of the sheet plain white
+a carrying union notice headed "UNION NOTICE" __text_look_paper_notice__, the rest of the sheet plain white
+a fire evacuation notice headed "FIRE EVACUATION" in white on red, the rest of the sheet plain white
+an induction loop notice reading "INDUCTION LOOP FITTED" in white letters on a blue sign
+a notice from the managing agent, headed "NOTICE TO RESIDENTS" __text_look_paper_notice__, the rest of the sheet plain white
+a notice taped over an older notice, reading "__text_door_notice__" __text_look_paper_notice__, the rest of the sheet plain white
+a notice of rights, headed "YOUR RIGHTS" __text_look_paper_notice__, the rest of the sheet plain white
+a notice in two languages, reading "WELCOME" with "BIENVENIDOS" below it in bold black print, the rest of the sheet plain white
+the legal notice headed "LEGAL NOTICE" __text_look_paper_notice__, the rest of the sheet plain white, on the door
+a notice from the managing agent on a board, headed "NOTICE TO RESIDENTS" __text_look_paper_notice__, the rest of the sheet plain white
 a laminated no-smoking notice that is routinely ignored at the edges
-a laminated ESD notice
-a clear-desk notice in a frame
-notices taped to the glass from the inside so they read outward
-instruction notices
-hand-wash notices
-chemical COSHH notice
-notices on a board
-a notice from the managing agent about the bike in the hall
-a notice from the managing agent taped to a wall
-a notice from the managing agent taped to a wall and gone yellow
-the visiting times notice
-a visiting times notice taped over an older one
-a notice of license and interest rates
-a notice of rules and opening hours
-a notice of commission in small print
-a commission notice taped over an older rate
-a notice of meetings
-notices of the candidates
-a notice of time limits
-a notice beside the box giving the hours
-a notice beside the box giving a Saturday hour and a crossed-out weekday one
-a notice of the pumping sequence
-a notice of tariffs
-a notice of the test standard
-a notice of the services offered
-a notice of the day's activities
-a laminated notice of time limits taped over an older one
-a lease notice taped to glass
-a notice of occupancy rules
-notices from the summer still pinned up
-a notice of opening hours
-a notice taped inside the glass
-a notice of regulations
-a notice of regulations with a corner curled
-a notice of rights on the wall
+a laminated ESD notice reading "ESD PROTECTED AREA" in black print on a yellow sheet
+a clear-desk notice reading "CLEAR DESK POLICY" in bold black print in a frame
+notices reading "DELIVERIES REAR DOOR" in black marker taped to the glass from the inside so they read outward
+instruction notices reading "PULL CORD FOR HELP" in bold black print, the rest of each sheet plain white
+hand-wash notices reading "WASH YOUR HANDS" __text_look_paper_notice__, the rest of each sheet plain white
+chemical COSHH notice reading "COSHH HAZARDOUS SUBSTANCES" in black print on a yellow sheet
+notices on a board, reading "__text_bulletin__" __text_look_paper_notice__, the rest of the sheet plain white
+a notice from the managing agent about the bike in the hall, headed "NOTICE TO RESIDENTS" __text_look_paper_notice__, the rest of the sheet plain white
+a notice from the managing agent taped to a wall, headed "NOTICE TO ALL RESIDENTS" in black print, the rest of the sheet plain
+a notice from the managing agent taped to a wall and gone yellow, headed "NOTICE TO ALL RESIDENTS" in black print, the rest of the sheet plain
+the visiting times notice reading "VISITING TIMES __name_hours__" __text_look_paper_notice__
+a visiting times notice taped over an older one, reading "VISITING TIMES 2 PM TO 8 PM" __text_look_paper_notice__, the rest of the sheet plain white
+a notice of license and interest rates headed "LICENSED PAWNBROKER" in bold black print, the rest of the sheet plain white
+a notice of rules and opening hours headed "LAUNDRETTE RULES" and "OPEN 7 TO 10" in bold black print
+a notice of commission headed "COMMISSION" in small print
+a commission notice reading "COMMISSION 2%" in bold black print taped over an older rate
+a notice of meetings headed "NOTICE OF MEETINGS" __text_look_paper_notice__, the rest of the sheet plain white
+notices of the candidates, headed "NOTICE OF POLL" __text_look_paper_notice__ over rows of "__name_surname_world__"
+a notice of time limits, headed "TIME LIMITS" __text_look_paper_notice__, the rest of the sheet plain white
+a notice beside the box giving the hours, reading "CONFESSIONS SATURDAY 11 AM" in neat black print, the rest of the card plain
+a notice reading "SATURDAY 11 AM" above a crossed-out "WEDNESDAY 6 PM" in neat black print beside the box giving a Saturday hour and a crossed-out weekday one
+a notice of the pumping sequence headed "PUMPING SEQUENCE" in bold black print
+a notice of tariffs headed "TARIFFS" __text_look_paper_notice__, with "__text_price_line__" below, the rest of the sheet plain white
+a notice of the test standard headed "TEST STANDARD" __text_look_paper_notice__, the rest of the sheet plain white
+a notice of the services offered, headed "OUR SERVICES" __text_look_paper_notice__, the rest of the sheet plain white
+a notice of the day's activities, headed "TODAY" in bold print above "10:00 ART" and "14:00 WALK" in black print
+a laminated notice of time limits headed "24 HOUR LIMIT" in bold black print taped over an older one
+a lease notice headed "TO LET" in bold red print, the rest of the sheet plain white, taped to glass
+a notice of occupancy rules headed "SHELTER RULES" in bold black print, the rest of the sheet plain white
+notices headed "SUMMER SAILINGS" in bold print from the summer still pinned up
+a notice of opening hours reading "OPEN 9 TO 5" in black print on white
+a notice reading "HAVE YOUR PASSPORT READY" in bold black print taped inside the glass
+a notice of regulations headed "QUARANTINE REGULATIONS" in bold black print, the rest of the sheet plain white
+a notice of regulations headed "QUARANTINE REGULATIONS" in bold black print, the rest of the sheet plain white, with a corner curled
+a notice of rights headed "NOTICE OF RIGHTS" in bold black print, the rest of the sheet plain white, on the wall
 a notice of rights in several languages
-the notice of rights
-a notice of rights on the wall with a thumbprint on it
-a notice on the wall with a thumbprint on it
-a notice from a team
-a hand-written notice of the next visit date
-a hand-written notice over a validator
-a hand-written notice on a window
-a hand-written notice taped to a window about a diverted route
-a timetable notice taped on
-a hand-written notice over a broken socket
-a hand-written notice over a broken door
-wartime notices
-notices
-a needle disposal notice and a set of rules agreed by the residents
-an hours notice
-a times notice in a plastic wallet
-a one-device notice
-a Maintenance Organizer's notice on the wall with the Bothy Code on it
-a notice on the wall from the volunteer mountain-hut association with the Bothy Code on it
-a Bothy Code notice
-a fire door notice and a smoke detector in the ceiling
-a notice on the wall reminding guests not to leave the pump on
-a laminated notice of the club's rules and its licensing hours screwed to the wall
-a laminated notice of the rules and the licensed hours screwed to the wall
-a rules notice and framed license
-a notice of house rules taped to every door
-an age-verification notice and a basket of batteries by the point of sale
+the notice of rights headed "YOUR RIGHTS" __text_look_paper_notice__, the rest of the sheet plain white
+a notice of rights headed "NOTICE OF RIGHTS" in bold black print, the rest of the sheet plain white, on the wall with a thumbprint on it
+a notice headed "NOTICE OF RIGHTS" in bold black print on the wall with a thumbprint on it
+a notice headed "BEAM CHECK" in bold black print from a team
+a hand-written notice of the next visit date reading "NEXT VISIT TUESDAY" in black marker, the rest of the sheet plain white
+a hand-written notice over a validator reading "OUT OF ORDER" in black marker, the rest of the sheet plain white
+a hand-written notice reading "__text_door_notice__" in black marker, the rest of the sheet plain white, on a window
+a hand-written notice taped to a window about a diverted route reading "DIVERTED VIA __name_street__" in black marker, the rest of the sheet plain white
+a timetable notice headed "TIMETABLE" with "__text_departure__" below in black print, the rest of the sheet plain white, taped on
+a hand-written notice over a broken socket reading "OUT OF ORDER" in black marker, the rest of the sheet plain white
+a hand-written notice over a broken door reading "USE OTHER DOOR" in black marker, the rest of the sheet plain white
+wartime notices reading "IS YOUR JOURNEY REALLY NECESSARY" in bold black print on buff paper
+notices reading "LIGHTS OUT 11 PM" __text_look_paper_notice__
+a needle disposal notice reading "SHARPS DISPOSAL HERE" in black on yellow and a set of rules agreed by the residents
+an hours notice reading "WATER 6 AM TO 9 AM AND 5 PM TO 7 PM" __text_look_paper_notice__, the rest of the sheet plain white
+a times notice reading "OPEN TUESDAY AND THURSDAY 10 AM TO 2 PM" __text_look_paper_notice__ in a plastic wallet
+a one-device notice reading "ONE DEVICE PER PERSON" __text_look_paper_notice__, the rest of the sheet plain white
+a Maintenance Organizer's notice headed "THE BOTHY CODE" in bold black print over short printed lines on the wall with the Bothy Code on it
+a notice on the wall from the volunteer mountain-hut association with the Bothy Code on it headed "THE BOTHY CODE" __text_look_paper_notice__
+a Bothy Code notice headed "THE BOTHY CODE" in bold black print over short printed lines
+a fire door notice reading "FIRE DOOR KEEP SHUT" in white letters on a blue background and a smoke detector in the ceiling
+a notice reading "PUMP OFF WHEN DONE PLEASE" in black marker on the wall reminding guests not to leave the pump on
+a laminated notice of the club's rules and its licensing hours, headed "CLUB RULES" in bold black print, the rest of the sheet plain white, screwed to the wall
+a laminated notice of the rules and the licensed hours reading "LICENSED HOURS __name_hours__" __text_look_paper_notice__ screwed to the wall
+a rules notice headed "CLUB RULES" in bold black print and framed license
+a notice of house rules headed "HOUSE RULES" __text_look_paper_notice__, the rest of the sheet plain white, taped to every door
+an age-verification notice reading "ID REQUIRED UNDER 25" in bold black print, the rest of the sheet plain white, and a basket of batteries by the point of sale
 notice and battery basket
-a ninety-day camera retention notice on the wall
-a hearing loop notice and an accessible lavatory
-a two-person rule notice in the count room
-the two-person rule notice in the count room
-a flag-state notice and a rota for cleaning the mess itself
-carrying union notices and the employers' liability certificate; a window
-a fire evacuation notice behind the door
-a notice taped to the inside of the glazed door panel facing out
+a ninety-day camera retention notice reading "CCTV IN OPERATION 90 DAYS" in bold black print on a yellow plate on the wall
+a hearing loop notice reading "HEARING LOOP" in white on blue and an accessible lavatory
+a two-person rule notice reading "TWO PERSON RULE" __text_look_paper_notice__ in the count room
+the two-person rule notice reading "TWO PERSON RULE" __text_look_paper_notice__ in the count room
+a flag-state notice headed "FLAG STATE" __text_look_paper_notice__, the rest of the sheet plain white, and a rota for cleaning the mess itself
+carrying union notices headed "UNION NEWS" __text_look_paper_notice__ and the employers' liability certificate; a window
+a fire evacuation notice headed "FIRE EVACUATION" __text_look_paper_notice__, the rest of the sheet plain white, behind the door
+a notice taped to the inside of the glazed door panel facing out, reading "CLOSED UNTIL FURTHER NOTICE" __text_look_paper_notice__, the rest of the sheet plain white

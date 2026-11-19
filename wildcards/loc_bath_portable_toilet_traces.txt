@@ -1,4 +1,4 @@
-marker graffiti
-a stuck sticker
+marker graffiti reading "__text_graffiti_word__" __text_look_marker__
+a stuck sticker reading "__name_band__" in black print on a white sticker
 mud on the floor
-marker graffiti layered over older graffiti
+marker graffiti reading "__text_graffiti_word__" __text_look_marker__ layered over older graffiti

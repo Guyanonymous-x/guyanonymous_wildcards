@@ -1,8 +1,8 @@
-a theatrical playbill in bold type
+a theatrical playbill reading "THE __name_surname__ PLAYERS" in bold type, the rest of the sheet plain
 a circus poster reading "__text_poster_event__" __text_look_print__ with a performing horse
-a political leaflet in two colours
-a wartime public notice
-a concert handbill with ornate type
-a fair day poster printed from woodblocks
-a medicine show advertisement
-a village sale notice
+a political leaflet reading "VOTE __name_surname__" in two colours of bold capitals, the rest of the sheet plain
+a wartime public notice headed "PUBLIC NOTICE" in heavy black capitals, the rest of the sheet plain
+a concert handbill reading "__name_band__ __text_poster_event__" with ornate type, the rest of the sheet plain
+a fair day poster reading "__text_poster_event__" printed from woodblocks in big black letters, the rest of the sheet plain
+a medicine show advertisement reading "DR __name_surname__'S MIRACLE TONIC" in bold circus type, the rest of the sheet plain
+a village sale notice reading "VILLAGE SALE __name_hours__" __text_look_paper_notice__, the rest of the sheet plain white

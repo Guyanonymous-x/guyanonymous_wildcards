@@ -1,4 +1,4 @@
-a small monochrome screen showing a channel number
+a small monochrome screen showing a channel number reading "CH __name_number_small__" in black digits
 a tiny LCD with a signal bar
 a window with orange digits
 a dial

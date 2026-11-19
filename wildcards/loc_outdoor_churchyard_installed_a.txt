@@ -1,5 +1,5 @@
 a boundary wall with a lychgate where the coffin rested
-headstones in rows of several centuries with the oldest nearest the church and often facing east
-a war grave with its distinctive headstone
+headstones carved "__text_headstone__" __text_look_carved_stone__ in rows of several centuries with the oldest nearest the church and often facing east
+a war grave with its distinctive headstone carved "A SOLDIER OF THE GREAT WAR" in carved capitals on white stone
 a tap and a compost heap for grave flowers
 a bench

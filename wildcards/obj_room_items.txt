@@ -1,7 +1,7 @@
 a frisbee and a photo collage brand new
 a persian rug chipped
 an incense burner and a rotary telephone on top of a cabinet
-a stack of hardback books and a skull-shaped ornament slightly crooked
+a stack of hardback books with spines reading "__name_book_title_any__" in small print and a skull-shaped ornament slightly crooked
 a photo collage well used
 a humidifier and some paper lanterns freshly polished
 some binoculars and a disco ball freshly polished
@@ -56,7 +56,7 @@ a vending machine and a green screen freshly polished
 some fins faded
 a crucifix half hidden behind a curtain
 a record player covered in dust
-a stack of hardback books on top of a cabinet
+a stack of hardback books with spines reading "__name_book_title_any__" in small print on top of a cabinet
 a knitting basket and some party balloons chipped
 a CRT monitor cracked
 a spade and fork on a shelf
@@ -68,7 +68,7 @@ a mop and bucket on top of a cabinet
 a golf bag and a golf bag hanging on the wall
 a green screen slightly crooked
 a keyboard cracked
-a mailbox covered in dust
+a mailbox marked "POST" in white capitals covered in dust
 a treadmill hanging on the wall
 a microscope of an old-fashioned design
 a bee hotel and a desktop computer on a low table
@@ -157,7 +157,7 @@ some finger paints casting a soft light
 a knife block and a koi bowl chipped
 a mop and bucket half hidden behind a curtain
 a spinning wheel faded
-a mailbox on the windowsill
+a mailbox marked "POST" in white capitals on the windowsill
 a first-aid cabinet and a fishing net covered in dust
 an alarm clock covered in dust
 a tapestry well used
@@ -227,7 +227,7 @@ an umbrella stand cracked
 a quilt and a woven basket on a low table
 a water gun well used
 a drum kit and an electric kettle on top of a cabinet
-a tennis racket and a reading glasses on a book half hidden behind a curtain
+a tennis racket and a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover, half hidden behind a curtain
 a shag rug faded
 a water cooler faded
 a pinball machine and a reel-to-reel recorder slightly crooked
@@ -309,10 +309,10 @@ a surfboard beside the sofa
 a toy kitchen well used
 a teapot well used
 an inflatable pool ring covered in dust
-a dreamcatcher and some paint cans of an old-fashioned design
+a dreamcatcher and some paint cans of an old-fashioned design, labeled "__name_brand_upper__" __text_look_print__
 a dartboard slightly crooked
 a tapestry in need of repair
-a row of paperbacks faded
+a row of paperbacks with spines reading "__name_book_title_any__" in small print faded
 some salt and pepper mills and a brass globe on the windowsill
 some lobster pots on top of a cabinet
 a vase of fresh tulips casting a soft light
@@ -348,7 +348,7 @@ a spinning wheel chipped
 a spade and fork casting a soft light
 some scatter cushions and a camera tripod on a shelf
 some salt and pepper mills brand new
-a reading glasses on a book on the windowsill
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover on the windowsill
 an old television covered in dust
 a bird cage covered in dust
 a fire extinguisher well used
@@ -402,7 +402,7 @@ a projector on a low table
 a treadmill and a chess set in need of repair
 a samovar faded
 a baseball bat beside the sofa
-a stack of hardback books and a bonsai half hidden behind a curtain
+a stack of hardback books with spines reading "__name_book_title_any__" in small print and a bonsai half hidden behind a curtain
 some coat hooks glinting in the light
 a radiator beside the sofa
 a skull-shaped ornament hanging on the wall
@@ -422,7 +422,7 @@ a vase of fresh tulips in the corner
 some fins slightly crooked
 a helmet and a sewing machine on a shelf
 a mortar and pestle on a low table
-a mailbox hanging on the wall
+a mailbox marked "POST" in white capitals hanging on the wall
 a disco ball and a Tiffany lamp on the windowsill
 a jukebox and a punching bag on a low table
 a portable typewriter chipped
@@ -438,7 +438,7 @@ an air purifier well used
 a dishwasher of an old-fashioned design
 a snorkel set brand new
 an incense burner chipped
-a whiteboard of an old-fashioned design
+a whiteboard with "__text_note__" written on it in faded blue marker, the rest of the board bare of an old-fashioned design
 a rotary telephone covered in dust
 a prayer rug chipped
 a wheelbarrow covered in dust
@@ -470,7 +470,7 @@ a spinning wheel cracked
 a stand mixer on a low table
 a treadmill glinting in the light
 a projector casting a soft light
-a reading glasses on a book chipped
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover, chipped
 an easel well used
 a mortar and pestle in the corner
 an electric kettle faded
@@ -487,7 +487,7 @@ a picture frame hanging on the wall
 a clothes horse with laundry and a vase of fresh tulips on top of a cabinet
 some coat hooks and a mop and bucket brand new
 a wheelbarrow slightly crooked
-a stack of hardback books and a desk lamp on top of a cabinet
+a stack of hardback books with spines reading "__name_book_title_any__" in small print and a desk lamp on top of a cabinet
 a mortar and pestle on top of a cabinet
 a camera tripod and an adding machine chipped
 a washing line in need of repair
@@ -550,9 +550,9 @@ a flip chart and a broom beside the sofa
 some fins casting a soft light
 a robot vacuum and some boxing gloves of an old-fashioned design
 a treadmill and a ship's wheel on top of a cabinet
-a reading glasses on a book and a desk lamp on the floor
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover and a desk lamp on the floor
 some buoys hanging on the wall
-a stack of hardback books covered in dust
+a stack of hardback books with spines reading "__name_book_title_any__" in small print covered in dust
 a vintage film camera on the floor
 an upright piano covered in dust
 a decanter on the floor
@@ -594,13 +594,13 @@ a microphone stand chipped
 some salt and pepper mills and a microphone stand on top of a cabinet
 a stack of cardboard boxes covered in dust
 a stack of cardboard boxes and a stack of cardboard boxes on the windowsill
-a reading glasses on a book on top of a cabinet
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover on top of a cabinet
 a model aeroplane beside the sofa
 an ironing board in need of repair
 a backpack on the floor
 a crucifix on the windowsill
 a life ring beside the sofa
-a stack of hardback books on a low table
+a stack of hardback books with spines reading "__name_book_title_any__" in small print on a low table
 a laptop glinting in the light
 a toy kitchen slightly crooked
 some finger paints by the door
@@ -719,7 +719,7 @@ a golf bag well used
 a climbing rope cracked
 a flip chart casting a soft light
 a crochet blanket by the door
-a stack of hardback books glinting in the light
+a stack of hardback books with spines reading "__name_book_title_any__" in small print glinting in the light
 a surfboard by the door
 a bee hotel on the windowsill
 an embroidery hoop by the door
@@ -801,7 +801,7 @@ some colouring books and a desktop computer in the corner
 a CRT monitor on the floor
 a full-length mirror in need of repair
 a treadmill in the corner
-an oscillating fan and a row of paperbacks on the floor
+an oscillating fan and a row of paperbacks with spines reading "__name_book_title_any__" in small print on the floor
 a CRT monitor and some dumbbells freshly polished
 a stepladder on a low table
 an ironing board on a shelf
@@ -815,7 +815,7 @@ a Buddha figurine on the windowsill
 a persian rug on top of a cabinet
 a cocktail shaker on the floor
 a stained-glass panel on a low table
-a ceramic bowl and a mailbox by the door
+a ceramic bowl and a mailbox marked "POST" in white capitals by the door
 a pill organiser on a shelf
 a macramé hanging freshly polished
 a persian rug by the door
@@ -893,7 +893,7 @@ some speakers on the windowsill
 some buoys casting a soft light
 a portable typewriter and a sleeping bag half hidden behind a curtain
 a wood-burning stove on top of a cabinet
-a reading glasses on a book half hidden behind a curtain
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover, half hidden behind a curtain
 some coat hooks in need of repair
 a spinning wheel by the door
 a clothes horse with laundry hanging on the wall
@@ -906,7 +906,7 @@ a wheelchair on top of a cabinet
 a globe lamp and some dumbbells in the corner
 an antler rack on a shelf
 a kitchen scale well used
-a reading glasses on a book on the floor
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover on the floor
 a first-aid cabinet on the floor
 a mortar and pestle and some rowing oars on the windowsill
 a globe lamp and some wellington boots hanging on the wall
@@ -1119,7 +1119,7 @@ a corkboard with notes and a microphone stand covered in dust
 some buoys and a piñata freshly polished
 a teacup collection and some fairy lights by the door
 a vintage film camera on the windowsill
-a reading glasses on a book and a shag rug chipped
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover and a shag rug chipped
 a toy train set chipped
 a rotary telephone and some paper lanterns half hidden behind a curtain
 a brass globe in the corner
@@ -1179,7 +1179,7 @@ a slide projector slightly crooked
 a nativity scene brand new
 a spider plant on a shelf by the door
 a dolls' house beside the sofa
-a mailbox and a CRT monitor brand new
+a mailbox marked "POST" in white capitals and a CRT monitor brand new
 an oil painting and a beach umbrella on a low table
 a bookend in need of repair
 some herb pots brand new
@@ -1190,7 +1190,7 @@ a laptop beside the sofa
 an embroidery hoop and some finger paints in the corner
 a pressure cooker brand new
 a whiteboard and a portable typewriter well used
-a reading glasses on a book and a desk lamp hanging on the wall
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover and a desk lamp hanging on the wall
 a card catalogue chipped
 a Buddha figurine brand new
 a stepladder glinting in the light
@@ -1242,7 +1242,7 @@ a surf wax and a rice cooker in the corner
 some fins well used
 a yoga mat and a knife block chipped
 an ironing board and a deck of cards on a low table
-a stack of hardback books brand new
+a stack of hardback books with spines reading "__name_book_title_any__" in small print brand new
 a whiteboard freshly polished
 a whiteboard and a cooler box chipped
 a bottle collection cracked
@@ -1473,9 +1473,9 @@ a prayer rug on the windowsill
 a water gun and an electric kettle well used
 a rolling pin slightly crooked
 a bread bin on the floor
-a row of paperbacks glinting in the light
+a row of paperbacks with spines reading "__name_book_title_any__" in small print glinting in the light
 a framed poster reading "__text_poster_room__" __text_look_print__ hanging on the wall
-a whiteboard covered in dust
+a whiteboard with "__text_note__" written on it in faded blue marker, the rest of the board bare covered in dust
 some salt and pepper mills casting a soft light
 a cactus on the sill well used
 a koi bowl chipped
@@ -1484,7 +1484,7 @@ some fins on a shelf
 a yoga mat covered in dust
 a champagne bucket beside the sofa
 a stack of cardboard boxes on the floor
-some colouring books and a reading glasses on a book on a shelf
+some colouring books and a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover on a shelf
 a snorkel set in the corner
 a trunk and an espresso machine faded
 a life ring casting a soft light
@@ -1507,7 +1507,7 @@ some speakers on the floor
 an abacus faded
 a family altar glinting in the light
 an incense burner hanging on the wall
-a reading glasses on a book and some party balloons freshly polished
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover and some party balloons freshly polished
 a mop and bucket in the corner
 a toy train set slightly crooked
 a games console brand new
@@ -1539,7 +1539,7 @@ a taxidermy fox and a clothes horse with laundry on a shelf
 a smart speaker chipped
 a woven rug in need of repair
 a green screen and a kitchen scale well used
-a hanging basket and a stack of hardback books cracked
+a hanging basket and a stack of hardback books with spines reading "__name_book_title_any__" in small print cracked
 a wall clock in need of repair
 a ship in a bottle of an old-fashioned design
 some lobster pots freshly polished
@@ -1601,7 +1601,7 @@ a Buddha figurine and a blackboard eraser on the floor
 a mop and bucket and a backpack of an old-fashioned design
 some coat hooks beside the sofa
 a trunk well used
-a corkboard with notes on the windowsill
+a corkboard with notes reading "__text_note__" __text_look_handwriting__ on the windowsill
 a zen sand garden by the door
 a prayer rug by the door
 a fax machine and a cooler box on the windowsill
@@ -1613,7 +1613,7 @@ a cactus on the sill hanging on the wall
 a tackle box by the door
 a rotary telephone chipped
 a fruit bowl slightly crooked
-a mailbox in need of repair
+a mailbox marked "POST" in white capitals in need of repair
 an anchor covered in dust
 some boxing gloves and a rice cooker casting a soft light
 a pill organiser by the door
@@ -1633,7 +1633,7 @@ some wellington boots and an old television on the floor
 a sandcastle bucket and a candle holder casting a soft light
 a neon sign reading "__text_neon_sign__" __text_look_neon__ and a tennis racket glinting in the light
 a wheelchair well used
-a stack of hardback books half hidden behind a curtain
+a stack of hardback books with spines reading "__name_book_title_any__" in small print half hidden behind a curtain
 an anchor and a kite freshly polished
 a pendant light and a baseball bat in need of repair
 a tent glinting in the light
@@ -1670,7 +1670,7 @@ an oil painting half hidden behind a curtain
 a world map half hidden behind a curtain
 an antler rack by the door
 an air purifier casting a soft light
-a teddy bear and a mailbox in the corner
+a teddy bear and a mailbox marked "POST" in white capitals in the corner
 a bee hotel of an old-fashioned design
 a shag rug and a baseball bat on a shelf
 a golf bag glinting in the light
@@ -1746,7 +1746,7 @@ a washing machine chipped
 a portable typewriter and a desktop computer on a low table
 a wheelchair covered in dust
 a family altar on a low table
-a mailbox casting a soft light
+a mailbox marked "POST" in white capitals casting a soft light
 some hiking boots hanging on the wall
 a whiteboard and some colouring books by the door
 a paddling pool faded
@@ -1759,7 +1759,7 @@ a rocking horse in need of repair
 a pinball machine on a low table
 a Tiffany lamp on top of a cabinet
 a cast-iron pan slightly crooked
-a row of paperbacks on a low table
+a row of paperbacks with spines reading "__name_book_title_any__" in small print on a low table
 a teacup collection hanging on the wall
 a tackle box chipped
 some beer taps covered in dust
@@ -1936,7 +1936,7 @@ some hanging pots on a low table
 a basketball brand new
 a football by the door
 a CRT monitor glinting in the light
-a climbing rope and a reading glasses on a book by the door
+a climbing rope and a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover by the door
 a tent and a basketball in the corner
 a flip chart and a rotary telephone half hidden behind a curtain
 some rowing oars casting a soft light
@@ -2083,7 +2083,7 @@ an oil painting chipped
 a rolling pin on top of a cabinet
 some painted tiles glinting in the light
 some hanging pots beside the sofa
-a reading glasses on a book casting a soft light
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover, casting a soft light
 an espresso machine and a floor lamp slightly crooked
 a washing line well used
 some fins on a low table
@@ -2100,7 +2100,7 @@ some colouring books chipped
 a piñata freshly polished
 a cocktail shaker chipped
 a vase of dried flowers and a projector glinting in the light
-a chess set and a row of paperbacks on a low table
+a chess set and a row of paperbacks with spines reading "__name_book_title_any__" in small print on a low table
 a hanging basket half hidden behind a curtain
 a board game covered in dust
 a full-length mirror on the floor
@@ -2140,7 +2140,7 @@ an exercise bike casting a soft light
 a crochet blanket chipped
 a coffee grinder and a wall clock in need of repair
 a wok well used
-a terrarium and a mailbox on a shelf
+a terrarium and a mailbox marked "POST" in white capitals on a shelf
 a piñata cracked
 a hourglass by the door
 a disco ball chipped
@@ -2241,11 +2241,11 @@ some lobster pots on the windowsill
 an incense burner and a copper kettle covered in dust
 a spider plant on a shelf on the windowsill
 a fax machine on the windowsill
-a stack of hardback books casting a soft light
+a stack of hardback books with spines reading "__name_book_title_any__" in small print casting a soft light
 a tackle box cracked
 a paddling pool casting a soft light
 a cricket bat and a Tiffany lamp faded
-a reading glasses on a book and a record player on a shelf
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover and a record player on a shelf
 a grandfather clock covered in dust
 a space heater and a compass brand new
 a tennis racket on a shelf
@@ -2329,7 +2329,7 @@ a rotary telephone glinting in the light
 a crossword puzzle and a sleeping bag well used
 a beach umbrella hanging on the wall
 a wall clock beside the sofa
-a reading glasses on a book beside the sofa
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover beside the sofa
 a globe bar covered in dust
 a laundry basket and a compass beside the sofa
 some wind chimes faded
@@ -2376,7 +2376,7 @@ a microscope in need of repair
 a medicine cabinet glinting in the light
 a cast-iron pan and a backpack of an old-fashioned design
 some suitcases and a rain barrel chipped
-a row of paperbacks and a skull-shaped ornament on the windowsill
+a row of paperbacks with spines reading "__name_book_title_any__" in small print and a skull-shaped ornament on the windowsill
 some heavy curtains and a jukebox by the door
 a jukebox casting a soft light
 a table lamp slightly crooked
@@ -2386,12 +2386,12 @@ a row of candles in the corner
 some building blocks on the floor
 an upright piano chipped
 a nativity scene and a wok in the corner
-a reading glasses on a book well used
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover, well used
 a chess set cracked
 a stack of vinyl records cracked
 a ceiling fan and a water gun covered in dust
 a round wall mirror of an old-fashioned design
-a row of paperbacks casting a soft light
+a row of paperbacks with spines reading "__name_book_title_any__" in small print casting a soft light
 an air purifier half hidden behind a curtain
 a ship's wheel on the floor
 a crossword puzzle on a shelf
@@ -2479,12 +2479,12 @@ a Buddha figurine of an old-fashioned design
 a mop and bucket on the windowsill
 a bread bin casting a soft light
 a tennis racket freshly polished
-a reading glasses on a book cracked
+a reading glasses on a book titled "__name_book_title_any__" in gold capitals on a plain cover, cracked
 a table lamp and a lunchbox cracked
 a chess set beside the sofa
 a fax machine in need of repair
-a row of paperbacks on a shelf
-a row of paperbacks by the door
+a row of paperbacks with spines reading "__name_book_title_any__" in small print on a shelf
+a row of paperbacks with spines reading "__name_book_title_any__" in small print by the door
 a cake stand half hidden behind a curtain
 a stapler beside the sofa
 a wheelbarrow and a birthday banner reading "HAPPY BIRTHDAY" in bright cut-out letters on the floor

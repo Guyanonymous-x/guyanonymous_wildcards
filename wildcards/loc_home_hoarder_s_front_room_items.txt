@@ -1,8 +1,8 @@
-newspapers in bundles tied with string
+newspapers with the masthead "__name_newspaper__" in bold black print in bundles tied with string
 carrier bags filled with other carrier bags
 unopened post in drifts
-food packaging
+food packaging printed "__name_brand_upper__" __text_look_print__
 clothing in bin bags
-boxes of identical purchases
+boxes of identical purchases printed "__name_brand_upper__" __text_look_print__
 broken appliances kept for repair
-decades of magazines
+decades of magazines with "__name_magazine__" __text_look_print__ across the covers, the rest of each cover plain

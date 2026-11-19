@@ -242,7 +242,7 @@ a loose dusty rose cotton poplin button-up shirt with oatmeal cargo pants and ca
 a crisp white midi dress and flat sandals
 enchanting fairy wings for a fantastical element
 a bright white maxi dress and flat sandals
-Rock Concert, Ripped jeans, band tee, leather jacket, and boots.
+Rock Concert, Ripped jeans, band tee printed "__name_band__", leather jacket, and boots.
 a caramel cotton graphic tee with a small print with slightly yellowed white elastic-waist trousers and flat sandals
 a fitted midnight blue jersey v-neck t-shirt with black leather trousers and sports sandals
 a fitted holographic silver crepe blouse with mid-wash boyfriend jeans under a navy wool coat and white sneakers
@@ -463,7 +463,7 @@ a fitted marled grey oxford cotton button-up shirt with black cotton shorts
 a slightly yellowed white sundress and flat sandals
 a fitted white linen shirt with powder blue pull-on slacks and ballet flats
 a maroon shirt dress with a camel trench coat and low heels
-Ripped jeans, a band tee, and a leather jacket with combat boots.
+Ripped jeans, a band tee printed "__name_band__", and a leather jacket with combat boots.
 a black ribbed cotton long-sleeve tee with light-wash boyfriend jeans and running shoes
 a fitted cherry red thin cotton crew-neck t-shirt with off-white cargo pants and white sneakers
 an ecru pinafore dress and leather ankle boots
@@ -660,7 +660,7 @@ a silk kimono-style robe and block-heel sandals
 an off-white polka-dot linen button-up shirt with forest green maxi skirt and flat sandals
 artistic body paint creating patterns and imagery on the skin
 a powder blue jersey wrap top with faded red tailored trousers and loafers
-Classic Rock, Band tee, distressed jeans, leather jacket, and boots.
+Classic Rock, Band tee printed "__name_band__" __text_look_print__, distressed jeans, leather jacket, and boots.
 a relaxed-fit rust brown ribbed cotton tank top with fuchsia maxi skirt under a sky blue puffer jacket and black sneakers
 a relaxed-fit charcoal grey cotton voile blouse with mid-wash skinny jeans under a beige cardigan and leather ankle boots
 a mauve lace-trimmed maxi dress and loafers

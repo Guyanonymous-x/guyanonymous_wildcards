@@ -1,8 +1,8 @@
 a pillar drill
 a drill
-a notice about fire drill
+a notice about fire drill, reading "FIRE DRILL TUESDAY 10:00" __text_look_paper_notice__, the rest of the sheet plain white
 a nail drill
-a notice about a fire drill from eighteen months ago
+a notice about a fire drill from eighteen months ago, headed "FIRE DRILL __name_year__" __text_look_paper_notice__, the rest of the sheet plain white
 a drill with extraction
 a nail drill with its own dust extraction
 the drill with its extraction hose

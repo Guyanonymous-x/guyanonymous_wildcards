@@ -1,8 +1,8 @@
-a ticket or check-in screen
-leaflets in racks
+a ticket or check-in screen showing "PLEASE CHECK IN HERE" __text_look_screen__
+leaflets headed "__text_health_poster__" in bold print in racks
 a children's book box
-magazines of uncertain age
+magazines with "__name_magazine__" across the covers in bold masthead letters, of uncertain age
 a water cooler
-a notice about abuse of staff
+a notice about abuse of staff, headed "PLEASE RESPECT OUR STAFF" __text_look_paper_notice__, the rest of the sheet plain white
 appointment cards
 a hand gel dispenser

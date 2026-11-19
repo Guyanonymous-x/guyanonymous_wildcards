@@ -91,7 +91,7 @@ lying down flat on back
 stretching the arms overhead, with graceful posture
 tying hair back, with a sense of ease
 sitting on steps, with a casual attitude
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 kneeling on both knees, with careful balance
 walking away
 sleeping, while looking away
@@ -110,7 +110,7 @@ sitting on a sofa, while looking into the distance
 sitting on a stool
 riding a bicycle, with careful balance
 sitting on a log, at rest
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 using a phone
 drinking from a cup, while looking into the distance
 reclining in a chair, with a sense of ease
@@ -497,4 +497,4 @@ sitting on a curb, in mid-motion
 leaning on a counter
 jogging, with graceful posture
 standing relaxed with arms crossed
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture

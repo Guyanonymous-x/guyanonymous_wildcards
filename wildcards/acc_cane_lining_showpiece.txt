@@ -121,7 +121,7 @@ It has a mirror-mosaic lining and chinchilla fur.
 It has a mirror-mosaic lining and hand-embroidered silk with seed pearls.
 It has a mirror-mosaic lining, a gold-lamé lining stitched with crystals and quilted gold silk.
 It has a mirror-mosaic lining, gold-thread brocade and a gold-lamé lining stitched with crystals.
-It has a mirror-mosaic lining, silk satin embroidered with the maker's gold monogram and silk brocade with a hand-woven gold pattern.
+It has a mirror-mosaic lining, silk satin embroidered with the maker's gold monogram "__name_initials__" and silk brocade with a hand-woven gold pattern.
 It has a mirror-mosaic lining.
 It has a sculpted figural handle and a bespoke handle carved to one hand.
 It has a sculpted figural handle and a gold knob set with a gemstone.
@@ -179,14 +179,14 @@ It has a silver-capped crook, a sculpted figural handle, a handle carved from a 
 It has a silver-capped crook, a sculpted figural handle, a handle carved from a single piece of boxwood and a hand-engraved handle.
 It has a silver-capped crook.
 It has chinchilla fur and a lining of feathers.
-It has chinchilla fur, sable fur and silk satin embroidered with the maker's gold monogram.
+It has chinchilla fur, sable fur and silk satin embroidered with the maker's gold monogram "__name_initials__".
 It has chinchilla fur, silk brocade with a hand-woven gold pattern and a gold-lamé lining stitched with crystals.
 It has chinchilla fur, silk velvet embroidered with pearls and a lining of feathers.
 It has chinchilla fur.
 It has gold-thread brocade and a mirror-mosaic lining.
 It has gold-thread brocade and chinchilla fur.
 It has gold-thread brocade and sable fur.
-It has gold-thread brocade and silk satin embroidered with the maker's gold monogram.
+It has gold-thread brocade and silk satin embroidered with the maker's gold monogram "__name_initials__".
 It has gold-thread brocade, a lining of feathers and painted silk with a miniature scene.
 It has gold-thread brocade.
 It has hand-embroidered silk with seed pearls and a gold-lamé lining stitched with crystals.
@@ -199,7 +199,7 @@ It has hand-embroidered silk with seed pearls, a mirror-mosaic lining and silk v
 It has hand-embroidered silk with seed pearls, gold-thread brocade and chinchilla fur.
 It has hand-embroidered silk with seed pearls.
 It has mink fur and a gold-lamé lining stitched with crystals.
-It has mink fur and silk satin embroidered with the maker's gold monogram.
+It has mink fur and silk satin embroidered with the maker's gold monogram "__name_initials__".
 It has mink fur, gold-thread brocade and a lining of feathers.
 It has mink fur, silk velvet embroidered with pearls and hand-embroidered silk with seed pearls.
 It has mink fur.
@@ -224,24 +224,24 @@ It has silk brocade with a hand-woven gold pattern and mink fur.
 It has silk brocade with a hand-woven gold pattern, hand-embroidered silk with seed pearls and silk velvet embroidered with pearls.
 It has silk brocade with a hand-woven gold pattern, silk velvet embroidered with pearls and painted silk with a miniature scene.
 It has silk brocade with a hand-woven gold pattern.
-It has silk satin embroidered with the maker's gold monogram and a mirror-mosaic lining.
-It has silk satin embroidered with the maker's gold monogram, hand-embroidered silk with seed pearls and silk brocade with a hand-woven gold pattern.
-It has silk satin embroidered with the maker's gold monogram, painted silk with a miniature scene and gold-thread brocade.
-It has silk satin embroidered with the maker's gold monogram, silk velvet embroidered with pearls and mink fur.
-It has silk satin embroidered with the maker's gold monogram.
+It has silk satin embroidered with the maker's gold monogram "__name_initials__" and a mirror-mosaic lining.
+It has silk satin embroidered with the maker's gold monogram "__name_initials__", hand-embroidered silk with seed pearls and silk brocade with a hand-woven gold pattern.
+It has silk satin embroidered with the maker's gold monogram "__name_initials__", painted silk with a miniature scene and gold-thread brocade.
+It has silk satin embroidered with the maker's gold monogram "__name_initials__", silk velvet embroidered with pearls and mink fur.
+It has silk satin embroidered with the maker's gold monogram "__name_initials__".
 It has silk velvet embroidered with pearls and chinchilla fur.
 It has silk velvet embroidered with pearls and hand-embroidered silk with seed pearls.
 It has silk velvet embroidered with pearls, a lining of feathers and sable fur.
 It has silk velvet embroidered with pearls, a mirror-mosaic lining and a gold-lamé lining stitched with crystals.
 It has silk velvet embroidered with pearls, chinchilla fur and gold-thread brocade.
-It has silk velvet embroidered with pearls, silk satin embroidered with the maker's gold monogram and a lining of feathers.
+It has silk velvet embroidered with pearls, silk satin embroidered with the maker's gold monogram "__name_initials__" and a lining of feathers.
 It has silk velvet embroidered with pearls.
 Mink fur forms the handle.
 Painted silk with a miniature scene forms the handle.
 Quilted gold silk forms the handle.
 Sable fur forms the handle.
 Silk brocade with a hand-woven gold pattern forms the handle.
-Silk satin embroidered with the maker's gold monogram forms the handle.
+Silk satin embroidered with the maker's gold monogram "__name_initials__" forms the handle.
 Silk velvet embroidered with pearls forms the handle.
 The handle is a bespoke handle carved to one hand and a gold knob set with a gemstone.
 The handle is a bespoke handle carved to one hand and a hand-engraved handle.
@@ -360,18 +360,18 @@ The handle is a handle carved from a single piece of boxwood.
 The handle is a lining of feathers and quilted gold silk.
 The handle is a lining of feathers, gold-thread brocade and chinchilla fur.
 The handle is a lining of feathers, gold-thread brocade and sable fur.
-The handle is a lining of feathers, silk satin embroidered with the maker's gold monogram and silk velvet embroidered with pearls.
-The handle is a lining of feathers, silk velvet embroidered with pearls and silk satin embroidered with the maker's gold monogram.
+The handle is a lining of feathers, silk satin embroidered with the maker's gold monogram "__name_initials__" and silk velvet embroidered with pearls.
+The handle is a lining of feathers, silk velvet embroidered with pearls and silk satin embroidered with the maker's gold monogram "__name_initials__".
 The handle is a lining of feathers.
 The handle is a mirror-mosaic lining and a lining of feathers.
 The handle is a mirror-mosaic lining and gold-thread brocade.
 The handle is a mirror-mosaic lining and mink fur.
 The handle is a mirror-mosaic lining and silk brocade with a hand-woven gold pattern.
-The handle is a mirror-mosaic lining and silk satin embroidered with the maker's gold monogram.
+The handle is a mirror-mosaic lining and silk satin embroidered with the maker's gold monogram "__name_initials__".
 The handle is a mirror-mosaic lining and silk velvet embroidered with pearls.
 The handle is a mirror-mosaic lining, a lining of feathers and silk velvet embroidered with pearls.
 The handle is a mirror-mosaic lining, sable fur and silk velvet embroidered with pearls.
-The handle is a mirror-mosaic lining, silk satin embroidered with the maker's gold monogram and hand-embroidered silk with seed pearls.
+The handle is a mirror-mosaic lining, silk satin embroidered with the maker's gold monogram "__name_initials__" and hand-embroidered silk with seed pearls.
 The handle is a mirror-mosaic lining.
 The handle is a sculpted figural handle and a bespoke handle carved to one hand.
 The handle is a sculpted figural handle and a gold knob set with a gemstone.
@@ -434,9 +434,9 @@ The handle is chinchilla fur and a lining of feathers.
 The handle is chinchilla fur and mink fur.
 The handle is chinchilla fur and quilted gold silk.
 The handle is chinchilla fur and sable fur.
-The handle is chinchilla fur and silk satin embroidered with the maker's gold monogram.
+The handle is chinchilla fur and silk satin embroidered with the maker's gold monogram "__name_initials__".
 The handle is chinchilla fur, painted silk with a miniature scene and silk brocade with a hand-woven gold pattern.
-The handle is chinchilla fur, silk satin embroidered with the maker's gold monogram and hand-embroidered silk with seed pearls.
+The handle is chinchilla fur, silk satin embroidered with the maker's gold monogram "__name_initials__" and hand-embroidered silk with seed pearls.
 The handle is chinchilla fur.
 The handle is gold-thread brocade and quilted gold silk.
 The handle is gold-thread brocade, a mirror-mosaic lining and chinchilla fur.
@@ -454,12 +454,12 @@ The handle is hand-embroidered silk with seed pearls.
 The handle is mink fur and a gold-lamé lining stitched with crystals.
 The handle is mink fur and chinchilla fur.
 The handle is mink fur and gold-thread brocade.
-The handle is mink fur and silk satin embroidered with the maker's gold monogram.
+The handle is mink fur and silk satin embroidered with the maker's gold monogram "__name_initials__".
 The handle is mink fur, a mirror-mosaic lining and a gold-lamé lining stitched with crystals.
 The handle is mink fur, sable fur and quilted gold silk.
 The handle is mink fur.
 The handle is painted silk with a miniature scene and mink fur.
-The handle is painted silk with a miniature scene, silk satin embroidered with the maker's gold monogram and sable fur.
+The handle is painted silk with a miniature scene, silk satin embroidered with the maker's gold monogram "__name_initials__" and sable fur.
 The handle is painted silk with a miniature scene.
 The handle is quilted gold silk and gold-thread brocade.
 The handle is quilted gold silk, a lining of feathers and chinchilla fur.
@@ -477,14 +477,14 @@ The handle is silk brocade with a hand-woven gold pattern and mink fur.
 The handle is silk brocade with a hand-woven gold pattern and painted silk with a miniature scene.
 The handle is silk brocade with a hand-woven gold pattern and silk velvet embroidered with pearls.
 The handle is silk brocade with a hand-woven gold pattern, painted silk with a miniature scene and silk velvet embroidered with pearls.
-The handle is silk brocade with a hand-woven gold pattern, silk satin embroidered with the maker's gold monogram and a lining of feathers.
+The handle is silk brocade with a hand-woven gold pattern, silk satin embroidered with the maker's gold monogram "__name_initials__" and a lining of feathers.
 The handle is silk brocade with a hand-woven gold pattern.
-The handle is silk satin embroidered with the maker's gold monogram and sable fur.
-The handle is silk satin embroidered with the maker's gold monogram and silk velvet embroidered with pearls.
-The handle is silk satin embroidered with the maker's gold monogram, a lining of feathers and sable fur.
-The handle is silk satin embroidered with the maker's gold monogram, sable fur and hand-embroidered silk with seed pearls.
-The handle is silk satin embroidered with the maker's gold monogram, sable fur and painted silk with a miniature scene.
-The handle is silk satin embroidered with the maker's gold monogram.
+The handle is silk satin embroidered with the maker's gold monogram "__name_initials__" and sable fur.
+The handle is silk satin embroidered with the maker's gold monogram "__name_initials__" and silk velvet embroidered with pearls.
+The handle is silk satin embroidered with the maker's gold monogram "__name_initials__", a lining of feathers and sable fur.
+The handle is silk satin embroidered with the maker's gold monogram "__name_initials__", sable fur and hand-embroidered silk with seed pearls.
+The handle is silk satin embroidered with the maker's gold monogram "__name_initials__", sable fur and painted silk with a miniature scene.
+The handle is silk satin embroidered with the maker's gold monogram "__name_initials__".
 The handle is silk velvet embroidered with pearls and chinchilla fur.
 The handle is silk velvet embroidered with pearls and mink fur.
 The handle is silk velvet embroidered with pearls, sable fur and gold-thread brocade.

@@ -1,29 +1,29 @@
-a timetable
-a prayer timetable
-a bus timetable
-a painted timetable
+a timetable reading "__text_departure__" __text_look_paper_notice__, the rest of the sheet plain white
+a prayer timetable headed "PRAYER TIMES" with "FAJR 05:12" in the top row in black print
+a bus timetable reading "__text_departure__" in black print
+a painted timetable reading "MATH 8 AM" and "READING 10 AM" in white painted letters
 a visual timetable
-a notice board carrying timetable
-a season-old timetable
-a season timetable
-a printed timetable
-a timetable of the five daily prayers
-a timetable pinned by the door with classes crossed out
-a bus timetable folded into a reference volume
-a notice board carrying a timetable and a hand-drawn calendar of the lunar observance days
-a timetable on the board with the observance days hand-drawn in ballpoint because the lunar dates have to be worked out each year
-a timetable in a frame
-a timetable with sailings crossed out in winter
-a timetable with the summer service crossed out
-a timetable with a correction stuck over it
-a timetable in a rack
-a two-season-old timetable in a pocket
-a printed timetable of prayer times pinned up
-a timetable pinned and renewed
-the painted timetable
+a notice board carrying timetable reading "__text_departure__" in black print
+a season-old timetable reading "__text_departure__" in faded black print
+a season timetable reading "__text_departure__" in black print
+a printed timetable reading "__text_departure__" in black print
+a timetable of the five daily prayers reading "FAJR DHUHR ASR MAGHRIB ISHA" in black print
+a timetable pinned by the door with classes crossed out, headed "CLASSES" over rows reading "SALSA 7 PM" and "TAP 8 PM" __text_look_paper_notice__, the rest of the sheet plain white
+a bus timetable headed "ROUTE __name_number_small__" in bold black print folded into a reference volume
+a notice board headed "OBSERVANCE DAYS" in black print carrying a timetable and a hand-drawn calendar of the lunar observance days
+a timetable headed "OBSERVANCE DAYS __name_year__" in black print on the board with the observance days hand-drawn in ballpoint because the lunar dates have to be worked out each year
+a timetable reading "__text_departure__" __text_look_paper_notice__ in a frame
+a timetable reading "__text_departure__" __text_look_paper_notice__ with sailings crossed out in winter
+a timetable reading "__text_departure__" __text_look_paper_notice__ with the summer service crossed out
+a timetable reading "__text_departure__" __text_look_paper_notice__ with a correction stuck over it
+a timetable reading "__text_departure__" in black print in a rack
+a two-season-old timetable headed "SUMMER TIMETABLE" in black print in a pocket
+a printed timetable headed "PRAYER TIMES" with "FAJR 05:12" in the top row in black print of prayer times pinned up
+a timetable headed "PRAYER TIMES" with "FAJR 05:12" in the top row in black print pinned and renewed
+the painted timetable reading "__text_departure__" in white paint
 a timetable on a sheet of paper with the DJs' names, such as "__name_first__", and their two-hour slots
-a timetable of DJs each bringing their own records and taking their own slot
+a timetable of DJs each bringing their own records and taking their own slot, reading "20:00 __name_first__" and "22:00 __name_first__" in black marker
 a visual timetable of laminated symbols on a strip of hook tape
 the visual timetable with one symbol permanently face down
-a bus timetable folded to one page
-a prayer timetable in a frame
+a bus timetable headed "ROUTE __name_number_small__" in bold black print folded to one page
+a prayer timetable headed "PRAYER TIMES" with "FAJR 05:12" in the top row in black print in a frame

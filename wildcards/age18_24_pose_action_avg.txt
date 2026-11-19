@@ -225,7 +225,7 @@ sitting on a chair, while looking away
 laughing with a friend, in mid-motion
 reaching up
 meditating
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 carrying a box
 stretching to the side
 leaping
@@ -308,7 +308,7 @@ sitting cross-legged, with a sense of ease
 standing at a window
 standing relaxed with arms crossed
 sitting on the edge of a bed, in a relaxed way
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 bending to tie a shoe
 turning away, with a sense of ease
 yawning, with a slight smile
@@ -436,7 +436,7 @@ cooking, while looking away
 sitting cross-legged on floor
 standing at a window, at rest
 standing tall in dramatic power pose
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on the edge of a bed, with careful balance
 carrying a bag, with a casual attitude
 painting at an easel, in a natural candid moment

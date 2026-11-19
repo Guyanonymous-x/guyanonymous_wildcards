@@ -40,7 +40,7 @@ cloisonné-enamelled and knit in intarsia
 cold-enamelled
 cold-enamelled and woven in jacquard
 cold-enamelled and woven in jacquard, then printed in glow-in-the-dark ink
-cold-enamelled, then woven label and heat-transferred
+cold-enamelled, then woven label reading "__name_brand_upper__" and heat-transferred
 collaged
 collaged and beaded
 collaged and beaded, then cloisonné-enamelled
@@ -54,7 +54,7 @@ crocheted on
 crocheted on and block-printed
 crocheted on, then iron-on transfer
 cut-out
-cut-out and woven label
+cut-out and woven label reading "__name_brand_upper__"
 debossed
 debossed and digitally printed
 debossed and digitally printed, then chip-carved and laser-cut
@@ -101,12 +101,12 @@ goldwork, then digitally printed
 hand-embroidered
 hand-embroidered and lacquered
 hand-embroidered and lacquered, then cloisonné-enamelled and knit in intarsia
-hand-lettered
-hand-lettered and 3D-printed relief
-hand-lettered and 3D-printed relief, then embroidered
-hand-lettered and 3D-printed relief, then tie-dyed
-hand-lettered, then felted on and bleach-painted
-hand-lettered, then resin-coated
+hand-lettered with the word "__name_word__" in brush capitals
+hand-lettered with the word "__name_word__" in brush capitals and 3D-printed relief
+hand-lettered with the word "__name_word__" in brush capitals and 3D-printed relief, then embroidered
+hand-lettered with the word "__name_word__" in brush capitals and 3D-printed relief, then tie-dyed
+hand-lettered with the word "__name_word__" in brush capitals, then felted on and bleach-painted
+hand-lettered with the word "__name_word__" in brush capitals, then resin-coated
 hand-painted
 hand-painted and printed on a transparent film
 hand-painted and printed on a transparent film, then marquetried and embroidered
@@ -140,7 +140,7 @@ knit in intarsia
 knit in intarsia and spray-painted
 knit in intarsia, then embroidered and quilted
 knit in intarsia, then hand-embroidered
-knit in intarsia, then woven label and heat-transferred
+knit in intarsia, then woven label reading "__name_brand_upper__" and heat-transferred
 lacquered
 lacquered and decoupaged
 laser-cut
@@ -162,7 +162,7 @@ patch sewn on and laser-engraved
 patch sewn on, then block-printed
 patch sewn on, then gilded and enameled
 patchwork-stitched
-patchwork-stitched and hand-lettered
+patchwork-stitched and hand-lettered with the word "__name_word__" in brush capitals
 pinned with enamel badges
 pinned with enamel badges and crocheted on
 printed in UV-reactive ink
@@ -254,7 +254,7 @@ woodblock-printed and tooled in leather
 woven in jacquard
 woven in jacquard and studded
 woven in jacquard, then enameled
-woven label
-woven label and heat-transferred
-woven label and heat-transferred, then couched and patch sewn on
-woven label, then sequined
+woven label reading "__name_brand_upper__"
+woven label reading "__name_brand_upper__" and heat-transferred
+woven label reading "__name_brand_upper__" and heat-transferred, then couched and patch sewn on
+woven label reading "__name_brand_upper__", then sequined

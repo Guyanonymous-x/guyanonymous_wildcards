@@ -138,7 +138,7 @@ hands behind the back
 reclining in a chair, in a relaxed way
 standing with hands in pockets, in a deliberate posed moment
 riding a bicycle
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting cross-legged
 talking on the phone, with careful balance
 walking forward with purposeful stride
@@ -235,7 +235,7 @@ typing on a laptop, with careful balance
 pointing, in a natural candid moment
 strolling casually
 cooking, with graceful posture
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 sitting on a low wall, while looking into the distance
 sitting on a curb, in mid-motion
 praying, while looking away
@@ -244,7 +244,7 @@ standing upright, in a relaxed way
 reclining in a chair
 standing with arms crossed
 twirling, while looking away
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 bending to pick something up, in a natural candid moment
 pulling a suitcase, with a sense of ease
 painting at an easel, with a slight smile

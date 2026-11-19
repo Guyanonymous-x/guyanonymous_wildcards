@@ -1,9 +1,9 @@
-a wall screen showing bay status in red
+a wall screen showing bay status "BAY __name_number_small__ WAITING PARTS" in red
 amber and green that everybody on the floor can see and that is the room's real supervisor
 a foam-cut tool drawer with one cut-out empty and a hand-written note in it naming who has the tool
 a job pack in a plastic wallet laid on the car's wing on top of a protective cover
 a paper floor mat and a steering wheel cover fitted to every car as it comes in and removed as it goes out, which is a ritual with a commercial purpose
-a parts trolley with picked bags labeled by bay number
+a parts trolley with picked bags labeled "BAY __name_number_small__" in black marker by bay number
 a bin per bay that is emptied daily and is full of identical packaging
 a laptop stand with the wheel lock broken on one
 a bay number sign reading "__loc_text_notice__" with a previous numbering scheme's holes beside it

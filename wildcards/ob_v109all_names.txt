@@ -37,8 +37,8 @@ balloon
 ballpoint
 bandsaw
 bangle
-banknote
-banner
+banknote printed "20" in large ornate numerals
+banner reading "__text_banner_festival__" __text_look_banner__
 banquette
 barbecue
 barbell
@@ -70,7 +70,7 @@ belt
 bench
 besom
 bib
-bible
+bible with "__text_holy_book_christian__" in gold capitals on the cover
 bicycle
 bidet
 bike
@@ -159,7 +159,7 @@ cassette
 cello
 censer
 centrifuge
-certificate
+certificate headed "__text_certificate__" in gold capitals, the rest of the sheet plain cream
 chain
 chainsaw
 chair
@@ -454,7 +454,7 @@ lavatory
 lawnmower
 leaderboard
 leash
-ledger
+ledger with "ACCOUNTS __name_year__" in neat black ink handwriting on its cover
 legging
 letter
 letterbox
@@ -478,7 +478,7 @@ lure
 mace
 machete
 machine
-magazine
+magazine with "__name_magazine__" across the cover in bold capitals
 magnet
 magnifier
 mallet
@@ -517,14 +517,14 @@ muddler
 multimeter
 muslin
 nail
-nameplate
+nameplate reading "__name_first__ __name_surname__" __text_look_brass__
 necklace
 needle
 net
 nightlight
 nightstand
 notebook
-notice
+notice reading "__text_bulletin__" __text_look_paper_notice__, the rest of the sheet plain white
 numnah
 oar
 offcut
@@ -544,15 +544,15 @@ pager
 pail
 palette
 palletizer
-pamphlet
+pamphlet headed "__text_health_poster__" __text_look_print__, the rest of the cover plain
 pan
 pannier
 paper_sheet
-paperback
+paperback titled "__name_book_title_any__" in bold capitals on the cover, the rest of the cover plain
 paperweight
 parasol
 parka
-passport
+passport with "PASSPORT" in gold capitals on the cover
 peg
 pegboard
 pencil
@@ -576,7 +576,7 @@ pipe
 pipette
 pitcher
 pitchfork
-placard
+placard reading "__text_placard__" __text_look_marker__
 placemat
 plank
 planner
@@ -594,8 +594,8 @@ pointer
 poker
 portfolio
 post
-postcard
-poster
+postcard reading "GREETINGS FROM __name_town__" in bright capitals, the rest of the card a photo
+poster reading "__text_poster_event__" __text_look_print__
 pot
 pouch
 powerchair
@@ -680,7 +680,7 @@ scissor
 sconce
 scoop
 scooter
-scoreboard
+scoreboard showing "__text_score__" __text_look_dotmatrix__
 scraper
 screen
 screw
@@ -711,7 +711,7 @@ shuttlecock
 sideboard
 sieve
 sifter
-sign
+sign reading "__text_sign_english__" __text_look_paint__
 sink
 siphon
 siren
@@ -798,7 +798,7 @@ tabard
 table
 tablecloth
 tablet
-tabloid
+tabloid headlined "__text_headline__" __text_look_headline__
 tachograph
 tachometer
 tag
@@ -819,7 +819,7 @@ teaspoon
 telegraph
 telephone
 teleprinter
-teleprompter
+teleprompter scrolling "GOOD EVENING AND WELCOME" in large white letters on black
 telescope
 television
 terminal
@@ -833,7 +833,7 @@ thimble
 tie
 till
 tiller
-timetable
+timetable reading "__text_departure__" in black print
 timpani
 tin
 toaster

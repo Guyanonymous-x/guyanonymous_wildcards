@@ -4,5 +4,5 @@ foam-cut tool trolleys
 parts trolleys
 protective covers
 per-bay bins
-a bay status screen
+a bay status screen reading "BAY __name_number_small__ IN PROGRESS" __text_look_screen__
 air hose reels

@@ -3,6 +3,6 @@ a turntable and amplifier behind the counter playing continuously
 dividers with handwritten genre labels reading "__loc_text_genre__"
 a wall of sleeves displayed face-out
 a listening post
-posters covering any wall not used for stock
+posters reading "__text_poster_room__" __text_look_print__ covering any wall not used for stock
 a basement or back room for the cheaper second-hand stock
-a flyer board by the door
+a flyer board with flyers reading "__text_flyer__" in bold print by the door

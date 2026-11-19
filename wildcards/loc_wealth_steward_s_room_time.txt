@@ -1,10 +1,10 @@
 Eight, the upper servants' breakfast, which is taken here and not in the hall and is cooked separately
 Nine, the room empty and used as an office by whoever needs it
 One o'clock, the upper servants at the head of the table, rising to withdraw for the pudding and the cheese
-Two, port or beer in here with the newspaper
+Two, port or beer in here with the newspaper with the masthead "__name_newspaper__" __text_look_headline__
 The afternoon, the room used for the housekeeper's and the butler's accounts
 Five, the upper servants' tea
 Eight, their supper, after the family's dinner has gone up
-Ten, two armchairs by the fire, a lamp, a newspaper and two or three people who are not permitted to be seen upstairs and are not willing to sit downstairs
+Ten, two armchairs by the fire, a lamp, a newspaper with the masthead "__name_newspaper__" __text_look_headline__ and two or three people who are not permitted to be seen upstairs and are not willing to sit downstairs
 Eleven, the fire guarded and the lamp out; and a Sunday afternoon, when this is the most comfortable occupied room in the building
 __loc_time_of_day__

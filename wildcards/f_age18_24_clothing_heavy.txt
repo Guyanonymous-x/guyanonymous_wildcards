@@ -1,7 +1,7 @@
 denim overalls over a striped tee and low heels
 an off-white cotton-knit oversized sweater with black leggings and ballet flats
 a cream-white t-shirt dress and platform sneakers
-a woman embodies a 90s hip-hop aesthetic. She wears oversized denim overalls with one strap down, a colorful bandana as a headband, and chunky sneakers. Her hair is styled in bantu knots, and she accessorizes with bamboo earrings and a nameplate necklace
+a woman embodies a 90s hip-hop aesthetic. She wears oversized denim overalls with one strap down, a colorful bandana as a headband, and chunky sneakers. Her hair is styled in bantu knots, and she accessorizes with bamboo earrings and a nameplate necklace reading "__name_first__" in gold script
 a relaxed-fit cream-white cotton crew-neck t-shirt with faded black cargo pants and running shoes
 __clothing_outfit_color__ __clothing_outfit_material__ armor, detailed metalwork, heroic fantasy gear
 a light grey crepe blouse with marled grey cargo pants and white sneakers
@@ -38,7 +38,7 @@ a fitted mid grey textured fleece hoodie with royal blue joggers and canvas snea
 a fuchsia shift dress and flat sandals
 a black midi dress with a light-wash denim jacket
 a loose faded white jersey crop top with dark navy leggings under a mid-wash denim jacket and canvas sneakers
-a varsity cheer uniform with a lettered tank, cheer briefs, and classic pom-poms with a glimmer finish
+a varsity cheer uniform with a lettered tank reading "__name_team__" in white varsity letters, cheer briefs, and classic pom-poms with a glimmer finish
 a comfortable velour tracksuit and grey sneakers
 a cropped white chunky-knit sweater with royal blue chinos under a black leather jacket and white sneakers
 a loose beige soft cotton crew-neck t-shirt with faded blue sweatpants and slip-on shoes
@@ -106,7 +106,7 @@ a cropped jet black ribbed cotton long-sleeve tee with black bermuda denim short
 a violet textured oxford cotton button-up shirt with brick red joggers and canvas sneakers
 a relaxed-fit butter yellow cotton v-neck t-shirt with fuchsia chinos under a faded black puffer jacket and canvas sneakers
 an oversized cobalt blue fleece sweatshirt with washed black joggers and white sneakers
-Rocker, Leather pants, band tee, moto boots, and studded accessories.
+Rocker, Leather pants, band tee printed "__name_band__", moto boots, and studded accessories.
 a relaxed-fit heather grey gingham ribbed cotton tank top with ink blue midi skirt and canvas sneakers
 a fitted bottle green wool sweater with distressed light-wash bootcut jeans under a golden yellow bomber jacket and flat sandals
 a marled grey cotton tank top with faded black wide-leg linen pants
@@ -440,7 +440,7 @@ a cropped brick red jersey cotton crew-neck t-shirt with light-wash bootcut jean
 a jet black jersey cotton crew-neck t-shirt with white high-waisted denim shorts under a stone rain jacket and running shoes
 a tomato red striped t-shirt dress with a cream wool coat and low heels
 __clothing_outfit_color__ yoga pants, __clothing_outfit_color__ tank top, active and flexible gym wear
-a young woman exudes confidence in a classic hip-hop outfit. She wears baggy jeans with a graffiti-print crop top, a chunky gold chain necklace, and fresh white sneakers. Her hair is styled in long braids, and she accessorizes with hoop earrings and a snapback cap
+a young woman exudes confidence in a classic hip-hop outfit. She wears baggy jeans with a graffiti-print crop top reading "__text_graffiti_word__" __text_look_graffiti__, a chunky gold chain necklace, and fresh white sneakers. Her hair is styled in long braids, and she accessorizes with hoop earrings and a snapback cap
 a faded red sundress with an olive green trench coat and knee-high boots
 a tailored two-piece trouser suit with a crisp blouse
 sleek black modern ao dai with high side slits

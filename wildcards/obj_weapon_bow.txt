@@ -14,16 +14,16 @@ Ancient and weathered longbow from medieval England, a tall self bow of yew; mad
 Ancient and weathered onager from Rome, a single-arm stone thrower; made of laminated wood and horn, with a gold-inlaid hilt and an etched pattern along the blade.
 Ancient and weathered pellet bow from Asia, a bow with a cradle for stones; made of ironwood, with a ray-skin grip and engraved inscriptions.
 Ancient and weathered recurve bow from Asia, a curved bow made of horn, wood and sinew; made of yew wood, with a tassel at the pommel and engraved inscriptions.
-Ancient and weathered self bow from world, a bow made from a single piece of wood; made of horn and sinew laminate, with a carved wooden handle and engraved inscriptions.
+Ancient and weathered self bow from world, a bow made from a single piece of wood; made of horn and sinew laminate, with a carved wooden handle and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Ancient and weathered self bow from world, a bow made from a single piece of wood; made of ironwood, with a silver-wire grip and a patterned surface.
 Ancient and weathered sinew-backed bow from North America, which is a short bow backed with animal sinew; made of ironwood, with a leather-wrapped grip and engraved inscriptions.
-Ancient and weathered throwing disc from world, a flat circular blade; made of yew wood, with feather and bead decorations and engraved inscriptions.
+Ancient and weathered throwing disc from world, a flat circular blade; made of yew wood, with feather and bead decorations and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Ancient and weathered trebuchet from medieval Europe, which is a siege engine with a swinging arm; made of ironwood, with a tooled leather sheath and carved spirals.
 Ancient and weathered yumi arrow from Japan, a long arrow with a bamboo shaft; made of horn and sinew laminate, with a silver-wire grip and a clean ceremonial finish.
 Ancient and weathered yumi from Japan, a very tall asymmetric bow; made of horn and sinew laminate, with a tooled leather sheath and an etched pattern along the blade.
 Battle-worn Bhutanese bamboo bow from Himalaya, a long bamboo bow; made of ironwood, with a brass guard and a patterned surface.
 Battle-worn Ethiopian bow from Africa, a simple wooden bow; made of laminated wood and horn, with a carved animal-head pommel and engraved inscriptions.
-Battle-worn arbalest from Europe, a large steel-limbed crossbow; made of ash wood, with a lacquered scabbard and engraved inscriptions.
+Battle-worn arbalest from Europe, a large steel-limbed crossbow; made of ash wood, with a lacquered scabbard and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Battle-worn bolas from South America, weighted cords for tangling; made of ash wood, with a tooled leather sheath and a mirror polish.
 Battle-worn bolas from South America, weighted cords for tangling; made of horn and sinew laminate, with a ray-skin grip and a patterned surface.
 Battle-worn fukiya from Japan, a short blowgun; made of horn and sinew laminate, with painted geometric designs and nicks and scratches from use.
@@ -32,7 +32,7 @@ Battle-worn pellet bow from Asia, a bow with a cradle for stones; made of yew wo
 Battle-worn recurve bow from Asia, a curved bow made of horn, wood and sinew; made of ash wood, with a silver-wire grip and an etched pattern along the blade.
 Battle-worn recurve bow from Asia, a curved bow made of horn, wood and sinew; made of yew wood, with a tooled leather sheath and a clean ceremonial finish.
 Battle-worn repeating crossbow from China, a crossbow with a magazine on top; made of yew wood, with a lacquered scabbard and engraved inscriptions.
-Battle-worn self bow from world, a bow made from a single piece of wood; made of carved hardwood, with a rope-wrapped haft and engraved inscriptions.
+Battle-worn self bow from world, a bow made from a single piece of wood; made of carved hardwood, with a rope-wrapped haft and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Battle-worn shuriken from Japan, a flat star-shaped blade; made of ash wood, with a carved animal-head pommel and carved spirals.
 Battle-worn sinew-backed bow from North America, a short bow backed with animal sinew; made of bamboo, with painted geometric designs and engraved inscriptions.
 Battle-worn sling from ancient world, a pouch on cords for hurling stones; made of ironwood, with feather and bead decorations and nicks and scratches from use.
@@ -54,7 +54,7 @@ Ceremonial recurve bow from Asia, a curved bow made of horn, wood and sinew; mad
 Ceremonial repeating crossbow from China, a crossbow with a magazine on top; made of ash wood, with a bone-inlaid handle and a dark patina.
 Ceremonial self bow from world, a bow made from a single piece of wood; made of laminated wood and horn, with a tassel at the pommel and a mirror polish.
 Ceremonial sinew-backed bow from North America, a short bow backed with animal sinew; made of laminated wood and horn, with a tassel at the pommel and an etched pattern along the blade.
-Ceremonial slingshot from world, a forked frame with an elastic band; made of ironwood, with a gold-inlaid hilt and engraved inscriptions.
+Ceremonial slingshot from world, a forked frame with an elastic band; made of ironwood, with a gold-inlaid hilt and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Ceremonial yumi from Japan, a very tall asymmetric bow; made of laminated wood and horn, with a leather-wrapped grip and an etched pattern along the blade.
 Lovingly restored Bhutanese bamboo bow from Himalaya, which is a long bamboo bow; made of yew wood, with a lacquered scabbard and an etched pattern along the blade.
 Lovingly restored Ethiopian bow from Africa, a simple wooden bow; made of bamboo, with a silver-wire grip and a clean ceremonial finish.
@@ -93,10 +93,10 @@ Museum-grade sinew-backed bow from North America, a short bow backed with animal
 Museum-grade sling from ancient world, a pouch on cords for hurling stones; made of bamboo, with a carved wooden handle and a dark patina.
 Museum-grade yumi from Japan, a very tall asymmetric bow; made of bamboo, with a carved animal-head pommel and nicks and scratches from use.
 New Mongol quiver from steppe Asia, a leather-covered case with painted arrows; made of laminated wood and horn, with a cord-wrapped handle and an etched pattern along the blade.
-New arbalest from Europe, a large steel-limbed crossbow; made of yew wood, with a brass guard and engraved inscriptions.
+New arbalest from Europe, a large steel-limbed crossbow; made of yew wood, with a brass guard and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 New atlatl from Mesoamerica, a spear-thrower with a hooked end; made of ash wood, with a tooled leather sheath and a patterned surface.
 New atlatl from Mesoamerica, a spear-thrower with a hooked end; made of bamboo, with a rope-wrapped haft and a battle-worn finish.
-New ballista from Rome, a giant crossbow-like bolt thrower; made of laminated wood and horn, with a carved animal-head pommel and engraved inscriptions.
+New ballista from Rome, a giant crossbow-like bolt thrower; made of laminated wood and horn, with a carved animal-head pommel and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 New blowgun from Amazon and Southeast Asia, a long hollow tube for firing darts; made of laminated wood and horn, with a carved wooden handle and painted designs.
 New boomerang from Australia, a curved throwing stick; made of yew wood, with a leather-wrapped grip and a patterned surface.
 New chakram from India, a flat ring with a sharp edge; made of horn and sinew laminate, with a tooled leather sheath and nicks and scratches from use.
@@ -160,19 +160,19 @@ Polished repeating crossbow from China, a crossbow with a magazine on top; made 
 Polished self bow from world, a bow made from a single piece of wood; made of ash wood, with a carved animal-head pommel and a clean ceremonial finish.
 Polished shuriken from Japan, a flat star-shaped blade; made of horn and sinew laminate, with a tassel at the pommel and a patterned surface.
 Polished sling from ancient world, a pouch on cords for hurling stones; made of laminated wood and horn, with a ray-skin grip and a patterned surface.
-Polished slingshot from world, a forked frame with an elastic band; made of bamboo, with an engraved crossguard and engraved inscriptions.
+Polished slingshot from world, a forked frame with an elastic band; made of bamboo, with an engraved crossguard and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Polished trebuchet from medieval Europe, a siege engine with a swinging arm; made of horn and sinew laminate, with a bone-inlaid handle and painted designs.
 Rusted arbalest from Europe, a large steel-limbed crossbow; made of carved hardwood, with a ray-skin grip and a clean ceremonial finish.
 Rusted atlatl from Mesoamerica, a spear-thrower with a hooked end; made of horn and sinew laminate, with a silver-wire grip and a battle-worn finish.
 Rusted ballista from Rome, a giant crossbow-like bolt thrower; made of bamboo, with feather and bead decorations and a battle-worn finish.
 Rusted boomerang from Australia, a curved throwing stick; made of horn and sinew laminate, with a rope-wrapped haft and an etched pattern along the blade.
-Rusted catapult from ancient world, a throwing engine of tension; made of laminated wood and horn, with a jewel-set pommel and engraved inscriptions.
+Rusted catapult from ancient world, a throwing engine of tension; made of laminated wood and horn, with a jewel-set pommel and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Rusted catapult from ancient world, a throwing engine of tension; made of laminated wood and horn, with feather and bead decorations and a mirror polish.
 Rusted chakram from India, a flat ring with a sharp edge; made of ironwood, with a tooled leather sheath and a dark patina.
 Rusted crossbow from medieval Europe, a stock with a horizontal bow and a trigger; made of ash wood, with a brass guard and carved spirals.
 Rusted flatbow from North America, a broad flat wooden bow; made of yew wood, with a carved wooden handle and a dark patina.
 Rusted horse bow from Mongolia, a short composite bow for riding; made of yew wood, with a rope-wrapped haft and engraved inscriptions.
-Rusted longbow from medieval England, a tall self bow of yew; made of horn and sinew laminate, with a rope-wrapped haft and engraved inscriptions.
+Rusted longbow from medieval England, a tall self bow of yew; made of horn and sinew laminate, with a rope-wrapped haft and engraved inscriptions reading "__name_initials__" __text_look_engraved__.
 Rusted recurve bow from Asia, a curved bow made of horn, wood and sinew; made of ironwood, with a brass guard and engraved inscriptions.
 Rusted shuriken from Japan, a flat star-shaped blade; made of yew wood, with a tassel at the pommel and carved spirals.
 Rusted slingshot from world, a forked frame with an elastic band; made of ash wood, with a bone-inlaid handle and a dark patina.

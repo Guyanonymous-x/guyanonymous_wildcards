@@ -87,14 +87,14 @@ a cage of hire attachments by size
 a condemned items cage with a padlock because a condemned item must not be able to wander back into service
 a condemned items cage with a lock
 a lost property cage with the week's contents in it, a single glove
-a parts cage with a serviceable tag on each item
+a parts cage with a serviceable tag reading "SERVICEABLE" in black print on a green tag on each item
 a parts cage where every item carries a serviceable tag and an item without a tag is scrap no matter how good it looks
 a parts cage where an untagged item has been quarantined
 a stores hatch into a spares cage
 a small stores cage with a hatch and a critical spares list that represents an enormous amount of tied-up capital
 a locked cage of dead drives awaiting physical destruction
 the locked cage of drives awaiting destruction
-a destruction cage with a certificate file
+a destruction cage with a certificate file headed "DATA DESTRUCTION CERTIFICATE" in black print
 a locked cage or a staffed table so they cannot be taken
 a locked cage or a staffed table
 a mesh cage with a padlock enclosing a single bunk

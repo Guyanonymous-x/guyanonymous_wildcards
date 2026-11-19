@@ -1,12 +1,12 @@
 a diary
-a viewing diary
-a desk diary
-a site diary
-a nurses diary
-a diary with entries that stop
-a viewing diary with appointments penciled and rubbed out
-the nurses' diary
-a diary of milestones kept by nurses
-a diary with a week of appointments and three blanks held deliberately
-a diary with three deliberate blanks in it
-a diary with blanks
+a viewing diary with "VIEWINGS __name_year__" __text_look_print__ on the cover
+a desk diary with "__name_year__" in gold print on its cover
+a site diary with "SITE DIARY" in black marker on its cover
+a nurses diary, "__name_year__" stamped in small gold numbers on the cover, the rest of the cover plain
+a diary with entries that stop, the last reading "__text_hidden_message__" in blue ballpoint handwriting
+a viewing diary with appointments "10:30 __name_street__" penciled and rubbed out
+the nurses' diary headed "DEAR __name_first__" in neat blue ink handwriting
+a diary of milestones with an entry reading "First bath today" in looping blue cursive kept by nurses
+a diary with a week of appointments reading "__name_first__ 10:30" in blue ballpoint handwriting and three blanks held deliberately
+a diary with three deliberate blanks in it, its entries reading "__name_first__ 10:30" in blue ballpoint handwriting
+a diary with blanks, its entries reading "__name_first__ 10:30" in blue ballpoint handwriting

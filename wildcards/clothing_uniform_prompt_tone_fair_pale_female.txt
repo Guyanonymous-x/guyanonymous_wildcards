@@ -36,7 +36,7 @@ A high-collared cape over a ruffled shirt, trousers, boots, the full outfit of a
 A high-visibility jacket with white gloves, dark trousers, a reflective cap, boots, the full outfit of a traffic officer in a feminine cut, with fair and pale skin
 A high-visibility vest and a scanner on the wrist, work trousers, safety shoes, the full outfit of a warehouse picker in a feminine cut, with fair and pale skin
 A hooded leather jerkin, leather trousers, a hood, soft boots, the full outfit of a rogue in a feminine cut, with fair and pale skin
-A hot dog costume with a sandwich board, shoes, the full outfit of a walking sandwich board seller in a feminine cut, with fair and pale skin
+A hot dog costume with a sandwich board reading "HOT DOGS __name_price__", shoes, the full outfit of a walking sandwich board seller in a feminine cut, with fair and pale skin
 A lace dress with cracked porcelain makeup, ringlets, the full outfit of a possessed doll in a feminine cut, with fair and pale skin
 A leafy robe with vines and antlers on the shoulders, an antler crown, bare feet, the full outfit of a forest druid in a feminine cut, with fair and pale skin
 A leather apron over a linen shirt, work trousers, a cap, boots, the full outfit of a stonemason in a feminine cut, with fair and pale skin
@@ -524,7 +524,7 @@ a tennis player in a feminine cut (Wimbledon), wearing a white polo shirt, white
 a three-piece suit wearer in a feminine cut (office), wearing a pinstripe jacket and waistcoat with a watch chain, a shirt and a tie, suit trousers and brogues, in a feminine cut with shaped seams and a flattering line, with fair and pale skin
 a thunder god in a feminine cut, dressed in a hammer belt and a cape, with fair and pale skin
 a tin man robot in a feminine cut (theatre), wearing a metal funnel hat and silver chest piece, silver trousers, a funnel hat and silver boots, tailored in a feminine cut with a nipped-in waist, with fair and pale skin
-a tour guide in a feminine cut (city), in a branded polo and a flag and a sun hat, with fair and pale skin
+a tour guide in a feminine cut (city), in a branded polo with "__name_brand_upper__" on the chest and a flag and a sun hat, with fair and pale skin
 a town crier in a feminine cut, dressed in a red and gold coat with breeches, with fair and pale skin
 a town mascot cow in a feminine cut (farm), wearing a black and white cow suit, a cow head and hooves, tailored in a feminine cut with a nipped-in waist, with fair and pale skin
 a train conductor in a feminine cut (steam era), wearing a double-breasted jacket with brass buttons and a watch chain, trousers, a peaked cap and black shoes, in a feminine cut with shaped seams and a flattering line, with fair and pale skin

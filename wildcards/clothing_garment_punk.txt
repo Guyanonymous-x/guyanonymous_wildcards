@@ -12,9 +12,9 @@ studded leather vest with hand-painted slogans reading "__text_punk_slogan__"
 PVC plaid kilt and mesh top
 leather jacket with spikes and painted slogans reading "__text_punk_slogan__" with patches stitched crooked
 1980s mohair sweater with holes with chains and padlocks
-ripped band t-shirt and tartan bondage trousers
+ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 anarcho razor-blade-free pin-and-patch denim jacket
-hardcore torn cotton ripped band t-shirt and tartan bondage trousers
+hardcore torn cotton ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 ripped fishnet bodystocking under a torn dress with deliberate rips
 torn cotton Mohawk-and-spike studded collar set
 chain-hung leather trousers with zipper details
@@ -23,7 +23,7 @@ anarcho mohair sweater with holes
 ripped denim painted work boots outfit
 hardcore hand-painted battle vest with patches stitched crooked
 hardcore zippered bondage pants with straps
-anarcho mohair ripped band t-shirt and tartan bondage trousers
+anarcho mohair ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 anarcho mesh chain-hung leather trousers
 tartan safety-pin-held shirt with a ripped sleeve
 black leather painted work boots outfit
@@ -32,7 +32,7 @@ oi ripped fishnet bodystocking under a torn dress
 1970s torn tulle skirt and leather bustier with a torn hem
 black leather chain-hung leather trousers
 1990s mohair painted work boots outfit
-black leather ripped band t-shirt and tartan bondage trousers
+black leather ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 mohair hand-painted battle vest with a torn hem
 anarcho torn tulle skirt and leather bustier
 PVC studded leather vest
@@ -60,14 +60,14 @@ plaid wool studded leather vest with hand-painted slogans reading "__text_punk_s
 oi painted work boots outfit
 punk rock black leather safety-pin-held shirt
 PVC chain-hung leather trousers with safety pins
-ripped band t-shirt and tartan bondage trousers with patches stitched crooked
+ripped band t-shirt printed "__name_band__" and tartan bondage trousers with patches stitched crooked
 hardcore plaid wool ripped fishnet bodystocking under a torn dress
 Mohawk-and-spike studded collar set
 black leather torn tulle skirt and leather bustier
 hardcore black leather zippered bondage pants with straps
 anarcho mohair sweater with holes with chains and padlocks
 1970s mesh Mohawk-and-spike studded collar set
-1980s ripped band t-shirt and tartan bondage trousers with bondage straps
+1980s ripped band t-shirt printed "__name_band__" and tartan bondage trousers with bondage straps
 oi PVC plaid kilt and mesh top
 punk rock tartan hand-painted battle vest
 leather jacket with spikes and painted slogans reading "__text_punk_slogan__" with a ripped sleeve
@@ -88,7 +88,7 @@ mesh zippered bondage pants with straps with spikes and studs
 1980s ripped fishnet bodystocking under a torn dress with zipper details
 Mohawk-and-spike studded collar set with a ripped sleeve
 hardcore ripped denim studded leather vest
-hardcore ripped band t-shirt and tartan bondage trousers
+hardcore ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 punk rock Mohawk-and-spike studded collar set with zipper details
 oi razor-blade-free pin-and-patch denim jacket with spikes and studs
 oi studded leather vest with spikes and studs
@@ -98,7 +98,7 @@ punk rock mesh ripped fishnet bodystocking under a torn dress
 1970s hand-painted battle vest
 leather jacket with spikes and painted slogans reading "__text_punk_slogan__" with hand-painted slogans reading "__text_punk_slogan__"
 punk rock leather jacket with spikes and painted slogans reading "__text_punk_slogan__" with hand-painted slogans reading "__text_punk_slogan__"
-ripped denim ripped band t-shirt and tartan bondage trousers with hand-painted slogans reading "__text_punk_slogan__"
+ripped denim ripped band t-shirt printed "__name_band__" and tartan bondage trousers with hand-painted slogans reading "__text_punk_slogan__"
 mesh plaid kilt and mesh top
 1980s studded leather vest with patches stitched crooked
 mesh safety-pin-held shirt with a ripped sleeve
@@ -129,14 +129,14 @@ safety-pin-held shirt with safety pins
 1990s mohair sweater with holes
 ripped denim razor-blade-free pin-and-patch denim jacket
 safety-pin-held shirt with zipper details
-mohair ripped band t-shirt and tartan bondage trousers
+mohair ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 1980s ripped fishnet bodystocking under a torn dress with a ripped sleeve
 1970s Mohawk-and-spike studded collar set
 leather jacket with spikes and painted slogans reading "__text_punk_slogan__" with safety pins
 1970s ripped fishnet bodystocking under a torn dress with patches stitched crooked
 PVC plaid kilt and mesh top with spikes and studs
 anarcho studded leather vest
-punk rock ripped band t-shirt and tartan bondage trousers
+punk rock ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 ripped fishnet bodystocking under a torn dress with a torn hem
 plaid wool studded leather vest with a torn hem
 torn cotton studded leather vest with deliberate rips
@@ -148,7 +148,7 @@ oi chain-hung leather trousers
 Mohawk-and-spike studded collar set with chains and padlocks
 hardcore painted work boots outfit with deliberate rips
 black leather Mohawk-and-spike studded collar set with a ripped sleeve
-ripped band t-shirt and tartan bondage trousers with spikes and studs
+ripped band t-shirt printed "__name_band__" and tartan bondage trousers with spikes and studs
 punk rock mohair sweater with holes with bondage straps
 1970s safety-pin-held shirt
 tartan chain-hung leather trousers with spikes and studs
@@ -175,7 +175,7 @@ leather jacket with spikes and painted slogans reading "__text_punk_slogan__"
 hardcore Mohawk-and-spike studded collar set
 torn cotton studded leather vest
 oi razor-blade-free pin-and-patch denim jacket
-1980s ripped band t-shirt and tartan bondage trousers
+1980s ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 ripped denim torn tulle skirt and leather bustier with zipper details
 mohair torn tulle skirt and leather bustier
 safety-pin-held shirt
@@ -184,12 +184,12 @@ PVC razor-blade-free pin-and-patch denim jacket
 PVC painted work boots outfit with spikes and studs
 tartan Mohawk-and-spike studded collar set with bondage straps
 1990s black leather mohair sweater with holes
-ripped band t-shirt and tartan bondage trousers with safety pins
+ripped band t-shirt printed "__name_band__" and tartan bondage trousers with safety pins
 ripped denim safety-pin-held shirt
 oi torn tulle skirt and leather bustier
 hardcore painted work boots outfit with zipper details
 PVC chain-hung leather trousers
-1970s ripped band t-shirt and tartan bondage trousers
+1970s ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 punk rock ripped fishnet bodystocking under a torn dress with a ripped sleeve
 PVC razor-blade-free pin-and-patch denim jacket with bondage straps
 painted work boots outfit with zipper details
@@ -200,7 +200,7 @@ plaid wool safety-pin-held shirt with a torn hem
 PVC chain-hung leather trousers with a torn hem
 1980s razor-blade-free pin-and-patch denim jacket
 1980s plaid kilt and mesh top with a ripped sleeve
-1990s ripped band t-shirt and tartan bondage trousers
+1990s ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 punk rock torn tulle skirt and leather bustier
 mesh studded leather vest with hand-painted slogans reading "__text_punk_slogan__"
 studded leather vest with bondage straps
@@ -245,7 +245,7 @@ anarcho black leather razor-blade-free pin-and-patch denim jacket
 hand-painted battle vest with spikes and studs
 punk rock studded leather vest
 hand-painted battle vest with bondage straps
-punk rock mesh ripped band t-shirt and tartan bondage trousers
+punk rock mesh ripped band t-shirt printed "__name_band__" and tartan bondage trousers
 plaid kilt and mesh top with safety pins
 Mohawk-and-spike studded collar set with zipper details
 ripped fishnet bodystocking under a torn dress with bondage straps

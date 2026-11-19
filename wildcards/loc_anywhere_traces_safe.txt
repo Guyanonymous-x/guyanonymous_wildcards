@@ -1,6 +1,6 @@
 a bald velcro patch
 a bench plaque
-a bench with a memorial plaque
+a bench with a memorial plaque reading "IN MEMORY OF __name_first_world__ __name_surname_world__" __text_look_brass__
 a bench worn
 a bench worn at one end
 a biscuit tin
@@ -41,7 +41,7 @@ a doorstep
 a flask
 a flask and a mug
 a flattened cushion in the forward-facing window seats
-a folded newspaper
+a folded newspaper with the masthead "__name_newspaper__" in bold black print showing
 a glove dropped
 a half-finished drink
 a hand-polish on the door grab
@@ -52,8 +52,8 @@ a hand-polish on the poles
 a handed-down seat cushion
 a handwheel polished
 a headset with the name "__name_first__" on it
-a label corrected
-a leaflet taken
+a label corrected to read "__text_box_label__" __text_look_marker__
+a leaflet taken, headed "__text_flyer__" __text_look_print__, the rest of the leaflet plain
 a lipstick mark
 a logbook
 a logbook in many hands
@@ -70,8 +70,8 @@ a mug ring on the console
 a mug ring on the desk
 a mug with the name "__name_first__" on it
 a napkin dropped
-a note taped to a bezel
-a noticeboard layered
+a note taped to a bezel, reading "__text_note__" __text_look_handwriting__, the rest of the note plain
+a noticeboard layered with sheets reading "__text_bulletin__" __text_look_paper_notice__, the rest of each sheet plain white
 a path worn to it
 a pen on a string
 a pencil on a string
@@ -95,8 +95,8 @@ a salt film inside the glass
 a scuff at trolley height
 a seat with the bolster gone on the exit side
 a seat worn
-a service sticker with dates
-a shelf label corrected
+a service sticker with dates reading "NEXT SERVICE __name_year__" in black print on a white sticker
+a shelf label corrected to read "__name_price__" __text_look_marker__
 a shelf worn
 a shoe scuff on the seat lip
 a socket weighting a manual
@@ -133,12 +133,12 @@ cigarette ends in a pot
 cushions crushed
 fingerprints on the glass
 footprints filling with water
-graffiti
+graffiti reading "__text_graffiti_word__" __text_look_graffiti__
 grease at every sheave
 gum
 handprints on the glass
-labels in faded pencil
-labels in handwriting
+labels reading "__text_box_label__" in faded pencil
+labels reading "__text_box_label__" in handwriting
 pins in the carpet
 plants on the window ledge
 polish on the handrail

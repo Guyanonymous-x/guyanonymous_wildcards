@@ -194,7 +194,7 @@ praying, while looking away
 standing relaxed with arms crossed
 perching on a table edge, in mid-motion
 leaning on a railing, while looking away
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 cowering low defensive pose
 sleeping, with energy
 drinking from a cup, while looking into the distance
@@ -384,7 +384,7 @@ leaning on a counter
 sitting on the edge of a bed, with careful balance
 standing at a doorway, with careful balance
 gardening
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 squatting
 sitting on a chair, in mid-motion
 standing on a balcony
@@ -421,7 +421,7 @@ tying hair back, in mid-motion
 sitting on a low wall, with a casual attitude
 strolling casually, with a casual attitude
 leaning on a fence, in a relaxed way
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sitting on steps
 standing with hands in pockets
 talking on the phone, in a natural candid moment

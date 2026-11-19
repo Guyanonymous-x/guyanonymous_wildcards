@@ -207,7 +207,7 @@ sitting on a bench
 riding a bicycle, in a natural candid moment
 reclining in a chair, with a sense of ease
 bending to pick something up, in a natural candid moment
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 striding briskly
 huddled tight cold posture
 talking on the phone, with careful balance
@@ -392,7 +392,7 @@ stretching after waking, with a sense of ease
 jogging, with focus
 reclining on a sofa, in a deliberate posed moment
 resting a chin on a fist
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 talking on the phone, in a deliberate posed moment
 mid-jump airborne action pose
 brushing hair aside, while glancing at the camera
@@ -401,7 +401,7 @@ sitting on a log, in mid-motion
 standing with feet apart
 turning away, with a sense of ease
 sitting at a table
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 playing guitar, with a calm air
 talking on the phone, while looking into the distance
 sitting cross-legged, with a sense of ease

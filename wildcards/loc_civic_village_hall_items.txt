@@ -1,8 +1,8 @@
 stacked chairs
 a trestle table
 a tea urn
-a raffle book
-a noticeboard of bookings
+a raffle book of tickets numbered "__name_number_small__" in red print
+a noticeboard of bookings, with a sheet headed "HALL BOOKINGS" __text_look_paper_notice__, __text_rest_plain__
 a piano with a cover
 a first aid box
 a lost property box

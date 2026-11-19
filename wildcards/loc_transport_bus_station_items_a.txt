@@ -1,4 +1,4 @@
-a timetable in a frame
+a timetable reading "__text_departure__" __text_look_paper_notice__ in a frame
 a suitcase
 a dropped travelcard
-a leaflet about a service change
+a leaflet about a service change, headed "SERVICE CHANGES" __text_look_print__, the rest of the leaflet plain

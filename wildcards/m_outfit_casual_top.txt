@@ -53,7 +53,7 @@ athletic-cut dashiki
 layered performance tee
 minimalist roll-neck sweater
 shirt jacket with shoulder buttons
-band tee with a lace-up front
+band tee printed "__name_band__" with a lace-up front
 crewneck sweater
 slouchy crewneck sweater with a scoop neck
 muscle tee with side slits
@@ -96,7 +96,7 @@ vest over a collared shirt with a button placket
 sleeveless gym tee
 baseball jersey with a frayed hem
 long-sleeve tee with exposed seams
-layered band tee with ruched sides
+layered band tee printed "__name_band__" with ruched sides
 football shirt with a cutout detail
 fitted muscle tee with side slits
 oversized tee with a frayed hem
@@ -287,7 +287,7 @@ washed breton shirt
 boxy thermal shirt with a chest pocket
 chunky thermal shirt
 western shirt with a chest pocket
-band tee
+band tee printed "__name_band__"
 textured pocket tee
 fisherman sweater with ruched sides
 textured pocket tee
@@ -381,7 +381,7 @@ ruffled cropped boxy tee with raglan sleeves
 t-shirt
 handmade denim shirt
 ringer tee with exposed seams
-band tee with a V-neck
+band tee printed "__name_band__" with a V-neck
 boxy tee with a split hem
 fair isle sweater
 retro cable-knit sweater with a drawstring hem
@@ -418,7 +418,7 @@ retro linen tunic
 button-front tank top
 jersey with rolled sleeves
 graphic tee
-boxy band tee
+boxy band tee printed "__name_band__"
 button-front tank top
 chunky cycling jersey
 boxy baseball tee
@@ -622,7 +622,7 @@ distressed utility vest
 long-sleeve tee with exposed seams
 distressed compression top
 lightweight golf polo with a split hem
-boxy band tee
+boxy band tee printed "__name_band__"
 button-front denim shirt
 baseball tee
 ribbed football shirt
@@ -676,7 +676,7 @@ t-shirt
 work shirt with a contrast collar
 fair isle sweater
 oversized waistcoat over a shirt
-layered band tee with ruched sides
+layered band tee printed "__name_band__" with ruched sides
 pocket tee with a curved hem
 shirt jacket with shoulder buttons
 minimalist ringer tee
@@ -694,11 +694,11 @@ golf polo with a scoop neck
 longline roll-neck sweater
 cropped shawl-collar cardigan with raglan sleeves
 tennis polo with a zip front
-layered band tee with ruched sides
+layered band tee printed "__name_band__" with ruched sides
 minimalist zip cardigan
 oversized cable-knit sweater
 lace-up neck shirt with patch pockets
-boxy band tee
+boxy band tee printed "__name_band__"
 ruffled flannel shirt
 slouchy cable-knit sweater
 vintage-style polo shirt
@@ -925,7 +925,7 @@ longline roll-neck sweater
 ribbed fleece vest with a V-neck
 quarter-zip pullover
 oversized tee with side slits
-boxy band tee
+boxy band tee printed "__name_band__"
 retro open-knit top
 relaxed mesh tee with a curved hem
 knotted pique polo
@@ -1055,7 +1055,7 @@ chunky puffer vest
 mandarin-collar shirt with a scoop neck
 fitted zip-up hoodie
 washed knit polo
-band tee with a lace-up front
+band tee printed "__name_band__" with a lace-up front
 oversized baseball tee with raglan sleeves
 hooded golf polo
 boxy thermal shirt with a chest pocket
@@ -1088,7 +1088,7 @@ crewneck sweater with ruched sides
 fitted zip-up hoodie
 short-sleeve button-up shirt
 thermal waffle shirt
-band tee
+band tee printed "__name_band__"
 linen tunic with a cutout detail
 ringer tee with exposed seams
 belted performance tee
@@ -1167,9 +1167,9 @@ button-front tank top
 denim shirt
 thermal shirt with exposed seams
 fisherman sweater with a wrap front
-boxy band tee
+boxy band tee printed "__name_band__"
 tennis polo
-layered band tee with ruched sides
+layered band tee printed "__name_band__" with ruched sides
 layered basketball jersey
 embroidered half-zip fleece
 handmade pique polo
@@ -1235,7 +1235,7 @@ fisherman sweater with a wrap front
 draped cycling jersey with a V-neck
 ribbed hooded poncho with patch pockets
 puffer vest with a drawstring hem
-ribbed band tee
+ribbed band tee printed "__name_band__"
 distressed graphic tee
 quarter-zip pullover
 oversized mandarin-collar shirt
@@ -1257,7 +1257,7 @@ lace-up neck shirt with raglan sleeves
 flannel shirt with rolled sleeves
 washed cropped boxy tee
 draped western shirt
-band tee
+band tee printed "__name_band__"
 pique polo with a V-neck
 embroidered sleeveless gym tee with a stand collar
 puffer vest with rolled sleeves
@@ -1285,7 +1285,7 @@ sleeveless gym tee
 chunky hooded poncho
 tie-dye tee with ruched sides
 pocket tee with a curved hem
-ribbed band tee
+ribbed band tee printed "__name_band__"
 jersey with rolled sleeves
 tie-front vest over a collared shirt
 tie-front thermal shirt
@@ -1295,7 +1295,7 @@ muscle tee with side slits
 draped cropped boxy tee
 sweater vest with patch pockets
 roll-neck sweater with ruched sides
-ribbed band tee
+ribbed band tee printed "__name_band__"
 retro tech tee
 fishing vest with rolled sleeves
 roll-neck sweater with ruched sides
@@ -1376,7 +1376,7 @@ aran sweater with a contrast collar
 lace-up neck shirt with patch pockets
 t-shirt with a frayed hem
 fitted performance tee
-band tee with a V-neck
+band tee printed "__name_band__" with a V-neck
 camp-collar shirt with a scoop neck
 minimalist sleeveless gym tee
 distressed oxford shirt
@@ -1387,7 +1387,7 @@ baseball jersey with ruched sides
 athletic-cut vest over a collared shirt with side slits
 tie-front ringer tee
 belted hawaiian shirt with a stand collar
-ribbed band tee
+ribbed band tee printed "__name_band__"
 panelled lace-up neck shirt
 muscle tee with a button placket
 layered cable-knit sweater with a V-neck
@@ -1420,7 +1420,7 @@ draped linen tunic
 layered cable-knit sweater
 pleated mandarin-collar shirt
 pocket tee with a curved hem
-band tee with a lace-up front
+band tee printed "__name_band__" with a lace-up front
 tennis polo with a zip front
 chunky hooded poncho
 fitted performance tee
@@ -1468,7 +1468,7 @@ vest over a collared shirt
 shirt jacket with patch pockets
 sleeveless gym tee with a wrap front
 ribbed hooded poncho with patch pockets
-band tee with a lace-up front
+band tee printed "__name_band__" with a lace-up front
 button-front knit polo
 pocket tee with a zip front
 washed aran sweater
@@ -1503,7 +1503,7 @@ polo shirt with a V-neck
 cropped knit polo
 ruffled flannel shirt
 distressed ringer tee
-band tee with a V-neck
+band tee printed "__name_band__" with a V-neck
 linen tunic with a scoop neck
 minimalist work shirt
 washed knit polo
@@ -1513,7 +1513,7 @@ washed cropped boxy tee
 athletic-cut open-knit top
 vintage-style oversized tee
 oversized waistcoat over a shirt
-ribbed band tee
+ribbed band tee printed "__name_band__"
 textured shirt jacket
 vintage-style cropped boxy tee
 distressed oxford shirt
@@ -1586,7 +1586,7 @@ belted shawl-collar cardigan
 minimalist tank top
 chunky hooded poncho
 grandad-collar shirt with a lace-up front
-band tee with a V-neck
+band tee printed "__name_band__" with a V-neck
 sweatshirt
 button-front overshirt
 tennis polo with elbow patches

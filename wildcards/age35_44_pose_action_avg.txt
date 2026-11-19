@@ -111,7 +111,7 @@ running fast with windblown hair
 tying hair back, in mid-motion
 leaning on a table, with focus
 walking along a path, with a calm air
-reading a book, with a casual attitude
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with a casual attitude
 brushing hair aside, with quiet confidence
 reading a map
 lying down flat on back
@@ -149,7 +149,7 @@ shrugging, with a casual attitude
 perching on a stool, while glancing at the camera
 saluting, in a deliberate posed moment
 singing, with graceful posture
-reading a book, with graceful posture
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover, with graceful posture
 sleeping, with energy
 standing on a balcony, while glancing at the camera
 sitting on the edge of a bed, while looking away
@@ -420,7 +420,7 @@ talking on the phone, with careful balance
 sitting on a sofa, with focus
 standing with feet apart, at rest
 carrying an umbrella
-reading a book
+reading a book titled "__name_book_title_any__" in gold capitals on a plain cover
 walking toward the camera, with careful balance
 sitting on a windowsill, while glancing at the camera
 resting a chin on a fist, with a calm air

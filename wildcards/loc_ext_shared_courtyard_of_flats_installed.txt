@@ -2,8 +2,8 @@ a paved or part-planted courtyard enclosed by the building on three or four side
 balcony access decks above
 a bin store
 a bike store
-entry doors with intercom panels
+entry doors with intercom panels with name rows reading "__text_intercom_row__" in small black print
 a drain in the middle
 lighting on the walls
 a gate to the street
-numbered doors
+numbered doors, the nearest marked "__name_number_small__" in brass numerals

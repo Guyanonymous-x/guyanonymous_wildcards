@@ -1,10 +1,10 @@
 a drink balanced on a cabinet right under a sign reading "__loc_text_nodrinks__"
-a ticket spool trailing to the floor
+a ticket spool printed "TICKET" in red trailing to the floor
 a handful of tokens in a paper cup
 a jacket tied round a waist
-a prize wall with the good prizes at an impossible ticket count
+a prize wall with the good prizes at an impossible ticket count marked "9999 TICKETS" in black print on white tags
 a dropped coin under a cabinet visible and unreachable
-a sticker on a screen bezel
+a sticker printed "__name_brand_upper__" __text_look_label__ on a screen bezel
 a chewing gum patch on a joystick
 a child's shoe
 an out-of-order sign reading "__loc_text_outoforder__" taped to a machine

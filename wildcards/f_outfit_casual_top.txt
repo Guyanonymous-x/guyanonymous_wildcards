@@ -268,14 +268,14 @@ fisherman sweater with a contrast collar
 pleated aran sweater
 layered cardigan
 cable-knit sweater
-vintage band t-shirt
+vintage band t-shirt printed "__name_band__"
 oversized breton top
 crop tank top
 halter top with a cutout detail
 hooded satin top
 turtleneck with exposed seams
 distressed smocked top
-ribbed band tee
+ribbed band tee printed "__name_band__"
 oversized breton top
 mock-neck top with a high neck
 tie-front graphic tee
@@ -348,7 +348,7 @@ layered cardigan
 panelled denim shirt
 cropped tank top
 cardigan
-vintage band t-shirt
+vintage band t-shirt printed "__name_band__"
 longline tunic
 button-front corset-style top
 balloon-sleeve top with a frayed hem
@@ -379,7 +379,7 @@ lightweight camisole
 dolman top with a split hem
 fitted balloon-sleeve top
 fisherman sweater with a cutout detail
-band t-shirt
+band t-shirt printed "__name_band__"
 mohair sweater with a button placket
 peter pan collar blouse with a lace-up front
 lightweight fleece pullover
@@ -442,7 +442,7 @@ athletic-cut cashmere sweater
 zip-up hoodie with a contrast collar
 knotted v-neck sweater
 long-sleeve tee with a zip front
-band t-shirt
+band t-shirt printed "__name_band__"
 sports bra top with a button placket
 zip-up hoodie with a contrast collar
 tunic
@@ -669,7 +669,7 @@ distressed chambray shirt
 oversized breton top
 peter pan collar blouse with a lace-up front
 velvet top with a scoop neck
-vintage band t-shirt
+vintage band t-shirt printed "__name_band__"
 fair isle sweater with a scoop neck
 oversized hoodie
 bodysuit with a curved hem
@@ -696,7 +696,7 @@ pleated off-shoulder top
 puff-sleeve blouse
 quilted blouse
 argyle sweater with a stand collar
-ribbed band tee
+ribbed band tee printed "__name_band__"
 retro wrap top
 puff-sleeve blouse
 angora sweater with patch pockets
@@ -749,11 +749,11 @@ henley top
 quilted mock-neck top
 turtleneck with exposed seams
 longline tunic
-band tee with raglan sleeves
+band tee printed "__name_band__" with raglan sleeves
 lightweight camp-collar shirt
 longline waffle-knit top
 chunky henley with a V-neck
-band tee with a wrap front
+band tee printed "__name_band__" with a wrap front
 cardigan
 flannel shirt
 off-shoulder crop top
@@ -855,7 +855,7 @@ rugby shirt with exposed seams
 duster cardigan with raglan sleeves
 pleated kimono top
 button-front corset-style top
-panelled band tee
+panelled band tee printed "__name_band__"
 distressed mock-neck top
 vintage-style cashmere sweater
 chunky corset-style top
@@ -865,7 +865,7 @@ quilted blouse
 warm knitted fall sweater
 panelled sequin top
 pleated denim shirt with patch pockets
-band tee with a wrap front
+band tee printed "__name_band__" with a wrap front
 sleeveless top
 pleated waffle-knit top
 lightweight raglan tee
@@ -893,7 +893,7 @@ textured aran sweater
 belted corset-style top
 knotted v-neck sweater
 mohair sweater with a lace-up front
-band tee with a wrap front
+band tee printed "__name_band__" with a wrap front
 boxy batwing top
 slouchy beaded top
 lightweight cowl-neck sweater
@@ -1031,7 +1031,7 @@ textured aran sweater
 mohair sweater with a lace-up front
 t-shirt with a button placket
 long-sleeve tee
-band tee with raglan sleeves
+band tee printed "__name_band__" with raglan sleeves
 angora sweater with patch pockets
 distressed tank top with raglan sleeves
 washed macramé top
@@ -1053,13 +1053,13 @@ yoga top with a high neck
 longline tunic
 retro wrap top
 minimalist t-shirt
-panelled band tee
+panelled band tee printed "__name_band__"
 hoodie with a split hem
 boxy batwing top
 tie-front open-knit sweater
 beaded top with patch pockets
 satin top with raglan sleeves
-panelled band tee
+panelled band tee printed "__name_band__"
 fitted balloon-sleeve top
 handmade corset top
 beaded top with a chest pocket
@@ -1112,7 +1112,7 @@ belted fisherman sweater
 one-shoulder top with shoulder buttons
 t-shirt with side slits
 fair isle sweater with a stand collar
-ribbed band tee
+ribbed band tee printed "__name_band__"
 ruffled scoop-neck top
 cropped smocked top
 keyhole top with a scoop neck
@@ -1190,7 +1190,7 @@ oversized hoodie
 zip-up hoodie
 handmade corset top
 peplum top with a button placket
-band tee with raglan sleeves
+band tee printed "__name_band__" with raglan sleeves
 distressed t-shirt
 slouchy asymmetric top with a cutout detail
 cropped cardigan
@@ -1200,7 +1200,7 @@ peter pan collar blouse with a high neck
 nautical top
 keyhole top with exposed seams
 oversized corset top
-ribbed band tee
+ribbed band tee printed "__name_band__"
 lightweight keyhole top
 turtleneck
 slouchy beaded top
@@ -1265,7 +1265,7 @@ blouse
 cropped tank top
 cropped peter pan collar blouse
 warm turtleneck
-band tee with raglan sleeves
+band tee printed "__name_band__" with raglan sleeves
 cardigan
 tank top
 relaxed off-shoulder blouse
@@ -1383,7 +1383,7 @@ ruched top with a chest pocket
 knotted square-neck top with elbow patches
 mesh top with a contrast collar
 vintage-style polo shirt
-band tee with a wrap front
+band tee printed "__name_band__" with a wrap front
 waffle-knit top with a split hem
 quilted blouse
 crop tank top
@@ -1606,7 +1606,7 @@ camisole
 belted fisherman sweater
 lightweight camp-collar shirt
 halter top with a V-neck
-band t-shirt
+band t-shirt printed "__name_band__"
 linen shirt
 fitted sweater
 lightweight aran sweater
@@ -1672,7 +1672,7 @@ camp-collar shirt
 scoop-neck top with exposed seams
 crew-neck sweater with a lace-up front
 crew-neck sweater
-panelled band tee
+panelled band tee printed "__name_band__"
 ruffled camp-collar shirt
 slouchy shell top
 fluffy sweater
@@ -1707,7 +1707,7 @@ oversized sweater
 crew-neck sweater with a contrast collar
 halter top with a V-neck
 sailor top with a high neck
-ribbed band tee
+ribbed band tee printed "__name_band__"
 tie-front merino turtleneck
 crop top
 crop tank top
@@ -1746,7 +1746,7 @@ slouchy twist-front top with side slits
 graphic tee
 pleated kimono top
 aran sweater with a chest pocket
-panelled band tee
+panelled band tee printed "__name_band__"
 bell-sleeve top with exposed seams
 nautical top
 ruffled camp-collar shirt

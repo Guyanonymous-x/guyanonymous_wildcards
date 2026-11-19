@@ -1,5 +1,5 @@
 a dropped glove at the bottom
-a free newspaper
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 chewing gum on a step edge
-an advertisement panel
+an advertisement panel showing "__name_product__" __text_look_print__
 a comb plate warning sign reading "__loc_text_caution__"

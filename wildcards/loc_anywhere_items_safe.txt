@@ -1,6 +1,6 @@
 a D-lock
 a UV torch
-a bag of compost split open
+a bag of compost printed "__name_brand_upper__ COMPOST" __text_look_print__ split open
 a bag of dog food
 a bag of logs
 a bag of pegs
@@ -36,12 +36,12 @@ a blanket
 a blanket over a knee
 a blood pressure cuff
 a boat hook
-a book
+a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain
 a book of remembrance
 a boot jack
 a boot scraper
 a bottle
-a bottle of hand gel in the cup holder
+a bottle of hand gel labeled "HAND GEL" __text_look_print__ in the cup holder
 a bottle of water
 a bottle of water in a bracket
 a bottle of water in a holder
@@ -101,12 +101,12 @@ a chock
 a cigarette end
 a cigarette tin
 a cleaning cloth
-a cleaning sign
+a cleaning sign reading "CAUTION WET FLOOR" in black print on a yellow stand
 a cleaver
 a clicker
 a clipboard
 a clipboard on a hook
-a clipboard with a route sheet
+a clipboard with a route sheet, the sheet headed "ROUTE __name_number_small__" __text_look_paper_notice__, the rest of the sheet plain white
 a clock
 a cloth
 a coal scuttle
@@ -134,7 +134,7 @@ a dental pick
 a depth gauge
 a diary
 a dibber
-a directory leaflet
+a directory leaflet headed "STORE DIRECTORY" __text_look_print__, the rest of the leaflet plain
 a dog bed
 a dog lead
 a dog on a lead
@@ -142,12 +142,12 @@ a donation box
 a doormat
 a dosimeter badge
 a drainage channel to a soakaway
-a dropped boarding pass
+a dropped boarding pass, printed "BOARDING PASS GATE __name_number_small__" in black print, the rest of the pass plain
 a dropped glove
-a dropped label
+a dropped label reading "__text_box_label__" __text_look_label__
 a dropped lanyard
-a dropped receipt
-a dropped ticket
+a dropped receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip plain
+a dropped ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
 a dropped travelcard
 a drugs pouch with a numbered seal
 a dry bag
@@ -158,7 +158,7 @@ a duster for the levers
 a duty-free bag
 a face shield
 a fan
-a fee receipt
+a fee receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip plain
 a feed scoop
 a feeding cup with a spout
 a finding aid
@@ -173,7 +173,7 @@ a flask and a lunchbox
 a flask rack
 a football
 a form pad
-a free newspaper
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a fuel can
 a games console controller
 a garbage record book
@@ -223,10 +223,10 @@ a key cabinet
 a kit bag
 a kneeling mat
 a knife
-a label
+a label reading "__text_box_label__" __text_look_label__
 a label printer
 a ladder
-a laminated price list
+a laminated price list reading "__text_price_line__" __text_look_print__, the rest of the sheet plain white
 a laminated procedure card
 a lamp
 a landing net
@@ -236,11 +236,11 @@ a laptop
 a latch
 a laundry bag
 a lawnmower
-a leaflet
-a leaflet about the line's history
-a leaflet rack
+a leaflet headed "__text_flyer__" __text_look_print__, the rest of the leaflet plain
+a leaflet about the line's history, headed "OUR HISTORY" __text_look_print__, the rest of the leaflet plain
+a leaflet rack holding leaflets headed "__text_flyer__" __text_look_print__, the rest of each cover plain
 a leash
-a ledger
+a ledger open to a page headed "ACCOUNTS __name_year__" in neat ink, the rest of the page plain
 a letter
 a life jacket under every seat
 a lighter
@@ -253,7 +253,7 @@ a longcase clock
 a looking glass over the chimneypiece
 a lost property box
 a loupe
-a magazine
+a magazine titled "__name_magazine__" __text_look_print__ across the cover, the rest of the cover plain
 a magazine rack
 a magnifier
 a magnifying glass
@@ -266,8 +266,8 @@ a mat
 a mat to kneel on
 a maximum-and-minimum thermometer in a rack
 a measuring tape
-a membership card
-a menu card
+a membership card reading "MEMBER __name_first__ __name_surname__" __text_look_print__, the rest of the card plain
+a menu card reading "__text_price_line__" in neat black print, the rest of the card plain
 a microfiber cloth
 a milk bottle
 a mirror
@@ -281,15 +281,15 @@ a mortar and pestle
 a mug
 a mug in a gimbaled holder
 a mug in a holder
-a newspaper
+a newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a notebook
 a notepad
-a notice about abuse of staff
-a notice in two languages
-a notice of rights
-a numbered ticket
+a notice about abuse of staff, headed "PLEASE RESPECT OUR STAFF" __text_look_paper_notice__, the rest of the sheet plain white
+a notice in two languages, reading "WELCOME" with "BIENVENIDOS" below it in bold black print, the rest of the sheet plain white
+a notice of rights, headed "YOUR RIGHTS" __text_look_paper_notice__, the rest of the sheet plain white
+a numbered ticket reading "NUMBER __name_number_small__" in bold black print, the rest of the ticket plain
 a pack of cards
-a packet of sandwiches
+a packet of sandwiches printed "__name_brand_upper__" __text_look_print__
 a packet of throat sweets
 a padlock
 a pair of binoculars
@@ -305,9 +305,9 @@ a pair of gloves worn through at the fingertips
 a pair of sunglasses
 a pair of waders
 a paper knife
-a paper ticket
-a paperback
-a parking ticket
+a paper ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
+a paperback titled "__name_book_title_any__" __text_look_print__, the rest of the cover plain
+a parking ticket headed "PARKING VIOLATION" in bold black print, the rest of the slip plain white
 a pen
 a pen on a chain
 a pencil
@@ -322,10 +322,10 @@ a photograph taped inside a locker door
 a photograph taped to the wall
 a pick
 a plant
-a plant label
+a plant label reading "TOMATO" in black marker on a white plastic stake
 a plastic basin
 a plastic box of food
-a prayer book
+a prayer book with "PRAYER BOOK" in gold capitals on the cover, the rest of the cover plain
 a prescription pad
 a printed trend chart
 a printer on a shelf
@@ -334,7 +334,7 @@ a program
 a property bag
 a puncture repair kit
 a queue barrier tape
-a queue ticket
+a queue ticket reading "NUMBER __name_number_small__" in bold black print, the rest of the ticket plain
 a radio
 a radio handset
 a radio handset on a cradle
@@ -363,7 +363,7 @@ a rucksack
 a running order on a clipboard
 a sack truck
 a safety card
-a safety notice
+a safety notice reading "__text_warning__" __text_look_paper_notice__, the rest of the sheet plain white
 a sample bag
 a sample bottle
 a sample spear
@@ -381,7 +381,7 @@ a sharps bin
 a sharps bin on a bracket
 a shed
 a shelf
-a shelf with a Bible
+a shelf with a Bible with "HOLY BIBLE" in gold letters on its spine
 a shoe rack at the corridor end
 a shopping bag
 a shovel
@@ -405,7 +405,7 @@ a steamer
 a stereo microscope on a boom
 a stool
 a stopwatch
-a store directory leaflet
+a store directory leaflet headed "STORE DIRECTORY" __text_look_print__, the rest of the leaflet plain
 a stove
 a stress ball
 a strimmer
@@ -430,15 +430,15 @@ a thermometer
 a thermometer on a nail
 a thermometer probe
 a thermos
-a ticket
-a ticket in a hand
-a ticket number
+a ticket reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
+a ticket in a hand reading "__text_ticket__" __text_look_print__, the rest of the ticket plain
+a ticket number "__name_number_small__" in bold black print
 a tide table
 a timer
-a timetable
-a timetable leaflet
+a timetable reading "__text_departure__" __text_look_paper_notice__, the rest of the sheet plain white
+a timetable leaflet reading "__text_departure__" __text_look_print__, the rest of the leaflet plain
 a tin cup
-a tin of biscuits
+a tin of biscuits printed "__name_brand_upper__ BISCUITS" in gold letters on the lid
 a tin of hoof oil
 a tip jar
 a tire pressure gauge in the door pocket
@@ -462,8 +462,8 @@ a vacuum cleaner
 a van key
 a vape
 a vase of artificial flowers
-a visitor leaflet
-a visitor's leaflet
+a visitor leaflet headed "WELCOME TO __name_town__" __text_look_print__, the rest of the leaflet plain
+a visitor's leaflet headed "WELCOME TO __name_town__" __text_look_print__, the rest of the leaflet plain
 a visitors' book
 a vomit bowl
 a walking pole
@@ -471,7 +471,7 @@ a walking stick
 a wall clock
 a wand
 a warming blanket
-a warning notice
+a warning notice reading "__text_warning__" __text_look_paper_notice__, the rest of the sheet plain white
 a washstand with a basin
 a water bottle
 a water bottle in a pocket
@@ -494,7 +494,7 @@ a wood stove
 a worn step
 a wrench
 a wrench left on a pipe
-address labels
+address labels reading "__name_first__ __name_surname__ __name_street__" __text_look_label__
 an AIS
 an air freshener
 an ashtray
@@ -506,7 +506,7 @@ an oxygen mask
 an umbrella
 aprons
 bandages
-barcode labels
+barcode labels with "__name_product__" __text_look_label__ above the bars
 bathrobes
 batteries
 bedding
@@ -523,8 +523,8 @@ boots
 boots by the door
 bottled water
 bottles
-boxes of identical purchases
-brochures
+boxes of identical purchases printed "__name_brand_upper__" __text_look_print__
+brochures headed "VISIT __name_town__" __text_look_print__, the rest of each cover plain
 broken appliances kept for repair
 broken bulbs
 broken glass
@@ -533,7 +533,7 @@ brushes
 brushes in jars of water
 bubble wrap
 bungee cords
-business cards
+business cards reading "__name_first__ __name_surname__" in neat black print, the rest of each card plain
 butcher paper
 buttons in jars
 cable
@@ -549,7 +549,7 @@ cardboard bales
 cardboard boxes
 cards
 carrier bags
-cereal boxes
+cereal boxes printed "__name_brand_upper__" in large red block capitals
 chalk
 champagne flutes
 charcoal
@@ -574,10 +574,10 @@ cups
 cushions
 dance cards
 darts
-decades of magazines
+decades of magazines with "__name_magazine__" __text_look_print__ across the covers, the rest of each cover plain
 decanters
 detergent drums
-documents
+documents headed "INVOICE" in bold black print, the rest of the sheet plain white
 doilies
 drinks
 drumsticks
@@ -588,7 +588,7 @@ ear defenders on a hook
 earplugs
 eggs in a nest box
 energy drink cans
-envelopes
+envelopes addressed to "__name_first__ __name_surname__" in blue ballpoint handwriting
 eucalyptus oil
 fabric scraps
 face masks
@@ -600,10 +600,10 @@ firewood
 flip-flops
 flowers
 fluoride trays
-flyers
+flyers reading "__text_flyer__" __text_look_print__, the rest of each sheet plain
 foil
 foils
-food packaging
+food packaging printed "__name_brand_upper__" __text_look_print__
 forms
 four mugs
 freezer gloves
@@ -618,7 +618,7 @@ glasses
 gloves
 goggles
 gold leaf
-graffiti tags
+graffiti tags reading "__text_graffiti_word__" __text_look_graffiti__
 grooming brushes
 hairpins
 hammers
@@ -632,7 +632,7 @@ hotel pans
 ice bucket
 impression material
 incense
-information placards
+information placards headed "VISITOR INFORMATION" __text_look_print__, the rest of each placard plain
 ingots
 ink
 instant noodles
@@ -643,7 +643,7 @@ jewelry dish
 key cards
 keys
 knitting
-labels
+labels reading "__text_box_label__" __text_look_label__
 ladles
 lamps
 lanyards
@@ -655,16 +655,16 @@ linens
 litter
 lubricant
 luggage
-magazines
+magazines with "__name_magazine__" __text_look_print__ across the covers, the rest of each cover plain
 makeup kits
 maps
 marker pens
 markers
 masking tape
 masks
-matchbooks
+matchbooks printed "__name_brand_upper__" in small gold letters
 matches
-menus
+menus with "MENU" in gold script on the covers, the rest of each cover plain
 microphones
 mirrors and probes on a tray
 moss
@@ -673,15 +673,15 @@ mud
 mugs
 name cards reading names such as "__name_person__"
 napkins
-newspaper
-newspaper for wrapping
-newspapers
+newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
+newspaper for wrapping with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
+newspapers with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of each front page plain
 notebooks
 notepads
 oil
 oil cans
 oilskins
-order tickets
+order tickets reading "TABLE __name_number_small__" in blue ballpoint handwriting, the rest of each ticket plain
 packing tape
 paddles
 padlocks
@@ -691,7 +691,7 @@ palette knives
 paper bags
 paper towels
 parchment
-passports
+passports with "PASSPORT" in gold capitals on the covers
 patterns
 pencils
 pens
@@ -700,16 +700,16 @@ photographs
 photographs in frames
 picks
 pint glasses
-pizza boxes
-place cards
+pizza boxes printed "PIZZA" in red letters on the lid
+place cards reading "__name_first__" in looping black script, the rest of each card plain
 place settings
-plant labels
+plant labels reading "BASIL" in black marker on white plastic stakes
 plastic bags
 plastic wrap
 playing cards
 popcorn
 post on the mat
-posters
+posters reading "__text_poster_event__" __text_look_print__, the rest of each poster plain
 potpourri
 prayer beads
 programs
@@ -720,7 +720,7 @@ razor
 razors
 reading glasses
 reading glasses on a book
-receipts
+receipts reading "__text_receipt__" __text_look_receipt__, the rest of each strip plain
 reeds
 reference photographs pinned up
 remote controls
@@ -739,7 +739,7 @@ screenwash
 screwdrivers
 scripts
 secateurs
-seed packets
+seed packets printed "CARROT" and "BASIL" __text_look_print__
 seed trays
 shakers
 shampoo bottles
@@ -778,7 +778,7 @@ terracotta pots
 thread
 thread spools
 throws
-tickets
+tickets reading "__text_ticket__" __text_look_print__, the rest of each ticket plain
 tip jar
 tissue paper
 tissues

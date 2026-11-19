@@ -3,7 +3,7 @@ a wrapped-up bucket tapping against a thigh
 a polished ice cream cone resting in the lap
 a worn stack of papers resting on a hip
 a colourful power drill gripped tightly
-a colourful can of soda held loosely in one hand
+a colourful can of soda held loosely in one hand, its side printed "__name_brand_upper__" __text_look_print__, the rest of the can a solid color
 a wrapped-up piece of driftwood dangling from one hand
 a patterned guidebook swinging from a wrist
 a sticky crochet hook and yarn gripped tightly
@@ -30,7 +30,7 @@ a vintage bag of seeds swinging from a wrist
 a colourful lunchbox resting on a hip
 a dented small cactus held up as if showing it
 a glossy megaphone tapping against a thigh
-a polished lottery ticket held up to the light
+a polished lottery ticket printed "LOTTO" in bold red capitals, the rest of the ticket plain, held up to the light
 a patterned kite string held in both hands
 a wrapped-up sealed envelope tapping against a thigh
 an oversized box of vegetables tucked under one arm
@@ -40,7 +40,7 @@ an old-fashioned pair of gloves held up as if showing it
 a dusty roll of blueprints held out in front
 a faded rosary held loosely in one hand
 some prayer beads held behind the back
-a brand-new bottle of water held behind the back
+a brand-new bottle of water held behind the back, its label reading "__name_brand_upper__ SPRING WATER" __text_look_print__, the rest of the label plain
 a dented tray of drinks held in both hands
 a vintage notebook gripped tightly
 a dusty hand mirror gripped tightly
@@ -53,7 +53,7 @@ a tiny seashell balanced on a shoulder
 a wrapped-up picnic basket dangling from one hand
 a second-hand tape measure resting on a hip
 a plain small cactus gripped tightly
-a heavy lottery ticket balanced on a shoulder
+a heavy lottery ticket printed "LOTTO" in bold red capitals, the rest of the ticket plain, balanced on a shoulder
 a heavy bubble wand held down at the side
 an oversized gift box balanced on a shoulder
 a dented e-reader held in both hands
@@ -69,13 +69,13 @@ a tiny bag of groceries held up as if showing it
 a second-hand bucket balanced on a shoulder
 a bird feather held in both hands
 a faded embroidery tucked under one arm
-a colourful postcard resting in the lap
+a colourful postcard reading "GREETINGS FROM __name_town__" in bright capitals, the rest of the card a photo, resting in the lap
 a polished camera pressed against the body
 an oversized bundle of firewood dangling from one hand
 a polished basket of eggs lifted slightly
 a patterned folded blanket lifted slightly
 a wrapped-up ice cream cone carried by a strap
-an oversized pill bottle held behind the back
+an oversized pill bottle held behind the back, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a colourful armful of firewood pressed against the body
 a hand-made cloth tote bag resting on a hip
 an oversized gift box held up as if showing it
@@ -90,29 +90,29 @@ an oversized bucket tapping against a thigh
 some dented knitting needles tucked under one arm
 a sleek modern bowl of food held loosely in one hand
 a faded ice cream cone held up to the light
-a dented certificate resting in the lap
+a dented certificate headed "__text_certificate__" in gold capitals, the rest of the sheet plain cream, resting in the lap
 a woven basket held up as if showing it
 a sticky bunch of keys dangling from one hand
 a sticky tape measure resting on a hip
 a polished handful of coins carried by a strap
-a well-loved certificate resting on a hip
+a well-loved certificate headed "__text_certificate__" in ornate black lettering, the rest of the sheet plain cream, resting on a hip
 a paper fan cradled gently
 a vintage incense stick lifted slightly
 a hand-made cloth tote bag balanced on a shoulder
 a heavy garden trowel held up to the light
-a tattered envelope held up to the light
+a tattered envelope held up to the light, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a worn megaphone and placard reading "__text_banner_protest__" in thick hand-painted letters dangling from one hand
 a worn handful of coins held loosely in one hand
 a polished string of lanterns resting on a hip
 a hand-made paper fan pressed against the body
 a worn candle in a holder clutched to the chest
-a hand-made passport resting in the lap
-a heavy bag of rice balanced on a shoulder
+a hand-made passport with "PASSPORT" in gold capitals on the cover, the rest of the cover plain, resting in the lap
+a heavy bag of rice balanced on a shoulder, printed "__name_brand_upper__" with "RICE" below it __text_look_print__, the rest of the bag plain
 an old-fashioned clipboard balanced on a shoulder
 a sticky watering can lifted slightly
 a dusty balloon dangling from one hand
 a dented wrench held down at the side
-a wrapped-up handwritten letter held up to the light
+a wrapped-up handwritten letter beginning "Dear __name_first__," in looping blue cursive, the rest of the sheet plain, held up to the light
 a plain paper umbrella resting on a hip
 a hand-made microphone gripped tightly
 a hand-made sewing needle and thread tapping against a thigh
@@ -154,7 +154,7 @@ a colourful medal carried by a strap
 a sticky watering can held up as if showing it
 a hand-made bottle of water held behind the back
 a tiny bunch of herbs held loosely in one hand
-a plain boarding pass tapping against a thigh
+a plain boarding pass printed "BOARDING PASS" in bold black capitals, the rest of the pass plain white, tapping against a thigh
 an old-fashioned paper shopping bag cradled gently
 a dusty fishing rod resting in the lap
 a plain power drill clutched to the chest
@@ -164,7 +164,7 @@ a sticky microphone tapping against a thigh
 a polished fresh loaf of bread swinging from a wrist
 a takeaway coffee cup held in both hands
 a battered stack of papers held loosely in one hand
-a banknote cradled gently
+a banknote printed "20" in large ornate numerals, the rest of the note fine engraved patterns, cradled gently
 a heavy shopping list held behind the back
 a colourful coin purse held down at the side
 a tattered watering can tucked under one arm
@@ -184,16 +184,16 @@ a patterned tray of drinks held up as if showing it
 a brand-new portable radio resting on a hip
 a polished pair of reading glasses held behind the back
 some faded drumsticks tapping against a thigh
-ancient leather-bound book held open
-a tattered passport resting in the lap
+ancient leather-bound book held open, the open page headed "__name_book_title_any__" in faded brown ink script, the rest of the page plain
+a tattered passport with "PASSPORT" in gold capitals on the cover resting in the lap
 a wrapped-up clay pot carried by a strap
 a glossy torch held down at the side
-a certificate gripped tightly
+a certificate headed "__text_certificate__" in gold capitals, the rest of the sheet plain cream, gripped tightly
 a megaphone and placard reading "__text_banner_protest__" in thick hand-painted letters held out in front
 a plain compass resting in the lap
 a bunch of bananas carried by a strap
 a worn pile of laundry clutched to the chest
-a lightweight passport carried by a strap
+a lightweight passport with "PASSPORT" in gold capitals on the cover, the rest of the cover plain, carried by a strap
 a dented shawl resting on a hip
 a glossy ice cream cone held behind the back
 a faded bowl of rice held up as if showing it
@@ -201,7 +201,7 @@ a mop resting on a hip
 a tattered power drill clutched to the chest
 a battered embroidery resting in the lap
 a battered wrapped present held loosely in one hand
-a vintage paperback novel held out in front
+a vintage paperback novel titled "__name_book_title_any__" in bold print on the cover, the rest of the cover plain, held out in front
 a sticky guitar held down at the side
 a patterned badminton racket dangling from one hand
 a microphone held out in front
@@ -222,7 +222,7 @@ a dented ice cream cone held out in front
 a patterned pot of tea lifted slightly
 a hand-made box of matches swinging from a wrist
 a bundle of firewood held up as if showing it
-a polished can of soda swinging from a wrist
+a polished can of soda swinging from a wrist, its side printed "__name_brand_upper__" __text_look_print__, the rest of the can a solid color
 a hand-made messenger bag tapping against a thigh
 a plain manila folder gripped tightly
 an old-fashioned guitar tucked under one arm
@@ -259,12 +259,12 @@ a lightweight hat held in hand held loosely in one hand
 a battered medal gripped tightly
 a hand-made yoga mat tapping against a thigh
 a box of matches held up to the light
-a faded paperback novel resting in the lap
+a faded paperback novel titled "__name_book_title_any__" in bold capitals on the cover, the rest of the cover plain, resting in the lap
 an old-fashioned pair of gloves tapping against a thigh
 a woven basket tucked under one arm
 a polished box of vegetables tapping against a thigh
 a vintage sketchbook held loosely in one hand
-a dented pocket diary held out in front
+a dented pocket diary held out in front, "__name_year__" stamped in small gold numbers on the cover, the rest of the cover plain
 a tattered dustpan carried by a strap
 a lightweight razor held up as if showing it
 a tiny glass of wine gripped tightly
@@ -282,16 +282,16 @@ a polished sketchbook cradled gently
 a wrapped-up flute cradled gently
 some knitting needles swinging from a wrist
 a plain suitcase handle held up to the light
-a dusty passport clutched to the chest
+a dusty passport with "PASSPORT" in gold capitals on the cover, the rest of the cover plain, clutched to the chest
 a glossy paper fan pressed against the body
 a dented violin held loosely in one hand
 a plain flag held behind the back
 a glossy medal held up to the light
-a patterned sealed envelope held up to the light
+a patterned sealed envelope held up to the light, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 an old-fashioned rope held out in front
-a polished can of soda held loosely in one hand
+a polished can of soda held loosely in one hand, its side printed "__name_brand_upper__" __text_look_print__, the rest of the can a solid color
 a sticky chef's knife held down at the side
-a vintage banknote dangling from one hand
+a vintage banknote printed "20" in each corner in fine engraved numerals, the rest of the note plain, dangling from one hand
 a heavy armful of firewood held up to the light
 a tattered tape measure dangling from one hand
 a patterned bag of groceries held down at the side
@@ -314,13 +314,13 @@ a faded bag of seeds held loosely in one hand
 a folded newspaper with the headline "__text_headline__" __text_look_headline__ resting on a hip
 some hand-made thermos resting on a hip
 an oversized comb held up as if showing it
-a brand-new pill bottle held up as if showing it
+a brand-new pill bottle held up as if showing it, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a second-hand balloon clutched to the chest
 a second-hand incense stick balanced on a shoulder
 a patterned paper fan resting on a hip
 a polished toothbrush held loosely in one hand
 a sticky paper fan resting in the lap
-a wrapped-up handwritten letter clutched to the chest
+a wrapped-up handwritten letter beginning "Dear __name_first__," in looping blue cursive, the rest of the sheet plain, clutched to the chest
 a sticky megaphone gripped tightly
 some knitting needles tapping against a thigh
 a vintage portable radio resting in the lap
@@ -346,7 +346,7 @@ a wrapped-up map held out in front
 a second-hand scarf held in both hands
 a faded wrapped present resting on a hip
 a glossy suitcase handle held behind the back
-a brand-new postcard dangling from one hand
+a brand-new postcard reading "GREETINGS FROM __name_town__" in bright capitals, the rest of the card a photo, dangling from one hand
 a sleek modern portable radio held up to the light
 a heavy large serving spoon held behind the back
 a brand-new towel held down at the side
@@ -364,8 +364,8 @@ a second-hand shawl balanced on a shoulder
 a tiny wooden spoon held loosely in one hand
 a polished incense stick resting in the lap
 a heavy megaphone and placard reading "__text_banner_protest__" in thick hand-painted letters held behind the back
-a patterned boarding pass resting on a hip
-a dusty bottle of water resting in the lap
+a patterned boarding pass printed "BOARDING PASS" in bold black capitals, the rest of the pass plain white, resting on a hip
+a dusty bottle of water resting in the lap, its label reading "__name_brand_upper__ SPRING WATER" __text_look_print__, the rest of the label plain
 a polished wristwatch strap tapping against a thigh
 a tattered folded newspaper with the headline "__text_headline__" __text_look_headline__ lifted slightly
 a watering can held out in front
@@ -388,7 +388,7 @@ a dented bunch of bananas gripped tightly
 a dented stack of plates held up to the light
 a pair of sunglasses held out in front
 a second-hand baseball glove tapping against a thigh
-a heavy hardback book gripped tightly
+a heavy hardback book titled "__name_book_title_any__" in gold capitals on the spine, the rest of the cover plain, gripped tightly
 a faded messenger bag swinging from a wrist
 a lunchbox held loosely in one hand
 a faded cane and a bag held in both hands
@@ -433,18 +433,18 @@ a heavy folded newspaper with the headline "__text_headline__" __text_look_headl
 a wrapped-up tablet pressed against the body
 a colourful pair of sunglasses clutched to the chest
 a well-loved fresh loaf of bread held loosely in one hand
-a colourful boarding pass swinging from a wrist
+a colourful boarding pass printed "BOARDING PASS" in bold black capitals, the rest of the pass plain white, swinging from a wrist
 a vintage rolling pin cradled gently
 a heavy paper shopping bag lifted slightly
 a plain wristwatch strap held loosely in one hand
-a sleek modern bag of rice pressed against the body
+a sleek modern bag of rice pressed against the body, printed "__name_brand_upper__" with "RICE" below it __text_look_print__, the rest of the bag plain
 a tattered pair of sunglasses tucked under one arm
 a glossy bunch of grapes tucked under one arm
 a glossy wrapped present held in both hands
 an oversized pocket watch held up as if showing it
 a dented fish on a line clutched to the chest
 a hand-made guitar pressed against the body
-a certificate resting on a hip
+a certificate headed "__text_certificate__" in gold capitals, the rest of the sheet plain cream, resting on a hip
 a lightweight watering can held up as if showing it
 an old-fashioned bubble wand tucked under one arm
 a patterned suitcase handle held loosely in one hand
@@ -455,7 +455,7 @@ heavy metallic handgun held low
 an oversized shawl pressed against the body
 a well-loved watering can clutched to the chest
 a colourful stack of papers held out in front
-a brand-new birthday card dangling from one hand
+a brand-new birthday card reading "HAPPY BIRTHDAY" in bright looping letters, the rest of the card plain, dangling from one hand
 a well-loved portable radio balanced on a shoulder
 some old-fashioned thermos held up as if showing it
 a colourful crochet hook and yarn dangling from one hand
@@ -465,7 +465,7 @@ some dented gardening gloves held down at the side
 a bunch of keys carried by a strap
 a polished e-reader held up to the light
 a hand-made fresh loaf of bread dangling from one hand
-a lightweight can of soda lifted slightly
+a lightweight can of soda lifted slightly, its side printed "__name_brand_upper__" __text_look_print__, the rest of the can a solid color
 a vintage lotus flower held up as if showing it
 a faded folding fan held out in front
 a heavy notebook tucked under one arm
@@ -473,33 +473,33 @@ a dented razor pressed against the body
 a second-hand picnic basket carried by a strap
 a patterned pair of gloves held up to the light
 some lightweight gardening gloves resting on a hip
-a heavy postcard clutched to the chest
+a heavy postcard reading "GREETINGS FROM __name_town__" in bright capitals, the rest of the card a photo, clutched to the chest
 a second-hand cloth tote bag swinging from a wrist
-a faded postcard clutched to the chest
+a faded postcard reading "GREETINGS FROM __name_town__" in bright capitals, the rest of the card a photo, clutched to the chest
 a vintage scarf held out in front
 a patterned rope tucked under one arm
-an oversized pocket diary held out in front
+an oversized pocket diary held out in front, "__name_year__" stamped in small gold numbers on the cover, the rest of the cover plain
 a wrapped-up wallet clutched to the chest
 a dented suitcase handle held down at the side
 a heavy lantern tucked under one arm
-a heavy postcard balanced on a shoulder
+a heavy postcard reading "GREETINGS FROM __name_town__" in bright capitals, the rest of the card a photo, balanced on a shoulder
 a glossy guitar held down at the side
 a tattered tray of drinks cradled gently
 a polished crochet hook and yarn balanced on a shoulder
 an old-fashioned embroidery tapping against a thigh
 a heavy bunch of bananas tapping against a thigh
-a worn bottle of water resting on a hip
-a pill bottle dangling from one hand
+a worn bottle of water resting on a hip, its label reading "__name_brand_upper__ SPRING WATER" __text_look_print__, the rest of the label plain
+a pill bottle dangling from one hand, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a second-hand ceramic mug gripped tightly
 a tattered bunch of bananas tucked under one arm
 some lightweight prayer beads carried by a strap
 a plain bag of groceries held out in front
-a vintage bottle of water gripped tightly
+a vintage bottle of water gripped tightly, its label reading "__name_brand_upper__ SPRING WATER" __text_look_print__, the rest of the label plain
 a colourful balloon held out in front
-a pocket diary dangling from one hand
-a sticky banknote pressed against the body
+a pocket diary dangling from one hand, "__name_year__" stamped in small gold numbers on the cover, the rest of the cover plain
+a sticky banknote printed "20" in each corner in fine engraved numerals, the rest of the note plain, pressed against the body
 a tiny whisk held loosely in one hand
-a tattered pill bottle tapping against a thigh
+a tattered pill bottle tapping against a thigh, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a plain hiking pole carried by a strap
 a hand-made clay pot balanced on a shoulder
 a hand-made gift box held behind the back
@@ -508,7 +508,7 @@ an oversized large serving spoon held up as if showing it
 a polished string of lanterns gripped tightly
 a second-hand walking cane gripped tightly
 a vintage candle in a holder held down at the side
-a sealed envelope carried by a strap
+a sealed envelope carried by a strap, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a hand-made coin purse lifted slightly
 a glossy single flower held up to the light
 a lightweight suitcase handle tucked under one arm
@@ -521,7 +521,7 @@ a tattered pair of gloves balanced on a shoulder
 a vintage comb tucked under one arm
 a tattered string of lanterns cradled gently
 a second-hand chef's knife gripped tightly
-a glossy sealed envelope held out in front
+a glossy sealed envelope held out in front, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a heavy basket of eggs resting in the lap
 a lightweight microphone pressed against the body
 a tattered rolling pin held behind the back
@@ -531,12 +531,12 @@ a tattered fish on a line carried by a strap
 a sleek modern briefcase held in both hands
 a wrapped-up comb dangling from one hand
 an oversized piece of driftwood held up as if showing it
-a boarding pass held behind the back
+a boarding pass printed "BOARDING PASS" in bold black capitals, the rest of the pass plain white, held behind the back
 an oversized fresh loaf of bread gripped tightly
 a pair of gloves held out in front
-an old-fashioned handwritten letter balanced on a shoulder
+an old-fashioned handwritten letter beginning "Dear __name_first__," in looping blue cursive, the rest of the sheet plain, balanced on a shoulder
 an old-fashioned dustpan resting in the lap
-a dusty paperback novel resting in the lap
+a dusty paperback novel titled "__name_book_title_any__" in bold capitals on the cover, the rest of the cover plain, resting in the lap
 a dented piece of fruit dangling from one hand
 a wrapped-up torch held up to the light
 a worn gym bag held up to the light
@@ -544,11 +544,11 @@ a worn bunch of keys held in both hands
 a dusty coin purse held loosely in one hand
 a battered messenger bag held loosely in one hand
 a worn clay pot lifted slightly
-a wrapped-up certificate resting on a hip
+a wrapped-up certificate headed "__text_certificate__" in ornate black lettering, the rest of the sheet plain cream, resting on a hip
 a glossy guidebook balanced on a shoulder
 a worn tray of drinks resting on a hip
 a faded rolling pin balanced on a shoulder
-a pill bottle held up to the light
+a pill bottle held up to the light, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a wrapped-up palette gripped tightly
 an oversized ceramic mug swinging from a wrist
 a colourful bag of tools tapping against a thigh
@@ -580,10 +580,10 @@ an oversized lantern cradled gently
 some wrapped-up gardening gloves held up to the light
 some tattered prayer beads cradled gently
 a protest sign reading "__text_sign_english__" in __sign_lettering__ resting in the lap
-an old-fashioned train ticket resting in the lap
+an old-fashioned train ticket printed "__name_town__ TO __name_town__" in small black print, the rest of the ticket plain, resting in the lap
 a worn chef's knife resting on a hip
 single red rose held gently
-a sleek modern magazine carried by a strap
+a sleek modern magazine with "__name_magazine__" across the cover in bold masthead letters, the rest of the cover plain, carried by a strap
 a sticky manila folder dangling from one hand
 a dusty paper fan pressed against the body
 a dented cup of tea tapping against a thigh
@@ -596,14 +596,14 @@ a dented potted plant swinging from a wrist
 a worn razor tucked under one arm
 a worn folded umbrella held down at the side
 a dusty lunchbox cradled gently
-an old-fashioned clipboard with a form carried by a strap
+an old-fashioned clipboard with a form headed "APPLICATION FORM" in bold black print, the rest of the form plain white, carried by a strap
 an old-fashioned smartphone held down at the side
 a sleek modern basket of eggs clutched to the chest
 an oversized scarf tapping against a thigh
 a brand-new compass balanced on a shoulder
-a wrapped-up boarding pass swinging from a wrist
+a wrapped-up boarding pass printed "BOARDING PASS __name_town__" in small black print, the rest of the pass plain white, swinging from a wrist
 a faded string of lanterns dangling from one hand
-a heavy certificate gripped tightly
+a heavy certificate headed "__text_certificate__" in gold capitals, the rest of the sheet plain cream, gripped tightly
 a brand-new e-reader carried by a strap
 a wrapped-up bucket resting on a hip
 a heavy compass held down at the side
@@ -616,15 +616,15 @@ a sleek modern hairbrush clutched to the chest
 a patterned bag of groceries clutched to the chest
 a cup of tea resting in the lap
 a well-loved handful of coins balanced on a shoulder
-a worn passport held down at the side
+a worn passport with "PASSPORT" in gold capitals on the cover held down at the side
 a patterned pair of gloves held out in front
-a glossy lottery ticket resting on a hip
+a glossy lottery ticket printed "LOTTO" in bold red capitals, the rest of the ticket plain, resting on a hip
 some brand-new knitting needles cradled gently
 a tiny woven basket pressed against the body
 a map lifted slightly
 a glass of wine held down at the side
 some polished gardening gloves held loosely in one hand
-a dusty paperback novel held loosely in one hand
+a dusty paperback novel titled "__name_book_title_any__" in bold capitals on the cover, the rest of the cover plain, held loosely in one hand
 a plain sack of flour resting on a hip
 a battered seashell held loosely in one hand
 a polished hiking pole resting in the lap
@@ -641,7 +641,7 @@ a lantern clutched to the chest
 a stone held out in front
 a wrapped-up hand mirror held out in front
 a plain set of keys held up as if showing it
-a colourful sealed envelope held out in front
+a colourful sealed envelope held out in front, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a vintage armful of firewood carried by a strap
 vintage analog camera held to eye
 a brand-new notebook gripped tightly
@@ -674,8 +674,8 @@ a well-loved folded umbrella held behind the back
 a brand-new bag of tools dangling from one hand
 a second-hand bunch of keys held down at the side
 a hand-made stack of papers held up as if showing it
-a worn sealed envelope held up to the light
-an old-fashioned envelope resting in the lap
+a worn sealed envelope held up to the light, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
+an old-fashioned envelope resting in the lap, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a plain tape measure gripped tightly
 a crate held up to the light
 a battered protest sign reading "__text_sign_english__" in __sign_lettering__ dangling from one hand
@@ -690,14 +690,14 @@ some faded drumsticks resting on a hip
 a worn palette tucked under one arm
 a glass of wine resting in the lap
 a faded clay pot tapping against a thigh
-a dented pill bottle resting in the lap
+a dented pill bottle resting in the lap, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a faded razor resting on a hip
 a lightweight potted plant cradled gently
 an old-fashioned folding fan dangling from one hand
 an oversized piece of fruit held out in front
 a second-hand film camera tucked under one arm
 a dusty whisk held down at the side
-a patterned bottle of water clutched to the chest
+a patterned bottle of water clutched to the chest, its label reading "__name_brand_upper__ SPRING WATER" __text_look_print__, the rest of the label plain
 a sleek modern piece of fruit held loosely in one hand
 a battered cleaver resting on a hip
 a glossy stack of papers held up to the light
@@ -711,12 +711,12 @@ a sleek modern kite string resting in the lap
 a dented tambourine resting on a hip
 a sticky hammer dangling from one hand
 a second-hand sack of flour held loosely in one hand
-a patterned clipboard with a form tucked under one arm
-a second-hand postcard held up to the light
+a patterned clipboard with a form headed "APPLICATION FORM" in black print, the rest of the sheet plain white, tucked under one arm
+a second-hand postcard reading "GREETINGS FROM __name_town__" in bright capitals, the rest of the card a photo, held up to the light
 a crochet hook and yarn lifted slightly
 a patterned handheld game console carried by a strap
 a vintage pair of gloves held in both hands
-a tattered can of soda carried by a strap
+a tattered can of soda carried by a strap, its side printed "__name_brand_upper__" __text_look_print__, the rest of the can a solid color
 a colourful torch pressed against the body
 a shopping list pressed against the body
 a plain box of matches held up as if showing it
@@ -739,7 +739,7 @@ a fresh loaf of bread held down at the side
 some glossy gardening gloves held down at the side
 a fish on a line tapping against a thigh
 a wrapped-up towel held behind the back
-a lightweight pill bottle dangling from one hand
+a lightweight pill bottle dangling from one hand, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a polished crate held behind the back
 a sleek modern pair of reading glasses tapping against a thigh
 a glossy lantern lifted slightly
@@ -752,8 +752,8 @@ a patterned screwdriver held loosely in one hand
 a well-loved coin purse gripped tightly
 a faded hat held in hand held loosely in one hand
 a wrapped-up piece of fruit dangling from one hand
-a vintage pill bottle held up to the light
-a polished can of soda cradled gently
+a vintage pill bottle held up to the light, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
+a polished can of soda cradled gently, its side printed "__name_brand_upper__" __text_look_print__, the rest of the can a solid color
 a lightweight pocket knife held up as if showing it
 a glossy bunch of grapes lifted slightly
 a wrapped-up pair of reading glasses held up as if showing it
@@ -775,7 +775,7 @@ a sticky lunchbox pressed against the body
 a faded armful of firewood balanced on a shoulder
 a lightweight medal held loosely in one hand
 a well-loved portable radio held up to the light
-a second-hand envelope held in both hands
+a second-hand envelope held in both hands, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a battered fish on a line held out in front
 a tiny lantern held up as if showing it
 a wrapped-up pair of reading glasses held up to the light
@@ -793,7 +793,7 @@ a wrapped-up leather handbag held down at the side
 a patterned rolling pin held in both hands
 a sleek modern bundle of firewood gripped tightly
 a brand-new pocket watch balanced on a shoulder
-a brand-new boarding pass held in both hands
+a brand-new boarding pass printed "BOARDING PASS" in bold black capitals, the rest of the pass plain white, held in both hands
 a tattered tambourine dangling from one hand
 a faded ceramic mug resting in the lap
 a patterned yoga mat held in both hands
@@ -802,8 +802,8 @@ a glossy folded newspaper with the headline "__text_headline__" __text_look_head
 a worn tape measure pressed against the body
 a glossy bunting resting in the lap
 a dusty violin held loosely in one hand
-a tiny paperback novel held down at the side
-a glossy postcard tucked under one arm
+a tiny paperback novel titled "__name_book_title_any__" in bold print on the cover, the rest of the cover plain, held down at the side
+a glossy postcard reading "GREETINGS FROM __name_town__" in bright capitals, the rest of the card a photo, tucked under one arm
 an old-fashioned cloth tote bag held up as if showing it
 a tiny bag of groceries lifted slightly
 a faded sewing needle and thread resting on a hip
@@ -813,7 +813,7 @@ a film camera dangling from one hand
 some lightweight gardening gloves resting in the lap
 a tiny crochet hook and yarn gripped tightly
 a dusty armful of firewood dangling from one hand
-a worn can of soda gripped tightly
+a worn can of soda gripped tightly, its side printed "__name_brand_upper__" __text_look_print__, the rest of the can a solid color
 a tiny megaphone and placard reading "__text_banner_protest__" in thick hand-painted letters balanced on a shoulder
 a plain broom tapping against a thigh
 a patterned bucket dangling from one hand
@@ -838,9 +838,9 @@ a wrapped-up folded newspaper with the headline "__text_headline__" __text_look_
 a sewing needle and thread lifted slightly
 a dented box of matches lifted slightly
 a tiny lipstick held loosely in one hand
-a patterned certificate carried by a strap
+a patterned certificate headed "__text_certificate__" in gold capitals, the rest of the sheet plain cream, carried by a strap
 a battered feather duster resting on a hip
-an old-fashioned birthday card cradled gently
+an old-fashioned birthday card reading "HAPPY BIRTHDAY" in bright looping letters on the front, the rest of the card plain, cradled gently
 a faded pocket watch held in both hands
 a colourful rolling pin carried by a strap
 a tiny crate tapping against a thigh
@@ -850,7 +850,7 @@ a dusty pocket watch held in both hands
 an oversized stack of papers dangling from one hand
 an old-fashioned stack of papers clutched to the chest
 a tattered cup of tea held up as if showing it
-a sticky can of soda balanced on a shoulder
+a sticky can of soda balanced on a shoulder, its side printed "__name_brand_upper__" __text_look_print__, the rest of the can a solid color
 a faded bunch of keys clutched to the chest
 a second-hand clipboard clutched to the chest
 a wrench gripped tightly
@@ -859,7 +859,7 @@ a bird feather swinging from a wrist
 a wrapped-up guitar swinging from a wrist
 a second-hand piece of fruit cradled gently
 a patterned flute held up as if showing it
-a glossy envelope held in both hands
+a glossy envelope held in both hands, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a tiny single flower balanced on a shoulder
 a plain piece of driftwood held behind the back
 a brand-new bowl of rice pressed against the body
@@ -868,13 +868,13 @@ a polished bag of tools held down at the side
 a patterned ice cream cone clutched to the chest
 a vintage tambourine dangling from one hand
 a vintage wristwatch strap held down at the side
-a brand-new magazine held behind the back
+a brand-new magazine with "__name_magazine__" across the cover in bold capitals, the rest of the cover a photo, held behind the back
 a wrapped-up bunch of bananas gripped tightly
 a glossy chef's knife held behind the back
-a banknote held out in front
+a banknote printed "20" in large ornate numerals, the rest of the note fine engraved patterns, held out in front
 a worn hairbrush held down at the side
 a first-aid kit tapping against a thigh
-a worn postcard tapping against a thigh
+a worn postcard reading "GREETINGS FROM __name_town__" in bright retro letters, the rest of the card plain, tapping against a thigh
 a wristwatch strap held loosely in one hand
 a hand-made torch held out in front
 a vintage power drill balanced on a shoulder
@@ -897,7 +897,7 @@ some plain gardening gloves gripped tightly
 a sleek modern pocket watch held down at the side
 a hand-made paper umbrella swinging from a wrist
 a glossy baseball glove swinging from a wrist
-a well-loved train ticket held up to the light
+a well-loved train ticket printed "__name_town__ TO __name_town__" in small black print, the rest of the ticket plain, held up to the light
 a battered stack of papers held behind the back
 a polished razor resting on a hip
 a lightweight tray of drinks pressed against the body
@@ -910,10 +910,10 @@ a hand mirror cradled gently
 a plain badminton racket held down at the side
 a glossy gift box gripped tightly
 a tattered flag swinging from a wrist
-a sleek modern paperback novel pressed against the body
+a sleek modern paperback novel titled "__name_book_title_any__" in bold print on the cover, the rest of the cover plain, pressed against the body
 a colourful sketchbook lifted slightly
-a pocket diary held up to the light
-a brand-new envelope held behind the back
+a pocket diary held up to the light, "__name_year__" stamped in small gold numbers on the cover, the rest of the cover plain
+a brand-new envelope held behind the back, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a hand-made folded umbrella held behind the back
 a tiny lunchbox held out in front
 a polished suitcase handle tucked under one arm
@@ -924,7 +924,7 @@ an oversized large serving spoon held behind the back
 a brand-new fish on a line lifted slightly
 a faded messenger bag pressed against the body
 a colourful tablet held up to the light
-a sticky certificate tucked under one arm
+a sticky certificate headed "__text_certificate__" in ornate black lettering, the rest of the sheet plain cream, tucked under one arm
 a coin purse held in both hands
 a lightweight garden trowel held in both hands
 a tattered rope swinging from a wrist
@@ -941,7 +941,7 @@ a sleek modern clay pot resting in the lap
 a colourful broom resting on a hip
 a wrapped-up folded umbrella tapping against a thigh
 an oversized compass pressed against the body
-a passport cradled gently
+a passport with "PASSPORT" in gold capitals on the cover, the rest of the cover plain, cradled gently
 a colourful bunch of grapes tucked under one arm
 a hand-made box of vegetables held up as if showing it
 a brand-new pocket knife held down at the side
@@ -970,8 +970,8 @@ a tattered stack of papers pressed against the body
 an old-fashioned wallet pressed against the body
 a heavy manila folder balanced on a shoulder
 a second-hand baseball glove balanced on a shoulder
-a boarding pass carried by a strap
-a glossy pill bottle held up to the light
+a boarding pass printed "BOARDING PASS" in bold black capitals, the rest of the pass plain white, carried by a strap
+a glossy pill bottle held up to the light, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 some polished gardening gloves held down at the side
 an old-fashioned piece of fruit tucked under one arm
 a brand-new tennis racket tucked under one arm
@@ -980,7 +980,7 @@ a glossy camera held up to the light
 a patterned bunch of bananas held up to the light
 an old-fashioned megaphone gripped tightly
 a lightweight torch held behind the back
-a sleek modern pill bottle pressed against the body
+a sleek modern pill bottle pressed against the body, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a lightweight first-aid kit held up as if showing it
 a well-loved string of lanterns carried by a strap
 a dented tennis racket held down at the side
@@ -1000,7 +1000,7 @@ a brand-new bunch of grapes held behind the back
 a patterned suitcase handle clutched to the chest
 a dusty wooden spoon dangling from one hand
 a dusty football pressed against the body
-a brand-new birthday card tucked under one arm
+a brand-new birthday card reading "HAPPY BIRTHDAY" in bright looping letters, the rest of the card plain, tucked under one arm
 a battered guitar resting in the lap
 a hand-made watering can held up as if showing it
 a dusty small sculpture carried by a strap
@@ -1016,36 +1016,36 @@ a plain garden trowel cradled gently
 a worn lipstick held behind the back
 a plain messenger bag resting on a hip
 glowing futuristic device held
-a train ticket balanced on a shoulder
+a train ticket printed "__name_town__ TO __name_town__" in small black print, the rest of the ticket plain, balanced on a shoulder
 a faded smartphone held behind the back
 a tattered roll of blueprints resting in the lap
 a well-loved set of keys held behind the back
 a lightweight bundle of firewood held behind the back
 a sticky rosary held behind the back
-a tiny birthday card held up to the light
+a tiny birthday card reading "HAPPY BIRTHDAY" in bright looping letters on the front, the rest of the card plain, held up to the light
 a tiny lotus flower held in both hands
 a worn fish on a line balanced on a shoulder
 a colourful lotus flower dangling from one hand
 an old-fashioned calculator clutched to the chest
 a well-loved lantern carried by a strap
 a brand-new bucket carried by a strap
-a wrapped-up postcard tapping against a thigh
+a wrapped-up postcard reading "GREETINGS FROM __name_town__" in bright retro letters, the rest of the card plain, tapping against a thigh
 a bundle of firewood gripped tightly
 a brand-new notebook held loosely in one hand
 some oversized knitting needles held loosely in one hand
 a worn roll of blueprints balanced on a shoulder
-an oversized bag of rice lifted slightly
+an oversized bag of rice lifted slightly, printed "__name_brand_upper__" with "RICE" below it __text_look_print__, the rest of the bag plain
 a hand-made sack of flour held in both hands
 a dusty chef's knife held loosely in one hand
 a brand-new sketchbook held up as if showing it
 a well-loved incense stick resting on a hip
 a second-hand lunchbox held loosely in one hand
 a worn bowl of rice held out in front
-a colourful pill bottle pressed against the body
-a dented pill bottle carried by a strap
+a colourful pill bottle pressed against the body, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
+a dented pill bottle carried by a strap, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a well-loved folded blanket dangling from one hand
-a wrapped-up magazine held loosely in one hand
-a heavy banknote tucked under one arm
+a wrapped-up magazine with "__name_magazine__" across the cover in bold masthead letters, the rest of the cover plain, held loosely in one hand
+a heavy banknote printed "20" in large ornate numerals, the rest of the note fine engraved patterns, tucked under one arm
 a brand-new watering can tapping against a thigh
 a plain crochet hook and yarn pressed against the body
 a well-loved ice cream cone cradled gently
@@ -1055,13 +1055,13 @@ a second-hand cane and a bag tapping against a thigh
 a dusty pocket knife held up to the light
 some heavy knitting needles swinging from a wrist
 some lightweight knitting needles tucked under one arm
-a tattered boarding pass held up to the light
+a tattered boarding pass printed "BOARDING PASS __name_town__" in small black print, the rest of the pass plain white, held up to the light
 a box of matches carried by a strap
 a brand-new sewing needle and thread clutched to the chest
 a polished feather duster lifted slightly
 a tablet swinging from a wrist
 a tiny pair of reading glasses tucked under one arm
-a colourful pocket diary cradled gently
+a colourful pocket diary cradled gently, "__name_year__" stamped in small gold numbers on the cover, the rest of the cover plain
 a wrapped-up folded newspaper with the headline "__text_headline__" __text_look_headline__ held down at the side
 a sticky microphone swinging from a wrist
 a tiny paper umbrella dangling from one hand
@@ -1071,9 +1071,9 @@ slender long umbrella held
 a sleek modern hammer resting in the lap
 some tattered knitting needles held up as if showing it
 a tiny protest sign reading "__text_sign_english__" in __sign_lettering__ held down at the side
-a dusty magazine resting on a hip
+a dusty magazine with "__name_magazine__" across the cover in bold capitals, the rest of the cover a photo, resting on a hip
 a second-hand bird feather held up to the light
-a tattered passport swinging from a wrist
+a tattered passport with "PASSPORT" in gold capitals on the cover swinging from a wrist
 a faded gift box held down at the side
 a faded broom carried by a strap
 a faded pile of laundry tucked under one arm
@@ -1089,18 +1089,18 @@ a worn wristwatch strap tapping against a thigh
 a colourful microphone dangling from one hand
 a colourful fishing rod pressed against the body
 a faded set of keys pressed against the body
-a certificate tucked under one arm
+a certificate headed "__text_certificate__" in gold capitals, the rest of the sheet plain cream, tucked under one arm
 a worn lunchbox gripped tightly
 a heavy armful of firewood cradled gently
 steaming mug of coffee held in both hands
-a brand-new paperback novel held loosely in one hand
-a pill bottle resting on a hip
+a brand-new paperback novel titled "__name_book_title_any__" in bold capitals on the cover, the rest of the cover plain, held loosely in one hand
+a pill bottle resting on a hip, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a well-loved first-aid kit resting in the lap
 a brand-new cloth tote bag pressed against the body
 a paper fan held behind the back
 a patterned feather duster resting on a hip
 an oversized glass of wine carried by a strap
-a polished bag of rice lifted slightly
+a polished bag of rice lifted slightly, printed "__name_brand_upper__" with "RICE" below it __text_look_print__, the rest of the bag plain
 a worn tablet resting in the lap
 a brand-new pair of gloves held down at the side
 a vintage embroidery held out in front
@@ -1109,7 +1109,7 @@ a well-loved suitcase handle held in both hands
 a vintage walking cane gripped tightly
 a glossy towel dangling from one hand
 a worn large serving spoon pressed against the body
-a dented clipboard with a form balanced on a shoulder
+a dented clipboard with a form headed "APPLICATION FORM" in black print, the rest of the sheet plain white, balanced on a shoulder
 a polished megaphone tucked under one arm
 a colourful pair of headphones carried by a strap
 a woven basket balanced on a shoulder
@@ -1119,7 +1119,7 @@ a hand-made folded blanket pressed against the body
 a dented box of matches pressed against the body
 a well-loved bundle of firewood swinging from a wrist
 a portable radio held behind the back
-a dusty pocket diary lifted slightly
+a dusty pocket diary lifted slightly, "__name_year__" stamped in small gold numbers on the cover, the rest of the cover plain
 an armful of firewood pressed against the body
 an old-fashioned hairbrush pressed against the body
 a polished small cactus balanced on a shoulder
@@ -1150,7 +1150,7 @@ a lightweight violin resting in the lap
 a tiny hand mirror lifted slightly
 a bird feather held up as if showing it
 a plain camera held up to the light
-a lottery ticket held up to the light
+a lottery ticket printed "LOTTO" in bold red capitals, the rest of the ticket plain, held up to the light
 a polished walking cane tucked under one arm
 a tattered megaphone and placard reading "__text_banner_protest__" in thick hand-painted letters clutched to the chest
 a sleek modern protest sign reading "__text_sign_english__" in __sign_lettering__ tucked under one arm
@@ -1176,7 +1176,7 @@ a heavy cup of tea carried by a strap
 a woven basket resting in the lap
 a sleek modern broom carried by a strap
 a dusty handful of coins resting in the lap
-a worn banknote swinging from a wrist
+a worn banknote printed "20" in each corner in fine engraved numerals, the rest of the note plain, swinging from a wrist
 a wrapped-up bouquet of flowers carried by a strap
 a dusty stone lifted slightly
 a patterned whisk tucked under one arm
@@ -1185,11 +1185,11 @@ a worn comb held out in front
 a picnic basket swinging from a wrist
 a scarf held in both hands
 a battered chef's knife held loosely in one hand
-a glossy envelope held out in front
+a glossy envelope held out in front, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a second-hand protest sign reading "__text_sign_english__" in __sign_lettering__ resting on a hip
 a tablet tapping against a thigh
 a patterned cloth tote bag resting on a hip
-a faded bag of rice pressed against the body
+a faded bag of rice pressed against the body, printed "__name_brand_upper__" with "RICE" below it __text_look_print__, the rest of the bag plain
 a glossy armful of firewood held out in front
 a dusty broom balanced on a shoulder
 a folding fan cradled gently
@@ -1200,9 +1200,9 @@ a patterned cleaver pressed against the body
 a sticky glass of wine held up to the light
 a lightweight handful of coins tapping against a thigh
 a brand-new small cactus dangling from one hand
-a brand-new magazine resting in the lap
+a brand-new magazine with "__name_magazine__" across the cover in bold capitals, the rest of the cover a photo, resting in the lap
 a worn paper fan balanced on a shoulder
-a plain pill bottle held loosely in one hand
+a plain pill bottle held loosely in one hand, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a tiny microphone swinging from a wrist
 a sleek modern set of keys held up as if showing it
 some patterned knitting needles balanced on a shoulder
@@ -1224,7 +1224,7 @@ a polished small trophy held down at the side
 some polished knitting needles held up to the light
 some dented prayer beads lifted slightly
 a dusty lipstick held up as if showing it
-a patterned lottery ticket tucked under one arm
+a patterned lottery ticket printed "LOTTO" in bold red capitals, the rest of the ticket plain, tucked under one arm
 a medal held down at the side
 a dusty clipboard dangling from one hand
 a wrapped-up bouquet of flowers held out in front
@@ -1236,7 +1236,7 @@ a tiny crochet hook and yarn held loosely in one hand
 a faded bunch of keys cradled gently
 a second-hand balloon held out in front
 some polished prayer beads cradled gently
-a boarding pass pressed against the body
+a boarding pass printed "BOARDING PASS" in bold black capitals, the rest of the pass plain white, pressed against the body
 a brand-new rosary held loosely in one hand
 a glossy bag of seeds pressed against the body
 a heavy piece of driftwood cradled gently
@@ -1247,7 +1247,7 @@ a patterned bunch of keys gripped tightly
 a lantern held loosely in one hand
 a faded manila folder gripped tightly
 a polished lantern held loosely in one hand
-a banknote resting in the lap
+a banknote printed "20" in large ornate numerals, the rest of the note fine engraved patterns, resting in the lap
 a wrapped-up lotus flower pressed against the body
 a well-loved baseball glove pressed against the body
 a glossy tray of drinks held loosely in one hand
@@ -1258,7 +1258,7 @@ a baseball glove dangling from one hand
 a polished stone held up to the light
 a colourful dustpan lifted slightly
 a vintage tape measure lifted slightly
-a battered sealed envelope gripped tightly
+a battered sealed envelope gripped tightly, addressed to "__name_first__ __name_surname__" __text_look_handwriting__, the rest of the envelope plain
 a tattered screwdriver tapping against a thigh
 a plain flute gripped tightly
 an old-fashioned feather duster held behind the back
@@ -1269,7 +1269,7 @@ a heavy razor held up to the light
 a worn fish on a line resting on a hip
 a tiny flag resting on a hip
 a wrapped-up badminton racket resting in the lap
-a battered lottery ticket held loosely in one hand
+a battered lottery ticket printed "LOTTO" in bold red capitals, the rest of the ticket plain, held loosely in one hand
 an oversized paper fan held up as if showing it
 a dented candle in a holder resting on a hip
 a colourful suitcase handle lifted slightly
@@ -1279,7 +1279,7 @@ a sleek modern plate of food dangling from one hand
 a dented feather duster resting in the lap
 a sticky e-reader resting on a hip
 a hand-made rolling pin held down at the side
-a brand-new passport held in both hands
+a brand-new passport with "PASSPORT" in gold capitals on the cover, the rest of the cover plain, held in both hands
 a tiny power drill cradled gently
 a wrapped-up hammer held up to the light
 a hand-made messenger bag resting in the lap
@@ -1292,16 +1292,16 @@ a polished candle in a holder tapping against a thigh
 a polished hat held in hand cradled gently
 an old-fashioned megaphone and placard reading "__text_banner_protest__" in thick hand-painted letters pressed against the body
 an oversized calculator held behind the back
-a heavy paperback novel held out in front
+a heavy paperback novel titled "__name_book_title_any__" in bold capitals on the cover, the rest of the cover plain, held out in front
 a battered bouquet of flowers swinging from a wrist
-a polished paperback novel held loosely in one hand
+a polished paperback novel titled "__name_book_title_any__" in bold capitals on the cover, the rest of the cover plain, held loosely in one hand
 a glossy picnic basket dangling from one hand
 a second-hand basket of eggs clutched to the chest
 an oversized basket of eggs held loosely in one hand
 an old-fashioned dustpan held loosely in one hand
 a second-hand guitar clutched to the chest
 a dusty cloth tote bag held up to the light
-a wrapped-up certificate held up as if showing it
+a wrapped-up certificate headed "__text_certificate__" in ornate black lettering, the rest of the sheet plain cream, held up as if showing it
 a dusty clipboard held behind the back
 a hairbrush cradled gently
 a well-loved walking cane held down at the side
@@ -1312,11 +1312,11 @@ a lightweight single flower clutched to the chest
 a lightweight rosary pressed against the body
 a faded wooden spoon tapping against a thigh
 a bunting held up to the light
-a vintage hardback book held loosely in one hand
+a vintage hardback book titled "__name_book_title_any__" in gold letters on the spine held loosely in one hand
 a sticky bird feather swinging from a wrist
 a battered tape measure held behind the back
 a glossy bunch of herbs held loosely in one hand
-a polished pocket diary balanced on a shoulder
+a polished pocket diary balanced on a shoulder, "__name_year__" stamped in small gold numbers on the cover, the rest of the cover plain
 a well-loved pair of gloves pressed against the body
 a battered incense stick resting in the lap
 a hand-made sack of flour balanced on a shoulder
@@ -1332,23 +1332,23 @@ bundle of dried herbs held
 a heavy candle in a holder resting in the lap
 a broom resting on a hip
 a second-hand dustpan resting on a hip
-a tiny passport swinging from a wrist
+a tiny passport with "PASSPORT" in gold capitals on the cover swinging from a wrist
 an old-fashioned pile of laundry held out in front
 a worn cup of tea swinging from a wrist
 an old-fashioned suitcase handle carried by a strap
 a glossy shopping list gripped tightly
 a faded stack of plates held behind the back
 a colourful small sculpture held loosely in one hand
-a worn certificate balanced on a shoulder
+a worn certificate headed "__text_certificate__" in ornate black lettering, the rest of the sheet plain cream, balanced on a shoulder
 a tiny cup of tea tucked under one arm
-a pocket diary clutched to the chest
-a wrapped-up banknote carried by a strap
+a pocket diary clutched to the chest, "__name_year__" stamped in small gold numbers on the cover, the rest of the cover plain
+a wrapped-up banknote printed "20" in each corner in fine engraved numerals, the rest of the note plain, carried by a strap
 a palette swinging from a wrist
 a brand-new handful of coins pressed against the body
 a heavy e-reader cradled gently
 a wrapped-up bouquet of flowers held behind the back
 an old-fashioned folded newspaper with the headline "__text_headline__" __text_look_headline__ lifted slightly
-a pocket diary tapping against a thigh
+a pocket diary tapping against a thigh, "__name_year__" stamped in small gold numbers on the cover, the rest of the cover plain
 a sticky gift box held up as if showing it
 a flag gripped tightly
 a dented watering can pressed against the body
@@ -1374,7 +1374,7 @@ a brand-new single flower resting in the lap
 a dented suitcase handle held up to the light
 an oversized camera resting on a hip
 a worn shawl pressed against the body
-a sleek modern boarding pass dangling from one hand
+a sleek modern boarding pass printed "BOARDING PASS" in bold black capitals, the rest of the pass plain white, dangling from one hand
 a dusty wallet held behind the back
 a glossy wristwatch strap pressed against the body
 some heavy thermos held loosely in one hand
@@ -1383,7 +1383,7 @@ a heavy sack of flour lifted slightly
 some glossy knitting needles gripped tightly
 a tattered bubble wand tapping against a thigh
 a lightweight embroidery tapping against a thigh
-a well-loved passport balanced on a shoulder
+a well-loved passport with "PASSPORT" in gold capitals on the cover balanced on a shoulder
 a smartphone pressed against the body
 a sticky wrapped present held in both hands
 a sleek modern folding fan tucked under one arm
@@ -1402,10 +1402,10 @@ a glossy rosary carried by a strap
 a wrapped-up shawl held up to the light
 a tattered incense stick clutched to the chest
 a dented briefcase swinging from a wrist
-a brand-new handwritten letter resting in the lap
+a brand-new handwritten letter reading "__text_hidden_message__" __text_look_handwriting__, the rest of the sheet plain, resting in the lap
 a second-hand whisk held loosely in one hand
 an oversized handful of coins held up as if showing it
-a vintage passport held up to the light
+a vintage passport with "PASSPORT" in gold capitals on the cover held up to the light
 a heavy feather duster resting on a hip
 a polished woven basket carried by a strap
 a vintage sack of flour cradled gently
@@ -1427,11 +1427,11 @@ a colourful flag balanced on a shoulder
 a patterned handful of coins dangling from one hand
 a dusty calculator swinging from a wrist
 a patterned stone clutched to the chest
-a tiny pill bottle dangling from one hand
+a tiny pill bottle dangling from one hand, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a well-loved fish on a line lifted slightly
 a dusty screwdriver tapping against a thigh
 a colourful cloth tote bag resting on a hip
-a wrapped-up boarding pass held out in front
+a wrapped-up boarding pass printed "BOARDING PASS __name_town__" in small black print, the rest of the pass plain white, held out in front
 a wrapped-up bunch of grapes carried by a strap
 a glossy cane and a bag gripped tightly
 a patterned bunch of keys balanced on a shoulder
@@ -1440,7 +1440,7 @@ a plain armful of firewood balanced on a shoulder
 a tattered e-reader held up as if showing it
 a torch cradled gently
 a faded portable radio held up as if showing it
-a pill bottle held behind the back
+a pill bottle held behind the back, its label reading "__name_brand_upper__" with "TAKE ONE DAILY" below it __text_look_label__, the rest of the label plain
 a second-hand box of vegetables resting in the lap
 a dented loaf of bread under one arm cradled gently
 a sticky paper shopping bag dangling from one hand
@@ -1452,9 +1452,9 @@ some dusty gardening gloves held down at the side
 a heavy handful of coins gripped tightly
 a dented hiking pole dangling from one hand
 an oversized badminton racket tucked under one arm
-a sticky banknote held up to the light
-a birthday card held up to the light
-a dented clipboard with a form pressed against the body
+a sticky banknote printed "20" in each corner in fine engraved numerals, the rest of the note plain, held up to the light
+a birthday card reading "HAPPY BIRTHDAY" in bright looping letters, the rest of the card plain, held up to the light
+a dented clipboard with a form headed "APPLICATION FORM" in black print, the rest of the sheet plain white, pressed against the body
 a second-hand clay pot gripped tightly
 a sticky e-reader pressed against the body
 a tattered sack of flour tapping against a thigh

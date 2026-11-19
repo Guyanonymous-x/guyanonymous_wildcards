@@ -451,7 +451,7 @@ a postmaster in a feminine cut (village), wearing a double-breasted jacket, trou
 a potter in a feminine cut (studio), in a clay-stained apron over a loose shirt and trousers and clogs, with mid-tone brown tanned skin
 a powered-armour engineer hero in a feminine cut (superhero), in a segmented metal armour suit with glowing vents and a helmet, with mid-tone brown tanned skin
 a prison guard in a feminine cut (modern), in a pale blue shirt with a duty belt and dark trousers and boots, with mid-tone brown tanned skin
-a professor in a feminine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a feminine cut with a nipped-in waist and carrying a book, with mid-tone brown tanned skin
+a professor in a feminine cut (university), wearing a flowing academic gown with a hood, a mortarboard and shoes, tailored in a feminine cut with a nipped-in waist and carrying a book, its cover reading "__name_book_title_any__" in small gold capitals, the rest of the cover plain, with mid-tone brown tanned skin
 a pullman porter in a feminine cut (1930s), in a double-breasted jacket with brass buttons and trousers and black shoes, with mid-tone brown tanned skin
 a punk in a feminine cut (1977 London), wearing a studded jacket with safety pins, torn trousers, a mohawk and boots, in a feminine cut with shaped seams and a flattering line, with mid-tone brown tanned skin
 a quilter in a feminine cut (home), wearing an apron with pins on the front, a skirt and slippers, cut for a feminine figure with a fitted waist, with mid-tone brown tanned skin
@@ -527,7 +527,7 @@ a terraforming botanist in a feminine cut (sci-fi), in an olive coverall with a 
 a three-piece suit wearer in a feminine cut, dressed in a pinstripe jacket and waistcoat with a watch chain, a shirt and a tie with suit trousers, with mid-tone brown tanned skin
 a tin man robot in a feminine cut (theatre), wearing a metal funnel hat and silver chest piece, silver trousers, a funnel hat and silver boots, tailored in a feminine cut with a nipped-in waist, with mid-tone brown tanned skin
 a toilet paper roll costume wearer in a feminine cut, dressed in a white tube suit, with mid-tone brown tanned skin
-a tour guide in a feminine cut (city), wearing a branded polo and a flag, shorts, a sun hat and trainers, in a feminine cut with shaped seams and a flattering line and carrying a flag, with mid-tone brown tanned skin
+a tour guide in a feminine cut (city), wearing a branded polo with "__name_brand_upper__" on the chest and a flag, shorts, a sun hat and trainers, in a feminine cut with shaped seams and a flattering line and carrying a flag, with mid-tone brown tanned skin
 a town mascot cow in a feminine cut (farm), in a black and white cow suit and a cow head, with mid-tone brown tanned skin
 a traffic officer in a feminine cut (road), in a high-visibility jacket with white gloves and a reflective cap, with mid-tone brown tanned skin
 a train conductor in a feminine cut (steam era), wearing a double-breasted jacket with brass buttons and a watch chain, trousers, a peaked cap and black shoes, in a feminine cut with shaped seams and a flattering line and carrying a punch and whistle, with mid-tone brown tanned skin
@@ -540,7 +540,7 @@ a vampire in a feminine cut (gothic), wearing a high-collared cape over a ruffle
 a vaquero in a feminine cut (Mexico), in a short bolero jacket and embroidered trousers and boots, with mid-tone brown tanned skin
 a vaudeville performer in a feminine cut (stage), wearing a striped blazer with a straw boater, white trousers, a straw boater and spats, cut for a feminine figure with a fitted waist, with mid-tone brown tanned skin
 a void wanderer in a feminine cut (sci-fi), wearing a hooded cloak over a patched suit, a breathing mask and boots, cut for a feminine figure with a fitted waist and carrying a lantern, with mid-tone brown tanned skin
-a walking sandwich board seller in a feminine cut (street), in a hot dog costume with a sandwich board and shoes, with mid-tone brown tanned skin
+a walking sandwich board seller in a feminine cut (street), in a hot dog costume with a sandwich board reading "HOT DOGS __name_price__" and shoes, with mid-tone brown tanned skin
 a wandering monster slayer in a feminine cut (fantasy), wearing a worn leather jerkin with strapped vials, trousers and boots, tailored in a feminine cut with a nipped-in waist, with mid-tone brown tanned skin
 a wasteland raider in a feminine cut (wasteland), in spiked shoulder pads over bare arms and torn trousers and boots, with mid-tone brown tanned skin
 a witch in a feminine cut (folklore), in a long black dress with a patchwork shawl and boots, with mid-tone brown tanned skin
@@ -551,7 +551,7 @@ an Aboriginal elder in ceremonial body paint in a feminine cut, dressed in ochre
 an Amazon warrior in a feminine cut (fantasy), in a leather breastplate with arm guards and a short skirt and sandals, with mid-tone brown tanned skin
 an American Civil War infantry soldier in a feminine cut, dressed in a wool sack coat with wool trousers, with mid-tone brown tanned skin
 an Andean festival dancer in a feminine cut, dressed in a heavily sequined jacket with a flared skirt, with mid-tone brown tanned skin
-an Anglican vicar in a feminine cut (village church), wearing a black cassock with a white surplice and black shoes, tailored in a feminine cut with a nipped-in waist and carrying a bible, with mid-tone brown tanned skin
+an Anglican vicar in a feminine cut (village church), wearing a black cassock with a white surplice and black shoes, tailored in a feminine cut with a nipped-in waist and carrying a bible with "HOLY BIBLE" in gold letters on the cover, the rest of the cover plain, with mid-tone brown tanned skin
 an Army field medic in a feminine cut (modern military), wearing camouflage combat shirt with a red cross patch and body armour, combat trousers, a helmet with a red cross and combat boots, cut for a feminine figure with a fitted waist and carrying a medical pack, with mid-tone brown tanned skin
 an Ayurvedic practitioner in a feminine cut (South Asia), in a white kurta with a shoulder cloth and a dhoti and leather sandals, with mid-tone brown tanned skin
 an Edwardian suffragette in a feminine cut (1900s), wearing a tailored jacket with a sash, a long skirt, a hat and boots, cut for a feminine figure with a fitted waist, with mid-tone brown tanned skin

@@ -1,5 +1,5 @@
-flyers wedged in the door frame for a pizza place and a gutter cleaner
-a parcel propped against the door with a sticker saying it was left in a safe place
+flyers wedged in the door frame for a pizza place and a gutter cleaner reading "PIZZA __name_price__" and "GUTTERS CLEANED __name_phone__" in bold print
+a parcel propped against the door with a sticker reading "LEFT IN A SAFE PLACE" __text_look_label__ saying it was left in a safe place
 a folded umbrella dripping
 a pair of shoes left outside
 a doormat with the bristles worn in one spot
@@ -8,5 +8,5 @@ a key under a pot which everybody says nobody does
 a child's welly on its side
 a withered hanging basket
 a cobweb across the porch light
-a pizza leaflet trodden into the mat
+a pizza leaflet headed "__name_brand_invented__ PIZZA" in bold red print, the rest of the leaflet plain, trodden into the mat
 a spider that rebuilds nightly

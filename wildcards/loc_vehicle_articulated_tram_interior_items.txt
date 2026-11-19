@@ -2,11 +2,11 @@ a validator with a card held against it
 a buggy in the low-floor bay
 a bicycle in the bay where it is permitted
 a shopping trolley on wheels
-a free newspaper
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a pair of earphones
 a rucksack
 a dog on a lead in the aisle
-a ticket machine receipt on the floor
-a hand-written notice over a validator
+a ticket machine receipt reading "__text_receipt__" __text_look_receipt__, the rest of the strip blank, on the floor
+a hand-written notice over a validator reading "OUT OF ORDER" in black marker, the rest of the sheet plain white
 a litter bin by a door
 an umbrella dripping in the vestibule

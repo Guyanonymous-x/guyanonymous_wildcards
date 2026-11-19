@@ -1,6 +1,6 @@
 a carefully lined comfort-fit rounded inner band
 a carefully lined gently tapered shank
-a carefully lined hallmark stamp
+a carefully lined hallmark reading "__text_hallmark__" stamp
 a carefully lined hidden engraved message
 a carefully lined lightweight hollow build
 a carefully lined low-profile setting that won't snag
@@ -30,7 +30,7 @@ a concealed soft rolled inner edge
 a concealed tarnish-resistant coating
 a concealed tight
 a discreet comfort-fit rounded inner band
-a discreet hallmark stamp
+a discreet hallmark reading "__text_hallmark__" stamp
 a discreet hidden engraved message
 a discreet low-profile setting that won't snag
 a discreet scratch-resistant finish
@@ -40,7 +40,7 @@ a discreet tight
 a double-locked stone setting
 a double-stitched comfort-fit rounded inner band
 a double-stitched double-locked stone setting
-a double-stitched hallmark stamp
+a double-stitched hallmark reading "__text_hallmark__" stamp
 a double-stitched hidden engraved message
 a double-stitched hypoallergenic
 a double-stitched low-profile setting that won't snag
@@ -58,7 +58,7 @@ a firmly attached tight
 a generously sized comfort-fit rounded inner band
 a generously sized double-locked stone setting
 a generously sized gently tapered shank
-a generously sized hallmark stamp
+a generously sized hallmark reading "__text_hallmark__" stamp
 a generously sized hidden engraved message
 a generously sized lightweight hollow build
 a generously sized low-profile setting that won't snag
@@ -67,10 +67,10 @@ a generously sized sizing bead inside the band
 a generously sized tarnish-resistant coating
 a generously sized tight
 a gently tapered shank
-a hallmark stamp
+a hallmark reading "__text_hallmark__" stamp
 a handy comfort-fit rounded inner band
 a handy gently tapered shank
-a handy hallmark stamp
+a handy hallmark reading "__text_hallmark__" stamp
 a handy hidden engraved message
 a handy hypoallergenic
 a handy lightweight hollow build
@@ -81,7 +81,7 @@ a handy sizing bead inside the band
 a handy soft rolled inner edge
 a handy tight
 a hidden engraved message
-a hidden hallmark stamp
+a hidden hallmark reading "__text_hallmark__" stamp
 a hidden engraved message
 a hidden hypoallergenic
 a hidden lightweight hollow build
@@ -92,7 +92,7 @@ a low-profile setting that won't snag
 a neatly finished comfort-fit rounded inner band
 a neatly finished double-locked stone setting
 a neatly finished gently tapered shank
-a neatly finished hallmark stamp
+a neatly finished hallmark reading "__text_hallmark__" stamp
 a neatly finished hypoallergenic
 a neatly finished protective bezel around the stone
 a neatly finished resizable shank
@@ -113,7 +113,7 @@ a padded tarnish-resistant coating
 a padded tight
 a protective bezel around the stone
 a quietly useful comfort-fit rounded inner band
-a quietly useful hallmark stamp
+a quietly useful hallmark reading "__text_hallmark__" stamp
 a quietly useful hypoallergenic
 a quietly useful low-profile setting that won't snag
 a quietly useful protective bezel around the stone
@@ -149,7 +149,7 @@ a secure sizing bead inside the band
 a sizing bead inside the band
 a slim double-locked stone setting
 a slim gently tapered shank
-a slim hallmark stamp
+a slim hallmark reading "__text_hallmark__" stamp
 a slim hypoallergenic
 a slim lightweight hollow build
 a slim scratch-resistant finish
@@ -158,7 +158,7 @@ a slim tarnish-resistant coating
 a smoothly working comfort-fit rounded inner band
 a smoothly working double-locked stone setting
 a smoothly working gently tapered shank
-a smoothly working hallmark stamp
+a smoothly working hallmark reading "__text_hallmark__" stamp
 a smoothly working hidden engraved message
 a smoothly working lightweight hollow build
 a smoothly working low-profile setting that won't snag
@@ -172,7 +172,7 @@ a soft rolled inner edge
 a sturdy comfort-fit rounded inner band
 a sturdy double-locked stone setting
 a sturdy gently tapered shank
-a sturdy hallmark stamp
+a sturdy hallmark reading "__text_hallmark__" stamp
 a sturdy hypoallergenic
 a sturdy lightweight hollow build
 a sturdy low-profile setting that won't snag
@@ -184,7 +184,7 @@ a sturdy tarnish-resistant coating
 a sturdy tight
 a tarnish-resistant coating
 a tidy comfort-fit rounded inner band
-a tidy hallmark stamp
+a tidy hallmark reading "__text_hallmark__" stamp
 a tidy hidden engraved message
 a tidy hypoallergenic
 a tidy lightweight hollow build
@@ -201,7 +201,7 @@ a tough scratch-resistant finish
 a tough tight
 a well-placed comfort-fit rounded inner band
 a well-placed double-locked stone setting
-a well-placed hallmark stamp
+a well-placed hallmark reading "__text_hallmark__" stamp
 a well-placed hidden engraved message
 a well-placed hypoallergenic
 a well-placed lightweight hollow build
@@ -213,7 +213,7 @@ a well-placed tarnish-resistant coating
 a well-placed tight
 a well-positioned comfort-fit rounded inner band
 a well-positioned double-locked stone setting
-a well-positioned hallmark stamp
+a well-positioned hallmark reading "__text_hallmark__" stamp
 a well-positioned hypoallergenic
 a well-positioned lightweight hollow build
 a well-positioned protective bezel around the stone
@@ -223,7 +223,7 @@ a well-positioned soft rolled inner edge
 an easily reached comfort-fit rounded inner band
 an easily reached double-locked stone setting
 an easily reached gently tapered shank
-an easily reached hallmark stamp
+an easily reached hallmark reading "__text_hallmark__" stamp
 an easily reached hidden engraved message
 an easily reached hypoallergenic
 an easily reached lightweight hollow build

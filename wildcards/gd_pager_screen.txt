@@ -1,6 +1,6 @@
 a small monochrome screen with a line of text
-a tiny dot-matrix display
-a small greenish-grey screen with big letters
+a tiny dot-matrix display reading "__name_phone__" __text_look_dotmatrix__
+a small greenish-grey screen with big letters reading "__text_phone_message__"
 a segmented display with digits
 a backlit screen with amber glow
 a screen with two lines of text

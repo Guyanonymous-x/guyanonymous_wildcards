@@ -1,6 +1,6 @@
-a free newspaper
+a free newspaper with the masthead "__name_newspaper__" and the headline "__text_headline__" __text_look_headline__, the rest of the front page plain
 a buggy in the bay
-a hand-written notice on a window
+a hand-written notice reading "__text_door_notice__" in black marker, the rest of the sheet plain white, on a window
 an earphone lead
-a bus company leaflet
+a bus company leaflet headed "__name_town__ BUSES" __text_look_print__, the rest of the leaflet plain
 a bell cord along the ceiling
