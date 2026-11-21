@@ -1,32 +1,140 @@
-A bag with a sticker of their {boyfriend|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
-A bag with a sticker of their {fiancé|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
-A bag with a sticker of their {husband|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
-A bag with a sticker of their {male partner|partner}'s favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
-A second coffee mug, for their {boyfriend|partner}, stands next to their own.
-A second coffee mug, for their {fiancé|partner}, stands next to their own.
-A second coffee mug, for their {husband|partner}, stands next to their own.
-A second coffee mug, for their {male partner|partner}, stands next to their own.
-They are holding hands with their {boyfriend|partner}, only the linked fingers visible.
-They are holding hands with their {fiancé|partner}, only the linked fingers visible.
-They are holding hands with their {husband|partner}, only the linked fingers visible.
-They are holding hands with their {male partner|partner}, only the linked fingers visible.
-They are reading a message from their {boyfriend|partner} on a phone.
-They are reading a message from their {fiancé|partner} on a phone.
-They are reading a message from their {husband|partner} on a phone.
-They are reading a message from their {male partner|partner} on a phone.
-They keep a small keepsake from their {boyfriend|partner} in a pocket.
-They keep a small keepsake from their {fiancé|partner} in a pocket.
-They keep a small keepsake from their {husband|partner} in a pocket.
-They keep a small keepsake from their {male partner|partner} in a pocket.
-They wear a plain ring on the left hand, a gift from their {boyfriend|partner}.
-They wear a plain ring on the left hand, a gift from their {fiancé|partner}.
-They wear a plain ring on the left hand, a gift from their {husband|partner}.
-They wear a plain ring on the left hand, a gift from their {male partner|partner}.
-Their {boyfriend|partner} appears beside them in a framed photograph on a nearby shelf.
-Their {fiancé|partner} appears beside them in a framed photograph on a nearby shelf.
-Their {husband|partner} appears beside them in a framed photograph on a nearby shelf.
-Their {male partner|partner} appears beside them in a framed photograph on a nearby shelf.
-In the background, their {boyfriend|partner} waves from across the room.
-In the background, their {fiancé|partner} waves from across the room.
-In the background, their {husband|partner} waves from across the room.
-In the background, their {male partner|partner} waves from across the room.
+A bag with a sticker of their boyfriend's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their boyfriend's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their boyfriend, Ramon, __life_other_person_m__, pulls on a jacket by the door.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their partner, Nell, __life_other_person_w__, pulls on a jacket by the door.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their partner, Anton, __life_other_person_m__, pulls on a jacket by the door.
+A bag with a sticker of their fiancé's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their fiancé's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their fiancé, Ziad, __life_other_person_m__, pulls on a jacket by the door.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their partner, Samira, __life_other_person_w__, pulls on a jacket by the door.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their partner, Otto, __life_other_person_m__, pulls on a jacket by the door.
+A bag with a sticker of their husband's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their husband's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their husband, Alan, __life_other_person_m__, pulls on a jacket by the door.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their partner, Rosa, __life_other_person_w__, pulls on a jacket by the door.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their partner, Carlos, __life_other_person_m__, pulls on a jacket by the door.
+A bag with a sticker of their male partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their male partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their male partner, Kofi, __life_other_person_m__, pulls on a jacket by the door.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their partner, Lina, __life_other_person_w__, pulls on a jacket by the door.
+A bag with a sticker of their partner's favorite band reading "__name_band__" __text_look_print__ hangs from their shoulder. In the background, their partner, Leo, __life_other_person_m__, pulls on a jacket by the door.
+A second coffee mug, for their boyfriend, stands next to their own.
+A second coffee mug, for their boyfriend, stands next to their own. In the background, their boyfriend, Kenji, __life_other_person_m__, pours coffee at the counter.
+A second coffee mug, for their partner, stands next to their own.
+A second coffee mug, for their partner, stands next to their own. In the background, their partner, Yuki, __life_other_person_w__, pours coffee at the counter.
+A second coffee mug, for their partner, stands next to their own. In the background, their partner, Amir, __life_other_person_m__, pours coffee at the counter.
+A second coffee mug, for their fiancé, stands next to their own.
+A second coffee mug, for their fiancé, stands next to their own. In the background, their fiancé, Lars, __life_other_person_m__, pours coffee at the counter.
+A second coffee mug, for their partner, stands next to their own.
+A second coffee mug, for their partner, stands next to their own. In the background, their partner, Nora, __life_other_person_w__, pours coffee at the counter.
+A second coffee mug, for their partner, stands next to their own. In the background, their partner, Kwame, __life_other_person_m__, pours coffee at the counter.
+A second coffee mug, for their husband, stands next to their own.
+A second coffee mug, for their husband, stands next to their own. In the background, their husband, Theo, __life_other_person_m__, pours coffee at the counter.
+A second coffee mug, for their partner, stands next to their own.
+A second coffee mug, for their partner, stands next to their own. In the background, their partner, Irina, __life_other_person_w__, pours coffee at the counter.
+A second coffee mug, for their partner, stands next to their own. In the background, their partner, Rami, __life_other_person_m__, pours coffee at the counter.
+A second coffee mug, for their male partner, stands next to their own.
+A second coffee mug, for their male partner, stands next to their own. In the background, their male partner, Emil, __life_other_person_m__, pours coffee at the counter.
+A second coffee mug, for their partner, stands next to their own.
+A second coffee mug, for their partner, stands next to their own. In the background, their partner, Lucia, __life_other_person_w__, pours coffee at the counter.
+A second coffee mug, for their partner, stands next to their own. In the background, their partner, Oscar, __life_other_person_m__, pours coffee at the counter.
+They are holding hands with their boyfriend, only the linked fingers visible.
+They are holding hands with their partner, only the linked fingers visible.
+They are holding hands with their fiancé, only the linked fingers visible.
+They are holding hands with their partner, only the linked fingers visible.
+They are holding hands with their husband, only the linked fingers visible.
+They are holding hands with their partner, only the linked fingers visible.
+They are holding hands with their male partner, only the linked fingers visible.
+They are holding hands with their partner, only the linked fingers visible.
+They are reading a message from their boyfriend on a phone.
+They are reading a message from their boyfriend on a phone. In the background, their boyfriend, Dusan, __life_other_person_m__, types on a phone across the room.
+They are reading a message from their partner on a phone.
+They are reading a message from their partner on a phone. In the background, their partner, Amara, __life_other_person_w__, types on a phone across the room.
+They are reading a message from their partner on a phone. In the background, their partner, Hugo, __life_other_person_m__, types on a phone across the room.
+They are reading a message from their fiancé on a phone.
+They are reading a message from their fiancé on a phone. In the background, their fiancé, Erik, __life_other_person_m__, types on a phone across the room.
+They are reading a message from their partner on a phone.
+They are reading a message from their partner on a phone. In the background, their partner, Lena, __life_other_person_w__, types on a phone across the room.
+They are reading a message from their partner on a phone. In the background, their partner, Hiro, __life_other_person_m__, types on a phone across the room.
+They are reading a message from their husband on a phone.
+They are reading a message from their husband on a phone. In the background, their husband, Ramon, __life_other_person_m__, types on a phone across the room.
+They are reading a message from their partner on a phone.
+They are reading a message from their partner on a phone. In the background, their partner, Nell, __life_other_person_w__, types on a phone across the room.
+They are reading a message from their partner on a phone. In the background, their partner, Anton, __life_other_person_m__, types on a phone across the room.
+They are reading a message from their male partner on a phone.
+They are reading a message from their male partner on a phone. In the background, their male partner, Ziad, __life_other_person_m__, types on a phone across the room.
+They are reading a message from their partner on a phone.
+They are reading a message from their partner on a phone. In the background, their partner, Samira, __life_other_person_w__, types on a phone across the room.
+They are reading a message from their partner on a phone. In the background, their partner, Otto, __life_other_person_m__, types on a phone across the room.
+They keep a small keepsake from their boyfriend in a pocket.
+They keep a small keepsake from their boyfriend in a pocket. In the background, their boyfriend, Alan, __life_other_person_m__, looks on with a warm smile.
+They keep a small keepsake from their partner in a pocket.
+They keep a small keepsake from their partner in a pocket. In the background, their partner, Rosa, __life_other_person_w__, looks on with a warm smile.
+They keep a small keepsake from their partner in a pocket. In the background, their partner, Carlos, __life_other_person_m__, looks on with a warm smile.
+They keep a small keepsake from their fiancé in a pocket.
+They keep a small keepsake from their fiancé in a pocket. In the background, their fiancé, Kofi, __life_other_person_m__, looks on with a warm smile.
+They keep a small keepsake from their partner in a pocket.
+They keep a small keepsake from their partner in a pocket. In the background, their partner, Lina, __life_other_person_w__, looks on with a warm smile.
+They keep a small keepsake from their partner in a pocket. In the background, their partner, Leo, __life_other_person_m__, looks on with a warm smile.
+They keep a small keepsake from their husband in a pocket.
+They keep a small keepsake from their husband in a pocket. In the background, their husband, Kenji, __life_other_person_m__, looks on with a warm smile.
+They keep a small keepsake from their partner in a pocket.
+They keep a small keepsake from their partner in a pocket. In the background, their partner, Yuki, __life_other_person_w__, looks on with a warm smile.
+They keep a small keepsake from their partner in a pocket. In the background, their partner, Amir, __life_other_person_m__, looks on with a warm smile.
+They keep a small keepsake from their male partner in a pocket.
+They keep a small keepsake from their male partner in a pocket. In the background, their male partner, Lars, __life_other_person_m__, looks on with a warm smile.
+They keep a small keepsake from their partner in a pocket.
+They keep a small keepsake from their partner in a pocket. In the background, their partner, Nora, __life_other_person_w__, looks on with a warm smile.
+They keep a small keepsake from their partner in a pocket. In the background, their partner, Kwame, __life_other_person_m__, looks on with a warm smile.
+They wear a plain ring on the left hand, a gift from their boyfriend.
+They wear a plain ring on the left hand, a gift from their boyfriend. In the background, their boyfriend, Theo, __life_other_person_m__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their partner.
+They wear a plain ring on the left hand, a gift from their partner. In the background, their partner, Irina, __life_other_person_w__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their partner. In the background, their partner, Rami, __life_other_person_m__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their fiancé.
+They wear a plain ring on the left hand, a gift from their fiancé. In the background, their fiancé, Emil, __life_other_person_m__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their partner.
+They wear a plain ring on the left hand, a gift from their partner. In the background, their partner, Lucia, __life_other_person_w__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their partner. In the background, their partner, Oscar, __life_other_person_m__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their husband.
+They wear a plain ring on the left hand, a gift from their husband. In the background, their husband, Dusan, __life_other_person_m__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their partner.
+They wear a plain ring on the left hand, a gift from their partner. In the background, their partner, Amara, __life_other_person_w__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their partner. In the background, their partner, Hugo, __life_other_person_m__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their male partner.
+They wear a plain ring on the left hand, a gift from their male partner. In the background, their male partner, Erik, __life_other_person_m__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their partner.
+They wear a plain ring on the left hand, a gift from their partner. In the background, their partner, Lena, __life_other_person_w__, wears a matching plain ring on the left hand.
+They wear a plain ring on the left hand, a gift from their partner. In the background, their partner, Hiro, __life_other_person_m__, wears a matching plain ring on the left hand.
+Their boyfriend appears beside them in a framed photograph on a nearby shelf.
+Their boyfriend appears beside them in a framed photograph on a nearby shelf. In the background, their boyfriend, Ramon, __life_other_person_m__, stands by the shelf, smiling.
+Their partner appears beside them in a framed photograph on a nearby shelf.
+Their partner appears beside them in a framed photograph on a nearby shelf. In the background, their partner, Nell, __life_other_person_w__, stands by the shelf, smiling.
+Their partner appears beside them in a framed photograph on a nearby shelf. In the background, their partner, Anton, __life_other_person_m__, stands by the shelf, smiling.
+Their fiancé appears beside them in a framed photograph on a nearby shelf.
+Their fiancé appears beside them in a framed photograph on a nearby shelf. In the background, their fiancé, Ziad, __life_other_person_m__, stands by the shelf, smiling.
+Their partner appears beside them in a framed photograph on a nearby shelf.
+Their partner appears beside them in a framed photograph on a nearby shelf. In the background, their partner, Samira, __life_other_person_w__, stands by the shelf, smiling.
+Their partner appears beside them in a framed photograph on a nearby shelf. In the background, their partner, Otto, __life_other_person_m__, stands by the shelf, smiling.
+Their husband appears beside them in a framed photograph on a nearby shelf.
+Their husband appears beside them in a framed photograph on a nearby shelf. In the background, their husband, Alan, __life_other_person_m__, stands by the shelf, smiling.
+Their partner appears beside them in a framed photograph on a nearby shelf.
+Their partner appears beside them in a framed photograph on a nearby shelf. In the background, their partner, Rosa, __life_other_person_w__, stands by the shelf, smiling.
+Their partner appears beside them in a framed photograph on a nearby shelf. In the background, their partner, Carlos, __life_other_person_m__, stands by the shelf, smiling.
+Their male partner appears beside them in a framed photograph on a nearby shelf.
+Their male partner appears beside them in a framed photograph on a nearby shelf. In the background, their male partner, Kofi, __life_other_person_m__, stands by the shelf, smiling.
+Their partner appears beside them in a framed photograph on a nearby shelf.
+Their partner appears beside them in a framed photograph on a nearby shelf. In the background, their partner, Lina, __life_other_person_w__, stands by the shelf, smiling.
+Their partner appears beside them in a framed photograph on a nearby shelf. In the background, their partner, Leo, __life_other_person_m__, stands by the shelf, smiling.
+In the background, their boyfriend, Kenji, __life_other_person_m__, waves from across the room.
+In the background, their partner, Yuki, __life_other_person_w__, waves from across the room.
+In the background, their partner, Amir, __life_other_person_m__, waves from across the room.
+In the background, their fiancé, Lars, __life_other_person_m__, waves from across the room.
+In the background, their partner, Nora, __life_other_person_w__, waves from across the room.
+In the background, their partner, Kwame, __life_other_person_m__, waves from across the room.
+In the background, their husband, Theo, __life_other_person_m__, waves from across the room.
+In the background, their partner, Irina, __life_other_person_w__, waves from across the room.
+In the background, their partner, Rami, __life_other_person_m__, waves from across the room.
+In the background, their male partner, Emil, __life_other_person_m__, waves from across the room.
+In the background, their partner, Lucia, __life_other_person_w__, waves from across the room.
+In the background, their partner, Oscar, __life_other_person_m__, waves from across the room.

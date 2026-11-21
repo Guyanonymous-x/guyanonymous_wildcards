@@ -23,7 +23,7 @@ tapered proportions with shorter legs for the torso
 balanced athletic body ratio
 square broad shoulder frame
 wide-shouldered proportions with a gentle curve to the lower back
-barrel chest above a thick waist
+pear-shaped proportions with a gentle curve to the lower back
 straight proportions with a narrow chest
 narrow-hipped proportions with a gently tapered waist
 rounded proportions with a gentle curve to the lower back
@@ -41,7 +41,7 @@ straight proportions with a narrow chest
 balanced proportions with a defined waist
 boxy proportions with shorter legs for the torso
 long-torsoed proportions with a flat back
-slightly shortened torso from age compression
+slightly shortened torso with the lower ribs sitting close to the hips
 boxy proportions with a gentle curve to the lower back
 straight proportions with a flat back
 balanced proportions with long legs for the torso
@@ -142,9 +142,9 @@ narrow frame with minimal shoulder width
 wide-shouldered proportions with a gentle curve to the lower back
 rounded proportions with a defined waist
 rectangular proportions with a gently tapered waist
-thick wide waist with narrow hips
+pear-shaped proportions with a gently tapered waist
 V-shaped proportions with a gently tapered waist
-waist as wide as or wider than the hips, rounded torso
+pear-shaped proportions with a long waist
 slender proportions with level shoulders and hips
 straight proportions with a gently tapered waist
 inverted-triangle proportions with a deep chest
@@ -248,7 +248,7 @@ narrow-hipped proportions with a defined waist
 broad shoulders tapering to a narrow waist (V-taper)
 short-torsoed proportions with level shoulders and hips
 even proportions with a long waist
-barrel chest above a thick waist
+pear-shaped proportions with a straight waist
 narrow-hipped proportions with a gentle curve to the lower back
 slender proportions with a straight waist
 sturdy proportions with a long waist
@@ -314,8 +314,8 @@ boxy proportions with a defined waist
 V-shaped proportions with level shoulders and hips
 tapered proportions with level shoulders and hips
 slender proportions with a narrow chest
-very wide waist exceeding the hips, heavy rounded torso
-narrow sloping shoulders with a soft rounded midsection
+pear-shaped proportions with hips wider than the shoulders
+pear-shaped proportions with level shoulders and hips
 balanced proportions with level shoulders and hips
 narrow-shouldered proportions with a narrow chest
 pear-shaped proportions with a straight waist
@@ -366,7 +366,7 @@ athletic proportions with a defined waist
 rounded proportions with a defined waist
 balanced athletic body ratio
 balanced proportions with a deep chest
-thick wide waist with narrow hips
+pear-shaped proportions with long legs for the torso
 tapered proportions with a flat back
 broad-hipped proportions with a defined waist
 sturdy proportions with a defined waist
@@ -719,16 +719,16 @@ balanced equal shoulder-to-hip width
 rounded proportions with shoulders wider than the hips
 broad athletic shoulder-hip ratio
 straight proportions with a gently tapered waist
-wide-set shoulders with a heavy belly and slim legs
+pear-shaped proportions with shorter legs for the torso
 broad athletic shoulder-hip ratio
 broad-hipped proportions with a straight waist
 thick neck and heavy trapezius slope over a boxy torso
 slender proportions with a gentle curve to the lower back
 hourglass proportions with a gently tapered waist
-disproportionate heavy hips ratio
+pear-shaped proportions with shoulders wider than the hips
 hourglass proportions with shorter legs for the torso
 straight proportions with a straight waist
-wide heavy lower body ratio
+thick neck and heavy trapezius slope over a boxy torso
 long-torsoed proportions with a gentle curve to the lower back
 V-shaped proportions with a deep chest
 narrow-shouldered proportions with level shoulders and hips
@@ -775,7 +775,7 @@ V-shaped proportions with a short waist
 long-torsoed proportions with a flat back
 slender proportions with a long waist
 hourglass proportions with a gentle curve to the lower back
-narrow shoulder with thick waist
+wide muscular shoulders over a thick solid waist
 sturdy proportions with shorter legs for the torso
 rectangular proportions with a straight waist
 inverted-triangle proportions with level shoulders and hips
@@ -807,7 +807,7 @@ sturdy proportions with a straight waist
 narrow-shouldered proportions with a straight waist
 boxy proportions with a flat back
 even proportions with long legs for the torso
-heavy wide hip frame
+markedly shortened, compressed torso with a curved upper back
 sturdy proportions with level shoulders and hips
 narrow-hipped proportions with a short waist
 even proportions with a short waist
@@ -841,7 +841,7 @@ narrow-shouldered proportions with a short waist
 slender proportions with a long waist
 wide-shouldered proportions with hips wider than the shoulders
 narrow-hipped proportions with a deep chest
-slightly shortened torso from age compression
+slightly shortened torso with the lower ribs sitting close to the hips
 short-torsoed proportions with a gentle curve to the lower back
 straight proportions with shorter legs for the torso
 long-torsoed proportions with a narrow chest
@@ -875,8 +875,8 @@ pear-shaped proportions with level shoulders and hips
 athletic proportions with a deep chest
 V-shaped proportions with shorter legs for the torso
 slender narrow shoulders and narrow hips
-narrow weak shoulders with wide hips
-narrow shoulder with thick waist
+pear-shaped proportions with a defined waist
+pear-shaped proportions with a gentle curve to the lower back
 narrow-hipped proportions with a narrow chest
 wide-shouldered proportions with shorter legs for the torso
 narrow-shouldered proportions with level shoulders and hips
@@ -897,7 +897,7 @@ tapered proportions with a flat back
 V-shaped proportions with a long waist
 slender proportions with a long waist
 even proportions with a long waist
-wide blocky waist ratio
+pear-shaped proportions with a gently tapered waist
 slender narrow shoulders and narrow hips
 slender proportions with a straight waist
 narrow-hipped proportions with a flat back
@@ -983,7 +983,7 @@ wide-shouldered proportions with a defined waist
 tapered proportions with a gently tapered waist
 rectangular proportions with shoulders wider than the hips
 hourglass proportions with a short waist
-wide blocky waist ratio
+pear-shaped proportions with a long waist
 sturdy proportions with a narrow chest
 slender proportions with a flat back
 athletic proportions with shoulders wider than the hips

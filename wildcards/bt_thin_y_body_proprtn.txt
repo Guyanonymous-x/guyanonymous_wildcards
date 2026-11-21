@@ -9,7 +9,7 @@ short-armed body proportions with a short back
 short-torsoed body proportions with arms reaching the hip
 broad-shouldered body proportions with short feet
 long-limbed body proportions with long calves
-broad thick torso with short legs
+average natural limb proportions
 elongated body proportions with arms reaching the hip
 balanced body proportions with long feet
 sturdy body proportions with long thighs
@@ -211,7 +211,7 @@ low-waisted body proportions with large hands
 long-limbed body proportions with long thighs
 long-limbed body proportions with a long waist-to-hip span
 broad-shouldered body proportions with a long back
-disproportionate heavy torso
+balanced body proportions with a larger head relative to the body
 slender elongated body proportions
 low-waisted body proportions with a small head relative to the body
 short-limbed body proportions with short thighs
@@ -251,7 +251,7 @@ long-legged body proportions with long feet
 high-waisted body proportions with small hands
 long-legged body proportions with large hands
 slender body proportions with short thighs
-short stocky limbs and torso
+balanced body proportions with a long back
 narrow-shouldered body proportions with a long waist-to-hip span
 high-waisted body proportions with arms reaching the hip
 balanced equal leg-to-torso ratio
@@ -276,7 +276,7 @@ narrow-hipped body proportions with a short neck
 short-torsoed body proportions with a small head relative to the body
 narrow-shouldered body proportions with short thighs
 long-limbed body proportions with long calves
-short thick torso proportions
+balanced body proportions with a long neck
 long-torsoed body proportions with long feet
 short-armed body proportions with arms reaching the hip
 narrow-hipped body proportions with arms reaching the hip
@@ -342,7 +342,7 @@ short-torsoed body proportions with a short neck
 even body proportions with a short waist-to-hip span
 short low-waisted proportions
 elongated body proportions with long calves
-short heavy leg proportions
+balanced body proportions with a long waist-to-hip span
 long-legged body proportions with arms reaching mid-thigh
 short-legged body proportions with arms reaching the hip
 even body proportions with a short waist-to-hip span
@@ -359,7 +359,7 @@ short low-waisted proportions
 narrow-hipped body proportions with a long neck
 low-waisted body proportions with long feet
 short legs with long torso
-stocky heavy-set limb proportions
+balanced body proportions with a short back
 long-legged body proportions with long thighs
 long-torsoed body proportions with arms reaching mid-thigh
 low-waisted body proportions with small hands
@@ -503,7 +503,7 @@ short neck with long torso
 elongated body proportions with a larger head relative to the body
 long-legged body proportions with a long waist-to-hip span
 short low-waisted proportions
-very wide heavy torso with short-looking limbs
+balanced body proportions with a short neck
 narrow-shouldered body proportions with a short waist-to-hip span
 narrow-shouldered body proportions with a short waist-to-hip span
 long-armed body proportions with a long waist-to-hip span
@@ -653,7 +653,7 @@ long-legged body proportions with large hands
 slender body proportions with large hands
 elongated body proportions with a larger head relative to the body
 short-limbed body proportions with large hands
-wide heavy trunk with thick limbs
+balanced body proportions with a small head relative to the body
 narrow-shouldered body proportions with arms reaching mid-thigh
 slender body proportions with long calves
 long-armed body proportions with a small head relative to the body
@@ -805,7 +805,7 @@ long-armed body proportions with a larger head relative to the body
 short-limbed body proportions with a short back
 long thin arm and leg proportions
 long-legged body proportions with small hands
-massively broad trunk and thick limbs
+balanced body proportions with arms reaching mid-thigh
 long-torsoed body proportions with arms reaching the hip
 high-waisted body proportions with long calves
 short stubby limbs with long body
@@ -936,7 +936,7 @@ even body proportions with long feet
 broad-shouldered body proportions with a larger head relative to the body
 slender body proportions with small hands
 broad-shouldered body proportions with a short waist-to-hip span
-short stocky limbs and torso
+balanced body proportions with arms reaching the hip
 high-waisted body proportions with long feet
 long neck and long limbs
 short-legged body proportions with a short back

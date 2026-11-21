@@ -1,0 +1,9 @@
+__bigthing_airliner_scene__
+__bigthing_cargo_plane_scene__
+__bigthing_container_ship_scene__
+__bigthing_drydock_hull_scene__
+__bigthing_haul_truck_scene__
+__bigthing_locomotive_scene__
+__bigthing_rocket_scene__
+__bigthing_bucket_wheel_scene__
+__bigthing_submarine_scene__

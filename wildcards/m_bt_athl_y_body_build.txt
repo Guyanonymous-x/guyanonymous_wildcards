@@ -1,6 +1,6 @@
 medium build with sloping shoulders
 inverted-triangle build with short legs
-morbidly obese massive build, rounded in every direction
+bent, shrunken build with a curved spine
 toned fit build
 swimmer's build with broad shoulders and a narrow waist
 slender build with weight carried high
@@ -16,7 +16,7 @@ lean build with strong shoulders
 light build with a defined waist
 balanced build with a straight waist
 toned fit build
-heavyset build with a narrow chest
+shrunken frame with a short, curved back and thin, loose skin
 lean athletic build
 hourglass build with sturdy thighs
 medium build with good posture
@@ -32,11 +32,11 @@ average everyday build
 average everyday build
 curvy build with a long torso
 lean athletic build
-very large heavy build with a broad body that fills the frame
+softened build with a thickened middle and thinner limbs
 athletic build with a straight waist
 muscular build with broad shoulders
 slim narrow build
-delicate build with strong shoulders
+balanced build with a soft midsection
 barrel-chested sturdy build
 slim narrow build
 lean athletic build
@@ -52,7 +52,7 @@ slim narrow build
 sturdy muscular build
 athletic build with a defined waist
 lean athletic build
-heavyset build with a defined waist
+barrel-chested build with a long torso
 willowy build with a narrow chest
 lean athletic build
 average everyday build
@@ -67,11 +67,11 @@ curvy build with long legs
 slim narrow build
 slim narrow build
 athletic build with slim thighs
-heavyset build with sturdy thighs
+barrel-chested build with a soft midsection
 slender build with a straight waist
 long-limbed build with good posture
 wiry build with sturdy thighs
-rounded build with a straight waist
+barrel-chested build with a straight waist
 curvy build with good posture
 pear-shaped build with a straight waist
 slim narrow build
@@ -94,22 +94,22 @@ slim narrow build
 athletic build with weight carried high
 medium build with a long torso
 lean athletic build
-delicate build with wide hips
+barrel-chested build with long legs
 slender wiry build
 lean athletic build
-rounded build with a soft midsection
+barrel-chested build with sloping shoulders
 average everyday build
 athletic V-taper build
 slim narrow build
 slim narrow build
-delicate build with weight carried low
+barrel-chested build with sturdy thighs
 inverted-triangle build with weight carried low
 rectangular build with a long torso
 solid build with strong shoulders
 inverted-triangle build with a flat stomach
 medium build with sturdy thighs
 hourglass build with long legs
-heavyset build with a deep chest
+barrel-chested build with weight carried high
 slim narrow build
 runner's lean sinewy build
 narrow-shouldered build with slim thighs
@@ -131,12 +131,12 @@ toned build with sturdy thighs
 lean athletic build
 balanced build with a soft midsection
 slim narrow build
-soft build with a soft midsection
+barrel-chested build with wide hips
 slender wiry build
 hourglass build with a long torso
 average everyday build
 toned fit build
-delicate build with wide hips
+broad build with a soft midsection
 V-shaped build with short legs
 balanced build with short legs
 athletic V-taper build
@@ -146,21 +146,21 @@ lean athletic build
 medium build with narrow hips
 barrel-chested sturdy build
 slender build with weight carried low
-apple-shaped build with sturdy thighs
+burly heavyset build
 willowy build with a defined waist
 slender build with weight carried low
 sturdy build with a narrow chest
 toned build with a long torso
-apple-shaped build with sloping shoulders
+curvy build with a deep chest
 rangy build with long legs
-delicate build with weight carried high
+curvy build with a defined waist
 swimmer's build with broad shoulders and a narrow waist
 sturdy build with weight carried low
 lean athletic build
 slender build with a straight waist
 broad build with a soft midsection
 average everyday build
-heavyset build with good posture
+curvy build with a generally even distribution of weight
 athletic V-taper build
 lean athletic build
 lean athletic build
@@ -170,7 +170,7 @@ slim narrow build
 slim narrow build
 V-shaped build with weight carried high
 toned fit build
-heavy big-bellied build
+curvy build with a long torso
 toned fit build
 strong build with slim thighs
 wiry build with weight carried high
@@ -192,7 +192,7 @@ willowy build with weight carried high
 toned fit build
 wiry build with sturdy thighs
 slim narrow build
-heavily overweight obese build
+curvy build with a narrow chest
 slim narrow build
 toned fit build
 wiry build with long legs
@@ -208,7 +208,7 @@ rugged weathered laborer's build
 slim narrow build
 average everyday build
 toned fit build
-delicate build with weight carried low
+curvy build with a short torso
 muscular build with wide hips
 slim narrow build
 toned fit build
@@ -217,16 +217,16 @@ willowy build with a flat stomach
 slender build with a flat stomach
 toned fit build
 stocky solid build
-overweight thick-set build
+curvy build with good posture
 athletic build with sloping shoulders
 willowy build with a narrow chest
-full-figured build with a long torso
+curvy build with long legs
 lean athletic build
 average everyday build
 average everyday build
 broad-shouldered build with strong shoulders
 muscular build with a deep chest
-dad-bod soft midsection build
+curvy build with narrow hips
 lean athletic build
 rangy build with weight carried high
 muscular build with broad shoulders
@@ -234,9 +234,9 @@ muscular build with broad shoulders
 swimmer's build with broad shoulders and a narrow waist
 broad build with a long torso
 broad build with a defined waist
-delicate build with short legs
+curvy build with sturdy thighs
 willowy build with sturdy thighs
-delicate build with weight carried high
+curvy build with wide hips
 balanced build with a straight waist
 athletic build with a generally even distribution of weight
 light build with sturdy thighs
@@ -251,13 +251,13 @@ slim narrow build
 toned fit build
 lean athletic build
 solid build with strong shoulders
-delicate build with weight carried high
+hourglass build with wide hips
 lean athletic build
 narrow-shouldered build with a defined waist
 lean athletic build
-rounded build with wide hips
+long-limbed build with a soft midsection
 slim narrow build
-apple-shaped build with long legs
+medium build with a soft midsection
 lean athletic build
 rectangular build with narrow hips
 athletic V-taper build
@@ -267,15 +267,15 @@ slender wiry build
 slim narrow build
 athletic V-taper build
 average everyday build
-delicate build with a long torso
+pear-shaped build with a defined waist
 rectangular build with narrow hips
 slight build with short legs
 long-limbed build with sloping shoulders
-soft build with a straight waist
+pear-shaped build with a straight waist
 lean athletic build
-delicate build with a defined waist
+pear-shaped build with short legs
 stocky solid build
-tall gaunt build
+pear-shaped build with weight carried low
 willowy build with strong shoulders
 stocky build with good posture
 narrow-shouldered build with weight carried low
@@ -285,7 +285,7 @@ hourglass build with short legs
 curvy build with a short torso
 inverted-triangle build with sloping shoulders
 wiry build with a generally even distribution of weight
-apple-shaped build with a long torso
+rangy build with a soft midsection
 wiry build with good posture
 narrow-shouldered build with narrow hips
 lean athletic build
@@ -300,7 +300,7 @@ sturdy build with weight carried low
 slender build with a generally even distribution of weight
 willowy build with a narrow chest
 V-shaped build with a narrow chest
-delicate build with wide hips
+solid build with wide hips
 broad-shouldered build with a straight waist
 curvy build with a defined waist
 toned build with a flat stomach
@@ -324,8 +324,8 @@ V-shaped build with a straight waist
 V-shaped build with weight carried low
 swimmer's build with broad shoulders and a narrow waist
 athletic V-taper build
-delicate build with short legs
-small-framed frail bird-boned very old build
+thick-set build with good posture
+thick-set build with long legs
 athletic V-taper build
 broad-shouldered build with a long torso
 average everyday build
@@ -334,21 +334,21 @@ broad-shouldered build with a long torso
 barrel-chested build with weight carried high
 athletic V-taper build
 lean athletic build
-bodybuilder-level muscular build
+thick-set build with short legs
 wiry endurance build
 medium build with weight carried high
-rounded build with weight carried low
+willowy build with a soft midsection
 average everyday build
 medium build with strong shoulders
 narrow-shouldered build with narrow hips
 lean athletic build
 slim narrow build
 balanced build with weight carried high
-soft build with short legs
+wiry build with a soft midsection
 athletic V-taper build
 sturdy muscular build
 stocky build with a short torso
-bodybuilder-level muscular build
+balanced build with a soft midsection
 sturdy build with a flat stomach
 sturdy build with a straight waist
 average everyday build
@@ -370,16 +370,16 @@ toned build with a flat stomach
 average everyday build
 athletic build with a generally even distribution of weight
 average build with good posture
-delicate build with a short torso
+barrel-chested build with a defined waist
 strong build with good posture
-apple-shaped build with sloping shoulders
+barrel-chested build with a long torso
 barrel-chested build with wide hips
 average everyday build
-severely underweight frail build
-delicate build with strong shoulders
-extremely thin, loosely clothed, stooped ninety-year-old build
+barrel-chested build with a soft midsection
+barrel-chested build with a straight waist
+barrel-chested build with long legs
 rectangular build with narrow hips
-delicate build with weight carried low
+barrel-chested build with sloping shoulders
 medium build with good posture
 slim narrow build
 slim narrow build
@@ -388,23 +388,23 @@ lean athletic build
 rectangular build with a long torso
 toned fit build
 slight build with short legs
-delicate build with a defined waist
+barrel-chested build with sturdy thighs
 average everyday build
-bodybuilder-level muscular build
+barrel-chested build with weight carried high
 slender wiry build
 curvy build with sturdy thighs
 medium build with a defined waist
 toned fit build
 slim narrow build
 runner's lean sinewy build
-soft build with sloping shoulders
+barrel-chested build with wide hips
 athletic V-taper build
 powerlifter thick strong build
 rangy build with weight carried high
 slim narrow build
 athletic build with wide hips
 slender build with weight carried high
-heavyset build with narrow hips
+bent, shrunken build with a curved spine
 athletic V-taper build
 athletic build with a soft midsection
 average everyday build
@@ -414,10 +414,10 @@ slim narrow build
 toned build with sturdy thighs
 thick-set build with long legs
 muscular build with broad shoulders
-severely obese very large build with a wide, heavy body
+broad build with a soft midsection
 average everyday build
 broad-shouldered build with a deep chest
-full-figured build with sturdy thighs
+burly heavyset build
 slender wiry build
 inverted-triangle build with a flat stomach
 narrow-shouldered build with good posture
@@ -426,7 +426,7 @@ slender build with a narrow chest
 pear-shaped build with weight carried low
 rectangular build with strong shoulders
 athletic V-taper build
-heavyset build with a long torso
+curvy build with a deep chest
 medium build with a defined waist
 muscular build with a short torso
 toned fit build
@@ -439,7 +439,7 @@ rugged weathered laborer's build
 sturdy build with strong shoulders
 slim narrow build
 slim narrow build
-stiff, slightly shrunken older build
+stiff, slightly shrunken build with a short, straight back
 average everyday build
 lean athletic build
 toned build with wide hips
@@ -452,7 +452,7 @@ average everyday build
 lean athletic build
 light build with slim thighs
 wiry endurance build
-soft build with a narrow chest
+curvy build with a defined waist
 athletic V-taper build
 barrel-chested build with a flat stomach
 balanced build with a deep chest
@@ -486,7 +486,7 @@ slim narrow build
 average everyday build
 slender wiry build
 athletic build with slim thighs
-soft rounded build
+curvy build with a generally even distribution of weight
 slender wiry build
 rectangular build with strong shoulders
 slim narrow build
@@ -517,16 +517,16 @@ toned fit build
 strong build with good posture
 long-limbed build with a defined waist
 toned build with a long torso
-full-figured build with a deep chest
+curvy build with a long torso
 slender build with weight carried high
 lean athletic build
 slim narrow build
 slender wiry build
 lean build with a flat stomach
 tall lanky gangly build
-delicate build with a short torso
+curvy build with a narrow chest
 average everyday build
-delicate build with weight carried low
+curvy build with a short torso
 strong build with slim thighs
 average everyday build
 toned fit build
@@ -541,7 +541,7 @@ broad-shouldered build with strong shoulders
 wiry build with long legs
 slim narrow build
 toned fit build
-soft build with weight carried low
+curvy build with good posture
 tall lanky gangly build
 athletic V-taper build
 athletic build with a defined waist
@@ -554,7 +554,7 @@ light build with long legs
 slim narrow build
 tall lanky gangly build
 willowy build with strong shoulders
-full-figured build with wide hips
+curvy build with long legs
 stocky build with a straight waist
 rangy build with long legs
 sturdy build with weight carried high
@@ -563,9 +563,9 @@ toned fit build
 lean athletic build
 slim narrow build
 lean athletic build
-rounded build with a deep chest
+curvy build with narrow hips
 lean athletic build
-heavyset build with a straight waist
+curvy build with sturdy thighs
 average build with strong shoulders
 rectangular build with a generally even distribution of weight
 athletic build with a generally even distribution of weight
@@ -577,9 +577,9 @@ tall lanky gangly build
 toned fit build
 willowy build with a flat stomach
 balanced build with sloping shoulders
-stooped older build with rounded shoulders
+stooped build with a curved upper back and rounded shoulders
 thick-set build with good posture
-soft build with a short torso
+curvy build with wide hips
 rugged weathered laborer's build
 athletic build with a soft midsection
 toned fit build
@@ -599,7 +599,7 @@ narrow-shouldered build with weight carried low
 swimmer's build with broad shoulders and a narrow waist
 average build with strong shoulders
 sturdy build with strong shoulders
-big, heavily built obese figure with a prominent belly
+hourglass build with wide hips
 long-limbed build with sloping shoulders
 slim narrow build
 slim narrow build
@@ -607,7 +607,7 @@ sturdy muscular build
 lean athletic build
 curvy build with a deep chest
 lean athletic build
-apple-shaped build with a short torso
+long-limbed build with a soft midsection
 sturdy build with long legs
 solid build with good posture
 athletic V-taper build
@@ -616,16 +616,16 @@ athletic build with weight carried high
 lean build with strong shoulders
 average everyday build
 runner's lean sinewy build
-apple-shaped build with strong shoulders
-delicate build with short legs
+medium build with a soft midsection
+pear-shaped build with a defined waist
 slender build with a straight waist
 tall lanky gangly build
 long-limbed build with good posture
 lean athletic build
 muscular build with broad shoulders
 sturdy build with strong shoulders
-super-sized heavily obese build with deep soft folds
-bony emaciated build
+pear-shaped build with a straight waist
+pear-shaped build with short legs
 inverted-triangle build with a long torso
 broad build with a deep chest
 stocky build with a deep chest
@@ -638,11 +638,11 @@ sturdy build with a flat stomach
 lean athletic build
 lean athletic build
 runner's lean sinewy build
-delicate build with a defined waist
+pear-shaped build with weight carried low
 slender build with a narrow chest
 toned build with short legs
 inverted-triangle build with a defined waist
-soft build with a defined waist
+powerlifter thick strong build
 curvy build with slim thighs
 strong build with good posture
 slender build with weight carried low
@@ -658,7 +658,7 @@ toned fit build
 slight build with a narrow chest
 curvy build with narrow hips
 slender build with narrow hips
-obese pear- or apple-shaped build with soft broad hips and belly
+rangy build with a soft midsection
 slender build with strong shoulders
 powerlifter thick strong build
 barrel-chested build with a soft midsection
@@ -668,8 +668,8 @@ slim narrow build
 sturdy muscular build
 inverted-triangle build with narrow hips
 lean athletic build
-bodybuilder-level muscular build
-apple-shaped build with narrow hips
+solid build with wide hips
+thick-set build with good posture
 slim narrow build
 slim narrow build
 hourglass build with short legs
@@ -681,25 +681,25 @@ rugged weathered laborer's build
 average everyday build
 solid build with a deep chest
 barrel-chested build with sloping shoulders
-apple-shaped build with a short torso
+thick-set build with long legs
 slender wiry build
 average everyday build
 light build with a long torso
 muscular build with broad shoulders
-apple-shaped build with a long torso
+thick-set build with short legs
 slender build with narrow hips
 toned build with weight carried low
 runner's lean sinewy build
-delicate build with short legs
+shrunken frame with a short, curved back and thin, loose skin
 swimmer's build with broad shoulders and a narrow waist
 slight build with a deep chest
-heavy big-bellied build
+willowy build with a soft midsection
 hourglass build with slim thighs
-delicate build with strong shoulders
+wiry build with a soft midsection
 rectangular build with sloping shoulders
 athletic build with weight carried high
 rangy build with a flat stomach
-soft rounded build
+balanced build with a soft midsection
 hourglass build with strong shoulders
 average everyday build
 inverted-triangle build with sloping shoulders
@@ -712,17 +712,17 @@ athletic V-taper build
 average everyday build
 willowy build with strong shoulders
 tall lanky gangly build
-delicate build with a long torso
+barrel-chested build with a defined waist
 athletic build with wide hips
 slim narrow build
 narrow-shouldered build with good posture
-heavyset build with sloping shoulders
+barrel-chested build with a long torso
 average everyday build
 slim narrow build
 average everyday build
 sturdy muscular build
 sturdy build with weight carried high
-rounded build with short legs
+barrel-chested build with a soft midsection
 muscular build with broad shoulders
 slim narrow build
 athletic build with sloping shoulders
@@ -733,18 +733,18 @@ toned fit build
 slim narrow build
 stocky solid build
 toned build with a long torso
-delicate build with a short torso
+barrel-chested build with a straight waist
 lean athletic build
 light build with strong shoulders
-tall gaunt build
+barrel-chested build with long legs
 wiry endurance build
 slim narrow build
 inverted-triangle build with narrow hips
 slender build with a flat stomach
 V-shaped build with a deep chest
-full-figured build with weight carried low
+barrel-chested build with sloping shoulders
 slender build with a generally even distribution of weight
-delicate build with weight carried high
+barrel-chested build with sturdy thighs
 long-limbed build with a defined waist
 medium build with a short torso
 average everyday build
@@ -765,7 +765,7 @@ lean athletic build
 tall lanky gangly build
 slight build with a narrow chest
 medium build with narrow hips
-delicate build with a long torso
+barrel-chested build with weight carried high
 lean athletic build
 barrel-chested build with a straight waist
 athletic build with a defined waist
@@ -779,13 +779,13 @@ average everyday build
 lean athletic build
 slender wiry build
 tall lanky gangly build
-delicate build with a short torso
+barrel-chested build with wide hips
 rangy build with short legs
-delicate build with strong shoulders
+bent, shrunken build with a curved spine
 hourglass build with long legs
 slim narrow build
 light build with a narrow chest
-very heavy rounded obese build
+broad build with a soft midsection
 hourglass build with sturdy thighs
 average everyday build
 slim narrow build
@@ -797,7 +797,7 @@ athletic build with sloping shoulders
 average everyday build
 toned fit build
 sturdy build with a straight waist
-delicate build with wide hips
+burly heavyset build
 slim narrow build
 broad build with a long torso
 average everyday build
@@ -805,7 +805,7 @@ solid build with weight carried low
 slender build with a defined waist
 slender build with strong shoulders
 V-shaped build with weight carried low
-apple-shaped build with long legs
+curvy build with a deep chest
 toned build with weight carried low
 athletic V-taper build
 narrow-shouldered build with narrow hips
@@ -841,21 +841,21 @@ V-shaped build with a flat stomach
 slight build with a short torso
 muscular build with broad shoulders
 athletic V-taper build
-apple-shaped build with strong shoulders
-obese large build with a wide soft body and thick limbs
+curvy build with a defined waist
+curvy build with a generally even distribution of weight
 broad-shouldered build with a deep chest
-dad-bod soft midsection build
+curvy build with a long torso
 athletic build with a straight waist
 inverted-triangle build with short legs
 slim narrow build
-rounded build with a narrow chest
+curvy build with a narrow chest
 athletic V-taper build
 toned fit build
 lean athletic build
 V-shaped build with a defined waist
 toned fit build
 burly heavyset build
-apple-shaped build with narrow hips
+curvy build with a short torso
 rugged weathered laborer's build
 slim narrow build
 average everyday build
@@ -873,12 +873,12 @@ athletic V-taper build
 runner's lean sinewy build
 slender build with strong shoulders
 stocky build with a deep chest
-heavyset build with a flat stomach
+curvy build with good posture
 V-shaped build with a narrow chest
 sturdy build with a flat stomach
 rangy build with good posture
 average everyday build
-skinny bony build
+curvy build with long legs
 wiry endurance build
 lean athletic build
 slim narrow build
@@ -886,7 +886,7 @@ broad build with weight carried low
 V-shaped build with short legs
 lean athletic build
 slight build with weight carried high
-apple-shaped build with sturdy thighs
+curvy build with narrow hips
 slim narrow build
 solid build with weight carried low
 toned fit build
@@ -903,7 +903,7 @@ lean athletic build
 solid build with a defined waist
 pear-shaped build with short legs
 swimmer's build with broad shoulders and a narrow waist
-soft build with a generally even distribution of weight
+curvy build with sturdy thighs
 muscular build with sturdy thighs
 lean athletic build
 rugged weathered laborer's build
@@ -926,7 +926,7 @@ athletic V-taper build
 light build with a defined waist
 average everyday build
 V-shaped build with weight carried high
-full-figured build with a flat stomach
+curvy build with wide hips
 muscular build with broad shoulders
 tall lanky gangly build
 toned fit build
@@ -953,7 +953,7 @@ rangy build with a narrow chest
 slim narrow build
 toned build with weight carried low
 muscular build with a short torso
-apple-shaped build with narrow hips
+hourglass build with wide hips
 lean athletic build
 stocky build with long legs
 toned build with short legs
@@ -964,19 +964,19 @@ rectangular build with sturdy thighs
 slim narrow build
 medium build with a generally even distribution of weight
 rangy build with a flat stomach
-delicate build with a long torso
+long-limbed build with a soft midsection
 toned fit build
 muscular build with sturdy thighs
 average everyday build
-apple-shaped build with strong shoulders
+medium build with a soft midsection
 lean athletic build
 long-limbed build with a long torso
 toned fit build
 sturdy muscular build
-full-figured build with a generally even distribution of weight
+pear-shaped build with a defined waist
 rectangular build with sloping shoulders
 inverted-triangle build with a flat stomach
-rounded build with long legs
+pear-shaped build with a straight waist
 slim narrow build
 rugged weathered laborer's build
 average everyday build
@@ -985,15 +985,15 @@ broad build with weight carried low
 thick-set build with short legs
 medium build with narrow hips
 sturdy build with long legs
-full-figured build with weight carried high
-overweight thick-set build
+pear-shaped build with short legs
+pear-shaped build with weight carried low
 medium build with strong shoulders
 athletic V-taper build
 hourglass build with strong shoulders
 willowy build with a defined waist
 slim narrow build
 slender wiry build
-gentle soft low-slung build
+powerlifter thick strong build
 athletic V-taper build
 toned fit build
 slender wiry build

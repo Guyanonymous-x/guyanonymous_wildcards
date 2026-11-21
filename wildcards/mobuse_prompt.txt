@@ -1,0 +1,11 @@
+__mobuse_wheelchair_scene__
+__mobuse_powerchair_scene__
+__mobuse_rollator_scene__
+__mobuse_frame_scene__
+__mobuse_cane_scene__
+__mobuse_crutches_scene__
+__mobuse_whitecane_scene__
+__mobuse_guidedog_scene__
+__mobuse_prostleg_scene__
+__mobuse_prostarm_scene__
+__mobuse_scooter_scene__

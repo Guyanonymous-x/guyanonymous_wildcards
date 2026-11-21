@@ -1,0 +1,14 @@
+__amuse_look_vector__
+__amuse_look_raster__
+__amuse_look_8bit__
+__amuse_look_16bit__
+__amuse_look_poly__
+__amuse_look_fmv__
+__amuse_look_celshade__
+__amuse_look_lowpoly__
+__amuse_look_hd__
+__amuse_look_pixelrev__
+__amuse_look_lcd__
+__amuse_look_greenlcd__
+__amuse_look_crt__
+__amuse_look_attract__

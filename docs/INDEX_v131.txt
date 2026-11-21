@@ -1,0 +1,245 @@
+v131 index
+The index of every version from v107 to v131, newest at the end (v131 from line 224). Rules and findings: docs/STANDING_RULES.txt and docs/MOSS_PROMPT_RULES_HANDOVER.md. The whole library at a glance: docs/Guyanonymous_Wildcards_v131_Library_Catalog.pdf.
+
+Showcase and sample files: in v131 the showcase files highlight what this version adds (more places, drug places, festivals, devices at work, visible states, illness, mobility aids, weather on people, everyday groups, hand and foot close-ups, people beside very big things, water scenes, names for two or more people, body shapes and types, gifts and Festivus); the sample files are representative of everything the library can do.
+
+v107 contents: clothed male bulge pools by fabric class (male_bulge_tight, _brief, _jock, _medium, _loose, _clothed, _covered); level panels adult_lN_panel_wm/_ww/_mm rewritten with full geometry, orientation and camera; structured three-person group scenes at levels 1 to 6; adult_l4/l5/l6_wrestling_mm; structured location scenes for a woman and a man at every level; level 3 solo scenes in real bottoms; head_chin with a shallow dimple instead of a deep cleft.
+
+
+v107 adds: f_body_nipples areola/nipple ladder (35 lines), f_body_anus, m_body_anus, and expanded act_yoga_*, act_dance_classes_*, act_martial_arts_* action/clothes/equip/setting lists.
+
+v108 adds: level-6 endings for adult_l6_panel_mm* and adult_l6_panel_ww*; act_frame_style (six on-location photo styles) used by every act_*_frame_prompt; capitalised act_*_scene_prompt sentences; swimwear at wet locations (levels 1 and 3); table pose removed from level 1; "not white" negations removed; body_navel (10 lines); review fixes.
+
+v109 adds: the 350 Locations conversion (loc_<group>_<place>_* pools and loc_scene, loc_people, loc_time_scene, loc_era_scene, loc_region_scene); object builders for every object kind in the inventory (ob_<object>_type/_material/_wear/_detail/_era/_short/_phrase/_full/_text); era descriptions for 230 objects (ob_<object>_era_<period>, ob_<object>_period); 79 architectural fixtures; trading cards (tc_*), card games (cg_*), board and tabletop games (bg_*) with stages and top-down views; adventure, outdoor and workout activities (adv_*); clinical medical scenes for the health locations (med_*, med_*_decade_*); the shared team name pools name_team, name_team_mascot and name_jersey_number; quoted text on sportswear and uniforms; body builds matched to age.
+
+v110 adds:
+- Locations: 3,755 weak place lines rewritten and checked inside their prompt sentences (writer's notes removed, fragments made into full descriptions, 'no X' lines turned into what is there, palettes given colours, signs and labels given quoted wording from 84 new `loc_text_*` lists); 169 regional lines rewritten as short regional versions.
+- Heat shimmer: the desert line now fits its scenes, and six new hot things (road, airport tarmac, barbecue, car bonnet, jet exhaust, bonfire) each come in a real and a spectacle version.
+- Awkward family photos (`afp_`): era studio styles, matching outfits, backdrops, poses, odd props and mid-pose mishaps. These lists are self-contained; children appear only here, always clothed, and the build checks that they cannot reach any other file.
+- Bad snapshots (`snap_`): adults caught at the worst moment, natural or mid-pose, and a separate adults-only exposure list (`snap_exposure_prompt`).
+- Objects: bad taxidermy (`ob_taxidermy_`), mounted heads on walls (`ob_mounted_head_`, humans only as joke props) and trophies of every kind (`ob_trophy_`), with photo prompts; all in the object roll-ups.
+- Breakdancing joins the extreme sports (`adv_breakdance_`) with moves, crews, places and action cameras.
+- Infrared and UV photo styles (`irstyle_`): 8 filters, each through its processing (straight from camera, red/blue swapped, black and white, unbalanced), with what glows and what goes dark.
+- Ways of seeing people (`seeing_`): auras, X-rays, heat maps, night vision, lidar and more; glasses prescriptions (`acc_glasses_rx`) from eyes shrunk by strong minus lenses to owlish strong plus, bifocals and varifocals.
+- Zombies, vampires, werewolves, the fae and fairies (`myth_`): 12 looks each across genres and cultures, in 9 treatments (ultra-realistic to children's animation style) and 17 eras.
+- Maps (`map_`): 38 map types, 13 projections, 12 styles from ancient to treasure maps, with mediums, conditions, details, titles and views.
+- Rule check: fewer false reports (sign-up and sign-out, label printers, 'a Uruguayan'); landscape prompts read 'A landscape of desert dunes'.
+- Showcase files (34 prompts, two from each new area) and 100 sample prompts at 512, 1024 and 1408 pixel counts (steps 50, cfg 3.75), plus a zip of 17 new-area showcases of 20 prompts each at 1024.
+
+v111 adds:
+- Things going wrong (`mis_`): 20 mishaps for each of 134 activities (sports, music, crafts, hobbies, adventure and workouts) in three levels, small, mid and big, each with its own faces, bystanders and body positions; big ones add the aftermath. People are any adult age, injuries are everyday and non-gory, and eyes are on what is going wrong.
+- Bad snapshots: people react to the moment and look at it (away from the lens), with 54 moments, 16 posed-photo mishaps, bystanders, places and outfits, plus framing mistakes (cut-off heads, animals blocking the view, a thumb over the lens) and bird droppings.
+- Awkward family photos: many more eras, backdrops, outfit themes, adults, children (always clothed, in lists that reach nothing else), poses, oddities and mishaps that show the reaction.
+- Wheels: skateboarding and surfing join the extreme sports; roller skating by era (1870s halls, 1920s clamp-on skates, 1950s rinks, 1970s roller disco, 2020s revival), roller derby, and inline skating (the late-1980s and 1990s boom, aggressive inline, today), each with era outfits, places and mishaps.
+- Dance (`dance_`): 32 styles across solo, pairs and groups, from ballet, tap, flamenco and voguing to the waltz, Argentine tango, salsa and lindy hop, line dancing, ceilidh, disco, K-pop and Bollywood, plus pole fitness, twerking, the haka, the Sufi whirling sema, ancient-style hula, the lion dance and Bon Odori; every step line gives the body position, with holds, formations, outfits, music and places.
+- Fad dances (`dance_fad_`): 25 from the Charleston and the Twist to the Floss, each with its signature move; crowd dancing (`dance_crowd_`): how people dance to 23 kinds of music by decade, from 1950s jiving and punk pogoing to raves and festival bass drops; and dance-floor mishaps.
+- Showcase files: 16 prompts (two from each new area) at 512, 1024 and 1408, plus a zip of 8 new-area showcases of 20 prompts each at 1024; 100 sample prompts representing everything the library can do, at the three sizes (steps 50, cfg 3.75).
+
+v112 (2026-11-10)
+  film_any_prompt, muybridge_prompt: film-making styles; Muybridge motion studies
+  hol_char_prompt, hol_wear_prompt, hol_decor_prompt, novelty_prompt: holiday characters, holiday wear, decorations, novelty holidays
+  loc_lair_prompt (loc_lair_vil_prompt, loc_lair_hero_prompt): 200 lairs
+  costume_prompt, mascot_prompt, fursuit_prompt: costumes, mascots, fursuits
+  relig_prompt, relig_symbol_prompt: religious figures and their symbols
+  cab_prompt, shrunken_prompt, animal_goods_prompt, taxi_prompt: curiosities, shrunken heads, hides and parts, taxidermy
+  sleepwalk_prompt, raygun_prompt, crim_prompt, peoples_prompt, zoo_prompt, popup_prompt, blueprint_prompt
+
+v113 (2026-11-10) - tropes from film, TV, books, comics and advertising
+  trope_prompt: every v113 area in one roll-up
+  trope_shot_prompt: 115 camera-trick framings (trope_shot_angle, _close, _wide, _lens, _time, _compose, _group, _place) and 52 lighting tropes in 7 moods (trope_light_heroic, _noir, _horror, _night, _color, _stage, _natural)
+  trope_meta_prompt: visual metaphors for live action (trope_meta_real_*) and cartoon and manga effects (trope_meta_toon_*), by feeling
+  trope_char_prompt: about 110 character archetypes in 11 groups (trope_char_<group>_f, _m, _any)
+  trope_genre_prompt: 29 genre trope packs, each with look, props, wear, place and moment lists (trope_genre_<genre>_*)
+  trope_moment_prompt: story moments for one person, two people and groups (trope_moment_solo, _pair, _group)
+  trope_place_prompt: 80 trope settings in 10 groups with fitting dressing (trope_place_<group>, _dress)
+  trope_poster_prompt, trope_cover_prompt, trope_ad_prompt, trope_comic_prompt, trope_media_prompt: movie posters by era, layout and condition; covers; TV, film and print advertising for 30 product kinds; comic panels. Words come from made-up text pools (trope_text_*) and sit in quotes.
+  trope_mix_prompt: the trope mixer (archetype or moment, effect, trope place, framing, light and genre look)
+  crim_prompt: 8 more kinds of poacher (crim_poacher_lamping, _victorian, _ivory, _fish, _trapper, _plant, _egg, _shark)
+
+v114 (2026-11-10) - street life, nightlife, cards, crime, cults, relics, world homes and fixes
+  street_prompt: stunts, weird world records, groupies, buskers, people down on their luck (with cardboard sign text), carnival games and sideshows
+  night_prompt, theatre_prompt: taverns, speakeasies, dance halls, nightclubs, raves and bars by era, inside and out; movie and stage theatres
+  pet_costume_prompt, postcard_card_prompt, greet_prompt: pet costumes and gear, postcards, greeting cards for 23 occasions
+  drug_prompt, tech_prompt: drugs as visual props and places only; implants and wearables
+  crime_prompt (raid_, crim_action_, under_, pawn_, cult_, relic_): tomb raiders, crimes in action, under-the-counter goods, pawn shops, cults and cult leaders, holy relics
+  reveal_prompt, sleep_prompt: revealing Halloween costumes on purpose or by accident; asleep and passed-out poses and faces
+  global_home_scene: world-wide homes in 15 regions with wealth and condition; about half of loc_clean picks now come from these (loc_clean_classic keeps every older place)
+  adult only: adult_reveal_prompt, adult_cfnm_prompt
+  Fixes: ages 85-94 about 7% and 95-120 about 3% of people, with milder old-age lines; lairs open inside with hideout cues and era-fit objects; holiday slogan tops paired sensibly; holiday decorations in homes around the world; menorah lines name seven or nine branches (Hanukkah).
+
+v115 adds:
+  tat_prompt: tattoo and piercing parlors from kitchen tables, temple yards and harbor shops to gallery studios, with artists, piercers, clients, designs and piercings
+  salon_prompt: hair salons and barbers from street barbers under trees to celebrity studios, with stylists, clients and finished looks
+  hosp_prompt: hospitals from rural clinics and field tents to private suites and robotic surgery, from 1918 wards to future medical bays, with staff, patients and visitors
+  sfood_prompt (sfood_plate_prompt): street food carts, night markets, hawker centers and gourmet food halls around the world, and plating from paper boats to fine dining
+  games_prompt (arcade_, casino_): arcades from seaside coin-pushers to VR arenas, and gambling from back-room card dens to high-roller salons
+  transit_prompt: stations from rural halts and motor parks to grand terminuses and spaceports, and vehicle interiors from chicken buses to private jets
+  protest_prompt: protests and rallies from a handful of people to vast crowds, across eras, with placards of everyday causes
+  disaster_prompt: natural disasters, their damage and the rescue, rich and poor places alike, with no injuries shown
+  sky_prompt: skies by day, dawn and dusk, night and wild weather, and close weather details
+  writ_prompt, writ_scene_prompt: letters, documents and handwriting props with wording in quotes, and people reading and writing them
+  fancon_prompt: comic book, sci-fi and cosplay conventions from library rooms to mega halls, with original cosplay looks
+  cine_prompt: movie theatres from bedsheet screens and grindhouses to luxury recliners and premieres (v114's theatre_ lists are kept)
+  fit_scale_prompt (with _f and _m versions, tight and loose ends): clothing fit in seven steps from painted on to drowning in it, for tops, bottoms, dresses, coats, shoes, hats and swimwear; the older fit_ lists are kept as they were
+  Every new place list runs from low budget to extravagant, with a separate condition from run-down to top of the line.
+
+v116 adds:
+  mobil_prompt: people living full everyday lives with wheelchairs, prosthetic legs and arms, canes, walkers, crutches, scooters, white canes, guide dogs and hearing aids, old and new
+  sfan_prompt: sports fans of made-up teams, from village squares and pubs to stadiums and luxury boxes
+  mil_prompt: military daily life, training and downtime, with era troops (Roman to future) in their own camps
+  bach_prompt: bachelorette parties as they are: the bride in a white or standout party look, friends in matching outfits, nights out, pool days, dinners and day trips
+  picnic_prompt, camp_prompt, dive_prompt, forage_prompt: picnics, camping, underwater and diving, and mushrooms and foraging, low budget to luxury
+  insect_prompt, bird_prompt: insects close up in macro, and birds from around the world, with birdwatchers
+  law_prompt (police_, jail_, court_): police stations, jail cells and courtrooms across eras
+  Fix: bachelorette lines in the adult strip lists name the bride's party outfit; bachelorette audiences go only with male strippers.
+
+v117 adds:
+  date_prompt: couples on dates by stage, from a first date to fifty years together, with where they go, how close they are, and whether one, the other or both are enjoying it or attracted; pair_prompt: other pairs of people
+  flea_, laundry_, ffood_, mural_, plaza_, ride_, wonder_, skate_, rural_ (each _prompt): flea markets and auctions, laundromats and vending, fast food, murals and street art, fountains and plazas, amusement rides, waterfalls and natural wonders, skateparks and BMX, rural landmarks
+  dealer_prompt: drug dealers from lookouts and street dealers up to kingpins (visual only)
+  corg_prompt: crime organizations of the world as types and looks
+  gang_prompt: original gangs, serious, costumed, era, silly and good-deed, with their clothing, turf and poses; patrol_prompt: neighborhood patrols old and new
+  adera_prompt: advertising styles by decade back to the 1800s, then by century to ancient times, each with products of its day and made-up wording
+
+v118 adds:
+  bbq_, dessert_, candy_, cheese_, dinner_, waiter_, bartend_, hcook_, mishap_, fmarket_ (each _prompt): barbecues and grilling, desserts and pastries, chocolate and candy making, cheese shops and dairies, dinner parties and potlucks, waiters and table service, bartenders and cocktails, home cooking, kitchen mishaps and farmers' markets, low budget to luxury
+  fstate_prompt: food in every condition, from perfect to partly eaten, imperfect, failed, spoiled and dropped
+  fooddrink_all_prompt: every v118 food section together
+
+v119 adds:
+  makeup_, wig_, fragr_, nailart_ (each _prompt): makeup, wigs and hairpieces, perfume and fragrance, nail art, low budget to luxury
+  adorn_prompt: adornment from around the world worn by people (24 traditions) and body jewelry worn: face, ear and body piercings beyond traditional earrings
+  knit_, wood_, hatshop_, shoeshop_, optic_, fitting_ (each _prompt): knitting and needlecraft, woodworking, hat shops, shoe shops, opticians, bridal and suit fittings
+  rg_prompt: Rube Goldberg machines, simple to complex, with steps that fit together, shown whole, mid-run, close up or as diagrams, and their inventors
+  prank_prompt: practical jokes from traditional to crazy, set up, being set up, and sprung
+
+v120 adds:
+  pdesc_prompt (pdesc_legend_, pdesc_lost_, pdesc_ancestor_, pdesc_faith_): 102 legendary, historical, ancestral and scriptural peoples, each with short, medium and long detailed descriptions; the old peoples_ templates now use them (old lines kept)
+  sacred_prompt: the 18 gods and sacred figures with short, medium and long descriptions; the old leg_sacred_ templates now use them
+  newgod_prompt: a random new-god maker (domain, form, skin, eyes, attire, symbol, aura, mount, realm, worship), short, medium and long
+  cryptid_prompt: all 62 cryptids of the Wikipedia list, each with short, medium and long descriptions, in many photo and art styles
+  animal_people_prompt: farms and barnyards, dog parks, cat cafes, pet shops, vets, rodeos, stables, animal shelters, wildlife rescue, falconry and beekeeping
+  shows_prompt: circus, ice shows, art-circus spectacles, opera, theatre, orchestras, bands, solo players and stage traditions from around the world
+  vfx_prompt: vehicle special effects for underwater, water, land, air and space vehicles: speed, movement, force fields and beams
+
+v121 adds:
+  fspecies_prompt (fspecies_named_, fspecies_generic_, fspecies_look_): 100 franchise species from films, TV, games and books, each with its real name, a generic name, or look only, each short, medium and long
+  peoples_named_any (peoples_named_): the v112 named franchise peoples, now public
+  camv_prompt, camv_all_prompt: camera views through things (mouth, fingers, peephole, under a door, door ajar, keyhole, under a bed, windows and coverings from outside, bars, fences, chain link, masks, welder's masks, sunglasses and more); camv_vagina_prompt is the one adult view
+  lensf_prompt (lensf_cokin_, lensf_effect_): lens filters by Cokin name and code, and by effect, each short, medium and long; also added to photostyle_lens_filter
+  civind_prompt: courts, town halls, post offices, waterworks and sewers, power stations, steelworks, factories, shipyards and docks, mines and quarries, refineries, landfill and recycling
+  genre_vehicle_prompt (gveh_, cveh_): genre vehicles in 20 genres, a genre mix maker, and test and concept vehicles
+  hweap_prompt (hweap_, gweap_): home-made weapons and props from pretend play to expert workshop, and genre weapons; looks only
+
+v122 adds:
+  lensf_prompt (lensf_cokin_ck*, lensf_maker_ot_*, lensf_effect_*): every Cokin filter on the guide (172), plus 77 filters and lens tricks of other makers and kinds, each short, medium and long
+  rveh_prompt (rveh_named_, rveh_look_): 80 real concept and test vehicles, named and look-only
+  civind_prompt: now 27 civic and industrial kinds, adding fire stations, police stations, prisons, airports, railway yards, bus depots, cemeteries, breweries, mills, warehouses, print works, sawmills, brick and pottery works, glassworks, data centres and observatories
+  wgang_prompt (wgang_named_, wgang_look_): all 99 gangs of The Warriors, named and look-only
+  reldesc_prompt: 179 religious figures in short, medium and long detail; the old relig_ templates use them
+  more lines in the genre vehicle, weapon, camera view and franchise species lists
+
+v123 adds:
+  spt_prompt (spt_<sport>_scene_prompt, spt_<sport>_player_prompt): 183 sports, games and pastimes from around the world, short, medium and long
+  oldgames_prompt (byard_, dgame_, rgame_): backyard games, drinking games for adults, risky old games and stunts
+  tdev_prompt (tdev_named_, tdev_look_, tdev_genre_, tdev_new_): torture devices shown empty as objects, historical and new in 20 genres
+  luck_prompt (luck_): 106 lucky charms and superstitions
+  magic_all_prompt (cheat_, congame_, mtrick_, mage_): cheating devices, con games, stage magic tricks and illusions, magicians and assistants
+
+v124 adds:
+  anthro_prompt (anthro_char_prompt, anthro_world_prompt, anthro_group_prompt): anthropomorphic characters of 170 species (spc_) in short, medium and long, with how-human body levels, 12 art styles, 46 jobs, 30 outfits, poses, moods, 24 worlds and crowds
+  sat_all_prompt (sat_prompt, sat_works_prompt, sat_hunt_prompt, sat_trophy_prompt): the animal satire universe, a world run by animals who wear goods of human skin, hair and bone and keep humans as quarry, captives and pets (humans always unclothed)
+  alc_prompt (alc_bottle_, alc_glass_, alc_served_): 25 liquor containers including boxed and bagged wine, 32 drinks each served in its proper glasses, cups and mugs, cheap to luxury and every era
+  cig_prompt (cig_): cigarette packs with quoted brand names, cigarettes, cigars, pipes, vapes, hookahs and ashtrays
+  sdrug_any_prompt, sdrug_stash_prompt, sdrug_kit_prompt, sdrug_tourniquet_prompt (sdrug_): 17 substances shown in the forms people keep, store and prepare them, with their paraphernalia and injecting kits, realistic and clinical (needles shown as objects only)
+  intox_prompt (intox_): drunk people in five stages, people high on each substance, long-term users (some substances leave clear marks, others none), and poses for drinking, smoking and handling paraphernalia
+  people fixes: people aged 75 and over now range from ordinary and well-preserved to heavy and very fat (the deeply aged and frail look about 20%), and person prompt templates give about 40% women, 40% men and 20% androgynous people, the androgynous share split between she, he and they
+  showcase files now pick an image shape for each prompt, state placement, camera and light, and carry a small caption; SHOWCASE files highlight what is new or changed in this version, SAMPLE files are representative of everything the library can do
+
+v125 adds:
+  rec_body_prompt (rec_body_feature, _balance, _hold, _strength, _pose, _skill, rec_body_any): 1,000 world records of the body, from the longest fingernails to balancing, holding, pulling, lifting, poses and skills, shown as they happen
+  <item>_vis_medium and <item>_vis_long lists with new medium and long templates: sports, backyard, drinking and risky games, lucky charms, torture devices (named and look, always empty), real concept and test vehicles, concept vehicles, Warriors-style gangs, religious figures, lens filters, franchise species, camera views, legendary, lost and ancestral peoples, gods and sacred figures, cryptids, genre vehicles and homemade weapons; the new lines are also added to each item's own _medium and _long lists beside the old ones
+  <family>_full_prompt: fuller medium and long scene templates with described people (40/40/20 women, men and androgynous people) for 95 place and trade families and 31 more families from v114 to v122, added beside the old templates
+  wording: "This version of the place is" now reads "The location is"; identical twins are described once and their twin made an exact double; world record and contortionist lines show the action instead of a label
+  showcase and sample files use longer prompts (brief about 150, medium about 400, long 800 to 1,000 tokens) and no caption text in the image
+
+v126 adds:
+  trade_prompt (trade_<group>_prompt, trade_<trade>_prompt, trade_any): 280 trades in 13 groups (building, metal and fire, wood, cloth and leather, clay and glass, paper and print, food and drink, land and sea, industry, service, art and stage, historic and vanishing, and future, steampunk and fantasy), each with its tools, workplace, work half done, finished piece, hands at work, marks of the trade on the body and workwear, short, medium and long lines, and still life, workplace, person and scene prompts; trades the library already had people for also use those job_ lists
+  trade_moment_prompt: 20 moments at work, from a tea break and a first day to a retirement party and a picket line
+  home_life_prompt (home_act_prompt, home_style_prompt, home_obj_prompt): 114 home activities in 11 groups (morning, cooking, chores, repairs, garden, leisure, friends and family, moving, pets, evening, lived-in moments), 42 whole-home styles (18 eras from a medieval hall house to a space habitat and a steampunk townhouse, 24 regions from a Japanese machiya to a Soviet panel flat), and household objects in 10 kinds across 9 eras (home_obj_<kind>_<era>)
+  travel_prompt (travel_trip_, travel_stay_, travel_moment_, travel_look_, travel_landmark_): 41 trip types, 32 places to stay, 30 travel moments, 20 traveller looks and 100 named famous landmarks; the 30 religious and sacred landmarks are listed in travel_landmark_sacred_any and are kept out of the adult files
+  showcase files cover every v126 addition; SHOWCASE files highlight what is new or changed in this version, SAMPLE files are representative of everything the library can do
+
+v127 adds:
+  mg_prompt (mg_<style>, mg_mosaic_any, mg_illus_any, mg_mosaic_tradition_any, mg_glass_any, mg_glass_tradition_any): 89 mosaic, stained glass and leaded glass styles (36 mosaic artists, 8 mosaic-look illustrators, 22 mosaic traditions, 15 glass artists, 8 glass traditions), described by look only, with names in the file names
+  life_prompt (life_first_, life_baddate_, life_milestone_, life_dance_): 70 life moments (first times, bad dates, milestones, dances of the world), each with "something goes wrong" versions
+  adult_life_prompt (adult_l1_life_ to adult_l6_life_): burlesque across nine eras, fan, chair and lap dances, sex work across eras and places and a first night together, at adult levels 1 to 6; burlesque nudity keeps the genitals covered until something goes wrong
+  birth_prompt (birth_l1_ to birth_l4_): childbirth as a separate part at levels 1 to 4, never linked from the general lists or the public samples
+  coll_prompt (coll_<item>, coll_display, coll_moment_): 59 kinds of collection, 12 ways to display them and 14 collector moments
+  showcase files cover every v127 addition; SHOWCASE files highlight what is new or changed in this version, SAMPLE files are representative of everything the library can do
+
+v128 adds:
+  soc_prompt (soc_<society>, soc_named_<society>, soc_historic_any, soc_mystery_any, soc_criminal_any, soc_initiation_any, soc_hate_group_any, soc_random_prompt): 40 secret societies, look-only and named, with regalia, masks, meeting places, symbols as plain shapes, initiations, rituals, secret signs, password cards with quoted words, group gatherings and "something goes wrong" moments, plus a random society maker; the KKK and the Thule Society are shown without hate insignia
+  adult_soc_prompt (adult_l1_soc_ to adult_l6_soc_): masked secret society rituals at adult levels 1 to 6 for 31 societies; religions, youth initiations and hate groups stay out
+  alien_prompt (alien_named_<alien>, alien_generic_<alien>, alien_look_<alien>, alien_random_prompt): 98 aliens from films, TV, games, novels, graphic novels and cartoons in named, generic and look-only versions, with "something goes wrong" moments, plus a random alien maker
+  adult_alien_prompt (adult_l1_alien_ to adult_l6_alien_): 34 humanoid aliens at adult levels 1 to 6, look-only text
+  bones_prompt (bones_<item>, bones_skeleton_any, bones_skull_any, bones_scan_any, bones_print_any, bones_horn_any, bones_closeup_any): 117 skeletons, skulls and bones, X-rays, MRI, CT, ultrasound and thermal images, footprints and handprints, horns, antlers, tusks and teeth, and close-ups of feathers, fur, pelts, skin and scales
+  adult_bones_prompt (adult_l1_bones_ to adult_l6_bones_): X-ray-style, skeleton-overlay and thermal-camera nudes at adult levels 1 to 6
+  faith_prompt (faith_<faith>_garments, _objects, _places, _facilities, _practices, _dwelling, _divine, _afterlife; faith_indigenous_prompt, faith_cult_prompt, faith_extinct_prompt, faith_abrahamic_prompt, faith_dharmic_prompt, faith_east_asian_prompt, faith_modern_prompt): 405 religions, faiths and high-control groups from a world religions dataset, shown by look only (dress, sacred objects, places, buildings, rituals, the home of the divine, how the divine is shown, the afterlife); groups are named only in file names, faiths that restrict pictures of God or the Prophet are shown through symbols, places and dress, and child-focused groups, youth rites and child sacrifice are left out
+  showcase files cover every v128 addition; SHOWCASE files highlight what is new
+
+v129 adds:
+  faith_ slot lists (the v128 faith_<faith>_<group> files and faith_prompt now call them; 12,746 lists with 42,117 options in the final build): faith_pl_<place>_<slot> sacred places (416 lines, 2,972 lists), faith_ob_ sacred objects (405 lines, 1,802 lists), faith_gw_ garments and dress (271 lines, 1,410 lists), faith_pr_ practices and rites (367 lines plus 16 new lines, 1,803 lists), faith_fa_ buildings and facilities (298 lines, 1,968 lists), faith_dw_ homes of the divine (189 lines, 1,242 lists), faith_af_ afterlife (175 lines, 949 lists), faith_dv_ how the divine is shown (149 lines, 600 lists); every option a real, visible variant, every name and special term described, writing on things quoted from _words lists; lines shared by several faiths have one version per faith; options that stay out of public showcases sit in <key>_private lists (11 lists, 19 options; the showcase and sample writers never pick them)
+  faith_<faith>_dress, faith_<faith>_dress_<part> (132 lists, 528 options, 4 each): what the dress looks like, for the short garments lines that only named it; the faith prompts now read "in the dress and appearance of their faith," before the garments slot instead of "dressed in their traditional way"
+  text_ lists (82 new, 893 options): looks (text_look_neon, _marker, _chalk, _backlit, _print, _banner, _graffiti, _stitch, _headline, _engraved, _tattoo), words (signs, posters, banners, headlines, crests, tattoo and graffiti words, slogans and more) and local sign words in 47 languages and scripts (text_sign_<language>); used by the lines whose v97 words were put back
+  frame_around_it, frame_around_it_studio, _museum, _painting, _building, _food, _plenty, _panel (8 lists): "with space around it", "with room around it" or "with a margin of" the setting "around it", for objects, buildings, food and animals (976 lines in 845 files)
+  faith_ changes of approach since v128: rites, dress and art are shown clinically as they really were or are, sacrifice, self-wounding and real religious nudity included, with both forms where a rite or dress has more than one; events at sacred sites are shown; the Prophet and other figures some faiths do not picture appear only as historic art and manuscript pages show them; adults only, so rites of children and child victims stay out
+  body sets (bodyset_<set>_*, f_/m_/any_bodyset_<set>_ageLO_HI_body, f_/m_/any_ageLO_HI_prompt_char_physical_bodyset_<set>): 7 shapes (shape_obese, shape_overweight, shape_plump, shape_average, shape_thin, shape_underweight, shape_severely_underweight) and 3 types (type_feminine, type_masculine, type_androgynous, for every sex, never naming or changing the person's sex), about 12 builds per age group (young 18-44, middle 45-64, older 65+); makers f_create_random_woman_<set>, m_create_random_man_<set>, any_create_random_person_<set>, each with a _short form; 690 lists
+  f_ageLO_HI_age_years and m_ageLO_HI_age_years (16 lists): the age phrase with "her" or "his"; woman and man lines in 394 files now call them; person lines keep the shared "their" lists
+  adult_l1_cameltoe (50 lines): the clothing tag moved off the general women's clothing lists (199 lines in 67 lists), reached only through the adult files
+  life_other_person, life_parent_person: the second person in two-person life moments (35 lists show both people with their places in the frame)
+  fixes (no new names): people wording (about 7,600 lines: hair, eyes, skin, heterochromia, hairstyles, hips, undershirts; "An androgynous person." opener dropped in 78 files); adult ages for every person, guest, bystander, crowd and audience in a scene (about 2,350 lines) and adult school-uniform-style costumes (62 lines); framing (41,403 lines in 2,789 files: "In the middle of the frame" and "shown full length" replaced by feet near the bottom of the frame with ground below); torture devices described in full (451 lines); "Signs of use include" (1,422 location scenes); vehicles larger than a car have people in front of them; underwater breathing gear and floating hair and clothes; papakha by name only (103 lines); the v97 text words put back in 48,590 lines (2,307 files), 15,153 of them now with quoted, placed text; vehicle settings (40 vehicles; the Taylor Aerocar in road and flying forms, the Dynasphere at a show and on a beach); number ages for "in his prime" and reworded "like a" comparisons in the religion lines; women voladores, covered forms beside bare ones, carved and painted nude figures matched to the real artworks; Aksumite coin legends with the standard sigma (Σ); showcase and sample image shapes by who is in the picture
+  removed from the main package (moved to withdrawn, not deleted): afp_ awkward family photos (13 files, now their own zip, Guyanonymous' Awkward Family Photo Wildcards); camv_mouth, camv_mouth_short, _medium, _long, _subject, _vis_medium, _vis_long (7 files, the view from inside a mouth, for v130) and the 6 lines that called them; faith_pl_country_land, _water, _rock, _trees, _time (5 lists; their options live on in the new region lines); faith_ob_codexargenteus_words and faith_pr_gothicliturgy_words (quoted Gothic, now described as marks)
+  showcase files cover what v129 changed; SHOWCASE files highlight what is new or changed in this version, SAMPLE files are representative of everything the library can do
+
+v130 adds:
+  text_ lists (536 new lists, 4,608 options; 126 options added to name_headline, name_newspaper, name_magazine, loc_text_notice and text_look_engraved): the quoted words for small print and every other lettered line (badges, tags, labels, tickets, notices, plaques, book spines, headstones, invoices, receipts and more), with local words in 38 languages for places abroad; 10,635 distinct lines in about 5,640 files now call them, plus 348 lines through shared wording rules
+  text_rest_plain: "the rest of the sheet plain white" and the like, for printed things with space left over (empty space otherwise fills with made-up letters)
+  name_first_world, name_surname_world: first names and surnames from many peoples, Indigenous names of Canada and the US among them, for plaques, headstones, intercoms and maker's marks
+  breast_size (7 options: very small, nearly flat / small / medium / full, rounded / large, full / very large, heavy / extremely large, heavy): the sizes that tested best; every line of the 171 women's body lists (f_bt_*_prompt_char_body, f_bodyset_*_body) now says one of them; in 553 older lines the size word now comes first, shape words after
+  nude_mixed_group (3 tested forms): nude groups of women and men with both sexes' parts named; 9 group lines in 7 religion files call it
+  nude_genitals_any (their penis and scrotum / their vulva / their penis and labia visible): for 95 adult lines with an androgynous person or alien whose sex is not given
+  life_mishap_<setting> (18 lists: bathroom, beach, car, clifftop, grass, hall, office, partner_dance, plane_cabin, plane_door, pole, room, snow, solo_dance, stage, street, studio_chair, table): life-moment mishaps written out in full and naming only things found in that setting; 150 mishap lines, 90 new lists and 51 changed prompt lists in all, with relatives' ages by age band
+  trans and intersex body makers (13, named for what the body has, plain anatomy in every line, no sex or gender labels in the lines): f_create_random_trans_woman_body_breasts_penis_nude, _breasts_vulva_nude, _flat_chest_penis_nude; m_create_random_trans_man_body_flat_chest_vulva_nude, _binder_vulva_nude, _flat_chest_penis_nude, _breasts_vulva_nude; any_create_random_intersex_person_body_vulva_large_clitoris_nude, _small_penis_divided_scrotum_nude, _breasts_penis_nude, _vulva_and_small_penis_nude; m_create_random_intersex_man_body_xxy (clothed) and m_create_random_intersex_man_body_xxy_nude (the visible signs of XXY in four heights and builds); they call no-build copies of the short person makers (*_nobuild) so the body line alone sets the build
+  demo_body_trans_man_binder, demo_body_trans_man_topsurgery, demo_body_trans_man_binder_vulva: trans man bodies with a binder or with top surgery, never both
+  apparent_age (270 lists, renamed from _mismatched; 1,340 lines updated): the makers whose apparent age differs from the real age, for example any_create_random_androgynous_person_apparent_age, _apparent_age_bottomless, _apparent_age_bottomless_short
+  demo_cis_man_gay, demo_cis_woman_lesbian, demo_intersex_man_gay, demo_intersex_woman_lesbian, demo_trans_man_gay, demo_trans_man_own_path_gay, demo_trans_woman_lesbian, demo_trans_woman_own_path_lesbian (8 lists, renamed from _homosexual, every caller updated)
+  trope_healer_tradition (12 options): real healing traditions in their real dress, in place of the witch-doctor lines
+  sign_fascia_material: the materials a shop-front fascia is really made of (paint, wall paint, glass, metal, brass, enamel plate, neon)
+  faith_ changes of approach since v129: one real viewpoint per sacred place, place of worship, home of the divine, afterlife place and landmark option, each feature placed in the frame, features not seen from there moved to new lines (147 old lists retired); no "the whole place in view" ending; 318 real artwork names in the style options replaced by medium and look; 112 source citations replaced by what is shown; killings in real rites in two forms, shown plainly and clinically, or not shown
+  fixes (no new names): sex and gender labels and he/she out of 2,777 demo person and body lines and 780 older maker lines (bodies described plainly, older makers open "A person,"); sexual-orientation clauses out of 408 lines in 67 demo files; partner words a choice in 264 lines of the 9 demo_ctx_ lists ("their {husband|partner}"); 195 vague "ambiguous" faces now one of 12 defined faces; nude men "his penis and scrotum visible"; "Oriental", "gypsy", an old word for bundles of sticks, the "exotic" smoking room and the witch-doctor lines reworded (87 lines); 284 art and photo style lines worded as what is seen instead of "no ..." or "without ..."; flip-letter display boards, the bus-stop display panel, the bottle cap, fascia and billboard materials, plain surfaces on ephemera and painted-ad walls, quoted words on archival ads; the Holy See outside view and the Urartian blind door; Hong Kong text in traditional Chinese with English
+  removed from the main package (moved to withdrawn, not deleted): the LaRouche movement (20 files) and the files of 16 groups known for hate, violence or abuse, with every line that called them; the 270 old _mismatched and 8 old _homosexual list names (renamed, see above); 147 old religion slot lists replaced by the one-view lines
+  showcase files cover what v130 changed; SHOWCASE files highlight what is new or changed in this version, SAMPLE files are representative of everything the library can do
+
+v131 adds:
+  <list>_named (887 after-name copies of the person makers, for example f_create_random_woman_named): the same person descriptions written to read after a name ("Nancy is a woman, ... Her skin ..."); the old makers are unchanged. Prompts with two or more described people now name each person first and use the names for place, pose and action (life moments, the two-maker lines, pi_, grp_2_/grp_3_, group_, demo_ctx partners, faith and adult scenes); a line that picks a woman or a man at random is written twice, once for each
+  loc_drughouse_scene, loc_gang_scene, loc_bar_scene, loc_eatery_scene, loc_shop_scene, loc_mall_scene (86 places, each with four levels from seedy to affluent and its own room, fittings, gear, items and light lists), all joined into loc_scene; the drug house and gang ones also into loc_vice_scene
+  loc_vice_drug_* (35 drug places, four levels each: 7 opium dens, 7 morphine and heroin places, 8 cannabis shops and cafes, 13 growing places), in loc_vice_scene and loc_scene; real business names made up
+  fest_scene (66 festivals in the slot style, 25 of them invented; each fest_<name>_short, _medium, _long with its own region, era, setting, crowd, activity, costume, gear, stalls, mishaps and light lists)
+  dev_work_prompt, dev_work_closeup (36 devices, tools and machines shown at work)
+  vstate_prompt, vstate_closeup, vstate_woman, vstate_man (12 visible states, face first)
+  ill_prompt, ill_closeup, ill_woman, ill_man (6 visible illnesses)
+  mobuse_prompt, mobuse_closeup, mobuse_mishap, mobuse_woman, mobuse_man (11 mobility aids in use)
+  wxon_on, wxon_<weather>_on, wxon_prompt, wxon_closeup (19 weathers on hair, face and clothes; wxon_on goes after any person description)
+  evgrp_prompt, evgrp_work, evgrp_sport, evgrp_home, evgrp_travel, evgrp_couple, evgrp_group, evgrp_mishap, evgrp_designated, evgrp_named (20 everyday couple and group scenes)
+  hfclose_prompt, hfclose_hands, hfclose_feet, hfclose_mishap (20 close-ups of hands, feet and detail work)
+  bigthing_prompt, bigthing_vehicle, bigthing_structure, bigthing_inside, bigthing_mishap (20 very big things with people at their scale)
+  wetscene_prompt, wetscene_below, wetscene_surf, wetscene_flood, wetscene_rescue, wetscene_mer (20 water scenes: swimmers seen from below, surfers in the wave, flood wading, sea rescue, merfolk)
+  gift_prompt, gift_christmas_prompt, gift_birthday_prompt (31 new gift_ lists: papers by theme, boxes, shaped objects, bows, ribbons, quoted tags, opened and torn, wrapping scenes)
+  novelty_festivus_* (16 new lists: the pole, the Airing of Grievances with quoted lists, the dinner, the Feats of Strength, mishaps)
+  body_posture (50), body_posture_o (65): posture in its own lists, called by the full makers; height lists now hold height only
+  f_bt_<build>_<age>_musc_chest (27 lists): women's own chest lists (rib cage, breastbone and collarbones only)
+  intensifier (40), softener (24), degree_adverb (64): degree words for your own templates
+  loc_bus_asian_sign_text (5), loc_boardroom_jp_name_plate (6): the last two choice brackets as lists
+  fixes (no new names): body sets with stronger visible signs (480 lines in 72 lists); every build's body-area lists hold only wordings that fit that build (2,551 new wordings, 134,768 lines replaced in place, 200 fitting wordings per area); self-clashing body wordings rewritten (1,706 lines); 21 age-worded body wordings rewritten with physical detail (4,246 lines); breast_size in words and the US and Canada cup letter (AA to J), older size lines to the nearest words-and-cup form; hair_motion place and light tails dropped, facial-hair comparisons reworded (2,751 lines), beard, mustache and shave grooming lists; no {a|b} choice brackets anywhere (each choice its own line; 264 partner lines became 528); faith-tied and picture-word pool names swapped (14,829 lines); home-life ", with holding" lines (128), nude wording leftovers (13), three nude-women lines and 30 home-workout frame sentences
+  showcase files cover what v131 changed; SHOWCASE files highlight what is new or changed in this version, SAMPLE files are representative of everything the library can do

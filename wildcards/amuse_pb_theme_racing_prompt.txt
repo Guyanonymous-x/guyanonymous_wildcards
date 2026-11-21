@@ -1,0 +1,5 @@
+The picture shows the playfield of an invented pinball table with a motor racing theme under its glass, from the flippers at the bottom to the top arch. It is painted in __amuse_pb_art__ and has __amuse_pb_flippers__, __amuse_pb_bumpers__, __amuse_pb_ramps__ and a little race car on a spinning turntable.
+The picture shows the lit backbox of an invented pinball table with a motor racing theme, with "__name_game_title__" across the top of the backglass, the backglass painted in __amuse_pb_art__ with race cars crossing a finish line with a checkered flag in red and yellow, and __amuse_pb_display__.
+The picture shows __amuse_pb_theme_racing_long__ It stands in __arcade_place__.
+The picture shows __amuse_pb_theme_racing_medium__ It stands in __arcade_place__. A player __act_age__ __amuse_play_table__.
+The picture shows __amuse_pb_theme_racing_short__ It stands in __arcade_place__. A player __act_age__ __amuse_play_table__, just as __amuse_wrong_table__.

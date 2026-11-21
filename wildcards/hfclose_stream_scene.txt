@@ -1,0 +1,4 @@
+__hfclose_stream_short__
+__hfclose_stream_medium__
+__hfclose_stream_long__
+__hfclose_stream_mishap__

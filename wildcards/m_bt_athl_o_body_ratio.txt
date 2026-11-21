@@ -37,7 +37,7 @@ rounded proportions with shoulders wider than the hips
 inverted-triangle proportions with a defined waist
 broad shoulders tapering to a narrow waist (V-taper)
 sturdy proportions with a long waist
-barrel chest above a thick waist
+pear-shaped proportions with a straight waist
 even proportions with long legs for the torso
 boxy proportions with shorter legs for the torso
 slender proportions with a gently tapered waist
@@ -75,7 +75,7 @@ even proportions with shoulders wider than the hips
 sturdy proportions with a deep chest
 balanced proportions with a gently tapered waist
 short-torsoed proportions with a gentle curve to the lower back
-barrel chest above a thick waist
+pear-shaped proportions with hips wider than the shoulders
 narrow-shouldered proportions with a short waist
 even proportions with long legs for the torso
 shoulders and hips of equal width in a straight rectangular torso
@@ -92,7 +92,7 @@ balanced proportions with a straight waist
 narrow-hipped proportions with a gently tapered waist
 narrow-hipped proportions with shorter legs for the torso
 rounded proportions with a defined waist
-slightly shortened torso from age compression
+slightly shortened torso with the lower ribs sitting close to the hips
 straight boxy waist-to-hip ratio
 hourglass proportions with a gentle curve to the lower back
 slender proportions with shoulders wider than the hips
@@ -132,7 +132,7 @@ long-torsoed proportions with a flat back
 narrow-hipped proportions with a gentle curve to the lower back
 balanced proportions with a defined waist
 rectangular proportions with shoulders wider than the hips
-narrow weak shoulders with wide hips
+pear-shaped proportions with level shoulders and hips
 slender proportions with a defined waist
 slender proportions with level shoulders and hips
 rectangular proportions with a defined waist
@@ -221,7 +221,7 @@ straight proportions with a long waist
 athletic proportions with level shoulders and hips
 short-torsoed proportions with a defined waist
 slender proportions with a gentle curve to the lower back
-slightly shortened torso from age compression
+slightly shortened torso with the lower ribs sitting close to the hips
 hourglass proportions with a gently tapered waist
 rectangular proportions with a straight waist
 tapered proportions with a deep chest
@@ -272,7 +272,7 @@ balanced proportions with shorter legs for the torso
 even proportions with a short waist
 balanced proportions with a flat back
 long-torsoed proportions with level shoulders and hips
-narrow sloping shoulders with a soft rounded midsection
+pear-shaped proportions with long legs for the torso
 even proportions with a flat back
 straight proportions with a narrow chest
 balanced proportions with long legs for the torso
@@ -285,7 +285,7 @@ wide-shouldered proportions with a gently tapered waist
 boxy proportions with level shoulders and hips
 V-shaped proportions with shorter legs for the torso
 slender proportions with hips wider than the shoulders
-very wide waist exceeding the hips, heavy rounded torso
+pear-shaped proportions with shorter legs for the torso
 balanced proportions with long legs for the torso
 straight proportions with a narrow chest
 narrow-hipped proportions with a deep chest
@@ -346,7 +346,7 @@ slender balanced body proportions
 even proportions with a deep chest
 tapered proportions with long legs for the torso
 hourglass proportions with long legs for the torso
-heavy wide hip frame
+pear-shaped proportions with shoulders wider than the hips
 hourglass proportions with a long waist
 narrow-shouldered proportions with a long waist
 slender proportions with a short waist
@@ -416,7 +416,7 @@ V-shaped proportions with a straight waist
 boxy proportions with level shoulders and hips
 balanced proportions with a gentle curve to the lower back
 boxy proportions with a defined waist
-wide blocky waist ratio
+rounded proportions with hips wider than the shoulders
 V-shaped proportions with long legs for the torso
 broad shoulders with narrow hips
 narrow frame with minimal shoulder width
@@ -523,7 +523,7 @@ V-shaped proportions with level shoulders and hips
 slender balanced body proportions
 rounded proportions with a long waist
 square broad shoulder frame
-disproportionate heavy hips ratio
+rounded proportions with shoulders wider than the hips
 straight proportions with shoulders wider than the hips
 slender proportions with long legs for the torso
 rectangular proportions with a defined waist
@@ -555,7 +555,7 @@ slender proportions with a gently tapered waist
 narrow boxy body frame
 narrow-shouldered proportions with level shoulders and hips
 long-torsoed proportions with a deep chest
-wide blocky waist ratio
+thick neck and heavy trapezius slope over a boxy torso
 straight proportions with a flat back
 narrow-shouldered proportions with a short waist
 rectangular proportions with shorter legs for the torso
@@ -571,7 +571,7 @@ rectangular proportions with a defined waist
 narrow-hipped proportions with a short waist
 broad-hipped proportions with a gently tapered waist
 narrow-shouldered proportions with a long waist
-narrow shoulder with thick waist
+wide muscular shoulders over a thick solid waist
 short-torsoed proportions with a deep chest
 narrow-shouldered proportions with a gently tapered waist
 hourglass proportions with a gentle curve to the lower back
@@ -605,7 +605,7 @@ slender tapered waist ratio
 tapered proportions with a defined waist
 slender narrow shoulders and narrow hips
 narrow-hipped proportions with a short waist
-slightly shortened torso from age compression
+slightly shortened torso with the lower ribs sitting close to the hips
 straight proportions with a narrow chest
 V-shaped proportions with a long waist
 tapered proportions with a narrow chest
@@ -650,7 +650,7 @@ narrow-shouldered proportions with a gently tapered waist
 long-torsoed proportions with shorter legs for the torso
 narrow-hipped proportions with long legs for the torso
 narrow-shouldered proportions with level shoulders and hips
-narrow shoulder with thick waist
+V-shaped proportions with shoulders wider than the hips
 wide-shouldered proportions with level shoulders and hips
 balanced proportions with a long waist
 rounded proportions with a short waist
@@ -744,10 +744,10 @@ athletic proportions with a straight waist
 inverted-triangle proportions with shorter legs for the torso
 narrow-shouldered proportions with a long waist
 slender proportions with hips wider than the shoulders
-thick wide waist with narrow hips
+balanced proportions with hips wider than the shoulders
 slender proportions with shoulders wider than the hips
 sturdy proportions with hips wider than the shoulders
-slightly shortened torso from age compression
+slightly shortened torso with the lower ribs sitting close to the hips
 sturdy proportions with level shoulders and hips
 wide-shouldered proportions with a deep chest
 straight proportions with a gently tapered waist
@@ -762,7 +762,7 @@ inverted-triangle proportions with long legs for the torso
 V-shaped proportions with a deep chest
 wide-shouldered proportions with shoulders wider than the hips
 narrow-shouldered proportions with a straight waist
-slightly shortened torso from age compression
+slightly shortened torso with the lower ribs sitting close to the hips
 boxy proportions with a gently tapered waist
 boxy proportions with shoulders wider than the hips
 narrow-hipped proportions with a narrow chest
@@ -779,7 +779,7 @@ long legs with a shorter torso
 inverted-triangle proportions with a defined waist
 narrow-shouldered proportions with a flat back
 straight proportions with a straight waist
-wide-set shoulders with a heavy belly and slim legs
+balanced proportions with shoulders wider than the hips
 short-torsoed proportions with hips wider than the shoulders
 tapered proportions with a gently tapered waist
 slender narrow shoulders and narrow hips
@@ -838,7 +838,7 @@ square broad shoulder frame
 tapered proportions with a straight waist
 long-torsoed proportions with a narrow chest
 rectangular proportions with long legs for the torso
-slightly shortened torso from age compression
+slightly shortened torso with the lower ribs sitting close to the hips
 V-shaped proportions with a narrow chest
 broad shoulders with narrow hips
 V-shaped proportions with a gently tapered waist
@@ -860,7 +860,7 @@ broad-hipped proportions with level shoulders and hips
 hourglass proportions with shoulders wider than the hips
 V-shaped proportions with a flat back
 rectangular proportions with a deep chest
-thick wide waist with narrow hips
+boxy proportions with hips wider than the shoulders
 tapered proportions with a long waist
 narrow-shouldered proportions with a short waist
 narrow-hipped proportions with shoulders wider than the hips
@@ -886,13 +886,13 @@ rectangular proportions with a defined waist
 balanced proportions with shoulders wider than the hips
 short-torsoed proportions with a narrow chest
 tapered proportions with a flat back
-waist as wide as or wider than the hips, rounded torso
+boxy proportions with shoulders wider than the hips
 straight boxy waist-to-hip ratio
 straight proportions with hips wider than the shoulders
 inverted-triangle proportions with a gently tapered waist
 athletic proportions with a gentle curve to the lower back
 broad shoulders tapering to a narrow waist (V-taper)
-wide heavy lower body ratio
+broad muscular shoulders and wide hips
 tapered proportions with a flat back
 short-torsoed proportions with a flat back
 pronounced shoulder-to-waist ratio with a lean waist

@@ -1,0 +1,6 @@
+__camdev_hid_pen_short__
+__camdev_hid_pen_medium__
+__camdev_hid_pen_long__
+__camdev_hid_pen_mishap__
+__camdev_hid_pen_woman__
+__camdev_hid_pen_man__

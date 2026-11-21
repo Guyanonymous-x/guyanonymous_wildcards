@@ -1,0 +1,2 @@
+Guyanonymous' Wildcards v131 - names for every person in prompts with two or more people, 86 more places, 35 drug places, 66 festivals, nine new kinds of scene, body sets that fit every build, breast size in words and cup, and one line per choice instead of {a|b}
+Prompts  loc_scene, loc_vice_scene, loc_bar_scene, loc_shop_scene, fest_scene, dev_work_prompt, vstate_prompt, ill_prompt, mobuse_prompt, wxon_prompt, wxon_on, evgrp_prompt, hfclose_prompt, bigthing_prompt, wetscene_prompt, gift_prompt, <maker>_named, body_posture, intensifier, degree_adverb

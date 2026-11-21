@@ -45,7 +45,7 @@ stocky neck with visible tendons, from behind
 medium-length neck with a defined nape, from the front
 long neck with a slight curve, from the front
 narrow neck with a straight line
-thin neck set low on the shoulders, in profile
+strong neck with a slight curve, in profile
 wide-set neck from behind
 broad neck with soft contours, in profile
 thick neck with visible tendons, in profile
@@ -94,7 +94,7 @@ stocky neck held forward, from the front
 tall neck with soft contours, in profile
 medium-length neck carried tilted, in profile
 medium-length neck held upright
-delicate thin neck
+strong neck with a smooth line into the shoulders
 thick neck with visible tendons, from behind
 strong neck with visible tendons, from behind
 sturdy neck set low on the shoulders, from behind
@@ -112,7 +112,7 @@ broad neck with soft contours, from the front
 short neck with a gentle slope to the shoulders, in profile
 elegant neck with visible tendons
 thick neck set high on the shoulders, from behind
-thin neck from the front
+strong neck with a smooth line into the shoulders, from behind
 compact neck with a gentle slope to the shoulders, from the front
 broad neck with visible tendons, in profile
 tall neck carried tilted, from the front
@@ -123,7 +123,7 @@ swan-like neck from the front
 swan-like neck with a defined nape, in profile
 tall neck with soft contours, in profile
 graceful neck with a gentle slope to the shoulders, in profile
-thin neck with soft contours, from behind
+strong neck with a smooth line into the shoulders, in profile
 cylindrical neck with a straight line, in profile
 compact neck held forward, from behind
 stocky neck with a gentle slope to the shoulders, in profile
@@ -142,7 +142,7 @@ sturdy neck held forward, from the front
 long neck with a smooth line into the shoulders, in profile
 medium-length neck carried tilted, from behind
 cylindrical neck set high on the shoulders, in profile
-frail thin weak neck
+strong neck with a straight line, from the front
 sturdy neck set low on the shoulders, from behind
 short neck held forward
 compact neck carried tilted, from behind
@@ -164,7 +164,7 @@ slender neck with a slight curve
 thick neck with a gentle slope to the shoulders
 tapered neck set low on the shoulders, from behind
 short bent neck pushed forward by a curved upper spine
-thin neck with a slight curve, from behind
+strong neck with visible tendons, from behind
 short neck with a smooth line into the shoulders, from the front
 tapered neck held upright
 strong neck set low on the shoulders, from behind
@@ -262,7 +262,7 @@ compact neck with visible tendons
 stocky neck carried tilted, from the front
 sturdy neck with soft contours, in profile
 thick neck with a slight curve, in profile
-thin neck set low on the shoulders, from the front
+strong neck with visible tendons, in profile
 sturdy neck held upright, from behind
 thick neck held forward, in profile
 narrow neck set low on the shoulders
@@ -277,7 +277,7 @@ long neck with a slight curve, from the front
 long neck carried tilted, from the front
 sturdy neck with a gentle slope to the shoulders, from the front
 stocky neck from behind
-thin delicate neck frame
+compact neck with a defined nape
 stocky neck held forward, from the front
 thick neck held forward, in profile
 thick neck held forward, in profile
@@ -319,7 +319,7 @@ asymmetrical tilted neck
 graceful neck with soft contours, from the front
 tall neck from behind
 sturdy neck with soft contours, in profile
-thin neck set high on the shoulders, in profile
+compact neck with a defined nape, from the front
 graceful neck with a defined nape, in profile
 sturdy neck with a slight curve, from behind
 delicate neck set high on the shoulders
@@ -436,7 +436,7 @@ swan-like neck held upright, in profile
 graceful elongated neck
 narrow neck set low on the shoulders, in profile
 short squat neck fold
-slender frail neck
+delicate neck from the front
 tall neck held upright, in profile
 cylindrical neck held forward, in profile
 wide-set neck with a straight line, from behind
@@ -503,7 +503,7 @@ medium-length neck with soft contours
 cylindrical neck with a slight curve, from behind
 short stocky neck transition
 short stocky neck transition
-frail narrow neck
+delicate neck held forward, from the front
 long neck with a defined nape
 stocky neck with a defined nape
 broad neck with visible tendons, from behind
@@ -521,7 +521,7 @@ tall neck held upright
 asymmetrical tilted neck
 slender neck carried tilted, from behind
 wide-set neck with a smooth line into the shoulders, in profile
-extremely slender long neck
+delicate neck held upright, from the front
 broad neck with a gentle slope to the shoulders, from the front
 elegant neck set low on the shoulders, in profile
 cylindrical neck held forward, in profile
@@ -592,7 +592,7 @@ tall neck with visible tendons, from the front
 broad neck with a slight curve, in profile
 compact neck with soft contours, in profile
 elegant neck from behind
-long thin neck with prominent tendons
+delicate neck set high on the shoulders
 stocky neck held forward, from the front
 short compact neck
 wide-set neck held upright, in profile
@@ -639,7 +639,7 @@ graceful neck with a slight curve, in profile
 compact neck with a slight curve, from the front
 stocky neck set high on the shoulders, from the front
 graceful neck set high on the shoulders, in profile
-thin neck set low on the shoulders, from behind
+delicate neck set low on the shoulders, in profile
 tall neck with a smooth line into the shoulders, from the front
 short thick compressed neck
 wide-set neck held forward
@@ -774,7 +774,7 @@ medium-length neck with soft contours
 tapered neck with a slight curve, from behind
 thick neck held forward
 cylindrical neck with soft contours, from behind
-thin neck with a slight curve, from the front
+delicate neck with a slight curve, in profile
 wide-set neck with visible tendons, from behind
 cylindrical neck with soft contours, from behind
 tall neck set high on the shoulders, from behind
@@ -847,9 +847,9 @@ tall neck with visible tendons, from the front
 sturdy neck set high on the shoulders, from behind
 stocky neck held forward, from the front
 tall neck with soft contours, in profile
-extremely slender long neck
+delicate neck with a smooth line into the shoulders, in profile
 long neck with a defined nape, from behind
-thin neck held forward
+delicate neck with a straight line
 medium-length neck with visible tendons, in profile
 broad neck held forward, from behind
 swan-like neck carried tilted
@@ -885,11 +885,11 @@ stocky neck with a straight line, from behind
 wide-set neck carried tilted, from the front
 narrow neck with soft contours
 stocky neck carried tilted, from the front
-thin neck with a defined nape
+delicate neck with a straight line, from the front
 tapered neck set low on the shoulders, from the front
 long neck with a smooth line into the shoulders, in profile
 short squat neck fold
-thick muscular bull neck
+narrow neck with a defined nape
 broad heavy neck
 narrow neck with a straight line
 slender neck with a gentle slope to the shoulders, in profile
@@ -910,7 +910,7 @@ narrow neck with soft contours, from the front
 cylindrical neck with a straight line, in profile
 tall neck held forward
 graceful neck with soft contours, from the front
-thin neck set high on the shoulders, from the front
+short bent neck pushed forward by a curved upper spine
 long neck with a straight line, from the front
 elegant neck with visible tendons, from behind
 strong neck with a gentle slope to the shoulders, from behind
@@ -928,13 +928,13 @@ sturdy thick-set neck
 stocky neck set high on the shoulders, from the front
 compact neck with visible tendons
 thick neck with a smooth line into the shoulders, from the front
-thin neck with a smooth line into the shoulders, from the front
+slender neck with a defined nape
 broad neck held forward, from behind
 wide-set neck with soft contours, in profile
 short stocky neck transition
 wide-set neck with soft contours, in profile
 medium-length neck with a smooth line into the shoulders, in profile
-thin neck held upright
+slender neck with a smooth line into the shoulders, from behind
 medium-length neck set low on the shoulders, from the front
 long neck with a straight line, in profile
 cylindrical neck set high on the shoulders, in profile
@@ -988,7 +988,7 @@ very short thick neck largely hidden by the chin and shoulders
 compact neck held forward, in profile
 broad neck from the front
 strong neck with visible tendons, in profile
-thick muscular athletic neck
+strong neck carried tilted
 narrow neck with a smooth line into the shoulders, from the front
 compact neck set low on the shoulders, from behind
 swan-like neck with a smooth line into the shoulders, in profile
